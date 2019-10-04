@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_218po3052_NMD",
+  "case_key": "2:18po3052_NMD",
+  "case_lni": "5T34-VXT1-DXDT-G24T-00000-00",
+  "case_number": "2:18po3052",
+  "case_title": "USA v. Carmona-Luna",
+  "case_info_full_case_name": "USA v. Carmona-Luna",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carmona-Luna",
+  "case_date_filed": "2018-08-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Victor Alfonso Carmona-Luna",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325(a)(1) Illegal Entry Without Inspection"
+        },
+        {
+          "charge_offence_description": "8:1325(a)(1) Illegal Entry Without Inspection"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gregory J. Fouratt",
+          "judge_guid": "urn:entity:jud-100121351"
+        }
+      ]
+    }
+  ]
+}

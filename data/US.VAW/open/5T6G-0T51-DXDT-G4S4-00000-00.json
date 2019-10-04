@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_618cr15_VAWD",
+  "case_key": "6:18cr15_VAWD",
+  "case_lni": "5T6G-0T51-DXDT-G4S4-00000-00",
+  "case_number": "6:18cr15",
+  "case_title": "USA v. Gaines",
+  "case_info_full_case_name": "USA v. Gaines",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gaines",
+  "case_date_filed": "2018-09-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Harold Alexander Gaines, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES- 18:371-8/15/2018(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC.- 18:922(g)(1) and 2-2/26/2018(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F--Unlawful transport of firearms--18:922(g)(1)--(2017-8/15/2018); 18:371.F--Conspiracy to defraud the United States--18:371--(2017-8/15/2018)"
+        },
+        {
+          "charge_offence_description": "18:922G.F--Unlawful transport of firearms--18:922("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Norman K. Moon",
+          "judge_guid": "urn:entity:jud-100016061"
+        }
+      ]
+    }
+  ]
+}

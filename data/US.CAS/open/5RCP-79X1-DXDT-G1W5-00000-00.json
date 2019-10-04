@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr214_CASD",
+  "case_key": "3:18cr214_CASD",
+  "case_lni": "5RCP-79X1-DXDT-G1W5-00000-00",
+  "case_number": "3:18cr214",
+  "case_title": "USA v. Aleman",
+  "case_info_full_case_name": "USA v. Aleman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aleman",
+  "case_date_filed": "2018-01-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Blanca Quintero",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Esteban Aleman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:950,960 - Importation of a Controlled Substance (Felony)"
+        },
+        {
+          "charge_offence_description": "21:950,960 - Importation of a Controlled Substance"
+        },
+        {
+          "charge_description": "21:952, 960 - Importation of Fentanyl (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anthony J. Battaglia",
+          "judge_guid": "urn:entity:jud-100062115"
+        }
+      ]
+    }
+  ]
+}

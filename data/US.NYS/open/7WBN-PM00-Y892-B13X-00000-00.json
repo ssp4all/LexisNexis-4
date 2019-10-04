@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_103cr1040_nysd",
+  "case_key": "1:03cr1040_nysd",
+  "case_lni": "7WBN-PM00-Y892-B13X-00000-00",
+  "case_number": "1:03cr1040",
+  "case_title": "USA v. Nimberg",
+  "case_info_full_case_name": "USA v. Nimberg",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nimberg",
+  "case_date_filed": "2003-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERALD NIMBERG",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1956-4390.F"
+        },
+        {
+          "charge_description": "18:1956-4390.F MONEY LAUNDERING-EMBEZZLEMENT, OTHER (Conspiracy to Money Launder) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:373-0100.F"
+        },
+        {
+          "charge_description": "18:373-0100.F SOLICIT/COMMIT CRIME OF VIOLENCE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC373, 894: 18USC1956(h):"
+        },
+        {
+          "charge_description": "18 U.S.C. 373, 894: SOLICITATION TO COMMIT CRIME OF VIOLENCE; 18 U.S.C. 1956(h): CONSPIRACY TO LAUNDER MONEY. [1:03-m-1098]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Shira A. Scheindlin",
+          "judge_guid": "urn:entity:jud-100026921"
+        }
+      ]
+    }
+  ]
+}

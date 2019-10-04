@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_103m58_nhd",
+  "case_key": "1:03m58_nhd",
+  "case_lni": "7WBN-JGT0-Y892-B33W-00000-00",
+  "case_number": "1:03m58",
+  "case_title": "USA v. Thornton, 17 Stoning",
+  "case_info_full_case_name": "USA v. Thornton, 17 Stoning",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thornton, 17 Stoning",
+  "case_date_filed": "2003-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "17 STONINGTON RD ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James R. Muirhead",
+          "judge_guid": "urn:entity:jud-100003334"
+        }
+      ]
+    }
+  ]
+}

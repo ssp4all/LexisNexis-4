@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_107cr10046_ILCD",
+  "case_key": "1:07cr10046_ILCD",
+  "case_lni": "7WBN-JPC0-Y892-B2DN-00000-00",
+  "case_number": "1:07cr10046",
+  "case_title": "USA v. Gray",
+  "case_info_full_case_name": "USA v. Gray",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gray",
+  "case_date_filed": "2007-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sheila M Gray",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341.F 1996 11/06 1- 2- 3- 18USC1341"
+        },
+        {
+          "charge_description": "18:1341.F FRAUDS AND SWINDLES Starting in or about 1996 and continuing to in or about 11/06 at Lewistown in the CDIL, Dft knowingly devised and participated in a scheme and artifice to defraud and to obtain money and property by means of materially false and fraudulent pretenses: Count 1-[5/12/04] check for $259.00; Count 2-[8/11/05] check for $259.00; Count 3-[2/24/06] check for $259.00. In violation of 18 USC 1341 (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344A.F 4- 5- 6- 7- 8- 9- 18USC1344."
+        },
+        {
+          "charge_description": "18:1344A.F BANK FRAUD On or about the dates set forth below in the CDIL and elsewhere, Dft knowingly executed and attempted to execute a scheme and artifice to defraud a financial institution and to obtain moneys and funds owned by and under the control of the financial institution by means of false and fraudulent pretenses: Count 4-[5/15/02] check for $730.00; Count 5-[10/10/02] check for $835.18; Count 6-[7/1/03] check for $1038.00; Count 7-[4/30/04] check for $792.13; Count 8-[4/30/04] check for $1083.00; Count 9-[8/11/06] check for $1183.00. All in violation of 18 USC 1344. (4-9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael M. Mihm",
+          "judge_guid": "urn:entity:jud-100025878"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

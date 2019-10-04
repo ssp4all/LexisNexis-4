@@ -1,0 +1,94 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414cr214_AZD",
+  "case_key": "4:14cr214_AZD",
+  "case_lni": "5BDD-3FY1-DXDT-G2RW-00000-00",
+  "case_number": "4:14cr214",
+  "case_title": "USA v. Rhodes et al",
+  "case_info_full_case_name": "USA v. Rhodes et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rhodes et al",
+  "case_date_filed": "2014-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marlon Rhodes, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1791(a)(2), (b)(3), and (d)(1)(B) Possession of a prohibited object by an inmate: Marijuana(1)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the Bureau of Prisons for a term of THREE (3) MONTHS, with credit for time served, to run consecutive to the sentence he is serving in the United States Penitentiary, Tucson, Arizona, with credit for time served; placed on supervised release for a term of THREE (3) YEARS, to run concurrent with the supervised release he will serve following completion of time in custody; Special Assessment Remitted"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    },
+    {
+      "party_name": "Vanessa Nicole Camacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:844(a); Possession of Marijuana(1s)"
+        },
+        {
+          "charge_disposition": "Bureau of Prisons for TIME SERVED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:1791(a)(1), (b)(3), and (d)(1)(B) Providing a prohibited object to an inmate: Marijuana(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(A)(1) and (b)(1)(D) Possession with intent to distribute marijuana(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

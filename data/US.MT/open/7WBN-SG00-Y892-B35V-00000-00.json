@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_603cr25_mtd",
+  "case_key": "6:03cr25_mtd",
+  "case_lni": "7WBN-SG00-Y892-B35V-00000-00",
+  "case_number": "6:03cr25",
+  "case_title": "USA v. Barker",
+  "case_info_full_case_name": "USA v. Barker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barker",
+  "case_date_filed": "2003-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ELIZABETH BARKER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343.F 18:1343"
+        },
+        {
+          "charge_description": "18:1343.F FRAUD BY WIRE, RADIO, OR TELEVISION-transmit interstate by wire communication electronic filing of tax return and refund loan applicatn, in viol of 18:1343 (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Charles C. Lovell",
+          "judge_guid": "urn:entity:jud-100038651"
+        }
+      ]
+    }
+  ]
+}

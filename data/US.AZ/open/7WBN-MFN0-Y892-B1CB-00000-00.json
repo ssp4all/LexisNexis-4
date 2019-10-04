@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_299pt3_azd",
+  "case_key": "2:99pt3_azd",
+  "case_lni": "7WBN-MFN0-Y892-B1CB-00000-00",
+  "case_number": "2:99pt3",
+  "case_title": "USA v. Monreal-Pena",
+  "case_info_full_case_name": "USA v. Monreal-Pena",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Monreal-Pena",
+  "case_date_filed": "1999-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROCHELLE MONREAL-PENA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transporting Illegal Aliens"
+        },
+        {
+          "charge_disposition": "2/1/99: Defendant, Rochelle Monreal-Pena's supervised release is revoked. The defendant is committed to the custody of the Bureau of Prisons for a term of SIX and ONE HALF (6 1/2) MONTHS. RESTITUTION: $525.00 to BI Incorporated which is due immediately. Upon release from imprisonment, the defendant shall be placed on SUPERVISED RELEASE for a term of 24 MONTHS to be served consecutively to the imprisonment. (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert C Broomfield",
+          "judge_guid": "urn:entity:jud-100060648"
+        }
+      ]
+    }
+  ]
+}

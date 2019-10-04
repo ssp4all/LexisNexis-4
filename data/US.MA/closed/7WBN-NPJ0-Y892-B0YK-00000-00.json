@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_497m1705_mad",
+  "case_key": "4:97m1705_mad",
+  "case_lni": "7WBN-NPJ0-Y892-B0YK-00000-00",
+  "case_number": "4:97m1705",
+  "case_title": "USA, et al v. Ighile",
+  "case_info_full_case_name": "USA, et al v. Ighile",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Ighile",
+  "case_date_filed": "1997-09-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES IGHILE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708, 18:1028 (a)(3)"
+        },
+        {
+          "charge_description": "18:1708, 18:1028 (a)(3) Steal and take mail from authorized depository for mail matter and knowingly possessed with intent to use unlawfully five or more identification documents and false indentification documents."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "C. B. Swartwood, III",
+          "judge_guid": "urn:entity:jud-100055067"
+        }
+      ]
+    }
+  ]
+}

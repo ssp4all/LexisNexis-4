@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_315po115_OHSD",
+  "case_key": "3:15po115_OHSD",
+  "case_lni": "5FXM-75M1-DXDT-G4V4-00000-00",
+  "case_number": "3:15po115",
+  "case_title": "USA v. Edwards",
+  "case_info_full_case_name": "USA v. Edwards",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Edwards",
+  "case_date_filed": "2015-05-06",
+  "case_status": "Closed",
+  "case_status_date": "09/11/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kyle J Healey",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Drake A Edwards",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Disorderly Conduct (1089028)(1)"
+        },
+        {
+          "charge_disposition": "Disposition: US Attorney Request(NC)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sharon L. Ovington",
+          "judge_guid": "urn:entity:jud-100018020"
+        }
+      ]
+    }
+  ]
+}

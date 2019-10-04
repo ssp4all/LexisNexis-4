@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_303m1077_txwd",
+  "case_key": "3:03m1077_txwd",
+  "case_lni": "7WBN-H5R0-Y892-B4KB-00000-00",
+  "case_number": "3:03m1077",
+  "case_title": "USA v. Fernandez Garcia",
+  "case_info_full_case_name": "USA v. Fernandez Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fernandez Garcia",
+  "case_date_filed": "2003-03-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE ARMANDO FERNANDEZ GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "142"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 142 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

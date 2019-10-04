@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_205mj2064_ARWD",
+  "case_key": "2:05mj2064_ARWD",
+  "case_lni": "7WBN-R6N0-Y892-B4VF-00000-00",
+  "case_number": "2:05mj2064",
+  "case_title": "USA v. Tepozoltlan-Martinez",
+  "case_info_full_case_name": "USA v. Tepozoltlan-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tepozoltlan-Martinez",
+  "case_date_filed": "2005-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wendy L. Johnson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arnulfo Tepozoltlan-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a)(1) 1329"
+        },
+        {
+          "charge_description": "8:1325(a)(1) and 1329 UNLAWFUL ENTRY INTO UNITED STATES"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:1028(a)(4)"
+        },
+        {
+          "charge_description": "18:1028(a)(4) FRAUDULANT USE OF IDENTIFICATION DOCUMENTS"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Beverly"
+        }
+      ]
+    }
+  ]
+}

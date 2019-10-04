@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_519mj1091_FLMD",
+  "case_key": "5:19mj1091_FLMD",
+  "case_lni": "5WRG-K6Y1-DXDT-G0GV-00000-00",
+  "case_number": "5:19mj1091",
+  "case_title": "USA v. Reyes De La Cruz",
+  "case_info_full_case_name": "USA v. Reyes De La Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes De La Cruz",
+  "case_date_filed": "2019-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gonzalo Reyes De La Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B.F REENTRY OF DEPORTED ALIEN - FELONY (illegal re-entry by a previously deported alien)"
+        },
+        {
+          "charge_offence_description": "8:1326B.F REENTRY OF DEPORTED ALIEN - FELONY (ille"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Philip R. Lammens",
+          "judge_guid": "urn:entity:jud-500002926"
+        }
+      ]
+    }
+  ]
+}

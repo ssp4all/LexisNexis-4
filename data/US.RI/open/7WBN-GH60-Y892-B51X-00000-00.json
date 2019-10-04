@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.RI_199cr55_rid",
+  "case_key": "1:99cr55_rid",
+  "case_lni": "7WBN-GH60-Y892-B51X-00000-00",
+  "case_number": "1:99cr55",
+  "case_title": "USA v. Hne",
+  "case_info_full_case_name": "USA v. Hne",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hne",
+  "case_date_filed": "1999-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VICTOR D HNE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841 (a)(1) (b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841 (a)(1) and (b)(1)(A) INTENTIONALLY POSSESS WITH INTENT TO DISTRIBUTE COCAINE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE CRACK COCAINE [1:99-m-82]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ernest C. Torres",
+          "judge_guid": "urn:entity:jud-100006432"
+        }
+      ]
+    }
+  ]
+}

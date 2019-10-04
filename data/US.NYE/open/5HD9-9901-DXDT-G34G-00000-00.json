@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_215cr590_NYED",
+  "case_key": "2:15cr590_NYED",
+  "case_lni": "5HD9-9901-DXDT-G34G-00000-00",
+  "case_number": "2:15cr590",
+  "case_title": "USA v. Zabinsky",
+  "case_info_full_case_name": "USA v. Zabinsky",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zabinsky",
+  "case_date_filed": "2015-11-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Zabinsky",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(a)(1) and 846"
+        },
+        {
+          "charge_offence_description": "21:846 and 841(a)(1) and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joan M. Azrack",
+          "judge_guid": "urn:entity:jud-100071588"
+        }
+      ]
+    }
+  ]
+}

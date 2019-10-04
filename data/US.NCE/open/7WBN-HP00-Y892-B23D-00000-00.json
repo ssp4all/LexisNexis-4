@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_409mj1071_NCED",
+  "case_key": "4:09mj1071_NCED",
+  "case_lni": "7WBN-HP00-Y892-B23D-00000-00",
+  "case_number": "4:09mj1071",
+  "case_title": "USA v. Ray",
+  "case_info_full_case_name": "USA v. Ray",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ray",
+  "case_date_filed": "2009-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Eric A. Catto",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raquel A Ray",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Louise Wood Flanagan",
+          "judge_guid": "urn:entity:jud-100055778"
+        }
+      ]
+    }
+  ]
+}

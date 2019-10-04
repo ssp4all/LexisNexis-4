@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_209cr159_WAED",
+  "case_key": "2:09cr159_WAED",
+  "case_lni": "7X1N-S380-Y892-B361-00000-00",
+  "case_number": "2:09cr159",
+  "case_title": "USA v. Mancilla-Garcia",
+  "case_info_full_case_name": "USA v. Mancilla-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mancilla-Garcia",
+  "case_date_filed": "2009-11-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joaquin Mancilla-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326:"
+        },
+        {
+          "charge_description": "8 USC 1326: ALIEN IN U.S. AFTER DEPORTATION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lonny R. Suko",
+          "judge_guid": "urn:entity:jud-100019716"
+        }
+      ]
+    }
+  ]
+}

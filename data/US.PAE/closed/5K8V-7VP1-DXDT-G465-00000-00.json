@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_516cr293_PAED",
+  "case_key": "5:16cr293_PAED",
+  "case_lni": "5K8V-7VP1-DXDT-G465-00000-00",
+  "case_number": "5:16cr293",
+  "case_title": "USA v. FAGER",
+  "case_info_full_case_name": "USA v. FAGER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "FAGER",
+  "case_date_filed": "2016-07-21",
+  "case_status": "Closed",
+  "case_status_date": "05/21/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AMANDA R. REINITZ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "CHRISTINE E. SYKES",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "MICHELLE MORGAN"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SEAN FAGER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252(a)(1),(b)(1) and 2252(a)(4)(B),(b)(1) - TRANSPORTATION AND ATTEMPTED TRANSPORTATION, AND POSSESSION AND ATTEMPTED POSSESSION, OF CHILD PORNOGRAPHY"
+        },
+        {
+          "charge_offence_description": "18:2252(a)(1),(b)(1) and 2252(a)(4)(B),(b)(1) - TR"
+        },
+        {
+          "charge_description": "18:2251(a) and (e) and 2256(2)(A)(iv) and (v) - PRODUCTION OF CHILD PORNOGRAPHY AND 18:2 - AIDING AND ABETTING(1-2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 216 MONTHS; SUPERVISED RELEASE: LIFE; SPECIAL ASSESSMENT: $500"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252(a)(1),(b)(2) - TRANSPORTATION OF CHILD PORNOGRAPHY(3)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 216 MONTHS; SUPERVISED RELEASE: LIFE; SPECIAL ASSESSMENT: $500"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252(a)(4)(B),(b)(2) - POSSESSION OF CHILD PORNOGRAPHY AND 18:2 - AIDING AND ABETTING(4-5)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 216 MONTHS; SUPERVISED RELEASE: LIFE; SPECIAL ASSESSMENT: $500"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "JEFFREY L. SCHMEHL",
+          "judge_guid": "urn:entity:jud-100104532"
+        }
+      ]
+    }
+  ]
+}

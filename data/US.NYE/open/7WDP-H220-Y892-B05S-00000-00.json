@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_109mj818_NYED",
+  "case_key": "1:09mj818_NYED",
+  "case_lni": "7WDP-H220-Y892-B05S-00000-00",
+  "case_number": "1:09mj818",
+  "case_title": "USA v. Restrepo Perez",
+  "case_info_full_case_name": "USA v. Restrepo Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Restrepo Perez",
+  "case_date_filed": "2009-08-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Isidro Restrepo Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Viktor V. Pohorelsky",
+          "judge_guid": "urn:entity:jud-100032847"
+        }
+      ]
+    }
+  ]
+}

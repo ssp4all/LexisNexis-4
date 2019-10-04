@@ -1,0 +1,536 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_110cr623_NYED",
+  "case_key": "1:10cr623_NYED",
+  "case_lni": "805F-W5X0-Y892-B22J-00000-00",
+  "case_number": "1:10cr623",
+  "case_title": "USA v. Roldan et al",
+  "case_info_full_case_name": "USA v. Roldan et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Roldan et al",
+  "case_date_filed": "2010-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Alexander A. Solomon",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Brian D. Morris"
+    },
+    {
+      "attorney_name": "Claire S. Kedeshian",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rolando E. Roldan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F"
+        },
+        {
+          "charge_offence_description": "18:1349.F"
+        },
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1ss)"
+        },
+        {
+          "charge_disposition": "5 years probation; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CRIMINAL FORFEITURE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1s)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(6s)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(18ss)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    },
+    {
+      "party_name": "Hugo Leiva",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F"
+        },
+        {
+          "charge_offence_description": "18:1349.F"
+        },
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "8 months Incarceration; 3 years Supervised Release; $100 Special Assessment. Restitution of $716,914.00 joint and several. Rec. to BOP: Deft housed at Otisville Facility or as close to NYC Metro area as possible."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(4-5)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    },
+    {
+      "party_name": "Matthew Venezio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "5 years supervised release; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    },
+    {
+      "party_name": "Elias Compres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "30 months incarceration; 3 years supervised release; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(4)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(6)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(7)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(8-9)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(12)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    },
+    {
+      "party_name": "John Constantanides",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "5 years supervised release; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(13-15)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(17)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    },
+    {
+      "party_name": "Arturo Giraldo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "8 months incarceration; 3 years supervised release; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(5)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    },
+    {
+      "party_name": "Aaron Rabinowitz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(6)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(7)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(9-10)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(11)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(13-17)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(4)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    },
+    {
+      "party_name": "Matthew Burstein",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(4)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(6)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(7)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(9-10)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(11)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(13-14)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(15)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK FRAUD(16-17)"
+        },
+        {
+          "charge_disposition": "27 months incarceration; 3 years supervised release; $1100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    }
+  ]
+}

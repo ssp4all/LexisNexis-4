@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_317cr539_NJD",
+  "case_key": "3:17cr539_NJD",
+  "case_lni": "5R6F-NB71-DXDT-G19H-00000-00",
+  "case_number": "3:17cr539",
+  "case_title": "USA v. RIVERS",
+  "case_info_full_case_name": "USA v. RIVERS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "RIVERS",
+  "case_date_filed": "2017-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAMON RIVERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) &; 18:2 DISTRIBUTION OF COCAINE (do 8/11/2016)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) &; 18:2 DISTRIBUTION OF COCAINE (do 8/18/2016)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B) &; 18:2 DISTRIBUTION OF COCAINE BASE (do 8/25/2016)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B) &; 18:2 DISTRIBUTION OF COCAINE BASE (do 9/8/2016)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) KNOWINGLY AND INTENTIONALLY DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE A QUANTITY OF COCAINE &; COCAINE BASE, SCHEDULE II CONTROLLED SUBSTANCES"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(C) KNOWINGLY AND INTENTIONAL"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Peter G. Sheridan",
+          "judge_guid": "urn:entity:jud-100026470"
+        }
+      ]
+    }
+  ]
+}

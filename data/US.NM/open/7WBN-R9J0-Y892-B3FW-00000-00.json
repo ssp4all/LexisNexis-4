@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_208cr1047_NMD",
+  "case_key": "2:08cr1047_NMD",
+  "case_lni": "7WBN-R9J0-Y892-B3FW-00000-00",
+  "case_number": "2:08cr1047",
+  "case_title": "USA v. Lira-Jimenez",
+  "case_info_full_case_name": "USA v. Lira-Jimenez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lira-Jimenez",
+  "case_date_filed": "2008-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javier Lira-Jimenez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b),"
+        },
+        {
+          "charge_description": "8:1326(a) &; (b), RE-ENTRY OF A REMOVED ALIEN (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Reentry After Deportation, Convicted Felon"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Bruce D. Black",
+          "judge_guid": "urn:entity:jud-100068850"
+        }
+      ]
+    }
+  ]
+}

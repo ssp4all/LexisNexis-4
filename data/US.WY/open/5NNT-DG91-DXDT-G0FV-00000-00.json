@@ -1,0 +1,86 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_517po273_WYD",
+  "case_key": "5:17po273_WYD",
+  "case_lni": "5NNT-DG91-DXDT-G0FV-00000-00",
+  "case_number": "5:17po273",
+  "case_title": "USA v. Michel",
+  "case_info_full_case_name": "USA v. Michel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Michel",
+  "case_date_filed": "2017-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leigh A Michel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operate veh while under inf of alcohol to degree that renders op incapable (6537440)(1)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Possession of a controlled substance (6537441)(2)"
+        },
+        {
+          "charge_disposition": "1 year unsupervised probation, $400 fine, $10 special assessment, $30 fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Fail to crate, cage, leash or confine pet at all times (6537442)(3)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Violating a Provision of State law is prohibited- WS 31-4-103(b) No Liability Insurance (6537443)(4)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Carry/store open bottle/container containing alcoholic beverage (6537444)(5)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

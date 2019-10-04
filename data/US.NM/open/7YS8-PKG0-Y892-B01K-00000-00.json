@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_110mj1175_NMD",
+  "case_key": "1:10mj1175_NMD",
+  "case_lni": "7YS8-PKG0-Y892-B01K-00000-00",
+  "case_number": "1:10mj1175",
+  "case_title": "USA v. Leon",
+  "case_info_full_case_name": "USA v. Leon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leon",
+  "case_date_filed": "2010-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Alberto Leon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)and(b):RE-ENTRY"
+        },
+        {
+          "charge_description": "8:1326(a)and(b):RE-ENTRY OF A REMOVED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard L. Puglisi",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    }
+  ]
+}

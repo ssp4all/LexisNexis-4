@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_403m1201_txwd",
+  "case_key": "4:03m1201_txwd",
+  "case_lni": "7WBN-HJW0-Y892-B155-00000-00",
+  "case_number": "4:03m1201",
+  "case_title": "USA v. Nava-Diaz",
+  "case_info_full_case_name": "USA v. Nava-Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nava-Diaz",
+  "case_date_filed": "2003-10-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN CARLOS NAVA-DIAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326 (a)(1)"
+        },
+        {
+          "charge_description": "Violation of Title 8 USC 1326 (a)(1) &; (a)(2)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Durwood Edwards",
+          "judge_guid": "urn:entity:jud-100056691"
+        }
+      ]
+    }
+  ]
+}

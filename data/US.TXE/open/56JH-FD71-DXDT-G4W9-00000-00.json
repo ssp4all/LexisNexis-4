@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_212cr8_TXED",
+  "case_key": "2:12cr8_TXED",
+  "case_lni": "56JH-FD71-DXDT-G4W9-00000-00",
+  "case_number": "2:12cr8",
+  "case_title": "USA v. Gallardo-Simental",
+  "case_info_full_case_name": "USA v. Gallardo-Simental",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gallardo-Simental",
+  "case_date_filed": "2012-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Gallardo-Simental",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Rodney Gilstrap",
+          "judge_guid": "urn:entity:jud-100054625"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Roy S Payne",
+          "judge_guid": "urn:entity:jud-100012196"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_211cr5_MTD",
+  "case_key": "2:11cr5_MTD",
+  "case_lni": "5288-38P1-DXDT-G04P-00000-00",
+  "case_number": "2:11cr5",
+  "case_title": "USA v. Wilke",
+  "case_info_full_case_name": "USA v. Wilke",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wilke",
+  "case_date_filed": "2011-01-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael L. Wilke",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A. POSSESSION OF CHILD PORNOGRAPHY(1s)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the custody of the BOP for a term of 72 months. Court recommends residential sex offender treatment program and 500 hour residential drug treatment program. Supervised release for a period of 15 years. Once released defendant must report to U.S. Probation Office within 72 hours, no crimes, no firearms/ammunition/dangerous devices, no controlled substances including medical marijuana, DNA collection, comply with 15 standard conditions of supervised release. Special Conditions: substance abuse testing - not more than 365 UAs/BAs per year - pay costs, participate and complete in substance abuse treatment - pay costs, participate and complete sex offender treatment - pay costs, employment to be approved in advance and defendant must consent to 3rd party disclosure, without prior written approval: not be in the company of children under 18, not to date people with children under the age of 18, be near schools or other places frequented by children. No sexually explicit materials, entertainment, or 900 numbers, no computer or other device with access to internet, make computer available for inspection, allow software to be installed on computer to restrict/monitor access, no encryption software, provide records of passwords, service providers, and user identifications, sign releases for USPO to have access to records, comply with state sex offender registration, submit to searches with reasonable suspicion/warn others, no camera phones or devices that could be used for covert photography, no alcohol/bars, no police scanners or law enforcement tracking devices, no medical marijuana, no fine. Special assessment of $100.00 due and payable immediately. Forfeiture of Computer."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252A.F RECEIPT OF CHILD PORNOGRAPHY; FORFEITURE ALLEGATION(1)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice upon Motion of USA."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald W. Molloy",
+          "judge_guid": "urn:entity:jud-100004243"
+        }
+      ]
+    }
+  ]
+}

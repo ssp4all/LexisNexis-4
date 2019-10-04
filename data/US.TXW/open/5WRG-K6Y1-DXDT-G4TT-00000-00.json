@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_219mj8700_TXWD",
+  "case_key": "2:19mj8700_TXWD",
+  "case_lni": "5WRG-K6Y1-DXDT-G4TT-00000-00",
+  "case_number": "2:19mj8700",
+  "case_title": "USA v. Mejia-Ruiz",
+  "case_info_full_case_name": "USA v. Mejia-Ruiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mejia-Ruiz",
+  "case_date_filed": "2019-09-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Daniel Mejia-Ruiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1326(a)(1) Illegal Re-Entry after Deportation from the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1) Illegal Re-Entry after Deportatio"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Collis White",
+          "judge_guid": "urn:entity:jud-100022858"
+        }
+      ]
+    }
+  ]
+}

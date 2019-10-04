@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_305cr100_OHSD",
+  "case_key": "3:05cr100_OHSD",
+  "case_lni": "7WBN-MPC0-Y892-B516-00000-00",
+  "case_number": "3:05cr100",
+  "case_title": "USA v. Atwater",
+  "case_info_full_case_name": "USA v. Atwater",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Atwater",
+  "case_date_filed": "2005-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sonae Atwater",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC513 (a)"
+        },
+        {
+          "charge_description": "18 USC 513 (a) Securities of the States and Private Entities (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC513 (a)"
+        },
+        {
+          "charge_description": "18 USC 513 (a) SECURITES OF THE STATES AND PRIVATE ENTITIES (1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC513"
+        },
+        {
+          "charge_description": "18 USC 513 KNOWINGLY MAKE, UTTER, AND POSSESS FORGED SECURITIES OF AN ORGANIZATION WITH INTENT TO DECEIVE ANOTHER PERSON, ORGANIZATION, OR GOVERNMENT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Walter"
+        }
+      ]
+    }
+  ]
+}

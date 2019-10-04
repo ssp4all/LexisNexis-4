@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_217mj8226_KSD",
+  "case_key": "2:17mj8226_KSD",
+  "case_lni": "5PVM-WBG1-DXDT-G3M6-00000-00",
+  "case_number": "2:17mj8226",
+  "case_title": "USA v. McCraw",
+  "case_info_full_case_name": "USA v. McCraw",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCraw",
+  "case_date_filed": "2017-10-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ryan Charles McCraw",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Removal of arrested defendant to District of Colorado (18:2422(b)- Coercion and Enticement)."
+        },
+        {
+          "charge_offence_description": "Removal of arrested defendant to District of Color"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Teresa J. James",
+          "judge_guid": "urn:entity:jud-100106509"
+        }
+      ]
+    }
+  ]
+}

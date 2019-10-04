@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_113cr10313_MAD",
+  "case_key": "1:13cr10313_MAD",
+  "case_lni": "59PN-RXM1-DXDT-G4WN-00000-00",
+  "case_number": "1:13cr10313",
+  "case_title": "USA v. Mandracchia",
+  "case_info_full_case_name": "USA v. Mandracchia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mandracchia",
+  "case_date_filed": "2013-10-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Stephen E. Frank",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Meredith A. Mandracchia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "WIRE FRAUD(1)"
+        },
+        {
+          "charge_disposition": "12 months and one day custody, no fine, $230,341.61 restitution, $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mark L. Wolf",
+          "judge_guid": "urn:entity:jud-100021893"
+        }
+      ]
+    }
+  ]
+}

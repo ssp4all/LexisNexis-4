@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_416cr120_OKND",
+  "case_key": "4:16cr120_OKND",
+  "case_lni": "5KVK-WN11-DXDT-G4C9-00000-00",
+  "case_number": "4:16cr120",
+  "case_title": "USA v. Mejia Osornio",
+  "case_info_full_case_name": "USA v. Mejia Osornio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mejia Osornio",
+  "case_date_filed": "2016-10-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Mejia Osornio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2)-FELON IN POSSESSION OF FIREARM AND AMMUNITION(3)"
+        },
+        {
+          "charge_disposition": "BOP-Time served; $100 SMA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a)-REENTRY OF REMOVED ALIEN(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(5)(A) and 924(a)(2)-ALIEN UNLAWFULLY IN THE UNITED STATES IN POSSESSION OF A FIREARM AND AMMUNITION(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. 922(g)(1) Felon in Possession of a Firearm and Ammunition and 18 U.S.C. 922(g)(5) Illegal Alien in Possession of a Firearm"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. 922(g)(1) Felon in Possession of a Firea"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John E Dowdell",
+          "judge_guid": "urn:entity:jud-100104545"
+        }
+      ]
+    }
+  ]
+}

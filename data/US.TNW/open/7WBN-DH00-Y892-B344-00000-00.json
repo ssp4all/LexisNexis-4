@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_103m4_tnwd",
+  "case_key": "1:03m4_tnwd",
+  "case_lni": "7WBN-DH00-Y892-B344-00000-00",
+  "case_number": "1:03m4",
+  "case_title": "USA v. Bradley",
+  "case_info_full_case_name": "USA v. Bradley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bradley",
+  "case_date_filed": "2003-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AMOS M. BRADLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:3.P"
+        },
+        {
+          "charge_description": "16:3.P NATIONAL PARK/RECREATION VIOLATIONS-attempt to take wildlife, use of firearm in park, driving on expired license, destroying wildlife (1-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    }
+  ]
+}

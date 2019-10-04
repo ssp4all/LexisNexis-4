@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_213cr20006_KSD",
+  "case_key": "2:13cr20006_KSD",
+  "case_lni": "57M5-HNB1-DXDT-G4V4-00000-00",
+  "case_number": "2:13cr20006",
+  "case_title": "USA v. Partee",
+  "case_info_full_case_name": "USA v. Partee",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Partee",
+  "case_date_filed": "2013-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Jabari B. Wamble",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ronald E. Partee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1956(h) - Conspiracy to commit money laundering. (INFORMATION FILED 1/29/13)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(a)(3)(B) - Money Laundering and 18:2 Aiding and abetting. (INFORMATION FILED 1/29/13)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Carlos Murguia",
+          "judge_guid": "urn:entity:jud-100015503"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James P. O'Hara",
+          "judge_guid": "urn:entity:jud-100025546"
+        }
+      ]
+    }
+  ]
+}

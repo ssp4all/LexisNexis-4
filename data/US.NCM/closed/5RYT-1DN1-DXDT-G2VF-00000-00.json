@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_118cr107_NCMD",
+  "case_key": "1:18cr107_NCMD",
+  "case_lni": "5RYT-1DN1-DXDT-G2VF-00000-00",
+  "case_number": "1:18cr107",
+  "case_title": "USA v. HA",
+  "case_info_full_case_name": "USA v. HA",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "HA",
+  "case_date_filed": "2018-03-27",
+  "case_status": "Closed",
+  "case_status_date": "10/29/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JOHN M. ALSUP",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KJUDA [NMN] HA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2); Felon in possession of a firearm and ammunition(1)"
+        },
+        {
+          "charge_disposition": "Seventy-eight (78) months imprisonment, Three (3) years supervised release, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "THOMAS D. SCHROEDER",
+          "judge_guid": "urn:entity:jud-100026777"
+        }
+      ]
+    }
+  ]
+}

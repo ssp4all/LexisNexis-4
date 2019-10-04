@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_393m280_ohsd",
+  "case_key": "3:93m280_ohsd",
+  "case_lni": "7WBN-RW50-Y892-B506-00000-00",
+  "case_number": "3:93m280",
+  "case_title": "USA v. Nesbitt",
+  "case_info_full_case_name": "USA v. Nesbitt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nesbitt",
+  "case_date_filed": "1993-07-07",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "James Albert Wilson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAYMOND C NESBITT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "#V421653/OS52 2/3/93 6mos/$50/SA:"
+        },
+        {
+          "charge_description": "Violation #V421653/OS52 issued 2/3/93 Parking in emergency vahicle spaces (fire lane) 6mos/$50/SA: $10"
+        },
+        {
+          "charge_disposition": "7/7/93: Fine $25; SA: suspended (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Michael Merz",
+          "judge_guid": "urn:entity:jud-100025999"
+        }
+      ]
+    }
+  ]
+}

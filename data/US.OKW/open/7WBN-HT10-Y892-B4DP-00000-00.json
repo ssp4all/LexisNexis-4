@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_501cr72_okwd",
+  "case_key": "5:01cr72_okwd",
+  "case_lni": "7WBN-HT10-Y892-B4DP-00000-00",
+  "case_number": "5:01cr72",
+  "case_title": "USA v. Stephens, et al",
+  "case_info_full_case_name": "USA v. Stephens, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stephens, et al",
+  "case_date_filed": "2001-04-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEE O STEPHENS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO TAKE AND CARRY AWAY FROM A VEHICLE GOODS AND CHATTELS MOVING AS OR PART OF AN INTERSTATE SHIPMENT OF FREIGHT WITH INTENT TO CONVERT TO OWN USE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ralph G. Thompson",
+          "judge_guid": "urn:entity:jud-100019062"
+        }
+      ]
+    },
+    {
+      "party_name": "BILLY G LOUDERMILK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO TAKE AND CARRY AWAY FROM A VEHICLE GOODS AND CHATTELS MOVING AS OR PART OF AN INTERSTATE SHIPMENT OF FREIGHT WITH INTENT TO CONVERT TO OWN USE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ralph G. Thompson",
+          "judge_guid": "urn:entity:jud-100019062"
+        }
+      ]
+    },
+    {
+      "party_name": "TIMOTHY TYRONE ROCKWELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO TAKE AND CARRY AWAY FROM A VEHICLE GOODS AND CHATTELS MOVING AS OR PART OF AN INTERSTATE SHIPMENT OF FREIGHT WITH INTENT TO CONVERT TO OWN USE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ralph G. Thompson",
+          "judge_guid": "urn:entity:jud-100019062"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_305mj796_SCD",
+  "case_key": "3:05mj796_SCD",
+  "case_lni": "7WBN-RR30-Y892-B480-00000-00",
+  "case_number": "3:05mj796",
+  "case_title": "USA v. Yarborough et al",
+  "case_info_full_case_name": "USA v. Yarborough et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yarborough et al",
+  "case_date_filed": "2005-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jonathan Dwayne Yarborough",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F Conspiracy to distribute cocaine"
+        }
+      ]
+    },
+    {
+      "party_name": "Steven Curtis McCants",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F Conspiracy to distribute cocaine"
+        }
+      ]
+    },
+    {
+      "party_name": "Stanly Rosevelt Dove",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F Conspiracy to distribute cocaine"
+        }
+      ]
+    }
+  ]
+}

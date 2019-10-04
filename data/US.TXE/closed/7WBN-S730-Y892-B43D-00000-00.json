@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_497cr84_txed",
+  "case_key": "4:97cr84_txed",
+  "case_lni": "7WBN-S730-Y892-B43D-00000-00",
+  "case_number": "4:97cr84",
+  "case_title": "USA v. Gunset",
+  "case_info_full_case_name": "USA v. Gunset",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gunset",
+  "case_date_filed": "1997-11-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CAREY LANE GUNSET",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:5861D.F"
+        },
+        {
+          "charge_description": "26:5861D.F UNLAWFUL TO RECEIVE A FIREARM NOT REGISTERED (2)"
+        },
+        {
+          "charge_disposition": "Sixty months custody followed by three years supervised release (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howell Cobb",
+          "judge_guid": "urn:entity:jud-100048177"
+        }
+      ]
+    }
+  ]
+}

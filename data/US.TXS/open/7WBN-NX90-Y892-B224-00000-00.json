@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_505mj765_TXSD",
+  "case_key": "5:05mj765_TXSD",
+  "case_lni": "7WBN-NX90-Y892-B224-00000-00",
+  "case_number": "5:05mj765",
+  "case_title": "USA v. Herrada-Herrera",
+  "case_info_full_case_name": "USA v. Herrada-Herrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Herrada-Herrera",
+  "case_date_filed": "2005-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "David Omar Herrada-Herrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        },
+        {
+          "judge_title": "Visiting Magistrate",
+          "judge_name": "Lance M Africk",
+          "judge_guid": "urn:entity:jud-100053116"
+        }
+      ]
+    }
+  ]
+}

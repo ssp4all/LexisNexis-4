@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_219cr835_AZD",
+  "case_key": "2:19cr835_AZD",
+  "case_lni": "5WK2-FHV1-DXDT-G06G-00000-00",
+  "case_number": "2:19cr835",
+  "case_title": "USA v. Little",
+  "case_info_full_case_name": "USA v. Little",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Little",
+  "case_date_filed": "2019-07-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ryan Donald Powell",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Veryl Little",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:111(a)(1) and (b) - Assault on a Federal Officer Resulting in Bodily Injury(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:111(a) and (b) - Assault, Resist, Oppose, Impede, Intimidate, or Interfere With a Federal Officer/Employee Engaged in the Performance of Official Duties"
+        },
+        {
+          "charge_offence_description": "18:111(a) and (b) - Assault, Resist, Oppose, Imped"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Diane J Humetewa",
+          "judge_guid": "urn:entity:jud-100107092"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_218po148_VAED",
+  "case_key": "2:18po148_VAED",
+  "case_lni": "5S7M-XJD1-DXDT-G1RG-00000-00",
+  "case_number": "2:18po148",
+  "case_title": "USA vs Mcclelon",
+  "case_info_full_case_name": "USA vs Mcclelon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mcclelon",
+  "case_date_filed": "2018-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Alexandria J Mcclelon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING WO OPERATOR'S LICENSE-DRIVING WO VALID OPERATOR'S LICENSE (7254133)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

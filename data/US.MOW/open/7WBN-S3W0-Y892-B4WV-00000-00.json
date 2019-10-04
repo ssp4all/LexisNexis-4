@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_406mj58_MOWD",
+  "case_key": "4:06mj58_MOWD",
+  "case_lni": "7WBN-S3W0-Y892-B4WV-00000-00",
+  "case_number": "4:06mj58",
+  "case_title": "USA v. Lindsay",
+  "case_info_full_case_name": "USA v. Lindsay",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lindsay",
+  "case_date_filed": "2006-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bobby D Lindsay",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "22 #RG10, 298505, 18USCs 922(g)(1)"
+        },
+        {
+          "charge_description": "Defendant did knowingly possess, in and affecting commerce, a firearm, to wit: a Liberty Arms, 22 caliber revolver, Model #RG10, serial number 298505, which had been transported in interstate commerce in violation of Title 18, United States Code, Sections 922(g)(1) and 924(a)(2)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert E. Larsen",
+          "judge_guid": "urn:entity:jud-100035550"
+        }
+      ]
+    }
+  ]
+}

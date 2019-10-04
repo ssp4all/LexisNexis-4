@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B06mj9157_KSD",
+  "case_key": "B:06mj9157_KSD",
+  "case_lni": "7WBN-SN60-Y892-B0S6-00000-00",
+  "case_number": "B:06mj9157",
+  "case_title": "USA v. Trammel",
+  "case_info_full_case_name": "USA v. Trammel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trammel",
+  "case_date_filed": "2006-05-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Catherine N Trammel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 THEFT/EMBEZZLEMENT OF U. S. PROPERTY (Information [5/4/06]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Donald W. Bostwick",
+          "judge_guid": "urn:entity:jud-100064663"
+        }
+      ]
+    }
+  ]
+}

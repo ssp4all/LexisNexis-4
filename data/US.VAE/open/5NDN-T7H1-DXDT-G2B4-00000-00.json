@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117po1004_VAED",
+  "case_key": "1:17po1004_VAED",
+  "case_lni": "5NDN-T7H1-DXDT-G2B4-00000-00",
+  "case_number": "1:17po1004",
+  "case_title": "USA vs Moser",
+  "case_info_full_case_name": "USA vs Moser",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moser",
+  "case_date_filed": "2017-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anastasia D Moser",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO MAINTAIN CONTROL OF MOTOR VEHICLE TO AVOID PERSONS,PROPERTY,WILDLIFE (6588344)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

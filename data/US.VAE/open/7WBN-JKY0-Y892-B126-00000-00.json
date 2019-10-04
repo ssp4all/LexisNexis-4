@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_105cr497_VAED",
+  "case_key": "1:05cr497_VAED",
+  "case_lni": "7WBN-JKY0-Y892-B126-00000-00",
+  "case_number": "1:05cr497",
+  "case_title": "USA v. Hawkins",
+  "case_info_full_case_name": "USA v. Hawkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hawkins",
+  "case_date_filed": "2005-11-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jamal Timothy Hawkins",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Leonie M. Brinkema",
+          "judge_guid": "urn:entity:jud-100060738"
+        }
+      ]
+    }
+  ]
+}

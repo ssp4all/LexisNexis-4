@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319cr270_CASD",
+  "case_key": "3:19cr270_CASD",
+  "case_lni": "5V8D-GYD1-DXDT-G049-00000-00",
+  "case_number": "3:19cr270",
+  "case_title": "USA v. Aguirre",
+  "case_info_full_case_name": "USA v. Aguirre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguirre",
+  "case_date_filed": "2019-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ryan A. Sausedo",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Armando Aguirre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952, 960 - Importation of a Controlled Substance (Felony)"
+        },
+        {
+          "charge_offence_description": "21:952, 960 - Importation of a Controlled Substanc"
+        },
+        {
+          "charge_description": "21:952,960 - Importation of Heroin (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas J. Whelan",
+          "judge_guid": "urn:entity:jud-100017364"
+        }
+      ]
+    }
+  ]
+}

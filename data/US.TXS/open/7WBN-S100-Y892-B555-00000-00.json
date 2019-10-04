@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_401cr311_txsd",
+  "case_key": "4:01cr311_txsd",
+  "case_lni": "7WBN-S100-Y892-B555-00000-00",
+  "case_number": "4:01cr311",
+  "case_title": "USA v. Richardson",
+  "case_info_full_case_name": "USA v. Richardson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Richardson",
+  "case_date_filed": "2001-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Marshal - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CEDRIC RICHARDSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 2 5 40 4"
+        },
+        {
+          "charge_description": "21:841A=CD.F COCAINE BASE-SELL, DISTRIBUTE, OR DISPENSE 2 GRAMS OR MORE. Penalty: 5 to 40 yrs. $2,000,000 fine. 4 yrs SRT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Melinda Harmon",
+          "judge_guid": "urn:entity:jud-100035234"
+        }
+      ]
+    }
+  ]
+}

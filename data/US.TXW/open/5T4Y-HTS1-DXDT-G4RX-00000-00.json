@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_218cr1807_TXWD",
+  "case_key": "2:18cr1807_TXWD",
+  "case_lni": "5T4Y-HTS1-DXDT-G4RX-00000-00",
+  "case_number": "2:18cr1807",
+  "case_title": "USA v. Ramos-Noriega",
+  "case_info_full_case_name": "USA v. Ramos-Noriega",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos-Noriega",
+  "case_date_filed": "2018-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jonathan Otoniel Ramos-Noriega",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B2.F IMMIGRATION, REENTRY OF REMOVED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1) Illegal re-entry after deportation from the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1) Illegal re-entry after deportatio"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

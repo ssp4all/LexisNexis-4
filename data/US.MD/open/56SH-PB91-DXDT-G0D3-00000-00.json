@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_812po13557_MDD",
+  "case_key": "8:12po13557_MDD",
+  "case_lni": "56SH-PB91-DXDT-G0D3-00000-00",
+  "case_number": "8:12po13557",
+  "case_title": "USA vs Watson",
+  "case_info_full_case_name": "USA vs Watson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Watson",
+  "case_date_filed": "2012-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Debra Y Watson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING VIOLATION OR MISCELLANEOUS OFFENSE (3716275)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

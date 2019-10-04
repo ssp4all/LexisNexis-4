@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_217mj217_TXWD",
+  "case_key": "2:17mj217_TXWD",
+  "case_lni": "5MKS-3ND1-DXDT-G1CH-00000-00",
+  "case_number": "2:17mj217",
+  "case_title": "USA v. Luna-Hortelano",
+  "case_info_full_case_name": "USA v. Luna-Hortelano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Luna-Hortelano",
+  "case_date_filed": "2017-01-10",
+  "case_status": "Closed",
+  "case_status_date": "01/11/2017",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sidronio Luna-Hortelano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        },
+        {
+          "charge_offence_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

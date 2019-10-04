@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415po20339_AZD",
+  "case_key": "4:15po20339_AZD",
+  "case_lni": "5F2P-2HM1-DXDT-G3VW-00000-00",
+  "case_number": "4:15po20339",
+  "case_title": "USA v. Diego-Diego",
+  "case_info_full_case_name": "USA v. Diego-Diego",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diego-Diego",
+  "case_date_filed": "2015-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wilbert L Rocker",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramon Diego-Diego",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

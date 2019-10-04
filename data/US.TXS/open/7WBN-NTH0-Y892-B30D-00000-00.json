@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_501m933_txsd",
+  "case_key": "5:01m933_txsd",
+  "case_lni": "7WBN-NTH0-Y892-B30D-00000-00",
+  "case_number": "5:01m933",
+  "case_title": "USA v. Uvaldo-Medina",
+  "case_info_full_case_name": "USA v. Uvaldo-Medina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Uvaldo-Medina",
+  "case_date_filed": "2001-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS UVALDO-MEDINA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and willingly re-entered the U.S. after having been previously denied admission, excluded, deported, or removed, or has departed the U.S. while an order or exclusion, deportation or removal is outstanding."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

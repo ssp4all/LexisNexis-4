@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_196m3385_flsd",
+  "case_key": "1:96m3385_flsd",
+  "case_lni": "7WBN-K4P0-Y892-B1C4-00000-00",
+  "case_number": "1:96m3385",
+  "case_title": "USA v. Fabre",
+  "case_info_full_case_name": "USA v. Fabre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fabre",
+  "case_date_filed": "1996-09-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERARD FABRE",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_description": "IMPORT/POSSESSION WITH INTENT TO DISTRIBUTE COCAINE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert L. Dube",
+          "judge_guid": "urn:entity:jud-100056983"
+        }
+      ]
+    }
+  ]
+}

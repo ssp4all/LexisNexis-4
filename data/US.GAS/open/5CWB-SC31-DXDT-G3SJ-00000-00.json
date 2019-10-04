@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_114cr82_GASD",
+  "case_key": "1:14cr82_GASD",
+  "case_lni": "5CWB-SC31-DXDT-G3SJ-00000-00",
+  "case_number": "1:14cr82",
+  "case_title": "USA v. Bush",
+  "case_info_full_case_name": "USA v. Bush",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bush",
+  "case_date_filed": "2014-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {},
+    {},
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Shequita Bush",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Randal Hall",
+          "judge_guid": "urn:entity:jud-100041892"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brian K. Epps",
+          "judge_guid": "urn:entity:jud-100104122"
+        }
+      ]
+    }
+  ]
+}

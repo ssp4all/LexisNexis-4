@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_311mj250_CTD",
+  "case_key": "3:11mj250_CTD",
+  "case_lni": "540D-TSD1-DXDT-G46D-00000-00",
+  "case_number": "3:11mj250",
+  "case_title": "USA v. Le",
+  "case_info_full_case_name": "USA v. Le",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Le",
+  "case_date_filed": "2011-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Xuan Thi Le",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William I. Garfinkel",
+          "judge_guid": "urn:entity:jud-100055045"
+        }
+      ]
+    }
+  ]
+}

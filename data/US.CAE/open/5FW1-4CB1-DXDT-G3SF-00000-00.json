@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_615mj24_CAED",
+  "case_key": "6:15mj24_CAED",
+  "case_lni": "5FW1-4CB1-DXDT-G3SF-00000-00",
+  "case_number": "6:15mj24",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2015-04-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Yosemite Legal Officer",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Scott William Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Willfully inflict corporal injury upon a spouse, in violation of California  Penal Code§ 273.5 (a), assimilated by Title 18 United States Code§ 13; Be present in a park area when under the influence of alcohol to a degree that may endanger oneself or another person, or damage property or park resources in violation of Title 36 Code of Federal Regulations§ 2.35(c); Destroy, injure, deface, or damage property or real property, in violation of Title 36 Code of Federal Regulations§ 2.31(a)(3)"
+        },
+        {
+          "charge_offence_description": "Willfully inflict corporal injury upon a spouse, i"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Seng",
+          "judge_guid": "urn:entity:jud-100030508"
+        }
+      ]
+    }
+  ]
+}

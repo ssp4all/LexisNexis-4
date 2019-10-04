@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_108cr92_INND",
+  "case_key": "1:08cr92_INND",
+  "case_lni": "7WBN-JT20-Y892-B3CX-00000-00",
+  "case_number": "1:08cr92",
+  "case_title": "United States of America v. Bechtold",
+  "case_info_full_case_name": "United States of America v. Bechtold",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Bechtold",
+  "case_date_filed": "2008-12-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Laura K Bechtold",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343:"
+        },
+        {
+          "charge_description": "18:1343: WIRE FRAUD (1-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341:"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD (8-12)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028(A):"
+        },
+        {
+          "charge_description": "18:1028(A): AGGRAVATED IDENTITY THEFT (13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William C Lee",
+          "judge_guid": "urn:entity:jud-100039317"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_319po3_OHSD",
+  "case_key": "3:19po3_OHSD",
+  "case_lni": "5V6K-N0D1-DXDT-G1N0-00000-00",
+  "case_number": "3:19po3",
+  "case_title": "USA v. Hockman",
+  "case_info_full_case_name": "USA v. Hockman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hockman",
+  "case_date_filed": "2019-01-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gary L Hockman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 7 &; 13 and 38 CFR 1.218(b)(37)-Possession of a firearm on VA property(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Newman",
+          "judge_guid": "urn:entity:jud-100080589"
+        }
+      ]
+    }
+  ]
+}

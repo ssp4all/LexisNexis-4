@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_506cr1409_TXSD",
+  "case_key": "5:06cr1409_TXSD",
+  "case_lni": "7WBN-NX90-Y892-B2PB-00000-00",
+  "case_number": "5:06cr1409",
+  "case_title": "USA v. Garcia-Paredes",
+  "case_info_full_case_name": "USA v. Garcia-Paredes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Paredes",
+  "case_date_filed": "2006-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Garcia-Paredes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 3"
+        },
+        {
+          "charge_description": "Count 1: BULK CASH SMUGGLING INTO OR OUT OF THE UNITED STATES; PENALTY: A fine of not more than $250,000 or imprisonment of not more than five years or both; $100 CVF each count; Not more than 3 yrs TSR. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "31:5332.F"
+        },
+        {
+          "charge_description": "31:5332.F Bulk Cash smuggling into or out of the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_119cr381_NYSD",
+  "case_key": "1:19cr381_NYSD",
+  "case_lni": "5W4P-55B1-DXDT-G1CH-00000-00",
+  "case_number": "1:19cr381",
+  "case_title": "USA v. Searles",
+  "case_info_full_case_name": "USA v. Searles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Searles",
+  "case_date_filed": "2019-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ni Qian",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jared Searles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951.F HOBBS ACT ROBBERY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1951.F INTERFERENCE WITH COMMERCE BY THREAT OR VIOLENCE"
+        },
+        {
+          "charge_offence_description": "18:1951.F INTERFERENCE WITH COMMERCE BY THREAT OR "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George B. Daniels",
+          "judge_guid": "urn:entity:jud-100045194"
+        }
+      ]
+    }
+  ]
+}

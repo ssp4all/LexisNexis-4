@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_606cr146_TXWD",
+  "case_key": "6:06cr146_TXWD",
+  "case_lni": "7WBN-D6V0-Y892-B12F-00000-00",
+  "case_number": "6:06cr146",
+  "case_title": "USA v. Foster",
+  "case_info_full_case_name": "USA v. Foster",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Foster",
+  "case_date_filed": "2006-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Deavon Jaman Foster",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F PUBLIC MONEY, PROPERTY OR RECORDS--Theft of Public Property (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "KNOWINGLY STEAL OR PURLOIN A THING OF VALUE OF A DEPARTMENT OR AGENCY OF THE UNITED STATES, THAT IS, A U.S. GOVERNMENT CREDIT CARD AND GASOLINE PURCHASED THROUGH THE USE OF THE U.S. GOVERNMENT CREDIT CARD, WHICH WAS PURCHASED FOR NON-GOVERNMENT VEHICLES, IN AN AGGREGATE VALUE EXCEEDING $1,000. IN VIOLATION OF 18 USC 641."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Walter S. Smith",
+          "judge_guid": "urn:entity:jud-100020612"
+        }
+      ]
+    }
+  ]
+}

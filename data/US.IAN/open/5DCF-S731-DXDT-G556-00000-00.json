@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_114mj241_IAND",
+  "case_key": "1:14mj241_IAND",
+  "case_lni": "5DCF-S731-DXDT-G556-00000-00",
+  "case_number": "1:14mj241",
+  "case_title": "USA v. Fonville",
+  "case_info_full_case_name": "USA v. Fonville",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fonville",
+  "case_date_filed": "2014-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charles J Williams",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Kendan LaJordan Fonville",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(3) UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        },
+        {
+          "charge_offence_description": "18:922(g)(3) UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jon S Scoles",
+          "judge_guid": "urn:entity:jud-100026665"
+        }
+      ]
+    }
+  ]
+}

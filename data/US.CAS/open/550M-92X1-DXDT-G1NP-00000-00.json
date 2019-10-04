@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_312cr613_CASD",
+  "case_key": "3:12cr613_CASD",
+  "case_lni": "550M-92X1-DXDT-G1NP-00000-00",
+  "case_number": "3:12cr613",
+  "case_title": "USA v. Cardena-Marquez",
+  "case_info_full_case_name": "USA v. Cardena-Marquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cardena-Marquez",
+  "case_date_filed": "2012-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Cardena-Marquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325-Illegal (Felony)"
+        },
+        {
+          "charge_description": "8:1325-Illegal Entry (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)-Deported"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)-Deported Alien Found in the United States (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326-Deported"
+        },
+        {
+          "charge_description": "8:1326-Deported Alien Found In The United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William Q. Hayes",
+          "judge_guid": "urn:entity:jud-100046969"
+        }
+      ]
+    }
+  ]
+}

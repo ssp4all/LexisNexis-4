@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_214cr20442_MIED",
+  "case_key": "2:14cr20442_MIED",
+  "case_lni": "5CS0-RJ21-DXDT-G1BH-00000-00",
+  "case_number": "2:14cr20442",
+  "case_title": "United States of America v. Cortez",
+  "case_info_full_case_name": "United States of America v. Cortez",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Cortez",
+  "case_date_filed": "2014-11-13",
+  "case_status": "Closed",
+  "case_status_date": "11/13/2014",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Demas Hernandez Cortez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PROBATION TRANSFER(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Sean F. Cox",
+          "judge_guid": "urn:entity:jud-100058044"
+        }
+      ]
+    }
+  ]
+}

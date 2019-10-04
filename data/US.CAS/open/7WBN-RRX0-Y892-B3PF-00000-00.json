@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_306m916_CASD",
+  "case_key": "3:06m916_CASD",
+  "case_lni": "7WBN-RRX0-Y892-B3PF-00000-00",
+  "case_number": "3:06m916",
+  "case_title": "USA v. Garcia-Guzman, et al",
+  "case_info_full_case_name": "USA v. Garcia-Guzman, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Guzman, et al",
+  "case_date_filed": "2006-05-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN CARLOS GARCIA-GUZMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)-Transportation"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)-Transportation of Illegal Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ruben B. Brooks",
+          "judge_guid": "urn:entity:jud-100060650"
+        }
+      ]
+    },
+    {
+      "party_name": "EUSEBIO SANTOS-MENDOZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)-Transportation"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)-Transportation of Illegal Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ruben B. Brooks",
+          "judge_guid": "urn:entity:jud-100060650"
+        }
+      ]
+    }
+  ]
+}

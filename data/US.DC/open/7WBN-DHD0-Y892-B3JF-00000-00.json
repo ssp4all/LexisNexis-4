@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_106mj428_DCD",
+  "case_key": "1:06mj428_DCD",
+  "case_lni": "7WBN-DHD0-Y892-B3JF-00000-00",
+  "case_number": "1:06mj428",
+  "case_title": "USA v. CAMPBELL",
+  "case_info_full_case_name": "USA v. CAMPBELL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CAMPBELL",
+  "case_date_filed": "2006-10-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "DOMINIQUE L. CAMPBELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT filed in violation of 18:922(g)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Deborah A. Robinson",
+          "judge_guid": "urn:entity:jud-100001722"
+        }
+      ]
+    }
+  ]
+}

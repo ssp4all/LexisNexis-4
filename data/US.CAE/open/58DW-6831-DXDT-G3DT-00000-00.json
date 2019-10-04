@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_213cr179_CAED",
+  "case_key": "2:13cr179_CAED",
+  "case_lni": "58DW-6831-DXDT-G3DT-00000-00",
+  "case_number": "2:13cr179",
+  "case_title": "USA v. Trammel",
+  "case_info_full_case_name": "USA v. Trammel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trammel",
+  "case_date_filed": "2013-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Nicholas Mead Fogg",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lee N. Trammel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT OF GOVERNMENT PROPERTY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kendall J. Newman",
+          "judge_guid": "urn:entity:jud-100027477"
+        }
+      ]
+    }
+  ]
+}

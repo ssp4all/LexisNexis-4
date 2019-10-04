@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_216cr177_AZD",
+  "case_key": "2:16cr177_AZD",
+  "case_lni": "5J26-HY51-DXDT-G4MY-00000-00",
+  "case_number": "2:16cr177",
+  "case_title": "USA v. Mendiola-Pena",
+  "case_info_full_case_name": "USA v. Mendiola-Pena",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendiola-Pena",
+  "case_date_filed": "2016-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kathy Jo Lemke",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Apolinar Severo Mendiola-Pena",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) - Reentry of Removed Alien"
+        },
+        {
+          "charge_description": "8:1326(a) - Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Neil V Wake",
+          "judge_guid": "urn:entity:jud-100005782"
+        }
+      ]
+    }
+  ]
+}

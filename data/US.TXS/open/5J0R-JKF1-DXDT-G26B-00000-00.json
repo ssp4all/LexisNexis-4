@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_516cr117_TXSD",
+  "case_key": "5:16cr117_TXSD",
+  "case_lni": "5J0R-JKF1-DXDT-G26B-00000-00",
+  "case_number": "5:16cr117",
+  "case_title": "USA v. Gamez-Escalante",
+  "case_info_full_case_name": "USA v. Gamez-Escalante",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gamez-Escalante",
+  "case_date_filed": "2016-02-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael Lewis Eaton",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-LA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arnulfo ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal entry after deportation. Penalty: 0-20 yrs and/or $250,000.00 Fine, $100 CVF, Not more than 3 yrs SRT.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326  A Citizen of Mexico , who has previously been REMOVED or has departed the United States while an order of REMOVAL is outstanding was thereafter found in the United States near Laredo Texas the said Defendant having not obtained the Consent of the Attorney General of the United States (prior to March 1, 2003) or the Secretary of the Department of  Homeland Security (March 1, 2003 &; thereafter  Title 6, United States Code, Sections 202 &; 557) for the reapplication by the said Defendant for admission into the United States ."
+        },
+        {
+          "charge_offence_description": "8:1326  A Citizen of Mexico , who has previously b"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

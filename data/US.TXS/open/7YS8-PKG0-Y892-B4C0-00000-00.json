@@ -1,0 +1,127 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_110cr542_TXSD",
+  "case_key": "1:10cr542_TXSD",
+  "case_lni": "7YS8-PKG0-Y892-B4C0-00000-00",
+  "case_number": "1:10cr542",
+  "case_title": "USA v. Rascon-Garcia et al",
+  "case_info_full_case_name": "USA v. Rascon-Garcia et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rascon-Garcia et al",
+  "case_date_filed": "2010-05-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Appellate Division",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Marshal - B",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Esther Rascon-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "6.95 21USC841"
+        },
+        {
+          "charge_description": "Possession with intent to distribute approximately 6.95 kilograms of cocaine; 21 USC 841 &; 846"
+        },
+        {
+          "charge_statute": "2: 5 6.95 21USC841(a)(1) 841(b)(1)(A) 18USC2"
+        },
+        {
+          "charge_description": "CT. 2: Possession with intent to distribute more than 5 kilograms, that is, approx. 6.95 kilograms of cocaine; 21 USC 841(a)(1) and 841(b)(1)(A) and 18 USC 2 (2)"
+        },
+        {
+          "charge_disposition": "CBOP: 87 months; SRT: 4 yrs w/o supervision; SA: $100 remitted, Fine waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1: 5 21USC846,K 841(a)(1) 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "CT. 1: Conspiracy to possess with intent to distribute more than 5 kilograms of cocaine; 21 USC 846,K 841(a)(1) and 841(b)(1)(A) (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govts ORAL motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        }
+      ]
+    },
+    {
+      "party_name": "Emeterio Alonso-Mejia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "6.95 21USC841"
+        },
+        {
+          "charge_description": "Possession with intent to distribute approximately 6.95 kilograms of cocaine; 21 USC 841 &; 846"
+        },
+        {
+          "charge_statute": "1: 5 21USC846,K 841(a)(1) 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "CT. 1: Conspiracy to possess with intent to distribute more than 5 kilograms of cocaine; 21 USC 846,K 841(a)(1) and 841(b)(1)(A) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "2: 5 6.95 21USC841(a)(1) 841(b)(1)(A) 18USC2"
+        },
+        {
+          "charge_description": "CT. 2: Possession with intent to distribute more than 5 kilograms, that is, approx. 6.95 kilograms of cocaine; 21 USC 841(a)(1) and 841(b)(1)(A) and 18 USC 2 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418cr1886_AZD",
+  "case_key": "4:18cr1886_AZD",
+  "case_lni": "5T9H-KFV1-DXDT-G06J-00000-00",
+  "case_number": "4:18cr1886",
+  "case_title": "USA v. Gonzales-Hernandez",
+  "case_info_full_case_name": "USA v. Gonzales-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzales-Hernandez",
+  "case_date_filed": "2018-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marco Gonzales-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a),enhanced by (b)(1) Illegal Re-Entry(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(b)(1) Re-Entry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(1) Re-Entry of Removed Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Rosemary Marquez",
+          "judge_guid": "urn:entity:jud-500000313"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

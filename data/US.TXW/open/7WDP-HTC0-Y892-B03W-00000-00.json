@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_309mj4801_TXWD",
+  "case_key": "3:09mj4801_TXWD",
+  "case_lni": "7WDP-HTC0-Y892-B03W-00000-00",
+  "case_number": "3:09mj4801",
+  "case_title": "USA v. CONTRERAS-RAMIRES",
+  "case_info_full_case_name": "USA v. CONTRERAS-RAMIRES",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CONTRERAS-RAMIRES",
+  "case_date_filed": "2009-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LUIS CONTRERAS-RAMIRES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F--Re-entry"
+        },
+        {
+          "charge_description": "8:1326B.F--Re-entry of Deported Alien-Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

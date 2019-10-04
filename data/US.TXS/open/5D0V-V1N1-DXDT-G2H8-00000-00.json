@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_114cr665_TXSD",
+  "case_key": "1:14cr665_TXSD",
+  "case_lni": "5D0V-V1N1-DXDT-G2H8-00000-00",
+  "case_number": "1:14cr665",
+  "case_title": "USA v. Hernandez-Garza",
+  "case_info_full_case_name": "USA v. Hernandez-Garza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Garza",
+  "case_date_filed": "2014-08-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raul Hernandez-Garza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Ct. 1: Illegal re-entry into the United States (found in) 8 U.S.C. 1326(a) and (b)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a)(1)(b)(1) Alien who had previously been denied admission, excluded, deported, or removed, knowingly and unlawfully was present in the United States, said defendant having not obtained the consent of the Attorney General or the Secretary of the Department of Homeland Security to reapply for admission into the United States"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1)(b)(1) Alien who had previously been d"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_205mj80781_MIED",
+  "case_key": "2:05mj80781_MIED",
+  "case_lni": "7WBN-KRF0-Y892-B179-00000-00",
+  "case_number": "2:05mj80781",
+  "case_title": "USA v. Welch et al",
+  "case_info_full_case_name": "USA v. Welch et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Welch et al",
+  "case_date_filed": "2005-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rejean Welch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Complaint"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    },
+    {
+      "party_name": "Andre Donaldson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Complaint"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    }
+  ]
+}

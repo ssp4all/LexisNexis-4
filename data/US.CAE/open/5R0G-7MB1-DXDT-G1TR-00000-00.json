@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_317po657_CAED",
+  "case_key": "3:17po657_CAED",
+  "case_lni": "5R0G-7MB1-DXDT-G1TR-00000-00",
+  "case_number": "3:17po657",
+  "case_title": "USA vs Diazlopez",
+  "case_info_full_case_name": "USA vs Diazlopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diazlopez",
+  "case_date_filed": "2017-11-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose D Diazlopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possessing or Leaving Refuse, Debris, or Litter in an Exposed or Unsanitary Cond (F4932609)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Craig M. Kellison",
+          "judge_guid": "urn:entity:jud-100037656"
+        }
+      ]
+    }
+  ]
+}

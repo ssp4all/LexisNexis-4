@@ -1,0 +1,145 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_208cr342_NVD",
+  "case_key": "2:08cr342_NVD",
+  "case_lni": "7WBN-RB90-Y892-B0P5-00000-00",
+  "case_number": "2:08cr342",
+  "case_title": "USA v. Sheffield",
+  "case_info_full_case_name": "USA v. Sheffield",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sheffield",
+  "case_date_filed": "2008-12-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Eric . Johnson",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Troy E Sheffield",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1958(a)-Interstate"
+        },
+        {
+          "charge_description": "18:1958(a)-Interstate Travel in Commission of Murder-For-Hire (1)"
+        },
+        {
+          "charge_disposition": "Dismissed 8/31/09"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1958"
+        },
+        {
+          "charge_description": "18:1958 INTERSTATE TRAVEL IN COMMISSION OF MURDER-FOR-HIRE (1s)"
+        },
+        {
+          "charge_disposition": "Dismissed 8/31/09"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 Theft of Government Funds (1ss)"
+        },
+        {
+          "charge_disposition": "Sentenced 8/31/09"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1958(a)-Use"
+        },
+        {
+          "charge_description": "18:1958(a)-Use of Interstate Facility in Commission of Murder-For-Hire (2)"
+        },
+        {
+          "charge_disposition": "Dismissed 8/31/09"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1958"
+        },
+        {
+          "charge_description": "18:1958 USE OF INTERSTATE FACILITY IN COMMISSION OF MURDER-FOR-HIRE (2s)"
+        },
+        {
+          "charge_disposition": "Dismissed 8/31/09"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:5841, 5861, 5871"
+        },
+        {
+          "charge_description": "26:5841, 5861, AND 5871 UNLAWFUL POSSESSION OF A WEAPON MADE FROM A SHOTGUN (3s)"
+        },
+        {
+          "charge_disposition": "Dismissed 8/31/09"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922"
+        },
+        {
+          "charge_description": "18:922 UNLAWFUL POSSESSION OF A WEAPON WITH AN OBLITERATED SERIAL NUMBER (4s)"
+        },
+        {
+          "charge_disposition": "Dismissed 8/31/09"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1958(a)-INTERSTATE"
+        },
+        {
+          "charge_description": "18:1958(a)-INTERSTATE TRAVEL IN THE COMMISSION OF MURDER-FOR-HIRE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Roger L. Hunt",
+          "judge_guid": "urn:entity:jud-100050918"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "George Foley, Jr",
+          "judge_guid": "urn:entity:jud-100055655"
+        }
+      ]
+    }
+  ]
+}

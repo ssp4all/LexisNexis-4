@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_115po1535_TXSD",
+  "case_key": "1:15po1535_TXSD",
+  "case_lni": "5H4H-SF31-DXDT-G3CV-00000-00",
+  "case_number": "1:15po1535",
+  "case_title": "USA v. Romero-Arreces",
+  "case_info_full_case_name": "USA v. Romero-Arreces",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero-Arreces",
+  "case_date_filed": "2015-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {},
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Elvin Antonio Romero-Arreces",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ignacio Torteya, III",
+          "judge_guid": "urn:entity:jud-100021592"
+        }
+      ]
+    }
+  ]
+}

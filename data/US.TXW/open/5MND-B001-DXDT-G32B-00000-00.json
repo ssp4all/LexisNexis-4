@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_317mj259_TXWD",
+  "case_key": "3:17mj259_TXWD",
+  "case_lni": "5MND-B001-DXDT-G32B-00000-00",
+  "case_number": "3:17mj259",
+  "case_title": "USA v. Sebastian-Lorenzo",
+  "case_info_full_case_name": "USA v. Sebastian-Lorenzo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sebastian-Lorenzo",
+  "case_date_filed": "2017-01-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javier Everardo Sebastian-Lorenzo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        },
+        {
+          "charge_offence_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Miguel A. Torres",
+          "judge_guid": "urn:entity:jud-100102919"
+        }
+      ]
+    }
+  ]
+}

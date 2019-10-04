@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_405m51_VAED",
+  "case_key": "4:05m51_VAED",
+  "case_lni": "7WBN-S330-Y892-B4M2-00000-00",
+  "case_number": "4:05m51",
+  "case_title": "USA v. Fentress",
+  "case_info_full_case_name": "USA v. Fentress",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fentress",
+  "case_date_filed": "2005-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AMY FENTRESS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 1950 46.2-852-RECKLESS"
+        },
+        {
+          "charge_description": "18:13 ASSIMILATING 1950 CODE OF VIRGINIA, AS AMENDED, 46.2-852-RECKLESS DRIVING [18:13-7220.M] (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

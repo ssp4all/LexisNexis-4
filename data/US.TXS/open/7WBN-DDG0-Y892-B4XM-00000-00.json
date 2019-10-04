@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_501cr136_txsd",
+  "case_key": "5:01cr136_txsd",
+  "case_lni": "7WBN-DDG0-Y892-B4XM-00000-00",
+  "case_number": "5:01cr136",
+  "case_title": "USA v. Yruegas",
+  "case_info_full_case_name": "USA v. Yruegas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yruegas",
+  "case_date_filed": "2001-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS MANUEL YRUEGAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 1 21:841A=MD.F 51 5 3"
+        },
+        {
+          "charge_description": "COUNT 1: 1 21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE 51 LBS. OF MARIHUANA; PENALTY: 0 to 5 yrs. and/or $250,000. and $100 CVF; 3 yrs. TSR. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "23.18"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possessed a controlled substance to-wit: approximately 23.18 kilograms of marijuana. [5:00-m-3850]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

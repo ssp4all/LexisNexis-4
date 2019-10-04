@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_505m48_NCED",
+  "case_key": "5:05m48_NCED",
+  "case_lni": "7WBN-HW40-Y892-B1C4-00000-00",
+  "case_number": "5:05m48",
+  "case_title": "USA v. Rivera",
+  "case_info_full_case_name": "USA v. Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera",
+  "case_date_filed": "2005-01-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL V. RIVERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M 20-138.1"
+        },
+        {
+          "charge_description": "18:13-7210.M NCGS 20-138.1 DWI DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-9999.P 14-223"
+        },
+        {
+          "charge_description": "18:13-9999.P NCGS 14-223 Resist, delay, or obstruct a police officer (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P 3: 20-140(b) 4: 20-7a"
+        },
+        {
+          "charge_description": "18:13-7220.P COUNT 3: NCGS 20-140(b) Careless and reckless by speed; COUNT 4: NCGS 20-7a No License (3-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William A. Webb",
+          "judge_guid": "urn:entity:jud-100023194"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_312mj1310_PRD",
+  "case_key": "3:12mj1310_PRD",
+  "case_lni": "56MB-9CF1-DXDT-G1FV-00000-00",
+  "case_number": "3:12mj1310",
+  "case_title": "USA v. Guzman-Nieves",
+  "case_info_full_case_name": "USA v. Guzman-Nieves",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guzman-Nieves",
+  "case_date_filed": "2012-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Dennise N. Longo Quinones",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Guillermo Guzman-Nieves",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i), (b)(1)(B)(ii) and (b)(1)(D) Possess w/intent to distribute heroin, cocaine and marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and (b)(1)(B)(i), (b)(1)(B)(ii) and ("
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Camille L. Velez-Rive",
+          "judge_guid": "urn:entity:jud-100017923"
+        }
+      ]
+    },
+    {
+      "party_name": "US ",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_description": "Interested Party"
+    }
+  ]
+}

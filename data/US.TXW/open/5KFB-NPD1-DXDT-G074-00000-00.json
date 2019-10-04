@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_516mj735_TXWD",
+  "case_key": "5:16mj735_TXWD",
+  "case_lni": "5KFB-NPD1-DXDT-G074-00000-00",
+  "case_number": "5:16mj735",
+  "case_title": "USA v. Salinas-Leija",
+  "case_info_full_case_name": "USA v. Salinas-Leija",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salinas-Leija",
+  "case_date_filed": "2016-08-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rogelio Salinas-Leija",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.C. ยง 1326(a) Illegal re-entry into the United States after deportation or removal"
+        },
+        {
+          "charge_offence_description": "8 U.S.C. &#167; 1326(a) Illegal re-entry into the "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry J. Bemporad",
+          "judge_guid": "urn:entity:jud-100102323"
+        }
+      ]
+    }
+  ]
+}

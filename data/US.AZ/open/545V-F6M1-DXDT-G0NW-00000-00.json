@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_211cr2131_AZD",
+  "case_key": "2:11cr2131_AZD",
+  "case_lni": "545V-F6M1-DXDT-G0NW-00000-00",
+  "case_number": "2:11cr2131",
+  "case_title": "USA v. Carrillo-Loya",
+  "case_info_full_case_name": "USA v. Carrillo-Loya",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carrillo-Loya",
+  "case_date_filed": "2011-11-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fredrick Allen Cocio",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Isidro Carrillo-Loya",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(1) Reentry of Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) Re-entry After Removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David G Campbell",
+          "judge_guid": "urn:entity:jud-100059869"
+        }
+      ]
+    }
+  ]
+}

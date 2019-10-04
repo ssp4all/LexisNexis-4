@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_201cr294_txsd",
+  "case_key": "2:01cr294_txsd",
+  "case_lni": "7WBN-GJX0-Y892-B266-00000-00",
+  "case_number": "2:01cr294",
+  "case_title": "USA v. Flores",
+  "case_info_full_case_name": "USA v. Flores",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores",
+  "case_date_filed": "2001-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - C",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL NMI FLORES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "6.6 21USC844. 7/30/01. 1 1"
+        },
+        {
+          "charge_description": "Simple possession of approximately 6.6 grams of Marihuana, 21 USC 844. Offense Date: 7/30/01. PENALTY: Not more than 1 year imprisonment, a fine of not less than $1,000.00 or more than $100,000.00 (and/or both), 1 year SRT and a $25.00 special assessment (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hayden W. Head, Jr",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    }
+  ]
+}

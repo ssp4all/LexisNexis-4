@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412cr2569_AZD",
+  "case_key": "4:12cr2569_AZD",
+  "case_lni": "57CY-RPC1-DXDT-G4KK-00000-00",
+  "case_number": "4:12cr2569",
+  "case_title": "USA v. Romero",
+  "case_info_full_case_name": "USA v. Romero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero",
+  "case_date_filed": "2012-12-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Matthew G Eltringham",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mauricio Romero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "31:5316 in violation of 31: 5332 and 31 CFR 1010.340(a), Bulk Cash Smuggling. 31:5332 and 5317; Forfeiture Allegation(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "31:5316 and 5322, and Title 31 CFR 1010.340(a); Failure to Report Monetary Instruments and Criminal Penalties  31:5332 and 5317; Forfeiture Allegation(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "31:5317 &; 5332 Bulk Cash Smuggling"
+        },
+        {
+          "charge_offence_description": "31:5317 & 5332 Bulk Cash Smuggling"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

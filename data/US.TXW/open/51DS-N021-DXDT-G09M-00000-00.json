@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_110cr686_TXWD",
+  "case_key": "1:10cr686_TXWD",
+  "case_lni": "51DS-N021-DXDT-G09M-00000-00",
+  "case_number": "1:10cr686",
+  "case_title": "USA v. Garcia-Jiminez",
+  "case_info_full_case_name": "USA v. Garcia-Jiminez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Jiminez",
+  "case_date_filed": "2010-11-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Garth R. Backe",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raul Garcia-Jiminez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F Illegal reentry of deported alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam Sparks",
+          "judge_guid": "urn:entity:jud-100020424"
+        }
+      ]
+    }
+  ]
+}

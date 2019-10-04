@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_211mj414_VAED",
+  "case_key": "2:11mj414_VAED",
+  "case_lni": "53JM-4FH1-DXDT-G4CT-00000-00",
+  "case_number": "2:11mj414",
+  "case_title": "USA v. Thibodeaux",
+  "case_info_full_case_name": "USA v. Thibodeaux",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thibodeaux",
+  "case_date_filed": "2011-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Taryn M Meeks <I>PRO HAC VICE</I>",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ryan J. Thibodeaux II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC641"
+        },
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY-in violation of T. 18 USC Section 641 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC7 13, 46.2-613(1)"
+        },
+        {
+          "charge_description": "OPERATING A MOTOR VEHICLE WITHOUT PROPER REGISTRATION-in violation of T. 18 USC Sections 7 &; 13, assimilating VA Code, Sections 46.2-613(1) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC7 13, 46.2-613(2)"
+        },
+        {
+          "charge_description": "IMPROPER USE OF TAGS-in violation of T. 18 USC Sections 7 &; 13, assimilating VA Code, Sections 46.2-613(2) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. Bradford Stillman",
+          "judge_guid": "urn:entity:jud-100051654"
+        }
+      ]
+    }
+  ]
+}

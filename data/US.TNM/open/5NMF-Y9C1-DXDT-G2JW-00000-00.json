@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_317cr96_TNMD",
+  "case_key": "3:17cr96_TNMD",
+  "case_lni": "5NMF-Y9C1-DXDT-G2JW-00000-00",
+  "case_number": "3:17cr96",
+  "case_title": "USA v. Lewis",
+  "case_info_full_case_name": "USA v. Lewis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "2017-05-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sunny A.M. Koshy",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marco Randell Lewis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 18:924 Convicted felon in possession of firearms"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) and 18:924 Convicted felon in possess"
+        },
+        {
+          "charge_description": "Indictment 5/24/17: 21:841(a)(1) Possession with intent to distribute cocaine(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 5/24/17: 21:856(a)(1) Use and maintain of premises to manufacture, distribute and use controlled substances(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 5/24/17: 18:924(c)(1)(A) Possession of firearms in furtherance of drug trafficking(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 5/24/17: 18:922(g)(1) and 18:924 Convicted felon in possession of firearms(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Aleta A. Trauger",
+          "judge_guid": "urn:entity:jud-100006326"
+        }
+      ]
+    }
+  ]
+}

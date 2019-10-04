@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_101m483_dcd",
+  "case_key": "1:01m483_dcd",
+  "case_lni": "7WBN-JBS0-Y892-B40N-00000-00",
+  "case_number": "1:01m483",
+  "case_title": "USA v. CASE",
+  "case_info_full_case_name": "USA v. CASE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CASE",
+  "case_date_filed": "2001-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICKIE LYNN CASE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Complaint filed in violation of 40:193f(1)(A)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alan Kay",
+          "judge_guid": "urn:entity:jud-100104651"
+        }
+      ]
+    }
+  ]
+}

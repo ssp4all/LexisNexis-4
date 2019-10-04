@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_396m211_ncwd",
+  "case_key": "3:96m211_ncwd",
+  "case_lni": "7WBN-RXX0-Y892-B0B5-00000-00",
+  "case_number": "3:96m211",
+  "case_title": "USA v. Chabafy, et al",
+  "case_info_full_case_name": "USA v. Chabafy, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chabafy, et al",
+  "case_date_filed": "1996-08-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARPAD ANTON CHABAFY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "fraud in violation of 18:1343"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carl Horn, III",
+          "judge_guid": "urn:entity:jud-100094874"
+        }
+      ]
+    },
+    {
+      "party_name": "FRANCIS KENNETH FRIEDEMANN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "fraud in violation of 18:1343"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carl Horn, III",
+          "judge_guid": "urn:entity:jud-100094874"
+        }
+      ]
+    }
+  ]
+}

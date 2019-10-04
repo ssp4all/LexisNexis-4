@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_317mj3021_TXWD",
+  "case_key": "3:17mj3021_TXWD",
+  "case_lni": "5P6H-V0C1-DXDT-G2S9-00000-00",
+  "case_number": "3:17mj3021",
+  "case_title": "USA v. Ramirez",
+  "case_info_full_case_name": "USA v. Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez",
+  "case_date_filed": "2017-08-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Evelyn Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F--CONTROLLED SUBSTANCE-POSSESS, SELL, DISTRIBUTE OR DISPENSE: METHAMPHETAMINE. 21:846=CD.F--CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE: METHAMPHETAMINE."
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F--CONTROLLED SUBSTANCE-POSSESS, SELL, "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leon Schydlower",
+          "judge_guid": "urn:entity:jud-100123240"
+        }
+      ]
+    }
+  ]
+}

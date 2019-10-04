@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_516po1134_WYD",
+  "case_key": "5:16po1134_WYD",
+  "case_lni": "5KWG-YNT1-DXDT-G1VG-00000-00",
+  "case_number": "5:16po1134",
+  "case_title": "USA vs Thompson",
+  "case_info_full_case_name": "USA vs Thompson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thompson",
+  "case_date_filed": "2016-10-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Vearl S Thompson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Unsafe vehicles (6022481)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Expired temporary license permits as defined/Vehicle registration required (6022482)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_807mj189_MDD",
+  "case_key": "8:07mj189_MDD",
+  "case_lni": "7WBN-SM10-Y892-B25M-00000-00",
+  "case_number": "8:07mj189",
+  "case_title": "USA v. Palmore",
+  "case_info_full_case_name": "USA v. Palmore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Palmore",
+  "case_date_filed": "2007-01-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donald Palmore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F Unlawful Possession of a Handgun"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jillyn K. Schulze",
+          "judge_guid": "urn:entity:jud-100030736"
+        }
+      ]
+    }
+  ]
+}

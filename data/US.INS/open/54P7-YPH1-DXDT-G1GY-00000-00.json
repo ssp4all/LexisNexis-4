@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_112cr4_INSD",
+  "case_key": "1:12cr4_INSD",
+  "case_lni": "54P7-YPH1-DXDT-G1GY-00000-00",
+  "case_number": "1:12cr4",
+  "case_title": "USA v. WOOD",
+  "case_info_full_case_name": "USA v. WOOD",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "WOOD",
+  "case_date_filed": "2012-01-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL D WOOD JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F&;nbsp;"
+        },
+        {
+          "charge_description": "18:922G.F&;nbsp; FELON IN POSSESSION OF A FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sarah Evans Barker",
+          "judge_guid": "urn:entity:jud-100052120"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kennard P. Foster",
+          "judge_guid": "urn:entity:jud-100055522"
+        }
+      ]
+    }
+  ]
+}

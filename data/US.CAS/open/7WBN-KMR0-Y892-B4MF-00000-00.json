@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_204mp8678_CASD",
+  "case_key": "2:04mp8678_CASD",
+  "case_lni": "7WBN-KMR0-Y892-B4MF-00000-00",
+  "case_number": "2:04mp8678",
+  "case_title": "USA v. Celluar telephone",
+  "case_info_full_case_name": "USA v. Celluar telephone",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Celluar telephone",
+  "case_date_filed": "2004-09-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ONE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

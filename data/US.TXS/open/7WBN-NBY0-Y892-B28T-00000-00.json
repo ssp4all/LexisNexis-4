@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_403cr337_txsd",
+  "case_key": "4:03cr337_txsd",
+  "case_lni": "7WBN-NBY0-Y892-B28T-00000-00",
+  "case_number": "4:03cr337",
+  "case_title": "USA v. Gonzales",
+  "case_info_full_case_name": "USA v. Gonzales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzales",
+  "case_date_filed": "2003-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H INS_prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924C.F 30"
+        },
+        {
+          "charge_description": "18:924C.F Using/Carrying a Firearm During Commission of Drug Trafficking and Crime of Violence; MAX PENALTY: 30 years and/or $250,000 fine; $100 SA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F 20 3"
+        },
+        {
+          "charge_description": "21:841A=CD.F Possession with Intent to Distribute a Controlled Substance; MAX PENALTY: 20 years and/or $1 million fine; 3 years SRT; $100 SA (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Vanessa D Gilmore",
+          "judge_guid": "urn:entity:jud-100038144"
+        }
+      ]
+    }
+  ]
+}

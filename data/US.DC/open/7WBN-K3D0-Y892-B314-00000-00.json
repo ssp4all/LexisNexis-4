@@ -1,0 +1,128 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_196cr116_dcd",
+  "case_key": "1:96cr116_dcd",
+  "case_lni": "7WBN-K3D0-Y892-B314-00000-00",
+  "case_number": "1:96cr116",
+  "case_title": "USA v. CARTER, et al",
+  "case_info_full_case_name": "USA v. CARTER, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CARTER, et al",
+  "case_date_filed": "1996-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Harry Robinson Benner",
+      "attorney_label": "[COR LD NTC gvt]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL CARTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344 18:2;"
+        },
+        {
+          "charge_description": "18:1344 and 18:2; BANK FRAUD; Aiding and Abetting, and Causing An Act to be Done. (3)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Twelve (12) months incarceration; followed by Three (3) years supervised release; special assessment of $100.00 imposed; Fine in the amount of One Thousand ($1,000.00) dollars imposed; Restitution in the amount of ($1,000.00) dollars imposed. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344 18:2;"
+        },
+        {
+          "charge_description": "18:1344 and 18:2; BANK FRAUD; Aiding and Abetting, and Causing an Act to be Done. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of government. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:513(a);"
+        },
+        {
+          "charge_description": "18:513(a); UTTER FORGED AND COUNTERFEIT SECURITY; Possession of a Foreged Security. (2)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of government. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:513(a);"
+        },
+        {
+          "charge_description": "18:513(a); UTTER FORGED AND COUNTERFEIT SECURITY; Possession of a Forged Security, Aiding and Abetting, and Causing an Act to be Done. (4)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of government. (4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joyce Hens Green",
+          "judge_guid": "urn:entity:jud-100048559"
+        }
+      ]
+    },
+    {
+      "party_name": "WALTER THOMAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344 18:2;"
+        },
+        {
+          "charge_description": "18:1344 and 18:2; BANK FRAUD; Aiding and Abetting, and Causing An Act to be Done. (3)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Twelve (12) months incarceration; followed by Three (3) years supervised release; special assessment of $100.00 imposed; Restitution in the amount of Three Thousand Three Hundred ($3,300.00) dollars imposed. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:513(a);"
+        },
+        {
+          "charge_description": "18:513(a); UTTER FORGED AND COUNTERFEIT SECURITY; Possession of a Forged Security, Aiding and Abetting, and Causing an Act to be Done. (4)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of government. (4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joyce Hens Green",
+          "judge_guid": "urn:entity:jud-100048559"
+        }
+      ]
+    }
+  ]
+}

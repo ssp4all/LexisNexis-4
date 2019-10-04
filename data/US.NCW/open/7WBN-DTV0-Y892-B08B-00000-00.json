@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_395m98_ncwd",
+  "case_key": "3:95m98_ncwd",
+  "case_lni": "7WBN-DTV0-Y892-B08B-00000-00",
+  "case_number": "3:95m98",
+  "case_title": "USA v. Vance",
+  "case_info_full_case_name": "USA v. Vance",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vance",
+  "case_date_filed": "1995-04-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES EDWARD VANCE, JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2113(a)"
+        },
+        {
+          "charge_description": "Armed Bank Robbery, in violation of 18 USC 2113(a) and 2113(d)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carl Horn, III",
+          "judge_guid": "urn:entity:jud-100094874"
+        }
+      ]
+    }
+  ]
+}

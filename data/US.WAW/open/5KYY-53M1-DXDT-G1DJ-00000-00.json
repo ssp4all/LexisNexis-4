@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_316po7544_WAWD",
+  "case_key": "3:16po7544_WAWD",
+  "case_lni": "5KYY-53M1-DXDT-G1DJ-00000-00",
+  "case_number": "3:16po7544",
+  "case_title": "USA vs Morrow",
+  "case_info_full_case_name": "USA vs Morrow",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morrow",
+  "case_date_filed": "2016-10-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Dustin S Morrow",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violating provision of State law (6036909)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J Richard Creatura",
+          "judge_guid": "urn:entity:jud-100057943"
+        }
+      ]
+    }
+  ]
+}

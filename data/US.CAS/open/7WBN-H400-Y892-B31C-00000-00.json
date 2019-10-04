@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_300m1935_casd",
+  "case_key": "3:00m1935_casd",
+  "case_lni": "7WBN-H400-Y892-B31C-00000-00",
+  "case_number": "3:00m1935",
+  "case_title": "USA v. Bojorquez-Bracamonte",
+  "case_info_full_case_name": "USA v. Bojorquez-Bracamonte",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bojorquez-Bracamonte",
+  "case_date_filed": "2000-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MANUEL MANUEL BOJORQUEZ-BRACAMONTES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-ATTEMPTED"
+        },
+        {
+          "charge_description": "8:1326-ATTEMPTED RE-ENTRY AFTER DEPORTATION (FELONY)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cynthia G. Aaron",
+          "judge_guid": "urn:entity:jud-100074947"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_106cr50_NMD",
+  "case_key": "1:06cr50_NMD",
+  "case_lni": "7WBN-G730-Y892-B36C-00000-00",
+  "case_number": "1:06cr50",
+  "case_title": "USA v. Aguiar",
+  "case_info_full_case_name": "USA v. Aguiar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguiar",
+  "case_date_filed": "2006-01-10",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hector Aguiar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) &; 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(A) Possession With Intent to Distribute More Than 5 Kilograms of Cocaine (1)"
+        },
+        {
+          "charge_disposition": "Sentence Imposed: Cbop-46 Months; Unsupervised Release-3 Years; Spa-$100; Deft in Custody"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Judith C Herrera",
+          "judge_guid": "urn:entity:jud-100051803"
+        }
+      ]
+    }
+  ]
+}

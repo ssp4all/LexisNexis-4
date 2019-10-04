@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_916po5123_MTD",
+  "case_key": "9:16po5123_MTD",
+  "case_lni": "5MH5-YPP1-DXDT-G4HY-00000-00",
+  "case_number": "9:16po5123",
+  "case_title": "USA v. Paulson",
+  "case_info_full_case_name": "USA v. Paulson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Paulson",
+  "case_date_filed": "2016-12-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Zachariah W Paulson",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeremiah C. Lynch",
+          "judge_guid": "urn:entity:jud-100052237"
+        }
+      ]
+    }
+  ]
+}

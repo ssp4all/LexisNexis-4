@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_496cr47_ndd",
+  "case_key": "4:96cr47_ndd",
+  "case_lni": "7WBN-DWK0-Y892-B2CF-00000-00",
+  "case_number": "4:96cr47",
+  "case_title": "USA v. Ramirez",
+  "case_info_full_case_name": "USA v. Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez",
+  "case_date_filed": "1996-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE RAMIREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-1600.M"
+        },
+        {
+          "charge_description": "18:13-1600.M ASSAULT, OTHER (1)"
+        },
+        {
+          "charge_disposition": "Rule 48 (a) Dismissal (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418cr1595_AZD",
+  "case_key": "4:18cr1595_AZD",
+  "case_lni": "5T22-FC31-DXDT-G0J9-00000-00",
+  "case_number": "4:18cr1595",
+  "case_title": "USA v. Aguilar-Garcia",
+  "case_info_full_case_name": "USA v. Aguilar-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguilar-Garcia",
+  "case_date_filed": "2018-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Lauren G LaBuff - Inactive",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Aguilar-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a), enhanced by 1326(b)(1) Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_disposition": "committed to the custody of the Bureau of Prisons for a term of TIME SERVED. Upon release from imprisonment, the defendant shall be placed on supervised release for a term of THIRTY-SIX (36) MONTHS"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a), enhanced by 8:1326(b)(1) Re-Entry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a), enhanced by 8:1326(b)(1) Re-Entry of Re"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer G Zipps",
+          "judge_guid": "urn:entity:jud-100047798"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lynnette C Kimmins",
+          "judge_guid": "urn:entity:jud-100126936"
+        }
+      ]
+    }
+  ]
+}

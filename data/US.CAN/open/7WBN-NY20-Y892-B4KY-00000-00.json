@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_507cr574_CAND",
+  "case_key": "5:07cr574_CAND",
+  "case_lni": "7WBN-NY20-Y892-B4KY-00000-00",
+  "case_number": "5:07cr574",
+  "case_title": "USA v. Rodriguez-Gomez",
+  "case_info_full_case_name": "USA v. Rodriguez-Gomez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Gomez",
+  "case_date_filed": "2007-09-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey Benjamin Schenk",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Humberto Rodriguez-Gomez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:326"
+        },
+        {
+          "charge_description": "8:326 Illegal Re-Entry Following Deportation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 Unlawfully re-entered and was found in the US after deportation, without the permission of the Attorney General"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "James Ware",
+          "judge_guid": "urn:entity:jud-100023386"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard Seeborg",
+          "judge_guid": "urn:entity:jud-100030578"
+        }
+      ]
+    }
+  ]
+}

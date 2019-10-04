@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_417cr438_MOED",
+  "case_key": "4:17cr438_MOED",
+  "case_lni": "5PN8-RF91-DXDT-G1BV-00000-00",
+  "case_number": "4:17cr438",
+  "case_title": "USA v. Hughes",
+  "case_info_full_case_name": "USA v. Hughes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hughes",
+  "case_date_filed": "2017-09-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Tracy L. Berry",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Hughes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David D. Noce",
+          "judge_guid": "urn:entity:jud-100027370"
+        }
+      ]
+    }
+  ]
+}

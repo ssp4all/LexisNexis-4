@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_119cr56_NCWD",
+  "case_key": "1:19cr56_NCWD",
+  "case_lni": "5W78-3D81-DXDT-G1T1-00000-00",
+  "case_number": "1:19cr56",
+  "case_title": "USA v. Ojalvo",
+  "case_info_full_case_name": "USA v. Ojalvo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ojalvo",
+  "case_date_filed": "2019-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Benjamin Rood Ojalvo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. 952(a) and 960(b)(3) - CONTROLLED SUBSTANCES - IMPORT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 U.S.C. 841(a)(1) and (b)(1)(C) - CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martin Reidinger",
+          "judge_guid": "urn:entity:jud-100015077"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "W. Carleton Metcalf",
+          "judge_guid": "urn:entity:jud-500000595"
+        }
+      ]
+    }
+  ]
+}

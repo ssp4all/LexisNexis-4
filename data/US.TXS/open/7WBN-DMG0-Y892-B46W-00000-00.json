@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_204mj852_TXSD",
+  "case_key": "2:04mj852_TXSD",
+  "case_lni": "7WBN-DMG0-Y892-B46W-00000-00",
+  "case_number": "2:04mj852",
+  "case_title": "USA v. Pereira",
+  "case_info_full_case_name": "USA v. Pereira",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pereira",
+  "case_date_filed": "2004-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joao Batista Pereira",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "A native and citizen Brazil, and an alien who had been previously deported from the United States after having been discovered to be unlawfully present within the United States at or near Corpus Christi, Texas, the said defendant having not obtained the consent of the Attorney General or the Secretary of the Department of Homeland Security for application for readmission into the United States, in violation of 8 USC 1326."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    }
+  ]
+}

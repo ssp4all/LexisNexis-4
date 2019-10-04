@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_213cr20711_MIED",
+  "case_key": "2:13cr20711_MIED",
+  "case_lni": "59FH-WHP1-DXDT-G50G-00000-00",
+  "case_number": "2:13cr20711",
+  "case_title": "United States of America v. Mitsubishi Heavy Industries, Ltd.",
+  "case_info_full_case_name": "United States of America v. Mitsubishi Heavy Industries, Ltd.",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Mitsubishi Heavy Industries, Ltd.",
+  "case_date_filed": "2013-09-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kathryn Hellings",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ANTITRUST VIOLATIONS(1)"
+        },
+        {
+          "charge_disposition": "FINE: $14,500,000; SPECIAL ASSESSMENT: $400"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul J. Komives",
+          "judge_guid": "urn:entity:jud-100040063"
+        }
+      ]
+    }
+  ]
+}

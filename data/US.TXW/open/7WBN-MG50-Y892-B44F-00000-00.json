@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_300m1650_txwd",
+  "case_key": "3:00m1650_txwd",
+  "case_lni": "7WBN-MG50-Y892-B44F-00000-00",
+  "case_number": "3:00m1650",
+  "case_title": "USA v. Barraza-Gandara",
+  "case_info_full_case_name": "USA v. Barraza-Gandara",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barraza-Gandara",
+  "case_date_filed": "2000-05-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS BARRAZA-GANDARA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal re-entry after deportation in violation of 8:1326(b)(2)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

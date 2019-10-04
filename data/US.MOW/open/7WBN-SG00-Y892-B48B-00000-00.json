@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_604cr3134_MOWD",
+  "case_key": "6:04cr3134_MOWD",
+  "case_lni": "7WBN-SG00-Y892-B48B-00000-00",
+  "case_number": "6:04cr3134",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2004-10-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Danny D. Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SEXUAL EXPLOITATION OF MINORS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CRIMINAL FORFEITURE IN VIOLATION OF EXPLOITATION OF MINORS (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief District Judge",
+          "judge_name": "Dean Whipple",
+          "judge_guid": "urn:entity:jud-100067879"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James C. England",
+          "judge_guid": "urn:entity:jud-100056462"
+        }
+      ]
+    }
+  ]
+}

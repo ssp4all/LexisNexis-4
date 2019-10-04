@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_316mj743_CASD",
+  "case_key": "3:16mj743_CASD",
+  "case_lni": "5J9B-DM71-DXDT-G3HC-00000-00",
+  "case_number": "3:16mj743",
+  "case_title": "USA v. Cardoza-Maldonado",
+  "case_info_full_case_name": "USA v. Cardoza-Maldonado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cardoza-Maldonado",
+  "case_date_filed": "2016-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lluliana Cardoza-",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(2)(B)(iii) - Bringing in Unlawful Aliens without Presentation"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(2)(B)(iii) - Bringing in Unlawful Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nita L. Stormes",
+          "judge_guid": "urn:entity:jud-100019878"
+        }
+      ]
+    },
+    {
+      "party_name": "Juan Fernando Gomez-Martinez",
+      "party_description": "Material Witness"
+    }
+  ]
+}

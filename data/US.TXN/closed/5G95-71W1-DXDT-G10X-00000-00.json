@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_315cr284_TXND",
+  "case_key": "3:15cr284_TXND",
+  "case_lni": "5G95-71W1-DXDT-G10X-00000-00",
+  "case_number": "3:15cr284",
+  "case_title": "USA v. Bowling",
+  "case_info_full_case_name": "USA v. Bowling",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bowling",
+  "case_date_filed": "2015-06-24",
+  "case_status": "Closed",
+  "case_status_date": "12/12/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher Henry Bowling",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1029(a)(2) and 2 Access Device Fraud and Aiding and Abetting(3)"
+        },
+        {
+          "charge_disposition": "63 MONTHS BOP, 3 YEARS SUPERVISED RELEASE, RESTITUTION: $52,310.98, $100 MSA. AMENDED JUDGMENT- 43 MONTHS BOP."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1029(a)(2) and 2 Access Device Fraud and Aiding and Abetting(1-2)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1029(a)(2) and 2 Access Device Fraud and Aiding and Abetting(4)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1708 and 2 Possession of Stolen U.S. Mail(5-6)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Barbara M.G. Lynn",
+          "judge_guid": "urn:entity:jud-100029466"
+        }
+      ]
+    }
+  ]
+}

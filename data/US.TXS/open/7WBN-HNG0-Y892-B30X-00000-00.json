@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_408mj556_TXSD",
+  "case_key": "4:08mj556_TXSD",
+  "case_lni": "7WBN-HNG0-Y892-B30X-00000-00",
+  "case_number": "4:08mj556",
+  "case_title": "USA v. Adams",
+  "case_info_full_case_name": "USA v. Adams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adams",
+  "case_date_filed": "2008-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Demarcus LaQuinn Adams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1542,"
+        },
+        {
+          "charge_description": "Unlawfully, knowingly, and willfully make false statements on his application for a United States Passport; In violation of 18 USC 1542, 18:1542.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frances H Stacy",
+          "judge_guid": "urn:entity:jud-100020287"
+        }
+      ]
+    }
+  ]
+}

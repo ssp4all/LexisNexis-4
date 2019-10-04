@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_511mj1278_TXSD",
+  "case_key": "5:11mj1278_TXSD",
+  "case_lni": "53CG-WNG1-DXDT-G2K8-00000-00",
+  "case_number": "5:11mj1278",
+  "case_title": "USA v. Gilot-Rivera et al",
+  "case_info_full_case_name": "USA v. Gilot-Rivera et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gilot-Rivera et al",
+  "case_date_filed": "2011-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Adolfo Gilot-Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F---BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F---BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R. Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    },
+    {
+      "party_name": "Daniel Escobedo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F---BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F---BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R. Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    },
+    {
+      "party_name": "Oscar Silva Lopez",
+      "party_description": "material witness"
+    }
+  ]
+}

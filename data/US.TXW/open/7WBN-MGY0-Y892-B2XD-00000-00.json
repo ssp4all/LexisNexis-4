@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_300m852_txwd",
+  "case_key": "3:00m852_txwd",
+  "case_lni": "7WBN-MGY0-Y892-B2XD-00000-00",
+  "case_number": "3:00m852",
+  "case_title": "USA v. Ramirez-Lopez",
+  "case_info_full_case_name": "USA v. Ramirez-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Lopez",
+  "case_date_filed": "2000-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LAURA VICTORIA RAMIREZ-LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Fraudulent possession of an identification document in violation of Title 18 USC Section 1028(a)(4)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

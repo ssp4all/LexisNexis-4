@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_413sw6026_ARED",
+  "case_key": "4:13sw6026_ARED",
+  "case_lni": "58VJ-S8B1-DXDT-G51W-00000-00",
+  "case_number": "4:13sw6026",
+  "case_title": "USA v. Residence",
+  "case_info_full_case_name": "USA v. Residence",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Residence",
+  "case_date_filed": "2013-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Stephanie Gosnell Mazzanti",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Residence",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Beth Deere",
+          "judge_guid": "urn:entity:jud-100044918"
+        }
+      ]
+    }
+  ]
+}

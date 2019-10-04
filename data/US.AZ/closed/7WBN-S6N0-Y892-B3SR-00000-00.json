@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_495cr428_azd",
+  "case_key": "4:95cr428_azd",
+  "case_lni": "7WBN-S6N0-Y892-B3SR-00000-00",
+  "case_number": "4:95cr428",
+  "case_title": "USA, et al v. Romero",
+  "case_info_full_case_name": "USA, et al v. Romero",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Romero",
+  "case_date_filed": "1995-09-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "DAVIS ROGER ROMERO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1112 1153"
+        },
+        {
+          "charge_description": "18:1112 &; 1153 VOLUNTARY MANSLAUGHTER (1)"
+        },
+        {
+          "charge_disposition": "Davis Romero committed to BOP impr 44 mo; Sup Rel 36 mo; Dft participate in sub abuse treatment, shall submit to search and seizure. SA $50. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1: 18:1153 1111(b)"
+        },
+        {
+          "charge_description": "CT 1: 18:1153 and 1111(b) MURDER [4:95-m-311]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank R Zapata",
+          "judge_guid": "urn:entity:jud-100065407"
+        }
+      ]
+    }
+  ]
+}

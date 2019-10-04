@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_112cr990_TXSD",
+  "case_key": "1:12cr990_TXSD",
+  "case_lni": "570K-2FJ1-DXDT-G3W1-00000-00",
+  "case_number": "1:12cr990",
+  "case_title": "USA v. Cruz-Flores",
+  "case_info_full_case_name": "USA v. Cruz-Flores",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cruz-Flores",
+  "case_date_filed": "2012-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roque Cruz-Flores",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count 1: 8 USC 1326(a): Illegal re-entry into the United States (found in)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326; knowingly and unlawfully was present in the United States after having been previously deported"
+        },
+        {
+          "charge_offence_description": "8:1326; knowingly and unlawfully was present in th"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

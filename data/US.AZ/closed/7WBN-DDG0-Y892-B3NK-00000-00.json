@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_498cr398_azd",
+  "case_key": "4:98cr398_azd",
+  "case_lni": "7WBN-DDG0-Y892-B3NK-00000-00",
+  "case_number": "4:98cr398",
+  "case_title": "USA, et al v. Gamboa-Caraveo",
+  "case_info_full_case_name": "USA, et al v. Gamboa-Caraveo",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Gamboa-Caraveo",
+  "case_date_filed": "1998-04-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANGEL GAMBOA-CARAVEO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "Count 1-8:1324(a)(1)(A)(ii) Transportation of Illegal Aliens (1)"
+        },
+        {
+          "charge_disposition": "5 mos imprisonment; 2 yrs sup rel; no fine; credit for tm svd; $100 SA; REVOKED; 9 mos imprisonment to run concurrent w/sentence imposed in CR-99-203-TUC-JMR w/credit for time served; (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John M Roll",
+          "judge_guid": "urn:entity:jud-100025388"
+        }
+      ]
+    }
+  ]
+}

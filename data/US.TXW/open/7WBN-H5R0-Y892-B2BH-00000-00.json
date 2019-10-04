@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_303cr2107_txwd",
+  "case_key": "3:03cr2107_txwd",
+  "case_lni": "7WBN-H5R0-Y892-B2BH-00000-00",
+  "case_number": "3:03cr2107",
+  "case_title": "USA v. Cediullo",
+  "case_info_full_case_name": "USA v. Cediullo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cediullo",
+  "case_date_filed": "2003-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDDIE CEDILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "112.38 21:841(a)(1)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute approx. 112.38 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1) [3:03-m-3401]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

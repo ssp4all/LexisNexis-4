@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_215cr2638_NMD",
+  "case_key": "2:15cr2638_NMD",
+  "case_lni": "5GHD-X961-DXDT-G2NN-00000-00",
+  "case_number": "2:15cr2638",
+  "case_title": "USA v. Chan-Tuy",
+  "case_info_full_case_name": "USA v. Chan-Tuy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chan-Tuy",
+  "case_date_filed": "2015-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Chan-Tuy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Kenneth J. Gonzales",
+          "judge_guid": "urn:entity:jud-100104521"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_309cr1133_CAND",
+  "case_key": "3:09cr1133_CAND",
+  "case_lni": "7X61-RGH0-Y892-B06W-00000-00",
+  "case_number": "3:09cr1133",
+  "case_title": "USA v. Yu",
+  "case_info_full_case_name": "USA v. Yu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yu",
+  "case_date_filed": "2009-11-25",
+  "case_status": "Closed",
+  "case_status_date": "04/09/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Acadia Leigh Senese",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kay K. Yu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "36 CFR 1004.23(a)(1) Operating a Motor Vehicle Under the Influence of Alcohol(1)"
+        },
+        {
+          "charge_disposition": "3 yrs probation, with conditions, $1000 fine, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "36 CFR 1004.23(a)(2) Operating a Motor Vehicle with a Blood Alcohol Content Over 0.08%(2)"
+        },
+        {
+          "charge_disposition": "dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Spero",
+          "judge_guid": "urn:entity:jud-100020358"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_110cr449_NCMD",
+  "case_key": "1:10cr449_NCMD",
+  "case_lni": "51PC-5X91-DXDT-G3H4-00000-00",
+  "case_number": "1:10cr449",
+  "case_title": "USA v. WINCHESTER",
+  "case_info_full_case_name": "USA v. WINCHESTER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "WINCHESTER",
+  "case_date_filed": "2010-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CLAVIAN LAMONT WINCHESTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(C);"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C); Distribute cocaine hydrochloride (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(C); (\"crack\")"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C); Distribute cocaine base (\"crack\") (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

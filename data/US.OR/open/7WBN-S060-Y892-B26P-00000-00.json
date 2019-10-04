@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_399cr432_ord",
+  "case_key": "3:99cr432_ord",
+  "case_lni": "7WBN-S060-Y892-B26P-00000-00",
+  "case_number": "3:99cr432",
+  "case_title": "USA v. Martin",
+  "case_info_full_case_name": "USA v. Martin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martin",
+  "case_date_filed": "1999-09-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL M MARTIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708"
+        },
+        {
+          "charge_description": "18:1708 THEFT OR RECEIPT OF STOLEN MAIL (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1704"
+        },
+        {
+          "charge_description": "18:1704 KEYS OR LOCKS STOLEN OR REPRODUCED (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC1708, 1704"
+        },
+        {
+          "charge_description": "Possession of Stolen Mail, Possession of Stolen Postal Key, 18 USC 1708, 1704 [3:99-m-549]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Robert E Jones",
+          "judge_guid": "urn:entity:jud-100032984"
+        }
+      ]
+    }
+  ]
+}

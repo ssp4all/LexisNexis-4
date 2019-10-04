@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_409cr37_NCED",
+  "case_key": "4:09cr37_NCED",
+  "case_lni": "7WBN-HP00-Y892-B1F4-00000-00",
+  "case_number": "4:09cr37",
+  "case_title": "USA v. McNeil",
+  "case_info_full_case_name": "USA v. McNeil",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McNeil",
+  "case_date_filed": "2009-05-07",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David Bragdon",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andre Demontio McNeil",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5"
+        },
+        {
+          "charge_description": "Possession with intent to distribute more than 5 grams of crack cocaine (2)"
+        },
+        {
+          "charge_disposition": "Bureau of Prisons 120 months-Supervised Release 8 years-special conditions imposed-Special Assessment $100-Fine N/A-Restitution N/A-Statement of Reasons"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession of a firearm by a convicted felon (1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Using and Carrying a Firearm During and In Relation to Drug Trafficking Crime, and Possession of a Firearm in Furtherance of a Drug Trafficking Crime (3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "James C. Fox",
+          "judge_guid": "urn:entity:jud-100055471"
+        }
+      ]
+    }
+  ]
+}

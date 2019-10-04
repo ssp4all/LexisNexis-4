@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_116cr214_HID",
+  "case_key": "1:16cr214_HID",
+  "case_lni": "5JFV-TFX1-DXDT-G541-00000-00",
+  "case_number": "1:16cr214",
+  "case_title": "USA v. Droppa",
+  "case_info_full_case_name": "USA v. Droppa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Droppa",
+  "case_date_filed": "2016-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donna D. Droppa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "40:1315.P-VIOLATION OF REGULATIONS ON GOVERNMENT PROPERTY-HRS 431:10C-104 AND 32 CFR 634.25(f)- Driving with expired insurance; 02/20/2016; SB; 3959338/H10(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "RICHARD L. PUGLISI",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    }
+  ]
+}

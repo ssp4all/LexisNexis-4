@@ -1,0 +1,119 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_502m10_flmd",
+  "case_key": "5:02m10_flmd",
+  "case_lni": "7WBN-NV80-Y892-B08W-00000-00",
+  "case_number": "5:02m10",
+  "case_title": "USA v. Molina, et al",
+  "case_info_full_case_name": "USA v. Molina, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Molina, et al",
+  "case_date_filed": "2002-03-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Julie Hackenberry Savell",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FELIPE MOLINA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F Narcotics-Sell, Distribute, or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary R. Jones",
+          "judge_guid": "urn:entity:jud-100050215"
+        }
+      ]
+    },
+    {
+      "party_name": "BARBARO DOMINGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F Narcotics-Sell, Distribute, or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary R. Jones",
+          "judge_guid": "urn:entity:jud-100050215"
+        }
+      ]
+    },
+    {
+      "party_name": "EUGENIO GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F Narcotics-Sell, Distribute, or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary R. Jones",
+          "judge_guid": "urn:entity:jud-100050215"
+        }
+      ]
+    },
+    {
+      "party_name": "EVELIO OLIVA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F Narcotics-Sell, Distribute, or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary R. Jones",
+          "judge_guid": "urn:entity:jud-100050215"
+        }
+      ]
+    },
+    {
+      "party_name": "FRANK MICHAEL ARCHER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F Narcotics-Sell, Distribute, or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary R. Jones",
+          "judge_guid": "urn:entity:jud-100050215"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DE_103m39_ded",
+  "case_key": "1:03m39_ded",
+  "case_lni": "7WBN-JGT0-Y892-B25N-00000-00",
+  "case_number": "1:03m39",
+  "case_title": "USA v. Waller",
+  "case_info_full_case_name": "USA v. Waller",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Waller",
+  "case_date_filed": "2003-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Beth Moskow Schnoll",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SABRINA WALLER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371-CONSPIRACY"
+        },
+        {
+          "charge_description": "18:371-CONSPIRACY TO COMMIT WIRE FRAUD-2/2001"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary Patricia Thynge",
+          "judge_guid": "urn:entity:jud-100023802"
+        }
+      ]
+    }
+  ]
+}

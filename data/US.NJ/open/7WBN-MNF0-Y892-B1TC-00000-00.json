@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_303m9406_njd",
+  "case_key": "3:03m9406_njd",
+  "case_lni": "7WBN-MNF0-Y892-B1TC-00000-00",
+  "case_number": "3:03m9406",
+  "case_title": "USA v. TRAN",
+  "case_info_full_case_name": "USA v. TRAN",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "TRAN",
+  "case_date_filed": "2003-01-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "REBECCA MICHAELS, LT.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HOAICHAU TRAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=CP.M"
+        },
+        {
+          "charge_description": "21:844A=CP.M CONTROLLED SUBSTANCE-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "15, 2002"
+        },
+        {
+          "charge_description": "On or about November 15, 2002 the defendant knowingly or intentionally possessed a CDS."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Anthony R. Mautone",
+          "judge_guid": "urn:entity:jud-100037720"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_405mj109_VAED",
+  "case_key": "4:05mj109_VAED",
+  "case_lni": "7WBN-DW20-Y892-B02X-00000-00",
+  "case_number": "4:05mj109",
+  "case_title": "USA v. Redding",
+  "case_info_full_case_name": "USA v. Redding",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Redding",
+  "case_date_filed": "2005-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Radcliff D. Redding",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.18:7 13, 18.2-266-Driving"
+        },
+        {
+          "charge_description": "T.18:7 &; 13, Assim. Code of VA, Sec. 18.2-266-Driving Under the Influence of Alcohol (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "T.18:3118-Refusal"
+        },
+        {
+          "charge_description": "T.18:3118-Refusal to Provide Breath Sample (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Magistrate",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

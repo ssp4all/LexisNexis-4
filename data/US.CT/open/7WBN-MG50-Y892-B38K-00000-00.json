@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_300m108_ctd",
+  "case_key": "3:00m108_ctd",
+  "case_lni": "7WBN-MG50-Y892-B38K-00000-00",
+  "case_number": "3:00m108",
+  "case_title": "USA v. Schmidt",
+  "case_info_full_case_name": "USA v. Schmidt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schmidt",
+  "case_date_filed": "2000-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NEIL SCHMIDT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Possess"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possess with intent to distribute and distribute cocaine base."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Holly B. Fitzsimmons",
+          "judge_guid": "urn:entity:jud-100046413"
+        }
+      ]
+    }
+  ]
+}

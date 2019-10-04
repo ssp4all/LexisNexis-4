@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_515mj401_TXSD",
+  "case_key": "5:15mj401_TXSD",
+  "case_lni": "5FP6-13Y1-DXDT-G54K-00000-00",
+  "case_number": "5:15mj401",
+  "case_title": "USA v. Villasana-Torres",
+  "case_info_full_case_name": "USA v. Villasana-Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Villasana-Torres",
+  "case_date_filed": "2015-04-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Cesar Villasana-Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 841 Knowingly and unlawfully possess with intent to distribute a controlled substance listed under Schedule I, to wit: approx. 266.5 kilograms of marijuana."
+        },
+        {
+          "charge_offence_description": "21 USC 841 Knowingly and unlawfully possess with i"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

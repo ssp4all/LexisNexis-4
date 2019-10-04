@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_211mj10428_AZD",
+  "case_key": "2:11mj10428_AZD",
+  "case_lni": "5442-SM11-DXDT-G056-00000-00",
+  "case_number": "2:11mj10428",
+  "case_title": "USA v. Gomez-Beristan",
+  "case_info_full_case_name": "USA v. Gomez-Beristan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez-Beristan",
+  "case_date_filed": "2011-10-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Louis C Uhl",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adolfo Gomez-Beristan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) Re-entry After Removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jay R Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

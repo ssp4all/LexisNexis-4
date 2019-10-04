@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_200m462_txwd",
+  "case_key": "2:00m462_txwd",
+  "case_lni": "7WBN-GJG0-Y892-B49N-00000-00",
+  "case_number": "2:00m462",
+  "case_title": "USA v. Silva",
+  "case_info_full_case_name": "USA v. Silva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Silva",
+  "case_date_filed": "2000-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERTO SILVA, JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC952 963-conspiracy"
+        },
+        {
+          "charge_description": "21 USC 952 &; 963-conspiracy to possess with intent to distribute a quantity of marijuana, a Schedule I Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Durwood Edwards",
+          "judge_guid": "urn:entity:jud-100056691"
+        }
+      ]
+    }
+  ]
+}

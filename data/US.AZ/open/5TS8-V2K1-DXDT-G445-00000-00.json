@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418po37240_AZD",
+  "case_key": "4:18po37240_AZD",
+  "case_lni": "5TS8-V2K1-DXDT-G445-00000-00",
+  "case_number": "4:18po37240",
+  "case_title": "USA v. Rosales Garcia",
+  "case_info_full_case_name": "USA v. Rosales Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosales Garcia",
+  "case_date_filed": "2018-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Pablo Rosales Garcia",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

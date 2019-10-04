@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_208cr2910_NMD",
+  "case_key": "2:08cr2910_NMD",
+  "case_lni": "7WBN-RB90-Y892-B0DH-00000-00",
+  "case_number": "2:08cr2910",
+  "case_title": "USA v. Perez-Esparza",
+  "case_info_full_case_name": "USA v. Perez-Esparza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Esparza",
+  "case_date_filed": "2008-12-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adrian Perez-Esparza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546(a) 8:1325 (a)(1)"
+        },
+        {
+          "charge_description": "18:1546(a) False Documents; 8:1325 (a)(1) Illegal Entry Without Inspection"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

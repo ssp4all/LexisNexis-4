@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_118po374_ORD",
+  "case_key": "1:18po374_ORD",
+  "case_lni": "5T5H-4YC1-DXDT-G2N2-00000-00",
+  "case_number": "1:18po374",
+  "case_title": "USA vs Monk",
+  "case_info_full_case_name": "USA vs Monk",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Monk",
+  "case_date_filed": "2018-08-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sean W Monk",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operating an off road vehicle in violation of State laws and regulations relatin (6871632)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark D. Clarke",
+          "judge_guid": "urn:entity:jud-100048298"
+        }
+      ]
+    }
+  ]
+}

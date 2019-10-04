@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_411mj35_GAMD",
+  "case_key": "4:11mj35_GAMD",
+  "case_lni": "5288-38P1-DXDT-G0HY-00000-00",
+  "case_number": "4:11mj35",
+  "case_title": "United States of America v. Kratzner",
+  "case_info_full_case_name": "United States of America v. Kratzner",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Kratzner",
+  "case_date_filed": "2011-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Christopher L Kratzner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M (2690304) 18USC7 13 40-5-121"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES-DRIVING WHILE LICENSE SUSPENDED/REVOKED ON [11/16/10] (2690304) 18 USC 7 and 13 i/c/w O.C.G.A. 40-5-121 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "US Mag Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_108cr324_VAED",
+  "case_key": "1:08cr324_VAED",
+  "case_lni": "7WBN-PSG0-Y892-B0T3-00000-00",
+  "case_number": "1:08cr324",
+  "case_title": "USA v. Juarez-Munguia",
+  "case_info_full_case_name": "USA v. Juarez-Munguia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Juarez-Munguia",
+  "case_date_filed": "2008-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Susan Park",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Redis De Los Santos Juarez-Munguia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a)"
+        },
+        {
+          "charge_description": "8 USC 1326(a) Illegal re-entry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James C. Cacheris",
+          "judge_guid": "urn:entity:jud-100059998"
+        }
+      ]
+    }
+  ]
+}

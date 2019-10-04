@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_100cr470_txsd",
+  "case_key": "1:00cr470_txsd",
+  "case_lni": "7WBN-D6V0-Y892-B4FH-00000-00",
+  "case_number": "1:00cr470",
+  "case_title": "USA v. Ortiz Rios",
+  "case_info_full_case_name": "USA v. Ortiz Rios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortiz Rios",
+  "case_date_filed": "2000-11-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALFREDO ORTIZ RIOS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 8USC1326(a) (b); 10/14/00; 20 3"
+        },
+        {
+          "charge_description": "Ct. 1: Illegal re-entry into the United States (Found In); 8 USC 1326(a) and (b); Offense Date: 10/14/00; Penalty: 20 years and/or $250,000 plus 3 years supervised release term (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) 1326(b)"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b) Unlawfully re-entering into the U.S. after deportation. [1:00-m-4690]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

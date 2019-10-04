@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_216mj54_LAED",
+  "case_key": "2:16mj54_LAED",
+  "case_lni": "5JP5-67T1-DXDT-G4VX-00000-00",
+  "case_number": "2:16mj54",
+  "case_title": "USA v. Berard et al",
+  "case_info_full_case_name": "USA v. Berard et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Berard et al",
+  "case_date_filed": "2016-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eddie Berard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(o) DID CONSPIRE TO CARRY, USE, AND POSSESS A FIREARM IN CONNECTION WITH A DRUG TRAFFICKING CRIME; 18:1951 DID CONSPIRE TO AND COMMIT A HOBBS ACT ROBBERY; 18:2 AIDING AND ABETTING"
+        },
+        {
+          "charge_offence_description": "18:924(o) DID CONSPIRE TO CARRY, USE, AND POSSESS "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        }
+      ]
+    },
+    {
+      "party_name": "Henry Frazier",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(o) DID CONSPIRE TO CARRY, USE, AND POSSESS A FIREARM IN CONNECTION WITH A DRUG TRAFFICKING CRIME; 18:1951 DID CONSPIRE TO AND COMMIT A HOBBS ACT ROBBERY; 18:2 AIDING AND ABETTING"
+        },
+        {
+          "charge_offence_description": "18:924(o) DID CONSPIRE TO CARRY, USE, AND POSSESS "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        }
+      ]
+    }
+  ]
+}

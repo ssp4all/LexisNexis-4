@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_114cr135_OHND",
+  "case_key": "1:14cr135_OHND",
+  "case_lni": "5BY5-X221-DXDT-G07D-00000-00",
+  "case_number": "1:14cr135",
+  "case_title": "United States of America v. Noble",
+  "case_info_full_case_name": "United States of America v. Noble",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Noble",
+  "case_date_filed": "2014-04-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert F. Corts",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "Phillip J. Tripi",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Vasile C. Katsaros",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Siarres R. Noble",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Distribution of Fentanyl &; Heroin(1-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Distribution of fentanyl and heroin(1s-7s)"
+        },
+        {
+          "charge_disposition": "Custody of BOP for 240 months on each of counts 1s-7s, to run concurrently. The Court recommends: That the defendant be placed in a facility as close to Elyria, OH as possible that offers a drug treatment program; That the defendant participate in any drug treatment programs offered at the designated facility. Defendant remanded to the custody of the US Marshal. Supervised Release for a term of 3 years on each count, to run concurrently, with conditions: Mandatory Drug Testing; Firearms and Dangerous Weapons Prohibited; DNA Collection; Substance Abuse Treatment and Testing; Mental Health Treatment; Search and Seizure; Cognitive Behavioral Program. Fine waived. Restitution not ordered. Special Assessment $700.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sara Lioi",
+          "judge_guid": "urn:entity:jud-100038915"
+        }
+      ]
+    }
+  ]
+}

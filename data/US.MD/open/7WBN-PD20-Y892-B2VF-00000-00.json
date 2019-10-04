@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_805mj1232_MDD",
+  "case_key": "8:05mj1232_MDD",
+  "case_lni": "7WBN-PD20-Y892-B2VF-00000-00",
+  "case_number": "8:05mj1232",
+  "case_title": "USA v. Euell",
+  "case_info_full_case_name": "USA v. Euell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Euell",
+  "case_date_filed": "2005-04-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Monica Euell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "USC18 641 $1,000"
+        },
+        {
+          "charge_description": "USC 18 SEC 641 theft of Govt property not exceeding $1,000 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B. Day",
+          "judge_guid": "urn:entity:jud-100057310"
+        }
+      ]
+    }
+  ]
+}

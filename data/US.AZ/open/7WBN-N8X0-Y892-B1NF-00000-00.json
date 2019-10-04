@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400m7144_azd",
+  "case_key": "4:00m7144_azd",
+  "case_lni": "7WBN-N8X0-Y892-B1NF-00000-00",
+  "case_number": "4:00m7144",
+  "case_title": "USA, et al v. Limon",
+  "case_info_full_case_name": "USA, et al v. Limon",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Limon",
+  "case_date_filed": "2000-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOMINGO LIMON, JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_312cr45_NCWD",
+  "case_key": "3:12cr45_NCWD",
+  "case_lni": "54WG-W841-DXDT-G3GT-00000-00",
+  "case_number": "3:12cr45",
+  "case_title": "USA v. Velasco-Segura",
+  "case_info_full_case_name": "USA v. Velasco-Segura",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Velasco-Segura",
+  "case_date_filed": "2012-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gilberto Velasco-Segura",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F"
+        },
+        {
+          "charge_offence_description": "18:1349.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert J. Conrad, Jr",
+          "judge_guid": "urn:entity:jud-100096077"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David Keesler",
+          "judge_guid": "urn:entity:jud-100043286"
+        }
+      ]
+    }
+  ]
+}

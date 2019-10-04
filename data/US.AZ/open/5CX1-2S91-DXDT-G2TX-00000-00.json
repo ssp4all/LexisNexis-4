@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414cr1331_AZD",
+  "case_key": "4:14cr1331_AZD",
+  "case_lni": "5CX1-2S91-DXDT-G2TX-00000-00",
+  "case_number": "4:14cr1331",
+  "case_title": "USA v. Moreno-Olmos",
+  "case_info_full_case_name": "USA v. Moreno-Olmos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Olmos",
+  "case_date_filed": "2014-08-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Benjamin German Moreno-Olmos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 enhanced by 8:1326(b)(2) Re-Entry After Deportation(1)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the Bureau of Prisons for a term of TWENTY FOUR (24) MONTHS, with credit for time served; placed on supervised release for a term of THIRTY SIX (36) MONTHS; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Illegal Re Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(2) Illegal Re Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

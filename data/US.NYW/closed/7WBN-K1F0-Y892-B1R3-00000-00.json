@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_194cr58_nywd",
+  "case_key": "1:94cr58_nywd",
+  "case_lni": "7WBN-K1F0-Y892-B1R3-00000-00",
+  "case_number": "1:94cr58",
+  "case_title": "USA v. Fronckowiak",
+  "case_info_full_case_name": "USA v. Fronckowiak",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fronckowiak",
+  "case_date_filed": "1994-05-02",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "MARGRET FRONCKOWIAK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343"
+        },
+        {
+          "charge_description": "18:1343 POSTAL, INTERSTATE WIRE, RADIO, ETC.; CONSPIRACY (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 4 years probation, six months to be served on home confinement; defendant is to pay cost of electronic monitoring system; RESTITUTION: $5,460.00 due immediately, execution of restitution is stayed provided defendant makes timely installments; Full payment of restitution is due 3 months prior to the expiration of supervision; SPECIAL ASSESSMENT: $50.00 due immediately (RJA) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USDJ",
+          "judge_name": "Richard J. Arcara",
+          "judge_guid": "urn:entity:jud-100074279"
+        }
+      ]
+    }
+  ]
+}

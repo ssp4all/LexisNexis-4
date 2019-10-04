@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_314cr101_CAND",
+  "case_key": "3:14cr101_CAND",
+  "case_lni": "5BKV-X6P1-DXDT-G290-00000-00",
+  "case_number": "3:14cr101",
+  "case_title": "USA v. Williams et al",
+  "case_info_full_case_name": "USA v. Williams et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams et al",
+  "case_date_filed": "2014-02-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kimberly Eloise Hopkins",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Vernon Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) Felon in Possession of Firearms and Ammunition(1)"
+        },
+        {
+          "charge_disposition": "custody for 30 months, 3 yrs supervised release, with conditions, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(k) Possession of Firearm with Serial Number Removed(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William Alsup",
+          "judge_guid": "urn:entity:jud-100074545"
+        }
+      ]
+    },
+    {
+      "party_name": "Ronald Raynaldo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(k) Possession of Firearm with Serial Number Removed(2)"
+        },
+        {
+          "charge_disposition": "5 yrs probation, with conditions, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William Alsup",
+          "judge_guid": "urn:entity:jud-100074545"
+        }
+      ]
+    }
+  ]
+}

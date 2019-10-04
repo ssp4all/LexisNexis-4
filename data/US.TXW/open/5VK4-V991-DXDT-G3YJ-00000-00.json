@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_319cr600_TXWD",
+  "case_key": "3:19cr600_TXWD",
+  "case_lni": "5VK4-V991-DXDT-G3YJ-00000-00",
+  "case_number": "3:19cr600",
+  "case_title": "USA v. De Jesus-Ferreira",
+  "case_info_full_case_name": "USA v. De Jesus-Ferreira",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De Jesus-Ferreira",
+  "case_date_filed": "2019-03-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Colleen Marie Egan",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aladim Junior De Jesus-Ferreira",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1543.F FORGERY OR FALSE USE OF PASSPORT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "-1 1543   -1"
+        },
+        {
+          "charge_offence_description": "-1 1543   -1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank Montalvo",
+          "judge_guid": "urn:entity:jud-100016084"
+        }
+      ]
+    }
+  ]
+}

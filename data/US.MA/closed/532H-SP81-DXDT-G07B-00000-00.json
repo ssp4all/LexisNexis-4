@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_111cr10226_MAD",
+  "case_key": "1:11cr10226_MAD",
+  "case_lni": "532H-SP81-DXDT-G07B-00000-00",
+  "case_number": "1:11cr10226",
+  "case_title": "USA v. Martinez",
+  "case_info_full_case_name": "USA v. Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez",
+  "case_date_filed": "2011-06-09",
+  "case_status": "Closed",
+  "case_status_date": "10/05/2012",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Tavares M. Brewington",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raymond Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1)...FELON IN POSSESSION OF A FIREARM AND AMMUNITION(1)"
+        },
+        {
+          "charge_disposition": "RE- SENTENCING HELD case remanded back from the USCA.....Sentence Imposed: The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of TIME SERVED on Count 1. The court makes the following recommendations to the Bureau of Prisons: Facility that the defendant can participate in a trade program, construction; plumbing; electrical; participate in substance abuse treatment including the 500 Hour RDAP. Upon release from imprisonment, the defendant shall be on supervised release for a term of 2 years. Standard and Special Conditions of Supervision imposed; No Fine; $100 Special Assessment. Defendant Released today - remanded to the Custody of the US Marshal to be processed and released, court adjourned. (Ausa Levitt, Atty Fick, PO S.Walls)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Patti B. Saris",
+          "judge_guid": "urn:entity:jud-100027081"
+        }
+      ]
+    }
+  ]
+}

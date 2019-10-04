@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416cr1333_AZD",
+  "case_key": "4:16cr1333_AZD",
+  "case_lni": "5K5V-66M1-DXDT-G0JR-00000-00",
+  "case_number": "4:16cr1333",
+  "case_title": "USA v. Javier-Garcia",
+  "case_info_full_case_name": "USA v. Javier-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Javier-Garcia",
+  "case_date_filed": "2016-07-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joel Javier-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326,enhanced by (b)(2) Illegal Re-Entry(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(b)(1) Illegal Re Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(1) Illegal Re Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lynnette C Kimmins",
+          "judge_guid": "urn:entity:jud-100126936"
+        }
+      ]
+    }
+  ]
+}

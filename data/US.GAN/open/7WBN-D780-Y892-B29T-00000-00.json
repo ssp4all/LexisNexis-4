@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_103cr552_gand",
+  "case_key": "1:03cr552_gand",
+  "case_lni": "7WBN-D780-Y892-B29T-00000-00",
+  "case_number": "1:03cr552",
+  "case_title": "USA v. Sanchez-Perez",
+  "case_info_full_case_name": "USA v. Sanchez-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Perez",
+  "case_date_filed": "2003-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Yonette Sam-Buchanan",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE SANCHEZ-PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(2) (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(2) and (b)(2) REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326-Reentry"
+        },
+        {
+          "charge_description": "8:1326-Reentry of deported alien [1:03-m-1029]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_608cr21_TXWD",
+  "case_key": "6:08cr21_TXWD",
+  "case_lni": "7WBN-P6C0-Y892-B1H1-00000-00",
+  "case_number": "6:08cr21",
+  "case_title": "USA v. Holdbrook",
+  "case_info_full_case_name": "USA v. Holdbrook",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Holdbrook",
+  "case_date_filed": "2008-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Edward Holdbrook DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "21:844A=CP.F 9 30-day"
+        },
+        {
+          "charge_description": "21:844A=CP.F CONTROLLED SUBSTANCE-POSSESSION--Purchase of more than 9 grams of pseudoephedrine base during a 30-day period (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Walter S. Smith",
+          "judge_guid": "urn:entity:jud-100020612"
+        }
+      ]
+    }
+  ]
+}

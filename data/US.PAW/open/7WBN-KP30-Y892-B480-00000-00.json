@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_205m247_PAWD",
+  "case_key": "2:05m247_PAWD",
+  "case_lni": "7WBN-KP30-Y892-B480-00000-00",
+  "case_number": "2:05m247",
+  "case_title": "USA v. HLAVAC",
+  "case_info_full_case_name": "USA v. HLAVAC",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "HLAVAC",
+  "case_date_filed": "2005-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANDREW HLAVAC",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2422 (b) 18"
+        },
+        {
+          "charge_description": "Violation of 18 USC 2422 (b) using means of interstate commerce, namely a computer to knowingly persuade, induce, entice, or coerce any individual who has not attained the age of 18 years to engage in prositution or any sexual activity for which any person can be charged with a criminal offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Lisa Pupo Lenihan",
+          "judge_guid": "urn:entity:jud-100039224"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_112cr70_TXED",
+  "case_key": "1:12cr70_TXED",
+  "case_lni": "55V2-0FS1-DXDT-G0VX-00000-00",
+  "case_number": "1:12cr70",
+  "case_title": "USA v. Barron et al",
+  "case_info_full_case_name": "USA v. Barron et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barron et al",
+  "case_date_filed": "2012-06-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Stacey Marie Barron",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO PRODUCE CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_disposition": "276 months imprisonment, $106,272.10 restitution, 15 yrs sup/rel, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRODUCTION OF CHILD PORNOGRAPHY(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "DISTRBUTION OF MATERIALS INVOLVING THE SEXUAL EXPLOITATION OF MINORS(4)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marcia A. Crone",
+          "judge_guid": "urn:entity:jud-100045517"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Zack Hawthorn",
+          "judge_guid": "urn:entity:jud-100080330"
+        }
+      ]
+    },
+    {
+      "party_name": "Johnny Ray Baldwin, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DISTRIBUTION OF MATERIALS INVOLVING THE SEXUAL EXPLOITATION OF MINORS(4)"
+        },
+        {
+          "charge_disposition": "108 months imprisonment, $106,272.10 restitution, 10 yrs sup/rel, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO PRODUCE CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRODUCTION OF CHILD PORNOGRAPHY(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marcia A. Crone",
+          "judge_guid": "urn:entity:jud-100045517"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Zack Hawthorn",
+          "judge_guid": "urn:entity:jud-100080330"
+        }
+      ]
+    }
+  ]
+}

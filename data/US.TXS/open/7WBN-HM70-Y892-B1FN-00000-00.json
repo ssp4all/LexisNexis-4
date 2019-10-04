@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_406cr116_TXSD",
+  "case_key": "4:06cr116_TXSD",
+  "case_lni": "7WBN-HM70-Y892-B1FN-00000-00",
+  "case_number": "4:06cr116",
+  "case_title": "USA v. Horridge",
+  "case_info_full_case_name": "USA v. Horridge",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Horridge",
+  "case_date_filed": "2006-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roy Gerherd Horridge",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO COMMIT AIRCRAFT PARTS FRAUD INVOLVING AIRCRAFT OR SPACE VEHICLES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "AIRCRAFT PARTS FRAUD/AIDING AND ABETTING-FRAUD INVOLVING AIRCRAFT OR SPACE VEHICLES (2-10)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BANK FRAUD-AIDING AND ABETTING (11)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lynn N. Hughes",
+          "judge_guid": "urn:entity:jud-100033862"
+        }
+      ]
+    }
+  ]
+}

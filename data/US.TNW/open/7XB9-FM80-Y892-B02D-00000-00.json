@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_209cr20506_TNWD",
+  "case_key": "2:09cr20506_TNWD",
+  "case_lni": "7XB9-FM80-Y892-B02D-00000-00",
+  "case_number": "2:09cr20506",
+  "case_title": "USA v. Key",
+  "case_info_full_case_name": "USA v. Key",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Key",
+  "case_date_filed": "2009-12-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "Kevin Patrick Whitmore"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Teska Key",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(2)"
+        },
+        {
+          "charge_disposition": "Incarceration 15 months. 2 years supervised release. $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g) UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    }
+  ]
+}

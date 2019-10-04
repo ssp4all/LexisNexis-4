@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_375cr835_casd",
+  "case_key": "3:75cr835_casd",
+  "case_lni": "7WBN-N0S0-Y892-B348-00000-00",
+  "case_number": "3:75cr835",
+  "case_title": "USA v. Morales-Gastelum",
+  "case_info_full_case_name": "USA v. Morales-Gastelum",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales-Gastelum",
+  "case_date_filed": "1975-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE XXRAHAM MORALES-GASTELUM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952,960,963-Conspiracy"
+        },
+        {
+          "charge_description": "21:952,960,963-Conspiracy to import heroin (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1),846-Conspiracy"
+        },
+        {
+          "charge_description": "21:841(a)(1),846-Conspiracy to possess heroin with intent to distribute (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of heroin with intent to distribute (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1325"
+        },
+        {
+          "charge_description": "8:1325 IMMIGRATION LAWS, ILLEGAL ENTRY (5-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952,960,963,841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:952,960,963,841(a)(1)-Conspiracy to import and possess marijuana with intent to distribute [3:75-m-1034]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William B. Enright",
+          "judge_guid": "urn:entity:jud-100043578"
+        }
+      ]
+    }
+  ]
+}

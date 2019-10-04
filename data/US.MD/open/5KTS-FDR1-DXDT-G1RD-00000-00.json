@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_116po8289_MDD",
+  "case_key": "1:16po8289_MDD",
+  "case_lni": "5KTS-FDR1-DXDT-G1RD-00000-00",
+  "case_number": "1:16po8289",
+  "case_title": "USA vs Simmons",
+  "case_info_full_case_name": "USA vs Simmons",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Simmons",
+  "case_date_filed": "2016-09-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Meade",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING VEH. ON HWY. AT SPEED EXCEEDING LIMIT (6122403)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Mark Coulson",
+          "judge_guid": "urn:entity:jud-100108230"
+        }
+      ]
+    }
+  ]
+}

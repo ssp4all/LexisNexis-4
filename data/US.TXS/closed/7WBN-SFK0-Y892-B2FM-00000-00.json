@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_598m2913_txsd",
+  "case_key": "5:98m2913_txsd",
+  "case_lni": "7WBN-SFK0-Y892-B2FM-00000-00",
+  "case_number": "5:98m2913",
+  "case_title": "USA v. Martinez-Tijerina",
+  "case_info_full_case_name": "USA v. Martinez-Tijerina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Tijerina",
+  "case_date_filed": "1998-07-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TOMAS MARTINEZ-TIJERINA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Copy of Warrant for Arrest and Indictment from the Western District of Texas (San Antonio, Tx), filed"
+        },
+        {
+          "charge_disposition": "Removed to charging district (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

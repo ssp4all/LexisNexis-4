@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_599m2886_txsd",
+  "case_key": "5:99m2886_txsd",
+  "case_lni": "7WBN-SFK0-Y892-B4NB-00000-00",
+  "case_number": "5:99m2886",
+  "case_title": "USA v. Gonzalez-Reyes",
+  "case_info_full_case_name": "USA v. Gonzalez-Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Reyes",
+  "case_date_filed": "1999-07-29",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERARDO GONZALEZ-REYES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P"
+        },
+        {
+          "charge_description": "8:1325.P CONCEALMENT OF FACTS ABOUT REENTRY (1)"
+        },
+        {
+          "charge_disposition": "5 years probation without supervision, on condition of no illegal return to the U.S., and $10.00 payable into the Crime Victim's Fund. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "Unlawfully entered the U.S. by evading examination or inspection by Immigration officers/or by willful concealment of a material fact."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

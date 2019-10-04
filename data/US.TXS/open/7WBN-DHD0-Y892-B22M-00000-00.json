@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_105mj955_TXSD",
+  "case_key": "1:05mj955_TXSD",
+  "case_lni": "7WBN-DHD0-Y892-B22M-00000-00",
+  "case_number": "1:05mj955",
+  "case_title": "USA v. Saldana-Ventura",
+  "case_info_full_case_name": "USA v. Saldana-Ventura",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Saldana-Ventura",
+  "case_date_filed": "2005-09-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Porifirio Saldana-Ventura",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F;"
+        },
+        {
+          "charge_description": "8:1326A.F; knowingly and unlawfully was present in the United States having been found in Cameron County, Texas."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

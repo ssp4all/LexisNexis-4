@@ -1,0 +1,102 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_415cr52_FLND",
+  "case_key": "4:15cr52_FLND",
+  "case_lni": "5K8V-7VN1-DXDT-G4WN-00000-00",
+  "case_number": "4:15cr52",
+  "case_title": "USA v. MELTON",
+  "case_info_full_case_name": "USA v. MELTON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MELTON",
+  "case_date_filed": "2015-12-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "MICHAEL JAY HARWIN",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NICOLE LYNN MELTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(16)"
+        },
+        {
+          "charge_disposition": "Imprisonment 36 months. Supervised Release 3 years. SMA $300. Restitution in the amount of $265,135.90. Defendant shall report to USM in Tallahassee or designated institution by noon on August 8, 2016. BOP designation as near as possible to Tallahassee, Florida."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRODUCES/TRAFFICS IN COUNTERFEIT DEVICE(21)"
+        },
+        {
+          "charge_disposition": "Imprisonment 36 months. Supervised Release 3 years. SMA $300. Restitution in the amount of $265,135.90. Defendant shall report to USM in Tallahassee or designated institution by noon on August 8, 2016. BOP designation as near as possible to Tallahassee, Florida."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS(22)"
+        },
+        {
+          "charge_disposition": "Imprisonment 36 months. Supervised Release 3 years. SMA $300. Restitution in the amount of $265,135.90. Defendant shall report to USM in Tallahassee or designated institution by noon on August 8, 2016. BOP designation as near as possible to Tallahassee, Florida."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(1-15)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(17)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRODUCES/TRAFFICS IN COUNTERFEIT DEVICE(18-20)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "MARK E WALKER",
+          "judge_guid": "urn:entity:jud-100104529"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "CHARLES A STAMPELOS",
+          "judge_guid": "urn:entity:jud-100020257"
+        }
+      ]
+    }
+  ]
+}

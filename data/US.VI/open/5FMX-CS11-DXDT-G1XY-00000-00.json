@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VI_314cr49_VID",
+  "case_key": "3:14cr49_VID",
+  "case_lni": "5FMX-CS11-DXDT-G1XY-00000-00",
+  "case_number": "3:14cr49",
+  "case_title": "USA v. BRIDGES",
+  "case_info_full_case_name": "USA v. BRIDGES",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "BRIDGES",
+  "case_date_filed": "2014-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Sigrid Tejo-Sprotte",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUDY BRIDGES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF AMMUNITION(1)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the Bureau of Prisons for a term of Thirty (33) Three months; Defendant place on Three (3) years supervised release; No fine imposed; Special Assessment of $100.00 due and payable immediately"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Curtis V. Gomez",
+          "judge_guid": "urn:entity:jud-100042736"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ruth Miller",
+          "judge_guid": "urn:entity:jud-100087402"
+        }
+      ]
+    }
+  ]
+}

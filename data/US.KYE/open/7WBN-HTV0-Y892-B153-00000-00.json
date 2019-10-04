@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_502cr22_kyed",
+  "case_key": "5:02cr22_kyed",
+  "case_lni": "7WBN-HTV0-Y892-B153-00000-00",
+  "case_number": "5:02cr22",
+  "case_title": "USA v. Shores",
+  "case_info_full_case_name": "USA v. Shores",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shores",
+  "case_date_filed": "2001-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES F. SHORES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. Convicted Felon possessed firearms &; ammunition which had been shipped &; transported in interstate (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Karl S. Forester",
+          "judge_guid": "urn:entity:jud-100055574"
+        }
+      ]
+    }
+  ]
+}

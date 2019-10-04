@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_208cr20582_MIED",
+  "case_key": "2:08cr20582_MIED",
+  "case_lni": "7WBN-GVG0-Y892-B1F7-00000-00",
+  "case_number": "2:08cr20582",
+  "case_title": "United States of America v. Kemp",
+  "case_info_full_case_name": "United States of America v. Kemp",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Kemp",
+  "case_date_filed": "2008-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dwayne Kemp",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BULK CASH SMUGGLING INTO OR OUT OF THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Complaint"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "David M Lawson",
+          "judge_guid": "urn:entity:jud-100030332"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mona K Majzoub",
+          "judge_guid": "urn:entity:jud-100042922"
+        }
+      ]
+    }
+  ]
+}

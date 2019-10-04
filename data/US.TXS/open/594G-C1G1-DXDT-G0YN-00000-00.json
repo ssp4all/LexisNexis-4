@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_513po11282_TXSD",
+  "case_key": "5:13po11282_TXSD",
+  "case_lni": "594G-C1G1-DXDT-G0YN-00000-00",
+  "case_number": "5:13po11282",
+  "case_title": "USA v. Velasco-Delgado",
+  "case_info_full_case_name": "USA v. Velasco-Delgado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Velasco-Delgado",
+  "case_date_filed": "2013-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juvenal Velasco-Delgado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Scott Hacker",
+          "judge_guid": "urn:entity:jud-100070615"
+        }
+      ]
+    }
+  ]
+}

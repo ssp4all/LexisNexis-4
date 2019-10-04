@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GU_104cr28_GUD",
+  "case_key": "1:04cr28_GUD",
+  "case_lni": "5139-JY51-DXDT-G4W0-00000-00",
+  "case_number": "1:04cr28",
+  "case_title": "USA v. Javier",
+  "case_info_full_case_name": "USA v. Javier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Javier",
+  "case_date_filed": "2004-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alexander Mariano Javier",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BULK CASH SMUGGLING OUT OF THE UNITED STATES(1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "FALSE STATEMENTS TO FEDERAL AGENTS(2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "2"
+        },
+        {
+          "charge_description": "FALSE STATEMENTS TO FEDERAL AGENTS(3)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "FORFEITURE ALLEGATION&lt;br&gt;(4)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Frances M. Tydingco-Gatewood",
+          "judge_guid": "urn:entity:jud-100080725"
+        }
+      ]
+    }
+  ]
+}

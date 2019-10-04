@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_205cr94_TXSD",
+  "case_key": "2:05cr94_TXSD",
+  "case_lni": "7WBN-GP90-Y892-B4M8-00000-00",
+  "case_number": "2:05cr94",
+  "case_title": "USA v. Morales-Bermudes",
+  "case_info_full_case_name": "USA v. Morales-Bermudes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales-Bermudes",
+  "case_date_filed": "2005-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mark W Patterson",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raquel Morales-Bermudes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 8USC1326(a) 1326(b); 2/2/05; 1-Not 20 $250,000 3 $100"
+        },
+        {
+          "charge_description": "Count 1: Unlawfully found in the United States after being previously excluded, deported and removed; 8 USC 1326(a) and 1326(b); DATE OF OFFENSE: 2/2/05; PENALTY: Count 1-Not more than 20 years imprisonment; a fine of up to $250,000 (or both); up to 3 years SRT and $100 special Assessment (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Illegal re-entry of a previously deported alien; 8 USC 1326"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Hayden Head",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    }
+  ]
+}

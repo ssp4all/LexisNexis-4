@@ -1,0 +1,111 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_305cr779_OHND",
+  "case_key": "3:05cr779_OHND",
+  "case_lni": "7WBN-RR30-Y892-B0PC-00000-00",
+  "case_number": "3:05cr779",
+  "case_title": "United States of America v. Perez et al",
+  "case_info_full_case_name": "United States of America v. Perez et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Perez et al",
+  "case_date_filed": "2005-08-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cristina Montalvo Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Controlled 21:846-Conspiracy"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Controlled substance-sell, distribute, or dispense, 21:846-Conspiracy to distribute controlled substance,"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to possess with intent to distribute and distribute cocaine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession of cocaine with the intent to distribute cocaine (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "David A. Katz",
+          "judge_guid": "urn:entity:jud-100037814"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Vernelis K. Armstrong",
+          "judge_guid": "urn:entity:jud-100058441"
+        }
+      ]
+    },
+    {
+      "party_name": "Jorge Ramirez Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Controlled 21:846-Conspiracy"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Controlled substance-sell, distribute, or dispence, 21:846-Conspiracy to distribute controlled substance"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to possess with intent to distribute and distribute cocaine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession of cocaine with the intent to distribute cocaine (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "David A. Katz",
+          "judge_guid": "urn:entity:jud-100037814"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Vernelis K. Armstrong",
+          "judge_guid": "urn:entity:jud-100058441"
+        }
+      ]
+    }
+  ]
+}

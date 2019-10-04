@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_219cr144_ALND",
+  "case_key": "2:19cr144_ALND",
+  "case_lni": "5VR6-1XS1-DXDT-G3WW-00000-00",
+  "case_number": "2:19cr144",
+  "case_title": "USA v. Bevelle",
+  "case_info_full_case_name": "USA v. Bevelle",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bevelle",
+  "case_date_filed": "2019-03-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jay E Town, ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "USM",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Leonard James Weil , Jr",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Patrick LaWayne Bevelle",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:844-CONTROLLED SUBSTANCE - POSSESSION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Madeline Hughes Haikala",
+          "judge_guid": "urn:entity:jud-100102828"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John E Ott",
+          "judge_guid": "urn:entity:jud-100025291"
+        }
+      ]
+    }
+  ]
+}

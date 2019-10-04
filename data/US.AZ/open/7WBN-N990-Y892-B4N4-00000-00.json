@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_401m7095_azd",
+  "case_key": "4:01m7095_azd",
+  "case_lni": "7WBN-N990-Y892-B4N4-00000-00",
+  "case_number": "4:01m7095",
+  "case_title": "USA, et al v. Osuna-Gastelum",
+  "case_info_full_case_name": "USA, et al v. Osuna-Gastelum",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Osuna-Gastelum",
+  "case_date_filed": "2001-09-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDEN GUADALUPE OSUNA-GASTELUM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326 and 1326(b)(2) Illegal Re-Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

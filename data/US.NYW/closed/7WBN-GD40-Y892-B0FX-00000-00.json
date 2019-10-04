@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_194cr197_nywd",
+  "case_key": "1:94cr197_nywd",
+  "case_lni": "7WBN-GD40-Y892-B0FX-00000-00",
+  "case_number": "1:94cr197",
+  "case_title": "USA v. Kim",
+  "case_info_full_case_name": "USA v. Kim",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kim",
+  "case_date_filed": "1994-11-15",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "YONG HAK KIM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F IMMIGRATION LAWS, OTHER (1)"
+        },
+        {
+          "charge_disposition": "DISMISSED (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS (1s)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 5 years probation; FINE: $4,000.00; SPECIAL ASSESSMENT: $50.00; (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371; 8:1324(a)(1)(A), (a)(1)(B), 1325(a)(1)-CONSPIRACY: 1) 8:1324(a)(1)(A) 2) 8:1324(a)(1)(B) 3) 8:1325(a)(1)"
+        },
+        {
+          "charge_description": "18:371; 8:1324(a)(1)(A), (a)(1)(B), 1325(a)(1)-CONSPIRACY: 1) TO VIOLATE 8:1324(a)(1)(A) BY BRINGING PERSONS TO THE UNITED STATES AT A PLACE OTHER THAN A DESIGNATED PORT OF ENTRY AND KNOWING THAT THESE PERSONS WERE ALIENS; 2) TO VIOLATE 8:1324(a)(1)(B) BY TRANSPORTING WITHIN THE UNITED STATES ALIENS WHO HAD ENTERED THE UNITED STATES IN VIOLATION OF LAW; 3) TO VIOLATE 8:1325(a)(1) BY ENTERING THE UNITED STATES WITHOUT INSPECTION. [1:94-m-1135]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior"
+        },
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Leslie G. Foschio",
+          "judge_guid": "urn:entity:jud-100055538"
+        }
+      ]
+    }
+  ]
+}

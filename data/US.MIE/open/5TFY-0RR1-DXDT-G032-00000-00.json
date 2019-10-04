@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_218mj30526_MIED",
+  "case_key": "2:18mj30526_MIED",
+  "case_lni": "5TFY-0RR1-DXDT-G032-00000-00",
+  "case_number": "2:18mj30526",
+  "case_title": "United States of America v. Laturo et al",
+  "case_info_full_case_name": "United States of America v. Laturo et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Laturo et al",
+  "case_date_filed": "2018-10-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Robert VanWert",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raymond Laturo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "Sam Palazzola",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

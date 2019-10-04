@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_207cr20384_TNWD",
+  "case_key": "2:07cr20384_TNWD",
+  "case_lni": "7WBN-GT00-Y892-B0TR-00000-00",
+  "case_number": "2:07cr20384",
+  "case_title": "USA v. Moore",
+  "case_info_full_case_name": "USA v. Moore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moore",
+  "case_date_filed": "2007-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Marques T. Young",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "E. Greg Gilluly , Jr."
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kevin Moore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "84 months incarceration; 3 years supervised release; $200 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    }
+  ]
+}

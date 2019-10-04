@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_803m178_scd",
+  "case_key": "8:03m178_scd",
+  "case_lni": "7WBN-PCN0-Y892-B4PB-00000-00",
+  "case_number": "8:03m178",
+  "case_title": "USA v. Harrison",
+  "case_info_full_case_name": "USA v. Harrison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harrison",
+  "case_date_filed": "2003-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KENNETH SAMUEL HARRISON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343"
+        },
+        {
+          "charge_description": "18:1343 devise a scheme to defraud and; conspiracy to execute fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William M. Catoe",
+          "judge_guid": "urn:entity:jud-100063023"
+        }
+      ]
+    }
+  ]
+}

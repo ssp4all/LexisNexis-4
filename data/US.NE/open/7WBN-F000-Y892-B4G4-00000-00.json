@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_803cr265_ned",
+  "case_key": "8:03cr265_ned",
+  "case_lni": "7WBN-F000-Y892-B4G4-00000-00",
+  "case_number": "8:03cr265",
+  "case_title": "USA v. Lopez-Almarez",
+  "case_info_full_case_name": "USA v. Lopez-Almarez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Almarez",
+  "case_date_filed": "2003-06-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Antonio Lopez-Almarez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(ii)(II)-NARCOTICS-SELL,"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(ii)(II)-NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Laurie Smith Camp",
+          "judge_guid": "urn:entity:jud-100063438"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas D. Thalken",
+          "judge_guid": "urn:entity:jud-100007179"
+        }
+      ]
+    }
+  ]
+}

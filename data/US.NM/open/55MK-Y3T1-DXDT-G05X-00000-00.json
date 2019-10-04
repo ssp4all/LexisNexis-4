@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_212po940_NMD",
+  "case_key": "2:12po940_NMD",
+  "case_lni": "55MK-Y3T1-DXDT-G05X-00000-00",
+  "case_number": "2:12po940",
+  "case_title": "USA v. Vargas-Hernandez",
+  "case_info_full_case_name": "USA v. Vargas-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vargas-Hernandez",
+  "case_date_filed": "2012-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Carla Viviana Vargas-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a)(1)"
+        },
+        {
+          "charge_description": "8:1325(a)(1) Illegal Entry Without Inspection"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carmen E. Garza",
+          "judge_guid": "urn:entity:jud-100008901"
+        }
+      ]
+    }
+  ]
+}

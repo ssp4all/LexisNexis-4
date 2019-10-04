@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_379m1937_cand",
+  "case_key": "3:79m1937_cand",
+  "case_lni": "7WBN-N0S0-Y892-B37X-00000-00",
+  "case_number": "3:79m1937",
+  "case_title": "USA v. De La Torre, et al",
+  "case_info_full_case_name": "USA v. De La Torre, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Torre, et al",
+  "case_date_filed": "1979-11-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BONIFACIO DE LA TORRE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    },
+    {
+      "party_name": "JAVIER IBARRA-VALENCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841 21:846"
+        },
+        {
+          "charge_description": "21:841 &; 21:846 Combine, conspire &; distribute heroin."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    },
+    {
+      "party_name": "COSME GOMEZ-PELALLO",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    },
+    {
+      "party_name": "JAVIER GOMEZ-FONSECA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    }
+  ]
+}

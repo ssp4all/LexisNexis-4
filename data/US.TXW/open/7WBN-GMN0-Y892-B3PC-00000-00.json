@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_203m1140_txwd",
+  "case_key": "2:03m1140_txwd",
+  "case_lni": "7WBN-GMN0-Y892-B3PC-00000-00",
+  "case_number": "2:03m1140",
+  "case_title": "USA v. Bozquez",
+  "case_info_full_case_name": "USA v. Bozquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bozquez",
+  "case_date_filed": "2003-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "REYNALDO BOZQUEZ JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC952-import"
+        },
+        {
+          "charge_description": "21 USC 952-import and cause to be imported three Rohypnol pills, a Schedule IV Controlled Substance, into the United States from the Republic of Mexico."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

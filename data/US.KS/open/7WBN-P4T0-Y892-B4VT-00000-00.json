@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_602cr10095_ksd",
+  "case_key": "6:02cr10095_ksd",
+  "case_lni": "7WBN-P4T0-Y892-B4VT-00000-00",
+  "case_number": "6:02cr10095",
+  "case_title": "USA v. Diaz-Medrano",
+  "case_info_full_case_name": "USA v. Diaz-Medrano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diaz-Medrano",
+  "case_date_filed": "2002-07-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CLAUDIO DIAZ-MEDRANO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)&;(b)(2) 7/2/02)"
+        },
+        {
+          "charge_description": "8:1326(a)&;(b)(2) Illegal re-entry into United States after deportation and felony conviction (INDICTMENT 7/2/02) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Wesley E. Brown",
+          "judge_guid": "urn:entity:jud-100064019"
+        }
+      ]
+    }
+  ]
+}

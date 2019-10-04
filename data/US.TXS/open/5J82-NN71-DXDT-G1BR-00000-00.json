@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_116mj241_TXSD",
+  "case_key": "1:16mj241_TXSD",
+  "case_lni": "5J82-NN71-DXDT-G1BR-00000-00",
+  "case_number": "1:16mj241",
+  "case_title": "USA v. Peralta-Ramirez",
+  "case_info_full_case_name": "USA v. Peralta-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peralta-Ramirez",
+  "case_date_filed": "2016-03-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Asst ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Peralta-Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1326(a)(1)(b)(1): An alien who had previously been denied admission, excluded, deported, or removed, knowingly and unlawfully was present in the United States, the said defendant having not obtained the consent of the Attorney General or the Secretary of the Department of Homeland Security to reapply for admission into the United States."
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1)(b)(1): An alien who had previousl"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

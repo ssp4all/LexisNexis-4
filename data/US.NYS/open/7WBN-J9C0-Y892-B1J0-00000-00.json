@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_100m741_nysd",
+  "case_key": "1:00m741_nysd",
+  "case_lni": "7WBN-J9C0-Y892-B1J0-00000-00",
+  "case_number": "1:00m741",
+  "case_title": "USA v. Korvah",
+  "case_info_full_case_name": "USA v. Korvah",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Korvah",
+  "case_date_filed": "2000-04-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BENGU KORVAH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC248:"
+        },
+        {
+          "charge_description": "18 U.S.C. 248: INTERFERENCE WITH FREEDOM OF ACCESS TO REPRODUCTIVE HEALTH CLINIC ENTRANCES."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

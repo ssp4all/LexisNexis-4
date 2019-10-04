@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_198cr479_ilnd",
+  "case_key": "1:98cr479_ilnd",
+  "case_lni": "7WBN-GGB0-Y892-B35N-00000-00",
+  "case_number": "1:98cr479",
+  "case_title": "USA v. Binion, et al",
+  "case_info_full_case_name": "USA v. Binion, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Binion, et al",
+  "case_date_filed": "1998-07-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AUSA",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHELEBUA BINION",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A.F 18:2"
+        },
+        {
+          "charge_description": "18:1028A.F FRAUD WITH IDENTIFICATION DOCUMENTS and 18:2 AID AND ABET (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028(a)(6)"
+        },
+        {
+          "charge_description": "18:1028(a)(6) Fraud with identification documents"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Elaine E. Bucklo",
+          "judge_guid": "urn:entity:jud-100063865"
+        }
+      ]
+    },
+    {
+      "party_name": "MINNIE WARREN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby placed on probation for a term of five (5) years. The defendant shall make restitution for the total amount of $5,100.00. Schedule of payments. Statement of reasons. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Elaine E. Bucklo",
+          "judge_guid": "urn:entity:jud-100063865"
+        }
+      ]
+    }
+  ]
+}

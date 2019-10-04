@@ -1,0 +1,28 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_111cr528_NYND",
+  "case_key": "1:11cr528_NYND",
+  "case_lni": "5472-9NC1-DXDT-G1Y8-00000-00",
+  "case_number": "1:11cr528",
+  "case_title": "USA v. Barringer",
+  "case_info_full_case_name": "USA v. Barringer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barringer",
+  "case_date_filed": "2011-11-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Marion Louise Barringer",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_name": "Mae A. D'Agostino",
+          "judge_guid": "urn:entity:jud-100057650"
+        }
+      ]
+    }
+  ]
+}

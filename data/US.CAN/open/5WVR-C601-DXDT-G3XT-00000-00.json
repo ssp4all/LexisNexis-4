@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_319mj71435_CAND",
+  "case_key": "3:19mj71435_CAND",
+  "case_lni": "5WVR-C601-DXDT-G3XT-00000-00",
+  "case_number": "3:19mj71435",
+  "case_title": "USA v. Mati",
+  "case_info_full_case_name": "USA v. Mati",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mati",
+  "case_date_filed": "2019-09-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tei Mati",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) Felon in Possession of Ammunition and Firearm, 26:5861(c) Possession of Shotgun With a Barrel Less Than 16 Inches"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) Felon in Possession of Ammunition and"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

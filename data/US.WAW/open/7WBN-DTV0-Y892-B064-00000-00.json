@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_395m5048_wawd",
+  "case_key": "3:95m5048_wawd",
+  "case_lni": "7WBN-DTV0-Y892-B064-00000-00",
+  "case_number": "3:95m5048",
+  "case_title": "USA v. Miles",
+  "case_info_full_case_name": "USA v. Miles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miles",
+  "case_date_filed": "1995-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TRAMINE GREGORY MILES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922 (g) (1)"
+        },
+        {
+          "charge_description": "For Violation of 18:922 (g) (1) to wit: Felon in possession of a Firearm."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Kelley Arnold",
+          "judge_guid": "urn:entity:jud-100074208"
+        }
+      ]
+    }
+  ]
+}

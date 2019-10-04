@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_217mj645_NVD",
+  "case_key": "2:17mj645_NVD",
+  "case_lni": "5NRJ-2K51-DXDT-G0FX-00000-00",
+  "case_number": "2:17mj645",
+  "case_title": "USA v. Arshakuni",
+  "case_info_full_case_name": "USA v. Arshakuni",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arshakuni",
+  "case_date_filed": "2017-06-09",
+  "case_status": "Closed",
+  "case_status_date": "06/23/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sarkis Arshakuni",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count One - 18:113(a)(4) - Assault by Striking, Beating and Wounding Count 2 - 36CFR2.34(a)(1) - Disorderly Conduct"
+        },
+        {
+          "charge_disposition": "Sentence Imposed"
+        },
+        {
+          "charge_offence_description": "Count One - 18:113(a)(4) - Assault by Striking, Be"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "George Foley, Jr",
+          "judge_guid": "urn:entity:jud-100055655"
+        }
+      ]
+    }
+  ]
+}

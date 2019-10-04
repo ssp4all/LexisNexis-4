@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_799m1705_txsd",
+  "case_key": "7:99m1705_txsd",
+  "case_lni": "7WBN-PBW0-Y892-B4D7-00000-00",
+  "case_number": "7:99m1705",
+  "case_title": "USA v. Castillo-Ramirez, et al",
+  "case_info_full_case_name": "USA v. Castillo-Ramirez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Ramirez, et al",
+  "case_date_filed": "1999-05-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAMON QUIROZ-GOMEZ",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dorina Ramos",
+          "judge_guid": "urn:entity:jud-100070094"
+        }
+      ]
+    },
+    {
+      "party_name": "MANUEL DE JESUS VELAZCO-GONZALES",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dorina Ramos",
+          "judge_guid": "urn:entity:jud-100070094"
+        }
+      ]
+    },
+    {
+      "party_name": "LUIS ALBERTO CARRILLO-CARONA",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dorina Ramos",
+          "judge_guid": "urn:entity:jud-100070094"
+        }
+      ]
+    },
+    {
+      "party_name": "DALILA CASTILLO-RAMIREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Alien Smuggling (Transporting)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dorina Ramos",
+          "judge_guid": "urn:entity:jud-100070094"
+        }
+      ]
+    },
+    {
+      "party_name": "JOSE MANUEL LINARES-TORRES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Alien Smuggling (Transporting)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dorina Ramos",
+          "judge_guid": "urn:entity:jud-100070094"
+        }
+      ]
+    }
+  ]
+}

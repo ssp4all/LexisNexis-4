@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_617mj4145_NYWD",
+  "case_key": "6:17mj4145_NYWD",
+  "case_lni": "5PWG-G9Y1-DXDT-G3MX-00000-00",
+  "case_number": "6:17mj4145",
+  "case_title": "USA v. Rosario",
+  "case_info_full_case_name": "USA v. Rosario",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosario",
+  "case_date_filed": "2017-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katelyn M. Hartford",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Rosario",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F, 18:924C.F - knowingly, willfully and unlawfully possess with intent to distribute and distribution of a controlled substance and did knowingly, willfully and unlawfully possess a firearm in furtherance of a drug trafficking crime"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F, 18:924C.F - knowingly, willfully and"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Marian W. Payson",
+          "judge_guid": "urn:entity:jud-100024892"
+        }
+      ]
+    }
+  ]
+}

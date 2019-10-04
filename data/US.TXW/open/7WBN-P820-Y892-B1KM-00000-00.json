@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_701m132_txwd",
+  "case_key": "7:01m132_txwd",
+  "case_lni": "7WBN-P820-Y892-B1KM-00000-00",
+  "case_number": "7:01m132",
+  "case_title": "USA v. Wells",
+  "case_info_full_case_name": "USA v. Wells",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wells",
+  "case_date_filed": "2001-11-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "9, 2001 18USC2113(a), 922(g)(1), 922(g)(3), 924(C)(1)(A)"
+        },
+        {
+          "charge_description": "On or about July 9, 2001 in Martin County, in the Western District of Texas defendant, a previously convicted felon who was aided by another, did use a firearm in the commission of a bank robbery in violation of Title 18 USC 2113(a), 922(g)(1), 922(g)(3), 924(C)(1)(A) and 371"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "L. Stuart Platt",
+          "judge_guid": "urn:entity:jud-100024402"
+        }
+      ]
+    }
+  ]
+}

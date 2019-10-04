@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_115mj744_TXSD",
+  "case_key": "1:15mj744_TXSD",
+  "case_lni": "5GNX-WTH1-DXDT-G0HY-00000-00",
+  "case_number": "1:15mj744",
+  "case_title": "USA v. Silva-Solano",
+  "case_info_full_case_name": "USA v. Silva-Solano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Silva-Solano",
+  "case_date_filed": "2015-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Asst ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Arturo Silva-Solano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and unlawfully was present in the U.S. after having been previously denied admission, excluded, deported, and removed, 8:1326(a)"
+        },
+        {
+          "charge_offence_description": "Knowingly and unlawfully was present in the U.S. a"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ignacio Torteya, III",
+          "judge_guid": "urn:entity:jud-100021592"
+        }
+      ]
+    }
+  ]
+}

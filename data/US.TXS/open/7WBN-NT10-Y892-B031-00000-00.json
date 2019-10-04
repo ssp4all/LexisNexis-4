@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_500cr365_txsd",
+  "case_key": "5:00cr365_txsd",
+  "case_lni": "7WBN-NT10-Y892-B031-00000-00",
+  "case_number": "5:00cr365",
+  "case_title": "USA v. Caceres-Rodriguez",
+  "case_info_full_case_name": "USA v. Caceres-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Caceres-Rodriguez",
+  "case_date_filed": "2000-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PEDRO CACERES-RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 20 3"
+        },
+        {
+          "charge_description": "Ct 1: Illegal entry after deportation; Penalty: 0 to 20 yrs and/or $250,000.00, $100 Special Assessment not more than 3 yrs term of supervised release. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Unlawfully re-entered the U. S. aftr having previously been arrested and deported [5:00-m-1230]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

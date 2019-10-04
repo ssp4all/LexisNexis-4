@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_112mj581_HID",
+  "case_key": "1:12mj581_HID",
+  "case_lni": "55N5-FVR1-DXDT-G53B-00000-00",
+  "case_number": "1:12mj581",
+  "case_title": "USA v. Parcel",
+  "case_info_full_case_name": "USA v. Parcel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parcel",
+  "case_date_filed": "2012-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Parcel",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "KEVIN S.C. CHANG",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

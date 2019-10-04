@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_501m410_nced",
+  "case_key": "5:01m410_nced",
+  "case_lni": "7WBN-NTH0-Y892-B29C-00000-00",
+  "case_number": "5:01m410",
+  "case_title": "USA v. Tillery, et al",
+  "case_info_full_case_name": "USA v. Tillery, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tillery, et al",
+  "case_date_filed": "2001-08-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2113(a)(d), 371,"
+        },
+        {
+          "charge_description": "Bank Robbery, in violation of 18 USC 2113(a)(d), 371, 924(c)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Alexander B. Denson",
+          "judge_guid": "urn:entity:jud-100044754"
+        }
+      ]
+    },
+    {
+      "party_name": "PATRICIA HILL HILL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2113(a)(d), 371,"
+        },
+        {
+          "charge_description": "Bank Robbery, in violation of 18 USC 2113(a)(d), 371, 924(c)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Alexander B. Denson",
+          "judge_guid": "urn:entity:jud-100044754"
+        }
+      ]
+    }
+  ]
+}

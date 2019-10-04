@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_108cr996_TXSD",
+  "case_key": "1:08cr996_TXSD",
+  "case_lni": "7WBN-JT20-Y892-B3MN-00000-00",
+  "case_number": "1:08cr996",
+  "case_title": "USA v. Molina Torres",
+  "case_info_full_case_name": "USA v. Molina Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Molina Torres",
+  "case_date_filed": "2008-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Milton Alberto Molina Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported, and removed;8USC1326(a)and1326(b)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

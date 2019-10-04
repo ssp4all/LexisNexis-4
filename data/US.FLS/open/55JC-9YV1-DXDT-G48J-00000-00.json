@@ -1,0 +1,117 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_12CR20135_FLSD",
+  "case_key": "12CR20135_FLSD",
+  "case_lni": "55JC-9YV1-DXDT-G48J-00000-00",
+  "case_number": "12CR20135",
+  "case_title": "USA v. Danger et al",
+  "case_info_full_case_name": "USA v. Danger et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Danger et al",
+  "case_date_filed": "2012-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Danger: Prisoner ID",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F Conspiracy to Possess With Intent to Distribute Oxycodone (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F Possession With Inttent to Distribute Oxycodone (2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F Possession With Intent to Distribute Oxycodone (3)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=NP.F"
+        },
+        {
+          "charge_description": "21:841A=NP.F Pwid Oxycodone"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joan A Lenard",
+          "judge_guid": "urn:entity:jud-100030148"
+        }
+      ]
+    },
+    {
+      "party_name": "Alain Grillo Montes De Oca: Prisoner ID",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F Conspiracy to Possess With Intent to Distribute Oxycodone (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F Possession With Intent to Distribute Oxycodone (3)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=NP.F"
+        },
+        {
+          "charge_description": "21:841A=NP.F Pwid Oxycodone"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joan A Lenard",
+          "judge_guid": "urn:entity:jud-100030148"
+        }
+      ]
+    }
+  ]
+}

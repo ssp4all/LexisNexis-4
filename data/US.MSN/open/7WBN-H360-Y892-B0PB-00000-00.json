@@ -1,0 +1,109 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSN_299cr84_msnd",
+  "case_key": "2:99cr84_msnd",
+  "case_lni": "7WBN-H360-Y892-B0PB-00000-00",
+  "case_number": "2:99cr84",
+  "case_title": "USA v. Pegram, et al",
+  "case_info_full_case_name": "USA v. Pegram, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pegram, et al",
+  "case_date_filed": "1999-08-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DARIN PEGRAM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2314.F (18:371)"
+        },
+        {
+          "charge_description": "18:2314.F SCHEME TO DEFRAUD: MONEY, STATE TAX STAMPS-conspire to devise a scheme and artifice to defraud and to obtain money and property by means of false and fraudulent pretenses by use of the mails and interstate wire communication (18:371) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER-did knowingly embezzle, steal, unlawfully take and conceal hot tubs which were constituted an interstate shipment of freight and property with intent to convert to his own use. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2314.F"
+        },
+        {
+          "charge_description": "18:2314.F SCHEME TO DEFRAUD: MONEY, STATE TAX STAMPS-did knowingly transport stolen hot tubs from Mississippi to Tennessee. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1343.F (18:2"
+        },
+        {
+          "charge_description": "18:1343.F FRAUD BY WIRE, RADIO, OR TELEVISION-did cause to be transmitted by means of wire communication in interstate commerce, reported the alleged theft of trailer and interstate shipment. (18:2 aided &; abetted) (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Glen H. Davidson",
+          "judge_guid": "urn:entity:jud-100057441"
+        }
+      ]
+    },
+    {
+      "party_name": "MARGARET MALONE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2314.F (18:371)"
+        },
+        {
+          "charge_description": "18:2314.F SCHEME TO DEFRAUD: MONEY, STATE TAX STAMPS-conspire to devise a scheme and artifice to defraud and to obtain money and property by means of false and fraudulent pretenses by use of the mails and interstate wire communication (18:371) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1343.F (18:2"
+        },
+        {
+          "charge_description": "18:1343.F FRAUD BY WIRE, RADIO, OR TELEVISION-did cause to be transmitted by means of wire communication in interstate commerce, reported the alleged theft of trailer and interstate shipment (18:2 aided &; abetted) (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Glen H. Davidson",
+          "judge_guid": "urn:entity:jud-100057441"
+        }
+      ]
+    }
+  ]
+}

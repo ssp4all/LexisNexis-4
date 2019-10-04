@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_317po152_MND",
+  "case_key": "3:17po152_MND",
+  "case_lni": "5P0R-YYR1-DXDT-G352-00000-00",
+  "case_number": "3:17po152",
+  "case_title": "USA vs Bernstein",
+  "case_info_full_case_name": "USA vs Bernstein",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bernstein",
+  "case_date_filed": "2017-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Douglas B Bernstein",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Parking in no-parking areas, as marked by yellow borders or yellow stripes (6750515)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Steven E. Rau",
+          "judge_guid": "urn:entity:jud-100018682"
+        }
+      ]
+    }
+  ]
+}

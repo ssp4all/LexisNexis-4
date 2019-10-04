@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_213cr6013_WAED",
+  "case_key": "2:13cr6013_WAED",
+  "case_lni": "57Y6-DPV1-DXDT-G524-00000-00",
+  "case_number": "2:13cr6013",
+  "case_title": "USA v. Estrada",
+  "case_info_full_case_name": "USA v. Estrada",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada",
+  "case_date_filed": "2013-03-12",
+  "case_status": "Closed",
+  "case_status_date": "08/23/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roman Henry Estrada",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) - FELON IN POSSESSION OF A FIREARM(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 91 months and 23 days to be served concurrently with the term of imprisonment in Benton County Superior Court, Washington, Cause No. 12-1-01426-8; Supervised Release: 3 years; Special Penalty Assessment: $100.00; Fine: Waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Edward F. Shea",
+          "judge_guid": "urn:entity:jud-100021263"
+        }
+      ]
+    }
+  ]
+}

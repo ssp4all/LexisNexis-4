@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_102cr678_txsd",
+  "case_key": "1:02cr678_txsd",
+  "case_lni": "7WBN-JD20-Y892-B27F-00000-00",
+  "case_number": "1:02cr678",
+  "case_title": "USA v. Gonzalez-Lopez",
+  "case_info_full_case_name": "USA v. Gonzalez-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Lopez",
+  "case_date_filed": "2002-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS GONZALEZ-LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 8USC1326(a) (b). 10/27/02; 20 3"
+        },
+        {
+          "charge_description": "Ct. 1: Attempted illegal re-entry into the U.S. 8 USC 1326(a) and (b). Offense date: 10/27/02; Penalty: 20 yrs and/or $250,000 plus 3 yrs SRT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "2: 18USC911. 10/27/02; 3 1"
+        },
+        {
+          "charge_description": "Ct. 2: Falsely identifying himself as a U.S. citizen, 18 USC 911. Offense date: 10/27/02; Penalty: Not more than 3 yrs imprisonment, a fine of $250,000.00 and a term of supervised release of not more than 1 yr. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:911 8:1326(a)(b)"
+        },
+        {
+          "charge_description": "18:911 and 8:1326(a)(b) Re-entry after deportation. [1:02-m-1677]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        }
+      ]
+    }
+  ]
+}

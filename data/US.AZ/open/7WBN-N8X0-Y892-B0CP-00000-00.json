@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400m3226_azd",
+  "case_key": "4:00m3226_azd",
+  "case_lni": "7WBN-N8X0-Y892-B0CP-00000-00",
+  "case_number": "4:00m3226",
+  "case_title": "USA, et al v. Gomez-Castro",
+  "case_info_full_case_name": "USA, et al v. Gomez-Castro",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Gomez-Castro",
+  "case_date_filed": "2000-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LUIS GOMEZ-CASTRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(b)(2) RE-ENTRY OF DEPORTED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy F Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_308mj410_VAED",
+  "case_key": "3:08mj410_VAED",
+  "case_lni": "7WBN-MY00-Y892-B4WG-00000-00",
+  "case_number": "3:08mj410",
+  "case_title": "USA v. Funes-Hernandez",
+  "case_info_full_case_name": "USA v. Funes-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Funes-Hernandez",
+  "case_date_filed": "2008-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edwin Alexander Funes-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18"
+        },
+        {
+          "charge_description": "18 U.S.C. 1546(A) Misuse of Visa"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis W Dohnal",
+          "judge_guid": "urn:entity:jud-100044444"
+        }
+      ]
+    }
+  ]
+}

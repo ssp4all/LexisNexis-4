@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_417mj6041_OHND",
+  "case_key": "4:17mj6041_OHND",
+  "case_lni": "5N2F-Y5N1-DXDT-G3J3-00000-00",
+  "case_number": "4:17mj6041",
+  "case_title": "United States of America v. Tucker",
+  "case_info_full_case_name": "United States of America v. Tucker",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Tucker",
+  "case_date_filed": "2017-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Curtis Earl Tucker, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. Section 841(a)(1)(b)(1)(C) and 18 U.S.C. Section 2 - Possession with intent to distribute a mixture or substance containing methamphetamine"
+        },
+        {
+          "charge_offence_description": "21 U.S.C. Section 841(a)(1)(b)(1)(C) and 18 U.S.C."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "George J. Limbert",
+          "judge_guid": "urn:entity:jud-100029911"
+        }
+      ]
+    }
+  ]
+}

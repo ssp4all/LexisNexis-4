@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_715cr55_TXWD",
+  "case_key": "7:15cr55_TXWD",
+  "case_lni": "5FCW-JD51-DXDT-G06R-00000-00",
+  "case_number": "7:15cr55",
+  "case_title": "USA v. Roberson",
+  "case_info_full_case_name": "USA v. Roberson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Roberson",
+  "case_date_filed": "2015-02-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Curtis Wayne Roberson, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE - defendant unlawfully, knowingly and intentionally possessed with intent to distribute a controlled substance,  which offense involved a quantity of a mixture and substance containing a detectable amount of a quantity of cocaine base, crack', in violation of Title 21, United States Code, Sections 841(a)(l) and 841(b)(1)(C).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F On or about January 27, 2015 in Midland County in the Western District of Texas defendant did knowingly and intentionally possess with intent to distribute a quantity of cocaine base in violation of Title 21 USC 841(a)(1)"
+        },
+        {
+          "charge_offence_description": "21:841A=ND.F On or about January 27, 2015 in Midla"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

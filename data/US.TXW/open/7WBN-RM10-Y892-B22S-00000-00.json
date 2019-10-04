@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_301m2237_txwd",
+  "case_key": "3:01m2237_txwd",
+  "case_lni": "7WBN-RM10-Y892-B22S-00000-00",
+  "case_number": "3:01m2237",
+  "case_title": "USA v. Rodriguez-Ortiz",
+  "case_info_full_case_name": "USA v. Rodriguez-Ortiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Ortiz",
+  "case_date_filed": "2001-07-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE RODRIGUEZ-ORTIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Fraudulent possession of an identification document in violation of Title 18 USC Section 1028(a)(4)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_202m447_vaed",
+  "case_key": "2:02m447_vaed",
+  "case_lni": "7WBN-F8J0-Y892-B36J-00000-00",
+  "case_number": "2:02m447",
+  "case_title": "USA v. Blount",
+  "case_info_full_case_name": "USA v. Blount",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blount",
+  "case_date_filed": "2002-10-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM JEROME BLOUNT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.18:111(a)(1)(&;(b)"
+        },
+        {
+          "charge_description": "T.18:111(a)(1)(&;(b) Forcibly assaulting, resisting, opposing, impeding, intimidating, and interfering with Orlando Jones, Court Security Officer, and did thereby inflict bodily injury upon Orlando Jones while he was engaged in his official duties"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert G. Doumar",
+          "judge_guid": "urn:entity:jud-100044311"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. Bradford Stillman",
+          "judge_guid": "urn:entity:jud-100051654"
+        }
+      ]
+    }
+  ]
+}

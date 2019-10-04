@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_291cr144_ohsd",
+  "case_key": "2:91cr144_ohsd",
+  "case_lni": "7WBN-M4C0-Y892-B1K1-00000-00",
+  "case_number": "2:91cr144",
+  "case_title": "USA v. Butler",
+  "case_info_full_case_name": "USA v. Butler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Butler",
+  "case_date_filed": "1991-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ricky Butler",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John D. Holschuh",
+          "judge_guid": "urn:entity:jud-100051301"
+        }
+      ]
+    }
+  ]
+}

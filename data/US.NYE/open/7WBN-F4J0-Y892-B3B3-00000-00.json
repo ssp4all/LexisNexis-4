@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_109cr485_NYED",
+  "case_key": "1:09cr485_NYED",
+  "case_lni": "7WBN-F4J0-Y892-B3B3-00000-00",
+  "case_number": "1:09cr485",
+  "case_title": "USA v. Lam",
+  "case_info_full_case_name": "USA v. Lam",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lam",
+  "case_date_filed": "2009-07-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Devion Lam",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nicholas G. Garaufis",
+          "judge_guid": "urn:entity:jud-100055103"
+        }
+      ]
+    }
+  ]
+}

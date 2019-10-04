@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_102cr71_ilnd",
+  "case_key": "1:02cr71_ilnd",
+  "case_lni": "7WBN-PKJ0-Y892-B1FD-00000-00",
+  "case_number": "1:02cr71",
+  "case_title": "USA v. Guerra, et al",
+  "case_info_full_case_name": "USA v. Guerra, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guerra, et al",
+  "case_date_filed": "2002-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN JOSE GUERRA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846;"
+        },
+        {
+          "charge_description": "21:846; Conspiracy to possess with intent to distribute marijuana, a Schedule I Controlled Substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Morton Denlow",
+          "judge_guid": "urn:entity:jud-100054563"
+        }
+      ]
+    },
+    {
+      "party_name": "JUANITA AGUILERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846;"
+        },
+        {
+          "charge_description": "21:846; Conspiracy to possess with intent to distribute marijuana, a Schedule I Controlled Substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Morton Denlow",
+          "judge_guid": "urn:entity:jud-100054563"
+        }
+      ]
+    }
+  ]
+}

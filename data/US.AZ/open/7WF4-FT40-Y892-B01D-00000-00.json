@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409mj421_AZD",
+  "case_key": "4:09mj421_AZD",
+  "case_lni": "7WF4-FT40-Y892-B01D-00000-00",
+  "case_number": "4:09mj421",
+  "case_title": "USA v. Ortiz",
+  "case_info_full_case_name": "USA v. Ortiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortiz",
+  "case_date_filed": "2009-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joelyn D Marlowe",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Angel Ortiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924(a)(1)(A)"
+        },
+        {
+          "charge_description": "18:924(a)(1)(A) Penalties for Firearms"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hector C Estrada",
+          "judge_guid": "urn:entity:jud-100056372"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

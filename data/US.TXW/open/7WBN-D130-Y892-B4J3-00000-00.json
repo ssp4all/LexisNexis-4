@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_308cr1572_TXWD",
+  "case_key": "3:08cr1572_TXWD",
+  "case_lni": "7WBN-D130-Y892-B4J3-00000-00",
+  "case_number": "3:08cr1572",
+  "case_title": "USA v. Lenghel",
+  "case_info_full_case_name": "USA v. Lenghel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lenghel",
+  "case_date_filed": "2008-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Grigore Lenghel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F--Bringing"
+        },
+        {
+          "charge_description": "8:1324.F--Bringing in and Harboring Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank Montalvo",
+          "judge_guid": "urn:entity:jud-100016084"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_316mj3353_TXWD",
+  "case_key": "3:16mj3353_TXWD",
+  "case_lni": "5KJM-P181-DXDT-G27H-00000-00",
+  "case_number": "3:16mj3353",
+  "case_title": "USA v. Reza-Granados",
+  "case_info_full_case_name": "USA v. Reza-Granados",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reza-Granados",
+  "case_date_filed": "2016-08-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pedro Alan Reza-Granados",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1028A.M-Fraud with Identification Documents"
+        },
+        {
+          "charge_offence_description": "18:1028A.M-Fraud with Identification Documents"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anne T. Berton",
+          "judge_guid": "urn:entity:jud-100102882"
+        }
+      ]
+    }
+  ]
+}

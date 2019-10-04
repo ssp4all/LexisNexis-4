@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_419po27611_AZD",
+  "case_key": "4:19po27611_AZD",
+  "case_lni": "5W1G-X301-DXDT-G182-00000-00",
+  "case_number": "4:19po27611",
+  "case_title": "USA v. Catarino-Rodriguez",
+  "case_info_full_case_name": "USA v. Catarino-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Catarino-Rodriguez",
+  "case_date_filed": "2019-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alberto Catarino-Rodriguez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

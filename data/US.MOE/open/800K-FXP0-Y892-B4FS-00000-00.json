@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_410cr303_MOED",
+  "case_key": "4:10cr303_MOED",
+  "case_lni": "800K-FXP0-Y892-B4FS-00000-00",
+  "case_number": "4:10cr303",
+  "case_title": "USA v. Chavez-Peregrino",
+  "case_info_full_case_name": "USA v. Chavez-Peregrino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chavez-Peregrino",
+  "case_date_filed": "2010-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Roger A. Keller , Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramon Chavez-Peregrino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "KNOWINGLY AND WILLFULLY FAILING TO SURRENDER FOR SERVICE OF SENTENCE AS ORDERED BY THE COURT (1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Henry E. Autrey",
+          "judge_guid": "urn:entity:jud-100070063"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mary Ann L. Medler",
+          "judge_guid": "urn:entity:jud-100036533"
+        }
+      ]
+    }
+  ]
+}

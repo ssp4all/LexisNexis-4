@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_498m5814_vaed",
+  "case_key": "4:98m5814_vaed",
+  "case_lni": "7WBN-DDG0-Y892-B3YP-00000-00",
+  "case_number": "4:98m5814",
+  "case_title": "USA v. Harris",
+  "case_info_full_case_name": "USA v. Harris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harris",
+  "case_date_filed": "1998-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Harry Joseph Gruchala, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TYRONE S. HARRIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=MP.M 2lUSC844, A09l58l4 VAl7"
+        },
+        {
+          "charge_description": "21:841B=MP.M MARIJUANA-POSSESSION, Title 2l USC 844, Ticket No. A09l58l4 VAl7 (1)"
+        },
+        {
+          "charge_disposition": "DISMISSED WITHOUT PREJUDICE GOVT. MOTIO. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

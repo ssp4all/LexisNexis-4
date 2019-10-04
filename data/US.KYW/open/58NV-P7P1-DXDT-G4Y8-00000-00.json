@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_513mj123_KYWD",
+  "case_key": "5:13mj123_KYWD",
+  "case_lni": "58NV-P7P1-DXDT-G4Y8-00000-00",
+  "case_number": "5:13mj123",
+  "case_title": "USA v. Berry",
+  "case_info_full_case_name": "USA v. Berry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Berry",
+  "case_date_filed": "2013-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raheem S. Berry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 - CONSPIRACY TO DEFRAUD THE UNITED STATES BY THEFT OF GOVERNMENT PROPERTY AT THE TROOP MINI MALL(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lanny King",
+          "judge_guid": "urn:entity:jud-100126946"
+        }
+      ]
+    }
+  ]
+}

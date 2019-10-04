@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_409cr304_MOWD",
+  "case_key": "4:09cr304_MOWD",
+  "case_lni": "7WRF-C1P0-Y892-B005-00000-00",
+  "case_number": "4:09cr304",
+  "case_title": "USA v. Harrison",
+  "case_info_full_case_name": "USA v. Harrison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harrison",
+  "case_date_filed": "2009-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raymon D Harrison Sr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "17, 2009, J-22,.22 288429, 18USCs 922(g)(1)"
+        },
+        {
+          "charge_description": "On or about September 17, 2009, in Jackson County, in the Western District of Missouri, defendant, having been convicted of a crime punishable by imprisonment for a term exceeding one year, did knowingly possess, in and affecting commerce, a firearm, to wit: a Jennings, Model J-22,.22 caliber semi-automatic pistol, Serial Number 288429, which had been transported in interstate commerce, in violation of Title 18, United States Code, Sections 922(g)(1) and 924(e)(1)."
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Dean Whipple",
+          "judge_guid": "urn:entity:jud-100067879"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Maughmer",
+          "judge_guid": "urn:entity:jud-100041328"
+        }
+      ]
+    }
+  ]
+}

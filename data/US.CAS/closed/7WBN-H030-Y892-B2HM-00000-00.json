@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_294m8614_casd",
+  "case_key": "2:94m8614_casd",
+  "case_lni": "7WBN-H030-Y892-B2HM-00000-00",
+  "case_number": "2:94m8614",
+  "case_title": "USA v. Gonzalez-Ondal",
+  "case_info_full_case_name": "USA v. Gonzalez-Ondal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Ondal",
+  "case_date_filed": "1994-06-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RENE GONZALEZ-ONDAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:911-FALSE 8:1325-ILLEGAL"
+        },
+        {
+          "charge_description": "18:911-FALSE CLAIM TO US CITIZENSHIP; 8:1325-ILLEGAL ENTRY"
+        },
+        {
+          "charge_disposition": "GUILTY CNT2; CUSTODY FOR 60 DAYS (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Joseph E. Schmitt",
+          "judge_guid": "urn:entity:jud-100026843"
+        }
+      ]
+    }
+  ]
+}

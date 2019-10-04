@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_211cr1173_AZD",
+  "case_key": "2:11cr1173_AZD",
+  "case_lni": "5350-78T1-DXDT-G0S8-00000-00",
+  "case_number": "2:11cr1173",
+  "case_title": "USA v. Zambrano-Camacho",
+  "case_info_full_case_name": "USA v. Zambrano-Camacho",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zambrano-Camacho",
+  "case_date_filed": "2011-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fredrick Allen Cocio",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rogelio Natividad Zambrano-Camacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) Re-entry After Removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James A Teilborg",
+          "judge_guid": "urn:entity:jud-100007320"
+        }
+      ]
+    }
+  ]
+}

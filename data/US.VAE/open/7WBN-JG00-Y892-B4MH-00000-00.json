@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_103m187_vaed",
+  "case_key": "1:03m187_vaed",
+  "case_lni": "7WBN-JG00-Y892-B4MH-00000-00",
+  "case_number": "1:03m187",
+  "case_title": "USA v. James",
+  "case_info_full_case_name": "USA v. James",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "James",
+  "case_date_filed": "2003-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charles T. Baisley",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLENE D. JAMES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:13-7220.M) 18:13 46.2-301"
+        },
+        {
+          "charge_description": "(18:13-7220.M) 18:13 assim. VA. sec. 46.2-301 Operate a Motor Vehicle On a Suspended License (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.M) 18:13 46.2-300"
+        },
+        {
+          "charge_description": "(18:13-7220.M) 18:13 assim. VA. sec. 46.2-300 Operating Motor Vehicle Without a Valid Operators License (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.P) 32CFR634.25(f) 46.2-1157"
+        },
+        {
+          "charge_description": "(18:13-7220.P) 32 CFR 634.25(f) assim. VA. sec. 46.2-1157 Failure To Display Valid Inspection Sticker (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.P) 32CFR634.25(f) 46.2-613"
+        },
+        {
+          "charge_description": "(18:13-7220.P) 32 CFR 634.25(f) assim. VA. sec. 46.2-613 Operate Motor Vehicle With Expired License Plates (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

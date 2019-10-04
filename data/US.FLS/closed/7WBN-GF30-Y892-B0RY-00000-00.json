@@ -1,0 +1,137 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_196cr313_flsd",
+  "case_key": "1:96cr313_flsd",
+  "case_lni": "7WBN-GF30-Y892-B0RY-00000-00",
+  "case_number": "1:96cr313",
+  "case_title": "USA v. Busquet",
+  "case_info_full_case_name": "USA v. Busquet",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Busquet",
+  "case_date_filed": "1996-04-05",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE BUSQUET",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1543.F"
+        },
+        {
+          "charge_description": "18:1543.F FURNISHING A COUNTERFEIT PASSPORT TO ANOTHER PERSON (3)"
+        },
+        {
+          "charge_disposition": "Probation 5 years, Assessment $150.00, Fine $500.00 (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1543.F"
+        },
+        {
+          "charge_description": "18:1543.F FURNISHING A COUNTERFEIT PASSPORT TO ANOTHER PERSON (5)"
+        },
+        {
+          "charge_disposition": "Probation 5 years, Assessment $150.00, Fine $500.00 (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1543.F"
+        },
+        {
+          "charge_description": "18:1543.F FURNISHING A COUNTERFEIT PASSPORT TO ANOTHER PERSON (7)"
+        },
+        {
+          "charge_disposition": "Probation 5 years, Assessment $150.00, Fine $500.00 (7)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO COMMITT PASSPORT FRAUD (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1543.F"
+        },
+        {
+          "charge_description": "18:1543.F MADE COUNTERFEIT PASSPORT (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1543.F"
+        },
+        {
+          "charge_description": "18:1543.F MADE COUNTERFEIT PASSPORT (4)"
+        },
+        {
+          "charge_disposition": "Dismissed (4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1543.F"
+        },
+        {
+          "charge_description": "18:1543.F MADE COUNTERFEIT PASSPORT (6)"
+        },
+        {
+          "charge_disposition": "Dismissed (6)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession of false identification documents [1:96-m-2509]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joan A. Lenard",
+          "judge_guid": "urn:entity:jud-100030148"
+        }
+      ]
+    }
+  ]
+}

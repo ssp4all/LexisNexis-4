@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_197cr642_nysd",
+  "case_key": "1:97cr642_nysd",
+  "case_lni": "7WBN-DK60-Y892-B13F-00000-00",
+  "case_number": "1:97cr642",
+  "case_title": "USA v. Karim",
+  "case_info_full_case_name": "USA v. Karim",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Karim",
+  "case_date_filed": "1997-06-30",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MOHAMED ISMAIL KARIM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F (18:201)"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (18:201) (1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 2 months. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963=CI.F"
+        },
+        {
+          "charge_description": "21:963=CI.F ATTEMPT/CONSPIRACY-CONTROLLED SUBSTANCE-IMPORT/EXPORT (2)"
+        },
+        {
+          "charge_disposition": "Count 2 is dismissed on the motion of the United States. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC963: 400 18USC371:"
+        },
+        {
+          "charge_description": "21 U.S.C. 963: IMPORT INTO THE CUSTOMS TERRITORY OF THE UNITED STATES FROM PLACES OUTSIDE THEREOF, TO WIT, ETHIOPIA AND LONDON, ENGLAND, MIXTURES AND SUBSTANCES CONTAINING A DETECTABLE AMOUNT OF KHAT, TO WIT, APPROXIMATELY 400 KILOGRAMS OF KHAT; 18 U.S.C. 371: CONSPIRACY. [1:97-m-1057]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sidney H. Stein",
+          "judge_guid": "urn:entity:jud-100014222"
+        }
+      ]
+    }
+  ]
+}

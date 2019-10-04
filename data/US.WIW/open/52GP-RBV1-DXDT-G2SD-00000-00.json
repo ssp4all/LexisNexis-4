@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_304cr112_WIWD",
+  "case_key": "3:04cr112_WIWD",
+  "case_lni": "52GP-RBV1-DXDT-G2SD-00000-00",
+  "case_number": "3:04cr112",
+  "case_title": "USA v. CROSS, JEROME K.",
+  "case_info_full_case_name": "USA v. CROSS, JEROME K.",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CROSS, JEROME K.",
+  "case_date_filed": "2004-07-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JOHN VAUDREUIL",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CROSS JEROME K.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 2-6, 8, 9)"
+        },
+        {
+          "charge_statute": "21:846=CD.F 1)"
+        },
+        {
+          "charge_statute": "18:922G.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "B. Crabb",
+          "judge_guid": "urn:entity:jud-100045645"
+        }
+      ]
+    }
+  ]
+}

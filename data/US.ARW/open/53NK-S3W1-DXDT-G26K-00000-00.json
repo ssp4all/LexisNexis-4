@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_511cr50089_ARWD",
+  "case_key": "5:11cr50089_ARWD",
+  "case_lni": "53NK-S3W1-DXDT-G26K-00000-00",
+  "case_number": "5:11cr50089",
+  "case_title": "USA v. Hartley",
+  "case_info_full_case_name": "USA v. Hartley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hartley",
+  "case_date_filed": "2011-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Royal Hartley Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641-THEFT"
+        },
+        {
+          "charge_description": "18:641-THEFT OF GOVERNMENT FUNDS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408(A)(4)-CONCEALMENT"
+        },
+        {
+          "charge_description": "42:408(A)(4)-CONCEALMENT OF A MATERIAL FACT AFFECTING THE SSA DISABILITY PAYMENTS (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jimm Larry Hendren",
+          "judge_guid": "urn:entity:jud-100034717"
+        }
+      ]
+    }
+  ]
+}

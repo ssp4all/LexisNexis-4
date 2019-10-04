@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_112cr407_OHND",
+  "case_key": "1:12cr407_OHND",
+  "case_lni": "56D8-YKS1-DXDT-G0R9-00000-00",
+  "case_number": "1:12cr407",
+  "case_title": "United States of America v. Calvin",
+  "case_info_full_case_name": "United States of America v. Calvin",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Calvin",
+  "case_date_filed": "2012-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Jason Matthew Katz"
+    },
+    {
+      "attorney_name": "Linda H. Barr_AUSA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mandell D. Calvin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:641 Theft of Government Funds(1)"
+        },
+        {
+          "charge_disposition": "Sentenced to the Bureau of Prisons for a term of 12 months concurrent with Count 2 but consecutive to the state sentence; Supervised release for a term of 3 years concurrent with Count 2; Special assessment of $200.00; Restitution due in the amount of $3,459.49; Fine waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001 False Statement(2)"
+        },
+        {
+          "charge_disposition": "Sentenced to the Bureau of Prisons for a term of 12 months concurrent with Count 1 but consecutive to the state sentence; Supervised release for a term of 3 years concurrent with Count 1; Special assessment of $200.00; Restitution due in the amount of $3,459.49; Fine waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John R. Adams",
+          "judge_guid": "urn:entity:jud-100053167"
+        }
+      ]
+    }
+  ]
+}

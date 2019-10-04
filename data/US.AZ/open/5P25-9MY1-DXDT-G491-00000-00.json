@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_217cr978_AZD",
+  "case_key": "2:17cr978_AZD",
+  "case_lni": "5P25-9MY1-DXDT-G491-00000-00",
+  "case_number": "2:17cr978",
+  "case_title": "USA v. Noriega-Arreola",
+  "case_info_full_case_name": "USA v. Noriega-Arreola",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Noriega-Arreola",
+  "case_date_filed": "2017-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brandon Marcellus Brown",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Humberto Noriega-Arreola",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) - Reentry of Removed Alien"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(1) - Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven P Logan",
+          "judge_guid": "urn:entity:jud-100003811"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_110cr10005_SDD",
+  "case_key": "1:10cr10005_SDD",
+  "case_lni": "7XGS-5KG0-Y892-B0MG-00000-00",
+  "case_number": "1:10cr10005",
+  "case_title": "USA v. Sierra-Villeda",
+  "case_info_full_case_name": "USA v. Sierra-Villeda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sierra-Villeda",
+  "case_date_filed": "2010-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eber Sierra-Villeda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546(b)(1);"
+        },
+        {
+          "charge_description": "18:1546(b)(1); USE OF FRAUDULENT IMMIGRATION DOCUMENTS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Charles"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_408mj157_VAED",
+  "case_key": "4:08mj157_VAED",
+  "case_lni": "7WBN-DDG0-Y892-B01W-00000-00",
+  "case_number": "4:08mj157",
+  "case_title": "USA v. Buckner",
+  "case_info_full_case_name": "USA v. Buckner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Buckner",
+  "case_date_filed": "2008-05-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Herman L. Buckner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC641-Theft"
+        },
+        {
+          "charge_description": "Title 18 USC 641-Theft of Government Property (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

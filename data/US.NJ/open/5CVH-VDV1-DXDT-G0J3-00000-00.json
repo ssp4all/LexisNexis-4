@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_214cr455_NJD",
+  "case_key": "2:14cr455_NJD",
+  "case_lni": "5CVH-VDV1-DXDT-G0J3-00000-00",
+  "case_number": "2:14cr455",
+  "case_title": "USA v. MALESPINA",
+  "case_info_full_case_name": "USA v. MALESPINA",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MALESPINA",
+  "case_date_filed": "2014-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO MALESPINA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349 ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD D/O/O:  2005 - May, 2013(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1349.F CONSPIRACY TO COMMIT FRAUD"
+        },
+        {
+          "charge_offence_description": "18:1349.F CONSPIRACY TO COMMIT FRAUD"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jose L. Linares",
+          "judge_guid": "urn:entity:jud-100029909"
+        }
+      ]
+    }
+  ]
+}

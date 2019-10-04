@@ -1,0 +1,84 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_213cr407_NJD",
+  "case_key": "2:13cr407_NJD",
+  "case_lni": "5BWX-R4H1-DXDT-G1XW-00000-00",
+  "case_number": "2:13cr407",
+  "case_title": "USA v. FIORELLO et al",
+  "case_info_full_case_name": "USA v. FIORELLO et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "FIORELLO et al",
+  "case_date_filed": "2013-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT FIORELLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:894(a)(1) EXTORTIONATE COLLECTION OF CREDIT CONSPIRACY (dof 2/2008 - 5/2008)(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:894(a)(1) and 2 EXTORTIONATE COLLECTION OF CREDIT (dof 2/2008 - 5/2008)(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jose L. Linares",
+          "judge_guid": "urn:entity:jud-100029909"
+        }
+      ]
+    },
+    {
+      "party_name": "WILLIAM PANZERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:894(a)(1) EXTORTIONATE COLLECTION OF CREDIT CONSPIRACY (dof 2/2008 - 5/2008)(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:894(a)(1) and 2 EXTORTIONATE COLLECTION OF CREDIT (dof 2/2008 - 5/2008)(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1962(d) and 1963 COLLECTION OF UNLAWFUL DEBT CONSPIRACY (dof 2/2008 - 5/2008)(3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jose L. Linares",
+          "judge_guid": "urn:entity:jud-100029909"
+        }
+      ]
+    }
+  ]
+}

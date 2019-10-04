@@ -1,0 +1,86 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_118cr22_MDD",
+  "case_key": "1:18cr22_MDD",
+  "case_lni": "5RDV-T8G1-DXDT-G1JY-00000-00",
+  "case_number": "1:18cr22",
+  "case_title": "USA v. Ferguson et al",
+  "case_info_full_case_name": "USA v. Ferguson et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ferguson et al",
+  "case_date_filed": "2018-01-16",
+  "case_status": "Closed",
+  "case_status_date": "06/15/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "P ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Clarence D. Ferguson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:3146(a)(2) &; (b)(1)(A)(ii) FAILURE TO APPEAR(1s)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a total term of 18 months; Term to run consecutive to any other sentence that the defendant is currently facing or serving; SUPERVISED RELEASE for a term of 3 years which shall run concurrent with any other outstanding supervised release term that the defendant is currently facing; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:3146(a)(2) &; (b)(1)(A)(ii) FAILURE TO SURRENDER FOR SERVICE OF SENTENCE(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. 3146(a)(2)  Failure to Surrender for Service of Sentence"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. 3146(a)(2)  Failure to Surrender for Ser"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "James K. Bredar",
+          "judge_guid": "urn:entity:jud-100064383"
+        }
+      ]
+    },
+    {
+      "party_name": "Jennifer N. Gouff",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1071 CONCEALING PERSON FROM ARREST(2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a total term of 4 months; SUPERVISED RELEASE for a term of 3 years; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "James K. Bredar",
+          "judge_guid": "urn:entity:jud-100064383"
+        }
+      ]
+    }
+  ]
+}

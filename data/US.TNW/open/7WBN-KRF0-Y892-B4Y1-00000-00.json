@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_206cr20253_TNWD",
+  "case_key": "2:06cr20253_TNWD",
+  "case_lni": "7WBN-KRF0-Y892-B4Y1-00000-00",
+  "case_number": "2:06cr20253",
+  "case_title": "USA v. Harris",
+  "case_info_full_case_name": "USA v. Harris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harris",
+  "case_date_filed": "2006-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LaShawn Harris",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21 U.S.C. 841(a)(1) CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "J."
+        }
+      ]
+    }
+  ]
+}

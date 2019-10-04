@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_110cr165_INSD",
+  "case_key": "1:10cr165_INSD",
+  "case_lni": "515N-9381-DXDT-G3GG-00000-00",
+  "case_number": "1:10cr165",
+  "case_title": "USA v. VENCES-LOPEZ",
+  "case_info_full_case_name": "USA v. VENCES-LOPEZ",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "VENCES-LOPEZ",
+  "case_date_filed": "2010-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradley Paul Shepard",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS VENCES-LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL REENTRY"
+        },
+        {
+          "charge_statute": "8:1326B.F"
+        },
+        {
+          "charge_description": "8:1326B.F &;nbsp; REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Tanya Walton Pratt",
+          "judge_guid": "urn:entity:jud-100023434"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kennard P. Foster",
+          "judge_guid": "urn:entity:jud-100055522"
+        }
+      ]
+    }
+  ]
+}

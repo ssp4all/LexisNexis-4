@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_312mj230_NCWD",
+  "case_key": "3:12mj230_NCWD",
+  "case_lni": "569R-PS21-DXDT-G373-00000-00",
+  "case_number": "3:12mj230",
+  "case_title": "USA v. Schlecht",
+  "case_info_full_case_name": "USA v. Schlecht",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schlecht",
+  "case_date_filed": "2012-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arthur John Schlecht",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1349.F"
+        },
+        {
+          "charge_description": "18:1349.F ATTEMPT and CONSPIRACT TO COMMIT MAIL FRAUD"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David S. Cayer",
+          "judge_guid": "urn:entity:jud-100018638"
+        }
+      ]
+    }
+  ]
+}

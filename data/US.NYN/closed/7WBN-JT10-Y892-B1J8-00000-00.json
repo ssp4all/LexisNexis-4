@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_108cr517_NYND",
+  "case_key": "1:08cr517_NYND",
+  "case_lni": "7WBN-JT10-Y892-B1J8-00000-00",
+  "case_number": "1:08cr517",
+  "case_title": "USA v. Fitzalan-Howard",
+  "case_info_full_case_name": "USA v. Fitzalan-Howard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fitzalan-Howard",
+  "case_date_filed": "2008-09-10",
+  "case_status": "Closed",
+  "case_status_date": "05/20/2009",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bennett R. Fitzalan-Howard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MISUSE OF SOCIAL SECURITY NUMBER - Social Security Fraud(1)"
+        },
+        {
+          "charge_disposition": "Deft placed upon PROBATION for a term of 3 years. Restitution in amt of $62,297.70 ordered &; payable as directed. Special Conditions imposed. Special Assessment $100.00 remitted. No fine and/or add'l costs imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas J. McAvoy",
+          "judge_guid": "urn:entity:jud-100028568"
+        }
+      ]
+    }
+  ]
+}

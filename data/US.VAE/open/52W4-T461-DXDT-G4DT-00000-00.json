@@ -1,0 +1,86 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_111po20_VAED",
+  "case_key": "1:11po20_VAED",
+  "case_lni": "52W4-T461-DXDT-G4DT-00000-00",
+  "case_number": "1:11po20",
+  "case_title": "USA v. Ramirez Martinez",
+  "case_info_full_case_name": "USA v. Ramirez Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez Martinez",
+  "case_date_filed": "2011-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rosie Haney",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "36CFR4.23(a)(2) of.08"
+        },
+        {
+          "charge_description": "36 CFR 4.23(a)(2) Driving While Intoxicated w/bac of.08 Grams or More (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "36CFR4.2 46.2-804(2)"
+        },
+        {
+          "charge_description": "36 CFR 4.2 Adopting Sec 46.2-804(2) Code of VA, Failure to stay in lane (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "36CFR4.23(a)(1)"
+        },
+        {
+          "charge_description": "36 CFR 4.23(a)(1) Driving Under the Influence of Alcohol (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "36CFRSec 4.23(C)(2)"
+        },
+        {
+          "charge_description": "36 CFR Sec 4.23(C)(2) Refusal (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "36CFR2.32(a)(1)"
+        },
+        {
+          "charge_description": "36 CFR 2.32(a)(1) Threaten or intimidate an officer engage in an official duty (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

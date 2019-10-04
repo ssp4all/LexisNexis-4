@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_200m151_tnwd",
+  "case_key": "2:00m151_tnwd",
+  "case_lni": "7WBN-KBG0-Y892-B2B5-00000-00",
+  "case_number": "2:00m151",
+  "case_title": "USA v. Cutler",
+  "case_info_full_case_name": "USA v. Cutler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cutler",
+  "case_date_filed": "2000-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAMEON CUTLER",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James H. Allen",
+          "judge_guid": "urn:entity:jud-100074614"
+        }
+      ]
+    }
+  ]
+}

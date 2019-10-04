@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_515po1550_WYD",
+  "case_key": "5:15po1550_WYD",
+  "case_lni": "5HMK-S511-DXDT-G102-00000-00",
+  "case_number": "5:15po1550",
+  "case_title": "USA v. Myers",
+  "case_info_full_case_name": "USA v. Myers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Myers",
+  "case_date_filed": "2015-12-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of a controlled substance, to wit: marijuana. (4661073)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

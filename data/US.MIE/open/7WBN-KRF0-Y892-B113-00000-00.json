@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_205mj80095_MIED",
+  "case_key": "2:05mj80095_MIED",
+  "case_lni": "7WBN-KRF0-Y892-B113-00000-00",
+  "case_number": "2:05mj80095",
+  "case_title": "USA v. Etchison",
+  "case_info_full_case_name": "USA v. Etchison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Etchison",
+  "case_date_filed": "2005-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Steffen Lee Etchison",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Steven D Pepe",
+          "judge_guid": "urn:entity:jud-100024768"
+        }
+      ]
+    }
+  ]
+}

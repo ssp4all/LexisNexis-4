@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_212mj103_ALMD",
+  "case_key": "2:12mj103_ALMD",
+  "case_lni": "55WB-F1P1-DXDT-G3B4-00000-00",
+  "case_number": "2:12mj103",
+  "case_title": "USA v. Griffin",
+  "case_info_full_case_name": "USA v. Griffin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Griffin",
+  "case_date_filed": "2012-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James S Griffin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failure to Appear for Probation Showcause Hearing"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Terry F. Moorer",
+          "judge_guid": "urn:entity:jud-100066258"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_299m81_ctd",
+  "case_key": "2:99m81_ctd",
+  "case_lni": "7WBN-MFN0-Y892-B040-00000-00",
+  "case_number": "2:99m81",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "1999-10-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WAYNE WILLIAMS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21, 841(a)(1) 21"
+        },
+        {
+          "charge_description": "The defendant did knowingly and intentionally conspire with others to possess with intent to distribute, and to distribute, marijuana, a Schedule I controlled substance, contrary to the provisions of Title 21, United States Code Section 841(a)(1) in violation of Title 21 United States Code Section 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Thomas P. Smith",
+          "judge_guid": "urn:entity:jud-100070979"
+        }
+      ]
+    }
+  ]
+}

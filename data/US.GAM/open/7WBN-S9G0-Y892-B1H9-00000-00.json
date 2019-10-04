@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_502m706_gamd",
+  "case_key": "5:02m706_gamd",
+  "case_lni": "7WBN-S9G0-Y892-B1H9-00000-00",
+  "case_number": "5:02m706",
+  "case_title": "USA v. Hall",
+  "case_info_full_case_name": "USA v. Hall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hall",
+  "case_date_filed": "2002-07-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LONNY SHEA HALL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.M"
+        },
+        {
+          "charge_description": "21:844A=MP.M MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Claude W. Hicks, Jr.",
+          "judge_guid": "urn:entity:jud-100051727"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_301m101_ncwd",
+  "case_key": "3:01m101_ncwd",
+  "case_lni": "7WBN-RM10-Y892-B164-00000-00",
+  "case_number": "3:01m101",
+  "case_title": "USA v. Theirse",
+  "case_info_full_case_name": "USA v. Theirse",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Theirse",
+  "case_date_filed": "2001-05-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES ANTHONY THEIRSE III",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "H. Brent McKnight",
+          "judge_guid": "urn:entity:jud-100040704"
+        }
+      ]
+    }
+  ]
+}

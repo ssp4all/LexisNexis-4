@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_599cr34_wvnd",
+  "case_key": "5:99cr34_wvnd",
+  "case_lni": "7WBN-J0F0-Y892-B35K-00000-00",
+  "case_number": "5:99cr34",
+  "case_title": "USA v. Battistone",
+  "case_info_full_case_name": "USA v. Battistone",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Battistone",
+  "case_date_filed": "1999-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY BATTISTONE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341.F SWINDLES-18USC1341-Mail"
+        },
+        {
+          "charge_description": "18:1341.F FRAUDS AND SWINDLES-18 USC 1341-Mail Fraud (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7201.F TAX-26USC7201-Tax"
+        },
+        {
+          "charge_description": "26:7201.F ATTEMPT TO EVADE OR DEFEAT TAX-26 USC 7201-Tax Evasion (4-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frederick P. Stamp, Jr.",
+          "judge_guid": "urn:entity:jud-100096337"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_510cr58_GAMD",
+  "case_key": "5:10cr58_GAMD",
+  "case_lni": "58VJ-S8B1-DXDT-G1N5-00000-00",
+  "case_number": "5:10cr58",
+  "case_title": "UNITED STATES OF AMERICA v. TODD et al",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. TODD et al",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "TODD et al",
+  "case_date_filed": "2010-09-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brandon Van Grack",
+      "attorney_label": "LEAD ATTORNEY;PRO HAC VICE;ATTORNEY TO BE NOTICED;"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;PRO HAC VICE;ATTORNEY TO BE NOTICED;"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL EDWARD TODD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 46 MONTHS, followed by 3 years supervised release. MAF $100.00. FINE $10,000.00. RESENTENCED-10/24/12-IMPRISONMENT 35 MONTHS; 3 YEARS SUPERVISED RELEASE; MAF $100.00. FINE $10,000.00. TRANSFER OF JURISDICTION 12/3/14: FLORIDA MIDDLE 6:14-CR-261-ORL-28DAB"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), 22:123.1 and 127.1 &; 18:2 - Violation of the Arms Export Control Act(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY - 18:1001 &; 2 - False Statements(8)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY - 18:1001 and 2 - False Statements(9)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c) - Money Laundering(10-12)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_disposition": "MAF $400.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), 22:123.1 and 127.1 &; 18:2 - Violation of the Arms Export Control Act(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c) - Money Laundering(10-12)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "HAMID SEIFI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 56 months"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 56 months, to run concurrently, with Ct. 1, for a total imprisonment of 56 months; followed by 3 years supervised release. TOTAL MAF $200.00. TOTAL FINE $12,500.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(5-7)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "Galaxy Aviation Services",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_disposition": "MAF $400.00. FINE WAIVED. Forfeiture Order."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "SYED AMIR AHMED NAJFI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the US(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), 22:123.1 and 127.1 &; 18:2 - Violation of the Arms Export Control Act(2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2278(b)(2) and (c), Title 22 Code of Federal Regulations, Sections 123.1 and 127.1, and 18:2 - Violation of the Arms Export Control Act(2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY - 18:1001 &; 2 - False Statements(8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY - 18:1001 and 2 - False Statements(8s-9s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c) - Money Laundering(10-12)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), Title 22, Code of Federal Regulations, Sections 121.1, 123.1, 127.1 - Money Laudering(10s-12s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "ALETRA GENERAL TRADING",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the US(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), 22:123.1 and 127.1 &; 18:2 - Violation of the Arms Export Control Act(2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2278(b)(2) and (c), Title 22 Code of Federal Regulations, Sections 123.1 and 127.1, and 18:2 - Violation of the Arms Export Control Act(2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c) - Money Laundering(10-12)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), Title 22, Code of Federal Regulations, Sections 121.1, 123.1, 127.1 - Money Laudering(10s-12s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "LUC TEULY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the US(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), Title 22, Code of Federal Rulations, Sections 123.1 and 127.1, and 18:2 - Violation of the Arms Export Control Act(4s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), Executive Orders 12957, 12959, and 13059, and Title 31, Code of Federal Regulations, Sections 560.203 and 560.204, and 18:2 - Violations of Iran Embargo(5s-7s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), and Title 31, Code of Federal Regulations, Parts 560.203 and 560.204, all in violation of 18:1956(a)(2)(A) and (h) - Conspiracy to Commit Money Laundering(13s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "PHILIPPE SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the US(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), Title 22, Code of Federal Rulations, Sections 123.1 and 127.1, and 18:2 - Violation of the Arms Export Control Act(4s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), Executive Orders 12957, 12959, and 13059, and Title 31, Code of Federal Regulations, Sections 560.203 and 560.204, and 18:2 - Violations of Iran Embargo(5s-7s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY - 18:1001 and 2 - False Statements(8s-9s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY - 18:1001 and 2 - False Statements(9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), and Title 31, Code of Federal Regulations, Parts 560.203 and 560.204, all in violation of 18:1956(a)(2)(A) and (h) - Conspiracy to Commit Money Laundering(13s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "AEROTECHNIC",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the US(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), Title 22, Code of Federal Rulations, Sections 123.1 and 127.1, and 18:2 - Violation of the Arms Export Control Act(4s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), Executive Orders 12957, 12959, and 13059, and Title 31, Code of Federal Regulations, Sections 560.203 and 560.204, and 18:2 - Violations of Iran Embargo(5s-7s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), and Title 31, Code of Federal Regulations, Parts 560.203 and 560.204, all in violation of 18:1956(a)(2)(A) and (h) - Conspiracy to Commit Money Laundering(13s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "HASSAN SEIFI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the US(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), Title 22, Code of Federal Rulations, Sections 123.1 and 127.1, and 18:2 - Violation of the Arms Export Control Act(4s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), Executive Orders 12957, 12959, and 13059, and Title 31, Code of Federal Regulations, Sections 560.203 and 560.204, and 18:2 - Violations of Iran Embargo(5s-7s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), and Title 31, Code of Federal Regulations, Parts 560.203 and 560.204, all in violation of 18:1956(a)(2)(A) and (h) - Conspiracy to Commit Money Laundering(13s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "REZA SEIFI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the US(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), Executive Orders 12957, 12959, and 13059, and Title 31, Code of Federal Regulations, Sections 560.203 and 560.204, and 18:2 - Violations of Iran Embargo(5s-7s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), and Title 31, Code of Federal Regulations, Parts 560.203 and 560.204, all in violation of 18:1956(a)(2)(A) and (h) - Conspiracy to Commit Money Laundering(13s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "SABANICAN COMPANY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES - Conspiracy to violate AECA, IEEPA, and Defraud the US(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Violations of the Iran Embargo(4-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPTED EXPORTATION OF ARMS AND MUNITIONS - 22:2778(b)(2) and (c), Title 22, Code of Federal Rulations, Sections 123.1 and 127.1, and 18:2 - Violation of the Arms Export Control Act(4s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), Executive Orders 12957, 12959, and 13059, and Title 31, Code of Federal Regulations, Sections 560.203 and 560.204, and 18:2 - Violations of Iran Embargo(5s-7s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a) - Conspiracy to Commit Money Laundering(13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PRESIDENTIAL AUTHORITIES - 50:1702 and 1705(a), and Title 31, Code of Federal Regulations, Parts 560.203 and 560.204, all in violation of 18:1956(a)(2)(A) and (h) - Conspiracy to Commit Money Laundering(13s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

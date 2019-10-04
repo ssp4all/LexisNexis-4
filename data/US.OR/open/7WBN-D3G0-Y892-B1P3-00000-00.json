@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_690cr60047_ord",
+  "case_key": "6:90cr60047_ord",
+  "case_lni": "7WBN-D3G0-Y892-B1P3-00000-00",
+  "case_number": "6:90cr60047",
+  "case_title": "USA v. Broadhurst, et al",
+  "case_info_full_case_name": "USA v. Broadhurst, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Broadhurst, et al",
+  "case_date_filed": "1990-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DEALOY BROADHURST",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113(a) 2-BANK"
+        },
+        {
+          "charge_description": "18:2113(a) &; 2-BANK ROBBERY (1)"
+        },
+        {
+          "charge_disposition": "The deft Broadhurst is hereby committed to custody of the USBP to be imprisoned for a term of 80 months. The deft is remanded to the custody of the USM. Upon release from imprisonment, the deft shall be on supervised release for a term of 3 yrs under the standard conditions of supervision w/following special condition: 1. deft to participate in a durg treatment program as directed by the prob officer which may include urinalysis testing to determine if the deft has used durgs or alcohol. The deft shall pay to the US the sum of $200.00 consistiing of a special assessment of $200.00. These amts are the totals of the fines &; assessments imposed on individual cnts, as follows: $50.00 as to cnt 1 in CR 90-60047-1, $50.00 as to cnt 1 in CR 91-60001-1 &; $50.00 as to cnt 1 &; $50.00 as to cnt 2 in 91-60013-1. This sum shall be paid as follows: to the Clerk of Court, U.S. District Court, Eugene, OR. Judge Jones (s/d 1/23/91) (orig entry date 2/6/91) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Bank Robbery"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Robert E Jones",
+          "judge_guid": "urn:entity:jud-100032984"
+        }
+      ]
+    },
+    {
+      "party_name": "HERBERT DAVID SNIDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113(a) 2-BANK"
+        },
+        {
+          "charge_description": "18:2113(a) &; 2-BANK ROBBERY (1)"
+        },
+        {
+          "charge_disposition": "The deft Snider is hereby committed to the custody of the USBP to be imprisoned for a term of 63 months as to cnt 1 of the indictment in CR 90-60047-2. As to cnt 1 of the indictment in Cr 91-60002-1, deft is committed to the BOP for confinement for a period of 63 months, said sentence to be served concurrently w/imposed in CR 90-60047-2 &; CR 91-60013-2. As to cnts 1 &; 2 of the info in CR 91-60013-2, deft is committed to the BOP for confinement for a period of 63 motnhs, said sentence to be served concurrently w/that imposed in CR 90-60047-2 &; 91-6002-1. The court makes the following recommendations to the BOP: commitment to FCI&lt; Lompoc, CA. The deft shall surrender for service of sentence at the institution designated by the BOP before 4 pm on 3/12/91. Upon release from imprisonment, the deft shall be on supervised release for a term of 3 yrs under the standard conditions of supervision w/following special conditions: 1. deft is prohibited from possessing a firearm or other dangerous weapon. The deft shall pay to the US the sum of $200.00 consisting of a special assessment of $200.00. These amts are the totals of the fines &; assessments imposed on individual cnts, as follows: $50.00 as to cnt 1 of the indictment in CR 90-60047-2; $50.00 as to cnt 1 of the indictment in CR 91-60002-1 &; $50.00 as to cnt 1 &; $50.00 as to cnt 2 of the info in CR 91-60013-2. This sum shall be paid as follows: The $200.00 fee assessment is to be pd from funds earned during deft's incarceration or at the rate of $50.00 per month upon deft's release from incarceration. The assessment is to be pd to the Clerk of Court, U.S. District Court, Eugene, OR. Judge Jones (s/d 2/12/91) (orig entry date 2/22/91) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Bank Robbery"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Robert E Jones",
+          "judge_guid": "urn:entity:jud-100032984"
+        }
+      ]
+    }
+  ]
+}

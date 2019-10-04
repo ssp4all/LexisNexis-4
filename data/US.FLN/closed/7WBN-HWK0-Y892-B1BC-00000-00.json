@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_507cr54_FLND",
+  "case_key": "5:07cr54_FLND",
+  "case_lni": "7WBN-HWK0-Y892-B1BC-00000-00",
+  "case_number": "5:07cr54",
+  "case_title": "USA v. RANSOM et al",
+  "case_info_full_case_name": "USA v. RANSOM et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "RANSOM et al",
+  "case_date_filed": "2007-10-23",
+  "case_status": "Closed",
+  "case_status_date": "02/28/2008",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "DAVID HOOVLER( No longer AUSA. Needs admission)",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GREGORY AUGUSTA RANSOM, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "240 months imprisonment; 10 years S/R; fine waived; $100 SMA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F, 21:846=CD.F"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F, 21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "DANIEL WEBSTER DURDEN, IV",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "180 months imprisonment; 10 years S/R; fine waived; $100 SMA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F, 21:846=CD.F"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F, 21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

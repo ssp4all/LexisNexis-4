@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_399m30235_cand",
+  "case_key": "3:99m30235_cand",
+  "case_lni": "7WBN-S060-Y892-B444-00000-00",
+  "case_number": "3:99m30235",
+  "case_title": "USA v. Rogers",
+  "case_info_full_case_name": "USA v. Rogers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rogers",
+  "case_date_filed": "1999-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THOMAS M ROGERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1704 18:1708"
+        },
+        {
+          "charge_description": "18:1704 Stolen U.S. Mail 18:1708 Counterfeit U.S. Postal Keys"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Bernard Zimmerman",
+          "judge_guid": "urn:entity:jud-100016405"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_214mj10365_TXWD",
+  "case_key": "2:14mj10365_TXWD",
+  "case_lni": "5D9K-44M1-DXDT-G2PT-00000-00",
+  "case_number": "2:14mj10365",
+  "case_title": "USA v. Paz-Paz",
+  "case_info_full_case_name": "USA v. Paz-Paz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Paz-Paz",
+  "case_date_filed": "2014-10-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kevin Jesus Paz-Paz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "19 USC 1459(a) Reporting Requirements - Custom Duties"
+        },
+        {
+          "charge_offence_description": "19 USC 1459(a) Reporting Requirements - Custom Dut"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

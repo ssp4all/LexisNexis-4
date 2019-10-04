@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po25568_AZD",
+  "case_key": "4:14po25568_AZD",
+  "case_lni": "5C1Y-0N21-DXDT-G1X2-00000-00",
+  "case_number": "4:14po25568",
+  "case_title": "USA v. Perez-Castro",
+  "case_info_full_case_name": "USA v. Perez-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Castro",
+  "case_date_filed": "2014-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alex Amed Perez-Castro",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

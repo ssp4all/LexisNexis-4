@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_499m5039_azd",
+  "case_key": "4:99m5039_azd",
+  "case_lni": "7WBN-NS80-Y892-B1MT-00000-00",
+  "case_number": "4:99m5039",
+  "case_title": "USA, et al v. Rodriguez-Mora",
+  "case_info_full_case_name": "USA, et al v. Rodriguez-Mora",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Rodriguez-Mora",
+  "case_date_filed": "1999-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VICTOR MANUEL RODRIGUEZ-MORA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        }
+      ]
+    }
+  ]
+}

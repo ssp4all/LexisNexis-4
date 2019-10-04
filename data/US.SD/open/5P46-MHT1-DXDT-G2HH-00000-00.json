@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_417mj74_SDD",
+  "case_key": "4:17mj74_SDD",
+  "case_lni": "5P46-MHT1-DXDT-G2HH-00000-00",
+  "case_number": "4:17mj74",
+  "case_title": "USA v. Leon Lopez",
+  "case_info_full_case_name": "USA v. Leon Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leon Lopez",
+  "case_date_filed": "2017-07-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Omar Leon Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. ยง 1546(b)(1) USE OF FRAUDULENT IDENTIFICATION DOCUMENT; 18 U.S.C. ยง 1546(a) POSSESSION OF FRAUDULENT IDENTIFICATION DOCUMENT"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. &#167; 1546(b)(1) USE OF FRAUDULENT IDEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Karen E. Schreier",
+          "judge_guid": "urn:entity:jud-100030778"
+        },
+        {
+          "judge_name": "US Magistrate Judge Veronica L. Duffy",
+          "judge_guid": "urn:entity:jud-100008272"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_100cr400_ilnd",
+  "case_key": "1:00cr400_ilnd",
+  "case_lni": "7WBN-J8G0-Y892-B36M-00000-00",
+  "case_number": "1:00cr400",
+  "case_title": "USA v. Lawson",
+  "case_info_full_case_name": "USA v. Lawson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lawson",
+  "case_date_filed": "2000-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charles E. Ex",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JEFFREY W LAWSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "William J. Hibbler",
+          "judge_guid": "urn:entity:jud-100080934"
+        }
+      ]
+    }
+  ]
+}

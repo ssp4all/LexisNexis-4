@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_106mj985_TXSD",
+  "case_key": "1:06mj985_TXSD",
+  "case_lni": "7WBN-DHD0-Y892-B3SS-00000-00",
+  "case_number": "1:06mj985",
+  "case_title": "USA v. Rosenbaum",
+  "case_info_full_case_name": "USA v. Rosenbaum",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosenbaum",
+  "case_date_filed": "2006-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Luis Rosenbaum",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922Q.F;"
+        },
+        {
+          "charge_description": "18:922Q.F; Knowingly possess a firearm that has moved in or that otherwise affects interstate or foreign commerce at a place that the individual knows, or has reasonable cause to believe, is a school zone."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

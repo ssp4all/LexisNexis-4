@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_514cr135_LAWD",
+  "case_key": "5:14cr135_LAWD",
+  "case_lni": "5CK4-DCD1-DXDT-G44S-00000-00",
+  "case_number": "5:14cr135",
+  "case_title": "USA vs Buggs",
+  "case_info_full_case_name": "USA vs Buggs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Buggs",
+  "case_date_filed": "2014-07-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John S Odom",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcus L Buggs",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARIJUANA - POSSESSION (4134183)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark L Hornsby",
+          "judge_guid": "urn:entity:jud-100051199"
+        }
+      ]
+    }
+  ]
+}

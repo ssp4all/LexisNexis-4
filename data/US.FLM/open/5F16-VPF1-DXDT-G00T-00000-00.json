@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_815cr3_FLMD",
+  "case_key": "8:15cr3_FLMD",
+  "case_lni": "5F16-VPF1-DXDT-G00T-00000-00",
+  "case_number": "8:15cr3",
+  "case_title": "USA v. Cerda-Ramirez",
+  "case_info_full_case_name": "USA v. Cerda-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cerda-Ramirez",
+  "case_date_filed": "2015-01-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Miguel Cerda-Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F  REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "Probation: 5 years; Fine: Waived; Special Assessment: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1325.F  ILLEGAL ENTRY, CONCEALMENT OF FACTS(2)"
+        },
+        {
+          "charge_disposition": "Probation: 5 years to run concurrent to Count ONE; Fine: Waived; Special Assessment: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326A.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "William J. Castagna",
+          "judge_guid": "urn:entity:jud-100049323"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas B. McCoun III",
+          "judge_guid": "urn:entity:jud-100032487"
+        }
+      ]
+    }
+  ]
+}

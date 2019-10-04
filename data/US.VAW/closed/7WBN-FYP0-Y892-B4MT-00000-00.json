@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_796cr79_vawd",
+  "case_key": "7:96cr79_vawd",
+  "case_lni": "7WBN-FYP0-Y892-B4MT-00000-00",
+  "case_number": "7:96cr79",
+  "case_title": "USA v. Herron, et al",
+  "case_info_full_case_name": "USA v. Herron, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Herron, et al",
+  "case_date_filed": "1996-10-15",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER WILLIAM HERRON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924A.F-18:922(g)(1), 2 (10-23-95)"
+        },
+        {
+          "charge_description": "18:924A.F-18:922(g)(1), 2 PENALTIES FOR FIREARMS-Possess of approximately three firearms by convicted felon-aid &; abet (10-23-95) (1)"
+        },
+        {
+          "charge_disposition": "CBOP-102 mos., S/R 36 months. S/A $50. Ct. recommends that BOP designate the McCormick Correctional Institution in S.C. to be the place of service of this sentence, thereby making this sentence concurrent with the undischarged portion of the defendant's state term of imprisonment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922I.F; 18:2 (10-23-95)"
+        },
+        {
+          "charge_description": "18:922I.F; 18:2 TRANSPORT STOLEN FIREARMS-Transport approximately three stolen firearms (10-23-95) (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Turk",
+          "judge_guid": "urn:entity:jud-100006032"
+        }
+      ]
+    },
+    {
+      "party_name": "CONNIE SUE HERRON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924A.F-18:922(g)(1), 2 (10-23-95)"
+        },
+        {
+          "charge_description": "18:924A.F-18:922(g)(1), 2 PENALTIES FOR FIREARMS-Possess of approximately three firearms by convicted felon-aid &; abet (10-23-95) (1)"
+        },
+        {
+          "charge_disposition": "CBOP-60 mos., S/R 36 mos., S/A $50. Court recommends that BOP designate the Women's Correctional Ctr. in Columbia, SC to be the place of service of this sentence, thereby making this sentence concur. w/the undischarged portion of the deft's state term of imprisonment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2 18:922I.F; (10-23-95)"
+        },
+        {
+          "charge_description": "18:922I.F; 18:2 TRANSPORT STOLEN FIREARMS-Transport approximately three stolen firearms (10-23-95) (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Turk",
+          "judge_guid": "urn:entity:jud-100006032"
+        }
+      ]
+    }
+  ]
+}

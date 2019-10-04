@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_106mj562_VAED",
+  "case_key": "1:06mj562_VAED",
+  "case_lni": "7WBN-PRK0-Y892-B0JB-00000-00",
+  "case_number": "1:06mj562",
+  "case_title": "USA v. Fracyon",
+  "case_info_full_case_name": "USA v. Fracyon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fracyon",
+  "case_date_filed": "2006-07-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rosie Haney",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alex Nader Fracyon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844 (Sch.II) (Ct.1:"
+        },
+        {
+          "charge_description": "21:844 Possession of Mehadone (Sch.II) (Ct.1: [6/29/06]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "36CFR4.2 46.2 715 (ct.2:"
+        },
+        {
+          "charge_description": "36 CFR 4.2 adopting 46.2 Code of VA 715 Failure to Display License Plate (ct.2: [6/29/06]) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "36CFR4.2 46.2 613(1)(i) (Ct.3"
+        },
+        {
+          "charge_description": "36 CFR 4.2 adopting 46.2 Code of VA 613(1)(i) No registration (Ct.3 : [6/29/06]) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

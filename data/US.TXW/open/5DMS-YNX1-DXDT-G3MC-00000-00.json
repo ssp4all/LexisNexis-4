@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_314mj4462_TXWD",
+  "case_key": "3:14mj4462_TXWD",
+  "case_lni": "5DMS-YNX1-DXDT-G3MC-00000-00",
+  "case_number": "3:14mj4462",
+  "case_title": "USA v. Avina-Leyva",
+  "case_info_full_case_name": "USA v. Avina-Leyva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avina-Leyva",
+  "case_date_filed": "2014-11-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albertico Avina-Leyva",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F--Re-entry of Deported Aliens."
+        },
+        {
+          "charge_offence_description": "8:1326A.F--Re-entry of Deported Aliens."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert F. Castaneda",
+          "judge_guid": "urn:entity:jud-100071767"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_102cr31_cod",
+  "case_key": "1:02cr31_cod",
+  "case_lni": "7WBN-JCJ0-Y892-B4TG-00000-00",
+  "case_number": "1:02cr31",
+  "case_title": "USA v. D'Costa",
+  "case_info_full_case_name": "USA v. D'Costa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "D'Costa",
+  "case_date_filed": "2002-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "OPHYLL-D'COSTA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343.F"
+        },
+        {
+          "charge_description": "18:1343.F FRAUD BY WIRE, RADIO, OR TELEVISION (1-15)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7206C.F"
+        },
+        {
+          "charge_description": "26:7206C.F DECLARE UNDER PENALTY OF PERJURY (16)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7206C.F"
+        },
+        {
+          "charge_description": "26:7206C.F DECLARE UNDER PENALTY OF PERJURY (17)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7206C.F"
+        },
+        {
+          "charge_description": "26:7206C.F DECLARE UNDER PENALTY OF PERJURY (18)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Edward W. Nottingham",
+          "judge_guid": "urn:entity:jud-100027298"
+        }
+      ]
+    }
+  ]
+}

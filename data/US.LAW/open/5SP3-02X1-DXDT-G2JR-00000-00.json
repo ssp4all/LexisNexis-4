@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_618mj54_LAWD",
+  "case_key": "6:18mj54_LAWD",
+  "case_lni": "5SP3-02X1-DXDT-G2JR-00000-00",
+  "case_number": "6:18mj54",
+  "case_title": "USA v. Green",
+  "case_info_full_case_name": "USA v. Green",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Green",
+  "case_date_filed": "2018-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jamilla A Bynog",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nacorvrick S Green",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F = POSSESSION OF A FIREARM BY A CONVICTED FELON"
+        },
+        {
+          "charge_offence_description": "18:922G.F = POSSESSION OF A FIREARM BY A CONVICTED"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patrick J Hanna",
+          "judge_guid": "urn:entity:jud-100035374"
+        }
+      ]
+    }
+  ]
+}

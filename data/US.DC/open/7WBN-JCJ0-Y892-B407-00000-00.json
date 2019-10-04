@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_102cr230_dcd",
+  "case_key": "1:02cr230_dcd",
+  "case_lni": "7WBN-JCJ0-Y892-B407-00000-00",
+  "case_number": "1:02cr230",
+  "case_title": "USA v. GALAZ",
+  "case_info_full_case_name": "USA v. GALAZ",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "GALAZ",
+  "case_date_filed": "2002-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAUL C. GALAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341;"
+        },
+        {
+          "charge_description": "18:1341; FRAUDS AND SWINDLES; Mail Fraud (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry H. Kennedy",
+          "judge_guid": "urn:entity:jud-100017415"
+        }
+      ]
+    }
+  ]
+}

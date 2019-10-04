@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_205cr416_TXWD",
+  "case_key": "2:05cr416_TXWD",
+  "case_lni": "7WBN-F9S0-Y892-B38W-00000-00",
+  "case_number": "2:05cr416",
+  "case_title": "USA v. McCann",
+  "case_info_full_case_name": "USA v. McCann",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCann",
+  "case_date_filed": "2005-05-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HOWARD DEWAYNE MCCANN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1324(a)(1)(A)(ii)-transporting"
+        },
+        {
+          "charge_description": "8 USC 1324(a)(1)(A)(ii)-transporting illegal aliens into the United States. [2:05-m-1622]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

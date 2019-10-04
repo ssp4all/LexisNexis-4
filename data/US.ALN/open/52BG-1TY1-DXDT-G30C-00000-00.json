@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_211mj76_ALND",
+  "case_key": "2:11mj76_ALND",
+  "case_lni": "52BG-1TY1-DXDT-G30C-00000-00",
+  "case_number": "2:11mj76",
+  "case_title": "USA v. Hernandez-Trejo",
+  "case_info_full_case_name": "USA v. Hernandez-Trejo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Trejo",
+  "case_date_filed": "2011-03-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lino Hernandez-Trejo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert R Armstrong",
+          "judge_guid": "urn:entity:jud-100052609"
+        }
+      ]
+    }
+  ]
+}

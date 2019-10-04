@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_100m185_ncmd",
+  "case_key": "1:00m185_ncmd",
+  "case_lni": "7WBN-PHY0-Y892-B373-00000-00",
+  "case_number": "1:00m185",
+  "case_title": "USA v. JONES",
+  "case_info_full_case_name": "USA v. JONES",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "JONES",
+  "case_date_filed": "2000-11-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMAD JONES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1073"
+        },
+        {
+          "charge_description": "18:1073 move to travel in interstate or foreign commerce with the intent to avoid prosecution for a crime which is a felony in the State of North Carolina, to wit murder"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAG/JUDGE",
+          "judge_name": "RUSSELL A. ELIASON",
+          "judge_guid": "urn:entity:jud-100091856"
+        }
+      ]
+    }
+  ]
+}

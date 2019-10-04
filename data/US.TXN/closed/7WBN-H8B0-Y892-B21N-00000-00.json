@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_306cr50_TXND",
+  "case_key": "3:06cr50_TXND",
+  "case_lni": "7WBN-H8B0-Y892-B21N-00000-00",
+  "case_number": "3:06cr50",
+  "case_title": "USA v. Philippi et al",
+  "case_info_full_case_name": "USA v. Philippi et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Philippi et al",
+  "case_date_filed": "2006-02-10",
+  "case_status": "Closed",
+  "case_status_date": "06/20/2006",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David L Jarvis-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Jay Philippi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1029(a)(2)  UNAUTHORIZED USE OF ACCESS DEVICES, AIDING AND ABETTING(1)"
+        },
+        {
+          "charge_disposition": "BOP Term of 21 months; S/R term of 3 years; MSA $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "A. Joe Fish",
+          "judge_guid": "urn:entity:jud-100046471"
+        }
+      ]
+    },
+    {
+      "party_name": "Angel Ivan Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1029(a)(2)  UNAUTHORIZED USE OF ACCESS DEVICES, AIDING AND ABETTING(1)"
+        },
+        {
+          "charge_disposition": "PROBATION term of 3 years; MSA $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "A. Joe Fish",
+          "judge_guid": "urn:entity:jud-100046471"
+        }
+      ]
+    }
+  ]
+}

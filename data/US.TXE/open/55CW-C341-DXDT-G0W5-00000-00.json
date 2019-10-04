@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_612cr32_TXED",
+  "case_key": "6:12cr32_TXED",
+  "case_lni": "55CW-C341-DXDT-G0W5-00000-00",
+  "case_number": "6:12cr32",
+  "case_title": "USA v. Navarro-Rico",
+  "case_info_full_case_name": "USA v. Navarro-Rico",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Navarro-Rico",
+  "case_date_filed": "2012-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arturo Navarro-Rico",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CRIMINAL ALIEN UNLAWFULLY PRESENT IN THE UNITED STATES AFTER DEPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leonard Davis",
+          "judge_guid": "urn:entity:jud-100045030"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John D. Love",
+          "judge_guid": "urn:entity:jud-100053423"
+        }
+      ]
+    }
+  ]
+}

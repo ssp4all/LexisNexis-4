@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_216cr20299_MIED",
+  "case_key": "2:16cr20299_MIED",
+  "case_lni": "5JM9-3VF1-DXDT-G0WM-00000-00",
+  "case_number": "2:16cr20299",
+  "case_title": "United States of America v. Flores Flores",
+  "case_info_full_case_name": "United States of America v. Flores Flores",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Flores Flores",
+  "case_date_filed": "2016-04-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amado Flores Flores",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_offence_description": "COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Denise Page Hood",
+          "judge_guid": "urn:entity:jud-100079965"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Anthony P. Patti",
+          "judge_guid": "urn:entity:jud-100114078"
+        }
+      ]
+    }
+  ]
+}

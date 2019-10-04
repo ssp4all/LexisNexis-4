@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_397cr3082_casd",
+  "case_key": "3:97cr3082_casd",
+  "case_lni": "7WBN-RXX0-Y892-B2VW-00000-00",
+  "case_number": "3:97cr3082",
+  "case_title": "USA v. Chavira-Unzon",
+  "case_info_full_case_name": "USA v. Chavira-Unzon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chavira-Unzon",
+  "case_date_filed": "1997-11-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA ANGELICA CHAVIRA-UNZON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844(a)-Possession (Misdemeanor)"
+        },
+        {
+          "charge_description": "21:844(a)-Possession of Marijuana (Misdemeanor) (1)"
+        },
+        {
+          "charge_disposition": "Cnt 1: Custody of the Bureau of Prisons for time served; 1 yr supervised release, $1,000 fine waived, $25 penalty assessment w/in 90 days (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Anthony J. Battaglia",
+          "judge_guid": "urn:entity:jud-100062115"
+        }
+      ]
+    }
+  ]
+}

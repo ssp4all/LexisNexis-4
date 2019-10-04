@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_607cr261_SCD",
+  "case_key": "6:07cr261_SCD",
+  "case_lni": "7WBN-J1T0-Y892-B1FT-00000-00",
+  "case_number": "6:07cr261",
+  "case_title": "USA v. Robertson",
+  "case_info_full_case_name": "USA v. Robertson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robertson",
+  "case_date_filed": "2007-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Timothy Robertson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1703"
+        },
+        {
+          "charge_description": "18:1703 DELAY OR DESTRUCTION OF MAIL OR NEWSPAPER [12/29/06] (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

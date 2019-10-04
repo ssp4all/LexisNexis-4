@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_214po60868_AZD",
+  "case_key": "2:14po60868_AZD",
+  "case_lni": "5BJH-S9C1-DXDT-G1DK-00000-00",
+  "case_number": "2:14po60868",
+  "case_title": "USA v. Acosta-Romero",
+  "case_info_full_case_name": "USA v. Acosta-Romero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acosta-Romero",
+  "case_date_filed": "2014-02-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fredrick Allen Cocio",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fabian Acosta-Romero",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

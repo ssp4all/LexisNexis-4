@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_193cr1016_nyed",
+  "case_key": "1:93cr1016_nyed",
+  "case_lni": "7WBN-K040-Y892-B037-00000-00",
+  "case_number": "1:93cr1016",
+  "case_title": "USA v. Sessa",
+  "case_info_full_case_name": "USA v. Sessa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sessa",
+  "case_date_filed": "1993-09-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY SESSA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7206(2) 18:3551"
+        },
+        {
+          "charge_description": "26:7206(2) and 18:3551 et seq. DECLARE UNDER PENALTY OF PERJURY (INCOME TAX) (1)"
+        },
+        {
+          "charge_disposition": "The dft pleaded guilty to count 1. It is ordered that the dft pay a special assessment of $50.00, which is due immediately. The dft is committed to imprisonment for a term of 6 months. The dft shall surrender to the institution designated by the Bureau of Prisons before 2PM on 4/5/94. Upon release from imprisonment, the dft shall be placed on supervised release for a term of 1 year. A special condition of supervised release is that the dft file, not later than 10 days prior to the last day of his term of supervised release, corrected tax forms for all tax forms that require correction. The dft shall pay a fine of $4,000.00 plus interest which is due no later than 4/5/94. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles P. Sifton",
+          "judge_guid": "urn:entity:jud-100003680"
+        }
+      ]
+    }
+  ]
+}

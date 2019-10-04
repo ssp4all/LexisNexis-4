@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_108cr146_NYSD",
+  "case_key": "1:08cr146_NYSD",
+  "case_lni": "7WBN-JSM0-Y892-B266-00000-00",
+  "case_number": "1:08cr146",
+  "case_title": "USA v. Soto-Espinoza",
+  "case_info_full_case_name": "USA v. Soto-Espinoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Soto-Espinoza",
+  "case_date_filed": "2008-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Soto-Espinoza DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "18USC1956"
+        },
+        {
+          "charge_description": "18 U.S.C. 1956 (MONEY LAUNDERING)"
+        },
+        {
+          "charge_statute": "18:1956-4999.F (CONSPIRACY)"
+        },
+        {
+          "charge_description": "18:1956-4999.F MONEY LAUNDERING-FRAUD, OTHER (CONSPIRACY) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alvin K. Hellerstein",
+          "judge_guid": "urn:entity:jud-100051941"
+        }
+      ]
+    }
+  ]
+}

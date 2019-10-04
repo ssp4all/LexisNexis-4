@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_599cr50_txsd",
+  "case_key": "5:99cr50_txsd",
+  "case_lni": "7WBN-P3X0-Y892-B3J6-00000-00",
+  "case_number": "5:99cr50",
+  "case_title": "USA v. Guerrero-Delgado",
+  "case_info_full_case_name": "USA v. Guerrero-Delgado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guerrero-Delgado",
+  "case_date_filed": "1999-01-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.F 2 1"
+        },
+        {
+          "charge_description": "8:1325.F ILLEGAL ENTRY, CONCEALMENT OF FACTS. Penalty: 2 yrs. $250,000 fine. $100 SA. 1 yr SRT. (1)"
+        },
+        {
+          "charge_disposition": "5 months impr. 1 yr TSR. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Unlawfully entered the United States by evading examination or inspection by Immigration officers/or by willful concealment of a material fact. [5:99-m-38]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

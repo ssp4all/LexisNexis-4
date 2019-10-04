@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_404cr50_txwd",
+  "case_key": "4:04cr50_txwd",
+  "case_lni": "7WBN-ND50-Y892-B0T5-00000-00",
+  "case_number": "4:04cr50",
+  "case_title": "USA v. Lopez-Castillo",
+  "case_info_full_case_name": "USA v. Lopez-Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Castillo",
+  "case_date_filed": "2004-03-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gary Tromblay",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NOE ENRIQUE LOPEZ-CASTILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8USC, 1326(b)(1)"
+        },
+        {
+          "charge_description": "Violation of Title 8 USC, Section 1326(b)(1) [4:04-m-854]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

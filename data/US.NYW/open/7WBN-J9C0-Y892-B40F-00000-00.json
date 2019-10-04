@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_101cr169_nywd",
+  "case_key": "1:01cr169_nywd",
+  "case_lni": "7WBN-J9C0-Y892-B40F-00000-00",
+  "case_number": "1:01cr169",
+  "case_title": "USA v. Ellison",
+  "case_info_full_case_name": "USA v. Ellison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ellison",
+  "case_date_filed": "2001-08-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANDRE ELLISON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F 924(a)(2)."
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC., and 924(a)(2). (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922 (g)(1)"
+        },
+        {
+          "charge_description": "18:922 (g)(1) after having been convicted of a crime punishable by imprisonment for a term exceeding one year, possessed a firearm, which was previously transported in interstate commerce [1:01-m-2101]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior"
+        }
+      ]
+    }
+  ]
+}

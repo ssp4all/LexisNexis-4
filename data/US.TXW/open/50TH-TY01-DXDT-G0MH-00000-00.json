@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_310mj4529_TXWD",
+  "case_key": "3:10mj4529_TXWD",
+  "case_lni": "50TH-TY01-DXDT-G0MH-00000-00",
+  "case_number": "3:10mj4529",
+  "case_title": "USA v. Chavez-Leyva",
+  "case_info_full_case_name": "USA v. Chavez-Leyva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chavez-Leyva",
+  "case_date_filed": "2010-08-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Antonio Chavez-Leyva",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:544.F--SMUGGLING 18:922A.F--IMPORTING/MANUFACTURING 1600"
+        },
+        {
+          "charge_description": "18:544.F--SMUGGLING GOODS FROM THE UNITED STATES. 18:922A.F--IMPORTING/MANUFACTURING FIREARMS. TO WIT: OVER 1600 ROUNDS OF AMMUNITION."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

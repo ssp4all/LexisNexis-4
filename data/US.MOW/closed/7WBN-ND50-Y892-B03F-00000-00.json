@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_404cr359_MOWD",
+  "case_key": "4:04cr359_MOWD",
+  "case_lni": "7WBN-ND50-Y892-B03F-00000-00",
+  "case_number": "4:04cr359",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2004-11-04",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Stefan Christopher Hughes",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael L Jones",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Unlawful Transport of Firearms, Etc. (1)"
+        },
+        {
+          "charge_disposition": "The Defendant Plead Guilty to Count 1 on 3/23/05 of The Indictment. Court Imposes The Following Sentence to Count 1: 48 Months Custody of US Bop. 3 Years Supervised With Special Conditions. no Fine. $100.00 Msa. no Restitution. Defendant Advised of Right to Appeal. Amended Judgment And Commitment - Date of Offense Concluded Amended to 08/07/2004 - Dft Pleaded Guilty to Count 1 on 03/23/2005. Dft Committed to Custody of Bop For 48 Months on Count 1. Supervised Release For 3 Years on Count 1. no Fine or Restitution, Total Assessment $100.00."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Ortrie D Smith",
+          "judge_guid": "urn:entity:jud-100020652"
+        }
+      ]
+    }
+  ]
+}

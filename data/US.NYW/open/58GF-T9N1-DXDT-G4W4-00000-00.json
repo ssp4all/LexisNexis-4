@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_613mj584_NYWD",
+  "case_key": "6:13mj584_NYWD",
+  "case_lni": "58GF-T9N1-DXDT-G4W4-00000-00",
+  "case_number": "6:13mj584",
+  "case_title": "USA v. Chagoya-Gamino",
+  "case_info_full_case_name": "USA v. Chagoya-Gamino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chagoya-Gamino",
+  "case_date_filed": "2013-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jaime Chagoya-Gamino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "42:408.F - misuse of a social security number"
+        },
+        {
+          "charge_offence_description": "42:408.F - misuse of a social security number"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    }
+  ]
+}

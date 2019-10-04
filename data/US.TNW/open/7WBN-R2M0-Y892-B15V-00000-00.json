@@ -1,0 +1,171 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_201cr20064_tnwd",
+  "case_key": "2:01cr20064_tnwd",
+  "case_lni": "7WBN-R2M0-Y892-B15V-00000-00",
+  "case_number": "2:01cr20064",
+  "case_title": "USA v. Askew, et al",
+  "case_info_full_case_name": "USA v. Askew, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Askew, et al",
+  "case_date_filed": "2001-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fred Askew",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Prison term 60 months; dft shall surrender for service of sentence at the institution designated by the BOP as notified by the USM; supervised release 3 yrs; total assessment $100.00; total restitution $262,236.40."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER(2)"
+        },
+        {
+          "charge_disposition": "Dft has been found not guilty on count 2."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    },
+    {
+      "party_name": "Jeffrey Tuggle",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Probation term 3 yrs; no additional conditions of probation were imposed; total assessment $100.00; total restitution $47,236.40."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    },
+    {
+      "party_name": "Gary ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Probation term 3 yrs; dft shall participate in the Home Detention program for a period of 6 months; total assessment $100.00; total restitution $47,236.54."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    },
+    {
+      "party_name": "Jason Wilson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Dft Jason Wilson pleaded guilty on 6/29/01 to count 1 of the Indictment; Dft placed on probation for a term of 3 yrs; Standard conditions of supervision; Dft shall participate in Home Detention program for a period of 6 months; ...dft will remain at dft's residence except for employment and other activities approved in advance by dft's Probation Officer; Total assessment: $100.00; Total restitution: $47,236.40; Payee: Sears Roebuck &; Co.;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    },
+    {
+      "party_name": "Archie Collier",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Probation term of 3 yrs; dft shall participate in the home detention program for a period of 6 mos.; total assessment $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    },
+    {
+      "party_name": "Lachelle Agnew",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Probation term 3 yrs; dft shall participate in the home detention program for a period of 6 months; total assessment $100.00; total restitution $47,236.40."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    }
+  ]
+}

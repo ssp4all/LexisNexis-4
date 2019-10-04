@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_208mj805_CACD",
+  "case_key": "2:08mj805_CACD",
+  "case_lni": "7WBN-M180-Y892-B2BX-00000-00",
+  "case_number": "2:08mj805",
+  "case_title": "USA v. Hines",
+  "case_info_full_case_name": "USA v. Hines",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hines",
+  "case_date_filed": "2008-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Robert Hines",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1),"
+        },
+        {
+          "charge_description": "Defendant in Violation of 18:922(g)(1), 26:5861(d)(f)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Duty Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

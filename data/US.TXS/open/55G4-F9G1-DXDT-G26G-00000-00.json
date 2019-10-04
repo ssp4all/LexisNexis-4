@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_712mj841_TXSD",
+  "case_key": "7:12mj841_TXSD",
+  "case_lni": "55G4-F9G1-DXDT-G26G-00000-00",
+  "case_number": "7:12mj841",
+  "case_title": "USA v. Mejia-Ortez et al",
+  "case_info_full_case_name": "USA v. Mejia-Ortez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mejia-Ortez et al",
+  "case_date_filed": "2012-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Luis Gustavo Mejia-Ortez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Angel Gonzalez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Mauricio Avelar-Cardoza",
+      "party_description": "material witness"
+    }
+  ]
+}

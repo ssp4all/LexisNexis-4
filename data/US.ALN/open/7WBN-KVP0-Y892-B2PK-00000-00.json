@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_207cr444_ALND",
+  "case_key": "2:07cr444_ALND",
+  "case_lni": "7WBN-KVP0-Y892-B2PK-00000-00",
+  "case_number": "2:07cr444",
+  "case_title": "USA v. Edwards",
+  "case_info_full_case_name": "USA v. Edwards",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Edwards",
+  "case_date_filed": "2007-10-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "USM",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Scarlett M Singleton",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Anthony Edwards",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "L Scott Coogler",
+          "judge_guid": "urn:entity:jud-100058352"
+        },
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Harwell G Davis, III",
+          "judge_guid": "urn:entity:jud-100057396"
+        }
+      ]
+    }
+  ]
+}

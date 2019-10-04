@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_296m13_wawd",
+  "case_key": "2:96m13_wawd",
+  "case_lni": "7WBN-M8V0-Y892-B3WM-00000-00",
+  "case_number": "2:96m13",
+  "case_title": "USA v. Acevedo-Ruiz",
+  "case_info_full_case_name": "USA v. Acevedo-Ruiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acevedo-Ruiz",
+  "case_date_filed": "1996-01-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIO ACEVEDO-RUIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846, 841(a)(1) 841(b)(1)(A) 18:2:"
+        },
+        {
+          "charge_description": "For Violation of 21:846, 841(a)(1) &; 841(b)(1)(A) and 18:2: Conspiracy to distribute heroin"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David E. Wilson",
+          "judge_guid": "urn:entity:jud-100035993"
+        }
+      ]
+    }
+  ]
+}

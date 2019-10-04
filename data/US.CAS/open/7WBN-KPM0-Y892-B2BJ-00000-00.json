@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_205m8154_CASD",
+  "case_key": "2:05m8154_CASD",
+  "case_lni": "7WBN-KPM0-Y892-B2BJ-00000-00",
+  "case_number": "2:05m8154",
+  "case_title": "USA v. Fleming",
+  "case_info_full_case_name": "USA v. Fleming",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fleming",
+  "case_date_filed": "2005-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TRACY LYNN FLEMING",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of a controlled substance (marijuana)(felony)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

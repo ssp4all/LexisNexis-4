@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_309cr31_OHSD",
+  "case_key": "3:09cr31_OHSD",
+  "case_lni": "7WBN-D2R0-Y892-B20T-00000-00",
+  "case_number": "3:09cr31",
+  "case_title": "USA v. Werts",
+  "case_info_full_case_name": "USA v. Werts",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Werts",
+  "case_date_filed": "2009-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew Hunt",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ronald Werts",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846"
+        },
+        {
+          "charge_description": "21 USC 846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE HEROIN, A SCHEDULE I CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Walter"
+        }
+      ]
+    }
+  ]
+}

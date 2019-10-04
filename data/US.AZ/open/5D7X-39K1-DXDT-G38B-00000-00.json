@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po32185_AZD",
+  "case_key": "4:14po32185_AZD",
+  "case_lni": "5D7X-39K1-DXDT-G38B-00000-00",
+  "case_number": "4:14po32185",
+  "case_title": "USA v. Rosas Cuevas",
+  "case_info_full_case_name": "USA v. Rosas Cuevas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosas Cuevas",
+  "case_date_filed": "2014-09-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wilbert L Rocker",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Blas Rosas Cuevas",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

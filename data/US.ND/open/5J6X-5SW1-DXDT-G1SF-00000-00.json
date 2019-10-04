@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_116mj66_NDD",
+  "case_key": "1:16mj66_NDD",
+  "case_lni": "5J6X-5SW1-DXDT-G1SF-00000-00",
+  "case_number": "1:16mj66",
+  "case_title": "USA v. Trotter",
+  "case_info_full_case_name": "USA v. Trotter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trotter",
+  "case_date_filed": "2016-03-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Patrick Jonathan Trotter",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1152 and NDCC 12.1-31-01 &; 12.1-32-01 DISORDERLY CONDUCT"
+        },
+        {
+          "charge_offence_description": "18:1152 and NDCC 12.1-31-01 & 12.1-32-01 DISORDERL"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles S. Miller, Jr",
+          "judge_guid": "urn:entity:jud-100025831"
+        }
+      ]
+    }
+  ]
+}

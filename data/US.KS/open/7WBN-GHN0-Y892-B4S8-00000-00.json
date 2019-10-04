@@ -1,0 +1,152 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_200cr20064_ksd",
+  "case_key": "2:00cr20064_ksd",
+  "case_lni": "7WBN-GHN0-Y892-B4S8-00000-00",
+  "case_number": "2:00cr20064",
+  "case_title": "USA v. Webb, et al",
+  "case_info_full_case_name": "USA v. Webb, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Webb, et al",
+  "case_date_filed": "2000-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROGER W WEBB",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to distribute methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to manufacture methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 2 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 2 Manufacture methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(d)(1) 2 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:841(d)(1) and 2 Possession of a List I chemical with the intent to manufacture methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "G. Thomas VanBebber",
+          "judge_guid": "urn:entity:jud-100000282"
+        }
+      ]
+    },
+    {
+      "party_name": "LARRY T MINTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to distribute methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to manufacture methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 2 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 2 Manufacture methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(d)(1) 2 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:841(d)(1) and 2 Possession of a List I chemical with the intent to manufacture methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "G. Thomas VanBebber",
+          "judge_guid": "urn:entity:jud-100000282"
+        }
+      ]
+    },
+    {
+      "party_name": "PAMELA MINTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:843(a)(6) 2 4/27/00, 5/16/00)"
+        },
+        {
+          "charge_description": "21:843(a)(6) and 2 Possession of an item used to manufacture methamphetamine (INDICTMENT FILED 4/27/00, UNSEALED 5/16/00) (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "G. Thomas VanBebber",
+          "judge_guid": "urn:entity:jud-100000282"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_316po19_CTD",
+  "case_key": "3:16po19_CTD",
+  "case_lni": "5JM9-3VC1-DXDT-G33M-00000-00",
+  "case_number": "3:16po19",
+  "case_title": "USA vs Dear",
+  "case_info_full_case_name": "USA vs Dear",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dear",
+  "case_date_filed": "2016-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Eric U Dear",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "AUTHORITY TO PRESCRIBE RULES FOR CONDUCT AND PENALTIES (4417671)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joan G. Margolis",
+          "judge_guid": "urn:entity:jud-100041708"
+        }
+      ]
+    }
+  ]
+}

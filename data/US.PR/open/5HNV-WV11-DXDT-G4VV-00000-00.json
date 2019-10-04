@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_315mj1909_PRD",
+  "case_key": "3:15mj1909_PRD",
+  "case_lni": "5HNV-WV11-DXDT-G4VV-00000-00",
+  "case_number": "3:15mj1909",
+  "case_title": "USA v. Rosario-De Los Angeles",
+  "case_info_full_case_name": "USA v. Rosario-De Los Angeles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosario-De Los Angeles",
+  "case_date_filed": "2015-12-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Glenn H. Goetchius",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eddy Alberto Rosario-De Los Angeles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(b)(2) Reentry of deported alien"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(2) Reentry of deported alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Marcos E. Lopez",
+          "judge_guid": "urn:entity:jud-100072546"
+        }
+      ]
+    },
+    {
+      "party_name": "U.S. Probation Officer",
+      "party_description": "Interested Party"
+    }
+  ]
+}

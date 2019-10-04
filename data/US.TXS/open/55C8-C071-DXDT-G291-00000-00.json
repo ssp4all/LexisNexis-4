@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_712mj727_TXSD",
+  "case_key": "7:12mj727_TXSD",
+  "case_lni": "55C8-C071-DXDT-G291-00000-00",
+  "case_number": "7:12mj727",
+  "case_title": "USA v. Flores-Mata",
+  "case_info_full_case_name": "USA v. Flores-Mata",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Mata",
+  "case_date_filed": "2012-04-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Edelmiro ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

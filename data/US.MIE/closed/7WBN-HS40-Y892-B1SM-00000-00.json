@@ -1,0 +1,93 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_497cr50022_mied",
+  "case_key": "4:97cr50022_mied",
+  "case_lni": "7WBN-HS40-Y892-B1SM-00000-00",
+  "case_number": "4:97cr50022",
+  "case_title": "USA v. Owens",
+  "case_info_full_case_name": "USA v. Owens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Owens",
+  "case_date_filed": "1997-08-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC aus]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LOYS MARIE OWENS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844; 18:2"
+        },
+        {
+          "charge_description": "21:844; 18:2 POSSESSION OF COCAINE; AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_disposition": "COUNT ONE, PROBATION TWO YEARS, FINE $1,000.00, $25.00 SPECIAL ASSESSMENT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "21:841, 21:846"
+        },
+        {
+          "charge_description": "21:841, 21:846 DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE, SCH II, AND DID KNOWINGLY CONSPIRE WITH EACH OTHER AND WITH OTERHS TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE, SCH II [4:97-m-50022]"
+        },
+        {
+          "charge_disposition": "VOLUNTARY DISMISSAL (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marc L. Goldman",
+          "judge_guid": "urn:entity:jud-100042772"
+        }
+      ]
+    },
+    {
+      "party_name": "DEDRIC OWENS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844; 18:2"
+        },
+        {
+          "charge_description": "21:844; 18:2 POSSESSION OF COCAINE; AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_disposition": "COUNT ONE, CUSTODY BUREAU OF PRISONS 5 MONTHS CONCURRENT TO SENTENCE DEFENDANT IS NOW SERVING, $25.00 SPECIAL ASSESSMENT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "21:841, 21:846"
+        },
+        {
+          "charge_description": "21:841, 21:846 DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE, SCH II, AND DID KNOWINGLY CONSPIRE WITH EACH OTHER AND WITH OTERHS TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE, SCH II [4:97-m-50022]"
+        },
+        {
+          "charge_disposition": "VOLUNTARY DISMISSAL (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marc L. Goldman",
+          "judge_guid": "urn:entity:jud-100042772"
+        }
+      ]
+    }
+  ]
+}

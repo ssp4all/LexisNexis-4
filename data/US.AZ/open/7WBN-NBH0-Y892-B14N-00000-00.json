@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_402m2187_azd",
+  "case_key": "4:02m2187_azd",
+  "case_lni": "7WBN-NBH0-Y892-B14N-00000-00",
+  "case_number": "4:02m2187",
+  "case_title": "USA, et al v. Fragoso-Romero",
+  "case_info_full_case_name": "USA, et al v. Fragoso-Romero",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Fragoso-Romero",
+  "case_date_filed": "2002-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO FRAGOSO-ROMERO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 (b)(1)"
+        },
+        {
+          "charge_description": "8:1326 (b)(1) Re-entry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

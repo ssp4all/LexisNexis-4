@@ -1,0 +1,104 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_396m194_prd",
+  "case_key": "3:96m194_prd",
+  "case_lni": "7WBN-N4X0-Y892-B38N-00000-00",
+  "case_number": "3:96m194",
+  "case_title": "USA v. Cipriano, et al",
+  "case_info_full_case_name": "USA v. Cipriano, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cipriano, et al",
+  "case_date_filed": "1996-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS JULIO CIPRIANO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    },
+    {
+      "party_name": "VICTOR HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    },
+    {
+      "party_name": "JOSE MIGUEL MATEO-SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    },
+    {
+      "party_name": "SANTOS DE-ASA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    },
+    {
+      "party_name": "RAFAEL PEREZ-CABRERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    }
+  ]
+}

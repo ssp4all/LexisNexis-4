@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_113cr114_HID",
+  "case_key": "1:13cr114_HID",
+  "case_lni": "57NG-R5Y1-DXDT-G4GK-00000-00",
+  "case_number": "1:13cr114",
+  "case_title": "USA v. Oren",
+  "case_info_full_case_name": "USA v. Oren",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Oren",
+  "case_date_filed": "2013-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jamie R. Oren",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER - HRS 286-102; No valid license; 11/22/2012 PH-Hickam; 3336794/H20(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "KEVIN S.C. CHANG",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

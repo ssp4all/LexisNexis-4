@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_114mj223_INSD",
+  "case_key": "1:14mj223_INSD",
+  "case_lni": "5C5H-6S41-DXDT-G0PG-00000-00",
+  "case_number": "1:14mj223",
+  "case_title": "USA v. THOMPSON",
+  "case_info_full_case_name": "USA v. THOMPSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "THOMPSON",
+  "case_date_filed": "2014-05-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradley Paul Shepard",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRANDON JAMES THOMPSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THREATENING COMMUNICATIONS"
+        },
+        {
+          "charge_offence_description": "THREATENING COMMUNICATIONS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tim A. Baker",
+          "judge_guid": "urn:entity:jud-100009184"
+        }
+      ]
+    }
+  ]
+}

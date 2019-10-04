@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_508cr1114_TXSD",
+  "case_key": "5:08cr1114_TXSD",
+  "case_lni": "7WBN-DF70-Y892-B1JT-00000-00",
+  "case_number": "5:08cr1114",
+  "case_title": "USA v. Hernandez",
+  "case_info_full_case_name": "USA v. Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez",
+  "case_date_filed": "2008-07-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ana Laura Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 count,3"
+        },
+        {
+          "charge_description": "Transporting undocumented aliens within the U.S. Penalty: Not more than 5 YRS and/or $250,000 fine, $100 CVF each count,3 YRS TSR. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F Bringing in and harboring aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_394m22_ncwd",
+  "case_key": "3:94m22_ncwd",
+  "case_lni": "7WBN-DTF0-Y892-B4BH-00000-00",
+  "case_number": "3:94m22",
+  "case_title": "USA v. Ross",
+  "case_info_full_case_name": "USA v. Ross",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ross",
+  "case_date_filed": "1994-02-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY GEORGE ROSS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Bank robbery, bank larceny, use/carry firearm during crime of violence; in violation of Title 18 USC 2113(a),(b),(d),924(c),2"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carl Horn, III",
+          "judge_guid": "urn:entity:jud-100094874"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_102cr211_alsd",
+  "case_key": "1:02cr211_alsd",
+  "case_lni": "7WBN-JCJ0-Y892-B3SF-00000-00",
+  "case_number": "1:02cr211",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2002-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOMINGO A. GARCIA JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE COCAINE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21, 841(a)(1)"
+        },
+        {
+          "charge_description": "did possess with intent to distribute cocaine, a Schedule II controlled substance in violation of Title 21, Section 841(a)(1) [1:02-m-124]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Callie V.S. Granade",
+          "judge_guid": "urn:entity:jud-100072751"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    }
+  ]
+}

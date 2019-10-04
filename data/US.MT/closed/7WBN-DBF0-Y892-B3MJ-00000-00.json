@@ -1,0 +1,86 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_299cr11_mtd",
+  "case_key": "2:99cr11_mtd",
+  "case_lni": "7WBN-DBF0-Y892-B3MJ-00000-00",
+  "case_number": "2:99cr11",
+  "case_title": "USA v. Howick",
+  "case_info_full_case_name": "USA v. Howick",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Howick",
+  "case_date_filed": "1999-11-22",
+  "case_status": "Closed",
+  "case_status_date": "07/24/2000",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edward Keith Howick",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:514F FICTITIOUS OBLIGATIONS INTENDED TO DEFRAUD(1s)"
+        },
+        {
+          "charge_disposition": "Dft committed to bureau of prisons for 24 months on Count 1s, 2s, and 3s to be served concurrently. Supervised release for 3 years. 100 hours of community service at a rate of at least 10 hours per month. $100.00 special assessment on each count for a total of $300.00. No fine and the court will recommend to the BOP that dft be placed at Nellis Air Force Base in Nevada."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:472.F PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES(2s-3s)"
+        },
+        {
+          "charge_disposition": "Dft committed to bureau of prisons for 24 months on Count 1s, 2s, and 3s to be served concurrently. Supervised release for 3 years. 100 hours of community service at a rate of at least 10 hours per month. $100.00 special assessment on each count for a total of $300.00. No fine and the court will recommend to the BOP that dft be placed at Nellis Air Force Base in Nevada."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:514F FICTITIOUS OBLIGATIONS INTENDED TO DEFRAUD(1)"
+        },
+        {
+          "charge_disposition": "Original counts 1,2, &; 3 dismissed by govt at time of sentencing on superseding counts."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:472.F PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES(2)"
+        },
+        {
+          "charge_disposition": "Original counts 1,2 &; 3 dismissed by govt at time of sentencing on superseding counts."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:514F FICTITIOUS OBLIGATIONS INTENDED TO DEFRAUD(3)"
+        },
+        {
+          "charge_disposition": "Original counts 1,2 &; 3 dismissed by govt at time of sentencing on superseding counts."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald W. Molloy",
+          "judge_guid": "urn:entity:jud-100004243"
+        }
+      ]
+    }
+  ]
+}

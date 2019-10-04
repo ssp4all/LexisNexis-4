@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_318cr33_VAED",
+  "case_key": "3:18cr33_VAED",
+  "case_lni": "5RTH-K381-DXDT-G019-00000-00",
+  "case_number": "3:18cr33",
+  "case_title": "USA v. Grimes",
+  "case_info_full_case_name": "USA v. Grimes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grimes",
+  "case_date_filed": "2018-03-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Holli R. Wood",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Slimero Grimes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) AND IN ACCORDANCE WITH 18:924(d), INCORPORATED BY 28:2461(c): POSSESSION OF A FIREARM AND AMMUNITION BY A CONVICTED FELON; FORFEITURE ALLEGATION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1); Possession of a Firearm in and Affecting Interstate Commerce After Having Been Convicted of a Crime Punishable by Imprisonment for a Term Exceeding One Year"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1); Possession of a Firearm in and Affec"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    }
+  ]
+}

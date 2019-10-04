@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_407cr54_TXWD",
+  "case_key": "4:07cr54_TXWD",
+  "case_lni": "7WBN-DD20-Y892-B548-00000-00",
+  "case_number": "4:07cr54",
+  "case_title": "USA v. Chevalier",
+  "case_info_full_case_name": "USA v. Chevalier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chevalier",
+  "case_date_filed": "2007-03-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Paul Alain Chevalier",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

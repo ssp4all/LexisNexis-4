@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_516po858_WYD",
+  "case_key": "5:16po858_WYD",
+  "case_lni": "5KMB-Y4G1-DXDT-G2BP-00000-00",
+  "case_number": "5:16po858",
+  "case_title": "USA v. Caliri",
+  "case_info_full_case_name": "USA v. Caliri",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Caliri",
+  "case_date_filed": "2016-09-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph B Caliri",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of a controlled substance, marijuana (6537729)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Possess, destroy a mineral resource or cave or parts thereof (6537730)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Carry/store open bottle/container containing alcoholic beverage (6537728)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Pass in no pass zone; WS 31-5-203(a)(i) (6537727)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Occupants of care not using seat belts (6537731)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

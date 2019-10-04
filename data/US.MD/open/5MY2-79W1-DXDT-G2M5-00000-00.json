@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_117po2283_MDD",
+  "case_key": "1:17po2283_MDD",
+  "case_lni": "5MY2-79W1-DXDT-G2M5-00000-00",
+  "case_number": "1:17po2283",
+  "case_title": "USA vs Douglas",
+  "case_info_full_case_name": "USA vs Douglas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Douglas",
+  "case_date_filed": "2017-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Meade",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arianna D Douglas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING VEH. ON HWY. AT SPEED EXCEEDING LIMIT BY 20-29 MPH (FM02K04G)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Beth P. Gesner",
+          "judge_guid": "urn:entity:jud-100038277"
+        }
+      ]
+    }
+  ]
+}

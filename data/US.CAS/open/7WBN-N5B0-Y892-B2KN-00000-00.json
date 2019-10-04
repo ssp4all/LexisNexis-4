@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_397cr2837_casd",
+  "case_key": "3:97cr2837_casd",
+  "case_lni": "7WBN-N5B0-Y892-B2KN-00000-00",
+  "case_number": "3:97cr2837",
+  "case_title": "USA v. Bricker",
+  "case_info_full_case_name": "USA v. Bricker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bricker",
+  "case_date_filed": "1997-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Bricker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:331(k) and 333(a)(2) - Misbranding; 18:2 - Aiding and Abetting(1)"
+        },
+        {
+          "charge_disposition": "Bur of Pris - 3 months; spv release - 1 year, which will include 90 days in a Commmunity Correction Center; fine - $2000 payable to US Treasury through the Clerk's Office, at a rate of $100 per month; penalty assessment $100, Ct n otes dft waived appeal rights"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leland C. Nielsen",
+          "judge_guid": "urn:entity:jud-100001365"
+        }
+      ]
+    }
+  ]
+}

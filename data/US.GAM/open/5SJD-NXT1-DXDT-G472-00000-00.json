@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_418cr26_GAMD",
+  "case_key": "4:18cr26_GAMD",
+  "case_lni": "5SJD-NXT1-DXDT-G472-00000-00",
+  "case_number": "4:18cr26",
+  "case_title": "UNITED STATES OF AMERICA v. HIXSON",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. HIXSON",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "HIXSON",
+  "case_date_filed": "2018-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CORNEILOUS HIXSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. ยง 922(g)(1) and ยง 924(a)(2) - Possession of a Firearm by a Convicted Felon(1)"
+        },
+        {
+          "charge_disposition": "57 months imprisonment, 3 years Supervised Release and a mandatory court assessment fee of $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "CLAY D LAND",
+          "judge_guid": "urn:entity:jud-100036627"
+        }
+      ]
+    }
+  ]
+}

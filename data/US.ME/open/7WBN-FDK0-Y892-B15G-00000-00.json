@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_281cr27_med",
+  "case_key": "2:81cr27_med",
+  "case_lni": "7WBN-FDK0-Y892-B15G-00000-00",
+  "case_number": "2:81cr27",
+  "case_title": "USA v. JOHNSON",
+  "case_info_full_case_name": "USA v. JOHNSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "JOHNSON",
+  "case_date_filed": "1981-11-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALEXANDER A. JOHNSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "EDWARD T. GIGNOUX",
+          "judge_guid": "urn:entity:jud-100066628"
+        }
+      ]
+    }
+  ]
+}

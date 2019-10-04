@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_203cr100_wawd",
+  "case_key": "2:03cr100_wawd",
+  "case_lni": "7WBN-KH20-Y892-B3B5-00000-00",
+  "case_number": "2:03cr100",
+  "case_title": "USA v. Knighton",
+  "case_info_full_case_name": "USA v. Knighton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Knighton",
+  "case_date_filed": "2003-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIE FLOYD KNIGHTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 2ND"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, DWLS 2ND (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, no registration (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, no insurance (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, failure to stop (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ira Uhrig",
+          "judge_guid": "urn:entity:jud-100073379"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_201m33_pawd",
+  "case_key": "2:01m33_pawd",
+  "case_lni": "7WBN-KD90-Y892-B4HS-00000-00",
+  "case_number": "2:01m33",
+  "case_title": "USA v. SMITLEY",
+  "case_info_full_case_name": "USA v. SMITLEY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SMITLEY",
+  "case_date_filed": "2001-02-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MISTY SMITLEY",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Francis X. Caiazza",
+          "judge_guid": "urn:entity:jud-100063537"
+        }
+      ]
+    }
+  ]
+}

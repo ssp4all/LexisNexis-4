@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_210cr1306_CACD",
+  "case_key": "2:10cr1306_CACD",
+  "case_lni": "51N6-0921-DXDT-G2MT-00000-00",
+  "case_number": "2:10cr1306",
+  "case_title": "USA v. Aniag",
+  "case_info_full_case_name": "USA v. Aniag",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aniag",
+  "case_date_filed": "2010-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Silvia Aniag",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PROBATION TRANSFER-IN SUPERVISED RELEAS (1)"
+        },
+        {
+          "charge_disposition": "PROBATION TRANSFER-IN SUPERVISED RELEASE PURSUANT TO TREATY"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Margaret M. Morrow",
+          "judge_guid": "urn:entity:jud-100015803"
+        }
+      ]
+    }
+  ]
+}

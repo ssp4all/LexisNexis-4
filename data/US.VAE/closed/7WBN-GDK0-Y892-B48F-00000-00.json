@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_195m780_vaed",
+  "case_key": "1:95m780_vaed",
+  "case_lni": "7WBN-GDK0-Y892-B48F-00000-00",
+  "case_number": "1:95m780",
+  "case_title": "USA v. Evanosky",
+  "case_info_full_case_name": "USA v. Evanosky",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Evanosky",
+  "case_date_filed": "1995-09-25",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rosie Haney",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEONARD EVANOSKY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC844"
+        },
+        {
+          "charge_description": "21 USC 844 Possession of\"Crack\"Cocaine, a Schedule II controlled substance (1)"
+        },
+        {
+          "charge_disposition": "2 yrs supervised probation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "36CFR4.12"
+        },
+        {
+          "charge_description": "36 CFR 4.12 Disobey parking sign (2)"
+        },
+        {
+          "charge_disposition": "dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas Rawles Jones, Jr.",
+          "judge_guid": "urn:entity:jud-100032961"
+        }
+      ]
+    }
+  ]
+}

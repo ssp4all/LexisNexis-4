@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414mj10951_AZD",
+  "case_key": "4:14mj10951_AZD",
+  "case_lni": "5D8S-56S1-DXDT-G0TC-00000-00",
+  "case_number": "4:14mj10951",
+  "case_title": "USA v. Hernandez",
+  "case_info_full_case_name": "USA v. Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez",
+  "case_date_filed": "2014-10-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Juan Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(b)(2) Illegal Re Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(2) Illegal Re Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

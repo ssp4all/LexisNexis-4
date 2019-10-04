@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_614cr40_KYED",
+  "case_key": "6:14cr40_KYED",
+  "case_lni": "5DDK-XSF1-DXDT-G532-00000-00",
+  "case_number": "6:14cr40",
+  "case_title": "USA v. Couch",
+  "case_info_full_case_name": "USA v. Couch",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Couch",
+  "case_date_filed": "2014-10-21",
+  "case_status": "Closed",
+  "case_status_date": "03/04/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Couch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) MANUFACTURE A MIXTURE OR SUBSTANCE CONTAINING METHAMPHETAMINE, A SCHEDULE II CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "30 MONTHS IMPRISONMENT; SUPERVISED RELEASE: 3 YEARS; SPECIAL ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gregory F. VanTatenhove",
+          "judge_guid": "urn:entity:jud-100067114"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hanly A. Ingram",
+          "judge_guid": "urn:entity:jud-100070144"
+        }
+      ]
+    }
+  ]
+}

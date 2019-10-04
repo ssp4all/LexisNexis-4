@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_210cr154_PAWD",
+  "case_key": "2:10cr154_PAWD",
+  "case_lni": "803N-J1X0-Y892-B0PH-00000-00",
+  "case_number": "2:10cr154",
+  "case_title": "USA v. MENDOZA-ESQUIVEL",
+  "case_info_full_case_name": "USA v. MENDOZA-ESQUIVEL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MENDOZA-ESQUIVEL",
+  "case_date_filed": "2010-08-04",
+  "case_status": "Closed",
+  "case_status_date": "09/27/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Barbara K. Swartz",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AUGUSTO CESAR MENDOZA-ESQUIVEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.A. 1326 RE-ENTRY OF AN ILLEGAL ALIEN(1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the the U.S. Bureau of Prison to be imprisoned for a term of TIME SERVED. Defendant shall be deported if, after notice and hearing pursuant to the Immigration and Naturalization Act, 8 U.S.C 1228, the Attorney General demonstrates by clear and convincing evidence that the defendant is deportable, and the defendant shall remain outside the United States. Until such time as this hearing occurs, the defendant shall remain in the custody of the U.S. Marshal; No term of Supervised Release imposed; Special Assessment imposed in the amount $100.00; Fine waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Nora Barry Fischer",
+          "judge_guid": "urn:entity:jud-100046475"
+        }
+      ]
+    }
+  ]
+}

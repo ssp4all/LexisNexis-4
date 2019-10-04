@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_299cr84_ohsd",
+  "case_key": "2:99cr84_ohsd",
+  "case_lni": "7WBN-FG50-Y892-B4KH-00000-00",
+  "case_number": "2:99cr84",
+  "case_title": "USA v. Woody",
+  "case_info_full_case_name": "USA v. Woody",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Woody",
+  "case_date_filed": "1999-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY H WOODY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252.F"
+        },
+        {
+          "charge_description": "18:2252.F SEXUAL EXPLOITATION OF MINORS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2253"
+        },
+        {
+          "charge_description": "18:2253 Forfeiture (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Algenon L Marbley",
+          "judge_guid": "urn:entity:jud-100029036"
+        }
+      ]
+    }
+  ]
+}

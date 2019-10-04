@@ -1,0 +1,73 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_109cr1031_NMD",
+  "case_key": "1:09cr1031_NMD",
+  "case_lni": "7WBN-G9M0-Y892-B1YS-00000-00",
+  "case_number": "1:09cr1031",
+  "case_title": "USA v. Begay",
+  "case_info_full_case_name": "USA v. Begay",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Begay",
+  "case_date_filed": "2009-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Malcolm Kurt Begay",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1153:"
+        },
+        {
+          "charge_description": "18:1153: Crime in Indian Country; 18:81: Arson (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18"
+        },
+        {
+          "charge_description": "18 U.S.C.1153 Arson (1s)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18"
+        },
+        {
+          "charge_description": "18 U.S.C.1153 Destruction of Government Property (2s)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Judith C Herrera",
+          "judge_guid": "urn:entity:jud-100051803"
+        }
+      ]
+    },
+    {
+      "party_name": "Laura Gould",
+      "party_description": "Third Party Custodian"
+    }
+  ]
+}

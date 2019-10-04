@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_408cr236_AZD",
+  "case_key": "4:08cr236_AZD",
+  "case_lni": "7WBN-DDG0-Y892-B08W-00000-00",
+  "case_number": "4:08cr236",
+  "case_title": "USA v. Deleon-Robledo",
+  "case_info_full_case_name": "USA v. Deleon-Robledo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Deleon-Robledo",
+  "case_date_filed": "2008-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Francisco Deleon-Robledo DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "8:1326(b)(2)Re-Entry"
+        },
+        {
+          "charge_description": "8:1326(b)(2)Re-Entry After Deportation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "CT:1 8:1326, 8:1326(b)(2)REENTRY"
+        },
+        {
+          "charge_description": "CT:1 8:1326, enhanced by 8:1326(b)(2)REENTRY OF DEPORTED ALIEN-FELONY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John M Roll",
+          "judge_guid": "urn:entity:jud-100025388"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

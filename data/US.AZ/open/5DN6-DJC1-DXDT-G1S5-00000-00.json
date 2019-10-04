@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_214cr1524_AZD",
+  "case_key": "2:14cr1524_AZD",
+  "case_lni": "5DN6-DJC1-DXDT-G1S5-00000-00",
+  "case_number": "2:14cr1524",
+  "case_title": "USA v. Klimas",
+  "case_info_full_case_name": "USA v. Klimas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Klimas",
+  "case_date_filed": "2014-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lacy Cooper",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Theresa Cole Rassas - Inactive",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony John Klimas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 and 21:331(a) and 333(a)(2) - Conspiracy to Commit an Offense Against the United States(1s)"
+        },
+        {
+          "charge_disposition": "The defendant is committed to the custody of the Bureau of Prisons for a term of TEN (10) MONTHS, with credit for time served. Upon release from imprisonment, the defendant shall be placed on supervised release for a term of THREE (3) YEARS. Special Assessment $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(h) - Conpiracy to Commit Money Laundering(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven P Logan",
+          "judge_guid": "urn:entity:jud-100003811"
+        }
+      ]
+    }
+  ]
+}

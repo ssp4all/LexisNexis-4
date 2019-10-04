@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_404cr2143_AZD",
+  "case_key": "4:04cr2143_AZD",
+  "case_lni": "7WBN-NCS0-Y892-B4BF-00000-00",
+  "case_number": "4:04cr2143",
+  "case_title": "USA, et al v. Madrigal-Machado",
+  "case_info_full_case_name": "USA, et al v. Madrigal-Machado",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Madrigal-Machado",
+  "case_date_filed": "2004-10-20",
+  "case_status": "Closed",
+  "case_status_date": "05/18/2005",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Ricardo Madrigal-Machado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:751 Escape(1)"
+        },
+        {
+          "charge_disposition": "BOP for 7 months to run consecutively to term in 89-1246 with credit for time served; sup rel for 3 years to run concurrect with sup rel to CR89-1246, s/a $50."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_418cr40033_SDD",
+  "case_key": "4:18cr40033_SDD",
+  "case_lni": "5S1N-TTR1-DXDT-G1VJ-00000-00",
+  "case_number": "4:18cr40033",
+  "case_title": "USA v. Rangel",
+  "case_info_full_case_name": "USA v. Rangel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rangel",
+  "case_date_filed": "2018-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Isaiah H. Rangel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "26 U.S.C. ยง 7206(2) AIDING AND ASSISTING IN THE PREPARATION OF FALSE AND FRAUDULENT TAX RETURNS(1-13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26 U.S.C. ยง 7212(a) INTERFERENCE WITH IRS(14)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Lawrence L. Piersol",
+          "judge_guid": "urn:entity:jud-100027874"
+        },
+        {
+          "judge_name": "US Magistrate Judge Veronica L. Duffy",
+          "judge_guid": "urn:entity:jud-100008272"
+        }
+      ]
+    }
+  ]
+}

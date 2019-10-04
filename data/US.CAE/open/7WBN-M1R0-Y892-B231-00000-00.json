@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_209cr128_CAED",
+  "case_key": "2:09cr128_CAED",
+  "case_lni": "7WBN-M1R0-Y892-B231-00000-00",
+  "case_number": "2:09cr128",
+  "case_title": "USA v. Castillo-Gonzalez",
+  "case_info_full_case_name": "USA v. Castillo-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Gonzalez",
+  "case_date_filed": "2009-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael Dwight Anderson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Castillo-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DEPORTED ALIEN FOUND IN US (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "KNOWINLY RE-ENTERED THE UNITED STATES WITHOUT FIRST HAVING SECURED THE EXPRESS CONSENT OF THE ATTORNEY GENERAL"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John A. Mendez",
+          "judge_guid": "urn:entity:jud-100036464"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_115po3856_VAED",
+  "case_key": "1:15po3856_VAED",
+  "case_lni": "5HB8-3HS1-DXDT-G4VH-00000-00",
+  "case_number": "1:15po3856",
+  "case_title": "USA vs Sanchez",
+  "case_info_full_case_name": "USA vs Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez",
+  "case_date_filed": "2015-11-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Alexander A Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS (4538137)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

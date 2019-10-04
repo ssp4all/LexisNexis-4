@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_203cr376_txsd",
+  "case_key": "2:03cr376_txsd",
+  "case_lni": "7WBN-KHJ0-Y892-B215-00000-00",
+  "case_number": "2:03cr376",
+  "case_title": "USA v. Cordova-Sanchez",
+  "case_info_full_case_name": "USA v. Cordova-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cordova-Sanchez",
+  "case_date_filed": "2003-12-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - C",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Mark W Patterson",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MANUEL NMI CORDOVA-SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a) 1326(b). 11/27/03 20 3"
+        },
+        {
+          "charge_description": "Unlawfully found in the United States after being previously excluded, deported, and removed; 8 USC 1326(a) and 1326(b). DATE OF OFFENSE: 11/27/03 PENALTY: Not more than 20 years imprisonment; a fine of up to $250,000 (or both); up to 3 years SRT, and $100 Special Assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(Mexico), 8USC1326."
+        },
+        {
+          "charge_description": "A native and citizen of the United Mexican States (Mexico), and an alien who had been previously deported from the United States after having been convicted of an aggravated felony, was unlawfully found within the United States at Bishop, Texas, the said defendant having not obtained the consent of the Attorney General or the Secretary of the Department of Homeland Security of the United States for application for readmission into the United States in violation of 8 USC 1326. [2:03-m-482]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Hayden W. Head, Jr",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    }
+  ]
+}

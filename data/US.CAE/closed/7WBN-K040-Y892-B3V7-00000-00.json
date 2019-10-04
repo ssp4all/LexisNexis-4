@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_193cr5130_caed",
+  "case_key": "1:93cr5130_caed",
+  "case_lni": "7WBN-K040-Y892-B3V7-00000-00",
+  "case_number": "1:93cr5130",
+  "case_title": "USA v. Hanrahan",
+  "case_info_full_case_name": "USA v. Hanrahan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hanrahan",
+  "case_date_filed": "1993-06-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERALD PATRICK HANRAHAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "36CFR2.32(a)(2)-VIOLATING"
+        },
+        {
+          "charge_description": "36 CFR 2.32(a)(2)-VIOLATING LAWFUL ORDER OF GOVERNMENT EMPLOYEE (1)"
+        },
+        {
+          "charge_disposition": "counts dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

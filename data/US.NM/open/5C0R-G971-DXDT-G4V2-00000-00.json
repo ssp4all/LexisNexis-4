@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_214cr1266_NMD",
+  "case_key": "2:14cr1266_NMD",
+  "case_lni": "5C0R-G971-DXDT-G4V2-00000-00",
+  "case_number": "2:14cr1266",
+  "case_title": "USA v. Rivera",
+  "case_info_full_case_name": "USA v. Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera",
+  "case_date_filed": "2014-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ricky Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C): POSSESSION WITH INTENT TO DISTRIBUTE 50 KILOGRAMS AND MORE OF MARIJUANA; 18:2 AIDING AND ABETTING(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 18 months, 3 years supervised release with special conditions, SPA 100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute 60.5 kilograms of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

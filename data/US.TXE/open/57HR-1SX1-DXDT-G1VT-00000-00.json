@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_612cr99_TXED",
+  "case_key": "6:12cr99_TXED",
+  "case_lni": "57HR-1SX1-DXDT-G1VT-00000-00",
+  "case_number": "6:12cr99",
+  "case_title": "USA v. Sanders",
+  "case_info_full_case_name": "USA v. Sanders",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanders",
+  "case_date_filed": "2013-01-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bobby Sanders",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION OF CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leonard Davis",
+          "judge_guid": "urn:entity:jud-100045030"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Judith K. Guthrie",
+          "judge_guid": "urn:entity:jud-100042070"
+        }
+      ]
+    }
+  ]
+}

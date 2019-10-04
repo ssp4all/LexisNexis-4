@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_514mj17_TXND",
+  "case_key": "5:14mj17_TXND",
+  "case_lni": "5BDD-3FY1-DXDT-G330-00000-00",
+  "case_number": "5:14mj17",
+  "case_title": "USA v. Rosales-Farias",
+  "case_info_full_case_name": "USA v. Rosales-Farias",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosales-Farias",
+  "case_date_filed": "2014-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ann C Roberts-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Government Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mario Rosales-Farias",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:3583  Violation of Conditions of Supervised Release"
+        },
+        {
+          "charge_offence_description": "18:3583  Violation of Conditions of Supervised Rel"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nancy M Koenig",
+          "judge_guid": "urn:entity:jud-100040094"
+        }
+      ]
+    }
+  ]
+}

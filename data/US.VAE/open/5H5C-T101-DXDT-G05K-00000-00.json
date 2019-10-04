@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_315mj260_VAED",
+  "case_key": "3:15mj260_VAED",
+  "case_lni": "5H5C-T101-DXDT-G05K-00000-00",
+  "case_number": "3:15mj260",
+  "case_title": "USA v. Gonzalez",
+  "case_info_full_case_name": "USA v. Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez",
+  "case_date_filed": "2015-10-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nahdir X. Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 113(a)(4) - SIMPLE ASSAULT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Novak",
+          "judge_guid": "urn:entity:jud-100031335"
+        }
+      ]
+    }
+  ]
+}

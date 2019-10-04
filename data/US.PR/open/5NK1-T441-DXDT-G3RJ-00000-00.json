@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_317cr309_PRD",
+  "case_key": "3:17cr309_PRD",
+  "case_lni": "5NK1-T441-DXDT-G3RJ-00000-00",
+  "case_number": "3:17cr309",
+  "case_title": "USA v. Candelario-Monserrate",
+  "case_info_full_case_name": "USA v. Candelario-Monserrate",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Candelario-Monserrate",
+  "case_date_filed": "2017-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Max J. Perez-Bouret",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raul Candelario-Monserrate",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) &; 924(a)(2) PROHIBITED PERSON TO POSSESS A FIREARM(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(o) &; 924(a)(2) POSSESSION OF A MACHINE GUN(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) &; 922(o) Convicted felon in possession of a firearm"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) & 922(o) Convicted felon in possessio"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Francisco A. Besosa",
+          "judge_guid": "urn:entity:jud-100068985"
+        }
+      ]
+    },
+    {
+      "party_description": "Interested Party"
+    }
+  ]
+}

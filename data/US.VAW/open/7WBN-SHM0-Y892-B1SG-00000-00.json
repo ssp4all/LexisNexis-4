@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_701m276_vawd",
+  "case_key": "7:01m276_vawd",
+  "case_lni": "7WBN-SHM0-Y892-B1SG-00000-00",
+  "case_number": "7:01m276",
+  "case_title": "USA v. Wheeler",
+  "case_info_full_case_name": "USA v. Wheeler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wheeler",
+  "case_date_filed": "2001-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRYAN S. WHEELER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "36CFR2.34(a)(2)-Disorderly"
+        },
+        {
+          "charge_description": "36 CFR 2.34(a)(2)-Disorderly conduct; did engage in an act that was obscene"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glen E. Conrad",
+          "judge_guid": "urn:entity:jud-100049824"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_316po6979_WAWD",
+  "case_key": "3:16po6979_WAWD",
+  "case_lni": "5KC6-NB81-DXDT-G3NC-00000-00",
+  "case_number": "3:16po6979",
+  "case_title": "USA vs Sawyer",
+  "case_info_full_case_name": "USA vs Sawyer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sawyer",
+  "case_date_filed": "2016-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Dwayne V Sawyer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Reckless driving (5258654)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J Richard Creatura",
+          "judge_guid": "urn:entity:jud-100057943"
+        }
+      ]
+    }
+  ]
+}

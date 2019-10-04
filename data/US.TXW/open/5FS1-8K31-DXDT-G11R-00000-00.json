@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_515cr289_TXWD",
+  "case_key": "5:15cr289_TXWD",
+  "case_lni": "5FS1-8K31-DXDT-G11R-00000-00",
+  "case_number": "5:15cr289",
+  "case_title": "USA v. Ramos-Barrios",
+  "case_info_full_case_name": "USA v. Ramos-Barrios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos-Barrios",
+  "case_date_filed": "2015-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pablo Ramos-Barrios",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F - Re-entry of Deported Alien"
+        },
+        {
+          "charge_offence_description": "8:1326A.F - Re-entry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    }
+  ]
+}

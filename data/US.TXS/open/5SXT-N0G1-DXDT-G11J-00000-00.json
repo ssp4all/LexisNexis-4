@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_518po62800_TXSD",
+  "case_key": "5:18po62800_TXSD",
+  "case_lni": "5SXT-N0G1-DXDT-G11J-00000-00",
+  "case_number": "5:18po62800",
+  "case_title": "USA v. Reyes-Ortega",
+  "case_info_full_case_name": "USA v. Reyes-Ortega",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes-Ortega",
+  "case_date_filed": "2018-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anderson Reyes-Ortega",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

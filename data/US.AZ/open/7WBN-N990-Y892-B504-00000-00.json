@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_401m8331_azd",
+  "case_key": "4:01m8331_azd",
+  "case_lni": "7WBN-N990-Y892-B504-00000-00",
+  "case_number": "4:01m8331",
+  "case_title": "USA, et al v. Melendez-Perez",
+  "case_info_full_case_name": "USA, et al v. Melendez-Perez",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Melendez-Perez",
+  "case_date_filed": "2001-11-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDUARDO MELENDEZ-PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 8:1326, (b)(2)"
+        },
+        {
+          "charge_description": "CT 1 8:1326, (b)(2) Illegal Re-Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

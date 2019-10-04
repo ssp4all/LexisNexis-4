@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_607cr49_TXND",
+  "case_key": "6:07cr49_TXND",
+  "case_lni": "7WBN-J1T0-Y892-B1JY-00000-00",
+  "case_number": "6:07cr49",
+  "case_title": "USA v. Martinez",
+  "case_info_full_case_name": "USA v. Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez",
+  "case_date_filed": "2007-08-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Johnny Sosa Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: Transportation-8USC1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "Transfer of Jurisdiction-Ct. 1: Illegal Alien Transportation-8 USC 1324(a)(1)(A)(ii) and (B)(i)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Philip R Lane",
+          "judge_guid": "urn:entity:jud-100039650"
+        }
+      ]
+    }
+  ]
+}

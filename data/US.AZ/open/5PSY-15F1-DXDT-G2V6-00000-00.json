@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417mj7332_AZD",
+  "case_key": "4:17mj7332_AZD",
+  "case_lni": "5PSY-15F1-DXDT-G2V6-00000-00",
+  "case_number": "4:17mj7332",
+  "case_title": "USA v. Romero-Badilla",
+  "case_info_full_case_name": "USA v. Romero-Badilla",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero-Badilla",
+  "case_date_filed": "2017-10-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Pablo Romero-Badilla",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1- 21:841(a)(1) and 841(b)(1)(B)(vii) Possession w/Intent to Distribute Marijuana, all in violation of 21:846 Conspiracy to Possess w/Intent to Distribute Marijuana; CT 2 - 21:844(a) Possession with Intent to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "CT 1- 21:841(a)(1) and 841(b)(1)(B)(vii) Possessio"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

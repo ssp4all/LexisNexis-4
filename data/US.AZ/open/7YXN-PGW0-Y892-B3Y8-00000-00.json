@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_210mj5596_AZD",
+  "case_key": "2:10mj5596_AZD",
+  "case_lni": "7YXN-PGW0-Y892-B3Y8-00000-00",
+  "case_number": "2:10mj5596",
+  "case_title": "USA v. Bocanegra-Perez",
+  "case_info_full_case_name": "USA v. Bocanegra-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bocanegra-Perez",
+  "case_date_filed": "2010-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fredrick Allen Cocio",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Luis Bocanegra-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "One-8:1326(a)"
+        },
+        {
+          "charge_description": "Count One-8:1326(a) Re-entry After Removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F. Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

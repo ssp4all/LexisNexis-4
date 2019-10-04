@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_219cr832_AZD",
+  "case_key": "2:19cr832_AZD",
+  "case_lni": "5WK2-FHV1-DXDT-G06C-00000-00",
+  "case_number": "2:19cr832",
+  "case_title": "USA v. Howard",
+  "case_info_full_case_name": "USA v. Howard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Howard",
+  "case_date_filed": "2019-07-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Charles Howard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:751(a) and 4082(a) - Escape from Custody(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:751(a) and 4082(a) - Escape from Custody"
+        },
+        {
+          "charge_offence_description": "18:751(a) and 4082(a) - Escape from Custody"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John J Tuchi",
+          "judge_guid": "urn:entity:jud-100107093"
+        }
+      ]
+    }
+  ]
+}

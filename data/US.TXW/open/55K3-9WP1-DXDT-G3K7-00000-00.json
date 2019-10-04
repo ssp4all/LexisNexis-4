@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_212mj5899_TXWD",
+  "case_key": "2:12mj5899_TXWD",
+  "case_lni": "55K3-9WP1-DXDT-G3K7-00000-00",
+  "case_number": "2:12mj5899",
+  "case_title": "USA v. Sanchez-Ramos",
+  "case_info_full_case_name": "USA v. Sanchez-Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Ramos",
+  "case_date_filed": "2012-05-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "J David Sanchez-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P-CONCEALMENT"
+        },
+        {
+          "charge_description": "8:1325.P-CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

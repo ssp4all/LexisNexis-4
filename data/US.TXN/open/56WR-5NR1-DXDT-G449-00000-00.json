@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_212mj69_TXND",
+  "case_key": "2:12mj69_TXND",
+  "case_lni": "56WR-5NR1-DXDT-G449-00000-00",
+  "case_number": "2:12mj69",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2012-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Admitted/In Good Standing"
+    },
+    {
+      "attorney_name": "Vicki Carlene Lamberson-DOJ",
+      "attorney_label": "ATTORNEY TO BE NOTICED;Bar Status: Admitted/In Good Standing"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elider Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A)(viii)Possession with intent to distribute Methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1), 841(b)(1)(A)(viii)Possession with in"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clinton E Averitte",
+          "judge_guid": "urn:entity:jud-100052428"
+        }
+      ]
+    }
+  ]
+}

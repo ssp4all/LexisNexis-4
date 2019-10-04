@@ -1,0 +1,128 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_719cr4_TXWD",
+  "case_key": "7:19cr4_TXWD",
+  "case_lni": "5V5H-PKS1-DXDT-G167-00000-00",
+  "case_number": "7:19cr4",
+  "case_title": "USA v. Hudgens et al",
+  "case_info_full_case_name": "USA v. Hudgens et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hudgens et al",
+  "case_date_filed": "2019-01-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Braxton Hudgens",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F &; 21:841(a)(1) &; 841(b)(1)(a) - Conspiracy to distribute narcotics; possession with intent to distribute a controlled substance (heroin).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CD.F &; 21:841(a)(1) &; 841(b)(1)(c) - Conspiracy to distribute controlled substance; possession with intent to distribute a controlled substance (methamphetamine).(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F - DISTRIBUTION OF A CONTROLLED SUBSTANCE"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F - DISTRIBUTION OF A CONTROLLED SUBSTA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    },
+    {
+      "party_name": "Robin Wooten",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F &; 21:841(a)(1) &; 841(b)(1)(a) - Conspiracy to distribute narcotics; possession with intent to distribute a controlled substance (heroin).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F POSSESSION WITH INTENT TO DISTRIBUTE"
+        },
+        {
+          "charge_offence_description": "21:841A=ND.F POSSESSION WITH INTENT TO DISTRIBUTE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    },
+    {
+      "party_name": "Jason Ruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F &; 21:841(a)(1) &; 841(b)(1)(a) - Conspiracy to distribute narcotics; possession with intent to distribute a controlled substance (heroin).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F - POSSESSION WITH INTENT TO DISTRIBUTE"
+        },
+        {
+          "charge_offence_description": "21:841A=ND.F - POSSESSION WITH INTENT TO DISTRIBUT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    },
+    {
+      "party_name": "Corey Reeves Bostic",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F &; 21:841(a)(1) &; 841(b)(1)(c) - Conspiracy to distribute controlled substance; possession with intent to distribute a controlled substance (methamphetamine).(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    }
+  ]
+}

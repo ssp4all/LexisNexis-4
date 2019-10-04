@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_216cr1093_TXWD",
+  "case_key": "2:16cr1093_TXWD",
+  "case_lni": "5KFB-NPC1-DXDT-G4WJ-00000-00",
+  "case_number": "2:16cr1093",
+  "case_title": "USA v. Rivera-Gomez",
+  "case_info_full_case_name": "USA v. Rivera-Gomez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera-Gomez",
+  "case_date_filed": "2016-08-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Selene Marlen Rivera-Gomez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE - 21 U.S.C. 841(a)(1) &; (b)(1)(A) and 846 Conspiracy to Possess With Intent to Distribute Methamphetamine(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE - 21 U.S.C 841(a)(1)&; (b)(1)(A), Possession of Methamphetamine With Intent to Distribute(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:952A=CI.F CONTROLLED SUBSTANCES - IMPORT - 21 U.S.C. 952(a) and 960(a)(1) &; (b)(1), and 963, Conspiracy to Import  Methamphetamine(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:952A=CI.F CONTROLLED SUBSTANCES - IMPORT - 21 U.S.C. 952(a) and 960(a)(1) &; (b)(1), Importation of Methamphetamine(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 846 Knowingly and Intentionally conspired to possess with the intent to distribute approximately 25.92 kilos (gross weight) of methamphetamine, a Schedule II controlled substance"
+        },
+        {
+          "charge_offence_description": "21 USC 846 Knowingly and Intentionally conspired t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

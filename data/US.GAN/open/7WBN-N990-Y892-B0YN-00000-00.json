@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_401cr47_gand",
+  "case_key": "4:01cr47_gand",
+  "case_lni": "7WBN-N990-Y892-B0YN-00000-00",
+  "case_number": "4:01cr47",
+  "case_title": "USA v. Estrada",
+  "case_info_full_case_name": "USA v. Estrada",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada",
+  "case_date_filed": "2001-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS FRANCISCO ESTRADA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (2-5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F 21:853(p)"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE and 21:853(p) FORFEITURE PROVISION. (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "500 21:841(a)(1) 846."
+        },
+        {
+          "charge_description": "Dft knowingly &; intentionally conspire, to distribute, &; posses w/the intent to distribute,more than 500 grams of a Schedule II controlled substance in violation of 21:841(a)(1) and 846. [4:01-m-25]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Harold L. Murphy",
+          "judge_guid": "urn:entity:jud-100015473"
+        }
+      ]
+    }
+  ]
+}

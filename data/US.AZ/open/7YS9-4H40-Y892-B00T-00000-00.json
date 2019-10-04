@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_210cr643_AZD",
+  "case_key": "2:10cr643_AZD",
+  "case_lni": "7YS9-4H40-Y892-B00T-00000-00",
+  "case_number": "2:10cr643",
+  "case_title": "USA v. Betancourt",
+  "case_info_full_case_name": "USA v. Betancourt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Betancourt",
+  "case_date_filed": "2010-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Manuel Betancourt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(1) Reentry of Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)(1);"
+        },
+        {
+          "charge_description": "8:1326(a) and enhanced by (b)(1); Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    }
+  ]
+}

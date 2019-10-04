@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_411mj3037_NED",
+  "case_key": "4:11mj3037_NED",
+  "case_lni": "53F3-GYJ1-DXDT-G1RT-00000-00",
+  "case_number": "4:11mj3037",
+  "case_title": "USA v. 1973 Chevy Caprice VIN 1N47Y3J231151 et al",
+  "case_info_full_case_name": "USA v. 1973 Chevy Caprice VIN 1N47Y3J231151 et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "1973 Chevy Caprice VIN 1N47Y3J231151 et al",
+  "case_date_filed": "2011-07-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "1973 Chevy Caprice VIN 1N47Y3J231151",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cheryl R. Zwart",
+          "judge_guid": "urn:entity:jud-100016364"
+        }
+      ]
+    },
+    {
+      "party_name": "2004 Cadillac Escalade VIN 1GYEK63N54R249187",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cheryl R. Zwart",
+          "judge_guid": "urn:entity:jud-100016364"
+        }
+      ]
+    },
+    {
+      "party_name": "1979 Olds Cutlass VIN 3M47A9R481914",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cheryl R. Zwart",
+          "judge_guid": "urn:entity:jud-100016364"
+        }
+      ]
+    }
+  ]
+}

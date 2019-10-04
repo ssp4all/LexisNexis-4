@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ID_302cr208_idd",
+  "case_key": "3:02cr208_idd",
+  "case_lni": "7WBN-FHC0-Y892-B2DN-00000-00",
+  "case_number": "3:02cr208",
+  "case_title": "USA v. Dunlap",
+  "case_info_full_case_name": "USA v. Dunlap",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dunlap",
+  "case_date_filed": "2002-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRIAN DUNLAP",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:3372(a)(2)(A), 3372(a)(5), 3372(a)(4), 3373(d)(1)(B); 18:2"
+        },
+        {
+          "charge_description": "16:3372(a)(2)(A), 3372(a)(5), 3372(a)(4), 3373(d)(1)(B); 18:2 LACEY ACT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mikel H. Williams",
+          "judge_guid": "urn:entity:jud-100022589"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411cr4284_AZD",
+  "case_key": "4:11cr4284_AZD",
+  "case_lni": "54KJ-2XY1-DXDT-G1R9-00000-00",
+  "case_number": "4:11cr4284",
+  "case_title": "USA v. Montes-De Oca",
+  "case_info_full_case_name": "USA v. Montes-De Oca",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Montes-De Oca",
+  "case_date_filed": "2011-12-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andres Estevan Montes-De Oca",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer G Zipps",
+          "judge_guid": "urn:entity:jud-100047798"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

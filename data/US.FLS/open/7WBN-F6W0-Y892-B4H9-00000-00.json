@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_198m2156_flsd",
+  "case_key": "1:98m2156_flsd",
+  "case_lni": "7WBN-F6W0-Y892-B4H9-00000-00",
+  "case_number": "1:98m2156",
+  "case_title": "USA v. Pombo",
+  "case_info_full_case_name": "USA v. Pombo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pombo",
+  "case_date_filed": "1998-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SERGIO POMBO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO FILE FORM 4790"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert L. Dube",
+          "judge_guid": "urn:entity:jud-100056983"
+        }
+      ]
+    }
+  ]
+}

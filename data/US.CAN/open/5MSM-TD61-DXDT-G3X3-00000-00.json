@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_417cr54_CAND",
+  "case_key": "4:17cr54_CAND",
+  "case_lni": "5MSM-TD61-DXDT-G3X3-00000-00",
+  "case_number": "4:17cr54",
+  "case_title": "USA v. Galaviz et al",
+  "case_info_full_case_name": "USA v. Galaviz et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galaviz et al",
+  "case_date_filed": "2017-02-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Nikhil Bhagat",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Andrew Frederick Dawson"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Hugo Aguayo Galaviz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(C): Conspiracy to distribute methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:846, 841(b)(1)(C): Conspiracy to distribute met"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(C): Conspiracy to distribute methamphetamine(1)"
+        },
+        {
+          "charge_disposition": "Committed to the custody of the BOP for a term of 70 months, to be served concurrently with terms imposed in count 2; 3 years supervised release, to be served concurrently with terms imposed in count 2; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(C): Attempted possession with intent to distribute methamphetamine(2)"
+        },
+        {
+          "charge_disposition": "Committed to the custody of the BOP for a term of 70 months, to be served concurrently with terms imposed in count 1; 3 years supervised release, to be served concurrently with terms imposed in count 1; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Phyllis J. Hamilton",
+          "judge_guid": "urn:entity:jud-100076137"
+        }
+      ]
+    },
+    {
+      "party_name": "Mariela Solis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(C): Conspiracy to distribute methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:846, 841(b)(1)(C): Conspiracy to distribute met"
+        },
+        {
+          "charge_description": "18:1952, and 2: Interstate and foreign travel or transportation in aid of racketeering enterprises, Aiding and abetting(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Phyllis J. Hamilton",
+          "judge_guid": "urn:entity:jud-100076137"
+        }
+      ]
+    }
+  ]
+}

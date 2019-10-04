@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117mj142_VAED",
+  "case_key": "1:17mj142_VAED",
+  "case_lni": "5N5G-DD71-DXDT-G30C-00000-00",
+  "case_number": "1:17mj142",
+  "case_title": "USA v. Morehead",
+  "case_info_full_case_name": "USA v. Morehead",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morehead",
+  "case_date_filed": "2017-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Chelsea L. Morehead",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. ยง844  Possession of Marijuana  (Schedule I)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "32 CFR ยง234.17(a)  Adopt Va Code Sec 46.2-804(2)  Failure To Stay In One Lane(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "32 CFR ยง234.17(c)(1)(i)  Drive Under the Influence of Alcohol/Drugs(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "32 CFR ยง234.17(c)(3)(i)  Refusal of BAC(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F. Anderson",
+          "judge_guid": "urn:entity:jud-100074444"
+        }
+      ]
+    }
+  ]
+}

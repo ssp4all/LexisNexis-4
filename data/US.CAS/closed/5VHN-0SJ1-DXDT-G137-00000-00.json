@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319po622_CASD",
+  "case_key": "3:19po622_CASD",
+  "case_lni": "5VHN-0SJ1-DXDT-G137-00000-00",
+  "case_number": "3:19po622",
+  "case_title": "USA vs Mccanna",
+  "case_info_full_case_name": "USA vs Mccanna",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mccanna",
+  "case_date_filed": "2019-02-27",
+  "case_status": "Closed",
+  "case_status_date": "02/27/2019",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kaleb A Mccanna",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violation of special regulations (off-highway vehicle) (6497804)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ruth Bermudez Montenegro",
+          "judge_guid": "urn:entity:jud-100099790"
+        }
+      ]
+    }
+  ]
+}

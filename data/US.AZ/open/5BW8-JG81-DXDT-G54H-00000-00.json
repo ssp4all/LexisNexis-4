@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_214cr446_AZD",
+  "case_key": "2:14cr446_AZD",
+  "case_lni": "5BW8-JG81-DXDT-G54H-00000-00",
+  "case_number": "2:14cr446",
+  "case_title": "USA v. Guerrero-Gutierrez",
+  "case_info_full_case_name": "USA v. Guerrero-Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guerrero-Gutierrez",
+  "case_date_filed": "2014-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jane Elizabeth McLaughlin - Inactive",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gonzalo Guerrero-Gutierrez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed "
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(1) - Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_disposition": "Defendant committed to Bureau of Prisons for a term of SIXTY-THREE (63) MONTHS, with credit for time served; followed by THREE (3) YEARS Supervised Release. Special assessment: $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "G Murray Snow",
+          "judge_guid": "urn:entity:jud-100020555"
+        }
+      ]
+    }
+  ]
+}

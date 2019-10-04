@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_403cr8_txnd",
+  "case_key": "4:03cr8_txnd",
+  "case_lni": "7WBN-HJW0-Y892-B0X8-00000-00",
+  "case_number": "4:03cr8",
+  "case_title": "USA v. Gealta",
+  "case_info_full_case_name": "USA v. Gealta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gealta",
+  "case_date_filed": "2003-01-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John Bradford, Attorney at Law",
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES KIMBALL GEALTA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708 2,"
+        },
+        {
+          "charge_description": "18:1708 &; 2, THEFT OR RECEIPT OF STOLEN MAIL MATTER (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708-POSSESSION"
+        },
+        {
+          "charge_description": "18:1708-POSSESSION OF STOLEN MAIL [4:02-m-411]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John McBryde",
+          "judge_guid": "urn:entity:jud-100041223"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708 2,"
+        },
+        {
+          "charge_description": "18:1708 &; 2, THEFT OR RECEIPT OF STOLEN MAIL MATTER (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708-POSSESSION"
+        },
+        {
+          "charge_description": "18:1708-POSSESSION OF STOLEN MAIL [4:02-m-411]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John McBryde",
+          "judge_guid": "urn:entity:jud-100041223"
+        }
+      ]
+    }
+  ]
+}

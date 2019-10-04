@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317mj1388_CASD",
+  "case_key": "3:17mj1388_CASD",
+  "case_lni": "5NG9-8NY1-DXDT-G01T-00000-00",
+  "case_number": "3:17mj1388",
+  "case_title": "USA v. Estela",
+  "case_info_full_case_name": "USA v. Estela",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estela",
+  "case_date_filed": "2017-05-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Rodolfo Estela, III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) - Transportation of Illegal Aliens"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii) - Transportation of Illegal Al"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David H. Bartick",
+          "judge_guid": "urn:entity:jud-100100980"
+        }
+      ]
+    },
+    {
+      "party_name": "Manuel Rizo-Hernandez",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Rodrigo Duarte-Izazaga",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Olvin Josue Cardenas-Flores",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Efren Villafana-Mendoza",
+      "party_description": "Material Witness"
+    }
+  ]
+}

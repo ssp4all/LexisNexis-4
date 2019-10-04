@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_213cr6046_WAED",
+  "case_key": "2:13cr6046_WAED",
+  "case_lni": "58X9-BR21-DXDT-G4TG-00000-00",
+  "case_number": "2:13cr6046",
+  "case_title": "USA v. Cervantes-Castillo",
+  "case_info_full_case_name": "USA v. Cervantes-Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cervantes-Castillo",
+  "case_date_filed": "2013-07-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ian Lloyd Garriques",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Cervantes-Castillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1326 -- ALIEN IN UNITED STATES AFTER DEPORTATION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326=Alien in United States After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326=Alien in United States After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Edward F. Shea",
+          "judge_guid": "urn:entity:jud-100021263"
+        }
+      ]
+    }
+  ]
+}

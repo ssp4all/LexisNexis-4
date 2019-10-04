@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_307cr5559_WAWD",
+  "case_key": "3:07cr5559_WAWD",
+  "case_lni": "7WBN-H8V0-Y892-B3YT-00000-00",
+  "case_number": "3:07cr5559",
+  "case_title": "USA v. Ferguson",
+  "case_info_full_case_name": "USA v. Ferguson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ferguson",
+  "case_date_filed": "2007-08-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Naval Base Kitsap",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aaron M Ferguson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "GOVERNMENT PROPERTY OR CONTRACTS (1)"
+        },
+        {
+          "charge_disposition": "$0 fine, $25 s/a plus $648.88 restitution due in 6 months"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Mary Alice Theiler",
+          "judge_guid": "urn:entity:jud-100019205"
+        }
+      ]
+    }
+  ]
+}

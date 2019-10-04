@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_208mj80_AZD",
+  "case_key": "2:08mj80_AZD",
+  "case_lni": "7WBN-DNR0-Y892-B413-00000-00",
+  "case_number": "2:08mj80",
+  "case_title": "USA v. Esparza-Santana",
+  "case_info_full_case_name": "USA v. Esparza-Santana",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Esparza-Santana",
+  "case_date_filed": "2008-02-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ildefonso Esparza-Santana aka Santana Esparza-Idelfonso DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a) and enhanced by (b)(1)-Reentry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michelle H Burns",
+          "judge_guid": "urn:entity:jud-100080929"
+        }
+      ]
+    }
+  ]
+}

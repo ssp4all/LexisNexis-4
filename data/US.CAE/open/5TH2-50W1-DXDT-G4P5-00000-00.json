@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_218mj207_CAED",
+  "case_key": "2:18mj207_CAED",
+  "case_lni": "5TH2-50W1-DXDT-G4P5-00000-00",
+  "case_number": "2:18mj207",
+  "case_title": "USA v. Tarver",
+  "case_info_full_case_name": "USA v. Tarver",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tarver",
+  "case_date_filed": "2018-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daron Tarver",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT OF MONEY ORDERS"
+        },
+        {
+          "charge_offence_description": "THEFT OF MONEY ORDERS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Deborah Barnes",
+          "judge_guid": "urn:entity:jud-100124953"
+        }
+      ]
+    }
+  ]
+}

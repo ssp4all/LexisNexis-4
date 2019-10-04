@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_702m224_nced",
+  "case_key": "7:02m224_nced",
+  "case_lni": "7WBN-P820-Y892-B3TK-00000-00",
+  "case_number": "7:02m224",
+  "case_title": "USA v. Brown, et al",
+  "case_info_full_case_name": "USA v. Brown, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown, et al",
+  "case_date_filed": "2002-05-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "REGINALD PIERRE BROWN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(4"
+        },
+        {
+          "charge_description": "Distribution of Crack Cocaone (4 different dates) 21:841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William N. Mason",
+          "judge_guid": "urn:entity:jud-100027235"
+        }
+      ]
+    },
+    {
+      "party_name": "RONIEL HARRIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Complaint"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William N. Mason",
+          "judge_guid": "urn:entity:jud-100027235"
+        }
+      ]
+    }
+  ]
+}

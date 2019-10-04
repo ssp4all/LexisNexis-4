@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_310mj2005_TNMD",
+  "case_key": "3:10mj2005_TNMD",
+  "case_lni": "7XS7-DS50-Y892-B1X2-00000-00",
+  "case_number": "3:10mj2005",
+  "case_title": "USA v. Franklin et al",
+  "case_info_full_case_name": "USA v. Franklin et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Franklin et al",
+  "case_date_filed": "2010-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albert Franklin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a))1) (Oxycontin); 18:922(g)(1) 18:924"
+        },
+        {
+          "charge_description": "21:841(a))1) Conspiracy to possess with intent to distribute Oxycondone (Oxycontin); 18:922(g)(1) and 18:924 Convicted felon in possession of firearm"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "E. Clifton Knowles",
+          "judge_guid": "urn:entity:jud-100040143"
+        }
+      ]
+    },
+    {
+      "party_name": "Anthony Griffin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a))1)"
+        },
+        {
+          "charge_description": "21:841(a))1) Conspiracy to possess with intent to distribute Oxycondone (Oxycontin)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "E. Clifton Knowles",
+          "judge_guid": "urn:entity:jud-100040143"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_699cr84_txed",
+  "case_key": "6:99cr84_txed",
+  "case_lni": "7WBN-P7K0-Y892-B3CB-00000-00",
+  "case_number": "6:99cr84",
+  "case_title": "USA v. Ramsey",
+  "case_info_full_case_name": "USA v. Ramsey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramsey",
+  "case_date_filed": "1999-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BARBARA WILSON RAMSEY",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William M. Steger",
+          "judge_guid": "urn:entity:jud-100002522"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILS_399cr30194_ilsd",
+  "case_key": "3:99cr30194_ilsd",
+  "case_lni": "7WBN-S060-Y892-B1MT-00000-00",
+  "case_number": "3:99cr30194",
+  "case_title": "USA v. Harris",
+  "case_info_full_case_name": "USA v. Harris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harris",
+  "case_date_filed": "1999-09-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PURVIS L HARRIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE; distribution of cocaine (1-2)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to 108 months on each of counts 1 and 2, to run concurrently. Upon release from imprisonment, defendant shall be on supervised release for 4 years. Defendant fined $1, 000 and shall pay special assessment of $200.00 (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "G. Patrick Murphy",
+          "judge_guid": "urn:entity:jud-100015477"
+        }
+      ]
+    }
+  ]
+}

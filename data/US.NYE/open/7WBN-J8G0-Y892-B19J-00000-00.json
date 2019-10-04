@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_100cr202_nyed",
+  "case_key": "1:00cr202_nyed",
+  "case_lni": "7WBN-J8G0-Y892-B19J-00000-00",
+  "case_number": "1:00cr202",
+  "case_title": "USA v. Wellington",
+  "case_info_full_case_name": "USA v. Wellington",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wellington",
+  "case_date_filed": "2000-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Carolyn Pokorny Avenue",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROGER WELLINGTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 1326(b)(2); 18:3551"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b)(2); 18:3551 et seq.-reentry of deported alien (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546(a) 3551"
+        },
+        {
+          "charge_description": "18:1546(a) and 3551 et seq.-possessan attempt to use a document for entry into the United States by means of false claims. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8USC1326-dft"
+        },
+        {
+          "charge_description": "8 USC 1326-dft did knowingly reenter the US after having been deported from the US subsequent to his conviction. [1:00-m-179]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raymond J. Dearie",
+          "judge_guid": "urn:entity:jud-100096559"
+        }
+      ]
+    }
+  ]
+}

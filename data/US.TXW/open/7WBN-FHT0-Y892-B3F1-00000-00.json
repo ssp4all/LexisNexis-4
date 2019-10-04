@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304cr2586_TXWD",
+  "case_key": "3:04cr2586_TXWD",
+  "case_lni": "7WBN-FHT0-Y892-B3F1-00000-00",
+  "case_number": "3:04cr2586",
+  "case_title": "USA v. Marquez-Aguilar",
+  "case_info_full_case_name": "USA v. Marquez-Aguilar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marquez-Aguilar",
+  "case_date_filed": "2004-11-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS MARQUEZ-AGUILAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=MD.F"
+        },
+        {
+          "charge_description": "21:841B=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 952(a). 161.8"
+        },
+        {
+          "charge_description": "Possession with the intent to distribute and importation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(a). Approx. 161.8 pounds of Marijuana [3:04-m-4901]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Philip R. Martinez",
+          "judge_guid": "urn:entity:jud-100041483"
+        }
+      ]
+    }
+  ]
+}

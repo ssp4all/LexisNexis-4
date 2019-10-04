@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_118mj3025_MDD",
+  "case_key": "1:18mj3025_MDD",
+  "case_lni": "5TNB-WGY1-DXDT-G0W4-00000-00",
+  "case_number": "1:18mj3025",
+  "case_title": "USA v. Machado-Medrano",
+  "case_info_full_case_name": "USA v. Machado-Medrano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Machado-Medrano",
+  "case_date_filed": "2018-11-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Noe Antonio Machado-Medrano",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Beth P. Gesner",
+          "judge_guid": "urn:entity:jud-100038277"
+        }
+      ]
+    }
+  ]
+}

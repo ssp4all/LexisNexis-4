@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_402m93_vaed",
+  "case_key": "4:02m93_vaed",
+  "case_lni": "7WBN-FPX0-Y892-B2Y6-00000-00",
+  "case_number": "4:02m93",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2002-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PATRICIA A. JOHNSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC111 (18:111A.M)-Frocibly"
+        },
+        {
+          "charge_description": "Title 18 USC 111 (18:111A.M)-Frocibly Resist and Impede (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC13, 18.2-415 (18:13-7990.M)-Disorderly"
+        },
+        {
+          "charge_description": "Title 18 USC 13, Assim. Code of VA, Sec. 18.2-415 (18:13-7990.M)-Disorderly Conduct (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

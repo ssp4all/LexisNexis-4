@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_809mj1022_MDD",
+  "case_key": "8:09mj1022_MDD",
+  "case_lni": "7WBN-J5B0-Y892-B0BK-00000-00",
+  "case_number": "8:09mj1022",
+  "case_title": "USA v. Polk",
+  "case_info_full_case_name": "USA v. Polk",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Polk",
+  "case_date_filed": "2009-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Thomas F. Polk Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving Motor Vehicle on Highway on Suspended License and Privilege (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jillyn K Schulze",
+          "judge_guid": "urn:entity:jud-100030736"
+        }
+      ]
+    }
+  ]
+}

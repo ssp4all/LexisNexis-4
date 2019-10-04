@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_212cr32_KYED",
+  "case_key": "2:12cr32_KYED",
+  "case_lni": "5636-47F1-DXDT-G0MH-00000-00",
+  "case_number": "2:12cr32",
+  "case_title": "USA v. Magiera",
+  "case_info_full_case_name": "USA v. Magiera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Magiera",
+  "case_date_filed": "2012-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bradley Charles Magiera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2250(a)-FAILURE"
+        },
+        {
+          "charge_description": "18:2250(a)-FAILURE TO REGISTER AS A SEX OFFENDER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Danny C. Reeves",
+          "judge_guid": "urn:entity:jud-100015127"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Gregory Wehrman",
+          "judge_guid": "urn:entity:jud-100023153"
+        }
+      ]
+    }
+  ]
+}

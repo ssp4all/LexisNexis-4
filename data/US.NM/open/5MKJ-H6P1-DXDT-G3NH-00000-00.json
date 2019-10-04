@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_217mj48_NMD",
+  "case_key": "2:17mj48_NMD",
+  "case_lni": "5MKJ-H6P1-DXDT-G3NH-00000-00",
+  "case_number": "2:17mj48",
+  "case_title": "USA v. Rosales-Castro",
+  "case_info_full_case_name": "USA v. Rosales-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosales-Castro",
+  "case_date_filed": "2017-01-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javier Rosales-Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(b)(2) Reentry After Deportation - Aggravated Felony"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(2) Reentry After Deportation - Aggravate"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    }
+  ]
+}

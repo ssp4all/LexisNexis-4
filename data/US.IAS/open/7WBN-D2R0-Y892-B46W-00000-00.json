@@ -1,0 +1,127 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_407cr39_IASD",
+  "case_key": "4:07cr39_IASD",
+  "case_lni": "7WBN-D2R0-Y892-B46W-00000-00",
+  "case_number": "4:07cr39",
+  "case_title": "USA v. Wagaman et al",
+  "case_info_full_case_name": "USA v. Wagaman et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wagaman et al",
+  "case_date_filed": "2007-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donald Leroy Wagaman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841(b)(1)(A)Conspiracy"
+        },
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE CONTROLLED SUBSTANCE 21:846 &; 841(b)(1)(A)Conspiracy to Manufacture Methamphetamine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846, 841(a)(1), 841(b)(1)(B)"
+        },
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE CONTROLLED SUBSTANCE 21:846, 841(a)(1), 841(b)(1)(B) Manufacture Methamphetamine (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SEE, DISTRIBUTE, OR DISPENSE (Knowingly and intentionally manufacture, and conspire to manufacture, a controlled substance, to wit: methamphetamine a Schedule II Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ross A. Walters",
+          "judge_guid": "urn:entity:jud-100005437"
+        }
+      ]
+    },
+    {
+      "party_name": "Paul Clinten Bolton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841(b)(1)(A)Conspiracy"
+        },
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE CONTROLLED SUBSTANCE 21:846 &; 841(b)(1)(A)Conspiracy to Manufacture Methamphetamine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846, 841(a)(1), 841(b)(1)(B)"
+        },
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE CONTROLLED SUBSTANCE 21:846, 841(a)(1), 841(b)(1)(B) Manufacture Methamphetamine (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846, 841(a)(1),841(b)(1)(B), 860,"
+        },
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE CONTROLLED SUBSTANCE 21:846, 841(a)(1),841(b)(1)(B), 860, Manufacture Methamphetamine (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:858 18:2"
+        },
+        {
+          "charge_description": "ENDANGERING LIFE MANUFACTURING CONTROLLED SUBSTANCE 21:858 and Title 18:2 Create a Substantial Risk of Harm While Manufacturing Methamphetamine (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SEE, DISTRIBUTE, OR DISPENSE (Knowingly and intentionally manufacture, and conspire to manufacture, a controlled substance, to wit: methamphetamine a Schedule II Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ross A. Walters",
+          "judge_guid": "urn:entity:jud-100005437"
+        }
+      ]
+    }
+  ]
+}

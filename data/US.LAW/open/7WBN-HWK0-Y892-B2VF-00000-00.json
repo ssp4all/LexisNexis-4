@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_507mj5159_LAWD",
+  "case_key": "5:07mj5159_LAWD",
+  "case_lni": "7WBN-HWK0-Y892-B2VF-00000-00",
+  "case_number": "5:07mj5159",
+  "case_title": "USA v. Anderson",
+  "case_info_full_case_name": "USA v. Anderson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Anderson",
+  "case_date_filed": "2007-10-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Marquis Anderson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:287-Making"
+        },
+        {
+          "charge_description": "18:287-Making False, Fictitious or Fraudulent Claims Against the Government"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark L Hornsby",
+          "judge_guid": "urn:entity:jud-100051199"
+        }
+      ]
+    }
+  ]
+}

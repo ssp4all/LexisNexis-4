@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_111cr1214_HID",
+  "case_key": "1:11cr1214_HID",
+  "case_lni": "54F7-8CD1-DXDT-G4D5-00000-00",
+  "case_number": "1:11cr1214",
+  "case_title": "USA v. Diego",
+  "case_info_full_case_name": "USA v. Diego",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diego",
+  "case_date_filed": "2011-12-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nathaniel K. Diego",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F ETC.-18:922(g)(3) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC.-18:922(g)(3) and 924(a)(2) (1s)"
+        },
+        {
+          "charge_disposition": "Imprisonment 5 Years to run concurrently with imprisonment term imposed in Cr. No. 11-00609ACK. Supervised Release-3 Years to run concurrently with supervised release term imposed in Cr. No. 11-00609ACK. Special Assessment-$100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F ETC.-18:922(g)(3) 924(a)(2)-addicted"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC.-18:922(g)(3) and 924(a)(2)-addicted to controlled substance in possession of firearms (1)"
+        },
+        {
+          "charge_disposition": "Dismissed, Count Superseded"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "ALAN C KAY",
+          "judge_guid": "urn:entity:jud-100043329"
+        }
+      ]
+    }
+  ]
+}

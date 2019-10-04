@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_119po45_VAED",
+  "case_key": "1:19po45_VAED",
+  "case_lni": "5V4N-NBF1-DXDT-G377-00000-00",
+  "case_number": "1:19po45",
+  "case_title": "USA vs Ridgway",
+  "case_info_full_case_name": "USA vs Ridgway",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ridgway",
+  "case_date_filed": "2019-01-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Phillip D Ridgway",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DISTURBING, INJURING, DAMAGING OR COLLECTING ANY PLANT OR ANIMAL (7570270)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "HUNTING IN VIOLATION OF OTHER FEDERAL LAWS OR REGULATIONS (7570271)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_203cr2452_nmd",
+  "case_key": "2:03cr2452_nmd",
+  "case_lni": "7WBN-KHJ0-Y892-B10G-00000-00",
+  "case_number": "2:03cr2452",
+  "case_title": "USA v. Avila",
+  "case_info_full_case_name": "USA v. Avila",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avila",
+  "case_date_filed": "2003-12-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Avila",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:4:"
+        },
+        {
+          "charge_description": "18:4: MISPRISION OF A FELONY (1-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Bruce D. Black",
+          "judge_guid": "urn:entity:jud-100068850"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_596m5055_kyed",
+  "case_key": "5:96m5055_kyed",
+  "case_lni": "7WBN-P320-Y892-B50S-00000-00",
+  "case_number": "5:96m5055",
+  "case_title": "USA v. Moreno-Galan",
+  "case_info_full_case_name": "USA v. Moreno-Galan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Galan",
+  "case_date_filed": "1996-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE JAVIER MORENO-GALAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 ILLEGAL ALIEN RETURNING TO U.S. W/O CONSENT OF ATTORNEY GENERAL"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James B. Todd",
+          "judge_guid": "urn:entity:jud-100006590"
+        }
+      ]
+    }
+  ]
+}

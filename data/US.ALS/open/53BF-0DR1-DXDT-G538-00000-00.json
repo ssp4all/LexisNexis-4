@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_111cr180_ALSD",
+  "case_key": "1:11cr180_ALSD",
+  "case_lni": "53BF-0DR1-DXDT-G538-00000-00",
+  "case_number": "1:11cr180",
+  "case_title": "USA v. Tuggle",
+  "case_info_full_case_name": "USA v. Tuggle",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tuggle",
+  "case_date_filed": "2011-06-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Judson Eugene Tuggle",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ARSON (1-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Charles R. Butler, Jr",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    }
+  ]
+}

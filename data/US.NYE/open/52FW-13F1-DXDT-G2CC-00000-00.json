@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_111cr225_NYED",
+  "case_key": "1:11cr225_NYED",
+  "case_lni": "52FW-13F1-DXDT-G2CC-00000-00",
+  "case_number": "1:11cr225",
+  "case_title": "USA v. Jarrett",
+  "case_info_full_case_name": "USA v. Jarrett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jarrett",
+  "case_date_filed": "2011-03-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael P Canty",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alicia Louise Jarrett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC952-importation"
+        },
+        {
+          "charge_description": "21 USC 952-importation of cocaine into the US."
+        },
+        {
+          "charge_description": "NARCOTICS-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "NARCOTICS-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Sterling Johnson, Jr",
+          "judge_guid": "urn:entity:jud-100050317"
+        }
+      ]
+    }
+  ]
+}

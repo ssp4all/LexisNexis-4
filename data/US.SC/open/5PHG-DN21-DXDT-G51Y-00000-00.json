@@ -1,0 +1,36 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_414cr73_SCD",
+  "case_key": "4:14cr73_SCD",
+  "case_lni": "5PHG-DN21-DXDT-G51Y-00000-00",
+  "case_number": "4:14cr73",
+  "case_title": "USA v. Beck",
+  "case_info_full_case_name": "USA v. Beck",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beck",
+  "case_date_filed": "2014-02-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Caroline Beck",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:641 PUBLIC MONEY, PROPERTY OR RECORDS - Defendant knowingly and willfully did embezzle, steal and convert to her own use and the use of another in excess of $1,000 which belonged to the SSA, in violation of 18:641(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ]
+    }
+  ]
+}

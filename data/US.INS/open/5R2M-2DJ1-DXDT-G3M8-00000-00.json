@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_117po11_INSD",
+  "case_key": "1:17po11_INSD",
+  "case_lni": "5R2M-2DJ1-DXDT-G3M8-00000-00",
+  "case_number": "1:17po11",
+  "case_title": "USA vs DIEHL",
+  "case_info_full_case_name": "USA vs DIEHL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DIEHL",
+  "case_date_filed": "2017-11-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "DAVID B DIEHL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18USC111(a) Assaulting, resisting, or impeding certain officers or employees (6322235)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "38CFR1.218(b)(11) Disorderly Conduct (6322234)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark J. Dinsmore",
+          "judge_guid": "urn:entity:jud-100071365"
+        }
+      ]
+    }
+  ]
+}

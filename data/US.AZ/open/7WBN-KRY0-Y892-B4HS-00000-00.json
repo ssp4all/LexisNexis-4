@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_206cr838_AZD",
+  "case_key": "2:06cr838_AZD",
+  "case_lni": "7WBN-KRY0-Y892-B4HS-00000-00",
+  "case_number": "2:06cr838",
+  "case_title": "USA v. Velasquez-Landeros",
+  "case_info_full_case_name": "USA v. Velasquez-Landeros",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Velasquez-Landeros",
+  "case_date_filed": "2006-09-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Heriberto Velasquez-Landeros",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a) and enhanced by (b)(2)-Reentry After Deportation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1-8:1326(a)(b)(2) 2-8:1326(a)(b)(2)"
+        },
+        {
+          "charge_description": "Ct. 1-8:1326(a)(b)(2) Attempted Illegal Re-Entry; Ct. 2-8:1326(a)(b)(2) Illegal Re-Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Earl H Carroll",
+          "judge_guid": "urn:entity:jud-100063190"
+        }
+      ]
+    }
+  ]
+}

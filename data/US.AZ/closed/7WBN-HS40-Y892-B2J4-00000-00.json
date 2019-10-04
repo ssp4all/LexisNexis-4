@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_497m2075_azd",
+  "case_key": "4:97m2075_azd",
+  "case_lni": "7WBN-HS40-Y892-B2J4-00000-00",
+  "case_number": "4:97m2075",
+  "case_title": "USA v. Miramontes-Arellano",
+  "case_info_full_case_name": "USA v. Miramontes-Arellano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miramontes-Arellano",
+  "case_date_filed": "1997-02-24",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "GABRIEL ANGEL MIRAMONTES-ARELLANO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2-18:1028A"
+        },
+        {
+          "charge_description": "Ct 2-18:1028A FRAUD WITH IDENTIFICATION DOCUMENTS (2)"
+        },
+        {
+          "charge_disposition": "Period of time served. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1-18:1546(a) 2-18:1028(a)(4)(b)(3)"
+        },
+        {
+          "charge_description": "Count 1-18:1546(a) illegal alien, used, attmepted to use, obtained, accepted an ID document knowing document to procured by fraud or unlawfully obtained and Count 2-18:1028(a)(4)(b)(3) illegal alien used ID document to defraud the US"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    }
+  ]
+}

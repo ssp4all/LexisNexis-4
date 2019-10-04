@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ID_108cr325_IDD",
+  "case_key": "1:08cr325_IDD",
+  "case_lni": "7WBN-JSM0-Y892-B54C-00000-00",
+  "case_number": "1:08cr325",
+  "case_title": "USA v. Juarez-Contreas",
+  "case_info_full_case_name": "USA v. Juarez-Contreas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Juarez-Contreas",
+  "case_date_filed": "2008-12-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Sergio Juarez-Contreas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION OF COUNTERFEIT ALIEN REGISTRATION RECEIPT CARD (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUDULENT USE OF SOCIAL SECURITY NUMBER (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "IMPROPER ENTRY BY ALIEN (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Edward J. Lodge",
+          "judge_guid": "urn:entity:jud-100038805"
+        }
+      ]
+    }
+  ]
+}

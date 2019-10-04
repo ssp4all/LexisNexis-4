@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_400cr480_txsd",
+  "case_key": "4:00cr480_txsd",
+  "case_lni": "7WBN-N860-Y892-B2XM-00000-00",
+  "case_number": "4:00cr480",
+  "case_title": "USA v. Baez",
+  "case_info_full_case_name": "USA v. Baez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baez",
+  "case_date_filed": "2000-07-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Marshal - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GILBERTO RODRIGUEZ BAEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:4.F"
+        },
+        {
+          "charge_description": "18:4.F Misprison of a felony (1)"
+        },
+        {
+          "charge_disposition": "Deft sentenced in Mobile, Alabama, on 10/8/98 to24 mos to serve plus 1 yr SRT, $5,000 fine and $100 special assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lee H Rosenthal",
+          "judge_guid": "urn:entity:jud-100011616"
+        }
+      ]
+    }
+  ]
+}

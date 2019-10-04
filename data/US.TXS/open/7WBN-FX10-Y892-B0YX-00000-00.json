@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_593cr103_txsd",
+  "case_key": "5:93cr103_txsd",
+  "case_lni": "7WBN-FX10-Y892-B0YX-00000-00",
+  "case_number": "5:93cr103",
+  "case_title": "USA v. Juarez-Rodriguez",
+  "case_info_full_case_name": "USA v. Juarez-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Juarez-Rodriguez",
+  "case_date_filed": "1993-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN LUIS JUAREZ-RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "152.05 5/27/93) 0-20 3-5"
+        },
+        {
+          "charge_description": "Possess w/intent to distribute approx. 152.05 lbs. gross wt. of marihuana [21 USC 841(a)(1) &; 841(b)(1)(C)] (Offense Date: 5/27/93) Max Penalty: 0-20 yrs and/or $1 million, $50 CVF, 3-5 yrs SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "152.05"
+        },
+        {
+          "charge_description": "Possess w/intent to distribute approx 152.05 lbs of marihuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

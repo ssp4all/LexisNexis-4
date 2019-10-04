@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_201cr132_nmd",
+  "case_key": "2:01cr132_nmd",
+  "case_lni": "7WBN-KCV0-Y892-B04K-00000-00",
+  "case_number": "2:01cr132",
+  "case_title": "USA v. Acosta",
+  "case_info_full_case_name": "USA v. Acosta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acosta",
+  "case_date_filed": "2001-02-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amador Adame Acosta",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841 93"
+        },
+        {
+          "charge_description": "21:841 Possession with Intent to Distribute 93 lbs of Marijuana [2:00-m-5255]"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(D) 50 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D) POSSESSION WITH INTENT TO DISTRIBUTE LESS THAN 50 KILOGRAMS OF MARIJUANA; AND 18:2 AIDING AND ABETTING (1-1)"
+        },
+        {
+          "charge_disposition": "(1-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martha Vazquez",
+          "judge_guid": "urn:entity:jud-100000029"
+        }
+      ]
+    }
+  ]
+}

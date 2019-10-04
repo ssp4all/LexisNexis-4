@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_409cr149_OKND",
+  "case_key": "4:09cr149_OKND",
+  "case_lni": "7XB9-DVS0-Y892-B06T-00000-00",
+  "case_number": "4:09cr149",
+  "case_title": "USA v. Culver",
+  "case_info_full_case_name": "USA v. Culver",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Culver",
+  "case_date_filed": "2009-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Phil E Pinnell",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Robert Trent Shores",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Patsy Mae Culver",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1168(b) Theft by Employee of Gaming Establishment on Indian Land in Excess of $1,000.00(1)"
+        },
+        {
+          "charge_disposition": "Prob. for 24 mos, $100.00 SMA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Gregory K Frizzell",
+          "judge_guid": "urn:entity:jud-100016350"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_410mj831_TXWD",
+  "case_key": "4:10mj831_TXWD",
+  "case_lni": "7Y25-D8J0-Y892-B306-00000-00",
+  "case_number": "4:10mj831",
+  "case_title": "USA v. Roman-Mata",
+  "case_info_full_case_name": "USA v. Roman-Mata",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Roman-Mata",
+  "case_date_filed": "2010-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA Pecos",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Juan Roman-Mata",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "B. Dwight Goains",
+          "judge_guid": "urn:entity:jud-100049003"
+        }
+      ]
+    }
+  ]
+}

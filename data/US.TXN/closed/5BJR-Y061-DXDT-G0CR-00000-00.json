@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_314cr64_TXND",
+  "case_key": "3:14cr64_TXND",
+  "case_lni": "5BJR-Y061-DXDT-G0CR-00000-00",
+  "case_number": "3:14cr64",
+  "case_title": "USA v. Alvarado-Gutierrez et al",
+  "case_info_full_case_name": "USA v. Alvarado-Gutierrez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarado-Gutierrez et al",
+  "case_date_filed": "2014-02-19",
+  "case_status": "Closed",
+  "case_status_date": "03/16/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Danial Gividen-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Julio Alvarado-Gutierrez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE AND TO DISTRIBUTE A CONTROLLED SUBSTANCE(1s)"
+        },
+        {
+          "charge_disposition": "Custody of the BOP 30 months; S/R 2 years; MSA $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC ยง 846 CONSPIRACY TO POSSESS WITH THE INTENT TO DISTRIBUTE AND TO DISTRIBUTE A CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Sidney A Fitzwater",
+          "judge_guid": "urn:entity:jud-100046409"
+        }
+      ]
+    },
+    {
+      "party_name": "Ruben Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute and to Distribute a Controlled Substance(1s)"
+        },
+        {
+          "charge_disposition": "Custody of the BOP for a term of 57 months. MSA - $100. S/R - 3 years."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC ยง 846 CONSPIRACY TO POSSESS WITH THE INTENT TO DISTRIBUTE AND TO DISTRIBUTE A CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Sidney A Fitzwater",
+          "judge_guid": "urn:entity:jud-100046409"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_299m12_med",
+  "case_key": "2:99m12_med",
+  "case_lni": "7WBN-H360-Y892-B12F-00000-00",
+  "case_number": "2:99m12",
+  "case_title": "USA v. NGUYEN",
+  "case_info_full_case_name": "USA v. NGUYEN",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "NGUYEN",
+  "case_date_filed": "1999-03-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THONG NGUYEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1951(a), (b)(1)"
+        },
+        {
+          "charge_description": "conspiracy to interfere with commerce by robbery from Nail Time of South Portland, 18:1951(a), (b)(1) and (2)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAG. JUDGE",
+          "judge_name": "DAVID M. COHEN",
+          "judge_guid": "urn:entity:jud-100062400"
+        }
+      ]
+    }
+  ]
+}

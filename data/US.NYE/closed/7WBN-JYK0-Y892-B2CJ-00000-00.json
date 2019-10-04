@@ -1,0 +1,95 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_192cr654_nyed",
+  "case_key": "1:92cr654_nyed",
+  "case_lni": "7WBN-JYK0-Y892-B2CJ-00000-00",
+  "case_number": "1:92cr654",
+  "case_title": "USA v. Onumah",
+  "case_info_full_case_name": "USA v. Onumah",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Onumah",
+  "case_date_filed": "1992-06-04",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jason Brown",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT ONUMAH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:963 960(b)(2)(A); 18:3551"
+        },
+        {
+          "charge_description": "21:963 and 960(b)(2)(A); 18:3551 etseq. CONTROLLED SUB-IMPORTATION/EXPORTATION-did conspire to import heroin (Scheudle I). (1s)"
+        },
+        {
+          "charge_disposition": "60 months imprisonment plus a 5 year period of supervised release (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1), 924(a)(2) 3551"
+        },
+        {
+          "charge_description": "18:922(g)(1), 924(a)(2) and 3551 et seq.-did knowingly and intentionally possess a FIREARM in and affecting commerce. (2s)"
+        },
+        {
+          "charge_disposition": "60 months imprisonment plus a 5 year period of supervised release (2s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1), 924(a)(2) 3551"
+        },
+        {
+          "charge_description": "18:922(g)(1), 924(a)(2) &; 3551 et seq-DEFT, BEING A PERSON CONVICTED OF A CRIME, DID KNOWINGLY &; INTENTIONALLY POSSESS A FIREARM IN &; AFFECTING COMMERCE. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(5), 924(a)(2) 3551"
+        },
+        {
+          "charge_description": "18:922(g)(5), 924(a)(2) &; 3551 et seq-DEFT, BEING AN ALIEN ILLEGALLY &; UNLAWFULLY IN THE U.S. DID POSSESS A FIREARM IN &; AFFECTING COMMERCE. (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5/7/92 1 18:922(g)(1) (5)."
+        },
+        {
+          "charge_description": "On 5/7/92 the deft an illegal alien having been convicted in a court of a crime punishable by imprisonment for a term exceeding 1 yr, did knowingly &; intentionally possess a firearm in &; affecting commerce in violation of 18:922(g)(1) &; (5). [1:92-m-927]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "I. Leo Glasser",
+          "judge_guid": "urn:entity:jud-100038081"
+        }
+      ]
+    }
+  ]
+}

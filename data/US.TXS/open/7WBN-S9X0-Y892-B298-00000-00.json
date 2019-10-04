@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_504m7728_TXSD",
+  "case_key": "5:04m7728_TXSD",
+  "case_lni": "7WBN-S9X0-Y892-B298-00000-00",
+  "case_number": "5:04m7728",
+  "case_title": "USA v. Sandoval-Padron",
+  "case_info_full_case_name": "USA v. Sandoval-Padron",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval-Padron",
+  "case_date_filed": "2004-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN GERARDO SANDOVAL-PADRON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and unlawfully"
+        },
+        {
+          "charge_statute": "110.67"
+        },
+        {
+          "charge_description": "possess with intent to distribute a controlled substance, to-wit: approximately 110.67 kilograms of Marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

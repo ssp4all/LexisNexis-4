@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_415mj36_VAED",
+  "case_key": "4:15mj36_VAED",
+  "case_lni": "5PHG-DN21-DXDT-G4VX-00000-00",
+  "case_number": "4:15mj36",
+  "case_title": "USA v. Bohannon",
+  "case_info_full_case_name": "USA v. Bohannon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bohannon",
+  "case_date_filed": "2015-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Nicholas D Linstroth",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Caitlin A. Bohannon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SPEEDING 10-19 MPH - in violation of T. 18 USC Sections 7 &; 13, assimilating VA Code, Section 46.2-870(1)"
+        },
+        {
+          "charge_disposition": "$50 fine; $10 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

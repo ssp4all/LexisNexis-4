@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_109cr155_INSD",
+  "case_key": "1:09cr155_INSD",
+  "case_lni": "7X1N-S380-Y892-B0GH-00000-00",
+  "case_number": "1:09cr155",
+  "case_title": "USA v. RODRIGUEZ-ZUNIGA",
+  "case_info_full_case_name": "USA v. RODRIGUEZ-ZUNIGA",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "RODRIGUEZ-ZUNIGA",
+  "case_date_filed": "2009-10-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradley Paul Shepard",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARNULFO RODRIGUEZ-ZUNIGA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F&;nbsp;"
+        },
+        {
+          "charge_description": "8:1326B.F&;nbsp; REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONVICTION FOR AN AGGRAVATED FELONY AND IS AN ILLEGAL ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Frank Hamilton",
+          "judge_guid": "urn:entity:jud-100035458"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kennard P. Foster",
+          "judge_guid": "urn:entity:jud-100055522"
+        }
+      ]
+    }
+  ]
+}

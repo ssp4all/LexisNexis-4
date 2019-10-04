@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_109pt10_MIWD",
+  "case_key": "1:09pt10_MIWD",
+  "case_lni": "7WBN-JWS0-Y892-B1K8-00000-00",
+  "case_number": "1:09pt10",
+  "case_title": "USA v. Coronado",
+  "case_info_full_case_name": "USA v. Coronado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Coronado",
+  "case_date_filed": "2009-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Rodney Coronado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:372, 18:1361"
+        },
+        {
+          "charge_description": "18:372, 18:1361 CONSPIRE TO IMPEDE OR INJURE OFFICER; conspiracy to impede or injure an officer of the US/interfering with a US Forest Service Officer (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Paul L. Maloney",
+          "judge_guid": "urn:entity:jud-100029144"
+        }
+      ]
+    }
+  ]
+}

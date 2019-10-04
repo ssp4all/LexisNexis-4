@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_114mj3_TNWD",
+  "case_key": "1:14mj3_TNWD",
+  "case_lni": "5BS8-1P71-DXDT-G3Y1-00000-00",
+  "case_number": "1:14mj3",
+  "case_title": "USA v. Gallimore",
+  "case_info_full_case_name": "USA v. Gallimore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gallimore",
+  "case_date_filed": "2014-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donald Gallimore",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edward G. Bryant",
+          "judge_guid": "urn:entity:jud-100060435"
+        }
+      ]
+    }
+  ]
+}

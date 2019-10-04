@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_203m1228_txwd",
+  "case_key": "2:03m1228_txwd",
+  "case_lni": "7WBN-KJD0-Y892-B0F0-00000-00",
+  "case_number": "2:03m1228",
+  "case_title": "USA v. Esquivel-Pacheco",
+  "case_info_full_case_name": "USA v. Esquivel-Pacheco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Esquivel-Pacheco",
+  "case_date_filed": "2003-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE ALBERTO ESQUIVEL-PACHECO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a)(1)-re-entry"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1)-re-entry after deportation from the United States."
+        },
+        {
+          "charge_disposition": "Order Dismissing complaint without prejudice. (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

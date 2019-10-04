@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_599m177_kywd",
+  "case_key": "5:99m177_kywd",
+  "case_lni": "7WBN-J0F0-Y892-B3XJ-00000-00",
+  "case_number": "5:99m177",
+  "case_title": "USA v. Ward",
+  "case_info_full_case_name": "USA v. Ward",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ward",
+  "case_date_filed": "1999-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KELVIN J. WARD",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "W. David King",
+          "judge_guid": "urn:entity:jud-100040342"
+        }
+      ]
+    }
+  ]
+}

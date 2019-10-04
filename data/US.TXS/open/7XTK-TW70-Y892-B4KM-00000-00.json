@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_510mj329_TXSD",
+  "case_key": "5:10mj329_TXSD",
+  "case_lni": "7XTK-TW70-Y892-B4KM-00000-00",
+  "case_number": "5:10mj329",
+  "case_title": "USA v. Zapata",
+  "case_info_full_case_name": "USA v. Zapata",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zapata",
+  "case_date_filed": "2010-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Luis Zapata",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F---BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F---BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Scott Hacker",
+          "judge_guid": "urn:entity:jud-100070615"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Rafael Palomino Martinez",
+      "party_description": "material witness"
+    }
+  ]
+}

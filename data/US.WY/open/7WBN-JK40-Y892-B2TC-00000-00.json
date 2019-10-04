@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_105cr194_WYD",
+  "case_key": "1:05cr194_WYD",
+  "case_lni": "7WBN-JK40-Y892-B2TC-00000-00",
+  "case_number": "1:05cr194",
+  "case_title": "USA v. Dorros",
+  "case_info_full_case_name": "USA v. Dorros",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dorros",
+  "case_date_filed": "2005-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Gerald Dorros",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ADULTERATION OR MISBRANDING OF ANY FOOD, DRUG (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William F Downes",
+          "judge_guid": "urn:entity:jud-100057082"
+        }
+      ]
+    }
+  ]
+}

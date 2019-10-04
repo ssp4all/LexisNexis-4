@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_902cr818_scd",
+  "case_key": "9:02cr818_scd",
+  "case_lni": "7WBN-G0Y0-Y892-B0NK-00000-00",
+  "case_number": "9:02cr818",
+  "case_title": "USA v. Hernandez-Lopez",
+  "case_info_full_case_name": "USA v. Hernandez-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Lopez",
+  "case_date_filed": "2002-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rhett DeHart",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LOUIS HERNANDEZ-LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:113(a)(6)"
+        },
+        {
+          "charge_description": "18:113(a)(6) ASSAULT WITHIN SPECIAL MARITIME OR TERRITORIAL JURISDICTION namely the Estill Federal Correctional Institution, didcommit an assault, resulting in serious bodily injury (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

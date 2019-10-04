@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_216cr30_INND",
+  "case_key": "2:16cr30_INND",
+  "case_lni": "5JB0-7RD1-DXDT-G35N-00000-00",
+  "case_number": "2:16cr30",
+  "case_title": "United States of America v. Stochel",
+  "case_info_full_case_name": "United States of America v. Stochel",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Stochel",
+  "case_date_filed": "2016-03-16",
+  "case_status": "Closed",
+  "case_status_date": "12/05/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert E Stochel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1341 MAIL FRAUD AND FORFEITURE ALLEGATION(1)"
+        },
+        {
+          "charge_disposition": "The defendant is committed to the custody of the U.S. Bureau of Prisons to be imprisoned for a term of 24 months. Upon release from imprisonment, the defendant shall be placed on supervised release for a term of 1 year. While on supervised release, the defendant is subject to the mandatory and discretionary conditions of supervision, as indicated. The Court orders the defendant: to make restitution to the victim in the amount of $229,091.97, to forfeit his interest in the property described in the forfeiture allegation of the indictment, and to pay a $100.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "James T Moody",
+          "judge_guid": "urn:entity:jud-100004080"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrew P Rodovich",
+          "judge_guid": "urn:entity:jud-100001577"
+        }
+      ]
+    }
+  ]
+}

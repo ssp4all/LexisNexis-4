@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_106mj2150_NYWD",
+  "case_key": "1:06mj2150_NYWD",
+  "case_lni": "7WBN-G7V0-Y892-B07Y-00000-00",
+  "case_number": "1:06mj2150",
+  "case_title": "USA v. Buckley",
+  "case_info_full_case_name": "USA v. Buckley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Buckley",
+  "case_date_filed": "2006-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Buckley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252A.F-ACTIVITIES"
+        },
+        {
+          "charge_description": "18:2252A.F-ACTIVITIES RELATING TO MATERIAL CONTAINING CHILD PORNOGRAPHY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Hugh B. Scott",
+          "judge_guid": "urn:entity:jud-100072666"
+        }
+      ]
+    }
+  ]
+}

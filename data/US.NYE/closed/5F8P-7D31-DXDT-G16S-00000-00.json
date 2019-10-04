@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_115mj120_NYED",
+  "case_key": "1:15mj120_NYED",
+  "case_lni": "5F8P-7D31-DXDT-G16S-00000-00",
+  "case_number": "1:15mj120",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2015-02-05",
+  "case_status": "Closed",
+  "case_status_date": "05/07/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jonathan Powell Lax",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Darius Xavier Johnson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 1343 and 1957"
+        },
+        {
+          "charge_offence_description": "18 USC 1343 and 1957"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Vera M. Scanlon",
+          "judge_guid": "urn:entity:jud-100104645"
+        }
+      ]
+    }
+  ]
+}

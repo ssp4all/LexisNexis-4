@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_309cr50044_ILND",
+  "case_key": "3:09cr50044_ILND",
+  "case_lni": "7X1N-S4C0-Y892-B1JC-00000-00",
+  "case_number": "3:09cr50044",
+  "case_title": "USA v. Cain",
+  "case_info_full_case_name": "USA v. Cain",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cain",
+  "case_date_filed": "2009-11-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "AUSA - Rockford"
+    },
+    {
+      "attorney_name": "Mars"
+    },
+    {
+      "attorney_name": "Pro"
+    },
+    {
+      "attorney_name": "Pts"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brian E Cain",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Controlled Substance - Sell, Distribute, OR Dispense (1)"
+        },
+        {
+          "charge_disposition": "The Defendant is Hereby Committed to The Custody of The United States Bureau of Prisons to be Imprisoned For A Total Term of 120 Months. The Defendant is Remanded to The Custody of The United States Marshal. Upon Release From Imprisonment, The Defendant Shall be on Supervised Release For A Term of 5 Years. Special Conditions of Supervision. The Defendant Shall Pay A Fine of $500.00. Schedule of Payments. Statement of Reasons."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Frederick J Kapala",
+          "judge_guid": "urn:entity:jud-100043432"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "P Michael Mahoney",
+          "judge_guid": "urn:entity:jud-100029219"
+        }
+      ]
+    }
+  ]
+}

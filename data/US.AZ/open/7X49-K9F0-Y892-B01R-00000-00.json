@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409mj8222_AZD",
+  "case_key": "4:09mj8222_AZD",
+  "case_lni": "7X49-K9F0-Y892-B01R-00000-00",
+  "case_number": "4:09mj8222",
+  "case_title": "USA v. Monge-Jaime",
+  "case_info_full_case_name": "USA v. Monge-Jaime",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Monge-Jaime",
+  "case_date_filed": "2009-11-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Hector Ramon Monge-Jaime",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Ct1 21:841(a)(1) 841(b)(1)(B)(vii)"
+        },
+        {
+          "charge_description": "Ct1 21:841(a)(1) and 841(b)(1)(B)(vii) Possession with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

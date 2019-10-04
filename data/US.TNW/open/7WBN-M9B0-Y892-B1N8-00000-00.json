@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_296m67_tnwd",
+  "case_key": "2:96m67_tnwd",
+  "case_lni": "7WBN-M9B0-Y892-B1N8-00000-00",
+  "case_number": "2:96m67",
+  "case_title": "USA v. Greene",
+  "case_info_full_case_name": "USA v. Greene",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Greene",
+  "case_date_filed": "1996-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THEODORE CHARLES GREENE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Number-18:1341, 1344 1028(a)(2); 42:1320a-7b(a)(2)"
+        },
+        {
+          "charge_description": "Mail fraud; False statements related to Medicaid payments; Bank fraud; False military records; Misuse of a Social Security Number-18:1341, 1344 &; 1028(a)(2); 42:1320a-7b(a)(2) and 408."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    }
+  ]
+}

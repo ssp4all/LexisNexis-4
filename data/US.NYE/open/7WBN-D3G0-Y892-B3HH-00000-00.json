@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_100m760_nyed",
+  "case_key": "1:00m760_nyed",
+  "case_lni": "7WBN-D3G0-Y892-B3HH-00000-00",
+  "case_number": "1:00m760",
+  "case_title": "USA v. swarr-1-00-m-760-01, et al",
+  "case_info_full_case_name": "USA v. swarr-1-00-m-760-01, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "swarr-1-00-m-760-01, et al",
+  "case_date_filed": "2000-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SWARR-1-00-M-760-01",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SEALED SEARCH WARRANTS."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Steven M. Gold",
+          "judge_guid": "urn:entity:jud-100042810"
+        }
+      ]
+    },
+    {
+      "party_name": "SWARR-1-00-M-760-02",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SEALED SEARCH WARRANTS."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Steven M. Gold",
+          "judge_guid": "urn:entity:jud-100042810"
+        }
+      ]
+    }
+  ]
+}

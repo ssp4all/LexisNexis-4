@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_293cr20106_tnwd",
+  "case_key": "2:93cr20106_tnwd",
+  "case_lni": "7WBN-GYK0-Y892-B17C-00000-00",
+  "case_number": "2:93cr20106",
+  "case_title": "USA v. Dart",
+  "case_info_full_case_name": "USA v. Dart",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dart",
+  "case_date_filed": "1996-09-06",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HARVEY ALLEN DART",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Julia S. Gibbons",
+          "judge_guid": "urn:entity:jud-100038259"
+        }
+      ]
+    }
+  ]
+}

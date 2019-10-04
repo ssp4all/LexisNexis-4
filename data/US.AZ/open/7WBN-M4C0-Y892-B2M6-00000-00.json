@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_291cr470_azd",
+  "case_key": "2:91cr470_azd",
+  "case_lni": "7WBN-M4C0-Y892-B2M6-00000-00",
+  "case_number": "2:91cr470",
+  "case_title": "USA v. Giansanti",
+  "case_info_full_case_name": "USA v. Giansanti",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Giansanti",
+  "case_date_filed": "1991-12-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN ALLEN GIANSANTI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "42:408(g)(2)-Use"
+        },
+        {
+          "charge_description": "42:408(g)(2)-Use of False Social Security Number (1)"
+        },
+        {
+          "charge_disposition": "Probation for 5 YEARS with 2 MONTHS of home confinement. REST: $72,025.61. S/A: $50.00; [5/2/95 Ct finds dft has violated terms and conditions of supervised release; ordered reinstating supervised release w/all the standard and special conditions previously imposed (remaining restitution of $67,225) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Paul G Rosenblatt",
+          "judge_guid": "urn:entity:jud-100001168"
+        }
+      ]
+    }
+  ]
+}

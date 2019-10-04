@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_297m109_tnwd",
+  "case_key": "2:97m109_tnwd",
+  "case_lni": "7WBN-H1B0-Y892-B52G-00000-00",
+  "case_number": "2:97m109",
+  "case_title": "USA v. Jackson",
+  "case_info_full_case_name": "USA v. Jackson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jackson",
+  "case_date_filed": "1997-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "firearm-18:1951"
+        },
+        {
+          "charge_description": "attempt to obstruct and affect commerce by robbery and did, during and in relation to a crime of violence, use and carry a firearm-18:1951 &; 924(c)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    }
+  ]
+}

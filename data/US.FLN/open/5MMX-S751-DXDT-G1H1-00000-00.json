@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_317mj46_FLND",
+  "case_key": "3:17mj46_FLND",
+  "case_lni": "5MMX-S751-DXDT-G1H1-00000-00",
+  "case_number": "3:17mj46",
+  "case_title": "USA v. SHATTUCK",
+  "case_info_full_case_name": "USA v. SHATTUCK",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SHATTUCK",
+  "case_date_filed": "2017-01-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEPHEN A SHATTUCK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SIMPLE ASSAULT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "DRIVE A MOTOR VEHICLE IN A RECKLESS MANNER(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "CHARLES J KAHN, JR",
+          "judge_guid": "urn:entity:jud-100037970"
+        }
+      ]
+    }
+  ]
+}

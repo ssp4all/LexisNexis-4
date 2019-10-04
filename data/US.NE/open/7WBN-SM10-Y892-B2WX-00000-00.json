@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_808mj110_NED",
+  "case_key": "8:08mj110_NED",
+  "case_lni": "7WBN-SM10-Y892-B2WX-00000-00",
+  "case_number": "8:08mj110",
+  "case_title": "USA v. Robledo et al",
+  "case_info_full_case_name": "USA v. Robledo et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robledo et al",
+  "case_date_filed": "2008-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jose A. Robledo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 and 841(a)(1) and (b)(1)"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1) and (b)(1) Conspiracy to Possess With Intent to Distribute Methamphetamine And Crack"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas D Thalken",
+          "judge_guid": "urn:entity:jud-100007179"
+        }
+      ]
+    },
+    {
+      "party_name": "Enrique Caballero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 and 841(a)(1) and (b)(1)"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1) and (b)(1) Conspiracy to Possess With Intent to Distribute Methamphetamine And Crack"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas D Thalken",
+          "judge_guid": "urn:entity:jud-100007179"
+        }
+      ]
+    }
+  ]
+}

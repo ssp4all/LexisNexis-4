@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_812po13083_MDD",
+  "case_key": "8:12po13083_MDD",
+  "case_lni": "56N2-NJ81-DXDT-G1XJ-00000-00",
+  "case_number": "8:12po13083",
+  "case_title": "USA vs Williams",
+  "case_info_full_case_name": "USA vs Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2012-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rimisa L Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving While Suspended (3454493)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DUI .08 OR HIGHER (3454489)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATING VEHICLE WHILE UNDER INFLUENCE OF ALCOHOL OR  CONTROLLED SUBSTANCE (3454490)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "UNSAFE OPERATION (3454491)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "SPEEDING (3454492)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVER CHANGING LANES WHEN UNSAFE (3454494)(6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_505mj1476_OKWD",
+  "case_key": "5:05mj1476_OKWD",
+  "case_lni": "7WBN-HW40-Y892-B1W0-00000-00",
+  "case_number": "5:05mj1476",
+  "case_title": "United States of America v. Tiburcio",
+  "case_info_full_case_name": "United States of America v. Tiburcio",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Tiburcio",
+  "case_date_filed": "2005-09-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "La'Donna N Shankle Taylor Hall",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodney Tiburcio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, DRUNKEN DRIVING 18:13-7210.M (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Shon T. Erwin",
+          "judge_guid": "urn:entity:jud-100007099"
+        }
+      ]
+    }
+  ]
+}

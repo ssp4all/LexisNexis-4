@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_218po1706_NMD",
+  "case_key": "2:18po1706_NMD",
+  "case_lni": "5S71-J761-DXDT-G432-00000-00",
+  "case_number": "2:18po1706",
+  "case_title": "USA v. Bernal-Godoy",
+  "case_info_full_case_name": "USA v. Bernal-Godoy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bernal-Godoy",
+  "case_date_filed": "2018-04-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Freddy Bernal-Godoy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325(a)(1) Illegal Entry Without Inspection"
+        },
+        {
+          "charge_offence_description": "8:1325(a)(1) Illegal Entry Without Inspection"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carmen E. Garza",
+          "judge_guid": "urn:entity:jud-100008901"
+        }
+      ]
+    }
+  ]
+}

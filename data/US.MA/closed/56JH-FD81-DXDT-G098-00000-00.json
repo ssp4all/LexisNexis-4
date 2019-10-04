@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_412cr40050_MAD",
+  "case_key": "4:12cr40050_MAD",
+  "case_lni": "56JH-FD81-DXDT-G098-00000-00",
+  "case_number": "4:12cr40050",
+  "case_title": "USA v. Lima",
+  "case_info_full_case_name": "USA v. Lima",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lima",
+  "case_date_filed": "2012-09-12",
+  "case_status": "Closed",
+  "case_status_date": "09/12/2012",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Julion Lima",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:912 IMPERSONATION OF US OFFICER(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment, Time Served, Supervised Release for a term of 1 year with standard and special conditions, drug testing suspended, Special Assessment $100.00 due immediately"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Timothy S. Hillman",
+          "judge_guid": "urn:entity:jud-100104567"
+        }
+      ]
+    }
+  ]
+}

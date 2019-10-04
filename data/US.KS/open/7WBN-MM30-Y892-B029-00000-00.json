@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_302m7034_ksd",
+  "case_key": "3:02m7034_ksd",
+  "case_lni": "7WBN-MM30-Y892-B029-00000-00",
+  "case_number": "3:02m7034",
+  "case_title": "USA v. Dominguez",
+  "case_info_full_case_name": "USA v. Dominguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dominguez",
+  "case_date_filed": "2002-10-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE R DOMINGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 8-262-Driving 10/21/02)"
+        },
+        {
+          "charge_description": "18:13 incorporating K.S.A. 8-262-Driving a vehicle with a supended license (INFORMATION FILED 10/21/02) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Reid",
+          "judge_guid": "urn:entity:jud-100002577"
+        }
+      ]
+    }
+  ]
+}

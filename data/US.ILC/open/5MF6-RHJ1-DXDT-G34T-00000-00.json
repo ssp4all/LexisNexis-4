@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_116cr10055_ILCD",
+  "case_key": "1:16cr10055_ILCD",
+  "case_lni": "5MF6-RHJ1-DXDT-G34T-00000-00",
+  "case_number": "1:16cr10055",
+  "case_title": "USA v. Chism",
+  "case_info_full_case_name": "USA v. Chism",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chism",
+  "case_date_filed": "2016-12-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katherine G Legge",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ronlee E Chism",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. On our about October 21, 2016 in Tazewell County, in the CDIL, POSSESSION OF FIREARM BY FELON in violation of Title 18 U.S.C. ยง922(g)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "James E. Shadid",
+          "judge_guid": "urn:entity:jud-100013199"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jonathan E. Hawley",
+          "judge_guid": "urn:entity:jud-100106803"
+        }
+      ]
+    }
+  ]
+}

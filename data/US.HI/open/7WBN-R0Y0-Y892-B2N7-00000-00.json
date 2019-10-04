@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_199cr294_hid",
+  "case_key": "1:99cr294_hid",
+  "case_lni": "7WBN-R0Y0-Y892-B2N7-00000-00",
+  "case_number": "1:99cr294",
+  "case_title": "USA v. Kam",
+  "case_info_full_case_name": "USA v. Kam",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kam",
+  "case_date_filed": "1999-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HOWARD K. KAM, III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 286-102 4/18/99"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES; HRS 286-102 No operator's license, 4/18/99 amr (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Barry M. Kurren",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

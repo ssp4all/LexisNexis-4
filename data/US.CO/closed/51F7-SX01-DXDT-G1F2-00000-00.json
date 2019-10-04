@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_110mj7006_COD",
+  "case_key": "1:10mj7006_COD",
+  "case_lni": "51F7-SX01-DXDT-G1F2-00000-00",
+  "case_number": "1:10mj7006",
+  "case_title": "USA v. Martinez",
+  "case_info_full_case_name": "USA v. Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez",
+  "case_date_filed": "2010-11-03",
+  "case_status": "Closed",
+  "case_status_date": "10/18/2011",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcos Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, DRUNKEN DRIVING - DRIVING UNDER THE INFLUENCE after a DUI.(1)"
+        },
+        {
+          "charge_disposition": "Defendant to serve 90 days with credit for time served as follows: 53 days suspended and 37 days credit for time spent in detention prior to sentencing. Defendant is placed on unsupervised probation for 12 months. Defendant shall participate in a program of treament for alcohol abuse and will pay the cost of treatment. Defendant shall perform 60 hours of community service as directed with 2 hours to be completed through Mother's Against Drunk Driving. Defendant shall pay a fine of $600/suspended and a special assessment of $25."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:13-7210.M - Driving Under the Influence  , 18:13-7220.M - Drove Motor Vehicle upon Highway when License Restrained for Express Consent or Alcohol related offense  , 18:13-7210.M  DUI per se  , 18:13-7220.P  Careless Driving  , 18:13-7210.M  DUI  , 18:13-7210.M  DUI per se"
+        },
+        {
+          "charge_offence_description": "18:13-7210.M - Driving Under the Influence  , 18:1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael E. Hegarty",
+          "judge_guid": "urn:entity:jud-100091504"
+        }
+      ]
+    }
+  ]
+}

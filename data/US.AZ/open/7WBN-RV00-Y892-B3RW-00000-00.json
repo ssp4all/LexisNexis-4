@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_309cr8054_AZD",
+  "case_key": "3:09cr8054_AZD",
+  "case_lni": "7WBN-RV00-Y892-B3RW-00000-00",
+  "case_number": "3:09cr8054",
+  "case_title": "USA v. Roper",
+  "case_info_full_case_name": "USA v. Roper",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Roper",
+  "case_date_filed": "2009-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Keven B Roper",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NATIONAL PARK/RECREATION VIOLATIONS (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark E Aspey",
+          "judge_guid": "urn:entity:jud-100072508"
+        }
+      ]
+    }
+  ]
+}

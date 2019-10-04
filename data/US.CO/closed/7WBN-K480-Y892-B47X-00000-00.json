@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_196m1515_cod",
+  "case_key": "1:96m1515_cod",
+  "case_lni": "7WBN-K480-Y892-B47X-00000-00",
+  "case_number": "1:96m1515",
+  "case_title": "USA v. Biedron",
+  "case_info_full_case_name": "USA v. Biedron",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Biedron",
+  "case_date_filed": "1996-05-27",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MATTHEW BIEDRON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        },
+        {
+          "charge_disposition": "deft placed on 6 months unsupervised probation; $290.00 fine and $10.00 special assessment due no later than 12/16/96 (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard M. Borchers",
+          "judge_guid": "urn:entity:jud-100017966"
+        }
+      ]
+    }
+  ]
+}

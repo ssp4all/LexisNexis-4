@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_208cr2023_NMD",
+  "case_key": "2:08cr2023_NMD",
+  "case_lni": "7WBN-D9N0-Y892-B1XF-00000-00",
+  "case_number": "2:08cr2023",
+  "case_title": "USA v. Huerta-Montes",
+  "case_info_full_case_name": "USA v. Huerta-Montes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Huerta-Montes",
+  "case_date_filed": "2008-08-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sergio Huerta-Montes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8"
+        },
+        {
+          "charge_description": "8 Usc 1326(A) And (B): re Entry of A Removed Alien (1)"
+        },
+        {
+          "charge_disposition": "Sentence Imposed: Cbop- 36 Days or Time Served, Which Ever is Less; Spa: Waived;"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a)(1) &; (a)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1) &; (a)(2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

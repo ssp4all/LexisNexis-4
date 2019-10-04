@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_510cr17_CAED",
+  "case_key": "5:10cr17_CAED",
+  "case_lni": "7YSC-VTF0-Y892-B2JP-00000-00",
+  "case_number": "5:10cr17",
+  "case_title": "USA v. James",
+  "case_info_full_case_name": "USA v. James",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "James",
+  "case_date_filed": "2010-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael O'Brien",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alicia A James",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 22349 (b)-Speeding 74/55"
+        },
+        {
+          "charge_description": "18:13 CVC 22349 (b)-Speeding 74/55 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 148(a)-Willfully"
+        },
+        {
+          "charge_description": "18:13 CPC 148(a)-Willfully resisting or delaying a peace officer (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer L. Thurston",
+          "judge_guid": "urn:entity:jud-100003777"
+        }
+      ]
+    }
+  ]
+}

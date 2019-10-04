@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_508mj2019_TXSD",
+  "case_key": "5:08mj2019_TXSD",
+  "case_lni": "7WBN-FWK0-Y892-B187-00000-00",
+  "case_number": "5:08mj2019",
+  "case_title": "USA v. Castillo Zuniga",
+  "case_info_full_case_name": "USA v. Castillo Zuniga",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo Zuniga",
+  "case_date_filed": "2008-10-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Victor Manuel Castillo Zuniga",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F Reentry of deported aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

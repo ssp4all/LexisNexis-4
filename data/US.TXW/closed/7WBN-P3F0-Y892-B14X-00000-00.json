@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_597cr45_txwd",
+  "case_key": "5:97cr45_txwd",
+  "case_lni": "7WBN-P3F0-Y892-B14X-00000-00",
+  "case_number": "5:97cr45",
+  "case_title": "USA v. Rodriguez",
+  "case_info_full_case_name": "USA v. Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez",
+  "case_date_filed": "1997-02-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SERGIO ANTONIO RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE Possess with intent to distribute a quantity of cocaine, a Schedule II Controlled Substance (1)"
+        },
+        {
+          "charge_disposition": "One hundred twenty-one (121) months imprisonment; five years supervised release and $100 special assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Knowingly and intentionally possessing with intent to distribute one kilogram or more of a mixute or substance containing methamphetamine, a Shedule II Narcotic Drug Controlled Substance in violation of Title 21 USC"
+        },
+        {
+          "charge_statute": "841(a0(1) (b)(1)(A)(viii)"
+        },
+        {
+          "charge_description": "841(a0(1) and (b)(1)(A)(viii) [5:97-m-66]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Edward C. Prado",
+          "judge_guid": "urn:entity:jud-100032689"
+        }
+      ]
+    }
+  ]
+}

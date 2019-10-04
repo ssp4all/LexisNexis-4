@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_215cr29_MTD",
+  "case_key": "2:15cr29_MTD",
+  "case_lni": "5GCY-0C31-DXDT-G19B-00000-00",
+  "case_number": "2:15cr29",
+  "case_title": "USA v. Osterhout",
+  "case_info_full_case_name": "USA v. Osterhout",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Osterhout",
+  "case_date_filed": "2015-07-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gary Allen Osterhout",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F POSSESSION WITH INTENT TO DISSTRIBUTE METHAMPHETAMINE(2)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the custody of the BOP for a term of 72 months. Supervised release for a period of 5 years. Special conditions as stated in open court. Fine waived. Special assessment of $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F DISTRIBUTION OF METHAMPHETAMINE(3-6)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A1=MP.F Possession with intent to distribute methamphetamine and 21:841A1-MP.F Distribution of methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:841A1=MP.F Possession with intent to distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dana L. Christensen",
+          "judge_guid": "urn:entity:jud-100048492"
+        }
+      ]
+    }
+  ]
+}

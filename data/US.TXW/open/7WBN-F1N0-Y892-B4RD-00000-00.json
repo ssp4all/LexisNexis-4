@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_102m268_txwd",
+  "case_key": "1:02m268_txwd",
+  "case_lni": "7WBN-F1N0-Y892-B4RD-00000-00",
+  "case_number": "1:02m268",
+  "case_title": "USA v. Taylor",
+  "case_info_full_case_name": "USA v. Taylor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Taylor",
+  "case_date_filed": "2002-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRITTANY MICHELLE TAYLOR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21,USC,"
+        },
+        {
+          "charge_description": "Defendant did knowingly, intentionally, and unlawfully did conspire with others known and unknown to possess with the intent to distribute a controlled and dangerous substance, to wit methamphetamine in violation of Title 21, USC, Section 846."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew W. Austin",
+          "judge_guid": "urn:entity:jud-100074069"
+        }
+      ]
+    }
+  ]
+}

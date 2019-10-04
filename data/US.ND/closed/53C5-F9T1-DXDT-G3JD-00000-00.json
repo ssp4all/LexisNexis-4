@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_111cr72_NDD",
+  "case_key": "1:11cr72_NDD",
+  "case_lni": "53C5-F9T1-DXDT-G3JD-00000-00",
+  "case_number": "1:11cr72",
+  "case_title": "USA v. Osborn",
+  "case_info_full_case_name": "USA v. Osborn",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Osborn",
+  "case_date_filed": "2011-07-14",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Quinton Dean Osborn",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:658"
+        },
+        {
+          "charge_description": "18:658 Conversion of Mortgaged Property (1)"
+        },
+        {
+          "charge_disposition": "36 Months Probation; $100 Special Assessment; $115,363.53 Restitution"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Daniel L Hovland",
+          "judge_guid": "urn:entity:jud-100051124"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_217cr174_NVD",
+  "case_key": "2:17cr174_NVD",
+  "case_lni": "5NRV-W011-DXDT-G4H8-00000-00",
+  "case_number": "2:17cr174",
+  "case_title": "USA v. Caldwell",
+  "case_info_full_case_name": "USA v. Caldwell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Caldwell",
+  "case_date_filed": "2017-06-09",
+  "case_status": "Closed",
+  "case_status_date": "06/09/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christopher Burton",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jevontae Caldwell",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Mahan",
+          "judge_guid": "urn:entity:jud-100042976"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carl W. Hoffman",
+          "judge_guid": "urn:entity:jud-100034350"
+        }
+      ]
+    }
+  ]
+}

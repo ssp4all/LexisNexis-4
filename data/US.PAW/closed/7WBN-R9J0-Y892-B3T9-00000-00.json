@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_208cr122_PAWD",
+  "case_key": "2:08cr122_PAWD",
+  "case_lni": "7WBN-R9J0-Y892-B3T9-00000-00",
+  "case_number": "2:08cr122",
+  "case_title": "USA v. ST. CLAIR",
+  "case_info_full_case_name": "USA v. ST. CLAIR",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ST. CLAIR",
+  "case_date_filed": "2008-03-11",
+  "case_status": "Closed",
+  "case_status_date": "08/14/2008",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Craig W. Haller",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DEREK RAMOND ST. CLAIR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 922(g)(1) POSSESSION OF A FIREARM BY A CONVICTED FELON(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment for a term of forty-six (46) months. Supervised Release for a term of three (3) years. Defendant shall comply with conditions and special conditions of Supervised Release as more fully stated in said Judgment. Pay Special Assessment of $100.00 forthwith. No fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Alan N. Bloch",
+          "judge_guid": "urn:entity:jud-100068728"
+        }
+      ]
+    }
+  ]
+}

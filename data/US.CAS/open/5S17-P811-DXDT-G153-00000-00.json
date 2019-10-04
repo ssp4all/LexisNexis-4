@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr1677_CASD",
+  "case_key": "3:18cr1677_CASD",
+  "case_lni": "5S17-P811-DXDT-G153-00000-00",
+  "case_number": "3:18cr1677",
+  "case_title": "USA v. Vallejon-Hilario",
+  "case_info_full_case_name": "USA v. Vallejon-Hilario",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vallejon-Hilario",
+  "case_date_filed": "2018-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Davis McEvoy Loop",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Felix Vallejon-Hilario",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326; 8:1325 - Deported Alien found in The United States; Illegal Entry (misdemeanor)"
+        },
+        {
+          "charge_offence_description": "8:1326; 8:1325 - Deported Alien found in The Unite"
+        },
+        {
+          "charge_description": "8:1325 - Improper Entry by an Alien (Misdemeanor)(1)"
+        },
+        {
+          "charge_disposition": "Custody of BOP for 60 days; $10 penalty assessment waived; fine waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "8:1326(a) - Reentry of Removed Alien  (Felony)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's oral motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert N. Block",
+          "judge_guid": "urn:entity:jud-100068720"
+        }
+      ]
+    }
+  ]
+}

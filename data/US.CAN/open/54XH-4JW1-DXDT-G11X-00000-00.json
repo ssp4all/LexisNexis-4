@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_312mj70160_CAND",
+  "case_key": "3:12mj70160_CAND",
+  "case_lni": "54XH-4JW1-DXDT-G11X-00000-00",
+  "case_number": "3:12mj70160",
+  "case_title": "USA v. McDougald",
+  "case_info_full_case_name": "USA v. McDougald",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McDougald",
+  "case_date_filed": "2012-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Derek R Owens",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rachel McDougald",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846, 841(a)(1) (b)(1)(B)-Conspiracy"
+        },
+        {
+          "charge_description": "21:846, 841(a)(1) and (b)(1)(B)-Conspiracy to Distribute, and to Possess with the Intent to Distribute a Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Maria-Elena James",
+          "judge_guid": "urn:entity:jud-100076051"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_302m30230_cand",
+  "case_key": "3:02m30230_cand",
+  "case_lni": "7WBN-MK50-Y892-B3N8-00000-00",
+  "case_number": "3:02m30230",
+  "case_title": "USA v. McPherson",
+  "case_info_full_case_name": "USA v. McPherson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McPherson",
+  "case_date_filed": "2002-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CLEVON MCPHERSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844(a)"
+        },
+        {
+          "charge_description": "21:844(a) Knowingly and intentionally possess schedule II controlled substance cocaine base"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    }
+  ]
+}

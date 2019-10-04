@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_312mj4662_CASD",
+  "case_key": "3:12mj4662_CASD",
+  "case_lni": "5793-T381-DXDT-G45S-00000-00",
+  "case_number": "3:12mj4662",
+  "case_title": "USA v. Lopez",
+  "case_info_full_case_name": "USA v. Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez",
+  "case_date_filed": "2012-12-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramona Alejandra Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) - Transportation of Illegal Aliens"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii) - Transportation of Illegal Al"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mitchell D. Dembin",
+          "judge_guid": "urn:entity:jud-100044786"
+        }
+      ]
+    },
+    {
+      "party_name": "William Morales-Bartolon",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Esteban Martinez-Lara",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Noe Zuniga-Torrez",
+      "party_description": "Material Witness"
+    }
+  ]
+}

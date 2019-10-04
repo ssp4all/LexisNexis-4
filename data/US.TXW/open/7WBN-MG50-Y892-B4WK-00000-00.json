@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_300m2166_txwd",
+  "case_key": "3:00m2166_txwd",
+  "case_lni": "7WBN-MG50-Y892-B4WK-00000-00",
+  "case_number": "3:00m2166",
+  "case_title": "USA v. Dominguez-Pena",
+  "case_info_full_case_name": "USA v. Dominguez-Pena",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dominguez-Pena",
+  "case_date_filed": "2000-07-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SERGIO ARMANDO DOMINGUEZ-PENA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "54.3 21:841(a)(1)"
+        },
+        {
+          "charge_description": "\"Possession with the intent to distribute and importation of approx. 54.3 lbs of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(a)\""
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

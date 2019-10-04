@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_114cr75_MTD",
+  "case_key": "1:14cr75_MTD",
+  "case_lni": "5FHR-40P1-DXDT-G1SH-00000-00",
+  "case_number": "1:14cr75",
+  "case_title": "USA v. Webb",
+  "case_info_full_case_name": "USA v. Webb",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Webb",
+  "case_date_filed": "2014-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Patricia Ann Webb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "26:7206A.F FILING FALSE TAX RETURN(6s)"
+        },
+        {
+          "charge_disposition": "Defendant is Sentenced on COUNT 6 IN THE SUPERSEDING INDICTMENT to 5 YEARS PROBATION with six months of home confinement. Standard and special conditions apply. Fine waived, special assessment 100.00. Restitution in the amount of 36,236.75 (interest waived)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343.F WIRE FRAUD; 18:981 AND 28:2461 FORFEITURE(1-5)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOV'T MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343.F WIRE FRAUD; 18:981(a)(1)(C) AND 28:2461(c) FORFEITURE(1s-5s)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOV'T MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:7206A.F FILING FALSE TAX RETURN(6-7)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOV'T MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:7206A.F FILING FALSE TAX RETURN(7s)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOV'T MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan P. Watters",
+          "judge_guid": "urn:entity:jud-100075184"
+        }
+      ]
+    }
+  ]
+}

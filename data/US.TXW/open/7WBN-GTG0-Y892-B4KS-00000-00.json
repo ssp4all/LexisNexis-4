@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_207mj895_TXWD",
+  "case_key": "2:07mj895_TXWD",
+  "case_lni": "7WBN-GTG0-Y892-B4KS-00000-00",
+  "case_number": "2:07mj895",
+  "case_title": "USA v. Aviles-Bustamante",
+  "case_info_full_case_name": "USA v. Aviles-Bustamante",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aviles-Bustamante",
+  "case_date_filed": "2007-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jeronimo Aviles-",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a)(1)-Re-entry"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1)-Re-entry after deportation."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

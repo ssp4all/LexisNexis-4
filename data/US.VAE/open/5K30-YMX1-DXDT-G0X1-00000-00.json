@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_316po407_VAED",
+  "case_key": "3:16po407_VAED",
+  "case_lni": "5K30-YMX1-DXDT-G0X1-00000-00",
+  "case_number": "3:16po407",
+  "case_title": "USA vs Smith",
+  "case_info_full_case_name": "USA vs Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2016-06-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Desaree E Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING WO OPERATOR'S LICENSE-DRIVING WO VALID OPERATOR'S LICENSE (2814987)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Novak",
+          "judge_guid": "urn:entity:jud-100031335"
+        }
+      ]
+    }
+  ]
+}

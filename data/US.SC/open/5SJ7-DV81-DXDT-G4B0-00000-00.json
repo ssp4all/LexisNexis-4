@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_418cr568_SCD",
+  "case_key": "4:18cr568_SCD",
+  "case_lni": "5SJ7-DV81-DXDT-G4B0-00000-00",
+  "case_number": "4:18cr568",
+  "case_title": "USA v. McFadden",
+  "case_info_full_case_name": "USA v. McFadden",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McFadden",
+  "case_date_filed": "2018-06-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Doni Ferrell McFadden",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) &; 924(a)(2) :  felon in possession of a firearm ; 21:841 (a)(1) and (b)(1)(C) possession with intent to distribute cocaine base"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) & 924(a)(2) :  felon in possession of"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas E Rogers, III",
+          "judge_guid": "urn:entity:jud-100072153"
+        }
+      ]
+    }
+  ]
+}

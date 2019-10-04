@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_115cr11_INND",
+  "case_key": "1:15cr11_INND",
+  "case_lni": "5FCW-JD41-DXDT-G4CS-00000-00",
+  "case_number": "1:15cr11",
+  "case_title": "United States of America v. Perkins",
+  "case_info_full_case_name": "United States of America v. Perkins",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Perkins",
+  "case_date_filed": "2015-02-25",
+  "case_status": "Closed",
+  "case_status_date": "08/10/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Keith Perkins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113(a) and (d): BANK ROBBERY, ASSAULT WITH A DEADLY WEAPON and 18:2: AIDING AND ABETTING; and FORFEITURE(1)"
+        },
+        {
+          "charge_disposition": "Dft sentenced to be imprisoned for a term of fifty-one (51) months; serve two (2) years supervised release; pay $9,518.00 restitution; and to pay $100 special assessment. The term of imprisonment is to run concurrently with any remaining undischarged term in Count One (1) in related case 1-14CR35."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Theresa L Springmann",
+          "judge_guid": "urn:entity:jud-100014544"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Susan L Collins",
+          "judge_guid": "urn:entity:jud-100120910"
+        }
+      ]
+    }
+  ]
+}

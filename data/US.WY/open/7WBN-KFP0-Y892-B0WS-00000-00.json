@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_202cr215_wyd",
+  "case_key": "2:02cr215_wyd",
+  "case_lni": "7WBN-KFP0-Y892-B0WS-00000-00",
+  "case_number": "2:02cr215",
+  "case_title": "USA v. Ruiz-Garcia",
+  "case_info_full_case_name": "USA v. Ruiz-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ruiz-Garcia",
+  "case_date_filed": "2002-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN RUIZ-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F 8:1326(a)"
+        },
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS; Illegal re-entry of previously deported alien into the United States 8:1326(a) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Clarence A Brimmer",
+          "judge_guid": "urn:entity:jud-100064289"
+        }
+      ]
+    }
+  ]
+}

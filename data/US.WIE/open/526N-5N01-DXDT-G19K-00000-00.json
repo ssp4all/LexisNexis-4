@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIE_211mj214_WIED",
+  "case_key": "2:11mj214_WIED",
+  "case_lni": "526N-5N01-DXDT-G19K-00000-00",
+  "case_number": "2:11mj214",
+  "case_title": "USA v. Crump",
+  "case_info_full_case_name": "USA v. Crump",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Crump",
+  "case_date_filed": "2011-02-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gregory M Crump",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113(a)"
+        },
+        {
+          "charge_description": "18:2113(a) and 2113(d)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patricia J Gorence",
+          "judge_guid": "urn:entity:jud-100048793"
+        }
+      ]
+    }
+  ]
+}

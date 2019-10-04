@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_299m180_alnd",
+  "case_key": "2:99m180_alnd",
+  "case_lni": "7WBN-RJC0-Y892-B3WR-00000-00",
+  "case_number": "2:99m180",
+  "case_title": "USA v. Childs",
+  "case_info_full_case_name": "USA v. Childs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Childs",
+  "case_date_filed": "1999-10-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RONALD BRUCE CHILDS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "John E Ott",
+          "judge_guid": "urn:entity:jud-100025291"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_517cr20535_MIED",
+  "case_key": "5:17cr20535_MIED",
+  "case_lni": "5P75-0H61-DXDT-G4SK-00000-00",
+  "case_number": "5:17cr20535",
+  "case_title": "United States of America v. Murillo-Reyes",
+  "case_info_full_case_name": "United States of America v. Murillo-Reyes",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Murillo-Reyes",
+  "case_date_filed": "2017-08-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Timothy P. McDonald",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marvin Murillo-Reyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F"
+        },
+        {
+          "charge_offence_description": "8:1326A.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "John Corbett O'Meara",
+          "judge_guid": "urn:entity:jud-100025458"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Elizabeth A. Stafford",
+          "judge_guid": "urn:entity:jud-100114079"
+        }
+      ]
+    }
+  ]
+}

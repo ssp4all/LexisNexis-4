@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_210mj183_OHSD",
+  "case_key": "2:10mj183_OHSD",
+  "case_lni": "7Y25-64C0-Y892-B0X8-00000-00",
+  "case_number": "2:10mj183",
+  "case_title": "USA v. Hernandez-Cortes",
+  "case_info_full_case_name": "USA v. Hernandez-Cortes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Cortes",
+  "case_date_filed": "2010-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sergio Rafael Hernandez-Cortes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Norah McCann King",
+          "judge_guid": "urn:entity:jud-100040354"
+        }
+      ]
+    }
+  ]
+}

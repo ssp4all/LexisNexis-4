@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_307mj70697_CAND",
+  "case_key": "3:07mj70697_CAND",
+  "case_lni": "7WBN-H990-Y892-B2FH-00000-00",
+  "case_number": "3:07mj70697",
+  "case_title": "USA v. Chapas-Aguilera",
+  "case_info_full_case_name": "USA v. Chapas-Aguilera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chapas-Aguilera",
+  "case_date_filed": "2007-11-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Albert Bilog Sambat",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ely Sau Chapas-Aguilera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-Reentry"
+        },
+        {
+          "charge_description": "8:1326-Reentry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

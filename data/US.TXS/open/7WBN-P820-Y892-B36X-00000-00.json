@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_702cr769_txsd",
+  "case_key": "7:02cr769_txsd",
+  "case_lni": "7WBN-P820-Y892-B36X-00000-00",
+  "case_number": "7:02cr769",
+  "case_title": "USA v. Gutierrez",
+  "case_info_full_case_name": "USA v. Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gutierrez",
+  "case_date_filed": "2002-11-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERARDO JOSE GUTIERREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2252A(a)(2)(A), 2252A(b)(1) 2256(8)(A); 2/12/02; 15 3"
+        },
+        {
+          "charge_description": "Interstate transportation of child pornography; Title 18 USC Sections 2252A(a)(2)(A), 2252A(b)(1) and 2256(8)(A); Offense date 2/12/02; Penalty: Imprisonment for not more than 15 yrs and/or a fine not to exceed $250,000 and at least a 3 yr SRT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC2252A(a)(5)(B), 2252A(b)(2) 2256(8)(A); 2/12/02; 5 3"
+        },
+        {
+          "charge_description": "Possession of child pornography; Title 18 USC Sections 2252A(a)(5)(B), 2252A(b)(2) and 2256(8)(A); Offense date: 2/12/02; Penalty: Imprisonment for not more than 5 yrs and/or a fine not to exceed $250,000 and at least a 3 yr SRT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    }
+  ]
+}

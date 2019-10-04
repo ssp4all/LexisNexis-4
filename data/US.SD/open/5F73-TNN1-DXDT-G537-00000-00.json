@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_415cr40008_SDD",
+  "case_key": "4:15cr40008_SDD",
+  "case_lni": "5F73-TNN1-DXDT-G537-00000-00",
+  "case_number": "4:15cr40008",
+  "case_title": "USA v. Ramirez De Luna",
+  "case_info_full_case_name": "USA v. Ramirez De Luna",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez De Luna",
+  "case_date_filed": "2015-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alfredo Ramirez De Luna",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.C. § 1326(a) ILLEGAL REENTRY AFTER DEPORTATION"
+        },
+        {
+          "charge_offence_description": "8 U.S.C. &#167; 1326(a) ILLEGAL REENTRY AFTER DEPO"
+        },
+        {
+          "charge_description": "8 U.S.C. § 1326(a); ILLEGAL REENTRY AFTER DEPORTATION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Karen E. Schreier",
+          "judge_guid": "urn:entity:jud-100030778"
+        },
+        {
+          "judge_name": "US Magistrate Judge Veronica L. Duffy",
+          "judge_guid": "urn:entity:jud-100008272"
+        }
+      ]
+    }
+  ]
+}

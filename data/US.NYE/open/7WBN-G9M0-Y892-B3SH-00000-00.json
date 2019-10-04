@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_109cr516_NYED",
+  "case_key": "1:09cr516_NYED",
+  "case_lni": "7WBN-G9M0-Y892-B3SH-00000-00",
+  "case_number": "1:09cr516",
+  "case_title": "USA v. Celestine",
+  "case_info_full_case_name": "USA v. Celestine",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Celestine",
+  "case_date_filed": "2009-07-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kerry Celestine",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCES-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC952-importation"
+        },
+        {
+          "charge_description": "21 USC 952-importation of cocaine into the US."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Edward R. Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    }
+  ]
+}

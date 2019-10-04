@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_316cr535_CAND",
+  "case_key": "3:16cr535_CAND",
+  "case_lni": "5MFG-NVJ1-DXDT-G2C4-00000-00",
+  "case_number": "3:16cr535",
+  "case_title": "USA v. Worsham",
+  "case_info_full_case_name": "USA v. Worsham",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Worsham",
+  "case_date_filed": "2016-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "E. Kate Patchen",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Leslie Allen Wulff",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Tai Snow Milder",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kenneth Worsham",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "15:1 Price fixing(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Edward M. Chen",
+          "judge_guid": "urn:entity:jud-100049097"
+        }
+      ]
+    }
+  ]
+}

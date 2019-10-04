@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_201m2092_azd",
+  "case_key": "2:01m2092_azd",
+  "case_lni": "7WBN-R2M0-Y892-B4R4-00000-00",
+  "case_number": "2:01m2092",
+  "case_title": "USA v. Verdugo",
+  "case_info_full_case_name": "USA v. Verdugo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Verdugo",
+  "case_date_filed": "2001-05-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO VERDUGO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960 963; 21:841(a)(1),"
+        },
+        {
+          "charge_description": "21:952, 960 and 963; Importatin of a Controlled Substance 21:841(a)(1), Possession of a Controlled Substance with Intent to Distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay R Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

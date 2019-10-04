@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_217cr129_MED",
+  "case_key": "2:17cr129_MED",
+  "case_lni": "5PSY-15F1-DXDT-G36C-00000-00",
+  "case_number": "2:17cr129",
+  "case_title": "USA v. ANTHONY",
+  "case_info_full_case_name": "USA v. ANTHONY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ANTHONY",
+  "case_date_filed": "2017-10-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AUGUSTINE ANTHONY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DISTRIBUTION OF COCAINE BASE, 21:841()(1)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "COUNT 1 - DISTRIBUTION OF COCAINE BASE 21:841(a)(1)"
+        },
+        {
+          "charge_offence_description": "COUNT 1 - DISTRIBUTION OF COCAINE BASE 21:841(a)(1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "GEORGE Z. SINGAL",
+          "judge_guid": "urn:entity:jud-100022531"
+        }
+      ]
+    }
+  ]
+}

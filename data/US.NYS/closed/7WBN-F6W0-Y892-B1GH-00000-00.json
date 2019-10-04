@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_197m284_nysd",
+  "case_key": "1:97m284_nysd",
+  "case_lni": "7WBN-F6W0-Y892-B1GH-00000-00",
+  "case_number": "1:97m284",
+  "case_title": "USA v. Sanders",
+  "case_info_full_case_name": "USA v. Sanders",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanders",
+  "case_date_filed": "1997-02-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM M. SANDERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC812, 841(a)(1) 841(b)(1)(C):"
+        },
+        {
+          "charge_description": "21 U.S.C. 812, 841(a)(1) and 841(b)(1)(C): DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE, TO WIT, MIXTURES AND SUBSTANCES CONTAINING A DETECTABLE AMOUNT OF HEROIN."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

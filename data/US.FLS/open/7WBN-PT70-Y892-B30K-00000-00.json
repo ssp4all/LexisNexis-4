@@ -1,0 +1,106 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_109cr20497_FLSD",
+  "case_key": "1:09cr20497_FLSD",
+  "case_lni": "7WBN-PT70-Y892-B30K-00000-00",
+  "case_number": "1:09cr20497",
+  "case_title": "USA v. Capilla et al",
+  "case_info_full_case_name": "USA v. Capilla et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Capilla et al",
+  "case_date_filed": "2009-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Benton Curtis",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Capilla",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD 18:1349.F(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 51 months; Supervised Release 36 months;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MONEY LAUNDERING - FRAUD, OTHER 18:1956-4999.F(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1347.F CONSPIRACY/COMMIT HEALTH CARE FRAUD AND HEALTH CARE FRAUD,"
+        },
+        {
+          "charge_offence_description": "18:1347.F CONSPIRACY/COMMIT HEALTH CARE FRAUD AND "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Beth Bloom",
+          "judge_guid": "urn:entity:jud-100061360"
+        }
+      ]
+    },
+    {
+      "party_name": "Domingo Santana",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD 18:1349.F(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Beth Bloom",
+          "judge_guid": "urn:entity:jud-100061360"
+        }
+      ]
+    },
+    {
+      "party_name": "Danilo Collazo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD 18:1349.F(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 42 months; Supervised Release 24 months;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Beth Bloom",
+          "judge_guid": "urn:entity:jud-100061360"
+        }
+      ]
+    }
+  ]
+}

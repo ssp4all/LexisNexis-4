@@ -1,0 +1,84 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_413cr16_VAED",
+  "case_key": "4:13cr16_VAED",
+  "case_lni": "57HR-1SX1-DXDT-G1JR-00000-00",
+  "case_number": "4:13cr16",
+  "case_title": "USA v. Zavala",
+  "case_info_full_case_name": "USA v. Zavala",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zavala",
+  "case_date_filed": "2013-01-16",
+  "case_status": "Closed",
+  "case_status_date": "05/31/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Francesca Liquori",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Jeremy R. Jehangiri",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Matthew K Hoff",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Conor Mulroe",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Ivana A Nizich",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Jennifer Sykes",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Rebecca A Staton",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tomas De La Cruz Zavala",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "T.8 USC 1326(a) - Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_disposition": "Ten (10) months imprisonment; One (1) year supervised release; $100.00 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Rebecca Beach Smith",
+          "judge_guid": "urn:entity:jud-100022213"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

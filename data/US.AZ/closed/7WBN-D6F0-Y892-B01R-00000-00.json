@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_405cr1191_AZD",
+  "case_key": "4:05cr1191_AZD",
+  "case_lni": "7WBN-D6F0-Y892-B01R-00000-00",
+  "case_number": "4:05cr1191",
+  "case_title": "USA v. English",
+  "case_info_full_case_name": "USA v. English",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "English",
+  "case_date_filed": "2005-06-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIMOTHY ENGLISH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844(a)"
+        },
+        {
+          "charge_description": "21:844(a) MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_disposition": "12 mo unspervised probation; it is further ordered that the complaint is dismissed on mtn of the US; s/a remitted (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hector C Estrada",
+          "judge_guid": "urn:entity:jud-100056372"
+        }
+      ]
+    }
+  ]
+}

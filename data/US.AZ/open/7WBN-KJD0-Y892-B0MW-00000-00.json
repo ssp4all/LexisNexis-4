@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_203m1352_azd",
+  "case_key": "2:03m1352_azd",
+  "case_lni": "7WBN-KJD0-Y892-B0MW-00000-00",
+  "case_number": "2:03m1352",
+  "case_title": "USA, et al v. Valencia-Rodriguez",
+  "case_info_full_case_name": "USA, et al v. Valencia-Rodriguez",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Valencia-Rodriguez",
+  "case_date_filed": "2003-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE VALENCIA-RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2);"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(2); Illegal re-entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

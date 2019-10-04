@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_204m309_PAWD",
+  "case_key": "2:04m309_PAWD",
+  "case_lni": "7WBN-KM60-Y892-B34W-00000-00",
+  "case_number": "2:04m309",
+  "case_title": "USA v. ROBERTSON",
+  "case_info_full_case_name": "USA v. ROBERTSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ROBERTSON",
+  "case_date_filed": "2004-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ERIC ROBERTSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USCs 2113(a), 2113(d), 924(c)(1)(A)(i), (ii) (iii). 1), 2),"
+        },
+        {
+          "charge_description": "In violation of Title 18, United States Code, Sections 2113(a), 2113(d), and 924(c)(1)(A)(i), (ii) and (iii). The complaint charging Bank Robbery (Ct. 1), Armed Bank Robbery (Ct. 2), and using, carrying, brandishing and discharging a firearm during and in relation to a violent felony and possessing the same in furtherance thereof (Ct. 3)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Francis X. Caiazza",
+          "judge_guid": "urn:entity:jud-100063537"
+        }
+      ]
+    }
+  ]
+}

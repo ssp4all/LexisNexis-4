@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_205mj225_TNED",
+  "case_key": "2:05mj225_TNED",
+  "case_lni": "7WBN-KPM0-Y892-B3X9-00000-00",
+  "case_number": "2:05mj225",
+  "case_title": "USA v. Moore",
+  "case_info_full_case_name": "USA v. Moore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moore",
+  "case_date_filed": "2005-12-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David E Moore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 21:844A=MP.M-MARIJUANA-POSSESSION; 2: 18:13-7220.M"
+        },
+        {
+          "charge_description": "Count 1: 21:844A=MP.M-MARIJUANA-POSSESSION; Count 2: 18:13-7220.M TRAFFIC OFFENSES, OTHER (open"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Dennis H Inman",
+          "judge_guid": "urn:entity:jud-100033659"
+        }
+      ]
+    }
+  ]
+}

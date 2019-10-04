@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_999m225_nyed",
+  "case_key": "9:99m225_nyed",
+  "case_lni": "7WBN-PGG0-Y892-B1CW-00000-00",
+  "case_number": "9:99m225",
+  "case_title": "USA v. 9-99-m-225-01",
+  "case_info_full_case_name": "USA v. 9-99-m-225-01",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "9-99-m-225-01",
+  "case_date_filed": "1999-02-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "9-99-M-225-01",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Viktor V. Pohorelsky",
+          "judge_guid": "urn:entity:jud-100032847"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_119cr43_TXED",
+  "case_key": "1:19cr43_TXED",
+  "case_lni": "5X3B-FVY1-J9YR-S528-00000-00",
+  "case_number": "1:19cr43",
+  "case_title": "USA v. Alford",
+  "case_info_full_case_name": "USA v. Alford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alford",
+  "case_date_filed": "2019-03-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Todd Russell Alford, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM - CRIMINAL FORFEITURE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM - CRIMINAL FORFEITURE(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Marcia A. Crone",
+          "judge_guid": "urn:entity:jud-100045517"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Zack Hawthorn",
+          "judge_guid": "urn:entity:jud-100080330"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_414cr443_TXWD",
+  "case_key": "4:14cr443_TXWD",
+  "case_lni": "5CMK-2C31-DXDT-G30Y-00000-00",
+  "case_number": "4:14cr443",
+  "case_title": "USA v. Arroyo-Melchor",
+  "case_info_full_case_name": "USA v. Arroyo-Melchor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arroyo-Melchor",
+  "case_date_filed": "2014-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Otoniel Arroyo-Melchor",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326B2.F"
+        },
+        {
+          "charge_offence_description": "8:1326B2.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

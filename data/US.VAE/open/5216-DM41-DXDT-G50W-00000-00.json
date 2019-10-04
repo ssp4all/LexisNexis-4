@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_311mj27_VAED",
+  "case_key": "3:11mj27_VAED",
+  "case_lni": "5216-DM41-DXDT-G50W-00000-00",
+  "case_number": "3:11mj27",
+  "case_title": "USA v. Hill et al",
+  "case_info_full_case_name": "USA v. Hill et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hill et al",
+  "case_date_filed": "2011-01-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kshawn Malik Hill",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18 1951(a) 18USC2119"
+        },
+        {
+          "charge_description": "18 U.S.C 1951(a) Robbery, 18 U.S.C. 2119 carjacking"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    },
+    {
+      "party_name": "Larry Antonio Burleigh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18 1951(a) 18USC2119"
+        },
+        {
+          "charge_description": "18 U.S.C 1951(a) Robbery, 18 U.S.C. 2119 carjacking"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    }
+  ]
+}

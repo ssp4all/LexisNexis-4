@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_603m2004_ord",
+  "case_key": "6:03m2004_ord",
+  "case_lni": "7WBN-D6V0-Y892-B0NX-00000-00",
+  "case_number": "6:03m2004",
+  "case_title": "USA v. McCallister",
+  "case_info_full_case_name": "USA v. McCallister",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCallister",
+  "case_date_filed": "2003-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KEVIN WADE MCCALLISTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641 842(i)(1)-Knowingly"
+        },
+        {
+          "charge_description": "18:641 and 842(i)(1)-Knowingly and intentionally possess stolen government owned property with intent to convert the property to his use or gain; felon in possession of explosives"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas M Coffin",
+          "judge_guid": "urn:entity:jud-100048142"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_04CR1224_NMD",
+  "case_key": "04CR1224_NMD",
+  "case_lni": "7WBN-J7N0-Y892-B43K-00000-00",
+  "case_number": "04CR1224",
+  "case_title": "USA v. Lovato",
+  "case_info_full_case_name": "USA v. Lovato",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lovato",
+  "case_date_filed": "2004-06-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Presiliano Torrez",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jason Lovato",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:113 (a)(6)"
+        },
+        {
+          "charge_description": "18:113 (a)(6) Assault Resulting in Serious Bodily Injury (1s-2s)"
+        },
+        {
+          "charge_disposition": "Sentence Imposed Cbop 37 Mos.; 3 Yrs. Supervised Release W/Special Conditions; Spa $200; Voluntary Surrender"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:113(a)(6):"
+        },
+        {
+          "charge_description": "18:113(a)(6): Assault Resulting in Serious Bodily Injury And 18:1153: Crime in Indian Country (1-2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "John E Conway",
+          "judge_guid": "urn:entity:jud-100049792"
+        }
+      ]
+    },
+    {
+      "party_name": "La Pasada Halfway ",
+      "party_description": "Third Party Custodian"
+    }
+  ]
+}

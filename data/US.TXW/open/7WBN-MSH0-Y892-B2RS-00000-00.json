@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_306cr1395_TXWD",
+  "case_key": "3:06cr1395_TXWD",
+  "case_lni": "7WBN-MSH0-Y892-B2RS-00000-00",
+  "case_number": "3:06cr1395",
+  "case_title": "USA v. Hernandez-Esparza",
+  "case_info_full_case_name": "USA v. Hernandez-Esparza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Esparza",
+  "case_date_filed": "2006-07-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Martin Hernandez-Esparza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546.F--FRAUD"
+        },
+        {
+          "charge_description": "18:1546.F--FRAUD AND MISUSE OF VISAS/PERMITS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_415cr26_GAMD",
+  "case_key": "4:15cr26_GAMD",
+  "case_lni": "5G03-VGF1-DXDT-G1WF-00000-00",
+  "case_number": "4:15cr26",
+  "case_title": "UNITED STATES OF AMERICA v. LOPEZ-GARCIA",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. LOPEZ-GARCIA",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "LOPEZ-GARCIA",
+  "case_date_filed": "2015-05-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "IRRAEL DEONICIO LOPEZ-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.C. 1326(a) and (b) - Illegal Reentry(1)"
+        },
+        {
+          "charge_disposition": "Sentenced to TIME SERVED (to be turned over to ICE for deportation), 1 year supervised release, $100 MAF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "CLAY D LAND",
+          "judge_guid": "urn:entity:jud-100036627"
+        }
+      ]
+    }
+  ]
+}

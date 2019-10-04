@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_503m1772_txsd",
+  "case_key": "5:03m1772_txsd",
+  "case_lni": "7WBN-FV80-Y892-B3KH-00000-00",
+  "case_number": "5:03m1772",
+  "case_title": "USA v. Morgan, et al",
+  "case_info_full_case_name": "USA v. Morgan, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morgan, et al",
+  "case_date_filed": "2003-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDITH FELIX-SERAFICO",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    },
+    {
+      "party_name": "ZENAIDA BALDERAS",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    },
+    {
+      "party_name": "RICHARD MICHAEL MORGAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transporting illegal aliens within the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    },
+    {
+      "party_name": "ROGER ERVIN HITCHCOCK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transporting illegal aliens within the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

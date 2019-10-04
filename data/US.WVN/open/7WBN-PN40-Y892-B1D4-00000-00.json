@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_104cr45_WVND",
+  "case_key": "1:04cr45_WVND",
+  "case_lni": "7WBN-PN40-Y892-B1D4-00000-00",
+  "case_number": "1:04cr45",
+  "case_title": "USA v. Shipley",
+  "case_info_full_case_name": "USA v. Shipley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shipley",
+  "case_date_filed": "2004-05-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARK SHIPLEY",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        }
+      ]
+    }
+  ]
+}

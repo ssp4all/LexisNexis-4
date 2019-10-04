@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKE_605m12_OKED",
+  "case_key": "6:05m12_OKED",
+  "case_lni": "7WBN-FXS0-Y892-B3JR-00000-00",
+  "case_number": "6:05m12",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2005-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DARLA SMITH",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Steven P. Shreder",
+          "judge_guid": "urn:entity:jud-100010104"
+        }
+      ]
+    }
+  ]
+}

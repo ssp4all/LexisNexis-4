@@ -1,0 +1,100 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_401m1338_azd",
+  "case_key": "4:01m1338_azd",
+  "case_lni": "7WBN-DD20-Y892-B25J-00000-00",
+  "case_number": "4:01m1338",
+  "case_title": "USA, et al v. Estrada, et al",
+  "case_info_full_case_name": "USA, et al v. Estrada, et al",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Estrada, et al",
+  "case_date_filed": "2001-11-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALFREDO ESTRADA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    },
+    {
+      "party_name": "MARTIN ESTRADA JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    },
+    {
+      "party_name": "CIPRIANO PINEDA-ACEDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    },
+    {
+      "party_name": "LORENZO ZUNIGA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

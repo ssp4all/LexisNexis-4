@@ -1,0 +1,110 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_400cr20_txwd",
+  "case_key": "4:00cr20_txwd",
+  "case_lni": "7WBN-S100-Y892-B08S-00000-00",
+  "case_number": "4:00cr20",
+  "case_title": "USA v. Telles",
+  "case_info_full_case_name": "USA v. Telles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Telles",
+  "case_date_filed": "2000-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RODOLFO TEY TELLES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "320.44 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "Knowingly, unlawfully and intentionally possess with intent to distribute approx. 320.44 lbs. marijuana in violation of Title 21 USC 841(a)(1) [4:99-m-1379]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "W. Royal Furgeson, Jr.",
+          "judge_guid": "urn:entity:jud-100004574"
+        }
+      ]
+    },
+    {
+      "party_name": "ROJELIO ELEAZAR GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "320.44 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "Knowingly, unlawfully and intentionally possess with intent to distribute approx. 320.44 lbs. marijuana in violation of title 21 USC 841(a)(1) [4:99-m-1380]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "W. Royal Furgeson, Jr.",
+          "judge_guid": "urn:entity:jud-100004574"
+        }
+      ]
+    },
+    {
+      "party_name": "BERNARDINO ORDUNO-BECERRA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "320.44 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "Knowingly, unlawfully and intentionally possess with intent to distribute approx. 320.44 lbs. marijuana in violation of title 21 USC 841(a)(1) [4:99-m-1381]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "W. Royal Furgeson, Jr.",
+          "judge_guid": "urn:entity:jud-100004574"
+        }
+      ]
+    }
+  ]
+}

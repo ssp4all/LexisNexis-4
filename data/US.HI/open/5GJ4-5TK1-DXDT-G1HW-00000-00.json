@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_115mj841_HID",
+  "case_key": "1:15mj841_HID",
+  "case_lni": "5GJ4-5TK1-DXDT-G1HW-00000-00",
+  "case_number": "1:15mj841",
+  "case_title": "USA v. Repolio et al",
+  "case_info_full_case_name": "USA v. Repolio et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Repolio et al",
+  "case_date_filed": "2015-07-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jonathan M.F. Loo",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kelsey P. Repolio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F, 21:841A=CD.F, 21:841B=CD.F Conspire to distribute and possess with intent to distribute methamphetamine, Schedule II - 21:846; 841(a)(1) and 841(b)(1)(B)"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F, 21:841A=CD.F, 21:841B=CD.F Conspire t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "RICHARD L. PUGLISI",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    },
+    {
+      "party_name": "Siosiua P. Afungia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F, 21:841A=CD.F, 21:841B=CD.F Conspire to distribute and possess with intent to distribute methamphetamine, Schedule II - 21:846; 841(a)(1) and 841(b)(1)(B)"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F, 21:841A=CD.F, 21:841B=CD.F Conspire t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "RICHARD L. PUGLISI",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    }
+  ]
+}

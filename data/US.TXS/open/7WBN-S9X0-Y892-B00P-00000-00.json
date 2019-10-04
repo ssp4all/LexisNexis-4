@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_504cr1808_TXSD",
+  "case_key": "5:04cr1808_TXSD",
+  "case_lni": "7WBN-S9X0-Y892-B00P-00000-00",
+  "case_number": "5:04cr1808",
+  "case_title": "USA v. Rubalcava-Meza",
+  "case_info_full_case_name": "USA v. Rubalcava-Meza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rubalcava-Meza",
+  "case_date_filed": "2004-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alejo Rubalcava-Meza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326 (a): 2 $250,000.00, $100 1"
+        },
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS PENALTY: 8 USC 1326 (a): 2 Yrs. and/or $250,000.00, $100 Spec Assessment Not More Than 1 Yr Term of Supervised Release (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "A alien, who has previously been deported or has departed the U.S. while an order of Deportation is outstanding was found in the U.S., having not obtained the consent, for re-application for admission into the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

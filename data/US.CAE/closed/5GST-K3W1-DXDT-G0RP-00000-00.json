@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_215mj172_CAED",
+  "case_key": "2:15mj172_CAED",
+  "case_lni": "5GST-K3W1-DXDT-G0RP-00000-00",
+  "case_number": "2:15mj172",
+  "case_title": "USA v. Warren",
+  "case_info_full_case_name": "USA v. Warren",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Warren",
+  "case_date_filed": "2015-08-20",
+  "case_status": "Closed",
+  "case_status_date": "09/10/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeremy Ray Warren",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1591.F SEX TRAFFICKING OF CHILDREN (as to MV-1)"
+        },
+        {
+          "charge_offence_description": "18:1591.F SEX TRAFFICKING OF CHILDREN (as to MV-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edmund F. Brennan",
+          "judge_guid": "urn:entity:jud-100060822"
+        }
+      ]
+    }
+  ]
+}

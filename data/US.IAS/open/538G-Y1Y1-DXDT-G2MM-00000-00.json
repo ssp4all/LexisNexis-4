@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_311mj55_IASD",
+  "case_key": "3:11mj55_IASD",
+  "case_lni": "538G-Y1Y1-DXDT-G2MM-00000-00",
+  "case_number": "3:11mj55",
+  "case_title": "USA v. White",
+  "case_info_full_case_name": "USA v. White",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "White",
+  "case_date_filed": "2011-07-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Clifford R Cronk",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tracy Lee White",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F-Knowingly 1000 marijuana-21:846, 841(a)(1)"
+        },
+        {
+          "charge_description": "21:846=MD.F-Knowingly and intentionally conspire to distribute 1000 kilograms or more of marijuana-21:846, 841(a)(1) &; 841(b)(1)(A)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas J. Shields",
+          "judge_guid": "urn:entity:jud-100021157"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_118mj3387_MDD",
+  "case_key": "1:18mj3387_MDD",
+  "case_lni": "5TWF-3HG1-DXDT-G1RR-00000-00",
+  "case_number": "1:18mj3387",
+  "case_title": "USA vs Brewer",
+  "case_info_full_case_name": "USA vs Brewer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brewer",
+  "case_date_filed": "2018-11-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Meade",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kaitlyn M Brewer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING VEH. ON HWY. AT SPEED EXCEEDING LIMIT (7679219)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "PERSON DRIVING MOT VEH ON (HWY/PUBLIC USE PROPERTY) ON SUSPENDED LIC. &; PRIVILEG (7679220)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "A. David Copperthite",
+          "judge_guid": "urn:entity:jud-100122711"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_699cr32_txnd",
+  "case_key": "6:99cr32_txnd",
+  "case_lni": "7WBN-P7K0-Y892-B2YW-00000-00",
+  "case_number": "6:99cr32",
+  "case_title": "USA v. Reynaga",
+  "case_info_full_case_name": "USA v. Reynaga",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reynaga",
+  "case_date_filed": "1999-06-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIANO REYNAGA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028A.F"
+        },
+        {
+          "charge_description": "18:1028A.F FRAUD WITH IDENTIFICATION DOCUMENTS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:513A.F"
+        },
+        {
+          "charge_description": "18:513A.F UTTER FORGED AND COUNTERFEIT SECURITY (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408.F"
+        },
+        {
+          "charge_description": "42:408.F MISUSE OF SOCIAL SECURITY NUMBER (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A.F"
+        },
+        {
+          "charge_description": "18:1028A.F FRAUD WITH IDENTIFICATION DOCUMENTS (2s-3s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408.F"
+        },
+        {
+          "charge_description": "42:408.F MISUSE OF SOCIAL SECURITY NUMBER (4s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC1028 513"
+        },
+        {
+          "charge_description": "Possessing false identification document w/intent to defraud US &; uttering &; possessing counterfeited security of organization w/intent to deceive another person or organization in violation of 18 USC 1028 &; 513 [6:99-m-99]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        }
+      ]
+    }
+  ]
+}

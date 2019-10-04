@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_414cr105_TXWD",
+  "case_key": "4:14cr105_TXWD",
+  "case_lni": "5BH6-WMX1-DXDT-G2R7-00000-00",
+  "case_number": "4:14cr105",
+  "case_title": "USA v. Munoz-Castillo",
+  "case_info_full_case_name": "USA v. Munoz-Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Munoz-Castillo",
+  "case_date_filed": "2014-02-13",
+  "case_status": "Closed",
+  "case_status_date": "07/31/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Munoz-Castillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B1.F"
+        },
+        {
+          "charge_offence_description": "8:1326B1.F"
+        },
+        {
+          "charge_description": "8:1326B1.F IMMIGRATION, REENTRY OF REMOVED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "Defendant to be imprisoned for a period of 24 months; 3 years supervised release; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_209mj8_FLSD",
+  "case_key": "2:09mj8_FLSD",
+  "case_lni": "7WBN-M310-Y892-B3MT-00000-00",
+  "case_number": "2:09mj8",
+  "case_title": "USA v. White",
+  "case_info_full_case_name": "USA v. White",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "White",
+  "case_date_filed": "2009-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gregory Vance White",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2422.F"
+        },
+        {
+          "charge_description": "18:2422.F Using a computer to induce or entice minor to engage in sexual activity"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frank J. Lynch, Jr",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    }
+  ]
+}

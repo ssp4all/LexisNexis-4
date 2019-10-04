@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_696m606_nywd",
+  "case_key": "6:96m606_nywd",
+  "case_lni": "7WBN-SH50-Y892-B2T7-00000-00",
+  "case_number": "6:96m606",
+  "case_title": "USA v. CD #473128",
+  "case_info_full_case_name": "USA v. CD #473128",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CD #473128",
+  "case_date_filed": "1996-11-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brian M. McCarthy, AUSA",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CERTIFICATES OF DEPOSIT #473128 FOR $70 083.26 AND #473222 FOR $30 000 LOCATED AT BANCO POPULAR IN ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_510cr4_CAND",
+  "case_key": "5:10cr4_CAND",
+  "case_lni": "7XGK-1C70-Y892-B00J-00000-00",
+  "case_number": "5:10cr4",
+  "case_title": "USA v. Miller",
+  "case_info_full_case_name": "USA v. Miller",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miller",
+  "case_date_filed": "2010-01-05",
+  "case_status": "Closed",
+  "case_status_date": "06/10/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey David Nedrow",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Thomas M. O'Connell",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Michael Miller",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252(a)(1) - Transmission of Material Involving the Sexual Exploitation of Minors(1-2)"
+        },
+        {
+          "charge_disposition": "84 months BOP custody as to each counts 1,2, &; 3 to run concurrently with each other, 20 years probation, $300.00 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252(a)(4)(B) - Possession of Material Involving the Sexual Exploitation of Minors(3)"
+        },
+        {
+          "charge_disposition": "84 months BOP custody as to each counts 1,2, &; 3 to run concurrently with each other, 20 years probation, $300.00 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jeremy Fogel",
+          "judge_guid": "urn:entity:jud-100087758"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patricia V. Trumbull",
+          "judge_guid": "urn:entity:jud-100006126"
+        }
+      ]
+    }
+  ]
+}

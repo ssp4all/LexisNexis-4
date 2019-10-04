@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_308mj270_TXWD",
+  "case_key": "3:08mj270_TXWD",
+  "case_lni": "7WBN-RTH0-Y892-B3N4-00000-00",
+  "case_number": "3:08mj270",
+  "case_title": "USA v. Jimenez",
+  "case_info_full_case_name": "USA v. Jimenez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jimenez",
+  "case_date_filed": "2008-01-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Silvia Najera Jimenez aka Silvia Najera Ruiz DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "18:1542.F-False 18:911.F-Impersonating 18:1001.F-Statements"
+        },
+        {
+          "charge_description": "18:1542.F-False Statement in Application/Use of Passport, 18:911.F-Impersonating Citizen of the U.S., 18:1001.F-Statements or Entries Generally"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

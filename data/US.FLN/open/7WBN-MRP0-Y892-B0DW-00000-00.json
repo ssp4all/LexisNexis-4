@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_305cr76_FLND",
+  "case_key": "3:05cr76_FLND",
+  "case_lni": "7WBN-MRP0-Y892-B0DW-00000-00",
+  "case_number": "3:05cr76",
+  "case_title": "USA v. WHITNER",
+  "case_info_full_case_name": "USA v. WHITNER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "WHITNER",
+  "case_date_filed": "2005-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "ALICIA HYUNJOO KIM",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NANCY M WHITNER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PUBLIC MONEY, PROPERTY OR RECORDS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge"
+        }
+      ]
+    }
+  ]
+}

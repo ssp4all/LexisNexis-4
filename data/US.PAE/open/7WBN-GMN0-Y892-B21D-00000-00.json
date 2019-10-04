@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_203cr406_paed",
+  "case_key": "2:03cr406_paed",
+  "case_lni": "7WBN-GMN0-Y892-B21D-00000-00",
+  "case_number": "2:03cr406",
+  "case_title": "USA v. COLLINS",
+  "case_info_full_case_name": "USA v. COLLINS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "COLLINS",
+  "case_date_filed": "2003-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICKY COLLINS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(B)"
+        },
+        {
+          "charge_description": "21:841(a)(1) AND 841(b)(1)(B) POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841(a)(1) AND 841(b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE COCAINE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "HONORABLE",
+          "judge_name": "RONALD L. BUCKWALTER",
+          "judge_guid": "urn:entity:jud-100063859"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po22048_AZD",
+  "case_key": "4:14po22048_AZD",
+  "case_lni": "5BH6-WMX1-DXDT-G2NN-00000-00",
+  "case_number": "4:14po22048",
+  "case_title": "USA v. Sandoval-Solis",
+  "case_info_full_case_name": "USA v. Sandoval-Solis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval-Solis",
+  "case_date_filed": "2014-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Sandoval-Solis",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

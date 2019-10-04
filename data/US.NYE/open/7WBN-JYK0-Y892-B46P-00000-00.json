@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_192m2233_nyed",
+  "case_key": "1:92m2233_nyed",
+  "case_lni": "7WBN-JYK0-Y892-B46P-00000-00",
+  "case_number": "1:92m2233",
+  "case_title": "USA v. Mellerson",
+  "case_info_full_case_name": "USA v. Mellerson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mellerson",
+  "case_date_filed": "1992-11-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mark Kirsch, Esq.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DENNIS DAVID MELLERSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:473,"
+        },
+        {
+          "charge_description": "18:473, Received a counterfeited obligation of the U.S., with the intent that the same be passed as true and genuine."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "A. Simon Chrein",
+          "judge_guid": "urn:entity:jud-100062732"
+        }
+      ]
+    }
+  ]
+}

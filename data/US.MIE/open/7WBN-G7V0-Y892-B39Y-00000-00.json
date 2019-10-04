@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_107cr20201_MIED",
+  "case_key": "1:07cr20201_MIED",
+  "case_lni": "7WBN-G7V0-Y892-B39Y-00000-00",
+  "case_number": "1:07cr20201",
+  "case_title": "USA v. Woods",
+  "case_info_full_case_name": "USA v. Woods",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Woods",
+  "case_date_filed": "2007-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adam Troy Woods",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SEXUAL EXPLOITATION OF MINORS (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Thomas L Ludington",
+          "judge_guid": "urn:entity:jud-100038578"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Charles E Binder",
+          "judge_guid": "urn:entity:jud-100068912"
+        }
+      ]
+    }
+  ]
+}

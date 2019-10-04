@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_101cr10121_mad",
+  "case_key": "1:01cr10121_mad",
+  "case_lni": "7WBN-G2D0-Y892-B4YY-00000-00",
+  "case_number": "1:01cr10121",
+  "case_title": "USA v. Olstein",
+  "case_info_full_case_name": "USA v. Olstein",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Olstein",
+  "case_date_filed": "2001-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOEL OLSTEIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 21USC331(t) 333(c) (18:371.F)"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to violate 21 USC Sections 331(t) and 333(c) (18:371.F) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy Gertner",
+          "judge_guid": "urn:entity:jud-100038280"
+        }
+      ]
+    }
+  ]
+}

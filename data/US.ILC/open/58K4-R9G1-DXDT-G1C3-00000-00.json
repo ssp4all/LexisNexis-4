@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_313cr30037_ILCD",
+  "case_key": "3:13cr30037_ILCD",
+  "case_lni": "58K4-R9G1-DXDT-G1C3-00000-00",
+  "case_number": "3:13cr30037",
+  "case_title": "USA v. Flores-Ocampo",
+  "case_info_full_case_name": "USA v. Flores-Ocampo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Ocampo",
+  "case_date_filed": "2013-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aquilino Flores-Ocampo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F--REENTRY OF DEPORTED ALIENS--On or about May 15, 2013, in Sangamon County, the defendant, a previously deported alien, was found within the United States, all in violation of 8:1326(a).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F -- On or about May 16, 2013, in Sangamon County, the Defendant, a previously deported alien, was found within the United States in violation of 8:1326(a)."
+        },
+        {
+          "charge_offence_description": "8:1326A.F -- On or about May 16, 2013, in Sangamon"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sue E. Myerscough",
+          "judge_guid": "urn:entity:jud-100002852"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Byron G. Cudmore",
+          "judge_guid": "urn:entity:jud-100057803"
+        }
+      ]
+    }
+  ]
+}

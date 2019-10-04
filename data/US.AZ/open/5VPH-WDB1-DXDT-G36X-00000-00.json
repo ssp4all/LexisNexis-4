@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_419po24929_AZD",
+  "case_key": "4:19po24929_AZD",
+  "case_lni": "5VPH-WDB1-DXDT-G36X-00000-00",
+  "case_number": "4:19po24929",
+  "case_title": "USA v. Ambrocio-Mendez",
+  "case_info_full_case_name": "USA v. Ambrocio-Mendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ambrocio-Mendez",
+  "case_date_filed": "2019-03-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ana Ambrocio-Mendez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

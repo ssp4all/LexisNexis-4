@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_302cr88_cand",
+  "case_key": "3:02cr88_cand",
+  "case_lni": "7WBN-MK40-Y892-B0D7-00000-00",
+  "case_number": "3:02cr88",
+  "case_title": "USA v. Schaper",
+  "case_info_full_case_name": "USA v. Schaper",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schaper",
+  "case_date_filed": "2002-03-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARC GERARD SCHAPER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028(a)(6)"
+        },
+        {
+          "charge_description": "18:1028(a)(6) Possession of False Identification Document (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:1546"
+        },
+        {
+          "charge_description": "18:1546 Counterfeiting False Documents [3:01-m-30022]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    }
+  ]
+}

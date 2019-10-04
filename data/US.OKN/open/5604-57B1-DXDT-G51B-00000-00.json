@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_412cr121_OKND",
+  "case_key": "4:12cr121_OKND",
+  "case_lni": "5604-57B1-DXDT-G51B-00000-00",
+  "case_number": "4:12cr121",
+  "case_title": "USA v. Newell",
+  "case_info_full_case_name": "USA v. Newell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Newell",
+  "case_date_filed": "2012-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roger Jeffrey Newell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13, 1151 1152, 21 22 (Misdemeanor)"
+        },
+        {
+          "charge_description": "18:13, 1151 &; 1152, 21 O.S. Sec. 22 Outraging Public Decency (Misdemeanor) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Gregory K Frizzell",
+          "judge_guid": "urn:entity:jud-100016350"
+        }
+      ]
+    }
+  ]
+}

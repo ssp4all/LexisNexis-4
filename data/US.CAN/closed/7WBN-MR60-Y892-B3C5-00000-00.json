@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_305cr317_CAND",
+  "case_key": "3:05cr317_CAND",
+  "case_lni": "7WBN-MR60-Y892-B3C5-00000-00",
+  "case_number": "3:05cr317",
+  "case_title": "USA v. Silas",
+  "case_info_full_case_name": "USA v. Silas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Silas",
+  "case_date_filed": "2005-05-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sheldon Silas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession of cocaine base with intent to distribute (1)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:860(a) 1,000"
+        },
+        {
+          "charge_description": "21:860(a) Possession of cocaine base with intent to distribute within 1,000 feet of public elementary school and public housing facility (2)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Susan Illston",
+          "judge_guid": "urn:entity:jud-100050761"
+        }
+      ]
+    }
+  ]
+}

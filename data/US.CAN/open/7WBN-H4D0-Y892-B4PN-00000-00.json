@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_301m30258_cand",
+  "case_key": "3:01m30258_cand",
+  "case_lni": "7WBN-H4D0-Y892-B4PN-00000-00",
+  "case_number": "3:01m30258",
+  "case_title": "USA v. Sanchez-Gutierrez",
+  "case_info_full_case_name": "USA v. Sanchez-Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Gutierrez",
+  "case_date_filed": "2001-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GABRIEL SANCHEZ-GUTIERREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 3, 2001"
+        },
+        {
+          "charge_description": "8:1326 Illegally crossing international border at unknown place on unknown date subsequent to May 3, 2001 without having first obtained consent of Attorney General of the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    }
+  ]
+}

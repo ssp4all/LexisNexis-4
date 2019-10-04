@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_207cr859_NMD",
+  "case_key": "2:07cr859_NMD",
+  "case_lni": "7WBN-R900-Y892-B148-00000-00",
+  "case_number": "2:07cr859",
+  "case_title": "USA v. Landa-Martinez",
+  "case_info_full_case_name": "USA v. Landa-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Landa-Martinez",
+  "case_date_filed": "2007-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Javier Landa-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1)&; (a)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1)&; (a)(2) Re-entry of a Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James A. Parker",
+          "judge_guid": "urn:entity:jud-100028418"
+        }
+      ]
+    }
+  ]
+}

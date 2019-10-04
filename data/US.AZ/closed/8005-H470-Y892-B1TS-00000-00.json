@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_410po31650_AZD",
+  "case_key": "4:10po31650_AZD",
+  "case_lni": "8005-H470-Y892-B1TS-00000-00",
+  "case_number": "4:10po31650",
+  "case_title": "USA v. Chigo-Chigi",
+  "case_info_full_case_name": "USA v. Chigo-Chigi",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chigo-Chigi",
+  "case_date_filed": "2010-07-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wilbert L Rocker",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Benjamin Chigo-Chigi",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

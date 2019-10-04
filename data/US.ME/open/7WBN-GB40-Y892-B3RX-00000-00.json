@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_186cr30_med",
+  "case_key": "1:86cr30_med",
+  "case_lni": "7WBN-GB40-Y892-B3RX-00000-00",
+  "case_number": "1:86cr30",
+  "case_title": "USA v. GREGORY",
+  "case_info_full_case_name": "USA v. GREGORY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "GREGORY",
+  "case_date_filed": "1986-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KURT H. GREGORY",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "CONRAD K. CYR",
+          "judge_guid": "urn:entity:jud-100057666"
+        }
+      ]
+    }
+  ]
+}

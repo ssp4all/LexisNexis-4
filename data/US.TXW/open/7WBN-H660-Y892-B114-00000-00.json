@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_303m3593_txwd",
+  "case_key": "3:03m3593_txwd",
+  "case_lni": "7WBN-H660-Y892-B114-00000-00",
+  "case_number": "3:03m3593",
+  "case_title": "USA v. Terrazas",
+  "case_info_full_case_name": "USA v. Terrazas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Terrazas",
+  "case_date_filed": "2003-11-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROSMARY TERRAZAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 952(a). 102.3"
+        },
+        {
+          "charge_description": "Possession with the intent to distribute and importation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(a). Approx. 102.3 Pounds of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

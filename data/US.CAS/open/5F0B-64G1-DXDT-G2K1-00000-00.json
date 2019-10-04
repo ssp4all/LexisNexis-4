@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_514po15350_CASD",
+  "case_key": "5:14po15350_CASD",
+  "case_lni": "5F0B-64G1-DXDT-G2K1-00000-00",
+  "case_number": "5:14po15350",
+  "case_title": "USA v. Clavel-Velasco",
+  "case_info_full_case_name": "USA v. Clavel-Velasco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clavel-Velasco",
+  "case_date_filed": "2014-12-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Emma Clavel-Velasco",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F. Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

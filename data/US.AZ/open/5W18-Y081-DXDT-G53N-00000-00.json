@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_219cr50075_AZD",
+  "case_key": "2:19cr50075_AZD",
+  "case_lni": "5W18-Y081-DXDT-G53N-00000-00",
+  "case_number": "2:19cr50075",
+  "case_title": "USA v. Brungardt",
+  "case_info_full_case_name": "USA v. Brungardt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brungardt",
+  "case_date_filed": "2019-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Linda Brungardt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(B) and 846 -  Conspiracy to Distribute 50 Grams or  More of Methamphetamine Mixture"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1), 841(b)(1)(B) and 846 -  Conspiracy t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven P Logan",
+          "judge_guid": "urn:entity:jud-100003811"
+        }
+      ]
+    }
+  ]
+}

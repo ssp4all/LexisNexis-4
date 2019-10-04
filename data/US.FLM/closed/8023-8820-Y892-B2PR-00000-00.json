@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_310cr212_FLMD",
+  "case_key": "3:10cr212_FLMD",
+  "case_lni": "8023-8820-Y892-B2PR-00000-00",
+  "case_number": "3:10cr212",
+  "case_title": "USA v. Mack",
+  "case_info_full_case_name": "USA v. Mack",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mack",
+  "case_date_filed": "2010-07-29",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Nicholas Alexander Pilgrim",
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mary Jane Mack",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F Public Money, Property or Records (1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: Nine (9) Months; Supervised Release: 36 Months; Special Assessment: $100.00; Restitution: $26,335.00."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marcia Morales Howard",
+          "judge_guid": "urn:entity:jud-100009661"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joel B Toomey",
+          "judge_guid": "urn:entity:jud-100023934"
+        }
+      ]
+    }
+  ]
+}

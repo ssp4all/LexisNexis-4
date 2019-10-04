@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_401cr293_moed",
+  "case_key": "4:01cr293_moed",
+  "case_lni": "7WBN-N990-Y892-B009-00000-00",
+  "case_number": "4:01cr293",
+  "case_title": "USA v. Stovall",
+  "case_info_full_case_name": "USA v. Stovall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stovall",
+  "case_date_filed": "2001-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael W. Reap",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LAQUITA A. STOVALL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344A.F"
+        },
+        {
+          "charge_description": "18:1344A.F BANK FRAUD (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jean C. Hamilton",
+          "judge_guid": "urn:entity:jud-100035446"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Frederick Buckles",
+          "judge_guid": "urn:entity:jud-100080190"
+        }
+      ]
+    }
+  ]
+}

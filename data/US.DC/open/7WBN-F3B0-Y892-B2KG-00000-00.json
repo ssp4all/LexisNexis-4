@@ -1,0 +1,97 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_106cr344_DCD",
+  "case_key": "1:06cr344_DCD",
+  "case_lni": "7WBN-F3B0-Y892-B2KG-00000-00",
+  "case_number": "1:06cr344",
+  "case_title": "USA v. Ibague et al",
+  "case_info_full_case_name": "USA v. Ibague et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ibague et al",
+  "case_date_filed": "2006-11-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "M. Jeffrey Beatrice",
+      "attorney_label": "Lead Attorney"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Maria Corredor Ibague",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2339B(a)(1)"
+        },
+        {
+          "charge_description": "18:2339B(a)(1) Providing Material Support or Resources to Terrorists; Conspiracy to Provide Material Support or Resources to A Designated Foreign Terrorist Organization. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2339B(a)(1) and 2)"
+        },
+        {
+          "charge_description": "18:2339B(a)(1) and 2) Providing Material Support or Resources to Terrorists; Providing Material Support or Resources to A Designated Foreign Terrorist Organization; And Aiding And Abetting And Causing an Act to be Done. (2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gladys Kessler",
+          "judge_guid": "urn:entity:jud-100037470"
+        }
+      ]
+    },
+    {
+      "party_name": "Edilma Morales Loaiza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2339B(a)(1)"
+        },
+        {
+          "charge_description": "18:2339B(a)(1) Providing Material Support or Resources to Terrorists; Conspiracy to Provide Material Support or Resources to A Designated Foreign Terrorist Organization. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2339B(a)(1) and 2)"
+        },
+        {
+          "charge_description": "18:2339B(a)(1) and 2) Providing Material Support or Resources to Terrorists; Providing Material Support or Resources to A Designated Foreign Terrorist Organization; And Aiding And Abetting And Causing an Act to be Done. (2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gladys Kessler",
+          "judge_guid": "urn:entity:jud-100037470"
+        }
+      ]
+    }
+  ]
+}

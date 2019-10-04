@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_816po1868_MDD",
+  "case_key": "8:16po1868_MDD",
+  "case_lni": "5JB9-NK31-DXDT-G19M-00000-00",
+  "case_number": "8:16po1868",
+  "case_title": "USA vs Jenkins",
+  "case_info_full_case_name": "USA vs Jenkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jenkins",
+  "case_date_filed": "2016-03-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Andrews Air Force Base",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MALICIOUS DESTRUCTION OF PROPERTY (4718957)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "ASSAULT, OTHER (4718955)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B. Day",
+          "judge_guid": "urn:entity:jud-100057310"
+        }
+      ]
+    }
+  ]
+}

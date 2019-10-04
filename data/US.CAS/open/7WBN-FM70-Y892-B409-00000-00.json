@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_392m1114_casd",
+  "case_key": "3:92m1114_casd",
+  "case_lni": "7WBN-FM70-Y892-B409-00000-00",
+  "case_number": "3:92m1114",
+  "case_title": "USA v. Valenzuela, et al",
+  "case_info_full_case_name": "USA v. Valenzuela, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valenzuela, et al",
+  "case_date_filed": "1992-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS VALENZUELA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry T. Moskowitz",
+          "judge_guid": "urn:entity:jud-100003500"
+        }
+      ]
+    },
+    {
+      "party_name": "MARCO ANTONIO VILLEGAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry T. Moskowitz",
+          "judge_guid": "urn:entity:jud-100003500"
+        }
+      ]
+    },
+    {
+      "party_name": "MONIQUE CHRISTINA VILLAESCUSA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry T. Moskowitz",
+          "judge_guid": "urn:entity:jud-100003500"
+        }
+      ]
+    }
+  ]
+}

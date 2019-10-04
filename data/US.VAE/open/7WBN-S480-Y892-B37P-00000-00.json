@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_407mj23_VAED",
+  "case_key": "4:07mj23_VAED",
+  "case_lni": "7WBN-S480-Y892-B37P-00000-00",
+  "case_number": "4:07mj23",
+  "case_title": "USA v. Elwell",
+  "case_info_full_case_name": "USA v. Elwell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Elwell",
+  "case_date_filed": "2007-01-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David Whitman Headquarters ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brian P. Elwell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13, 1950, 46.2-301 3rd"
+        },
+        {
+          "charge_description": "18:13, assim. Code of VA, 1950, as amended, 46.2-301 Operate a motor vehicle while license suspended, 3rd or subsequent offense (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. Bradford Stillman",
+          "judge_guid": "urn:entity:jud-100051654"
+        }
+      ]
+    }
+  ]
+}

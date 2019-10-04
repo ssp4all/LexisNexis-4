@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_611mj1359_FLMD",
+  "case_key": "6:11mj1359_FLMD",
+  "case_lni": "53K4-7131-DXDT-G06F-00000-00",
+  "case_number": "6:11mj1359",
+  "case_title": "USA v. Almendariz",
+  "case_info_full_case_name": "USA v. Almendariz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Almendariz",
+  "case_date_filed": "2011-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Tanya Davis Wilson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Almendariz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David A. Baker",
+          "judge_guid": "urn:entity:jud-100069914"
+        }
+      ]
+    }
+  ]
+}

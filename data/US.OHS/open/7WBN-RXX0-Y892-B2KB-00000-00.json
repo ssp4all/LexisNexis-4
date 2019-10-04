@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_397cr28_ohsd",
+  "case_key": "3:97cr28_ohsd",
+  "case_lni": "7WBN-RXX0-Y892-B2KB-00000-00",
+  "case_number": "3:97cr28",
+  "case_title": "USA v. Hudson",
+  "case_info_full_case_name": "USA v. Hudson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hudson",
+  "case_date_filed": "1997-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "HOMER R HUDSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7201 1: 3"
+        },
+        {
+          "charge_description": "26:7201 TAX EVASION (Count 1: $250,000-5 yrs; S/A: $50.00 3 years Supervised Release) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Walter Herbert Rice",
+          "judge_guid": "urn:entity:jud-100014863"
+        }
+      ]
+    }
+  ]
+}

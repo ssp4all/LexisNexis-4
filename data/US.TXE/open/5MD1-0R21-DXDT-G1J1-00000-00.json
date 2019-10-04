@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_616cr49_TXED",
+  "case_key": "6:16cr49_TXED",
+  "case_lni": "5MD1-0R21-DXDT-G1J1-00000-00",
+  "case_number": "6:16cr49",
+  "case_title": "USA v. Gonzalez-Alvarado",
+  "case_info_full_case_name": "USA v. Gonzalez-Alvarado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Alvarado",
+  "case_date_filed": "2016-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeronimo Gonzalez-Alvarado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ALIEN FOUND UNLAWFULLY PRESENT AFTER REMOVAL(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ron Clark",
+          "judge_guid": "urn:entity:jud-100062595"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "K. Nicole Mitchell",
+          "judge_guid": "urn:entity:jud-100108216"
+        }
+      ]
+    }
+  ]
+}

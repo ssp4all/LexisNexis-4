@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_213mj63_MED",
+  "case_key": "2:13mj63_MED",
+  "case_lni": "58DW-6831-DXDT-G510-00000-00",
+  "case_number": "2:13mj63",
+  "case_title": "USA v. LANDRY",
+  "case_info_full_case_name": "USA v. LANDRY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LANDRY",
+  "case_date_filed": "2013-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TRAVIS R LANDRY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COUNT 1 - KIDNAPPING, 18:1201(a)(1). COUNT 2 - USING AND CARRYING A FIREARM IN RELATION TO A CRIME OF VIOLENCE, 18:924(c)(1)(A)(i)."
+        },
+        {
+          "charge_offence_description": "COUNT 1 - KIDNAPPING, 18:1201(a)(1). COUNT 2 - USI"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "JOHN H. RICH III",
+          "judge_guid": "urn:entity:jud-100014857"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_207cr58_OHSD",
+  "case_key": "2:07cr58_OHSD",
+  "case_lni": "7WBN-KVP0-Y892-B3JN-00000-00",
+  "case_number": "2:07cr58",
+  "case_title": "USA v. Truss et al",
+  "case_info_full_case_name": "USA v. Truss et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Truss et al",
+  "case_date_filed": "2007-03-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Robyn Jones Hahnert",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donald E Truss",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "MONEY LAUNDERING-INTERSTATE COMMERCE (4-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Gregory"
+        }
+      ]
+    },
+    {
+      "party_name": "Robin A Richards",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MONEY LAUNDERING-INTERSTATE COMMERCE (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "MONEY LAUNDERING-INTERSTATE COMMERCE (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Gregory"
+        }
+      ]
+    }
+  ]
+}

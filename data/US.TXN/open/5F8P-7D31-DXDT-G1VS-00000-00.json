@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_415cr37_TXND",
+  "case_key": "4:15cr37_TXND",
+  "case_lni": "5F8P-7D31-DXDT-G1VS-00000-00",
+  "case_number": "4:15cr37",
+  "case_title": "USA v. Owens",
+  "case_info_full_case_name": "USA v. Owens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Owens",
+  "case_date_filed": "2015-02-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Frank L Gatto-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF FIREARM (Violation of 18 U.S.C. §§ 922 (g)(1) and 924 (e))(1)"
+        },
+        {
+          "charge_disposition": "180 months BOP he sentence shall run concurrently to any future sentence imposed in case no. 1383364 and consecutively to any future sentence imposed in case no. 1382173, 4 years S/R, $100 MSA. RE-SENTENCING 3/1/19: 110 months BOP, 3 years S/R, $100 MSA."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terry R Means",
+          "judge_guid": "urn:entity:jud-100026144"
+        }
+      ]
+    }
+  ]
+}

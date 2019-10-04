@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_516mj1044_OHND",
+  "case_key": "5:16mj1044_OHND",
+  "case_lni": "5J9S-BW31-DXDT-G26D-00000-00",
+  "case_number": "5:16mj1044",
+  "case_title": "United States of America v. Martinez",
+  "case_info_full_case_name": "United States of America v. Martinez",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Martinez",
+  "case_date_filed": "2016-03-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Teresa L. Riley",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Wilmer Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841 Possession with intent to distribute and distribution of crystal methamphetamine; 21:846, 841 Conspiracy to possess with intent to distribute and distribution of crystal methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:841 Possession with intent to distribute and di"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen B. Burke",
+          "judge_guid": "urn:entity:jud-100060229"
+        }
+      ]
+    }
+  ]
+}

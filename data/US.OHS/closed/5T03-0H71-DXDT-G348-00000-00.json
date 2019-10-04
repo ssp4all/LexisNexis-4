@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_318cr102_OHSD",
+  "case_key": "3:18cr102_OHSD",
+  "case_lni": "5T03-0H71-DXDT-G348-00000-00",
+  "case_number": "3:18cr102",
+  "case_title": "USA v. Booker",
+  "case_info_full_case_name": "USA v. Booker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Booker",
+  "case_date_filed": "2018-08-07",
+  "case_status": "Closed",
+  "case_status_date": "12/17/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jehwaun Booker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. § 922(g)(1)- Possession of firearm by convicted felon(1)"
+        },
+        {
+          "charge_disposition": "Defendant remanded to the custody of the Attorney General of the United States/Bureau of Prisons for: 30 months on Count 1. Fined $ 0 due to inability to satisfy, hardship on dependents, and community service to be ordered on Count 1 of the Bill of Information. $100.00 Special Assessment to Victims Crime Fund to be paid immediately. 3 years Supervised Release on Count 1, Forfeiture of Property"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. 922(g)(1)- Possession of a firearm after having been previously convicted of a felony offense"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. 922(g)(1)- Possession of a firearm after"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Walter H. Rice",
+          "judge_guid": "urn:entity:jud-100014863"
+        }
+      ]
+    }
+  ]
+}

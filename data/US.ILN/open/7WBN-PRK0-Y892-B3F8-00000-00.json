@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_107cr299_ILND",
+  "case_key": "1:07cr299_ILND",
+  "case_lni": "7WBN-PRK0-Y892-B3F8-00000-00",
+  "case_number": "1:07cr299",
+  "case_title": "USA v. Calderon-Asevedo",
+  "case_info_full_case_name": "USA v. Calderon-Asevedo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Calderon-Asevedo",
+  "case_date_filed": "2007-05-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AUSA",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Carlos Calderon-Asevedo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Suzanne B. Conlon",
+          "judge_guid": "urn:entity:jud-100049883"
+        }
+      ]
+    }
+  ]
+}

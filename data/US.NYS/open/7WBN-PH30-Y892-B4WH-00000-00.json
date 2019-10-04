@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_100cr214_nysd",
+  "case_key": "1:00cr214_nysd",
+  "case_lni": "7WBN-PH30-Y892-B4WH-00000-00",
+  "case_number": "1:00cr214",
+  "case_title": "USA v. Iqbal",
+  "case_info_full_case_name": "USA v. Iqbal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Iqbal",
+  "case_date_filed": "2000-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MOHAMMAD IQBAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC371:"
+        },
+        {
+          "charge_description": "18 U.S.C. 371: CONSPIRACY TO DEFRAUD THE UNITED STATES AND THE IMMIGRATION AND NATURALIZATION SERVICE AND TO COMMIT OFFENSES AGAINST THE UNITED STATES. [1:00-m-230]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

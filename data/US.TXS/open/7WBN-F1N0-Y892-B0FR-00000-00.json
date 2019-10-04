@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_101m1448_txsd",
+  "case_key": "1:01m1448_txsd",
+  "case_lni": "7WBN-F1N0-Y892-B0FR-00000-00",
+  "case_number": "1:01m1448",
+  "case_title": "USA v. Gonzalez-Gamez",
+  "case_info_full_case_name": "USA v. Gonzalez-Gamez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Gamez",
+  "case_date_filed": "2001-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERARDO GONZALEZ-GAMEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "38.16 38. 16 21USC841 21"
+        },
+        {
+          "charge_description": "Possession with Intent to Distribute 38.16 kilograms of marihuana; Importatoin of Approximately 38. 16 kilograms of marihuana; 21 USC 841 &; 21 952"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

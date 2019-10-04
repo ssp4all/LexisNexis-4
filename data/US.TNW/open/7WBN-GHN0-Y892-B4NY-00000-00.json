@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_200cr20003_tnwd",
+  "case_key": "2:00cr20003_tnwd",
+  "case_lni": "7WBN-GHN0-Y892-B4NY-00000-00",
+  "case_number": "2:00cr20003",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2000-01-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Bernice B. Donald",
+          "judge_guid": "urn:entity:jud-100044421"
+        }
+      ]
+    }
+  ]
+}

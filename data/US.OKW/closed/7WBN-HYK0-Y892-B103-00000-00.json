@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_594cr76_okwd",
+  "case_key": "5:94cr76_okwd",
+  "case_lni": "7WBN-HYK0-Y892-B103-00000-00",
+  "case_number": "5:94cr76",
+  "case_title": "USA v. Campbell",
+  "case_info_full_case_name": "USA v. Campbell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Campbell",
+  "case_date_filed": "1994-05-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUDY CAMPBELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344(2)"
+        },
+        {
+          "charge_description": "18:1344(2) BANK FRAUD (1)"
+        },
+        {
+          "charge_disposition": "Dft is committed to the custody of the US Bureau of Prisons to be imprisoned for a term of 10 mos on the One-Count Information; S/A fee $50.00; (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Wayne E. Alley",
+          "judge_guid": "urn:entity:jud-100074587"
+        }
+      ]
+    }
+  ]
+}

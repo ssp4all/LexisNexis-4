@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_319mj75_OHSD",
+  "case_key": "3:19mj75_OHSD",
+  "case_lni": "5VDF-FRX1-DXDT-G34C-00000-00",
+  "case_number": "3:19mj75",
+  "case_title": "USA v. Kuhnash",
+  "case_info_full_case_name": "USA v. Kuhnash",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kuhnash",
+  "case_date_filed": "2019-02-12",
+  "case_status": "Closed",
+  "case_status_date": "03/14/2019",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kevin Kuhnash",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Newman",
+          "judge_guid": "urn:entity:jud-100080589"
+        }
+      ]
+    }
+  ]
+}

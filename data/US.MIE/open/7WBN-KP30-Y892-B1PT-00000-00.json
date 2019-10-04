@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_205cr80481_MIED",
+  "case_key": "2:05cr80481_MIED",
+  "case_lni": "7WBN-KP30-Y892-B1PT-00000-00",
+  "case_number": "2:05cr80481",
+  "case_title": "USA v. Angiano",
+  "case_info_full_case_name": "USA v. Angiano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Angiano",
+  "case_date_filed": "2005-05-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Angiano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Paul J Komives",
+          "judge_guid": "urn:entity:jud-100040063"
+        }
+      ]
+    }
+  ]
+}

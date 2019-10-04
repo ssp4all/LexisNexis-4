@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_109cr10076_ILCD",
+  "case_key": "1:09cr10076_ILCD",
+  "case_lni": "7WJY-XHF0-Y892-B03C-00000-00",
+  "case_number": "1:09cr10076",
+  "case_title": "USA v. Thornburg",
+  "case_info_full_case_name": "USA v. Thornburg",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thornburg",
+  "case_date_filed": "2009-08-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David L Thornburg",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343.F: 06/06 18:1343:"
+        },
+        {
+          "charge_description": "18:1343.F: On or about 06/06 to [2/11/08] Deft did execute a scheme/artifice to defraud the Companies &; other by means of wire fraud in violation of 18:1343: FRAUD BY WIRE, RADIO, OR TELEVISION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joe Billy McDade",
+          "judge_guid": "urn:entity:jud-100041021"
+        }
+      ]
+    }
+  ]
+}

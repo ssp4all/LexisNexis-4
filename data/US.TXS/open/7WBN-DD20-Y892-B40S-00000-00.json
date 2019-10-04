@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_406cr194_TXSD",
+  "case_key": "4:06cr194_TXSD",
+  "case_lni": "7WBN-DD20-Y892-B40S-00000-00",
+  "case_number": "4:06cr194",
+  "case_title": "USA v. Rodriguez-Camacho",
+  "case_info_full_case_name": "USA v. Rodriguez-Camacho",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Camacho",
+  "case_date_filed": "2006-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joseph Anthony Porto, Jr",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Narcizo Rodriguez-Camacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lynn N. Hughes",
+          "judge_guid": "urn:entity:jud-100033862"
+        }
+      ]
+    }
+  ]
+}

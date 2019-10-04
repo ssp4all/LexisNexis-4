@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_501m15_nced",
+  "case_key": "5:01m15_nced",
+  "case_lni": "7WBN-NTH0-Y892-B0RS-00000-00",
+  "case_number": "5:01m15",
+  "case_title": "USA v. Keplar",
+  "case_info_full_case_name": "USA v. Keplar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Keplar",
+  "case_date_filed": "2001-01-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CLIFTON LEROY KEPLAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Travel in interstae commerce with intent to avoid prosecution from the state of NC for the crime of abduction of a child, in violation of NCGS 14-41.1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William A. Webb",
+          "judge_guid": "urn:entity:jud-100023194"
+        }
+      ]
+    }
+  ]
+}

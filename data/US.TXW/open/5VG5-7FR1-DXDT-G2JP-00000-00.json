@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_319cr414_TXWD",
+  "case_key": "3:19cr414_TXWD",
+  "case_lni": "5VG5-7FR1-DXDT-G2JP-00000-00",
+  "case_number": "3:19cr414",
+  "case_title": "USA v. Galindo-Falcon",
+  "case_info_full_case_name": "USA v. Galindo-Falcon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galindo-Falcon",
+  "case_date_filed": "2019-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mallory Josephine Rasmussen",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Armando Galindo-Falcon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F-REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326.F-REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F-REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

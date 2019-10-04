@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_693cr25_txnd",
+  "case_key": "6:93cr25_txnd",
+  "case_lni": "7WBN-SH50-Y892-B0C7-00000-00",
+  "case_number": "6:93cr25",
+  "case_title": "USA v. Elsey",
+  "case_info_full_case_name": "USA v. Elsey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Elsey",
+  "case_date_filed": "1993-10-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LARRY DANE ELSEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343"
+        },
+        {
+          "charge_description": "18:1343 POSTAL, INTERSTATE WIRE, RADIO, ETC. (1)"
+        },
+        {
+          "charge_disposition": "$50 SA, Custody of BOP 14 mos, to surrender 5/6/94, supr. release 3 years with 7 special &; standard conditions of supr.,no fine, Restitution of $24,968.02 total, to Hugh Brashier $12,484.01 and Pat Edgar $12,484.01 (Resentencing b/f Jd. Sam R. Cummings on 6/23/95) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        }
+      ]
+    }
+  ]
+}

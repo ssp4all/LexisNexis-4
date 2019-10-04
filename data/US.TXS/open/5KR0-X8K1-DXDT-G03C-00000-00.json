@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_216mj1174_TXSD",
+  "case_key": "2:16mj1174_TXSD",
+  "case_lni": "5KR0-X8K1-DXDT-G03C-00000-00",
+  "case_number": "2:16mj1174",
+  "case_title": "USA v. Escobar et al",
+  "case_info_full_case_name": "USA v. Escobar et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Escobar et al",
+  "case_date_filed": "2016-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brenda Escobar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        },
+        {
+          "charge_offence_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    },
+    {
+      "party_name": "Nicole Lara",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        },
+        {
+          "charge_offence_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    },
+    {
+      "party_name": "Erick Aguilar-Luna",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Javier Casas-Salazar",
+      "party_description": "Material Witness"
+    }
+  ]
+}

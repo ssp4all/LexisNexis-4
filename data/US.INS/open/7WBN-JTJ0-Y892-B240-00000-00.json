@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_108mj323_INSD",
+  "case_key": "1:08mj323_INSD",
+  "case_lni": "7WBN-JTJ0-Y892-B240-00000-00",
+  "case_number": "1:08mj323",
+  "case_title": "USA v. PARKER",
+  "case_info_full_case_name": "USA v. PARKER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PARKER",
+  "case_date_filed": "2008-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PETER PARKER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "50"
+        },
+        {
+          "charge_description": "poss w/intent to dist 50 grams or more of crack cocaine; carrying a firearm during and in relation to a drug trafficking crime and possess a firearm by a convicted felon"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kennard P. Foster",
+          "judge_guid": "urn:entity:jud-100055522"
+        }
+      ]
+    }
+  ]
+}

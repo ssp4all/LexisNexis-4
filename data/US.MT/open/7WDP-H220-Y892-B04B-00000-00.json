@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_209cr21_MTD",
+  "case_key": "2:09cr21_MTD",
+  "case_lni": "7WDP-H220-Y892-B04B-00000-00",
+  "case_number": "2:09cr21",
+  "case_title": "USA v. Devore",
+  "case_info_full_case_name": "USA v. Devore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Devore",
+  "case_date_filed": "2009-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shanna Christine Devore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 500"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE and 21:846 500 grams or more of a Sched II controlled substance (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=CD.F----CONPIRACY"
+        },
+        {
+          "charge_description": "21:846=CD.F----CONPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald W. Molloy",
+          "judge_guid": "urn:entity:jud-100004243"
+        }
+      ]
+    }
+  ]
+}

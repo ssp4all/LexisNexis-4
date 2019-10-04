@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_108cr68_PAWD",
+  "case_key": "1:08cr68_PAWD",
+  "case_lni": "7WBN-PSG0-Y892-B259-00000-00",
+  "case_number": "1:08cr68",
+  "case_title": "USA v. PEREZ-RUIZ",
+  "case_info_full_case_name": "USA v. PEREZ-RUIZ",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PEREZ-RUIZ",
+  "case_date_filed": "2008-12-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DIONICIO PEREZ-RUIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326-REENTRY"
+        },
+        {
+          "charge_description": "8 USC 1326-REENTRY OF REMOVED ALIEN (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Sean"
+        }
+      ]
+    }
+  ]
+}

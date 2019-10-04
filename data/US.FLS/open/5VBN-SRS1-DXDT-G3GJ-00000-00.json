@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_119cr20060_FLSD",
+  "case_key": "1:19cr20060_FLSD",
+  "case_lni": "5VBN-SRS1-DXDT-G3GJ-00000-00",
+  "case_number": "1:19cr20060",
+  "case_title": "USA v. Cordon-Linarez",
+  "case_info_full_case_name": "USA v. Cordon-Linarez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cordon-Linarez",
+  "case_date_filed": "2019-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Emilio Cordon-Linarez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:U.S.C.ยง963 CONSPIRACY TO DISTRIBUTE FIVE (5) KILOGRAMS OF COCAINE KNOWING IT WOULD BE IMPORTED INTO THE UNITED STATES(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Federico A. Moreno",
+          "judge_guid": "urn:entity:jud-100015932"
+        }
+      ]
+    }
+  ]
+}

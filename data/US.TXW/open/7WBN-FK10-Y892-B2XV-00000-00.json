@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_307cr306_TXWD",
+  "case_key": "3:07cr306_TXWD",
+  "case_lni": "7WBN-FK10-Y892-B2XV-00000-00",
+  "case_number": "3:07cr306",
+  "case_title": "USA v. Morales-Martel",
+  "case_info_full_case_name": "USA v. Morales-Martel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales-Martel",
+  "case_date_filed": "2007-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Claudia Natali Morales-Martel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=MI.F-MARIJUANA-IMPORT"
+        },
+        {
+          "charge_description": "21:952=MI.F-MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F-MARIJUANA-SELL,"
+        },
+        {
+          "charge_description": "21:841A=MD.F-MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "257.65 21:841A=MD.F,"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approximately 257.65 lbs of marijuana in violation of 21:841A=MD.F, 21:952A=MI.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Frank Montalvo",
+          "judge_guid": "urn:entity:jud-100016084"
+        }
+      ]
+    }
+  ]
+}

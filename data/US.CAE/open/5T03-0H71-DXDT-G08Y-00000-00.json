@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_618po432_CAED",
+  "case_key": "6:18po432_CAED",
+  "case_lni": "5T03-0H71-DXDT-G08Y-00000-00",
+  "case_number": "6:18po432",
+  "case_title": "USA vs Simmons Iii",
+  "case_info_full_case_name": "USA vs Simmons Iii",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Simmons Iii",
+  "case_date_filed": "2018-08-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Bobby J Simmons Iii",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving on Suspended or Revoke License (6811859)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeremy D. Peterson",
+          "judge_guid": "urn:entity:jud-500006829"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_113cr29_CAED",
+  "case_key": "1:13cr29_CAED",
+  "case_lni": "57NG-R5Y1-DXDT-G4H9-00000-00",
+  "case_number": "1:13cr29",
+  "case_title": "USA v. Hernandez-Olivares",
+  "case_info_full_case_name": "USA v. Hernandez-Olivares",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Olivares",
+  "case_date_filed": "2013-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Manuel Hernandez-Olivares",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 - Deported Alien Found in the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 U.S.C. Section 1326(a)(1)(2) - Reentry of Deported Alien"
+        },
+        {
+          "charge_offence_description": "8 U.S.C. Section 1326(a)(1)(2) - Reentry of Deport"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Lawrence J. O'Neill",
+          "judge_guid": "urn:entity:jud-100035867"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sheila K. Oberto",
+          "judge_guid": "urn:entity:jud-100025675"
+        }
+      ]
+    }
+  ]
+}

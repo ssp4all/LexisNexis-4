@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_311cr978_TXWD",
+  "case_key": "3:11cr978_TXWD",
+  "case_lni": "52R3-4P51-DXDT-G34V-00000-00",
+  "case_number": "3:11cr978",
+  "case_title": "USA v. Fabian Guerrero",
+  "case_info_full_case_name": "USA v. Fabian Guerrero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fabian Guerrero",
+  "case_date_filed": "2011-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Susana Fabian Guerrero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1544.F"
+        },
+        {
+          "charge_description": "18:1544.F IMPROPER USE OF ANOTHER'S PASSPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1544.F--MISUSE"
+        },
+        {
+          "charge_description": "18:1544.F--MISUSE OF A PASSPORT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

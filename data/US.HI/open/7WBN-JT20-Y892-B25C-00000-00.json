@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_108cr632_HID",
+  "case_key": "1:08cr632_HID",
+  "case_lni": "7WBN-JT20-Y892-B25C-00000-00",
+  "case_number": "1:08cr632",
+  "case_title": "USA v. Rowell",
+  "case_info_full_case_name": "USA v. Rowell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rowell",
+  "case_date_filed": "2008-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "James G. Rowell Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.P 1950 182-266 18.2-270,"
+        },
+        {
+          "charge_description": "18:13-7210.P : assimilating the 1950 Code of Virginia, as amended, Sections 182-266 and 18.2-270, to wit: Operating a Motor Vehicle While Under the Influence of Alcohol."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "LESLIE E KOBAYASHI",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    }
+  ]
+}

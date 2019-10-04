@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_404m1449_TXWD",
+  "case_key": "4:04m1449_TXWD",
+  "case_lni": "7WBN-ND50-Y892-B23D-00000-00",
+  "case_number": "4:04m1449",
+  "case_title": "USA v. Martin",
+  "case_info_full_case_name": "USA v. Martin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martin",
+  "case_date_filed": "2004-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BILLY ROBERT MARTIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.M"
+        },
+        {
+          "charge_description": "21:844A=MP.M MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to 3 years of unsupervised probation and ordered to pay a $25.00 Special assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "23, 2004 approximately.6"
+        },
+        {
+          "charge_description": "On or about October 23, 2004 in Brewster county, in the Western district of Texas defendant did, knowingly unlawfully and intentionally possessed approximately.6 grams of marijuana a schedule I controlled substance in violation of Title 21 USC 844."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Durwood Edwards",
+          "judge_guid": "urn:entity:jud-100056691"
+        }
+      ]
+    }
+  ]
+}

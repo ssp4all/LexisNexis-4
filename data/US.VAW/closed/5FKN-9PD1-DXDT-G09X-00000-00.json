@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_515cr11_VAWD",
+  "case_key": "5:15cr11_VAWD",
+  "case_lni": "5FKN-9PD1-DXDT-G09X-00000-00",
+  "case_number": "5:15cr11",
+  "case_title": "USA v. Silvious",
+  "case_info_full_case_name": "USA v. Silvious",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Silvious",
+  "case_date_filed": "2015-03-25",
+  "case_status": "Closed",
+  "case_status_date": "03/25/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty Assistant - ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Owen F. Silvious",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1341.F FRAUDS AND SWINDLES Mail Fraud (2/9/05)(1-5)(1-5)"
+        },
+        {
+          "charge_disposition": "CBOP: 105 months as to each of Cts 1-5 to be served concurrently; SR 3 years as to each of Cts 1-5 to run concurrently, Restitution $1,170,000.00, SA $500.00. REVOCATION 5/14/2015 - CBOP 7 months; S/R 29 months; all other aspects of the sentence remains in effect."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Elizabeth K. Dillon",
+          "judge_guid": "urn:entity:jud-100110947"
+        }
+      ]
+    }
+  ]
+}

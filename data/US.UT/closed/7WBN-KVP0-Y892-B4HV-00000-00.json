@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_207cr773_UTD",
+  "case_key": "2:07cr773_UTD",
+  "case_lni": "7WBN-KVP0-Y892-B4HV-00000-00",
+  "case_number": "2:07cr773",
+  "case_title": "USA v. Egan",
+  "case_info_full_case_name": "USA v. Egan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Egan",
+  "case_date_filed": "2007-10-24",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {},
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "John Bradley Egan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1030(a)(4)FRAUD"
+        },
+        {
+          "charge_description": "18:1030(a)(4)FRAUD Activity Connected With Computers/ Computer Fraud. 18:2 Aiding And Abetting. Forfeiture Pursuant to 18:981(A)(1)(C), 18:982(A)(2)(A), (B), And (A)(6), And 28:2461. (2)"
+        },
+        {
+          "charge_disposition": "Dft Pled Guilty. Sentence: Dft is Committed to Custody of Bop For 6 Months, to Run Consecutively to Count 3 For A Total of 30 Months. Supervised Release For A Term of 36 Months. no Fine. Restitution in The Amount of $107,879.00. $200 Spa."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A(a)(1)"
+        },
+        {
+          "charge_description": "18:1028A(a)(1) Fraud With Identification Documents/ Aggravated Identity Theft (3)"
+        },
+        {
+          "charge_disposition": "Dft Pled Guilty. Sentence: Dft is Committed to Custody of Bop For 24 Months. Supervised Release For A Term of 36 Months. no Fine. Restitution in The Amount of $107,879.00. $200 Spa."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 Bank Fraud/ Bank Fraud. 18:2 Aiding And Abetting. Forfeiture Pursuant to 18:981(A)(1)(C), 18:982(A)(2)(A),(B),And (A)(6), And 28:2461 (1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18"
+        },
+        {
+          "charge_description": "18 U.S.C. 1344 (Bank Fraud); 18 U.S.C. 1028a(A)(1) (Aggravated Identity Theft)"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dale A Kimball",
+          "judge_guid": "urn:entity:jud-100037389"
+        }
+      ]
+    }
+  ]
+}

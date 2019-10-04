@@ -1,0 +1,142 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_118cr126_VAED",
+  "case_key": "1:18cr126_VAED",
+  "case_lni": "5WN6-FF71-DXDT-G4CR-00000-00",
+  "case_number": "1:18cr126",
+  "case_title": "USA v. Boutaleb et al",
+  "case_info_full_case_name": "USA v. Boutaleb et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Boutaleb et al",
+  "case_date_filed": "2018-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Kimberly Riley Pedersen",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Yassine Nouredine Boutaleb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325(c) Marriage Fraud"
+        },
+        {
+          "charge_offence_description": "8:1325(c) Marriage Fraud"
+        },
+        {
+          "charge_description": "18:371 Conspiracy(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1546(a) and 2 Fraud and misuse of visas(2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8, United States Code, Sections 1325(c) and 2 Marriage fraud(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(h) Money Laundering Conspiracy FORFEITURE(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(a)(l)(A)(i) and 2 FORFEITURE(6-13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Claude M. Hilton",
+          "judge_guid": "urn:entity:jud-100034442"
+        }
+      ]
+    },
+    {
+      "party_name": "Ouafae Dardikh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 Conspiracy(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1546(a) and 2 Fraud and misuse of visas(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(h) Money Laundering Conspiracy FORFEITURE(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Claude M. Hilton",
+          "judge_guid": "urn:entity:jud-100034442"
+        }
+      ]
+    },
+    {
+      "party_name": "Tariq Azzedine Boutaleb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 Conspiracy(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(h) Money Laundering Conspiracy FORFEITURE(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Claude M. Hilton",
+          "judge_guid": "urn:entity:jud-100034442"
+        }
+      ]
+    }
+  ]
+}

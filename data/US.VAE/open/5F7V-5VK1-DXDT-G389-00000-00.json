@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_315po14_VAED",
+  "case_key": "3:15po14_VAED",
+  "case_lni": "5F7V-5VK1-DXDT-G389-00000-00",
+  "case_number": "3:15po14",
+  "case_title": "USA vs Frazier",
+  "case_info_full_case_name": "USA vs Frazier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Frazier",
+  "case_date_filed": "2015-02-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Tarik Frazier",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING AFTER FORFEITURE OF LICENSE (4007357)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVING WHILE SUSPENDED OR REVOKED (4007356)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Novak",
+          "judge_guid": "urn:entity:jud-100031335"
+        }
+      ]
+    }
+  ]
+}

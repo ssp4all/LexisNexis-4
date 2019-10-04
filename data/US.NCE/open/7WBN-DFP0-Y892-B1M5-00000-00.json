@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_701cr78_nced",
+  "case_key": "7:01cr78_nced",
+  "case_lni": "7WBN-DFP0-Y892-B1M5-00000-00",
+  "case_number": "7:01cr78",
+  "case_title": "USA v. Carmichael",
+  "case_info_full_case_name": "USA v. Carmichael",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carmichael",
+  "case_date_filed": "2001-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael James, Asst. ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERRY CARMICHAEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "W. Earl Britt",
+          "judge_guid": "urn:entity:jud-100064255"
+        }
+      ]
+    }
+  ]
+}

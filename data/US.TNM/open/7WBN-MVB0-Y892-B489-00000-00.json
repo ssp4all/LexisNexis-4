@@ -1,0 +1,79 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_307cr39_TNMD",
+  "case_key": "3:07cr39_TNMD",
+  "case_lni": "7WBN-MVB0-Y892-B489-00000-00",
+  "case_number": "3:07cr39",
+  "case_title": "USA v. Richardson",
+  "case_info_full_case_name": "USA v. Richardson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Richardson",
+  "case_date_filed": "2007-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Clay T. Lee",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Sunny A.M. Koshy"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas Jared Richardson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Felony Information 2/12/07: 21:846 Conspiracy to distribute and to possess with intent to distribute cocaine(1)"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Counts 1-3. Imprisonment for 84 months as to each count, to run concurrently. Remanded to custody. Five years supervised release as to Counts 1-2 and three years as to Count 3, to all run concurrently, with special conditions. $300 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Felony Information 2/12/07: 21:841(a)(1)  Possession with intent to distribute crack cocaine(2)"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Counts 1-3. Imprisonment for 84 months as to each count, to run concurrently. Remanded to custody. Five years supervised release as to Counts 1-2 and three years as to Count 3, to all run concurrently, with special conditions. $300 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Felony Information 2/12/07: 18:1956(h) and 18:2 Conspiracy to launder money with intent to promote drug trafficking(3)"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Counts 1-3. Imprisonment for 84 months as to each count, to run concurrently. Remanded to custody. Five years supervised release as to Counts 1-2 and three years as to Count 3, to all run concurrently, with special conditions. $300 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 18:2 Possession with intent to distribute 50 grams or more of crack cocaine"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Counts 1-3. Imprisonment for 84 months as to each count, to run concurrently. Remanded to custody. Five years supervised release as to Counts 1-2 and three years as to Count 3, to all run concurrently, with special conditions. $300 special assessment."
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and 18:2 Possession with intent to di"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Aleta A. Trauger",
+          "judge_guid": "urn:entity:jud-100006326"
+        }
+      ]
+    }
+  ]
+}

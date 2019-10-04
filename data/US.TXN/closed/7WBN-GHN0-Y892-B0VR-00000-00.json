@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_199m12_txnd",
+  "case_key": "1:99m12_txnd",
+  "case_lni": "7WBN-GHN0-Y892-B0VR-00000-00",
+  "case_number": "1:99m12",
+  "case_title": "USA v. Salvador-Monroy",
+  "case_info_full_case_name": "USA v. Salvador-Monroy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salvador-Monroy",
+  "case_date_filed": "1999-02-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE SALVADOR-MONROY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P 18:2"
+        },
+        {
+          "charge_description": "8:1325.P Improper entry by illegal alien and 18:2 aiding and abetting (1)"
+        },
+        {
+          "charge_disposition": "90 days to BOP for count 1 and 89 days for count 2, to run consecutively; no fine; no restitution; $10 each count, total of $20 MSA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1325.P 18:2"
+        },
+        {
+          "charge_description": "8:1325.P Improper entry by illegal alien and 18:2 aiding and abetting (2)"
+        },
+        {
+          "charge_disposition": "90 days to BOP for count 1 and 89 days for count 2, to run consecutively; no fine; no restitution; $10 each count, total of $20 MSA (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1324"
+        },
+        {
+          "charge_description": "8:1324 Transporting illegal aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Billy W Boone",
+          "judge_guid": "urn:entity:jud-100064740"
+        }
+      ]
+    }
+  ]
+}

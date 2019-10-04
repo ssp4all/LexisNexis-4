@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_405cr40020_SDD",
+  "case_key": "4:05cr40020_SDD",
+  "case_lni": "7WBN-NDK0-Y892-B4BT-00000-00",
+  "case_number": "4:05cr40020",
+  "case_title": "USA v. Doe",
+  "case_info_full_case_name": "USA v. Doe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Doe",
+  "case_date_filed": "2005-02-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jane Doe",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lawrence L. Piersol",
+          "judge_guid": "urn:entity:jud-100027874"
+        }
+      ]
+    }
+  ]
+}

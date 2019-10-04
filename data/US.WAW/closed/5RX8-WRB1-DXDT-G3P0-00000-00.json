@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_317cr5549_WAWD",
+  "case_key": "3:17cr5549_WAWD",
+  "case_lni": "5RX8-WRB1-DXDT-G3P0-00000-00",
+  "case_number": "3:17cr5549",
+  "case_title": "USA v. Donald",
+  "case_info_full_case_name": "USA v. Donald",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Donald",
+  "case_date_filed": "2017-12-05",
+  "case_status": "Closed",
+  "case_status_date": "03/19/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Magistrate Prosecutor Joint Base Lewis-McChord",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David L Donald",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, NEGLIGENT DRIVING 1ST DEGREE(1s)"
+        },
+        {
+          "charge_disposition": "plead guilty, $500 fine, $10 assessment due within 6 months"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, DRIVING UNDER THE INFLUENCE OF INTOXICATING LIQUOR OR DRUGS (LM025187)(1)"
+        },
+        {
+          "charge_disposition": "dismissed by superseding information"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - NO VALID OPERATOR'S LICENSE (LM025190)(2)"
+        },
+        {
+          "charge_disposition": "dismissed by superseding information"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - FAILURE TO MAINTAIN LANE (LM025188)(3)"
+        },
+        {
+          "charge_disposition": "dismissed by superseding information"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - SPEEDING (LM025189)(4)"
+        },
+        {
+          "charge_disposition": "dismissed by superseding information"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ]
+    }
+  ]
+}

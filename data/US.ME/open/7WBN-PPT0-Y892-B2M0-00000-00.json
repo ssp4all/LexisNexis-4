@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_106cr67_MED",
+  "case_key": "1:06cr67_MED",
+  "case_lni": "7WBN-PPT0-Y892-B2M0-00000-00",
+  "case_number": "1:06cr67",
+  "case_title": "USA v. ALEXANDER",
+  "case_info_full_case_name": "USA v. ALEXANDER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ALEXANDER",
+  "case_date_filed": "2006-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LARRY DEAN ALEXANDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USCsections 1791(a)(2), (b)(3), (c) (d)(1)(B) (d)(4)"
+        },
+        {
+          "charge_description": "TRAFFIC IN CONTRABAND ARTICLES-FIREARMS-Possession of Prison Contraband in violation of 18 U.S.C. sections 1791(a)(2), (b)(3), (c) and (d)(1)(B) and (d)(4) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "JOHN A. WOODCOCK, JR",
+          "judge_guid": "urn:entity:jud-100016690"
+        }
+      ]
+    }
+  ]
+}

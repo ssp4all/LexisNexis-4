@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_406mj3007_NED",
+  "case_key": "4:06mj3007_NED",
+  "case_lni": "7WBN-S3W0-Y892-B474-00000-00",
+  "case_number": "4:06mj3007",
+  "case_title": "USA v. Dominguez-Castro",
+  "case_info_full_case_name": "USA v. Dominguez-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dominguez-Castro",
+  "case_date_filed": "2006-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edy Daniel Dominguez-Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David L. Piester",
+          "judge_guid": "urn:entity:jud-100024476"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_516po296_CAED",
+  "case_key": "5:16po296_CAED",
+  "case_lni": "5KHN-9JW1-DXDT-G23X-00000-00",
+  "case_number": "5:16po296",
+  "case_title": "USA vs Paxton",
+  "case_info_full_case_name": "USA vs Paxton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Paxton",
+  "case_date_filed": "2016-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Torquil P Paxton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Camping Outside of Designated Sites or Areas (3959923)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer L. Thurston",
+          "judge_guid": "urn:entity:jud-100003777"
+        }
+      ]
+    }
+  ]
+}

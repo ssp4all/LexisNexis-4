@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_208mj3030_NJD",
+  "case_key": "2:08mj3030_NJD",
+  "case_lni": "7WBN-M0D0-Y892-B1YV-00000-00",
+  "case_number": "2:08mj3030",
+  "case_title": "USA v. SLAGLE",
+  "case_info_full_case_name": "USA v. SLAGLE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SLAGLE",
+  "case_date_filed": "2008-02-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JEREMY SLAGLE DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "18:2252A(a)(1)"
+        },
+        {
+          "charge_description": "18:2252A(a)(1) Activities re material constituting/containing child porno"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patty Shwartz",
+          "judge_guid": "urn:entity:jud-100104530"
+        }
+      ]
+    }
+  ]
+}

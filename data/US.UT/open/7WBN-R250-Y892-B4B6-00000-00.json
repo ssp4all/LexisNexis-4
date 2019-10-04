@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_200m77_utd",
+  "case_key": "2:00m77_utd",
+  "case_lni": "7WBN-R250-Y892-B4B6-00000-00",
+  "case_number": "2:00m77",
+  "case_title": "In re: 3678 S 500 E Apt 2A",
+  "case_info_full_case_name": "In re: 3678 S 500 E Apt 2A",
+  "case_info_short_case_name": null,
+  "case_info_party1": "3678 S 500 E Apt 2A",
+  "case_info_party2": null,
+  "case_date_filed": "2000-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "3678 S 500 E APARTMENT 2-A, SALT LAKE COUNTY, ",
+      "party_description": "In re",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ronald N. Boyce",
+          "judge_guid": "urn:entity:jud-100064568"
+        }
+      ]
+    }
+  ]
+}

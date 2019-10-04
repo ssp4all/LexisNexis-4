@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_101m2039_nywd",
+  "case_key": "1:01m2039_nywd",
+  "case_lni": "7WBN-DG50-Y892-B48K-00000-00",
+  "case_number": "1:01m2039",
+  "case_title": "USA v. Buster",
+  "case_info_full_case_name": "USA v. Buster",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Buster",
+  "case_date_filed": "2001-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MORRELL T. BUSTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:841(a)(1) 860(a) 1000"
+        },
+        {
+          "charge_description": "18:841(a)(1) and 860(a) did knowingly, intentionally and unlawfully possess with intent to distribute and distribute quantity of a mixture or substance containing cocaine base, a Schedule II controlled substance, within 1000 feet of a housing facility owned by a public housing authority"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Hugh B. Scott",
+          "judge_guid": "urn:entity:jud-100072666"
+        }
+      ]
+    }
+  ]
+}

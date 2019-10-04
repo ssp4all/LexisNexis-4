@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_504cr381_NCED",
+  "case_key": "5:04cr381_NCED",
+  "case_lni": "7WBN-NW40-Y892-B101-00000-00",
+  "case_number": "5:04cr381",
+  "case_title": "USA v. Stancil",
+  "case_info_full_case_name": "USA v. Stancil",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stancil",
+  "case_date_filed": "2004-12-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER STANCIL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 924"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924 Possession of a firearm by a felon (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(j) 924"
+        },
+        {
+          "charge_description": "18:922(j) &; 924 Possession of a stolen firearm (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

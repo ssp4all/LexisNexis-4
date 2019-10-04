@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_205cr5_NJD",
+  "case_key": "2:05cr5_NJD",
+  "case_lni": "7WBN-KNM0-Y892-B52D-00000-00",
+  "case_number": "2:05cr5",
+  "case_title": "USA v. MOSKOWITZ",
+  "case_info_full_case_name": "USA v. MOSKOWITZ",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MOSKOWITZ",
+  "case_date_filed": "2005-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHOLOM MOSKOWITZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7201 4/2000 10/2003)"
+        },
+        {
+          "charge_description": "26:7201 ATTEMPT TO EVADE OR DEFEAT INCOME TAX (dof 4/2000 to 10/2003) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7201 4/2000 10/2003)"
+        },
+        {
+          "charge_description": "26:7201 ATTEMPT TO EVADE OR DEFEAT INCOME TAX (dof 4/2000 to 10/2003) (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344 12/22/2000)"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (dof 12/22/2000) (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1014 1/99 1/02)"
+        },
+        {
+          "charge_description": "18:1014 FALSE STATEMENTS TO FINANCIAL INSTITUTION. (DOF 1/99 TO 1/02) (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William G. Bassler",
+          "judge_guid": "urn:entity:jud-100062150"
+        }
+      ]
+    }
+  ]
+}

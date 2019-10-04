@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412mj4082_AZD",
+  "case_key": "4:12mj4082_AZD",
+  "case_lni": "54RM-51X1-DXDT-G077-00000-00",
+  "case_number": "4:12mj4082",
+  "case_title": "USA v. Baquenado-Navarro et al",
+  "case_info_full_case_name": "USA v. Baquenado-Navarro et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baquenado-Navarro et al",
+  "case_date_filed": "2012-01-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Elvin Baquenado-Navarro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(2)(B)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii) Transportation of Illegal Aliens for Purpose of Private Financial Gain"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    },
+    {
+      "party_name": "Rudi Espinoza-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(2)(B)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii) Transportation of Illegal Aliens for Purpose of Private Financial Gain"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    },
+    {
+      "party_description": "material witness"
+    }
+  ]
+}

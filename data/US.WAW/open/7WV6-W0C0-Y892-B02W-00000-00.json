@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_209mj514_WAWD",
+  "case_key": "2:09mj514_WAWD",
+  "case_lni": "7WV6-W0C0-Y892-B02W-00000-00",
+  "case_number": "2:09mj514",
+  "case_title": "USA v. Sloan",
+  "case_info_full_case_name": "USA v. Sloan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sloan",
+  "case_date_filed": "2009-10-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aaron Jermaine Sloan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPTED BANK ROBBERY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Mary Alice Theiler",
+          "judge_guid": "urn:entity:jud-100019205"
+        }
+      ]
+    }
+  ]
+}

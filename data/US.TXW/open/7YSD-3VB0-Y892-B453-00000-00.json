@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_610cr111_TXWD",
+  "case_key": "6:10cr111_TXWD",
+  "case_lni": "7YSD-3VB0-Y892-B453-00000-00",
+  "case_number": "6:10cr111",
+  "case_title": "USA v. Sealed",
+  "case_info_full_case_name": "USA v. Sealed",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sealed",
+  "case_date_filed": "2010-05-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joni Lynn Goin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028A.F"
+        },
+        {
+          "charge_description": "18:1028A.F FRAUD WITH IDENTIFICATION DOCUMENTS--Possession with Intent to Use or Transfer Five or More United States Government Identification Documents (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Walter S. Smith",
+          "judge_guid": "urn:entity:jud-100020612"
+        }
+      ]
+    }
+  ]
+}

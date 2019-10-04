@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_206cr815_AZD",
+  "case_key": "2:06cr815_AZD",
+  "case_lni": "7WBN-R7T0-Y892-B083-00000-00",
+  "case_number": "2:06cr815",
+  "case_title": "USA v. Morales-Valencia",
+  "case_info_full_case_name": "USA v. Morales-Valencia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales-Valencia",
+  "case_date_filed": "2006-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rafael Morales-Valencia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a) and Enhanced by (b)(2)-Reentry After Deportation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a) and enhanced by (b)(2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Neil V Wake",
+          "judge_guid": "urn:entity:jud-100005782"
+        }
+      ]
+    }
+  ]
+}

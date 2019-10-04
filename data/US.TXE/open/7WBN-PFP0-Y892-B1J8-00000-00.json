@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_903m6_txed",
+  "case_key": "9:03m6_txed",
+  "case_lni": "7WBN-PFP0-Y892-B1J8-00000-00",
+  "case_number": "9:03m6",
+  "case_title": "USA v. Coleman",
+  "case_info_full_case_name": "USA v. Coleman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Coleman",
+  "case_date_filed": "2003-05-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PHILLIP DANIEL COLEMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CRIMINAL COMPLAINT: Conspiracy with intent to distribute more than five kilograms of cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Judith K. Guthrie",
+          "judge_guid": "urn:entity:jud-100042070"
+        }
+      ]
+    }
+  ]
+}

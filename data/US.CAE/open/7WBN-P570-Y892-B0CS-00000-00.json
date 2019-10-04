@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_602cr8022_caed",
+  "case_key": "6:02cr8022_caed",
+  "case_lni": "7WBN-P570-Y892-B0CS-00000-00",
+  "case_number": "6:02cr8022",
+  "case_title": "USA v. Curtice",
+  "case_info_full_case_name": "USA v. Curtice",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Curtice",
+  "case_date_filed": "2002-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KEITH J CURTICE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "43CFR8341.1(d)/CVC 14601.1(a)"
+        },
+        {
+          "charge_description": "43 CFR 8341.1(d)/CVC 14601.1(a) SUSPENDED LICENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "43CFR8365.1-4(b)(2)POSSESSION"
+        },
+        {
+          "charge_description": "43 CFR 8365.1-4(b)(2)POSSESSION CONTROLLED SUBSTANCE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hollis G Best",
+          "judge_guid": "urn:entity:jud-100016691"
+        }
+      ]
+    }
+  ]
+}

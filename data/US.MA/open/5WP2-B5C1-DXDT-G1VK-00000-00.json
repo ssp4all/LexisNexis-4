@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_119mj7350_MAD",
+  "case_key": "1:19mj7350_MAD",
+  "case_lni": "5WP2-B5C1-DXDT-G1VK-00000-00",
+  "case_number": "1:19mj7350",
+  "case_title": "USA v. Arias",
+  "case_info_full_case_name": "USA v. Arias",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arias",
+  "case_date_filed": "2019-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Crishanty Aybar Arias",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. ยง 841(a)(1) - Possession With Intent to Distribute Fentanyl"
+        },
+        {
+          "charge_offence_description": "21 U.S.C. &#167; 841(a)(1) - Possession With Inten"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C. Boal",
+          "judge_guid": "urn:entity:jud-100075407"
+        }
+      ]
+    }
+  ]
+}

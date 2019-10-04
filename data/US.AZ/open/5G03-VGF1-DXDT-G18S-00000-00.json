@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_215cr564_AZD",
+  "case_key": "2:15cr564_AZD",
+  "case_lni": "5G03-VGF1-DXDT-G18S-00000-00",
+  "case_number": "2:15cr564",
+  "case_title": "USA v. Corrales-Estrada",
+  "case_info_full_case_name": "USA v. Corrales-Estrada",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Corrales-Estrada",
+  "case_date_filed": "2015-05-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fernanda Carolina Escalante",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Calixto Corrales-Estrada",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)&;(b)(1) - Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the custody of BOP for a term of THIRTY-SEVEN (37) MONTHS, with credit for time served, followed by Supervised Release for THREE (3) YEARS. Special Assessment: $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "G Murray Snow",
+          "judge_guid": "urn:entity:jud-100020555"
+        }
+      ]
+    }
+  ]
+}

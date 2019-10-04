@@ -1,0 +1,73 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_317cr5544_WAWD",
+  "case_key": "3:17cr5544_WAWD",
+  "case_lni": "5RM0-K6S1-DXDT-G0YC-00000-00",
+  "case_number": "3:17cr5544",
+  "case_title": "USA v. Ruiz",
+  "case_info_full_case_name": "USA v. Ruiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ruiz",
+  "case_date_filed": "2017-12-05",
+  "case_status": "Closed",
+  "case_status_date": "02/09/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Magistrate Prosecutor Joint Base Lewis-McChord",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Matthew D Ruiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - NO FUNCTIONING IGNITION INTERLOCK (LM026280)(1)"
+        },
+        {
+          "charge_disposition": "Case DISMISSED at Govn't request"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - ILLEGIBLE LICENSE PLATE (LM026278)(2)"
+        },
+        {
+          "charge_disposition": "Case DISMISSED at Govn't request"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - FAILURE TO SIGNAL (LM026279)(3)"
+        },
+        {
+          "charge_disposition": "Case DISMISSED at Govn't request"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - NO VALID OPERATOR'S LICENSE (LM026281)(4)"
+        },
+        {
+          "charge_disposition": "Case DISMISSED at Govn't request"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ]
+    }
+  ]
+}

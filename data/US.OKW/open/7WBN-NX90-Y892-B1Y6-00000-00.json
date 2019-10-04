@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_505mj70_OKWD",
+  "case_key": "5:05mj70_OKWD",
+  "case_lni": "7WBN-NX90-Y892-B1Y6-00000-00",
+  "case_number": "5:05mj70",
+  "case_title": "United States of America v. Woodmansee",
+  "case_info_full_case_name": "United States of America v. Woodmansee",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Woodmansee",
+  "case_date_filed": "2005-03-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tressie Elizabeth Woodmansee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F Conspiracy to possess with intent to distribute and to distribute methamphetamine, a Schedule II controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary M. Purcell",
+          "judge_guid": "urn:entity:jud-100031980"
+        }
+      ]
+    }
+  ]
+}

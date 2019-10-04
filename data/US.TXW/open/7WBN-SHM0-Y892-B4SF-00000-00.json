@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_704m28_txwd",
+  "case_key": "7:04m28_txwd",
+  "case_lni": "7WBN-SHM0-Y892-B4SF-00000-00",
+  "case_number": "7:04m28",
+  "case_title": "USA v. Hunnicutt",
+  "case_info_full_case_name": "USA v. Hunnicutt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hunnicutt",
+  "case_date_filed": "2004-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRANDON LEE HUNNICUTT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26, 2004"
+        },
+        {
+          "charge_description": "On or about January 26, 2004 in Midland County, In the Western District of Texs, defendant who having previously been convicted of crimes punishiable by imprisonment for a term exceeding one year, did knowinly possess a firearm in violation of Title 18 USC 922(g)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Stephen H. Capelle",
+          "judge_guid": "urn:entity:jud-100035944"
+        }
+      ]
+    }
+  ]
+}

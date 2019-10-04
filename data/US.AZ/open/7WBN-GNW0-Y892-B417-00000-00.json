@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_204m9301_AZD",
+  "case_key": "2:04m9301_AZD",
+  "case_lni": "7WBN-GNW0-Y892-B417-00000-00",
+  "case_number": "2:04m9301",
+  "case_title": "USA, et al v. Hernandez-Sanchez",
+  "case_info_full_case_name": "USA, et al v. Hernandez-Sanchez",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Hernandez-Sanchez",
+  "case_date_filed": "2004-09-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAFAEL ANTONIO HERNANDEZ-SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960 936, 21:841(a)(1),"
+        },
+        {
+          "charge_description": "21:952, 960 and 936, Importation of a Controlled Substance; 21:841(a)(1), Possession with Intent to Distribute a Controlled Substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

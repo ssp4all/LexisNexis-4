@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_313mj3408_CASD",
+  "case_key": "3:13mj3408_CASD",
+  "case_lni": "59B8-2JK1-DXDT-G1F8-00000-00",
+  "case_number": "3:13mj3408",
+  "case_title": "USA v. Blackberry, Curve 9310, Black, Model: REY21CW, MEID/DEC: 268435459801233076",
+  "case_info_full_case_name": "USA v. Blackberry, Curve 9310, Black, Model: REY21CW, MEID/DEC: 268435459801233076",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blackberry, Curve 9310, Black, Model: REY21CW, MEID/DEC: 268435459801233076",
+  "case_date_filed": "2013-09-10",
+  "case_status": "Closed",
+  "case_status_date": "09/10/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Blackberry, Curve 9310, Black, Model: REY21CW, MEID/DEC: 268435459801233076",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David H. Bartick",
+          "judge_guid": "urn:entity:jud-100100980"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_414mj17_TXWD",
+  "case_key": "4:14mj17_TXWD",
+  "case_lni": "5B74-S1H1-DXDT-G4VC-00000-00",
+  "case_number": "4:14mj17",
+  "case_title": "USA v. Villa-Morales",
+  "case_info_full_case_name": "USA v. Villa-Morales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Villa-Morales",
+  "case_date_filed": "2014-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA Pecos",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Manuel Villa-Morales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B2.F"
+        },
+        {
+          "charge_offence_description": "8:1326B2.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "B. Dwight Goains",
+          "judge_guid": "urn:entity:jud-100049003"
+        }
+      ]
+    }
+  ]
+}

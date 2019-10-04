@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_118mj349_VAED",
+  "case_key": "1:18mj349_VAED",
+  "case_lni": "5STN-JSB1-DXDT-G0X0-00000-00",
+  "case_number": "1:18mj349",
+  "case_title": "USA v. Ofori-Yentumi",
+  "case_info_full_case_name": "USA v. Ofori-Yentumi",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ofori-Yentumi",
+  "case_date_filed": "2018-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeremy Edgar Ofori-Yentumi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1542 False statement in application and use of passport"
+        },
+        {
+          "charge_offence_description": "18:1542 False statement in application and use of "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael S. Nachmanoff",
+          "judge_guid": "urn:entity:jud-100112063"
+        }
+      ]
+    }
+  ]
+}

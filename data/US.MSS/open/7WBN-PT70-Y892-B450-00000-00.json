@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_109cr57_MSSD",
+  "case_key": "1:09cr57_MSSD",
+  "case_lni": "7WBN-PT70-Y892-B450-00000-00",
+  "case_number": "1:09cr57",
+  "case_title": "USA v. Bond",
+  "case_info_full_case_name": "USA v. Bond",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bond",
+  "case_date_filed": "2009-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Lee Bond, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "37 months in the custody of BOP; 3 years supervised release; $5,000 fine; $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert H. Walker",
+          "judge_guid": "urn:entity:jud-100081078"
+        }
+      ]
+    },
+    {
+      "party_name": "Probation Gulfport",
+      "party_description": "Interested Party"
+    }
+  ]
+}

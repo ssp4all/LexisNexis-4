@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_108cr656_NYND",
+  "case_key": "1:08cr656_NYND",
+  "case_lni": "7WBN-JT20-Y892-B28H-00000-00",
+  "case_number": "1:08cr656",
+  "case_title": "USA v. SCOTT MILLAR",
+  "case_info_full_case_name": "USA v. SCOTT MILLAR",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SCOTT MILLAR",
+  "case_date_filed": "2008-10-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Scott Millar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas J. McAvoy",
+          "judge_guid": "urn:entity:jud-100028568"
+        }
+      ]
+    }
+  ]
+}

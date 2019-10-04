@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_418cr395_TXSD",
+  "case_key": "4:18cr395_TXSD",
+  "case_lni": "5STJ-W261-DXDT-G4KT-00000-00",
+  "case_number": "4:18cr395",
+  "case_title": "USA v. Pineda et al",
+  "case_info_full_case_name": "USA v. Pineda et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pineda et al",
+  "case_date_filed": "2018-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Azilea Olivia Pineda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lee H Rosenthal",
+          "judge_guid": "urn:entity:jud-100011616"
+        }
+      ]
+    },
+    {
+      "party_name": "Carla Solis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lee H Rosenthal",
+          "judge_guid": "urn:entity:jud-100011616"
+        }
+      ]
+    }
+  ]
+}

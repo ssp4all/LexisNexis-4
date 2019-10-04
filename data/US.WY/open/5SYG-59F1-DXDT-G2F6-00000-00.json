@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_518po559_WYD",
+  "case_key": "5:18po559_WYD",
+  "case_lni": "5SYG-59F1-DXDT-G2F6-00000-00",
+  "case_number": "5:18po559",
+  "case_title": "USA v. Zhou",
+  "case_info_full_case_name": "USA v. Zhou",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zhou",
+  "case_date_filed": "2018-08-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bo Zhou",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violating a provision of State law is prohibited; WS 31-4-103(b) - Failure to provide proof of insurance (6023577)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Fail to maintain that degree of control of mot veh necessary to avoid danger (6023576)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

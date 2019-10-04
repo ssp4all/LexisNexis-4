@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_211mj24_CAED",
+  "case_key": "2:11mj24_CAED",
+  "case_lni": "5216-DM31-DXDT-G54T-00000-00",
+  "case_number": "2:11mj24",
+  "case_title": "USA v. Rodriguez-Huerta",
+  "case_info_full_case_name": "USA v. Rodriguez-Huerta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Huerta",
+  "case_date_filed": "2011-01-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Guadalupe Rodriguez-Huerta",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DEPORTED ALIEN FOUND IN UNITED STATES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dale A. Drozd",
+          "judge_guid": "urn:entity:jud-100044182"
+        }
+      ]
+    }
+  ]
+}

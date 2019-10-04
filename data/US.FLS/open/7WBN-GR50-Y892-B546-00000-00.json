@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_206cr14048_FLSD",
+  "case_key": "2:06cr14048_FLSD",
+  "case_lni": "7WBN-GR50-Y892-B546-00000-00",
+  "case_number": "2:06cr14048",
+  "case_title": "USA v. Brumley",
+  "case_info_full_case_name": "USA v. Brumley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brumley",
+  "case_date_filed": "2006-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Diana Margarita Acosta, AUSA",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM SHANE BRUMLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:668D.M"
+        },
+        {
+          "charge_description": "16:668D.M NATIONAL WILDLIFE REFUGE SYSTEM (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jose E. Martinez",
+          "judge_guid": "urn:entity:jud-100041490"
+        }
+      ]
+    }
+  ]
+}

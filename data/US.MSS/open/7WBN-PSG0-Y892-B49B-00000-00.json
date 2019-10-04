@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_108mj25_MSSD",
+  "case_key": "1:08mj25_MSSD",
+  "case_lni": "7WBN-PSG0-Y892-B49B-00000-00",
+  "case_number": "1:08mj25",
+  "case_title": "USA v. Lebo",
+  "case_info_full_case_name": "USA v. Lebo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lebo",
+  "case_date_filed": "2008-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John Wayne Lebo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MILITARY OR NAVAL DISCHARGE CERTIFICATES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "MILITARY MEDALS OR DECORATIONS (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "18:498.M"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John M. Roper",
+          "judge_guid": "urn:entity:jud-100011748"
+        }
+      ]
+    }
+  ]
+}

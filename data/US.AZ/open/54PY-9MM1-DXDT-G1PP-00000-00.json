@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_212mj3042_AZD",
+  "case_key": "2:12mj3042_AZD",
+  "case_lni": "54PY-9MM1-DXDT-G1PP-00000-00",
+  "case_number": "2:12mj3042",
+  "case_title": "USA v. Entzin-Lopez",
+  "case_info_full_case_name": "USA v. Entzin-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Entzin-Lopez",
+  "case_date_filed": "2012-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arturo Entzin-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a), (b)(1)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a), enhanced by (b)(1)-Reentry of Removed Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_115cr281_HID",
+  "case_key": "1:15cr281_HID",
+  "case_lni": "5FTV-7YH1-DXDT-G55N-00000-00",
+  "case_number": "1:15cr281",
+  "case_title": "USA v. Grant",
+  "case_info_full_case_name": "USA v. Grant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grant",
+  "case_date_filed": "2015-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joshua D. Grant",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, DRIVING WITH CANCELED, SUSPENDED OR REVOKED DRIVER'S LICENSE; 18:13, HRS 286-132; Marine Corps Base Hawaii, Kaneohe Bay, HI; 3/3/2015; 1245953 H30(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "RICHARD L. PUGLISI",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    }
+  ]
+}

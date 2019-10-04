@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_202m5264_azd",
+  "case_key": "2:02m5264_azd",
+  "case_lni": "7WBN-R3T0-Y892-B3S3-00000-00",
+  "case_number": "2:02m5264",
+  "case_title": "USA, et al v. Brown",
+  "case_info_full_case_name": "USA, et al v. Brown",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Brown",
+  "case_date_filed": "2002-10-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES WARREN BROWN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(3:94-00011"
+        },
+        {
+          "charge_description": "Probation Violation (3:94-00011 Judge Nixon)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Morton Sitver",
+          "judge_guid": "urn:entity:jud-100022488"
+        }
+      ]
+    }
+  ]
+}

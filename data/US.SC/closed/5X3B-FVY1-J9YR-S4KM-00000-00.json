@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_219cr791_SCD",
+  "case_key": "2:19cr791_SCD",
+  "case_lni": "5X3B-FVY1-J9YR-S4KM-00000-00",
+  "case_number": "2:19cr791",
+  "case_title": "USA v. Stinnett",
+  "case_info_full_case_name": "USA v. Stinnett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stinnett",
+  "case_date_filed": "2019-09-24",
+  "case_status": "Closed",
+  "case_status_date": "09/24/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Russell Stinnett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1343.F - FRAUD BY WIRE, RADIO, OR TELEVISION"
+        },
+        {
+          "charge_offence_description": "18:1343.F - FRAUD BY WIRE, RADIO, OR TELEVISION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bristow Marchant",
+          "judge_guid": "urn:entity:jud-100029031"
+        }
+      ]
+    }
+  ]
+}

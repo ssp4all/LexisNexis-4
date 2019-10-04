@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_198cr221_ncmd",
+  "case_key": "1:98cr221_ncmd",
+  "case_lni": "7WBN-K6G0-Y892-B2KH-00000-00",
+  "case_number": "1:98cr221",
+  "case_title": "USA v. CAMPBELL",
+  "case_info_full_case_name": "USA v. CAMPBELL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CAMPBELL",
+  "case_date_filed": "1998-08-05",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOUGLAS CAMPBELL, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113A.F"
+        },
+        {
+          "charge_description": "18:2113A.F BANK ROBBERY BY FORCE OR VIOLENCE (1)"
+        },
+        {
+          "charge_disposition": "120 months imprisonment, to run concurrently in 1:98CR176-1 and 1:98CR216-1 thru 1:98CR223-1; 3 years supervised release, to run concurrently in 1:98CR176-1 and 1:98CR216-1 thru 1:98CR223-1; $100 special assessment; $5956 restitution (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "N. CARLTON TILLEY, JR.",
+          "judge_guid": "urn:entity:jud-100014675"
+        }
+      ]
+    }
+  ]
+}

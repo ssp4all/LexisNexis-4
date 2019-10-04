@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_402cr409_azd",
+  "case_key": "4:02cr409_azd",
+  "case_lni": "7WBN-N9S0-Y892-B4BP-00000-00",
+  "case_number": "4:02cr409",
+  "case_title": "USA v. Vasquez-De La Torre",
+  "case_info_full_case_name": "USA v. Vasquez-De La Torre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasquez-De La Torre",
+  "case_date_filed": "2002-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Russell Marsh",
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LUIS VASQUEZ-DE LA TORRE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-8:1326"
+        },
+        {
+          "charge_description": "Count 1-8:1326 Re-entry after Deportation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John M Roll",
+          "judge_guid": "urn:entity:jud-100025388"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

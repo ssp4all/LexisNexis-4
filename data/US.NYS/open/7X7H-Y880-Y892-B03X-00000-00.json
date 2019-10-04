@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_109mj2602_NYSD",
+  "case_key": "1:09mj2602_NYSD",
+  "case_lni": "7X7H-Y880-Y892-B03X-00000-00",
+  "case_number": "1:09mj2602",
+  "case_title": "USA v. Lara Ruiz",
+  "case_info_full_case_name": "USA v. Lara Ruiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lara Ruiz",
+  "case_date_filed": "2009-12-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Luis Lara Ruiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028:FRAUD"
+        },
+        {
+          "charge_description": "18:1028:FRAUD WITH IDENTIFICATION DOCUMENTS."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_812cr364_MDD",
+  "case_key": "8:12cr364_MDD",
+  "case_lni": "562J-8K21-DXDT-G24W-00000-00",
+  "case_number": "8:12cr364",
+  "case_title": "USA v. Hardie",
+  "case_info_full_case_name": "USA v. Hardie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hardie",
+  "case_date_filed": "2012-06-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Ann Marie O Brien",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Darrell K. Hardie",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:111(a)"
+        },
+        {
+          "charge_description": "18:111(a) Simple Assault (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:111(a)"
+        },
+        {
+          "charge_description": "18:111(a) Simple Assault"
+        },
+        {
+          "charge_disposition": "5 Months Imprisonment, 1 Year Supervised Release with Special Conditions, Special Assessment $25.00, Processing Fee $25.00 and Fine of $5,000.00"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Peter J. Messitte",
+          "judge_guid": "urn:entity:jud-100025977"
+        }
+      ]
+    }
+  ]
+}

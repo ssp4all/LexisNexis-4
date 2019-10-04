@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_317cr8109_AZD",
+  "case_key": "3:17cr8109_AZD",
+  "case_lni": "5NK7-P061-DXDT-G3BH-00000-00",
+  "case_number": "3:17cr8109",
+  "case_title": "USA v. Estrada-Enriques",
+  "case_info_full_case_name": "USA v. Estrada-Enriques",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada-Enriques",
+  "case_date_filed": "2017-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Natalie Blair Huddleston",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gabriel Estrada-Enriques",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and (b)(1) - Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven P Logan",
+          "judge_guid": "urn:entity:jud-100003811"
+        }
+      ]
+    }
+  ]
+}

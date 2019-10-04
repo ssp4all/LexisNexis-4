@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_201cr39_azd",
+  "case_key": "2:01cr39_azd",
+  "case_lni": "7WBN-GJX0-Y892-B2HY-00000-00",
+  "case_number": "2:01cr39",
+  "case_title": "USA, et al v. Lopez-Herrera",
+  "case_info_full_case_name": "USA, et al v. Lopez-Herrera",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Lopez-Herrera",
+  "case_date_filed": "2001-01-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LOPEZ-HERRERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a), (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a), (b)(2) Reentry after Deportation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen M McNamee",
+          "judge_guid": "urn:entity:jud-100065660"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_307cr2500_CASD",
+  "case_key": "3:07cr2500_CASD",
+  "case_lni": "7WBN-RS90-Y892-B2FD-00000-00",
+  "case_number": "3:07cr2500",
+  "case_title": "USA v. Corrao",
+  "case_info_full_case_name": "USA v. Corrao",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Corrao",
+  "case_date_filed": "2007-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shawn Allen Corrao",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324 (a)(2)(B)(iii); 18:2-Bringing"
+        },
+        {
+          "charge_description": "8:1324 (a)(2)(B)(iii); 18:2-Bringing in Illegal aliens without presentation and Aiding and Abetting (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(2)(B)(iii)-Bringing"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(iii)-Bringing in Illegal Aliens without Presentation (Felony)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Irma E. Gonzalez",
+          "judge_guid": "urn:entity:jud-100042724"
+        }
+      ]
+    },
+    {
+      "party_name": "Norma Dominguez-Cabadilla",
+      "party_description": "material witness"
+    }
+  ]
+}

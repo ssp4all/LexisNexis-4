@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_107mj524_NMD",
+  "case_key": "1:07mj524_NMD",
+  "case_lni": "7WBN-JRR0-Y892-B42C-00000-00",
+  "case_number": "1:07mj524",
+  "case_title": "USA v. Rogers",
+  "case_info_full_case_name": "USA v. Rogers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rogers",
+  "case_date_filed": "2007-03-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Rogers",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1):"
+        },
+        {
+          "charge_description": "21:841(a)(1): Distribute a Controlled Substance, to wit: Methamphetamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert Hayes Scott",
+          "judge_guid": "urn:entity:jud-100026631"
+        }
+      ]
+    }
+  ]
+}

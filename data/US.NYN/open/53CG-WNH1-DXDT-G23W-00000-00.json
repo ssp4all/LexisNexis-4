@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_811mj317_NYND",
+  "case_key": "8:11mj317_NYND",
+  "case_lni": "53CG-WNH1-DXDT-G23W-00000-00",
+  "case_number": "8:11mj317",
+  "case_title": "USA v. Duder",
+  "case_info_full_case_name": "USA v. Duder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Duder",
+  "case_date_filed": "2011-07-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John E Duder",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P-illegal"
+        },
+        {
+          "charge_description": "8:1325.P-illegal entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Larry A. Kudrle",
+          "judge_guid": "urn:entity:jud-100017769"
+        }
+      ]
+    }
+  ]
+}

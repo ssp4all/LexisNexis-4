@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_197cr70_ilnd",
+  "case_key": "1:97cr70_ilnd",
+  "case_lni": "7WBN-K5G0-Y892-B3MR-00000-00",
+  "case_number": "1:97cr70",
+  "case_title": "USA v. Patel",
+  "case_info_full_case_name": "USA v. Patel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Patel",
+  "case_date_filed": "1997-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BHARAT PATEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 8:1324(a)(1)(A)(iv)"
+        },
+        {
+          "charge_description": "18:371 and 8:1324(a)(1)(A)(iv) conspire to smuggle an alien into the U.S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Edward A. Bobrick",
+          "judge_guid": "urn:entity:jud-100036037"
+        }
+      ]
+    }
+  ]
+}

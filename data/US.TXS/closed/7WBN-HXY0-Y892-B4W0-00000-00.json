@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_592m162_txsd",
+  "case_key": "5:92m162_txsd",
+  "case_lni": "7WBN-HXY0-Y892-B4W0-00000-00",
+  "case_number": "5:92m162",
+  "case_title": "USA v. Hernandez-Garcia",
+  "case_info_full_case_name": "USA v. Hernandez-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Garcia",
+  "case_date_filed": "1992-08-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MIGUEL HERNANDEZ-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2nd"
+        },
+        {
+          "charge_description": "Unlawfully enter the United States, 2nd Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

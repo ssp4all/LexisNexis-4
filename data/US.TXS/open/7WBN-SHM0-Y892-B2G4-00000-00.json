@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_702cr872_txsd",
+  "case_key": "7:02cr872_txsd",
+  "case_lni": "7WBN-SHM0-Y892-B2G4-00000-00",
+  "case_number": "7:02cr872",
+  "case_title": "USA v. Moreno-DeLeon",
+  "case_info_full_case_name": "USA v. Moreno-DeLeon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-DeLeon",
+  "case_date_filed": "2002-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAMON MORENO-DELEON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "100 272 21,USC841(a)(1) 841(b)(1)(B); 12/10/02; 5 40 4"
+        },
+        {
+          "charge_description": "Possession w/intent to dist more than 100 kilogs of marijuana that is approx 272 kilogs of marijuana; Title 21, USC 841(a)(1) &; 841(b)(1)(B); Offense date: 12/10/02; Penalty: Imprisonment for 5 yrs to 40 yrs and/or a $2,000,000 fine &; at least a 4 yr SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession w/intent to dist marijuana [7:02-m-3393]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

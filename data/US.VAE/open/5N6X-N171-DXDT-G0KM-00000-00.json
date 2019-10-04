@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117po783_VAED",
+  "case_key": "1:17po783_VAED",
+  "case_lni": "5N6X-N171-DXDT-G0KM-00000-00",
+  "case_number": "1:17po783",
+  "case_title": "USA vs Kopelen",
+  "case_info_full_case_name": "USA vs Kopelen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kopelen",
+  "case_date_filed": "2017-03-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Paul A Kopelen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "EXCEEDING MAXIMUM SPEED LIMITS (VA01B04F)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F. Anderson",
+          "judge_guid": "urn:entity:jud-100074444"
+        }
+      ]
+    }
+  ]
+}

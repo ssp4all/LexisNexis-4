@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_299m2085_innd",
+  "case_key": "2:99m2085_innd",
+  "case_lni": "7WBN-H360-Y892-B1NF-00000-00",
+  "case_number": "2:99m2085",
+  "case_title": "USA v. Strong",
+  "case_info_full_case_name": "USA v. Strong",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Strong",
+  "case_date_filed": "1999-08-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES STRONG, JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a) 18USC924(c) 2-distribute"
+        },
+        {
+          "charge_description": "21 USC 841(a) and 18 USC 924(c) and 2-distribute a controlled substance, to wit: crack cocaine base, and possess a firearm in furtherance of drug trafficking"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Theresa L Springmann",
+          "judge_guid": "urn:entity:jud-100014544"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412po23052_AZD",
+  "case_key": "4:12po23052_AZD",
+  "case_lni": "5537-WV81-DXDT-G07T-00000-00",
+  "case_number": "4:12po23052",
+  "case_title": "USA v. Duran-Ruiz",
+  "case_info_full_case_name": "USA v. Duran-Ruiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Duran-Ruiz",
+  "case_date_filed": "2012-03-01",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ivan Ariel Duran-Ruiz",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

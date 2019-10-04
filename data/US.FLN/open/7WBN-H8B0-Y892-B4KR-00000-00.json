@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_306mj249_FLND",
+  "case_key": "3:06mj249_FLND",
+  "case_lni": "7WBN-H8B0-Y892-B4KR-00000-00",
+  "case_number": "3:06mj249",
+  "case_title": "USA v. LAW",
+  "case_info_full_case_name": "USA v. LAW",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LAW",
+  "case_date_filed": "2006-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JOHANNA AILEEN ASTLE",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSHUA D LAW",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MISCELLANEOUS GENERAL OFFENSES, OTHER (resisting with violence by refusing to obey officers, being combative, and threatening the lives of the officers) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, DRUNKEN DRIVING (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "MISCELLANEOUS GENERAL OFFENSES, OTHER (refusal to submit to breath test) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE JUDGE",
+          "judge_name": "ELIZABETH M TIMOTHY",
+          "judge_guid": "urn:entity:jud-100024046"
+        }
+      ]
+    }
+  ]
+}

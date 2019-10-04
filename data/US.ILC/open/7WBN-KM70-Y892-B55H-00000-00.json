@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_204m7214_ILCD",
+  "case_key": "2:04m7214_ILCD",
+  "case_lni": "7WBN-KM70-Y892-B55H-00000-00",
+  "case_number": "2:04m7214",
+  "case_title": "USA v. Vorties",
+  "case_info_full_case_name": "USA v. Vorties",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vorties",
+  "case_date_filed": "2004-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Colin S Bruce",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID W. VORTIES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "6, 2003, (\"crack\") 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "On or about July 6, 2003, did knowingly possess fifty or more grams of cocaine base (\"crack\") with the intent to distribute in violation of 21 USC 841(a)(1) and (b)(1)(A)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "David G. Bernthal",
+          "judge_guid": "urn:entity:jud-100061640"
+        }
+      ]
+    }
+  ]
+}

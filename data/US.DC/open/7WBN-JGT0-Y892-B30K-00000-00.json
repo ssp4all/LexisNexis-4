@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_103m553_dcd",
+  "case_key": "1:03m553_dcd",
+  "case_lni": "7WBN-JGT0-Y892-B30K-00000-00",
+  "case_number": "1:03m553",
+  "case_title": "USA v. MANAGO",
+  "case_info_full_case_name": "USA v. MANAGO",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MANAGO",
+  "case_date_filed": "2003-10-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LYNIEL D. MANAGO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18 21:922(g)91); 841(a)(1);"
+        },
+        {
+          "charge_description": "Complaint filed in violation of 18 &; 21:922(g)91); 841(a)(1); and 924(c)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Deborah A. Robinson",
+          "judge_guid": "urn:entity:jud-100001722"
+        }
+      ]
+    }
+  ]
+}

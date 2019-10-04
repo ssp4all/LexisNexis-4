@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416po24279_AZD",
+  "case_key": "4:16po24279_AZD",
+  "case_lni": "5JP5-67T1-DXDT-G564-00000-00",
+  "case_number": "4:16po24279",
+  "case_title": "USA v. Castro-Montes",
+  "case_info_full_case_name": "USA v. Castro-Montes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castro-Montes",
+  "case_date_filed": "2016-05-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Niceforo Castro-Montes",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

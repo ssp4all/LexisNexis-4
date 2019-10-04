@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_205cr113_NDD",
+  "case_key": "2:05cr113_NDD",
+  "case_lni": "7WBN-DMG0-Y892-B4G2-00000-00",
+  "case_number": "2:05cr113",
+  "case_title": "USA v. Werkhoven",
+  "case_info_full_case_name": "USA v. Werkhoven",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Werkhoven",
+  "case_date_filed": "2005-09-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David C Werkhoven",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) &; 924(a)(2) - POSSESSION OF FIREARMS, re rifles, by a convicted felon, who has four previous felony convictions. --- (18:922G.F UNLAWFUL TRANSPORT FIREARMS, ETC)(1)"
+        },
+        {
+          "charge_disposition": "51 Months Imprisonment; 3 Years Supervised Release with usual &; special conditions; $200 Special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(3) &; 924(a)(2) - POSSESSION OF FIREARMS by an unlawful user of a controlled substance as defined in 21:802. --- (18:922G.F UNLAWFUL TRANSPORT FIREARMS, ETC)(3)"
+        },
+        {
+          "charge_disposition": "51 Months Imprisonment; 3 Years Supervised Release with usual &; special conditions; $200 Special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) &; 924(a)(2) - POSSESSION OF AMMUNITION, by a convicted felon, who has four previous felony convictions. --- (18:922G.F UNLAWFUL TRANSPORT FIREARMS, ETC)(2)"
+        },
+        {
+          "charge_disposition": "Count Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ralph R. Erickson",
+          "judge_guid": "urn:entity:jud-100056411"
+        }
+      ]
+    }
+  ]
+}

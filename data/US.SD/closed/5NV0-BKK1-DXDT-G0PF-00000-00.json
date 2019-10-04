@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_517cr50087_SDD",
+  "case_key": "5:17cr50087_SDD",
+  "case_lni": "5NV0-BKK1-DXDT-G0PF-00000-00",
+  "case_number": "5:17cr50087",
+  "case_title": "USA v. Tobacco",
+  "case_info_full_case_name": "USA v. Tobacco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tobacco",
+  "case_date_filed": "2017-06-14",
+  "case_status": "Closed",
+  "case_status_date": "11/26/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Belva Tobacco",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. §§ 846, 841(a)(1), and 841(b)(1)(B); CONSPIRACY TO DISTRIBUTE A CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "37 months imprisonment, 3 years supervised release, fine waived, $100 VAF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 U.S.C. §§ 841(a)(1) and 841(b)(1)(C); DISTRIBUTION OF A CONTROLLED SUBSTANCE(2-4)"
+        },
+        {
+          "charge_disposition": "Dismissed pursuant to plea agreement"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Jeffrey L. Viken",
+          "judge_guid": "urn:entity:jud-100018901"
+        },
+        {
+          "judge_name": "US Magistrate Judge Daneta Wollmann",
+          "judge_guid": "urn:entity:jud-100126945"
+        }
+      ]
+    }
+  ]
+}

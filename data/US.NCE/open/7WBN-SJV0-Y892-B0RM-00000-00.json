@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_709cr15_NCED",
+  "case_key": "7:09cr15_NCED",
+  "case_lni": "7WBN-SJV0-Y892-B0RM-00000-00",
+  "case_number": "7:09cr15",
+  "case_title": "USA v. Whittaker",
+  "case_info_full_case_name": "USA v. Whittaker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Whittaker",
+  "case_date_filed": "2009-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kirk Sripinyo",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Stephanie Marie Whittaker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-Conspiracy"
+        },
+        {
+          "charge_description": "Count 1-Conspiracy to Commit Wire Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "2 3-Bank"
+        },
+        {
+          "charge_description": "Counts 2 and 3-Bank Fraud and aiding and abetting. (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Louise Wood Flanagan",
+          "judge_guid": "urn:entity:jud-100055778"
+        }
+      ]
+    }
+  ]
+}

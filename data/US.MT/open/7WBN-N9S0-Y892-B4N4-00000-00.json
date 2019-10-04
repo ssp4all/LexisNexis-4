@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_402cr5066_mtd",
+  "case_key": "4:02cr5066_mtd",
+  "case_lni": "7WBN-N9S0-Y892-B4N4-00000-00",
+  "case_number": "4:02cr5066",
+  "case_title": "USA v. Wiesinger",
+  "case_info_full_case_name": "USA v. Wiesinger",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wiesinger",
+  "case_date_filed": "2002-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JEFFRY M. WIESINGER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M P157281 M13."
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER, OFF ROAD TRAVEL, TICKET # P157281 M13. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Carolyn S. Ostby",
+          "judge_guid": "urn:entity:jud-100025329"
+        }
+      ]
+    }
+  ]
+}

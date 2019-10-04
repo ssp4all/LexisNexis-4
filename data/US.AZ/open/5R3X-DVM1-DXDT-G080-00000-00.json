@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417mj31001_AZD",
+  "case_key": "4:17mj31001_AZD",
+  "case_lni": "5R3X-DVM1-DXDT-G080-00000-00",
+  "case_number": "4:17mj31001",
+  "case_title": "USA v. Martinez-Perez",
+  "case_info_full_case_name": "USA v. Martinez-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Perez",
+  "case_date_filed": "2017-12-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marco Antonio Martinez-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count 1: 8:1326 Illegal Re-Entry; Count 2: 8:1325(a)(1) Illegal Entry"
+        },
+        {
+          "charge_offence_description": "Count 1: 8:1326 Illegal Re-Entry; Count 2: 8:1325("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

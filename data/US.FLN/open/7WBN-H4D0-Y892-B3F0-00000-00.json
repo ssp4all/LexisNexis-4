@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_301m122_flnd",
+  "case_key": "3:01m122_flnd",
+  "case_lni": "7WBN-H4D0-Y892-B3F0-00000-00",
+  "case_number": "3:01m122",
+  "case_title": "USA v. EARLY",
+  "case_info_full_case_name": "USA v. EARLY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "EARLY",
+  "case_date_filed": "2001-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUSSELL EUGENE EARLY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M"
+        },
+        {
+          "charge_description": "18:13-7210.M TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Miles Davis",
+          "judge_guid": "urn:entity:jud-100045021"
+        }
+      ]
+    }
+  ]
+}

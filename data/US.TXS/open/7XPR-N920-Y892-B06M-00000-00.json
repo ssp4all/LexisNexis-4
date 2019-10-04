@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_510cr265_TXSD",
+  "case_key": "5:10cr265_TXSD",
+  "case_lni": "7XPR-N920-Y892-B06M-00000-00",
+  "case_number": "5:10cr265",
+  "case_title": "USA v. Castillo-Trevino",
+  "case_info_full_case_name": "USA v. Castillo-Trevino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Trevino",
+  "case_date_filed": "2010-02-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alejandro Castillo-Trevino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "20 3Yrs"
+        },
+        {
+          "charge_description": "Illegal entry after deportation PENALTY: 20 YRS. and/or $250,000, $100CVF, 3Yrs TSR. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

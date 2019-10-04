@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_214mj9047_NJD",
+  "case_key": "2:14mj9047_NJD",
+  "case_lni": "5FDY-0SX1-DXDT-G075-00000-00",
+  "case_number": "2:14mj9047",
+  "case_title": "USA v. NIELSEN",
+  "case_info_full_case_name": "USA v. NIELSEN",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "NIELSEN",
+  "case_date_filed": "2014-02-20",
+  "case_status": "Closed",
+  "case_status_date": "02/05/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "VICTORIA M. VASILEV",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT J. NIELSEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:844 POSSESSION OF CDS (OFFENSE 1/1/14)(1)"
+        },
+        {
+          "charge_disposition": "The defendant was sentenced to one year Probation pursuant to 18 USC 3607 (Conditional Discharge) with special conditions."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "21:844 POSESSION OF CDS (OFFENSE 1/1/14)"
+        },
+        {
+          "charge_offence_description": "21:844 POSESSION OF CDS (OFFENSE 1/1/14)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Anthony R. Mautone",
+          "judge_guid": "urn:entity:jud-100037720"
+        }
+      ]
+    }
+  ]
+}

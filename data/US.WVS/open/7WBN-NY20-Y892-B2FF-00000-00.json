@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_506mj90_WVSD",
+  "case_key": "5:06mj90_WVSD",
+  "case_lni": "7WBN-NY20-Y892-B2FF-00000-00",
+  "case_number": "5:06mj90",
+  "case_title": "United States of America v. Mullins et al",
+  "case_info_full_case_name": "United States of America v. Mullins et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Mullins et al",
+  "case_date_filed": "2006-09-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas Mullins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) Knowingly and Intentionally distribute a quantity of cocaine base, aka,\"crack\", a Schedule II controlled substance"
+        }
+      ]
+    },
+    {
+      "party_name": "Janet Mullins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)Knowingly"
+        },
+        {
+          "charge_description": "21:841(a)(1)Knowingly and intentionally distribute a quantity of coke, aka,\"coke\", a Schedule II controlled substance"
+        }
+      ]
+    }
+  ]
+}

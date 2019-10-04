@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_414mj54_VAED",
+  "case_key": "4:14mj54_VAED",
+  "case_lni": "5BW8-JGB1-DXDT-G381-00000-00",
+  "case_number": "4:14mj54",
+  "case_title": "USA v. Blackwell",
+  "case_info_full_case_name": "USA v. Blackwell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blackwell",
+  "case_date_filed": "2014-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rebecca F Bedford",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adrian E. Blackwell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING WHILE LICENSE SUSPENDED - in violation of T. 18 USC Sections 7 &; 13, assimilating VA Code, Section 46.2-301(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lawrence R. Leonard",
+          "judge_guid": "urn:entity:jud-100102409"
+        }
+      ]
+    }
+  ]
+}

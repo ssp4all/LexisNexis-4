@@ -1,0 +1,148 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_398cr344_txnd",
+  "case_key": "3:98cr344_txnd",
+  "case_lni": "7WBN-N6H0-Y892-B163-00000-00",
+  "case_number": "3:98cr344",
+  "case_title": "USA v. Lovell, et al",
+  "case_info_full_case_name": "USA v. Lovell, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lovell, et al",
+  "case_date_filed": "1998-10-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SAVAGE MARK LOVELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "15:77Q(a) 77(x)"
+        },
+        {
+          "charge_description": "15:77Q(a) and 77(x) FRAUDULENT INTERSTATE TRANSACTIONS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1343 2"
+        },
+        {
+          "charge_description": "18:1343 and 2 FRAUD BY WIRE, RADIO, OR TELEVISION and Aiding and Abetting (2-15)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956(a)(1)(A)(I) 2(B)"
+        },
+        {
+          "charge_description": "18:1956(a)(1)(A)(I) and 2(B) MONEY LAUNDERING-INTERSTATE COMMERCE and Aiding and Abetting (16)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Jerry Buchmeyer",
+          "judge_guid": "urn:entity:jud-100063889"
+        }
+      ]
+    },
+    {
+      "party_name": "JEFFREY MARKETTE LOVELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "15:77Q(a) 77(x)"
+        },
+        {
+          "charge_description": "15:77Q(a) and 77(x) FRAUDULENT INTERSTATE TRANSACTIONS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:4"
+        },
+        {
+          "charge_description": "18:4 WITHHOLDING INFORMATION ON A CRIME (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1343 2"
+        },
+        {
+          "charge_description": "18:1343 and 2 FRAUD BY WIRE, RADIO, OR TELEVISION and Aiding and Abetting (2-15)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Jerry Buchmeyer",
+          "judge_guid": "urn:entity:jud-100063889"
+        }
+      ]
+    },
+    {
+      "party_name": "ANN QUINN LOVELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "15:77Q(a) 77(x)"
+        },
+        {
+          "charge_description": "15:77Q(a) and 77(x) FRAUDULENT INTERSTATE TRANSACTIONS (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1343 2"
+        },
+        {
+          "charge_description": "18:1343 and 2 FRAUD BY WIRE, RADIO, OR TELEVISION and Aiding and Abetting (2-15)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion (2-15)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Jerry Buchmeyer",
+          "judge_guid": "urn:entity:jud-100063889"
+        }
+      ]
+    }
+  ]
+}

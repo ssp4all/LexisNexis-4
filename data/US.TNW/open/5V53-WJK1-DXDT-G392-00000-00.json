@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_119cr10001_TNWD",
+  "case_key": "1:19cr10001_TNWD",
+  "case_lni": "5V53-WJK1-DXDT-G392-00000-00",
+  "case_number": "1:19cr10001",
+  "case_title": "United States of America v. Gomez-Navarrette",
+  "case_info_full_case_name": "United States of America v. Gomez-Navarrette",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Gomez-Navarrette",
+  "case_date_filed": "2019-01-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joel Gomez-Navarrette",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "14 months custody of BOP, 1 year supervised release, no fine, $100.00 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F ---- REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326A.F ---- REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "S. Thomas Anderson",
+          "judge_guid": "urn:entity:jud-100080597"
+        }
+      ]
+    }
+  ]
+}

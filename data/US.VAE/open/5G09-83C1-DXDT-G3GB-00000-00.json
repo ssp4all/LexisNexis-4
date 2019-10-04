@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_215mj296_VAED",
+  "case_key": "2:15mj296_VAED",
+  "case_lni": "5G09-83C1-DXDT-G3GB-00000-00",
+  "case_number": "2:15mj296",
+  "case_title": "USA v. Hayes",
+  "case_info_full_case_name": "USA v. Hayes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hayes",
+  "case_date_filed": "2015-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Nicholas D Linstroth",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Terrell M. Hayes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY - in violation of T. 18 USC Section 641(1)"
+        },
+        {
+          "charge_disposition": "$250 fine; $25 special assessment; 18 months probation with special conditions to include 60 consecutive days in jail. Defendant to report 9/9/15 by 10:00 a.m."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "UNLAWFUL ENTRY UPON NAVAL INSTALLATION - in violation of T. 18 USC Section 1382(2)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on Govt motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

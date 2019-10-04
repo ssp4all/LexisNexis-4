@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_716mj185_TXWD",
+  "case_key": "7:16mj185_TXWD",
+  "case_lni": "5JN6-02S1-DXDT-G4NW-00000-00",
+  "case_number": "7:16mj185",
+  "case_title": "USA v. Alatorre-Blanco",
+  "case_info_full_case_name": "USA v. Alatorre-Blanco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alatorre-Blanco",
+  "case_date_filed": "2016-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "William Franklin Lewis , Jr.",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "J. Trinidad Alatorre-Blanco",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F Reentry of Deported Alien"
+        },
+        {
+          "charge_offence_description": "8:1326A.F Reentry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    }
+  ]
+}

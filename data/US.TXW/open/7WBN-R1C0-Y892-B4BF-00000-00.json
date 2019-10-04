@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_200cr244_txwd",
+  "case_key": "2:00cr244_txwd",
+  "case_lni": "7WBN-R1C0-Y892-B4BF-00000-00",
+  "case_number": "2:00cr244",
+  "case_title": "USA v. Apolinar-Ramirez",
+  "case_info_full_case_name": "USA v. Apolinar-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Apolinar-Ramirez",
+  "case_date_filed": "2000-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROLANDO APOLINAR-RAMIREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F"
+        },
+        {
+          "charge_description": "8:1326B.F REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a)(1);"
+        },
+        {
+          "charge_description": "8:1326(a)(1); re-entry after deportation [2:00-m-1438]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_101m2597_flsd",
+  "case_key": "1:01m2597_flsd",
+  "case_lni": "7WBN-DG50-Y892-B4D3-00000-00",
+  "case_number": "1:01m2597",
+  "case_title": "USA v. Riley",
+  "case_info_full_case_name": "USA v. Riley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Riley",
+  "case_date_filed": "2001-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NOTHLEY EVAN RILEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Importation cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Ted E. Bandstra",
+          "judge_guid": "urn:entity:jud-100052182"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSN_210cr24_MSND",
+  "case_key": "2:10cr24_MSND",
+  "case_lni": "7Y2M-67P0-Y892-B0D2-00000-00",
+  "case_number": "2:10cr24",
+  "case_title": "USA v. Leigh et al",
+  "case_info_full_case_name": "USA v. Leigh et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leigh et al",
+  "case_date_filed": "2010-02-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tamela Nunn Leigh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BANK FRAUD (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "W."
+        },
+        {
+          "judge_title": "David",
+          "judge_name": "A. Sanders",
+          "judge_guid": "urn:entity:jud-500005689"
+        }
+      ]
+    },
+    {
+      "party_name": "Cherlyn Jena Hill",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "UTTER FORGED AND COUNTERFEIT SECURITY (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "W."
+        },
+        {
+          "judge_title": "David",
+          "judge_name": "A. Sanders",
+          "judge_guid": "urn:entity:jud-500005689"
+        }
+      ]
+    }
+  ]
+}

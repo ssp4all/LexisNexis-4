@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_707cr1265_TXSD",
+  "case_key": "7:07cr1265_TXSD",
+  "case_lni": "7WBN-P980-Y892-B26X-00000-00",
+  "case_number": "7:07cr1265",
+  "case_title": "USA v. Becerra-Zuniga",
+  "case_info_full_case_name": "USA v. Becerra-Zuniga",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Becerra-Zuniga",
+  "case_date_filed": "2007-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Mc",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - Mc",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Martin Becerra-Zuniga",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "8 USC 1324"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    },
+    {
+      "party_name": "Manuel Gonzalez-Vargas",
+      "party_description": "material witness"
+    },
+    {
+      "party_name": "Moises Cortez-Bautista",
+      "party_description": "material witness"
+    }
+  ]
+}

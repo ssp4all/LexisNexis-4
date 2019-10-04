@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_203cr664_txwd",
+  "case_key": "2:03cr664_txwd",
+  "case_lni": "7WBN-R470-Y892-B39P-00000-00",
+  "case_number": "2:03cr664",
+  "case_title": "USA v. Garza-Fernandez",
+  "case_info_full_case_name": "USA v. Garza-Fernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garza-Fernandez",
+  "case_date_filed": "2003-09-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MIGUEL ANGEL GARZA-FERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F"
+        },
+        {
+          "charge_description": "8:1326B.F REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8USC1326(a)(1)-illegal"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1)-illegal re-entry after deportation from the United States. [2:03-m-2566]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

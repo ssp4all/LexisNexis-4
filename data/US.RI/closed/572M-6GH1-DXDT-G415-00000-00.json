@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.RI_112cr156_RID",
+  "case_key": "1:12cr156_RID",
+  "case_lni": "572M-6GH1-DXDT-G415-00000-00",
+  "case_number": "1:12cr156",
+  "case_title": "USA v. Lara-Mejia",
+  "case_info_full_case_name": "USA v. Lara-Mejia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lara-Mejia",
+  "case_date_filed": "2012-11-16",
+  "case_status": "Closed",
+  "case_status_date": "03/06/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Richard Myrus",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rafael Lara-Mejia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1028(f),(b)(1)(A)&;(B),(b)(5) and (c)(1)&;(3) - CONSPIRACY TO POSSESS, PRODUCE, AND TRANSFER IDENTIFICATION DOCUMENTS(1)"
+        },
+        {
+          "charge_disposition": "Court imposes a sentence of 24 months incarceration. A $200 Special Assessment. No fine imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iv), (a)(1)(A)(v)(I) and 1324(a)(1)(B)(i) - CONSPIRACY TO ENCOURAGE AN ALIEN TO RESIDE IN THE UNITED STATES FOR FINANCIAL GAIN(2)"
+        },
+        {
+          "charge_disposition": "Court imposes a sentence of 24 months incarceration. A $200 Special Assessment. No fine imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028A(a)(1) and (c) - AGGRAVATED IDENTITY THEFT(3-43)"
+        },
+        {
+          "charge_disposition": "Dismissed per Government's Motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John J. McConnell, Jr",
+          "judge_guid": "urn:entity:jud-100041106"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lincoln D. Almond",
+          "judge_guid": "urn:entity:jud-100074564"
+        }
+      ]
+    }
+  ]
+}

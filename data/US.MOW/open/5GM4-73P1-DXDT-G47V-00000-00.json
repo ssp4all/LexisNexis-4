@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_615mj2053_MOWD",
+  "case_key": "6:15mj2053_MOWD",
+  "case_lni": "5GM4-73P1-DXDT-G47V-00000-00",
+  "case_number": "6:15mj2053",
+  "case_title": "USA v. Juarez",
+  "case_info_full_case_name": "USA v. Juarez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Juarez",
+  "case_date_filed": "2015-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeronimo Juarez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David P Rush",
+          "judge_guid": "urn:entity:jud-100103538"
+        }
+      ]
+    }
+  ]
+}

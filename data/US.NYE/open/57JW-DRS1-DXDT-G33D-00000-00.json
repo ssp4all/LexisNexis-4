@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_113mj41_NYED",
+  "case_key": "1:13mj41_NYED",
+  "case_lni": "57JW-DRS1-DXDT-G33D-00000-00",
+  "case_number": "1:13mj41",
+  "case_title": "USA v. Darquah et al",
+  "case_info_full_case_name": "USA v. Darquah et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Darquah et al",
+  "case_date_filed": "2013-01-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "George Darquah",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert M. Levy",
+          "judge_guid": "urn:entity:jud-100030011"
+        }
+      ]
+    },
+    {
+      "party_name": "Sannie Larry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert M. Levy",
+          "judge_guid": "urn:entity:jud-100030011"
+        }
+      ]
+    }
+  ]
+}

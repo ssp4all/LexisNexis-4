@@ -1,0 +1,120 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_518cr100_NCED",
+  "case_key": "5:18cr100_NCED",
+  "case_lni": "5S0C-T0G1-DXDT-G0RX-00000-00",
+  "case_number": "5:18cr100",
+  "case_title": "USA v. Barber et al",
+  "case_info_full_case_name": "USA v. Barber et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barber et al",
+  "case_date_filed": "2018-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradford Knott",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Keith Lemont Barber",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to Possess with Intent to Distribute Two Hundred and Eighty (280) Grams or More of Cocaine Base (crack) and  a Quantity of Cocaine(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Distribution of a Quantity of Cocaine Base (crack)(2-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession with Intent to Distribute Twenty-Eight (28) Grams or More of Cocaine Base (crack)(8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Distribution of a Quantity of Cocaine Base (crack)(9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    },
+    {
+      "party_name": "Richard Omar McCormick",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to Possess with Intent to Distribute Two Hundred and Eighty (280) Grams or More of Cocaine Base (crack) and  a Quantity of Cocaine(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Distribution of a Quantity of Cocaine Base (crack)(10)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession with Intent to Distribute a Quantity of Cocaine(11)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession of a Firearm in Furtherance of a Drug Trafficking Crime(12)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Felon in Possession of a Firearm and Ammunition(13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Maintaining a Place for the Purpose of Manufacturing, Distributing and Using Controlled Substances(14)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

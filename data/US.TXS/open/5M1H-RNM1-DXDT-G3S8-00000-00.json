@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_716cr1537_TXSD",
+  "case_key": "7:16cr1537_TXSD",
+  "case_lni": "5M1H-RNM1-DXDT-G3S8-00000-00",
+  "case_number": "7:16cr1537",
+  "case_title": "USA v. Gomez-Salvador",
+  "case_info_full_case_name": "USA v. Gomez-Salvador",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez-Salvador",
+  "case_date_filed": "2016-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gabriel Gomez-Salvador",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ricardo H Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

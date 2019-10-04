@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_300cr2794_casd",
+  "case_key": "3:00cr2794_casd",
+  "case_lni": "7WBN-RJV0-Y892-B33C-00000-00",
+  "case_number": "3:00cr2794",
+  "case_title": "USA v. Cendejas-Ysarrars",
+  "case_info_full_case_name": "USA v. Cendejas-Ysarrars",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cendejas-Ysarrars",
+  "case_date_filed": "2000-08-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HERMINIO CENDEJAS-YSARRARS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546-Fraud"
+        },
+        {
+          "charge_description": "18:1546-Fraud and misuse of entry documents (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marilyn L. Huff",
+          "judge_guid": "urn:entity:jud-100050993"
+        }
+      ]
+    }
+  ]
+}

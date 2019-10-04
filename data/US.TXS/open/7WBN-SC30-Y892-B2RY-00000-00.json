@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_508cr1806_TXSD",
+  "case_key": "5:08cr1806_TXSD",
+  "case_lni": "7WBN-SC30-Y892-B2RY-00000-00",
+  "case_number": "5:08cr1806",
+  "case_title": "USA v. Rios-Venegas",
+  "case_info_full_case_name": "USA v. Rios-Venegas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rios-Venegas",
+  "case_date_filed": "2008-10-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Sam S Sheldon",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Clotilde Rios-Venegas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "20 3"
+        },
+        {
+          "charge_description": "Illegal entry after deportation PENALTY: 0 to 20 Yrs. and/or $250,000, $100 CVF, 3 Yr. TSR (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F Reentry of Deported Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

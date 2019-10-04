@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_611mj608_TXWD",
+  "case_key": "6:11mj608_TXWD",
+  "case_lni": "5216-DM61-DXDT-G19B-00000-00",
+  "case_number": "6:11mj608",
+  "case_title": "USA v. Miller",
+  "case_info_full_case_name": "USA v. Miller",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miller",
+  "case_date_filed": "2011-01-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Manair S. Miller",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-3400.M"
+        },
+        {
+          "charge_description": "18:13-3400.M THEFT OF U.S. PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:371.M"
+        },
+        {
+          "charge_description": "18:371.M CONSPIRACY TO DEFRAUD THE UNITED STATES--Conspiracy (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:1382.P"
+        },
+        {
+          "charge_description": "18:1382.P ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY--Unlawful Entry (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_302cr1233_txwd",
+  "case_key": "3:02cr1233_txwd",
+  "case_lni": "7WBN-RM10-Y892-B43R-00000-00",
+  "case_number": "3:02cr1233",
+  "case_title": "USA v. Reeves",
+  "case_info_full_case_name": "USA v. Reeves",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reeves",
+  "case_date_filed": "2002-07-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARCUS JAMES REEVES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "73.1 21:841(a)(1),952(a)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 73.1 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(a) [3:02-m-1894]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Philip R. Martinez",
+          "judge_guid": "urn:entity:jud-100041483"
+        }
+      ]
+    },
+    {
+      "party_name": "KENNETH DEAN MILLER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "73.1 21:841(a)(1),952(a)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 73.1 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(a) [3:02-m-1894]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Philip R. Martinez",
+          "judge_guid": "urn:entity:jud-100041483"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr5488_CASD",
+  "case_key": "3:18cr5488_CASD",
+  "case_lni": "5V1P-3811-DXDT-G3SC-00000-00",
+  "case_number": "3:18cr5488",
+  "case_title": "USA v. Abarca-Zaragoza",
+  "case_info_full_case_name": "USA v. Abarca-Zaragoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Abarca-Zaragoza",
+  "case_date_filed": "2018-12-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradley Geoff Silverman",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gabriela Abarca-Zaragoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1544 - Misuse of Passport (Felony)"
+        },
+        {
+          "charge_offence_description": "18:1544 - Misuse of Passport (Felony)"
+        },
+        {
+          "charge_description": "18:1544 - Misuse of Passport (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anthony J. Battaglia",
+          "judge_guid": "urn:entity:jud-100062115"
+        }
+      ]
+    }
+  ]
+}

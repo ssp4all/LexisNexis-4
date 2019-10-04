@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_209cr131_PAWD",
+  "case_key": "2:09cr131_PAWD",
+  "case_lni": "7WBN-M1R0-Y892-B24V-00000-00",
+  "case_number": "2:09cr131",
+  "case_title": "USA v. MOOREFIELD",
+  "case_info_full_case_name": "USA v. MOOREFIELD",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MOOREFIELD",
+  "case_date_filed": "2009-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CLAY MOOREFIELD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1)and 841(b)(1)(B)(iii) (5)"
+        },
+        {
+          "charge_description": "21 U.S.C. 841(a)(1)and 841(b)(1)(B)(iii) POSSESSION WITH INTENT TO DISTRIBUTE FIVE (5) GRAMS OR MORE OF A MIXTURE AND SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF COCAINE BASE, IN THE FORM COMMONLY KNOWN AS CRACK. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1) 841(b)(1)(C) 100"
+        },
+        {
+          "charge_description": "21 U.S.C. 841(a)(1) and 841(b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE LESS THAN 100 GRAMS OF A MIXTURE AND SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF HEROIN. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Gary"
+        }
+      ]
+    }
+  ]
+}

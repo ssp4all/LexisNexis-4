@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_101cr744_ilnd",
+  "case_key": "1:01cr744_ilnd",
+  "case_lni": "7WBN-JB80-Y892-B39S-00000-00",
+  "case_number": "1:01cr744",
+  "case_title": "USA v. Jefferson",
+  "case_info_full_case_name": "USA v. Jefferson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jefferson",
+  "case_date_filed": "2001-09-26",
+  "case_status": "Closed",
+  "case_status_date": "10/04/2002",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AUSA - ",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "George Lovell Jefferson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER(1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of Forty-Two (42) Months as to count one (1). This sentence is to run concurrently with defendant's State Court sentence (D ocket #01 CR 1669). The defendant is remanded to the cusstody of the United States Marshal. Upon release from imprisonment, the defendant shall be on supervised release for a term of Three (3) Years. The defendant shall make total restitution in the amount $8,500.00. Schedule of Payments."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Milton I. Shadur",
+          "judge_guid": "urn:entity:jud-100021365"
+        }
+      ]
+    }
+  ]
+}

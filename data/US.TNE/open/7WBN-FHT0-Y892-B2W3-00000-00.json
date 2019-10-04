@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_304cr138_TNED",
+  "case_key": "3:04cr138_TNED",
+  "case_lni": "7WBN-FHT0-Y892-B2W3-00000-00",
+  "case_number": "3:04cr138",
+  "case_title": "USA v. Denson",
+  "case_info_full_case_name": "USA v. Denson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Denson",
+  "case_date_filed": "2004-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dundee J Denson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)-POSSESSION"
+        },
+        {
+          "charge_description": "18:922(g)(1)-POSSESSION OF A FIREARM BY A CONVICTED FELON (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1)-POSSESSION"
+        },
+        {
+          "charge_description": "18:922(g)(1)-POSSESSION OF AMMUNITION BY A CONVICTED FELON (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "R Leon Jordan",
+          "judge_guid": "urn:entity:jud-100004651"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "H Bruce Guyton",
+          "judge_guid": "urn:entity:jud-100047706"
+        }
+      ]
+    }
+  ]
+}

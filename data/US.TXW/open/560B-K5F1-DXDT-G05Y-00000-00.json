@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_512cr631_TXWD",
+  "case_key": "5:12cr631_TXWD",
+  "case_lni": "560B-K5F1-DXDT-G05Y-00000-00",
+  "case_number": "5:12cr631",
+  "case_title": "USA v. Robinson",
+  "case_info_full_case_name": "USA v. Robinson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robinson",
+  "case_date_filed": "2012-06-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Damon Stanley Robinson",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Xavier Rodriguez",
+          "judge_guid": "urn:entity:jud-100011961"
+        }
+      ]
+    }
+  ]
+}

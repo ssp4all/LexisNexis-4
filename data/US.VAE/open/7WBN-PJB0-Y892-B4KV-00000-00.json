@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_101m1065_vaed",
+  "case_key": "1:01m1065_vaed",
+  "case_lni": "7WBN-PJB0-Y892-B4KV-00000-00",
+  "case_number": "1:01m1065",
+  "case_title": "USA v. Huang",
+  "case_info_full_case_name": "USA v. Huang",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Huang",
+  "case_date_filed": "2001-10-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VICTORIA C. HUANG",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:13-7210.M) 18:13 18.2-266(ii)"
+        },
+        {
+          "charge_description": "(18:13-7210.M) 18:13 assim. 18.2-266(ii) VA Driving under the influence (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.M) 18:13 46.2-852"
+        },
+        {
+          "charge_description": "(18:13-7220.M) 18:13 assim. 46.2-852 VA Reckless driving (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.M) 18:13 46.2-896"
+        },
+        {
+          "charge_description": "(18:13-7220.M) 18:13 assim. 46.2-896 VA Leaving the scene of an accident (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.P) 18:13 46.2-848"
+        },
+        {
+          "charge_description": "(18:13-7220.P) 18:13 assim. 46.2-848 VA Failure to use turn signal (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

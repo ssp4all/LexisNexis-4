@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_196m126_vaed",
+  "case_key": "1:96m126_vaed",
+  "case_lni": "7WBN-D8F0-Y892-B1HP-00000-00",
+  "case_number": "1:96m126",
+  "case_title": "USA v. Yandik",
+  "case_info_full_case_name": "USA v. Yandik",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yandik",
+  "case_date_filed": "1996-02-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Scott Lawson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PAUL E. YANDIK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC13 46.2-852)"
+        },
+        {
+          "charge_description": "Reckless Driving 18 USC 13 (assim. Code of VA 46.2-852) (1)"
+        },
+        {
+          "charge_disposition": "Ct. I-Deft. shall pay a fine of $400 + a $10 asmt. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC13 18.2-266(ii)"
+        },
+        {
+          "charge_description": "18 USC 13 assim. VA Code 18.2-266(ii) Driving under the influence (2)"
+        },
+        {
+          "charge_disposition": "Ct. II-Dismissed. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR634.25(f) 46.2-834"
+        },
+        {
+          "charge_description": "32 CFR 634.25(f) assim. VA Code 46.2-834 Fail to obey signal of MP (3)"
+        },
+        {
+          "charge_disposition": "Ct. III-Dismissed. (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry R. Poretz",
+          "judge_guid": "urn:entity:jud-100032777"
+        }
+      ]
+    }
+  ]
+}

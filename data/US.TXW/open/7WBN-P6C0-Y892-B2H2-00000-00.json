@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_608mj208_TXWD",
+  "case_key": "6:08mj208_TXWD",
+  "case_lni": "7WBN-P6C0-Y892-B2H2-00000-00",
+  "case_number": "6:08mj208",
+  "case_title": "USA v. Salazar-Ramos",
+  "case_info_full_case_name": "USA v. Salazar-Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salazar-Ramos",
+  "case_date_filed": "2008-12-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Julio Cesar Salazar-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL RE-ENTRY OF AN ALIEN WHO HAS BEEN DEPORTED FROM THE UNITED STATES IN VIOLATION OF 8 USC 1326"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

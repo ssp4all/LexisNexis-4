@@ -1,0 +1,87 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_306cr107_INND",
+  "case_key": "3:06cr107_INND",
+  "case_lni": "7WBN-MSH0-Y892-B235-00000-00",
+  "case_number": "3:06cr107",
+  "case_title": "United States of America v. Frye",
+  "case_info_full_case_name": "United States of America v. Frye",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Frye",
+  "case_date_filed": "2006-09-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Donald J Schmid",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Frye",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:5845 26:5861(f) 26:5871"
+        },
+        {
+          "charge_description": "26:5845 POSSESSION OF A DESTRUCTIVE DEVICE; 26:5861(f) MAKING OF ILLEGAL FIREARM; 26:5871 PENALTIES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:5845 26:5861(g) 26:5871"
+        },
+        {
+          "charge_description": "26:5845 POSSESSION OF A DESTRUCTIVE DEVICE; 26:5861(g) OBLITERATION OF SERIAL NUMBER ON FIREARM; 26:5871 PENALTIES (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:5845 26:5861(d) 26:5871"
+        },
+        {
+          "charge_description": "26:5845 POSSESSION OF A DESTRUCTIVE DEVICE; 26:5861(d) POSSESSION OF UNREGISTERED FIREARM; 26:5871 PENALTIES (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:5845 26:5861(h) 26:5871"
+        },
+        {
+          "charge_description": "26:5845 POSSESSION OF A DESTRUCTIVE DEVICE; 26:5861(h) POSSESSION OF FIREARM WITH ALTERED/OBLITERATED SERIAL NUMBER; 26:5871 PENALTIES (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1) 18:924(d)"
+        },
+        {
+          "charge_description": "18:922(g)(1) FELON IN POSSESSION OF FIREARM; 18:924(d) FORFEITURE ALLEGATION (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allen Sharp",
+          "judge_guid": "urn:entity:jud-100021315"
+        }
+      ]
+    }
+  ]
+}

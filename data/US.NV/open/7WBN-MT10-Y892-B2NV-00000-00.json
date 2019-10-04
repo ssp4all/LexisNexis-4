@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_306cr76_NVD",
+  "case_key": "3:06cr76_NVD",
+  "case_lni": "7WBN-MT10-Y892-B2NV-00000-00",
+  "case_number": "3:06cr76",
+  "case_title": "USA v. Cabrera",
+  "case_info_full_case_name": "USA v. Cabrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cabrera",
+  "case_date_filed": "2006-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elmer Cabrera",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Larry R. Hicks",
+          "judge_guid": "urn:entity:jud-100051719"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert A. McQuaid, Jr",
+          "judge_guid": "urn:entity:jud-100026192"
+        }
+      ]
+    }
+  ]
+}

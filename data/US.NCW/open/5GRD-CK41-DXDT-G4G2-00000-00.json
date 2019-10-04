@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_115cr81_NCWD",
+  "case_key": "1:15cr81_NCWD",
+  "case_lni": "5GRD-CK41-DXDT-G4G2-00000-00",
+  "case_number": "1:15cr81",
+  "case_title": "USA v. Schmidt",
+  "case_info_full_case_name": "USA v. Schmidt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schmidt",
+  "case_date_filed": "2015-08-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mark Schmidt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) - Possession of any firearm or ammunition which has been shipped or transported in interstate or foreign commerce by a convicted felon."
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) - Possession of any firearm or ammuni"
+        },
+        {
+          "charge_description": "18:922(g)(1)UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martin Reidinger",
+          "judge_guid": "urn:entity:jud-100015077"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis Howell",
+          "judge_guid": "urn:entity:jud-100033959"
+        }
+      ]
+    }
+  ]
+}

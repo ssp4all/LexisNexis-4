@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_212cr163_WAWD",
+  "case_key": "2:12cr163_WAWD",
+  "case_lni": "55WJ-X891-DXDT-G0FR-00000-00",
+  "case_number": "2:12cr163",
+  "case_title": "USA v. Garete",
+  "case_info_full_case_name": "USA v. Garete",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garete",
+  "case_date_filed": "2012-06-14",
+  "case_status": "Closed",
+  "case_status_date": "03/26/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Josephina Hernandez Garete",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B) - Distribution of Methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and 841(b)(1)(B) - Distribution of Me"
+        },
+        {
+          "charge_description": "Distribution of Methamphetamine 21:841(a)(1) &; 841(b)(1)(A)(1)"
+        },
+        {
+          "charge_disposition": "120 months in custody of the Bureau of Prisons, to run concurrently with Count 2; 5 years of supervised release with standard and special conditions as set forth in the Judgment; $100.00 special assessment per count; fine waived"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Money Laundering 18:1956(a)(3)(B) &; 2(2)"
+        },
+        {
+          "charge_disposition": "120 months in custody of the Bureau of Prisons, to run concurrently with Count 1; 5 years of supervised release with standard and special conditions as set forth in the Judgment; $100.00 special assessment per count; fine waived"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Money Laundering 18:1956(a)(3)(B) &; 2(3-4)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard A Jones",
+          "judge_guid": "urn:entity:jud-100050180"
+        }
+      ]
+    }
+  ]
+}

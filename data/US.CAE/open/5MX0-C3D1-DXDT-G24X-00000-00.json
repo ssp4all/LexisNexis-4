@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_217po194_CAED",
+  "case_key": "2:17po194_CAED",
+  "case_lni": "5MX0-C3D1-DXDT-G24X-00000-00",
+  "case_number": "2:17po194",
+  "case_title": "USA vs Walker",
+  "case_info_full_case_name": "USA vs Walker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Walker",
+  "case_date_filed": "2017-02-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Zackery M Walker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possess or Operate a Motor Vehicle on National Forest Lands (F4927945)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kendall J. Newman",
+          "judge_guid": "urn:entity:jud-100027477"
+        }
+      ]
+    }
+  ]
+}

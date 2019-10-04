@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_196cr311_gand",
+  "case_key": "1:96cr311_gand",
+  "case_lni": "7WBN-PXM0-Y892-B32V-00000-00",
+  "case_number": "1:96cr311",
+  "case_title": "USA v. Peveto",
+  "case_info_full_case_name": "USA v. Peveto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peveto",
+  "case_date_filed": "1996-07-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT PRESTON PEVETO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7950.P"
+        },
+        {
+          "charge_description": "18:13-7950.P DISORDERLY CONDUCT (1)"
+        },
+        {
+          "charge_disposition": "$350.00 fine imposed, plus $10.00 special assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "49:46504 49:46505"
+        },
+        {
+          "charge_description": "INTIMIDATE FLIGHT ATTENDANT WHILE ABOARD AIRCCRAFT, 49:46504 AND CARRY CONCEALED WEAPON, 49:46505 [1:96-m-621]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John E. Dougherty",
+          "judge_guid": "urn:entity:jud-100044327"
+        }
+      ]
+    }
+  ]
+}

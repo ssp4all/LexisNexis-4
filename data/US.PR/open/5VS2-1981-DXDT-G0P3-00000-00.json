@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_319cr200_PRD",
+  "case_key": "3:19cr200_PRD",
+  "case_lni": "5VS2-1981-DXDT-G0P3-00000-00",
+  "case_number": "3:19cr200",
+  "case_title": "USA v. Medina-Jimenez",
+  "case_info_full_case_name": "USA v. Medina-Jimenez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Medina-Jimenez",
+  "case_date_filed": "2019-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Evelyn Canals-Lozada",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joselito Medina-Jimenez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) RE-ENTRY OF REMOVED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) Reentry of Removed Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation Officer",
+      "party_description": "Interested Party"
+    }
+  ]
+}

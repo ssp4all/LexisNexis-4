@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_512cr190_TXWD",
+  "case_key": "5:12cr190_TXWD",
+  "case_lni": "55G4-F9H1-DXDT-G3XY-00000-00",
+  "case_number": "5:12cr190",
+  "case_title": "USA v. Spadafora",
+  "case_info_full_case_name": "USA v. Spadafora",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Spadafora",
+  "case_date_filed": "2012-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christina Spadafora",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924A.F FIREARMS-18USC2 924(a)(1)(A)-False"
+        },
+        {
+          "charge_description": "18:924A.F PENALTIES FOR FIREARMS-18 U.S.C. 2 and 924(a)(1)(A)-False Statement While Purchasing a Firearm (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Orlando L. Garcia",
+          "judge_guid": "urn:entity:jud-100055086"
+        }
+      ]
+    }
+  ]
+}

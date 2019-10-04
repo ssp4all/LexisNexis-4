@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_111mj236_TXSD",
+  "case_key": "1:11mj236_TXSD",
+  "case_lni": "5249-NCH1-DXDT-G44D-00000-00",
+  "case_number": "1:11mj236",
+  "case_title": "USA v. GARCIA-Balboa",
+  "case_info_full_case_name": "USA v. GARCIA-Balboa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "GARCIA-Balboa",
+  "case_date_filed": "2011-02-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Laura Ester GARCIA-Balboa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F:"
+        },
+        {
+          "charge_description": "8:1326B.F: knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported and removed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

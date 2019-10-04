@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_505cr4111_IAND",
+  "case_key": "5:05cr4111_IAND",
+  "case_lni": "7WBN-HW40-Y892-B0M2-00000-00",
+  "case_number": "5:05cr4111",
+  "case_title": "USA v. Fazio",
+  "case_info_full_case_name": "USA v. Fazio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fazio",
+  "case_date_filed": "2005-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph Anthony Fazio Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:287-FALSE"
+        },
+        {
+          "charge_description": "18:287-FALSE OR FRAUDULENT CLAIMS"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Mark W Bennett",
+          "judge_guid": "urn:entity:jud-100069180"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Paul A Zoss",
+          "judge_guid": "urn:entity:jud-100016377"
+        }
+      ]
+    }
+  ]
+}

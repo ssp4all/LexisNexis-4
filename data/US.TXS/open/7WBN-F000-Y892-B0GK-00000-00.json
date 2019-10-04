@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_703cr1006_txsd",
+  "case_key": "7:03cr1006_txsd",
+  "case_lni": "7WBN-F000-Y892-B0GK-00000-00",
+  "case_number": "7:03cr1006",
+  "case_title": "USA v. Donias-Reyes",
+  "case_info_full_case_name": "USA v. Donias-Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Donias-Reyes",
+  "case_date_filed": "2003-11-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARMANDO NMI DONIAS-REYES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "6/30/03. 20 3"
+        },
+        {
+          "charge_description": "Unlawfully present in the United States after being previously excluded, deported, and removed. Offense Date: 6/30/03. Penalty: Imprisonment for not more than 20 yrs. and/or a fine not to exceed $250,000 and at least a 3 yr. SRT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18,USC, 472 2. 6/30/03. 20 3"
+        },
+        {
+          "charge_description": "Possession of counterfeited United States obligations, Title 18, USC, Sections 472 and 2. Offense Date: 6/30/03. Penalty: Imprisonment for not more than 20 yrs. and/or a fine not to exceed $250.000 and at least a 3 yr. SRT. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    }
+  ]
+}

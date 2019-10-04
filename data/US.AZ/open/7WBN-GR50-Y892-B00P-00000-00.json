@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_205m1960_AZD",
+  "case_key": "2:05m1960_AZD",
+  "case_lni": "7WBN-GR50-Y892-B00P-00000-00",
+  "case_number": "2:05m1960",
+  "case_title": "USA, et al v. Sandoval-Ruiz",
+  "case_info_full_case_name": "USA, et al v. Sandoval-Ruiz",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Sandoval-Ruiz",
+  "case_date_filed": "2005-04-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE EULOGIO SANDOVAL-RUIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(2)-Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

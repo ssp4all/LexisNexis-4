@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_409cr104_TXWD",
+  "case_key": "4:09cr104_TXWD",
+  "case_lni": "7WBN-NJK0-Y892-B2SB-00000-00",
+  "case_number": "4:09cr104",
+  "case_title": "USA v. Garcia-Valenzuela",
+  "case_info_full_case_name": "USA v. Garcia-Valenzuela",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Valenzuela",
+  "case_date_filed": "2009-04-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Manuela Garcia-Valenzuela",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

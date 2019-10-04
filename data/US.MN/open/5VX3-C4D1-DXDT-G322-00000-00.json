@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_019cr109_MND",
+  "case_key": "0:19cr109_MND",
+  "case_lni": "5VX3-C4D1-DXDT-G322-00000-00",
+  "case_number": "0:19cr109",
+  "case_title": "USA v. Anchondo",
+  "case_info_full_case_name": "USA v. Anchondo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Anchondo",
+  "case_date_filed": "2019-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elier Anchondo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and 1326(b)(1) and 6:202 and 557 REENTRY OF A REMOVED ALIEN(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Patrick J. Schiltz",
+          "judge_guid": "urn:entity:jud-100026884"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Steven E. Rau",
+          "judge_guid": "urn:entity:jud-100018682"
+        }
+      ]
+    }
+  ]
+}

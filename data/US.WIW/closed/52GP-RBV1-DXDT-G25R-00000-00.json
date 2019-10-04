@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_300cr99_wiwd",
+  "case_key": "3:00cr99_wiwd",
+  "case_lni": "52GP-RBV1-DXDT-G25R-00000-00",
+  "case_number": "3:00cr99",
+  "case_title": "USA v. Butterfield, Allan Francis",
+  "case_info_full_case_name": "USA v. Butterfield, Allan Francis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Butterfield, Allan Francis",
+  "case_date_filed": "2000-10-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John William Vaudreuil"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Butterfield, Allan Francis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to Defraud The United States (1)"
+        },
+        {
+          "charge_disposition": "Dismissed Without Prejudice"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Embezzlement From Indian Tribal Organizations (2)"
+        },
+        {
+          "charge_disposition": "Convicted/Final Plea of Guilty."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Barbara B Crabb",
+          "judge_guid": "urn:entity:jud-100045645"
+        }
+      ]
+    },
+    {
+      "party_name": "Gordon, Lou Ann",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to Defraud The United States (1)"
+        },
+        {
+          "charge_disposition": "Dismisssed, OR Government Motion For Acquittal Granted, OR Any Disposition Other Than A Conviction Not Covered by Another Code."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Embezzlement From Indian Tribal Organizations (2)"
+        },
+        {
+          "charge_disposition": "Convicted/Final Plea of Guilty."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Barbara B Crabb",
+          "judge_guid": "urn:entity:jud-100045645"
+        }
+      ]
+    }
+  ]
+}

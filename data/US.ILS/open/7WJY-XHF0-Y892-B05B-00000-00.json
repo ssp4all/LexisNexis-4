@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILS_309mj6088_ILSD",
+  "case_key": "3:09mj6088_ILSD",
+  "case_lni": "7WJY-XHF0-Y892-B05B-00000-00",
+  "case_number": "3:09mj6088",
+  "case_title": "USA v. 1011 Laurel Street, Fairfield, IL",
+  "case_info_full_case_name": "USA v. 1011 Laurel Street, Fairfield, IL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "1011 Laurel Street, Fairfield, IL",
+  "case_date_filed": "2009-09-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "1011 Laurel Street Fairfield ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clifford J. Proud",
+          "judge_guid": "urn:entity:jud-100032031"
+        }
+      ]
+    }
+  ]
+}

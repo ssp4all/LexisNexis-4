@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_408cr544_MOED",
+  "case_key": "4:08cr544_MOED",
+  "case_lni": "7WBN-DD20-Y892-B542-00000-00",
+  "case_number": "4:08cr544",
+  "case_title": "USA v. Spencer",
+  "case_info_full_case_name": "USA v. Spencer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Spencer",
+  "case_date_filed": "2008-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Tracy L. Berry",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Byron Spencer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "AGGRAVATED IDENTITY THEFT (1r-2r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "IDENTITY THEFT (3r-4r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "ACCESS DEVICE FRAUD (5r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUDS AND SWINDLES (6r-7r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Donald J. Stohr",
+          "judge_guid": "urn:entity:jud-100013856"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Frederick R Buckles",
+          "judge_guid": "urn:entity:jud-100080190"
+        }
+      ]
+    }
+  ]
+}

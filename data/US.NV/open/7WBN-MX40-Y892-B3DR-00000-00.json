@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_308cr46_NVD",
+  "case_key": "3:08cr46_NVD",
+  "case_lni": "7WBN-MX40-Y892-B3DR-00000-00",
+  "case_number": "3:08cr46",
+  "case_title": "USA v. Steven Lee Jenkins",
+  "case_info_full_case_name": "USA v. Steven Lee Jenkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Steven Lee Jenkins",
+  "case_date_filed": "2008-06-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Steven Lee Jenkins",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Brian E. Sandoval",
+          "judge_guid": "urn:entity:jud-100059870"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Valerie P. Cooke",
+          "judge_guid": "urn:entity:jud-100020874"
+        }
+      ]
+    }
+  ]
+}

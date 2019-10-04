@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_207cr25_WAED",
+  "case_key": "2:07cr25_WAED",
+  "case_lni": "7WBN-KVP0-Y892-B10X-00000-00",
+  "case_number": "2:07cr25",
+  "case_title": "USA v. Avila",
+  "case_info_full_case_name": "USA v. Avila",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avila",
+  "case_date_filed": "2007-02-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Aine Ahmed",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ismael Avila",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE A MIXTURE OR SUBSTANCE CONTAINING METHAMPHETAMINE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 50"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE 50 GRAMS OR MORE OF A MIXTURE OR SUBSTANCE CONTAINING METHAMPHETAMINE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 50"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE 50 GRAMS OR MORE OF A MIXTURE OR SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF METHAMPHETAMINE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Wm. Fremming Nielsen",
+          "judge_guid": "urn:entity:jud-100027403"
+        }
+      ]
+    }
+  ]
+}

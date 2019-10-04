@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_100cr449_ohnd",
+  "case_key": "1:00cr449_ohnd",
+  "case_lni": "7WBN-J8G0-Y892-B3JH-00000-00",
+  "case_number": "1:00cr449",
+  "case_title": "USA v. Saldana-Ramirez",
+  "case_info_full_case_name": "USA v. Saldana-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Saldana-Ramirez",
+  "case_date_filed": "2000-10-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert J. Becker, Esq.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GUILLERMO SALDANA-RAMIREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 Illegal Reentry by an Alien (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James S. Gwin",
+          "judge_guid": "urn:entity:jud-100042049"
+        }
+      ]
+    }
+  ]
+}

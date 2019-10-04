@@ -1,0 +1,79 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VT_209cr106_VTD",
+  "case_key": "2:09cr106_VTD",
+  "case_lni": "7WT5-6F50-Y892-B00B-00000-00",
+  "case_number": "2:09cr106",
+  "case_title": "USA v. Robles-Martinez et al",
+  "case_info_full_case_name": "USA v. Robles-Martinez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robles-Martinez et al",
+  "case_date_filed": "2009-09-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joshua Robles-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846.F"
+        },
+        {
+          "charge_description": "21:846.F CONSPIRACY TO DISTRIBUTE NARCOTICS-conspiracy to distribute Oxycontin (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(a)(1)(A) 18:2.F"
+        },
+        {
+          "charge_description": "18:924(a)(1)(A) and 18:2.F PENALTIES FOR FIREARMS-aided and abetted a person to knowingly make a false and fictitious written statement in connection with the acquisition of a firearm (2-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William K. Sessions III",
+          "judge_guid": "urn:entity:jud-100021402"
+        }
+      ]
+    },
+    {
+      "party_name": "Ariel Zapatero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846.F"
+        },
+        {
+          "charge_description": "21:846.F CONSPIRACY TO DISTRIBUTE NARCOTICS-conspiracy to distribute Oxycontin (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William K. Sessions III",
+          "judge_guid": "urn:entity:jud-100021402"
+        }
+      ]
+    }
+  ]
+}

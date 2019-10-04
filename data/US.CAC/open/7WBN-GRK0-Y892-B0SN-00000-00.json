@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_206cr212_CACD",
+  "case_key": "2:06cr212_CACD",
+  "case_lni": "7WBN-GRK0-Y892-B0SN-00000-00",
+  "case_number": "2:06cr212",
+  "case_title": "USA v. Mkrtchian",
+  "case_info_full_case_name": "USA v. Mkrtchian",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mkrtchian",
+  "case_date_filed": "2006-03-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID MKRTCHIAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341.F"
+        },
+        {
+          "charge_description": "18:1341.F MAIL FRAUDS (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956-7477.F"
+        },
+        {
+          "charge_description": "18:1956-7477.F CONSPIRACY TO LAUNDER MONETARY INSTRUMENTS (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956-7477.F"
+        },
+        {
+          "charge_description": "18:1956-7477.F LAUNDERING MONETARY INSTRUMENTS (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

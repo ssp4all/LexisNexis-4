@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_291cr377_AZD",
+  "case_key": "2:91cr377_AZD",
+  "case_lni": "7WBN-M4C0-Y892-B2F3-00000-00",
+  "case_number": "2:91cr377",
+  "case_title": "USA v. MacLean",
+  "case_info_full_case_name": "USA v. MacLean",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MacLean",
+  "case_date_filed": "2007-07-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John A MacLean",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen M McNamee",
+          "judge_guid": "urn:entity:jud-100065660"
+        }
+      ]
+    }
+  ]
+}

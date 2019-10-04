@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_519mj2347_TXSD",
+  "case_key": "5:19mj2347_TXSD",
+  "case_lni": "5WRG-K701-DXDT-G022-00000-00",
+  "case_number": "5:19mj2347",
+  "case_title": "USA v. Flores",
+  "case_info_full_case_name": "USA v. Flores",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores",
+  "case_date_filed": "2019-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Cinthia Lizzette ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8USC 1324 --- Knowing and in reckless disregard of the fact that an alien had come to, entered, and remained in the United States in violation of law, did transport and move and attempted to transport and move and conspired to transport and move such alien within the United States by means of transportation and otherwise in furtherance of such violation of law."
+        },
+        {
+          "charge_offence_description": "8USC 1324 --- Knowing and in reckless disregard of"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    },
+    {
+      "party_name": "Miriam Alexandra Quizhpi-Chacha",
+      "party_description": "Material Witness"
+    }
+  ]
+}

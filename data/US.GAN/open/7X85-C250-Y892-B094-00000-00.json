@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_209cr64_GAND",
+  "case_key": "2:09cr64_GAND",
+  "case_lni": "7X85-C250-Y892-B094-00000-00",
+  "case_number": "2:09cr64",
+  "case_title": "USA v. Cole",
+  "case_info_full_case_name": "USA v. Cole",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cole",
+  "case_date_filed": "2009-12-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David M. Chaiken",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edward H. Cole",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 Theft And Conversion of Public Money, Property or Records (1-13)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard W Story",
+          "judge_guid": "urn:entity:jud-100013778"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Susan S Cole",
+          "judge_guid": "urn:entity:jud-100062309"
+        }
+      ]
+    }
+  ]
+}

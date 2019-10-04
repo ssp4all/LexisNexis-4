@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_313mj105_FLND",
+  "case_key": "3:13mj105_FLND",
+  "case_lni": "58NG-CBN1-DXDT-G349-00000-00",
+  "case_number": "3:13mj105",
+  "case_title": "USA v. MUCKLER",
+  "case_info_full_case_name": "USA v. MUCKLER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MUCKLER",
+  "case_date_filed": "2013-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "ALICIA HYUNJOO KIM",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN E MUCKLER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, DRUNKEN DRIVING(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - REFUSAL(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - OPEN CONTAINER(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - SPEEDING(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "ELIZABETH M TIMOTHY",
+          "judge_guid": "urn:entity:jud-100024046"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_307cr1232_TXWD",
+  "case_key": "3:07cr1232_TXWD",
+  "case_lni": "7WBN-FK10-Y892-B220-00000-00",
+  "case_number": "3:07cr1232",
+  "case_title": "USA v. Aiello et al",
+  "case_info_full_case_name": "USA v. Aiello et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aiello et al",
+  "case_date_filed": "2007-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph Dominic Aiello",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "93.5 of21:841A=MD.F,"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute approximately 93.5 lbs of marijuana in violation of21:841A=MD.F, 21:846=MD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Philip R. Martinez",
+          "judge_guid": "urn:entity:jud-100041483"
+        }
+      ]
+    },
+    {
+      "party_name": "Conrad Conn Herrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "93.5 of21:841A=MD.F,"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute approximately 93.5 lbs of marijuana in violation of21:841A=MD.F, 21:846=MD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Philip R. Martinez",
+          "judge_guid": "urn:entity:jud-100041483"
+        }
+      ]
+    }
+  ]
+}

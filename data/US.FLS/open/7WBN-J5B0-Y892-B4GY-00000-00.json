@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_903m5266_flsd",
+  "case_key": "9:03m5266_flsd",
+  "case_lni": "7WBN-J5B0-Y892-B4GY-00000-00",
+  "case_number": "9:03m5266",
+  "case_title": "USA v. Zambouros",
+  "case_info_full_case_name": "USA v. Zambouros",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zambouros",
+  "case_date_filed": "2003-07-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL ZAMBOUROS",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Linnea R. Johnson",
+          "judge_guid": "urn:entity:jud-100020899"
+        }
+      ]
+    }
+  ]
+}

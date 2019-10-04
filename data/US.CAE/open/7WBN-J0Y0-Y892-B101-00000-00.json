@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_601m187_caed",
+  "case_key": "6:01m187_caed",
+  "case_lni": "7WBN-J0Y0-Y892-B101-00000-00",
+  "case_number": "6:01m187",
+  "case_title": "USA v. Tomlinson",
+  "case_info_full_case_name": "USA v. Tomlinson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tomlinson",
+  "case_date_filed": "2001-12-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NANCY L TOMLINSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hollis G Best",
+          "judge_guid": "urn:entity:jud-100016691"
+        }
+      ]
+    }
+  ]
+}

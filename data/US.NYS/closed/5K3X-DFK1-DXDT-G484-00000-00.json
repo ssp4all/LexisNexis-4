@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_116cr449_NYSD",
+  "case_key": "1:16cr449_NYSD",
+  "case_lni": "5K3X-DFK1-DXDT-G484-00000-00",
+  "case_number": "1:16cr449",
+  "case_title": "USA v. Beyer",
+  "case_info_full_case_name": "USA v. Beyer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beyer",
+  "case_date_filed": "2016-06-28",
+  "case_status": "Closed",
+  "case_status_date": "10/04/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Allison Beyer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.M CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Probation: 3 Years. Fine: $1,000.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "21:846=CD.F:NARCOTICS CONSPIRACY."
+        },
+        {
+          "charge_offence_description": "21:846=CD.F:NARCOTICS CONSPIRACY."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James L. Cott",
+          "judge_guid": "urn:entity:jud-100054201"
+        }
+      ]
+    }
+  ]
+}

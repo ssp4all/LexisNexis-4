@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502m12_txsd",
+  "case_key": "5:02m12_txsd",
+  "case_lni": "7WBN-NV80-Y892-B0HK-00000-00",
+  "case_number": "5:02m12",
+  "case_title": "USA v. Lozano-Cuellar, et al",
+  "case_info_full_case_name": "USA v. Lozano-Cuellar, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lozano-Cuellar, et al",
+  "case_date_filed": "2002-01-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE ALVAREZ-CASILLAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "40"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with intent to distribute a Schedule I, Title II controlled substance, approximately 40 kilograms, estimated gross weight of marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    },
+    {
+      "party_name": "HUGO LOZANO-CUELLAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "40"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with intent to distribute a Schedule I, Title II controlled substance, approximately 40 kilograms, estimated gross weight of marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

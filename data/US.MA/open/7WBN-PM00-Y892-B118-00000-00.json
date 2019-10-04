@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_103cr10180_mad",
+  "case_key": "1:03cr10180_mad",
+  "case_lni": "7WBN-PM00-Y892-B118-00000-00",
+  "case_number": "1:03cr10180",
+  "case_title": "USA v. Rodriguez",
+  "case_info_full_case_name": "USA v. Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez",
+  "case_date_filed": "2003-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elythet Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a), 960-IMPORTATION"
+        },
+        {
+          "charge_description": "21:952(a), 960-IMPORTATION OF A CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC, 952(a) 960...knowingly"
+        },
+        {
+          "charge_description": "complaint filed Title 21, U.S.C., Sec. 952(a) and 960...knowingly and intentionally and unlawfully import into the U.S. from a place outside thereof, methylenedioxymethamphetamine a/k/a ecstasy a class I controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Richard"
+        },
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

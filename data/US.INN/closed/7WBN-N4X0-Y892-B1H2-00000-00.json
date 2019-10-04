@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_396cr59_innd",
+  "case_key": "3:96cr59_innd",
+  "case_lni": "7WBN-N4X0-Y892-B1H2-00000-00",
+  "case_number": "3:96cr59",
+  "case_title": "USA v. Kimble",
+  "case_info_full_case_name": "USA v. Kimble",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kimble",
+  "case_date_filed": "1996-12-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KATHERINE KIMBLE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert L. Miller, Jr.",
+          "judge_guid": "urn:entity:jud-100036156"
+        }
+      ]
+    }
+  ]
+}

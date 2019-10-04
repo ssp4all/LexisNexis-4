@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_212mj358_NVD",
+  "case_key": "2:12mj358_NVD",
+  "case_lni": "55SB-0DM1-DXDT-G1BV-00000-00",
+  "case_number": "2:12mj358",
+  "case_title": "USA v. Cano",
+  "case_info_full_case_name": "USA v. Cano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cano",
+  "case_date_filed": "2012-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Franc Cano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2250(a)-Failure"
+        },
+        {
+          "charge_description": "18:2250(a)-Failure to Register"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cam Ferenbach",
+          "judge_guid": "urn:entity:jud-100056033"
+        }
+      ]
+    }
+  ]
+}

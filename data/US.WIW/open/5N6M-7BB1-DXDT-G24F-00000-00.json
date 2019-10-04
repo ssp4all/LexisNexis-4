@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_317cr25_WIWD",
+  "case_key": "3:17cr25_WIWD",
+  "case_lni": "5N6M-7BB1-DXDT-G24F-00000-00",
+  "case_number": "3:17cr25",
+  "case_title": "United States of America v. Flowers, William",
+  "case_info_full_case_name": "United States of America v. Flowers, William",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Flowers, William",
+  "case_date_filed": "2017-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert A. Anderson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William D. Flowers",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(4-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC.(7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William M. Conley",
+          "judge_guid": "urn:entity:jud-100049885"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    }
+  ]
+}

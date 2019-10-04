@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAM_399cr97_pamd",
+  "case_key": "3:99cr97_pamd",
+  "case_lni": "7WBN-N7R0-Y892-B270-00000-00",
+  "case_number": "3:99cr97",
+  "case_title": "USA v. Steinetz",
+  "case_info_full_case_name": "USA v. Steinetz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Steinetz",
+  "case_date_filed": "1999-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TEANNE STEINETZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344-knowingly"
+        },
+        {
+          "charge_description": "18:1344-knowingly executed a scheme to defraud Mellon Bank, &; to obtain money from that institution by fradulently negotiating counterfeit checks totaling $17,000.00 [3:99-mb-24]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William J. Nealon",
+          "judge_guid": "urn:entity:jud-100027634"
+        }
+      ]
+    }
+  ]
+}

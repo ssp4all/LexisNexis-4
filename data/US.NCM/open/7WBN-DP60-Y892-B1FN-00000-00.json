@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_288cr67_ncmd",
+  "case_key": "2:88cr67_ncmd",
+  "case_lni": "7WBN-DP60-Y892-B1FN-00000-00",
+  "case_number": "2:88cr67",
+  "case_title": "USA v. COBB JR.",
+  "case_info_full_case_name": "USA v. COBB JR.",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "COBB JR.",
+  "case_date_filed": "1988-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUSSELL A. COBB JR.",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Hiram H. Ward",
+          "judge_guid": "urn:entity:jud-100012015"
+        }
+      ]
+    }
+  ]
+}

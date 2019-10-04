@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_718mj350_TXSD",
+  "case_key": "7:18mj350_TXSD",
+  "case_lni": "5RPD-YGB1-DXDT-G236-00000-00",
+  "case_number": "7:18mj350",
+  "case_title": "USA v. Galan-Ortega et al",
+  "case_info_full_case_name": "USA v. Galan-Ortega et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galan-Ortega et al",
+  "case_date_filed": "2018-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Francisco Galan-Ortega",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        },
+        {
+          "charge_offence_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Antonio Dominguez-Diaz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        },
+        {
+          "charge_offence_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    },
+    {
+      "party_name": "Carlos Fernando Galvez-Rivas",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Jose Armando Lopez-Angel",
+      "party_description": "Material Witness"
+    }
+  ]
+}

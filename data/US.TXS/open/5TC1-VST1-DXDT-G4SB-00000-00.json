@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_518cr717_TXSD",
+  "case_key": "5:18cr717_TXSD",
+  "case_lni": "5TC1-VST1-DXDT-G4SB-00000-00",
+  "case_number": "5:18cr717",
+  "case_title": "USA v. Welch",
+  "case_info_full_case_name": "USA v. Welch",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Welch",
+  "case_date_filed": "2018-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Malaya Welch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to Transport undocumented aliens within the United States.   Penalty:  Not more than 10 Years and or $250,000.00 $100.00 Special Assessment $5,000.00 Special Assessment. Not more than 3 Years Term of Supervised Release.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Transport &; Attempt to transport  undocumented aliens for financial gain.   Penalty:  Not more than 10 Years and or $250,000.00 $100.00 Special Assessment $5,000.00 Special Assessment. Not more than 3 Years Term of Supervised Release.(2-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marina Garcia Marmolejo",
+          "judge_guid": "urn:entity:jud-100005708"
+        }
+      ]
+    },
+    {
+      "party_name": "Felix Alejo-Teyuco",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Jose Manuel Amaya-Hernandez",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Jesus Antonio Gonzalez-Estrada",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Daniel Hernandez-Ruiz",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Guillermo Tixteco-Castro",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Abel Vazquez-Hernandez",
+      "party_description": "Material Witness"
+    }
+  ]
+}

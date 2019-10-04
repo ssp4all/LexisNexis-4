@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_608cr10110_KSD",
+  "case_key": "6:08cr10110_KSD",
+  "case_lni": "7WBN-SGD0-Y892-B35R-00000-00",
+  "case_number": "6:08cr10110",
+  "case_title": "USA v. Villapudua-Sarabia",
+  "case_info_full_case_name": "USA v. Villapudua-Sarabia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Villapudua-Sarabia",
+  "case_date_filed": "2008-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Martha E Villapudua-Sarabia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with intent to distribute cocaine and 18:2 aiding and abetting (INDICTMENT FILED [5/14/08]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1952(a)(3)"
+        },
+        {
+          "charge_description": "18:1952(a)(3) Travel in interstate commerce in aid of racketeering (INDICTMENT FILED [5/14/08]) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Monti L Belot",
+          "judge_guid": "urn:entity:jud-100069228"
+        }
+      ]
+    }
+  ]
+}

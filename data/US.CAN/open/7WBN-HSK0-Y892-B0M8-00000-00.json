@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_498m149_cand",
+  "case_key": "4:98m149_cand",
+  "case_lni": "7WBN-HSK0-Y892-B0M8-00000-00",
+  "case_number": "4:98m149",
+  "case_title": "USA v. Mistria",
+  "case_info_full_case_name": "USA v. Mistria",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mistria",
+  "case_date_filed": "1998-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EPHRAIM GUERRERO MISTRIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1073:"
+        },
+        {
+          "charge_description": "18:1073: Unlawful flight to avoid prosecution"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge"
+        }
+      ]
+    }
+  ]
+}

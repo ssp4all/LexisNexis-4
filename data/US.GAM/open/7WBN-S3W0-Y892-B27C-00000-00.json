@@ -1,0 +1,122 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_406cr26_GAMD",
+  "case_key": "4:06cr26_GAMD",
+  "case_lni": "7WBN-S3W0-Y892-B27C-00000-00",
+  "case_number": "4:06cr26",
+  "case_title": "UNITED STATES OF AMERICA v. Joseph et al",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. Joseph et al",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "Joseph et al",
+  "case_date_filed": "2006-06-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Darrell Bernard Joseph",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1201.F KIDNAPPING(1s)"
+        },
+        {
+          "charge_disposition": "360 months imprisonment; 5 years supervised release; $100.00 mandatory assessment fee"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1201.F - KIDNAPPING(1)"
+        },
+        {
+          "charge_disposition": "Count superseded."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "CLAY D LAND",
+          "judge_guid": "urn:entity:jud-100036627"
+        }
+      ]
+    },
+    {
+      "party_name": "Riviera Marshall",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1201.F KIDNAPPING(1s)"
+        },
+        {
+          "charge_disposition": "360 months imprisonment; 5 years supervised release; $100.00 mandatory assessment fee"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1201.F - KIDNAPPING(1)"
+        },
+        {
+          "charge_disposition": "Count superseded."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "CLAY D LAND",
+          "judge_guid": "urn:entity:jud-100036627"
+        }
+      ]
+    },
+    {
+      "party_name": "Rodney Riggins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1201.F KIDNAPPING(1s)"
+        },
+        {
+          "charge_disposition": "321 months imprisonment; 5 years supervised release;$100.00 mandatory assessment; $350.00 restitution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1201.F - KIDNAPPING(1)"
+        },
+        {
+          "charge_disposition": "Count superseded."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "CLAY D LAND",
+          "judge_guid": "urn:entity:jud-100036627"
+        }
+      ]
+    }
+  ]
+}

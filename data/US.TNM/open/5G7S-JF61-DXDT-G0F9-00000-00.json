@@ -1,0 +1,98 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_315cr81_TNMD",
+  "case_key": "3:15cr81_TNMD",
+  "case_lni": "5G7S-JF61-DXDT-G0F9-00000-00",
+  "case_number": "3:15cr81",
+  "case_title": "USA v. Mendez-Rios",
+  "case_info_full_case_name": "USA v. Mendez-Rios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendez-Rios",
+  "case_date_filed": "2015-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anne-Marie Svolto",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Mendez-Rios",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Superseding Felony Information 9/22/15: 18:152(3) and 18:2 Bankruptcy fraud(1s)"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Count 1 of the Superseding Information. Imprisonment for 6 months. Remanded to custody. Two years supervised release, with special conditions. $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 6/17/15: 18:1503 and 18:2 Obstruction of justice(1)"
+        },
+        {
+          "charge_disposition": "Counts 1-5 of the Indictment dismissed on Motion by Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 6/17/15: 18:1521 and 18:2 Filing a false lien and encumbrance against an officer of the U.S. Government(2)"
+        },
+        {
+          "charge_disposition": "Counts 1-5 of the Indictment dismissed on Motion by Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 6/17/15: 18:1001(a) and 18:2 Making a false statement(3)"
+        },
+        {
+          "charge_disposition": "Counts 1-5 of the Indictment dismissed on Motion by Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 6/17/15: 18:1503 and 18:2 Obstruction of justice(4)"
+        },
+        {
+          "charge_disposition": "Counts 1-5 of the Indictment dismissed on Motion by Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 6/17/15: 18:1521 and 18:2 Attempting to file a false lien and encumbrance against an officer of the U.S. Government(5)"
+        },
+        {
+          "charge_disposition": "Counts 1-5 of the Indictment dismissed on Motion by Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Aleta A. Trauger",
+          "judge_guid": "urn:entity:jud-100006326"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411cr3220_AZD",
+  "case_key": "4:11cr3220_AZD",
+  "case_lni": "53V9-5N91-DXDT-G4D7-00000-00",
+  "case_number": "4:11cr3220",
+  "case_title": "USA v. Gonzalez-Sanchez",
+  "case_info_full_case_name": "USA v. Gonzalez-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Sanchez",
+  "case_date_filed": "2011-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodrigo Gonzalez-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 (b)(2),"
+        },
+        {
+          "charge_description": "8:1326 enhanced by (b)(2), Re-Entry After Deportation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a), 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a), enhanced by 8:1326(b)(2) Re-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

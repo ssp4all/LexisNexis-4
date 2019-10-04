@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_313cr379_OHND",
+  "case_key": "3:13cr379_OHND",
+  "case_lni": "5952-FPV1-DXDT-G34H-00000-00",
+  "case_number": "3:13cr379",
+  "case_title": "United States of America v. Ginter",
+  "case_info_full_case_name": "United States of America v. Ginter",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Ginter",
+  "case_date_filed": "2013-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Phillip J. Tripi_AUSA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amber Ginter",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 2423(a) Transporting a Minor with Intent that the Minor Engage in Criminal Sexual Activity(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to the custody of the BOP for a term of 36 months. Supervised release for term of 5 years with standard and special conditions. Fine: Waived. Special Assessment:$100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James G. Carr",
+          "judge_guid": "urn:entity:jud-100063212"
+        }
+      ]
+    }
+  ]
+}

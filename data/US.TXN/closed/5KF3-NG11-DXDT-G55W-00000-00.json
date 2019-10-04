@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_116cr37_TXND",
+  "case_key": "1:16cr37_TXND",
+  "case_lni": "5KF3-NG11-DXDT-G55W-00000-00",
+  "case_number": "1:16cr37",
+  "case_title": "USA v. Adams et al",
+  "case_info_full_case_name": "USA v. Adams et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adams et al",
+  "case_date_filed": "2016-08-10",
+  "case_status": "Closed",
+  "case_status_date": "01/18/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Juanita Fielden-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1), 924(a)(2) and 2 CONVICTED FELON IN POSSESSION OF FIREARMS AND AMMUNITION; AIDING &; ABETTING; AND FORFEITURE NOTICE 18:924(d) and 28:2461(c)(1)"
+        },
+        {
+          "charge_disposition": "Pursuant to the Sentencing Reform Act of 1984, as amended, it is the judgment of the Court that the defendant, Donovan Merrell Wayne Adams, is hereby committed to the custody of the Federal Bureau of Prisons (BOP) to be imprisoned for a term of ONE HUNDRED (100) months. This sentence shall run concurrent to any sentence which may be imposed for the unrelated offense(s) of Possession of Methamphetamine and Theft By Check, pending in Taylor County, Texas, and any potential sentence imposed in Case No. 20157-D for the parole violation. Pursuant to 18 U.S.C. 1467 and Fed. R. Crim. P. 32.2(b)(4)(B), it is hereby ordered that defendants interest in the following property is condemned and forfeited to the United States: a Luger 9mm semi-automatic pistol, serial number P1307382; an RG Industries .25 caliber pistol, Model RG25, serial number 50695; a High Standard Elite King 12-gauge High Standard Elite shotgun, and various rounds of ammunition. The Court did not order a fine because the defendant does not have the financial resources or future earning capacity to pay a fine. It is further ordered that the defendant pay a special assessment of $100. Supervised Release is ordered for a term of THREE (3) years. Upon Motion of the Government, all remaining Counts are dismissed, as to this defendant only. The Defendant is remanded to the custody of the US Marshal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "E. Scott Frost",
+          "judge_guid": "urn:entity:jud-100070414"
+        }
+      ]
+    },
+    {
+      "party_name": "Machalie Dawnn Jarrett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1), 924(a)(2) and 2 CONVICTED FELON IN POSSESSION OF A FIREARM; AIDING &; ABETTING; AND FORFEITURE NOTICE 18:924(d) and 28:2461(c)(2)"
+        },
+        {
+          "charge_disposition": "Pursuant to the Sentencing Reform Act of 1984, as amended, it is the judgment of the Court that the defendant, Machalie Dawnn Jarrett, is hereby committed to the custody of the Federal Bureau of Prisons (BOP) to be imprisoned for a term of TWENTY-SEVEN (27) months. This sentence shall run consecutive to any sentence which may be imposed for the unrelated offense(s) of Possession of Marijuana, pending in Taylor County, Texas. Pursuant to 18 U.S.C. 1467 and Fed. R. Crim. P. 32.2(b)(4)(B), it is hereby ordered that defendants interest in the following property is condemned and forfeited to the United States: a Luger 9mm semi-automatic pistol, serial number P1307382; an RG Industries .25 caliber pistol, Model RG25, serial number 50695; a High Standard Elite King 12-gauge High Standard Elite shotgun, and various rounds of ammunition. The Court did not order a fine because the defendant does not have the financial resources or future earning capacity to pay a fine. It is further ordered that the defendant pay a special assessment of $100. Supervised Release is ordered for a term of THREE (3) years. Upon Motion of the Government, all remaining Counts are dismissed, as to this defendant only. The Court further recommends that the defendant be housed at FCI Carswell, if possible. The Defendant is remanded to the custody of the US Marshal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "E. Scott Frost",
+          "judge_guid": "urn:entity:jud-100070414"
+        }
+      ]
+    }
+  ]
+}

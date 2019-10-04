@@ -1,0 +1,179 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_102cr79_ohsd",
+  "case_key": "1:02cr79_ohsd",
+  "case_lni": "7WBN-PKJ0-Y892-B1N8-00000-00",
+  "case_number": "1:02cr79",
+  "case_title": "USA v. McCollister, et al",
+  "case_info_full_case_name": "USA v. McCollister, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCollister, et al",
+  "case_date_filed": "2002-06-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Randall L McCollister",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1s)"
+        },
+        {
+          "charge_disposition": "97 Months; 3 years supervised release; Fine $15,000; assessment $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_disposition": "Counts dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (2-33)"
+        },
+        {
+          "charge_disposition": "Counts dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (34-50)"
+        },
+        {
+          "charge_disposition": "Counts dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1035.F"
+        },
+        {
+          "charge_description": "18:1035.F FALSE STATEMENTS RELATING TO HEALTH CARE MATTERS (51-61)"
+        },
+        {
+          "charge_disposition": "Counts dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan J Dlott",
+          "judge_guid": "urn:entity:jud-100044481"
+        }
+      ]
+    },
+    {
+      "party_name": "Donald nmi Sherman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1s)"
+        },
+        {
+          "charge_disposition": "3 Years Probation w/6 months home confinement. Assessed $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_disposition": "Count dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan J Dlott",
+          "judge_guid": "urn:entity:jud-100044481"
+        }
+      ]
+    },
+    {
+      "party_name": "Lawrence nmi Jenkins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1s)"
+        },
+        {
+          "charge_disposition": "12 Months; 3 years supervised release; Fine of $500; Assessment of $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_disposition": "Count dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan J Dlott",
+          "judge_guid": "urn:entity:jud-100044481"
+        }
+      ]
+    }
+  ]
+}

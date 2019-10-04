@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_119po71_HID",
+  "case_key": "1:19po71_HID",
+  "case_lni": "5VN2-9RX1-DXDT-G4JT-00000-00",
+  "case_number": "1:19po71",
+  "case_title": "USA v. Shoulders",
+  "case_info_full_case_name": "USA v. Shoulders",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shoulders",
+  "case_date_filed": "2019-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Patrick D. Kummerer",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William E. Shoulders, III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, NO VALID OPERATOR'S LICENSE; 18:13, HRS 286-102, HRS 286-136; Aliamanu Military Reservation, Hawaii; 1/23/2019; 672522 H11(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "ROM TRADER",
+          "judge_guid": "urn:entity:jud-100023871"
+        }
+      ]
+    }
+  ]
+}

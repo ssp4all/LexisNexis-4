@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_318po379_CAED",
+  "case_key": "3:18po379_CAED",
+  "case_lni": "5TR7-RR71-DXDT-G2KC-00000-00",
+  "case_number": "3:18po379",
+  "case_title": "USA vs Dang",
+  "case_info_full_case_name": "USA vs Dang",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dang",
+  "case_date_filed": "2018-11-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Steve H Dang",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Exceeding Speed Limits (6012875)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis M. Cota",
+          "judge_guid": "urn:entity:jud-500000498"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_414cr6_MOED",
+  "case_key": "4:14cr6_MOED",
+  "case_lni": "5B99-YXR1-DXDT-G4MS-00000-00",
+  "case_number": "4:14cr6",
+  "case_title": "USA v. Shoniwa",
+  "case_info_full_case_name": "USA v. Shoniwa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shoniwa",
+  "case_date_filed": "2014-01-16",
+  "case_status": "Closed",
+  "case_status_date": "11/14/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ronald Shoniwa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT OF GOVERNMENT FUNDS(1r)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 30 months. Upon release from imprisonment, the defendant shall be on supervised release for a term of 3 years. Restitution ordered in the amount of $188,414.35. Special assesment fee of $100 due today."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "AGGRAVATED IDENTITY THEFT(2r-3r)"
+        },
+        {
+          "charge_disposition": "Count 2 and 3 are dismissed on the motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Carol E. Jackson",
+          "judge_guid": "urn:entity:jud-100033563"
+        }
+      ]
+    }
+  ]
+}

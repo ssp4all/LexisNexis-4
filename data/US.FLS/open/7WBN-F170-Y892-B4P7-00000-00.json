@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_101cr480_flsd",
+  "case_key": "1:01cr480_flsd",
+  "case_lni": "7WBN-F170-Y892-B4P7-00000-00",
+  "case_number": "1:01cr480",
+  "case_title": "USA v. Aponte",
+  "case_info_full_case_name": "USA v. Aponte",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aponte",
+  "case_date_filed": "2001-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARCUS APONTE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=MM.F"
+        },
+        {
+          "charge_description": "21:841B=MM.F MARIJUANA-MANUFACTURE AND POSSESS WITH THE INTENT TO DISTRIBUTE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846; 841(a)(1); 856"
+        },
+        {
+          "charge_description": "Conspiracy to Possess With the Intent to Distribute Live Marijuana Plants; Possess With the Intent to Distribute Live Marijuana Plants; Maintain a residence for the purpose of Manufacturing Live Marijuana Plants. 21:846; 841(a)(1); 856 [1:01-m-2762]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norman C. Roettger, Jr.",
+          "judge_guid": "urn:entity:jud-100013044"
+        }
+      ]
+    }
+  ]
+}

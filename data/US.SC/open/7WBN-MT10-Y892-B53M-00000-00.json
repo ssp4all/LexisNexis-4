@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_306mj1104_SCD",
+  "case_key": "3:06mj1104_SCD",
+  "case_lni": "7WBN-MT10-Y892-B53M-00000-00",
+  "case_number": "3:06mj1104",
+  "case_title": "USA v. Scott",
+  "case_info_full_case_name": "USA v. Scott",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Scott",
+  "case_date_filed": "2006-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christina Y Scott",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:505:"
+        },
+        {
+          "charge_description": "18:505: Use of a counterfeit Seal of Court for the United States Bankruptcy Court and the forging of a federal judge's signature"
+        }
+      ]
+    }
+  ]
+}

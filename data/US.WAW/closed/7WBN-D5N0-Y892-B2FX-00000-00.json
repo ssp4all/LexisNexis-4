@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_394cr5010_wawd",
+  "case_key": "3:94cr5010_wawd",
+  "case_lni": "7WBN-D5N0-Y892-B2FX-00000-00",
+  "case_number": "3:94cr5010",
+  "case_title": "USA v. Arnold",
+  "case_info_full_case_name": "USA v. Arnold",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arnold",
+  "case_date_filed": "1994-01-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DONALD W ARNOLD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_disposition": "CT II-$45.00 fine with $5.00 special assessment CT III-$45.00 fine with $5.00 special assessment. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER: Failure to stop at stop sign/signal. (2)"
+        },
+        {
+          "charge_disposition": "CT II-$45.00 fine with $5.00 special assessment CT III-$45.00 fine with $5.00 special assessment. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER: Failure to come to a complet stop. (3)"
+        },
+        {
+          "charge_disposition": "CT II-$45.00 fine with $5.00 special assessment CT III-$45.00 fine with $5.00 special assessment. (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Franklin D Burgess",
+          "judge_guid": "urn:entity:jud-100063796"
+        }
+      ]
+    }
+  ]
+}

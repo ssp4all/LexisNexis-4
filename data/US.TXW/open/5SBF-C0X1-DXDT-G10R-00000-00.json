@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_418mj1620_TXWD",
+  "case_key": "4:18mj1620_TXWD",
+  "case_lni": "5SBF-C0X1-DXDT-G10R-00000-00",
+  "case_number": "4:18mj1620",
+  "case_title": "USA v. Escamilla-Aranda",
+  "case_info_full_case_name": "USA v. Escamilla-Aranda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Escamilla-Aranda",
+  "case_date_filed": "2018-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA Pecos",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Omar Escamilla-Aranda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F , 18:1546.F  Illegal Reentry and Fraudulent use of Visa"
+        },
+        {
+          "charge_offence_description": "8:1326A.F , 18:1546.F  Illegal Reentry and Fraudul"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David B. Fannin",
+          "judge_guid": "urn:entity:jud-100123239"
+        }
+      ]
+    }
+  ]
+}

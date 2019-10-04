@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_104cr29_nhd",
+  "case_key": "1:04cr29_nhd",
+  "case_lni": "7WBN-JHB0-Y892-B47X-00000-00",
+  "case_number": "1:04cr29",
+  "case_title": "USA v. Taza et al",
+  "case_info_full_case_name": "USA v. Taza et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Taza et al",
+  "case_date_filed": "2004-02-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Philippe Taza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 18:1341"
+        },
+        {
+          "charge_description": "18:371 AND 18:1341 CONSPIRACY TO COMMIT MAIL FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 18:1343"
+        },
+        {
+          "charge_description": "18:371 AND 18:1343 CONSPIRACY TO COMMIT WIRE FRAUD (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven J. McAuliffe",
+          "judge_guid": "urn:entity:jud-100041246"
+        }
+      ]
+    },
+    {
+      "party_name": "Jean Louis Nadeau",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 18:1341"
+        },
+        {
+          "charge_description": "18:371 AND 18:1341 CONSPIRACY TO COMMIT MAIL FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 18:1343"
+        },
+        {
+          "charge_description": "18:371 AND 18:1343 CONSPIRACY TO COMMIT WIRE FRAUD (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven J. McAuliffe",
+          "judge_guid": "urn:entity:jud-100041246"
+        }
+      ]
+    }
+  ]
+}

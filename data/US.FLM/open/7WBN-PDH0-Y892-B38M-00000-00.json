@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_809mj1026_FLMD",
+  "case_key": "8:09mj1026_FLMD",
+  "case_lni": "7WBN-PDH0-Y892-B38M-00000-00",
+  "case_number": "8:09mj1026",
+  "case_title": "USA v. Perry",
+  "case_info_full_case_name": "USA v. Perry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perry",
+  "case_date_filed": "2009-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Stanton Perry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922g1, 924"
+        },
+        {
+          "charge_description": "18:922g1, 924 Possess Ammunition, Convicted Felon"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas G Wilson",
+          "judge_guid": "urn:entity:jud-100022017"
+        }
+      ]
+    }
+  ]
+}

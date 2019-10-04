@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_107cr21_KYWD",
+  "case_key": "1:07cr21_KYWD",
+  "case_lni": "7WBN-JPC0-Y892-B564-00000-00",
+  "case_number": "1:07cr21",
+  "case_title": "USA v. Music",
+  "case_info_full_case_name": "USA v. Music",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Music",
+  "case_date_filed": "2007-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fahrudin Music",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2423(b)-TRAVEL"
+        },
+        {
+          "charge_description": "18:2423(b)-TRAVEL IN INTERSTATE COMMERCE FOR THE PURPOSE OF ENGAGING IN ILLICIT SEXUAL CONDUCT WITH A MINOR"
+        },
+        {
+          "charge_statute": "18:2423-TRAVEL"
+        },
+        {
+          "charge_description": "18:2423-TRAVEL IN INTERSTATE COMMERCE FOR THE PURPOSE OF ENGAGING IN ILLICIT SEXUAL CONDUCT WITH A MINOR (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        }
+      ]
+    }
+  ]
+}

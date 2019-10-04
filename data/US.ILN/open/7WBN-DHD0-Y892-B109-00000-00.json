@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_105cr444_ILND",
+  "case_key": "1:05cr444_ILND",
+  "case_lni": "7WBN-DHD0-Y892-B109-00000-00",
+  "case_number": "1:05cr444",
+  "case_title": "USA v. Madrigal",
+  "case_info_full_case_name": "USA v. Madrigal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Madrigal",
+  "case_date_filed": "2005-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Brandon - Spurlock",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "AUSA",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar Madrigal",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Michael T. Mason",
+          "judge_guid": "urn:entity:jud-100028759"
+        }
+      ]
+    }
+  ]
+}

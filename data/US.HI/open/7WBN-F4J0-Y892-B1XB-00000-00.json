@@ -1,0 +1,102 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_108mj87_HID",
+  "case_key": "1:08mj87_HID",
+  "case_lni": "7WBN-F4J0-Y892-B1XB-00000-00",
+  "case_number": "1:08mj87",
+  "case_title": "USA v. Auelua et al",
+  "case_info_full_case_name": "USA v. Auelua et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Auelua et al",
+  "case_date_filed": "2008-02-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Junior Auelua DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F II-21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841A=CD.F Conspiracy to Distribute, Possess with intent to distribute methamphetamine, Schedule II-21:841(a)(1) and 841(b)(1)(A)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "LESLIE E KOBAYASHI",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    },
+    {
+      "party_name": "Lauolefiso Afo DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F II-21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841A=CD.F Conspiracy to Distribute, Possess with intent to distribute methamphetamine, Schedule II-21:841(a)(1) and 841(b)(1)(A)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "LESLIE E KOBAYASHI",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    },
+    {
+      "party_name": "Joe Daniels DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F II-21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841A=CD.F Conspiracy to Distribute, Possess with intent to distribute methamphetamine, Schedule II-21:841(a)(1) and 841(b)(1)(A)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "LESLIE E KOBAYASHI",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    },
+    {
+      "party_name": "Harry Alama DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F II-21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841A=CD.F Conspiracy to Distribute, Possess with intent to distribute methamphetamine, Schedule II-21:841(a)(1) and 841(b)(1)(A)"
+        },
+        {
+          "charge_disposition": "Govt's Oral Motion to Dismiss Complaint against Defendant (04) Harry Alama"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "LESLIE E KOBAYASHI",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    }
+  ]
+}

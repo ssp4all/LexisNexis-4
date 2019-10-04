@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_219mj2738_NMD",
+  "case_key": "2:19mj2738_NMD",
+  "case_lni": "5WVH-R0N1-DXDT-G013-00000-00",
+  "case_number": "2:19mj2738",
+  "case_title": "USA v. Gomez-Bernardino",
+  "case_info_full_case_name": "USA v. Gomez-Bernardino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez-Bernardino",
+  "case_date_filed": "2019-08-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Taylor F Hartstein",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rogelio Gomez-Bernardino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(b)(1) Reentry After Deportation - Felony"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(1) Reentry After Deportation - Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kevin R. Sweazea",
+          "judge_guid": "urn:entity:jud-100019539"
+        }
+      ]
+    }
+  ]
+}

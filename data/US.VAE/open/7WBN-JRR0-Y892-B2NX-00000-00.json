@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_107mj307_VAED",
+  "case_key": "1:07mj307_VAED",
+  "case_lni": "7WBN-JRR0-Y892-B2NX-00000-00",
+  "case_number": "1:07mj307",
+  "case_title": "USA v. Prosser",
+  "case_info_full_case_name": "USA v. Prosser",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Prosser",
+  "case_date_filed": "2007-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kevin M. Jinks",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joana E. Prosser",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1382"
+        },
+        {
+          "charge_description": "18 USC 1382 Trespassing (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18USC702"
+        },
+        {
+          "charge_description": "18 USC 702 Wear Armed Forces Uniform Without Authority (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry R. Poretz",
+          "judge_guid": "urn:entity:jud-100032777"
+        }
+      ]
+    }
+  ]
+}

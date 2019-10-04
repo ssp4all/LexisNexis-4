@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_506cr40045_KSD",
+  "case_key": "5:06cr40045_KSD",
+  "case_lni": "7WBN-NX90-Y892-B3PJ-00000-00",
+  "case_number": "5:06cr40045",
+  "case_title": "USA v. Silva",
+  "case_info_full_case_name": "USA v. Silva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Silva",
+  "case_date_filed": "2006-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albert Aurelio Silva II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841(a)(1) (b)(1)(C) 18:2-Conspiracy"
+        },
+        {
+          "charge_description": "21:846 with reference to 841(a)(1) and (b)(1)(C) and 18:2-Conspiracy to distribute cocaine hydrochloride (SEALED INDICTMENT FILED [3/22/06]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Julie A. Robinson",
+          "judge_guid": "urn:entity:jud-100012125"
+        }
+      ]
+    }
+  ]
+}

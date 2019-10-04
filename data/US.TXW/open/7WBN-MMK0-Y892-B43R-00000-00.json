@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_303m2446_txwd",
+  "case_key": "3:03m2446_txwd",
+  "case_lni": "7WBN-MMK0-Y892-B43R-00000-00",
+  "case_number": "3:03m2446",
+  "case_title": "USA v. Lozano-Vargas",
+  "case_info_full_case_name": "USA v. Lozano-Vargas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lozano-Vargas",
+  "case_date_filed": "2003-08-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN PABLO LOZANO-VARGAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Did utter, use, attempts to use, possess an alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, knowing it to be forged, counterfeited, altered, or fasely made in violation of 18:1546(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

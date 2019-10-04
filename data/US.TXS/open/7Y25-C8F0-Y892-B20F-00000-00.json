@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_710cr316_TXSD",
+  "case_key": "7:10cr316_TXSD",
+  "case_lni": "7Y25-C8F0-Y892-B20F-00000-00",
+  "case_number": "7:10cr316",
+  "case_title": "USA v. Valdez-Hernandez",
+  "case_info_full_case_name": "USA v. Valdez-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valdez-Hernandez",
+  "case_date_filed": "2010-03-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs Mc",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - Mc",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Apolonio De Jesus Valdez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F"
+        },
+        {
+          "charge_offence_description": "8:1326.F"
+        },
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "10 months custody of the Bureau of Prisons to run concurrently with any state case, Supervised Release Term not imposed, $100 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_418cr157_MOED",
+  "case_key": "4:18cr157_MOED",
+  "case_lni": "5RR0-79P1-DXDT-G0BT-00000-00",
+  "case_number": "4:18cr157",
+  "case_title": "USA v. Reynolds et al",
+  "case_info_full_case_name": "USA v. Reynolds et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reynolds et al",
+  "case_date_filed": "2018-02-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Glenn Reynolds",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM(1r)"
+        },
+        {
+          "charge_disposition": "Defendant is hereby committted to the custody of the Federal Bureau of Prions to be imprisoned for a total term of 70 months, with recommendations to the BOP. This sentence shall begin immediately. This sentence shall run concurrently with any sentence imposed in Municipal Court, Creve Coeur, Missouri, under Docket No.: T2009 l 0291-7, and in Circuit Court, St. Louis, Missouri, under Docket No.: 1822-CR00232-0l. This sentence shall run concurrently to any sentence imposed in Circuit Court, St. Louis, Missouri, under Docket No.: 1622-CR04430-0l, and in Circuit Court, Madison County, Illinois, under Docket No.: 13-CF-2694. Supervised Release for a term of two years with additional supervised release terms. Special Assessment of $100.00 which is due immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "E. Richard Webber",
+          "judge_guid": "urn:entity:jud-100002390"
+        }
+      ]
+    },
+    {
+      "party_name": "Neavechie Patterson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE(3r)"
+        },
+        {
+          "charge_disposition": "Defendant is hereby committed to the custody of the Federal Bureau of Prisons to be imprisoned for a total term of 46 months, with recommendations to the BOP. This sentence shall run concurrently to any sentence imposed in the Circuit Court, St. Louis, Missouri, under Docket Nos.: 1422-CR03870-01 and 1622-CR02053-01, and concurrently to any sentence imposed under Docket No. 2014CR1824, in the Combined Court, Jefferson County, Colorado. This sentence shall begin to run immediately. Supervised Release for a term of three years with additional supervised release terms. Special Assessment of $100.00 which is due immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM(2r)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME(4r)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "E. Richard Webber",
+          "judge_guid": "urn:entity:jud-100002390"
+        }
+      ]
+    }
+  ]
+}

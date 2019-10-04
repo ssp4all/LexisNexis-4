@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304cr891_TXWD",
+  "case_key": "3:04cr891_TXWD",
+  "case_lni": "7WBN-DS70-Y892-B2TX-00000-00",
+  "case_number": "3:04cr891",
+  "case_title": "USA v. Segovia-Gonzalez",
+  "case_info_full_case_name": "USA v. Segovia-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Segovia-Gonzalez",
+  "case_date_filed": "2004-04-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS ALBERTO SEGOVIA-GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "96.0 21:841(a)(1),952(1)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 96.0 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(1) [3:04-m-1497]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank Montalvo",
+          "judge_guid": "urn:entity:jud-100016084"
+        }
+      ]
+    }
+  ]
+}

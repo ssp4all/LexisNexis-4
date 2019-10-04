@@ -1,0 +1,100 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_204cr80374_MIED",
+  "case_key": "2:04cr80374_MIED",
+  "case_lni": "7WBN-KKC0-Y892-B4M8-00000-00",
+  "case_number": "2:04cr80374",
+  "case_title": "USA v. Everett",
+  "case_info_full_case_name": "USA v. Everett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Everett",
+  "case_date_filed": "2004-10-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kay Everett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES (1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "INTERFERENCE WITH COMMERCE BY THREAT OR VIOLENCE (2-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION (2s-3s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "INTERFERENCE WITH COMMERCE BY THREAT OR VIOLENCE (4s-14s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BRIBERY INVOLVING FEDERAL PROGRAMS (15s-22s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY (23s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUD AND FALSE STATEMENTS (24s-28s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Nancy G Edmunds",
+          "judge_guid": "urn:entity:jud-100043821"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mona K Majzoub",
+          "judge_guid": "urn:entity:jud-100042922"
+        }
+      ]
+    }
+  ]
+}

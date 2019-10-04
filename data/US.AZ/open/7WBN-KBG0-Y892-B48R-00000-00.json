@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_200m274_azd",
+  "case_key": "2:00m274_azd",
+  "case_lni": "7WBN-KBG0-Y892-B48R-00000-00",
+  "case_number": "2:00m274",
+  "case_title": "USA, et al v. Barakat",
+  "case_info_full_case_name": "USA, et al v. Barakat",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Barakat",
+  "case_date_filed": "2000-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RIYAD BARAKAT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(d)(2)"
+        },
+        {
+          "charge_description": "21:841(d)(2) possess a listed chemical knowing or having reasonable cause to believe that is would be used to manufacture a controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Virginia A Mathis",
+          "judge_guid": "urn:entity:jud-100016298"
+        }
+      ]
+    }
+  ]
+}

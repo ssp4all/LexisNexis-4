@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_102cr197_dcd",
+  "case_key": "1:02cr197_dcd",
+  "case_lni": "7WBN-JCJ0-Y892-B326-00000-00",
+  "case_number": "1:02cr197",
+  "case_title": "USA v. MCNEIL",
+  "case_info_full_case_name": "USA v. MCNEIL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MCNEIL",
+  "case_date_filed": "2002-04-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Blanche L. Bruce",
+      "attorney_label": "[COR LD NTC gvt]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LIONEL MCNEIL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371;"
+        },
+        {
+          "charge_description": "18:371; CONSPIRACY TO DEFRAUD THE UNITED STATES; Conspiracy. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:201(c)(1)(B);"
+        },
+        {
+          "charge_description": "18:201(c)(1)(B); GRAFT AND CONFLICT OF INTEREST; Receiving Illegal Gratuities. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Emmet G. Sullivan",
+          "judge_guid": "urn:entity:jud-100019707"
+        }
+      ]
+    }
+  ]
+}

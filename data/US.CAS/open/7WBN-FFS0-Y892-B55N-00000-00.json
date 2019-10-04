@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_297m8034_casd",
+  "case_key": "2:97m8034_casd",
+  "case_lni": "7WBN-FFS0-Y892-B55N-00000-00",
+  "case_number": "2:97m8034",
+  "case_title": "USA v. Gurnee",
+  "case_info_full_case_name": "USA v. Gurnee",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gurnee",
+  "case_date_filed": "1997-01-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL JOHN GURNEE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-21: 952,960 963-importation 2-18:111 1114-assault"
+        },
+        {
+          "charge_description": "Cnt 1-21: 952,960 and 963-importation of marijuana; Cnt 2-18:111 and 1114-assault on a federal officer"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Louisa S. Porter",
+          "judge_guid": "urn:entity:jud-100024279"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_502cr632_txwd",
+  "case_key": "5:02cr632_txwd",
+  "case_lni": "7WBN-NTH0-Y892-B527-00000-00",
+  "case_number": "5:02cr632",
+  "case_title": "USA v. Rodriguez",
+  "case_info_full_case_name": "USA v. Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez",
+  "case_date_filed": "2002-12-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDWARD. RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE-Distribution of cocaine. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Edward C. Prado",
+          "judge_guid": "urn:entity:jud-100032689"
+        }
+      ]
+    }
+  ]
+}

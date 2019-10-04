@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_315cr43_MSSD",
+  "case_key": "3:15cr43_MSSD",
+  "case_lni": "5G95-71T1-DXDT-G1X2-00000-00",
+  "case_number": "3:15cr43",
+  "case_title": "USA v. Tate",
+  "case_info_full_case_name": "USA v. Tate",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tate",
+  "case_date_filed": "2015-06-23",
+  "case_status": "Closed",
+  "case_status_date": "02/11/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hubert Tate",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PUBLIC MONEY, PROPERTY OR RECORDS(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 5 years supervised release; $110,310 restitution; and $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Carlton W. Reeves",
+          "judge_guid": "urn:entity:jud-100002644"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Linda R. Anderson",
+          "judge_guid": "urn:entity:jud-100052771"
+        }
+      ]
+    },
+    {
+      "party_name": "Probation Officer Chris Whitver",
+      "party_description": "Interested Party"
+    }
+  ]
+}

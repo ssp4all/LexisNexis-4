@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_202m2030_lawd",
+  "case_key": "2:02m2030_lawd",
+  "case_lni": "7WBN-GM60-Y892-B219-00000-00",
+  "case_number": "2:02m2030",
+  "case_title": "USA v. Rodriguez-Barajas",
+  "case_info_full_case_name": "USA v. Rodriguez-Barajas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Barajas",
+  "case_date_filed": "2002-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERARDO RODRIGUEZ-BARAJAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Defendant, who was arrested and deported from the United States to Mexico, as an alien who was deported subsequent to a conviction for commission of an aggravated felony, was found in the United States; the Attorney General of the United States not theretofore having consented to any reapplication for admission into the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alonzo P Wilson",
+          "judge_guid": "urn:entity:jud-100067221"
+        }
+      ]
+    }
+  ]
+}

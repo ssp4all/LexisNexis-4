@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_318cr963_TXWD",
+  "case_key": "3:18cr963_TXWD",
+  "case_lni": "5S3J-7PN1-DXDT-G1XK-00000-00",
+  "case_number": "3:18cr963",
+  "case_title": "USA v. Meraz",
+  "case_info_full_case_name": "USA v. Meraz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Meraz",
+  "case_date_filed": "2018-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edgar Ely Meraz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 5 mos. impr., 3 years of supervised release, $100.00 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

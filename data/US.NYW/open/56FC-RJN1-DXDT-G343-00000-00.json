@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_612cr6117_NYWD",
+  "case_key": "6:12cr6117_NYWD",
+  "case_lni": "56FC-RJN1-DXDT-G343-00000-00",
+  "case_number": "6:12cr6117",
+  "case_title": "USA v. Wright-Darrisaw",
+  "case_info_full_case_name": "USA v. Wright-Darrisaw",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wright-Darrisaw",
+  "case_date_filed": "2012-08-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Craig R. Gestring"
+    },
+    {
+      "attorney_name": "Frank T. Pimentel"
+    },
+    {},
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Christine Wright-Darrisaw",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:871.F - threats against the president"
+        },
+        {
+          "charge_offence_description": "18:871.F - threats against the president"
+        },
+        {
+          "charge_description": "18:871.F THREATS AGAINST PRESIDENT AND SUCCESSORS TO PRESIDENT(1)"
+        },
+        {
+          "charge_disposition": "27 months to BOP; 3 years supervised release; no fine imposed; no restitution; SPA of $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001.F STATEMENTS OR ENTRIES GENERALLY(2)"
+        },
+        {
+          "charge_disposition": "27 months to BOP to run concurrent to Count 1; 3 years supervised release to run concurrent to Count 1; no fine imposed; no restitution; SPA of $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Brenda K. Sannes",
+          "judge_guid": "urn:entity:jud-100109750"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    }
+  ]
+}

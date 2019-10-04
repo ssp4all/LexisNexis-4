@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_407mj223_GAMD",
+  "case_key": "4:07mj223_GAMD",
+  "case_lni": "7WBN-NGY0-Y892-B202-00000-00",
+  "case_number": "4:07mj223",
+  "case_title": "U.S.A. v. Marler",
+  "case_info_full_case_name": "U.S.A. v. Marler",
+  "case_info_short_case_name": "U.S.A.",
+  "case_info_party1": "U.S.A.",
+  "case_info_party2": "Marler",
+  "case_date_filed": "2007-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christopher M. Judah",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeffrey D. Marler",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M-TRAFFIC"
+        },
+        {
+          "charge_description": "18:13-7210.M-TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M-TRAFFIC OTHER-69/55"
+        },
+        {
+          "charge_description": "18:13-7220.M-TRAFFIC OFFENSES, OTHER-69/55 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "G. Mallon Faircloth",
+          "judge_guid": "urn:entity:jud-100046843"
+        }
+      ]
+    }
+  ]
+}

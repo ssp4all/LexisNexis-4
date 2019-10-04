@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_217cr25_INND",
+  "case_key": "2:17cr25_INND",
+  "case_lni": "5N06-H211-DXDT-G4K0-00000-00",
+  "case_number": "2:17cr25",
+  "case_title": "United States of America v. Shelton",
+  "case_info_full_case_name": "United States of America v. Shelton",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Shelton",
+  "case_date_filed": "2017-02-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Stephen Michael Shelton",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joseph S Van Bokkelen",
+          "judge_guid": "urn:entity:jud-100000274"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul R Cherry",
+          "judge_guid": "urn:entity:jud-100049075"
+        }
+      ]
+    }
+  ]
+}

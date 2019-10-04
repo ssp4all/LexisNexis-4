@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_109cr10062_MAD",
+  "case_key": "1:09cr10062_MAD",
+  "case_lni": "7WBN-F4J0-Y892-B2F0-00000-00",
+  "case_number": "1:09cr10062",
+  "case_title": "USA v. Arrango-Molina",
+  "case_info_full_case_name": "USA v. Arrango-Molina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arrango-Molina",
+  "case_date_filed": "2009-03-11",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Arrango-Molina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1427"
+        },
+        {
+          "charge_description": "18:1427 Sale of Citizenship And Naturalization Documents (1)"
+        },
+        {
+          "charge_disposition": "The Court Orders The Defendant Committed to The Custody of The Bureau of Prisons For Time Served. Upon Release, The Defendant is Placed on Supervised Release For A Term of 2 Years With Special Conditions. The Court Further Imposes A Special Assessment of $100"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A"
+        },
+        {
+          "charge_description": "18:1028A Aggravated Idenitity Theft (2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A(a)(1)"
+        },
+        {
+          "charge_description": "18:1028A(a)(1) Fraud With Identification Documents ."
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Mark L Wolf",
+          "judge_guid": "urn:entity:jud-100021893"
+        }
+      ]
+    }
+  ]
+}

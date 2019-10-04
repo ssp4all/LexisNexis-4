@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_394cr744_casd",
+  "case_key": "3:94cr744_casd",
+  "case_lni": "7WBN-N320-Y892-B2H2-00000-00",
+  "case_number": "3:94cr744",
+  "case_title": "USA v. Hildalgo-Flores",
+  "case_info_full_case_name": "USA v. Hildalgo-Flores",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hildalgo-Flores",
+  "case_date_filed": "1994-06-06",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERTO HILDALGO-FLORES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)-DEPORTED (felony)"
+        },
+        {
+          "charge_description": "8:1326(a)-DEPORTED ALIEN FOUND IN THE US (felony) (1)"
+        },
+        {
+          "charge_disposition": "CT 1-custody of bureau of prisons for 24 months. Spv release for 1 year. Penalty assessment $50.00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John S. Rhoades",
+          "judge_guid": "urn:entity:jud-100002301"
+        }
+      ]
+    }
+  ]
+}

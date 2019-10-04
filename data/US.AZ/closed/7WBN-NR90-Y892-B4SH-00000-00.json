@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_498m6361_azd",
+  "case_key": "4:98m6361_azd",
+  "case_lni": "7WBN-NR90-Y892-B4SH-00000-00",
+  "case_number": "4:98m6361",
+  "case_title": "USA v. Camacho-Santibanez",
+  "case_info_full_case_name": "USA v. Camacho-Santibanez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Camacho-Santibanez",
+  "case_date_filed": "1998-04-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN RUBERTO CAMACHO-SANTIBANEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2-18:1028A.M"
+        },
+        {
+          "charge_description": "Ct 2-18:1028A.M FRAUD WITH IDENTIFICATION DOCUMENTS (2)"
+        },
+        {
+          "charge_disposition": "Committed to TIME SERVED, SA $25.00, cnt 1 dism, (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1 18 1546 2 18USC1028"
+        },
+        {
+          "charge_description": "Ct 1 18 1546 Fraud and misuse of visas/permits Ct 2 18 USC 1028 Fraud with identification documents"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

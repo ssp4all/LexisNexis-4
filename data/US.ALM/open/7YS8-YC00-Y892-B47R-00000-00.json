@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_210cr60_ALMD",
+  "case_key": "2:10cr60_ALMD",
+  "case_lni": "7YS8-YC00-Y892-B47R-00000-00",
+  "case_number": "2:10cr60",
+  "case_title": "USA v. Tapia (INTERPRETER NEEDED)",
+  "case_info_full_case_name": "USA v. Tapia (INTERPRETER NEEDED)",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tapia INTERPRETER NEEDED",
+  "case_date_filed": "2010-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Monica Anne Stump",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lucio Tapia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(1) REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Myron H. Thompson",
+          "judge_guid": "urn:entity:jud-100019071"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Susan Russ Walker",
+          "judge_guid": "urn:entity:jud-100011126"
+        }
+      ]
+    }
+  ]
+}

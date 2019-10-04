@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_916mj20_MTD",
+  "case_key": "9:16mj20_MTD",
+  "case_lni": "5J5D-BST1-DXDT-G28H-00000-00",
+  "case_number": "9:16mj20",
+  "case_title": "USA v. Lux",
+  "case_info_full_case_name": "USA v. Lux",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lux",
+  "case_date_filed": "2016-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kyle D. Lux",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A1=MP.F  Possession of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841A1=MP.F  Possession of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeremiah C. Lynch",
+          "judge_guid": "urn:entity:jud-100052237"
+        }
+      ]
+    }
+  ]
+}

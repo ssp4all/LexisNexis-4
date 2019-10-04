@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_518cr843_TXSD",
+  "case_key": "5:18cr843_TXSD",
+  "case_lni": "5TNR-2B21-DXDT-G0VV-00000-00",
+  "case_number": "5:18cr843",
+  "case_title": "USA v. Zarate-Escobedo",
+  "case_info_full_case_name": "USA v. Zarate-Escobedo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zarate-Escobedo",
+  "case_date_filed": "2018-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Giselle S. Guerra",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Hugo Zarate-Escobedo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_description": "Illegal entry after deportation. Penalty: 0-20 yrs and/or $250,000.00 Fine, $100 CVF, Not more than 3 yrs SRT.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marina Garcia Marmolejo",
+          "judge_guid": "urn:entity:jud-100005708"
+        }
+      ]
+    }
+  ]
+}

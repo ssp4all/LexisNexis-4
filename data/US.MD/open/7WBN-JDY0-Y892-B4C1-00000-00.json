@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_102m711_mdd",
+  "case_key": "1:02m711_mdd",
+  "case_lni": "7WBN-JDY0-Y892-B4C1-00000-00",
+  "case_number": "1:02m711",
+  "case_title": "USA v. Charris",
+  "case_info_full_case_name": "USA v. Charris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Charris",
+  "case_date_filed": "2002-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALBERTO CHARRIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "17-107"
+        },
+        {
+          "charge_description": "MTA 17-107 Vehicle without required security may not be driven. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

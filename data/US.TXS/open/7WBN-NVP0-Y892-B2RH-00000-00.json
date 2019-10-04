@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_503m3988_txsd",
+  "case_key": "5:03m3988_txsd",
+  "case_lni": "7WBN-NVP0-Y892-B2RH-00000-00",
+  "case_number": "5:03m3988",
+  "case_title": "USA v. Castillo-Penaloza",
+  "case_info_full_case_name": "USA v. Castillo-Penaloza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Penaloza",
+  "case_date_filed": "2003-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LUIS CASTILLO-PENALOZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8 6USC1326 202, 557:"
+        },
+        {
+          "charge_description": "8 &; 6 USC 1326 FELONY and 202, 557: A alien, who has previously been deported or has departed the U. S. while an order of Deportation is outstanding was found in the U. S., having not obtained the consent, for re-application for admission into the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

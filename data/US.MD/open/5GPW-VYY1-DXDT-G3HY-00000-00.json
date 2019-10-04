@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_115po7451_MDD",
+  "case_key": "1:15po7451_MDD",
+  "case_lni": "5GPW-VYY1-DXDT-G3HY-00000-00",
+  "case_number": "1:15po7451",
+  "case_title": "USA vs Nichols",
+  "case_info_full_case_name": "USA vs Nichols",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nichols",
+  "case_date_filed": "2015-08-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Wayne A Nichols",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING WITHOUT A PERMIT OR PARKING IN UNAUTHORIZED LOCATIONS (4588872)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephanie A Gallagher",
+          "judge_guid": "urn:entity:jud-100072415"
+        }
+      ]
+    }
+  ]
+}

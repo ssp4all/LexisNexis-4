@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_203m2922_txwd",
+  "case_key": "2:03m2922_txwd",
+  "case_lni": "7WBN-R500-Y892-B0K0-00000-00",
+  "case_number": "2:03m2922",
+  "case_title": "USA v. Moreno-Salcedo",
+  "case_info_full_case_name": "USA v. Moreno-Salcedo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Salcedo",
+  "case_date_filed": "2003-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN FRANCISCO MORENO-SALCEDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1)-possess 121.19"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1)-possess with intent to distribute 121.19 kilograms of marijuana, a Schedule I Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

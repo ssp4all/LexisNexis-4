@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_510cr4_CACD",
+  "case_key": "5:10cr4_CACD",
+  "case_lni": "7XJG-CB30-Y892-B1CT-00000-00",
+  "case_number": "5:10cr4",
+  "case_title": "USA v. Wagoner",
+  "case_info_full_case_name": "USA v. Wagoner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wagoner",
+  "case_date_filed": "2010-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dennis L Wagoner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:111(a)(1):"
+        },
+        {
+          "charge_description": "18:111(a)(1): ASSAULT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220: 20001"
+        },
+        {
+          "charge_description": "18:13-7220: ASSIMILATING C.V.C. 20001 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Oswald Parada",
+          "judge_guid": "urn:entity:jud-100009405"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_317cr107_TNMD",
+  "case_key": "3:17cr107_TNMD",
+  "case_lni": "5NST-V1C1-DXDT-G4P9-00000-00",
+  "case_number": "3:17cr107",
+  "case_title": "USA v. Nevels",
+  "case_info_full_case_name": "USA v. Nevels",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nevels",
+  "case_date_filed": "2017-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sunny A.M. Koshy",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Reginald Leon Nevels",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Felony Information 6/13/17: 18:922(g)(1) and 18:924 Convicted felon in possession of firearms(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Aleta A. Trauger",
+          "judge_guid": "urn:entity:jud-100006326"
+        }
+      ]
+    }
+  ]
+}

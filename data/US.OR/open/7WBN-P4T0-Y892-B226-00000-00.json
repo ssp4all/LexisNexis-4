@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_600cr60059_ord",
+  "case_key": "6:00cr60059_ord",
+  "case_lni": "7WBN-P4T0-Y892-B226-00000-00",
+  "case_number": "6:00cr60059",
+  "case_title": "USA v. Mendoza",
+  "case_info_full_case_name": "USA v. Mendoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendoza",
+  "case_date_filed": "2000-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MANUEL MENDOZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(ii)-POSSESS"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(ii)-POSSESS WITH INTENT TO DISTRIBUTE COCAINE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-DISTRIBUTE"
+        },
+        {
+          "charge_description": "21:841(a)(1)-DISTRIBUTE COCAINE [6:97-m-4044]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ann L Aiken",
+          "judge_guid": "urn:entity:jud-100074743"
+        }
+      ]
+    }
+  ]
+}

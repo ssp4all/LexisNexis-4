@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_197cr212_nywd",
+  "case_key": "1:97cr212_nywd",
+  "case_lni": "7WBN-F630-Y892-B4V2-00000-00",
+  "case_number": "1:97cr212",
+  "case_title": "USA v. Castaneda",
+  "case_info_full_case_name": "USA v. Castaneda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castaneda",
+  "case_date_filed": "1997-10-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAIRO CASTANEDA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F"
+        },
+        {
+          "charge_description": "8:1326B.F REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the Bureau of Prisons for a term of 24 months, upon release defendant to be placed on supervised release for a term of 3 years, defendants term of release shall be unsupervised, defendant is to be delivered to a duly authorized immigration official for deportation pursuant to 18 U.S.C. 3583(d), defendant to pay $100. assessment. RJA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(b)(1)"
+        },
+        {
+          "charge_description": "8:1326(b)(1) illegally enter and remain and was found to be illegally in the USA after having previously been arrested and deported from the US and without having first obtained permission of the Attorney General to reapply for admission to and re-enter the US [1:97-m-2070]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USDJ",
+          "judge_name": "Richard J. Arcara",
+          "judge_guid": "urn:entity:jud-100074279"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_394m305_vawd",
+  "case_key": "3:94m305_vawd",
+  "case_lni": "7WBN-DTF0-Y892-B4F9-00000-00",
+  "case_number": "3:94m305",
+  "case_title": "USA v. Stemper",
+  "case_info_full_case_name": "USA v. Stemper",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stemper",
+  "case_date_filed": "1994-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TODD MICHAEL STEMPER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 18:2 Knowingly and intentionally distribute a controlled substance, marijuana, Sch.I; aid and abet"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Waugh Crigler",
+          "judge_guid": "urn:entity:jud-100045545"
+        }
+      ]
+    }
+  ]
+}

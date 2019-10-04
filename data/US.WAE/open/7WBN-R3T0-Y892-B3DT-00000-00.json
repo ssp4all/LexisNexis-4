@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_202m4088_waed",
+  "case_key": "2:02m4088_waed",
+  "case_lni": "7WBN-R3T0-Y892-B3DT-00000-00",
+  "case_number": "2:02m4088",
+  "case_title": "USA v. Thompson",
+  "case_info_full_case_name": "USA v. Thompson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thompson",
+  "case_date_filed": "2002-03-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHELLE R. THOMPSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lonny R Suko",
+          "judge_guid": "urn:entity:jud-100019716"
+        }
+      ]
+    }
+  ]
+}

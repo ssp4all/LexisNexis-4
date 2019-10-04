@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_217po161_LAED",
+  "case_key": "2:17po161_LAED",
+  "case_lni": "5NR0-JXH1-DXDT-G1DS-00000-00",
+  "case_number": "2:17po161",
+  "case_title": "USA vs Ponce",
+  "case_info_full_case_name": "USA vs Ponce",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ponce",
+  "case_date_filed": "2017-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar D Ponce",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "No registration certificate in vehicle (3936927)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Obedience to traffic control device (3936926)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Inspection (brake) tag required (3936929)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Wilkinson, Jr",
+          "judge_guid": "urn:entity:jud-100022688"
+        }
+      ]
+    }
+  ]
+}

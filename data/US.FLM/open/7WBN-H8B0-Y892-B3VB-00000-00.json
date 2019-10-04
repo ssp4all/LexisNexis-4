@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_306mj1027_FLMD",
+  "case_key": "3:06mj1027_FLMD",
+  "case_lni": "7WBN-H8B0-Y892-B3VB-00000-00",
+  "case_number": "3:06mj1027",
+  "case_title": "USA v. Bonilla-Delgado",
+  "case_info_full_case_name": "USA v. Bonilla-Delgado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bonilla-Delgado",
+  "case_date_filed": "2006-02-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Clemente Bonilla-Delgado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas E. Morris",
+          "judge_guid": "urn:entity:jud-100015833"
+        }
+      ]
+    }
+  ]
+}

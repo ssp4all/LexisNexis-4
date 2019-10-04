@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_707cr391_SCD",
+  "case_key": "7:07cr391_SCD",
+  "case_lni": "7WBN-P980-Y892-B2MF-00000-00",
+  "case_number": "7:07cr391",
+  "case_title": "USA v. Reese",
+  "case_info_full_case_name": "USA v. Reese",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reese",
+  "case_date_filed": "2007-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Franklin Reese",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1029(a)(2)PRODUCES/TRAFFICS 22, 2006"
+        },
+        {
+          "charge_description": "18:1029(a)(2)PRODUCES/TRAFFICS IN COUNTERFEIT DEVICE. November 22, 2006 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A(a)(1) 18, 2006"
+        },
+        {
+          "charge_description": "18:1028A(a)(1) FRAUD WITH IDENTIFICATION DOCUMENTS. November 18, 2006 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A(a)(1)FRAUD 3, 2006"
+        },
+        {
+          "charge_description": "18:1028A(a)(1)FRAUD WITH IDENTIFICATION DOCUMENTS. November 3, 2006 (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A(a)(1)FRAUD 22, 2006"
+        },
+        {
+          "charge_description": "18:1028A(a)(1)FRAUD WITH IDENTIFICATION DOCUMENTS. November 22, 2006 (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1029"
+        },
+        {
+          "charge_description": "18:1029 trafficking in unauthorized access devices"
+        }
+      ]
+    }
+  ]
+}

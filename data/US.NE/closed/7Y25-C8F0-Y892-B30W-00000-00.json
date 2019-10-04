@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_410cr3015_NED",
+  "case_key": "4:10cr3015_NED",
+  "case_lni": "7Y25-C8F0-Y892-B30W-00000-00",
+  "case_number": "4:10cr3015",
+  "case_title": "USA v. Wilson",
+  "case_info_full_case_name": "USA v. Wilson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wilson",
+  "case_date_filed": "2010-02-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Larry Royce Wilson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) Felon in Possession of Firearm (1)"
+        },
+        {
+          "charge_disposition": "The Defendant Pleaded Guilty to Count I of The Indictment And is Committed to The Custody of The Bureau of Prisons For 24 Months; Supervised Release of 3 Years With Special Conditions; $100.00 Special Assessment Due And Payable"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Warren K Urbom",
+          "judge_guid": "urn:entity:jud-100010813"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cheryl R Zwart",
+          "judge_guid": "urn:entity:jud-100016364"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_597cr184_nced",
+  "case_key": "5:97cr184_nced",
+  "case_lni": "7WBN-FX10-Y892-B3C5-00000-00",
+  "case_number": "5:97cr184",
+  "case_title": "USA v. Jarvis",
+  "case_info_full_case_name": "USA v. Jarvis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jarvis",
+  "case_date_filed": "1997-12-30",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WENDELL N/N JARVIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751"
+        },
+        {
+          "charge_description": "18:751 Escape (1)"
+        },
+        {
+          "charge_disposition": "18 mos. impr-consec. with previous state or fed. sen.-3 yrs. sup. release-$100.00 special assess. and $1,800 w/o interest (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC, 751(a)"
+        },
+        {
+          "charge_description": "Knowingly escaping from the United States Bureau of Prisons at the Federal Prison Camp on Seymour-Johnson Air Base, Goldsboro, North Carolina in violation of 18 USC, Sec 751(a) [5:96-m-104]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Fox",
+          "judge_guid": "urn:entity:jud-100055471"
+        }
+      ]
+    }
+  ]
+}

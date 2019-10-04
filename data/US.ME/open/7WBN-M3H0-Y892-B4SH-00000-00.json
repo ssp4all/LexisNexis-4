@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_290cr28_med",
+  "case_key": "2:90cr28_med",
+  "case_lni": "7WBN-M3H0-Y892-B4SH-00000-00",
+  "case_number": "2:90cr28",
+  "case_title": "USA v. AMOUYAL",
+  "case_info_full_case_name": "USA v. AMOUYAL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "AMOUYAL",
+  "case_date_filed": "1990-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "YAACOV SHIMON AMOUYAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 500"
+        },
+        {
+          "charge_description": "21:846 CONTROLLED SUBSTANCE-POSSESSION conspiracy to possess with intent to distribute in excess of 500 grams of cocaine (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 CONTROLLED SUB-SELL, DISTRIBUTE,OR DISPEN aiding and abetting the possession with intent to distribute cocaine (2-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "GENE CARTER",
+          "judge_guid": "urn:entity:jud-100063148"
+        }
+      ]
+    }
+  ]
+}

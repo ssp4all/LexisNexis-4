@@ -1,0 +1,123 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_302cr2672_casd",
+  "case_key": "3:02cr2672_casd",
+  "case_lni": "7WBN-FHC0-Y892-B2KH-00000-00",
+  "case_number": "3:02cr2672",
+  "case_title": "USA v. Mora",
+  "case_info_full_case_name": "USA v. Mora",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mora",
+  "case_date_filed": "2002-10-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESSICA MORA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960; 18:2-Importation"
+        },
+        {
+          "charge_description": "21:952, 960; 18:2-Importation of Cocaine; Aiding and Abetting (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1); 18:2-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1); 18:2-Possession of Cocaine with Intent to Distribute; Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "M. James Lorenz",
+          "judge_guid": "urn:entity:jud-100038688"
+        }
+      ]
+    },
+    {
+      "party_name": "DAISY MORA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960; 18:2-Importation"
+        },
+        {
+          "charge_description": "21:952, 960; 18:2-Importation of Cocaine; Aiding and Abetting (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1); 18:2-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1); 18:2-Possession of Cocaine with Intent to Distribute; Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "M. James Lorenz",
+          "judge_guid": "urn:entity:jud-100038688"
+        }
+      ]
+    },
+    {
+      "party_name": "MARISOL FRANCO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960; 18:2-Importation"
+        },
+        {
+          "charge_description": "21:952, 960; 18:2-Importation of Cocaine; Aiding and Abetting (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1); 18:2-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1); 18:2-Possession of Cocaine with Intent to Distribute; Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "M. James Lorenz",
+          "judge_guid": "urn:entity:jud-100038688"
+        }
+      ]
+    }
+  ]
+}

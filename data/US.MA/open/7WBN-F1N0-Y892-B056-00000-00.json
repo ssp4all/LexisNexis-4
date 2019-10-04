@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_101m1005_mad",
+  "case_key": "1:01m1005_mad",
+  "case_lni": "7WBN-F1N0-Y892-B056-00000-00",
+  "case_number": "1:01m1005",
+  "case_title": "USA, et al v. Doe",
+  "case_info_full_case_name": "USA, et al v. Doe",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Doe",
+  "case_date_filed": "2001-01-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN DOE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1542"
+        },
+        {
+          "charge_description": "18:1542 willfully and knowingly make a false statement on an application for a passport"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Judith G. Dein",
+          "judge_guid": "urn:entity:jud-100044880"
+        }
+      ]
+    }
+  ]
+}

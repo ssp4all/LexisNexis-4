@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_505mj2092_OKWD",
+  "case_key": "5:05mj2092_OKWD",
+  "case_lni": "7WBN-SBP0-Y892-B0RW-00000-00",
+  "case_number": "5:05mj2092",
+  "case_title": "United States of America v. Wilson",
+  "case_info_full_case_name": "United States of America v. Wilson",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Wilson",
+  "case_date_filed": "2005-12-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Barbara F Wilson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald L. Howland",
+          "judge_guid": "urn:entity:jud-100033949"
+        }
+      ]
+    }
+  ]
+}

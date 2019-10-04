@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_119po5815_MDD",
+  "case_key": "1:19po5815_MDD",
+  "case_lni": "5WRG-K6Y1-DXDT-G3G7-00000-00",
+  "case_number": "1:19po5815",
+  "case_title": "USA vs Drenner",
+  "case_info_full_case_name": "USA vs Drenner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Drenner",
+  "case_date_filed": "2019-09-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Christina K Drenner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OPERATING VEHICLE AT SPEED IN EXCESS OF SPEED LIMIT (9130117)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "C. Bruce Anderson",
+          "judge_guid": "urn:entity:jud-100103853"
+        }
+      ]
+    }
+  ]
+}

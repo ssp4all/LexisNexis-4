@@ -1,0 +1,132 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_117cr92_NCWD",
+  "case_key": "1:17cr92_NCWD",
+  "case_lni": "5P55-2H11-DXDT-G0DD-00000-00",
+  "case_number": "1:17cr92",
+  "case_title": "USA v. Davis et al",
+  "case_info_full_case_name": "USA v. Davis et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis et al",
+  "case_date_filed": "2017-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pressley Antonio Davis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 924(c)(1)(A) VIOLENT CRIME/DRUGS/MACHINE GUN(3)"
+        },
+        {
+          "charge_disposition": "70 months imprisonment; 5 years supervised release; $100 assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 922(g)(1)UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1)CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 1028(a)(3) and (b)(2) FRAUD WITH IDENTIFICATION DOCUMENTS(4)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 1028A(a)(1) FRAUD WITH IDENTIFICATION DOCUMENTS(5)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martin Reidinger",
+          "judge_guid": "urn:entity:jud-100015077"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis Howell",
+          "judge_guid": "urn:entity:jud-100033959"
+        }
+      ]
+    },
+    {
+      "party_name": "Melvin Dwight Lenord",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 1028(a)(3) and (b)(2) FRAUD WITH IDENTIFICATION DOCUMENTS(4)"
+        },
+        {
+          "charge_disposition": "12 months imprisonment - to run consecutively to any undischarged term of imprisonment imposed by any state or federal court. 2 years of supervised release. $100.00 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 1028A(a)(1) FRAUD WITH IDENTIFICATION DOCUMENTS(5)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martin Reidinger",
+          "judge_guid": "urn:entity:jud-100015077"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis Howell",
+          "judge_guid": "urn:entity:jud-100033959"
+        }
+      ]
+    }
+  ]
+}

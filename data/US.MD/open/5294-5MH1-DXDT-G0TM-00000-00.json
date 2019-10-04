@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_111mj650_MDD",
+  "case_key": "1:11mj650_MDD",
+  "case_lni": "5294-5MH1-DXDT-G0TM-00000-00",
+  "case_number": "1:11mj650",
+  "case_title": "USA v. Omema",
+  "case_info_full_case_name": "USA v. Omema",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Omema",
+  "case_date_filed": "2011-02-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Vionna Omema",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving on Suspended Out of State License (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Susan K. Gauvey",
+          "judge_guid": "urn:entity:jud-100038395"
+        }
+      ]
+    }
+  ]
+}

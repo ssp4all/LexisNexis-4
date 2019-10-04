@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_104m2990_FLSD",
+  "case_key": "1:04m2990_FLSD",
+  "case_lni": "7WBN-JJM0-Y892-B03S-00000-00",
+  "case_number": "1:04m2990",
+  "case_title": "USA v. Rodriguez Bernal",
+  "case_info_full_case_name": "USA v. Rodriguez Bernal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez Bernal",
+  "case_date_filed": "2004-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE LUIS RODRIGUEZ BERNAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Use or attempt to use false passport"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrea M. Simonton",
+          "judge_guid": "urn:entity:jud-100071294"
+        }
+      ]
+    }
+  ]
+}

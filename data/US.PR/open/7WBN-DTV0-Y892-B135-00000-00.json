@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_396m371_prd",
+  "case_key": "3:96m371_prd",
+  "case_lni": "7WBN-DTV0-Y892-B135-00000-00",
+  "case_number": "3:96m371",
+  "case_title": "USA v. Alvarez-Rodriguez, et al",
+  "case_info_full_case_name": "USA v. Alvarez-Rodriguez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarez-Rodriguez, et al",
+  "case_date_filed": "1996-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Miguel A. Fernandez-Torres of P.R. ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SAMUEL ALVAREZ-RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:2;"
+        },
+        {
+          "charge_description": "A&;A; Steal mail (18:2; 1708)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    },
+    {
+      "party_name": "ORLANDO GUZMAN-GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:2;"
+        },
+        {
+          "charge_description": "A&;A; Steal mail (18:2; 1708)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    },
+    {
+      "party_name": "JULIO A. CRUZ-SANTIAGO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:2;"
+        },
+        {
+          "charge_description": "A&;A; Steal mail (18:2; 1708)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    }
+  ]
+}

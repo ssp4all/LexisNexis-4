@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_307mj3505_TXWD",
+  "case_key": "3:07mj3505_TXWD",
+  "case_lni": "7WBN-DSN0-Y892-B34S-00000-00",
+  "case_number": "3:07mj3505",
+  "case_title": "USA v. Sandoval Jr. et al",
+  "case_info_full_case_name": "USA v. Sandoval Jr. et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval Jr. et al",
+  "case_date_filed": "2007-07-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ignacio Sandoval Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F-Marijuana-Sell, 21:846=MD.F=Conspiracy 529.9"
+        },
+        {
+          "charge_description": "21:841A=MD.F-Marijuana-Sell, Distribute, or Disepense, 21:846=MD.F=Conspiracy to Distribute Marijuana approximately 529.9 pounds."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    },
+    {
+      "party_name": "Elizabeth Vargas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F-Marijuana-Sell, 21:846=MD.F=Conspiracy 529.9"
+        },
+        {
+          "charge_description": "21:841A=MD.F-Marijuana-Sell, Distribute, or Disepense, 21:846=MD.F=Conspiracy to Distribute Marijuana approximately 529.9 pounds."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_403mj228_mowd",
+  "case_key": "4:03mj228_mowd",
+  "case_lni": "7WBN-FR90-Y892-B00F-00000-00",
+  "case_number": "4:03mj228",
+  "case_title": "USA v. Crippen",
+  "case_info_full_case_name": "USA v. Crippen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Crippen",
+  "case_date_filed": "2003-12-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bobby D Crippen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Arms,.22 1906, 68788, 12-gauge 37, 371172342, 18USC(s) 922(g)(1)"
+        },
+        {
+          "charge_description": "The defendant did, having been convicted of a crime punishable by imprisonment for a term exceeding one year, did knowingly possess, in and affecting commerce, firearms, to wit: a H&;R Arms,.22 caliber handgun, model 1906, serial number 68788, and a Ithaca, 12-gauge sawed-off shotgun, model 37, serial number 371172342, in violation of Title 18, United States Code, Section(s) 922(g)(1) and 924(a)(2)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert E. Larsen",
+          "judge_guid": "urn:entity:jud-100035550"
+        }
+      ]
+    }
+  ]
+}

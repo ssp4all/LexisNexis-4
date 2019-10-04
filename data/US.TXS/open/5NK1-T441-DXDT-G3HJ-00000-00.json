@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_217cr277_TXSD",
+  "case_key": "2:17cr277_TXSD",
+  "case_lni": "5NK1-T441-DXDT-G3HJ-00000-00",
+  "case_number": "2:17cr277",
+  "case_title": "USA v. Maldonado-Miranda",
+  "case_info_full_case_name": "USA v. Maldonado-Miranda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maldonado-Miranda",
+  "case_date_filed": "2017-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roberto Maldonado-Miranda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIEN - FELONY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326.F---REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F---REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John D Rainey",
+          "judge_guid": "urn:entity:jud-100027752"
+        }
+      ]
+    }
+  ]
+}

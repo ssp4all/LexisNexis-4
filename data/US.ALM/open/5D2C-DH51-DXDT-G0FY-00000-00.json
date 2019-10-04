@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_214po460_ALMD",
+  "case_key": "2:14po460_ALMD",
+  "case_lni": "5D2C-DH51-DXDT-G0FY-00000-00",
+  "case_number": "2:14po460",
+  "case_title": "USA vs Nelson",
+  "case_info_full_case_name": "USA vs Nelson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nelson",
+  "case_date_filed": "2014-09-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ryan H Nelson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OPERATING VEHICLE ON FOREST DEV ROAD IN VIOL OF STATE LAWS/REGS (FAXS007R)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Wallace Capel, Jr",
+          "judge_guid": "urn:entity:jud-100063359"
+        }
+      ]
+    }
+  ]
+}

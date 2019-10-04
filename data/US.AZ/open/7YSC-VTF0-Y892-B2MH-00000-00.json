@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_410mj7828_AZD",
+  "case_key": "4:10mj7828_AZD",
+  "case_lni": "7YSC-VTF0-Y892-B2MH-00000-00",
+  "case_number": "4:10mj7828",
+  "case_title": "USA v. Gomez-Alvarado",
+  "case_info_full_case_name": "USA v. Gomez-Alvarado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez-Alvarado",
+  "case_date_filed": "2010-04-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Javier Gomez-Alvarado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326 enhanced by 8:1326(b)(2) Illegal Re-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

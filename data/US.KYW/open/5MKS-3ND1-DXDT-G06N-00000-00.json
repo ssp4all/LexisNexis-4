@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_517mj1_KYWD",
+  "case_key": "5:17mj1_KYWD",
+  "case_lni": "5MKS-3ND1-DXDT-G06N-00000-00",
+  "case_number": "5:17mj1",
+  "case_title": "USA v. Massey",
+  "case_info_full_case_name": "USA v. Massey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Massey",
+  "case_date_filed": "2017-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Precious N. Massey",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113(a)(4) - ASSAULT BY STRIKING, BEATING OR WOUNDING(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lanny King",
+          "judge_guid": "urn:entity:jud-100126946"
+        }
+      ]
+    }
+  ]
+}

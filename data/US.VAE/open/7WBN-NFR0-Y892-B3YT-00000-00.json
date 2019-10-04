@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_406mj136_VAED",
+  "case_key": "4:06mj136_VAED",
+  "case_lni": "7WBN-NFR0-Y892-B3YT-00000-00",
+  "case_number": "4:06mj136",
+  "case_title": "USA v. PARKER",
+  "case_info_full_case_name": "USA v. PARKER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PARKER",
+  "case_date_filed": "2006-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18,USC7 13, 18.2 266-Driving"
+        },
+        {
+          "charge_description": "Title 18, USC Sections 7 &; 13, Assimilating Code of Va, 18.2 Section 266-Driving under the influence of alcohol (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18,USC7 13, 46.2, 848-Improper"
+        },
+        {
+          "charge_description": "Title 18, USC Sections 7 &; 13, Assimilating Code of Va 46.2, Code of Va Section 848-Improper Driving (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18,USC7 13, 46.2, 104"
+        },
+        {
+          "charge_description": "Title 18, USC Sections 7 &; 13, Assimilating Title 46.2, Code of VA, Section 104 (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_119cr10110_TNWD",
+  "case_key": "1:19cr10110_TNWD",
+  "case_lni": "5WK8-CYW1-DXDT-G2D7-00000-00",
+  "case_number": "1:19cr10110",
+  "case_title": "United States of America v. Perry",
+  "case_info_full_case_name": "United States of America v. Perry",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Perry",
+  "case_date_filed": "2019-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Hillary Lawler Parham",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Frank Perry, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    }
+  ]
+}

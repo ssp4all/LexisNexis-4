@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_312cr121_KYWD",
+  "case_key": "3:12cr121_KYWD",
+  "case_lni": "56PT-0GY1-DXDT-G0X4-00000-00",
+  "case_number": "3:12cr121",
+  "case_title": "Commonwealth of Kentucky v. Jason Onteria Mason",
+  "case_info_full_case_name": "Commonwealth of Kentucky v. Jason Onteria Mason",
+  "case_info_short_case_name": "Commonwealth of Kentucky",
+  "case_info_party1": "Commonwealth of Kentucky",
+  "case_info_party2": "Jason Onteria Mason",
+  "case_date_filed": "2012-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jason Onteria Mason",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1443 NOTICE OF REMOVAL FROM STATE COURT-   CIVIL RIGHTS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer B. Coffman",
+          "judge_guid": "urn:entity:jud-100048139"
+        }
+      ]
+    },
+    {
+      "party_name": "Commonwealth of ",
+      "party_description": "Respondent",
+      "charges": [
+        {
+          "charge_offence_description": "Commonwealth of Kentucky"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer B. Coffman",
+          "judge_guid": "urn:entity:jud-100048139"
+        }
+      ]
+    }
+  ]
+}

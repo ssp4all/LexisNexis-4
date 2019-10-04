@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_500m364_txsd",
+  "case_key": "5:00m364_txsd",
+  "case_lni": "7WBN-NT20-Y892-B2K2-00000-00",
+  "case_number": "5:00m364",
+  "case_title": "USA v. Rojas-Zamarron",
+  "case_info_full_case_name": "USA v. Rojas-Zamarron",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rojas-Zamarron",
+  "case_date_filed": "2000-01-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ISIDRO ROJAS-ZAMARRON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Unlawfully entered the U.S. by evading examination or inspection by Immigration officers/or by willful concealment of a material fact."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

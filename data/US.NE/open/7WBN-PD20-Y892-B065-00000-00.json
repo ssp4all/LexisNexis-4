@@ -1,0 +1,99 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_804cr140_NED",
+  "case_key": "8:04cr140_NED",
+  "case_lni": "7WBN-PD20-Y892-B065-00000-00",
+  "case_number": "8:04cr140",
+  "case_title": "USA v. Bloomquist et al",
+  "case_info_full_case_name": "USA v. Bloomquist et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bloomquist et al",
+  "case_date_filed": "2004-03-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andrew M. Bloomquist",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 (a)(1)(b)(1)"
+        },
+        {
+          "charge_description": "21:841 (a)(1)(b)(1) CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas M. Shanahan",
+          "judge_guid": "urn:entity:jud-100021341"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. A. Gossett",
+          "judge_guid": "urn:entity:jud-100048765"
+        }
+      ]
+    },
+    {
+      "party_name": "Katherine White",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 (a)(1)(b)(1)"
+        },
+        {
+          "charge_description": "21:841 (a)(1)(b)(1) CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (4-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas M. Shanahan",
+          "judge_guid": "urn:entity:jud-100021341"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. A. Gossett",
+          "judge_guid": "urn:entity:jud-100048765"
+        }
+      ]
+    }
+  ]
+}

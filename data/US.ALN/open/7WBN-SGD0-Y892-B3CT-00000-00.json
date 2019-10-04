@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_608cr296_ALND",
+  "case_key": "6:08cr296_ALND",
+  "case_lni": "7WBN-SGD0-Y892-B3CT-00000-00",
+  "case_number": "6:08cr296",
+  "case_title": "USA v. Camp",
+  "case_info_full_case_name": "USA v. Camp",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Camp",
+  "case_date_filed": "2008-07-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "USM",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Russell E Penfield",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Phillip Wayne Camp",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "C Lynwood Smith, Jr",
+          "judge_guid": "urn:entity:jud-100022357"
+        },
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert R Armstrong",
+          "judge_guid": "urn:entity:jud-100052609"
+        }
+      ]
+    }
+  ]
+}

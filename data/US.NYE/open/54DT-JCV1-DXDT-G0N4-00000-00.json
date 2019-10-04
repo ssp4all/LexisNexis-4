@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_111mj1085_NYED",
+  "case_key": "1:11mj1085_NYED",
+  "case_lni": "54DT-JCV1-DXDT-G0N4-00000-00",
+  "case_number": "1:11mj1085",
+  "case_title": "USA v. Rodriguez Corona",
+  "case_info_full_case_name": "USA v. Rodriguez Corona",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez Corona",
+  "case_date_filed": "2011-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alexi Daniel Rodriguez Corona",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "31:5332.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lois Bloom",
+          "judge_guid": "urn:entity:jud-100061353"
+        }
+      ]
+    }
+  ]
+}

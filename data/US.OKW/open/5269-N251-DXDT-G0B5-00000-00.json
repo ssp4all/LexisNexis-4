@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_511cr66_OKWD",
+  "case_key": "5:11cr66_OKWD",
+  "case_lni": "5269-N251-DXDT-G0B5-00000-00",
+  "case_number": "5:11cr66",
+  "case_title": "United States of America v. Rollings",
+  "case_info_full_case_name": "United States of America v. Rollings",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Rollings",
+  "case_date_filed": "2011-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Terry Jo Rollings",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371 18USC,659, 18USC2(a)"
+        },
+        {
+          "charge_description": "Count I-Title 18, U.S.C.371 Conspire to conceal goods which are part of interstate shipment of property; Count II Title 18, U.S.C.,659, Title 18, U.S.C.2(a) Theft and possession of stolen goods while moving in interstate commerce"
+        },
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRED TO CONCEAL GOODS WHICH ARE PART OF INTERSTATE SHIPMENT OF PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659 18:2(a)"
+        },
+        {
+          "charge_description": "18:659 &; 18:2(a) THEFT AND POSSESSION OF STOLEN GOODS WHILE MOVING IN INTERSTATE COMMERCE; AID AND ABET (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2321 18:2(a)"
+        },
+        {
+          "charge_description": "18:2321 &; 18:2(a) TRAFFICKING IN MOTOR VEHICLES OR THEIR COMPONENTS WITH FALSIFIED, ALTERED, OR REMOVED IDENTIFICATION NUMBERS (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David L. Russell",
+          "judge_guid": "urn:entity:jud-100000717"
+        }
+      ]
+    }
+  ]
+}

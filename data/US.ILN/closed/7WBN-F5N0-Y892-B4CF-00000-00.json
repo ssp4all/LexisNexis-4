@@ -1,0 +1,73 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_195cr329_ilnd",
+  "case_key": "1:95cr329_ilnd",
+  "case_lni": "7WBN-F5N0-Y892-B4CF-00000-00",
+  "case_number": "1:95cr329",
+  "case_title": "USA v. Ledesma",
+  "case_info_full_case_name": "USA v. Ledesma",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ledesma",
+  "case_date_filed": "1995-05-25",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AUSA",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "AUSA",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pre-",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTONIO LEDESMA, JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1701.P"
+        },
+        {
+          "charge_description": "18:1701.P POSTAL, OBSTRUCTING THE MAIL (1)"
+        },
+        {
+          "charge_disposition": "It is the judgment of this court that: defendant is placed for a term of two (2) years with the special condition that defendant immediately resign from job with the post office. It is further ordered that defendant submit to drug testing and counseling as directed by the Probation Department. It is furhte rordered that the defendnat shall pay a total special assessment of $10.00 pursuant ot Title 18 United States Code SEction 3013 for count one. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:1703(a)"
+        },
+        {
+          "charge_description": "18:1703(a) Destruction of mail"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Suzanne B. Conlon",
+          "judge_guid": "urn:entity:jud-100049883"
+        },
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Edward A. Bobrick",
+          "judge_guid": "urn:entity:jud-100036037"
+        }
+      ]
+    }
+  ]
+}

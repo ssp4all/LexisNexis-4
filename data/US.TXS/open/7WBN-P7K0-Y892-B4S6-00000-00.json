@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_700cr622_txsd",
+  "case_key": "7:00cr622_txsd",
+  "case_lni": "7WBN-P7K0-Y892-B4S6-00000-00",
+  "case_number": "7:00cr622",
+  "case_title": "USA v. Delgadillo-Noriega",
+  "case_info_full_case_name": "USA v. Delgadillo-Noriega",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delgadillo-Noriega",
+  "case_date_filed": "2000-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS FERNANDO DELGADILLO-NORIEGA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "50 11 25 21USC952(a), 960(a)(1), 960(b)(4) 18USC2; 12/03/00; 5 2"
+        },
+        {
+          "charge_description": "Import into the USA from the Republic of Mexico less than 50 kilos, that is, approx. 11 kilos or 25 pounds of marijuana; Title 21 USC 952(a), 960(a)(1), and 960(b)(4) and 18 USC 2; Offense date: 12/03/00; Penalty: Imprisonment for not more than 5 yrs and/or $250,000 fine and at least a 2 yr SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "50 11 25 21USC841(a)(1) 841(b)(1)(D) 18USC2; 12/03/00; 5yrs 2"
+        },
+        {
+          "charge_description": "Possession w/intent to distribute less than 50 kilos, that is, approx. 11 kilos or 25 pounds of marijuana; Tltle 21 USC 841(a)(1) and 841(b)(1)(D) and Title 18 USC 2; Offense date: 12/03/00; Penalty: Imprisonment for not more than 5yrs and/or $250, 000 fine and at least a 2 yr SRT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession w/intent to distribute marijuana; Importation of controlled substance; smuggling [7:00-m-4175]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

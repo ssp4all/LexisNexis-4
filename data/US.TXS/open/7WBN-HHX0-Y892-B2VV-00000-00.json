@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_401m1352_txsd",
+  "case_key": "4:01m1352_txsd",
+  "case_lni": "7WBN-HHX0-Y892-B2VV-00000-00",
+  "case_number": "4:01m1352",
+  "case_title": "USA v. Hubbard",
+  "case_info_full_case_name": "USA v. Hubbard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hubbard",
+  "case_date_filed": "2001-11-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDWARD HUBBARD III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "50 21USC841(a)(1); (b)(1)(A)(iii)"
+        },
+        {
+          "charge_description": "Deft unlawfully knowingly and intentionally conspire with each other to possess with intent to distribute 50 grams or more of a mixture of substance containing a detectable amount of cocaine base, commonly known as\"crack: a schedule II controlled substance in violation of 21 USC 841(a)(1); (b)(1)(A)(iii) and 846;"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frances H Stacy",
+          "judge_guid": "urn:entity:jud-100020287"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_409cr178_MOED",
+  "case_key": "4:09cr178_MOED",
+  "case_lni": "7WBN-DDG0-Y892-B13G-00000-00",
+  "case_number": "4:09cr178",
+  "case_title": "USA v. Davis",
+  "case_info_full_case_name": "USA v. Davis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis",
+  "case_date_filed": "2009-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Roger A. Keller, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albert D. Davis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PASSING COUNTERFEIT CHECKS (1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Rodney W. Sippel",
+          "judge_guid": "urn:entity:jud-100020898"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Thomas C. Mummert, III",
+          "judge_guid": "urn:entity:jud-100003227"
+        }
+      ]
+    }
+  ]
+}

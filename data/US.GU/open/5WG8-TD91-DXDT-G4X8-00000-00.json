@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GU_119po134_GUD",
+  "case_key": "1:19po134_GUD",
+  "case_lni": "5WG8-TD91-DXDT-G4X8-00000-00",
+  "case_number": "1:19po134",
+  "case_title": "USA vs Green",
+  "case_info_full_case_name": "USA vs Green",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Green",
+  "case_date_filed": "2019-07-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Bradley D Green",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failure to Stop (6887512)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joaquin V.E. Manibusan, Jr",
+          "judge_guid": "urn:entity:jud-100041795"
+        }
+      ]
+    }
+  ]
+}

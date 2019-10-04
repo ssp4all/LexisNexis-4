@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_109mj2710_FLSD",
+  "case_key": "1:09mj2710_FLSD",
+  "case_lni": "7WBN-F4J0-Y892-B458-00000-00",
+  "case_number": "1:09mj2710",
+  "case_title": "USA v. Tew",
+  "case_info_full_case_name": "USA v. Tew",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tew",
+  "case_date_filed": "2009-05-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leroy Tew",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Warrant/Indictment/MD/NC/Possession of firearm by convicted felon/1:05CR210-1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ted E. Bandstra",
+          "judge_guid": "urn:entity:jud-100052182"
+        }
+      ]
+    }
+  ]
+}

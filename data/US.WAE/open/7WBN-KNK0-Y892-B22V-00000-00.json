@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_205cr2009_WAED",
+  "case_key": "2:05cr2009_WAED",
+  "case_lni": "7WBN-KNK0-Y892-B22V-00000-00",
+  "case_number": "2:05cr2009",
+  "case_title": "USA v. Ochoa",
+  "case_info_full_case_name": "USA v. Ochoa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ochoa",
+  "case_date_filed": "2005-01-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramiro Ochoa Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:5861(d)"
+        },
+        {
+          "charge_description": "26:5861(d) UNLAWFUL TO RECEIVE FIREARM NOT REGISTERED"
+        },
+        {
+          "charge_statute": "26:5861(d)"
+        },
+        {
+          "charge_description": "26:5861(d) POSSESSION OF A UNREGISTERED FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(3)"
+        },
+        {
+          "charge_description": "18:922(g)(3) POSSESSION OF FIREARM BY PROHIBITED PERSON (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(j)"
+        },
+        {
+          "charge_description": "18:922(j) POSSESSION OF A STOLEN FIREARM (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Fred Van Sickle",
+          "judge_guid": "urn:entity:jud-100010547"
+        }
+      ]
+    }
+  ]
+}

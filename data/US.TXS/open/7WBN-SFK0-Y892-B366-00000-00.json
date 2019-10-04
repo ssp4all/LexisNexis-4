@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_599cr1088_txsd",
+  "case_key": "5:99cr1088_txsd",
+  "case_lni": "7WBN-SFK0-Y892-B366-00000-00",
+  "case_number": "5:99cr1088",
+  "case_title": "USA v. Vargas-Perez",
+  "case_info_full_case_name": "USA v. Vargas-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vargas-Perez",
+  "case_date_filed": "1999-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE C. VARGAS-PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 95 (21USC841 (a))1) 841 (b) (1) (C)) 20 1 3"
+        },
+        {
+          "charge_description": "CT. 1: Possess w/int. to distribute approx. 95 lbs., groww wt. of marihuana. (21 USC 841 (a))1) &; 841 (b) (1) (C)) PENALTY: 0 TO 20 yrs. and/or 1 million, $100. spec. assessment, 3 yrs. term of supervised release. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "95.61"
+        },
+        {
+          "charge_description": "Importation and possession with intent to distribute, to-wit: approximately, 95.61 pounds of marijuana. [5:99-m-4190]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

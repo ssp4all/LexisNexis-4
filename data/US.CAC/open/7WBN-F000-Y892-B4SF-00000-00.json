@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_805cr112_CACD",
+  "case_key": "8:05cr112_CACD",
+  "case_lni": "7WBN-F000-Y892-B4SF-00000-00",
+  "case_number": "8:05cr112",
+  "case_title": "USA v. Hurtado-Mares",
+  "case_info_full_case_name": "USA v. Hurtado-Mares",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hurtado-Mares",
+  "case_date_filed": "2005-05-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brett A Sagel",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO HURTADO-MARES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a):"
+        },
+        {
+          "charge_description": "8:1325(a): IMPROPER ENTRY BY ALIEN (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1325(a):"
+        },
+        {
+          "charge_description": "8:1325(a): IMPROPER ENTRY BY ALIEN (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "Defendant in violation of 8:1326 [8:05-m-187]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_115mj2873_FLSD",
+  "case_key": "1:15mj2873_FLSD",
+  "case_lni": "5G95-71W1-DXDT-G0JR-00000-00",
+  "case_number": "1:15mj2873",
+  "case_title": "USA v. DeRamon",
+  "case_info_full_case_name": "USA v. DeRamon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DeRamon",
+  "case_date_filed": "2015-06-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Eloisa Delgado Fernandez",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gonzalo DeRamon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F--Conspiracy to Defraud the United States, 18:641.F--Theft of Government Money and Property, 18:1957-4999.F--Money Laundering, 18:1519.F--Obstruction of Justice"
+        },
+        {
+          "charge_offence_description": "18:371.F--Conspiracy to Defraud the United States,"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alicia M. Otazo-Reyes",
+          "judge_guid": "urn:entity:jud-100102129"
+        }
+      ]
+    }
+  ]
+}

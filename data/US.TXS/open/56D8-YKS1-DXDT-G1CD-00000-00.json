@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_412cr517_TXSD",
+  "case_key": "4:12cr517_TXSD",
+  "case_lni": "56D8-YKS1-DXDT-G1CD-00000-00",
+  "case_number": "4:12cr517",
+  "case_title": "USA v. James",
+  "case_info_full_case_name": "USA v. James",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "James",
+  "case_date_filed": "2012-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Catherine C Lavery",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Marshal - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jason James",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL REENTRY AFTER DEPORTATION(1)"
+        },
+        {
+          "charge_disposition": "36 months custody BOP on ct. 1 and 36 months custody on ct. 2 to run concurrently for a total term of 36 months custody; no term of SRT; no fine imposed-waived; $200 SA is remitted on the Government's oral motion. The Court recommends incarceration in the New York City area."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MISREPRESENTATION OF CITIZENSHIP(2)"
+        },
+        {
+          "charge_disposition": "36 months custody BOP on ct. 1 and 36 months custody on ct. 2 to run concurrently for a total term of 36 months custody; no term of SRT; no fine imposed-waived; $200 SA is remitted on the Government's oral motion. The Court recommends incarceration in the New York City area."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FALSE STATEMENT IN APPLICATION AND USE OF PASSPORT(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Vanessa D Gilmore",
+          "judge_guid": "urn:entity:jud-100038144"
+        }
+      ]
+    }
+  ]
+}

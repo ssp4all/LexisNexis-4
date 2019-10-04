@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416mj219_AZD",
+  "case_key": "4:16mj219_AZD",
+  "case_lni": "5JW7-MXP1-DXDT-G0CV-00000-00",
+  "case_number": "4:16mj219",
+  "case_title": "USA v. Sotelo-Valencia et al",
+  "case_info_full_case_name": "USA v. Sotelo-Valencia et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sotelo-Valencia et al",
+  "case_date_filed": "2016-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anna Dronzek - Inactive",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fidel Sotelo-Valencia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(ii), 1324(a)(1)(A)(v)(I), and 1324(a)(1)(B)(I), Transportation of Illegal Aliens for Profit"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(ii), 1324(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        }
+      ]
+    },
+    {
+      "party_name": "Cynthia Oyarzabal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Title 8, U.S.C. ยง1325 and Title 18, U.S.C. ยง 2, Aiding and Abetting of Illegal Aliens"
+        },
+        {
+          "charge_disposition": "Bureau of Prisons for 90 days with credit for time served."
+        },
+        {
+          "charge_offence_description": "Title 8, U.S.C. &#167;1325 and Title 18, U.S.C. &#"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    },
+    {
+      "party_description": "Material Witness"
+    }
+  ]
+}

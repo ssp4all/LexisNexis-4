@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_810cr555_NYND",
+  "case_key": "8:10cr555_NYND",
+  "case_lni": "51H0-10P1-DXDT-G1FN-00000-00",
+  "case_number": "8:10cr555",
+  "case_title": "USA v. Perez-Barbecho",
+  "case_info_full_case_name": "USA v. Perez-Barbecho",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Barbecho",
+  "case_date_filed": "2010-11-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maria Perez-Barbecho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F-REENTRY"
+        },
+        {
+          "charge_description": "8:1326A.F-REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F-reentry"
+        },
+        {
+          "charge_description": "8:1326A.F-reentry of deported alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas J. McAvoy",
+          "judge_guid": "urn:entity:jud-100028568"
+        }
+      ]
+    }
+  ]
+}

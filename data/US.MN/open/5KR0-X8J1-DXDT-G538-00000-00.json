@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_016mj639_MND",
+  "case_key": "0:16mj639_MND",
+  "case_lni": "5KR0-X8J1-DXDT-G538-00000-00",
+  "case_number": "0:16mj639",
+  "case_title": "USA v. Luangasa",
+  "case_info_full_case_name": "USA v. Luangasa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Luangasa",
+  "case_date_filed": "2016-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lisa Luangasa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371, 922(a)(5), 922(a)(6), 922(a)(1)(A), 2, 923, 924(a)"
+        },
+        {
+          "charge_offence_description": "18:371, 922(a)(5), 922(a)(6), 922(a)(1)(A), 2, 923"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Becky R. Thorson",
+          "judge_guid": "urn:entity:jud-100109711"
+        }
+      ]
+    }
+  ]
+}

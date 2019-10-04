@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_102cr1620_nysd",
+  "case_key": "1:02cr1620_nysd",
+  "case_lni": "7WBN-JCJ0-Y892-B2N4-00000-00",
+  "case_number": "1:02cr1620",
+  "case_title": "USA v. Kharchenko",
+  "case_info_full_case_name": "USA v. Kharchenko",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kharchenko",
+  "case_date_filed": "2002-12-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "IGOR KHARCHENKO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341.F"
+        },
+        {
+          "charge_description": "18:1341.F FRAUDS AND SWINDLES (2-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1035.F"
+        },
+        {
+          "charge_description": "18:1035.F FALSE STATEMENTS RELATING TO HEALTH CARE MATTERS (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1347.F"
+        },
+        {
+          "charge_description": "18:1347.F HEALTH CARE FRAUD (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC371: 18USC1341: 18USC2:"
+        },
+        {
+          "charge_description": "18 U.S.C. 371: CONSPIRACY; 18 U.S.C. 1341: MAIL FRAUD; 18 U.S.C. 2: AIDING AND ABETTING. [1:02-m-2485]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard M. Berman",
+          "judge_guid": "urn:entity:jud-100069076"
+        }
+      ]
+    }
+  ]
+}

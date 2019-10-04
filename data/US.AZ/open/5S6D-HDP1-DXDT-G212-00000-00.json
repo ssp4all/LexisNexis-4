@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418po25942_AZD",
+  "case_key": "4:18po25942_AZD",
+  "case_lni": "5S6D-HDP1-DXDT-G212-00000-00",
+  "case_number": "4:18po25942",
+  "case_title": "USA v. Imul-Mejia",
+  "case_info_full_case_name": "USA v. Imul-Mejia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Imul-Mejia",
+  "case_date_filed": "2018-04-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Josefa Imul-Mejia",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

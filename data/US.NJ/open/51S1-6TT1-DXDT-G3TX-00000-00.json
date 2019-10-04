@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_110mj2062_NJD",
+  "case_key": "1:10mj2062_NJD",
+  "case_lni": "51S1-6TT1-DXDT-G3TX-00000-00",
+  "case_number": "1:10mj2062",
+  "case_title": "USA v. MEADOWS",
+  "case_info_full_case_name": "USA v. MEADOWS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MEADOWS",
+  "case_date_filed": "2010-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DESABE MEADOWS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1791A.F-TRAFFIC 18:1791B.F-THAT"
+        },
+        {
+          "charge_description": "18:1791A.F-TRAFFIC IN CONTRABAND ARTICLES-MARIJUANA, 18:1791B.F-THAT IS CONTRABAND IN PRISON-MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joel Schneider",
+          "judge_guid": "urn:entity:jud-100030820"
+        }
+      ]
+    }
+  ]
+}

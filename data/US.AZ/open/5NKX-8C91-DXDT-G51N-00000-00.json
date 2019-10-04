@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417mj2947_AZD",
+  "case_key": "4:17mj2947_AZD",
+  "case_lni": "5NKX-8C91-DXDT-G51N-00000-00",
+  "case_number": "4:17mj2947",
+  "case_title": "USA v. Salcido-Zapata",
+  "case_info_full_case_name": "USA v. Salcido-Zapata",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salcido-Zapata",
+  "case_date_filed": "2017-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Salcido-Zapata",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:844(a)Knowingly and Intentionally Possessing a Quantity of Marijuana(2)"
+        },
+        {
+          "charge_disposition": "the defendant is committed to the custody of the Bureau of Prisons for a term of SIXTY (60) DAYS, with credit for time served."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "CT 1 - 21:841(a)(1) and 841(b)(1)(D); Possession with Intent to Distribute Marijuana.  CT 2 - 21:844(a); Simple Possession of Marijuana."
+        },
+        {
+          "charge_offence_description": "CT 1 - 21:841(a)(1) and 841(b)(1)(D); Possession w"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

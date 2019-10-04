@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_199m189_nynd",
+  "case_key": "1:99m189_nynd",
+  "case_lni": "7WBN-R1C0-Y892-B0D4-00000-00",
+  "case_number": "1:99m189",
+  "case_title": "USA v. Fabozzi",
+  "case_info_full_case_name": "USA v. Fabozzi",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fabozzi",
+  "case_date_filed": "1999-05-24",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VINCENT FABOZZI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5/23/99"
+        },
+        {
+          "charge_description": "On or about 5/23/99 in Albany county, defendant did escape from the custody of a facility in which he was confined by the direction of the Attorney General in violation of 18:751."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ralph W. Smith",
+          "judge_guid": "urn:entity:jud-100022217"
+        }
+      ]
+    }
+  ]
+}

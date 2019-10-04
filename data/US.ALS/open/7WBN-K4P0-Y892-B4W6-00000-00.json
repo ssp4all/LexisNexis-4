@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_197cr137_alsd",
+  "case_key": "1:97cr137_alsd",
+  "case_lni": "7WBN-K4P0-Y892-B4W6-00000-00",
+  "case_number": "1:97cr137",
+  "case_title": "USA v. Torbert",
+  "case_info_full_case_name": "USA v. Torbert",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torbert",
+  "case_date_filed": "1997-06-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN STEPHEN TORBERT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113A.F"
+        },
+        {
+          "charge_description": "18:2113A.F BANK ROBBERY BY FORCE OR VIOLENCE (1-2)"
+        },
+        {
+          "charge_disposition": "Rule 20 to Northern Dist. of Oklahoma (1-2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2113A.F"
+        },
+        {
+          "charge_description": "18:2113A.F BANK ROBBERY BY FORCE OR VIOLENCE (1s)"
+        },
+        {
+          "charge_disposition": "Rule 20 to Northern Dist. of Oklahoma (1s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "6/17/96 3801 18, 2113"
+        },
+        {
+          "charge_description": "willfully, unlawfully and with felonious intent by force, violence and intimidation, on or about 6/17/96 in Mobile Co. in the Sou. Dist. of Alabama, take from the person and presence of JODIE CAROL MARTIN, bank employee, money belonging to and in the care, custody, control, management and possession of SouthTrust Bank, 3801 Airport Blvd., Mobile, AL, the deposits of which were then insured by the Federal Deposit Insurance Corporation in violation of Title 18, Section 2113 [1:97-m-59]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard W. Vollmer, Jr.",
+          "judge_guid": "urn:entity:jud-100010138"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Bert W. Milling, Jr.",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    }
+  ]
+}

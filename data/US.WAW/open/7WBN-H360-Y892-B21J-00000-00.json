@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_299m269_wawd",
+  "case_key": "2:99m269_wawd",
+  "case_lni": "7WBN-H360-Y892-B21J-00000-00",
+  "case_number": "2:99m269",
+  "case_title": "USA v. Cruz",
+  "case_info_full_case_name": "USA v. Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cruz",
+  "case_date_filed": "1999-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a):"
+        },
+        {
+          "charge_description": "For Violation of 8:1326(a): Illegal reenty"
+        },
+        {
+          "charge_statute": "18USC8 1326(a0"
+        },
+        {
+          "charge_description": "18 USC 8 &; 1326(a0 illegal reentry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John L. Weinberg",
+          "judge_guid": "urn:entity:jud-100023142"
+        }
+      ]
+    }
+  ]
+}

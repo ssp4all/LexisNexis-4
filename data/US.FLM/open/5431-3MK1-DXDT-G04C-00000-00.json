@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_309CR304_FLMD",
+  "case_key": "3:09CR304_FLMD",
+  "case_lni": "5431-3MK1-DXDT-G04C-00000-00",
+  "case_number": "3:09cr304",
+  "case_title": "USA v. Provencal",
+  "case_info_full_case_name": "USA v. Provencal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Provencal",
+  "case_date_filed": "2009-10-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Larry Michael Provencal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 12 months and one day; Supervised Release: 36 months; Special Assessment:$100.00; Restitution: $182,294.83 to Wells Fargo Bank, N.A. Restitution is ordered joint and several with Allen Provencal, case number 3:09-cr-305-J-25TEM"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Henry Lee Adams, Jr",
+          "judge_guid": "urn:entity:jud-100053175"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas E. Morris",
+          "judge_guid": "urn:entity:jud-100015833"
+        }
+      ]
+    }
+  ]
+}

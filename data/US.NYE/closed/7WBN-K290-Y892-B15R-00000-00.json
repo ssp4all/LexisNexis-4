@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_194m799_nyed",
+  "case_key": "1:94m799_nyed",
+  "case_lni": "7WBN-K290-Y892-B15R-00000-00",
+  "case_number": "1:94m799",
+  "case_title": "USA v. Gates",
+  "case_info_full_case_name": "USA v. Gates",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gates",
+  "case_date_filed": "1994-05-27",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Tanya Y. Hill, Esq.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT C. GATES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "40,"
+        },
+        {
+          "charge_description": "REMOVAL TO THE EASTERN DISTRICT OF VIRGINIA (RULE 40, F.R.C.P.)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    }
+  ]
+}

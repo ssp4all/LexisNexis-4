@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_216cm59_ARWD",
+  "case_key": "2:16cm59_ARWD",
+  "case_lni": "5KJ3-5M81-DXDT-G1XB-00000-00",
+  "case_number": "2:16cm59",
+  "case_title": "USA v. One ZTE black cellular phone model Z990G, serial number 322522700211 et al",
+  "case_info_full_case_name": "USA v. One ZTE black cellular phone model Z990G, serial number 322522700211 et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "One ZTE black cellular phone model Z990G, serial number 322522700211 et al",
+  "case_date_filed": "2016-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "One ZTE black cellular phone model Z990G, serial number 322522700211",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark E. Ford",
+          "judge_guid": "urn:entity:jud-100111710"
+        }
+      ]
+    },
+    {
+      "party_name": "One LG Cricket cellular phone serial number 511CYMR903203 with white cover and shattered faceplate",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark E. Ford",
+          "judge_guid": "urn:entity:jud-100111710"
+        }
+      ]
+    }
+  ]
+}

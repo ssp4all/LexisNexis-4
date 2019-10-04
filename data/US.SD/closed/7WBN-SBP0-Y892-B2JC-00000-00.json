@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_506cr50077_SDD",
+  "case_key": "5:06cr50077_SDD",
+  "case_lni": "7WBN-SBP0-Y892-B2JC-00000-00",
+  "case_number": "5:06cr50077",
+  "case_title": "USA v. Zephier",
+  "case_info_full_case_name": "USA v. Zephier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zephier",
+  "case_date_filed": "2006-10-18",
+  "case_status": "Closed",
+  "case_status_date": "03/20/2007",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alicia Rae Zephier",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 666(a)(1)(A) THEFT FROM AGENCY RECEIVING FEDERAL FUNDS(1)"
+        },
+        {
+          "charge_disposition": "5 years probation, $37,437 restitution, $100 SVAF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Karen E. Schreier",
+          "judge_guid": "urn:entity:jud-100030778"
+        }
+      ]
+    },
+    {
+      "party_name": "Oglala Sioux Tribe",
+      "party_description": "Garnishee",
+      "charges": [
+        {
+          "charge_description": "Oglala Sioux TribeTERMINATED: 09/12/2013"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Oglala Sioux TribeTERMINATED: 09/12/2013\t\trepre"
+        }
+      ]
+    }
+  ]
+}

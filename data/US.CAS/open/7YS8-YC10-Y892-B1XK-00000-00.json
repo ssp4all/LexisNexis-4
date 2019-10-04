@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_210mj8491_CASD",
+  "case_key": "2:10mj8491_CASD",
+  "case_lni": "7YS8-YC10-Y892-B1XK-00000-00",
+  "case_number": "2:10mj8491",
+  "case_title": "USA v. Valenzuela-Sanchez et al",
+  "case_info_full_case_name": "USA v. Valenzuela-Sanchez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valenzuela-Sanchez et al",
+  "case_date_filed": "2010-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Valenzuela-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iii); 18:2-Harboring"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii); 18:2-Harboring Illegal Aliens; Aiding and Abetting"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    },
+    {
+      "party_name": "Alissa Crystal Espinoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iii); 18:2-Harboring"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii); 18:2-Harboring Illegal Aliens; Aiding and Abetting"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

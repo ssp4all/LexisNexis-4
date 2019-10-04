@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_405cr1831_AZD",
+  "case_key": "4:05cr1831_AZD",
+  "case_lni": "7WBN-S330-Y892-B2M1-00000-00",
+  "case_number": "4:05cr1831",
+  "case_title": "USA v. Aguirre-Felix",
+  "case_info_full_case_name": "USA v. Aguirre-Felix",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguirre-Felix",
+  "case_date_filed": "2005-09-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcelino Aguirre-Felix",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "CT:1 21:841(a))1)(b)(1)(A)(viii)"
+        },
+        {
+          "charge_description": "CT:1 21:841(a))1)(b)(1)(A)(viii) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "CT:2 21:952(a)and 960(a)(1)(b)(1)(H)"
+        },
+        {
+          "charge_description": "CT:2 21:952(a)and 960(a)(1)(b)(1)(H) IMPORTATION OF METHAMPHETAMINE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952(a), 21:960(a)(1), 21:960(b)(1)(H) 7.66"
+        },
+        {
+          "charge_description": "21:952(a), 21:960(a)(1), and 21:960(b)(1)(H) import approximately 7.66 kilograms of methamphetamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John M Roll",
+          "judge_guid": "urn:entity:jud-100025388"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_200cr33_cacd",
+  "case_key": "2:00cr33_cacd",
+  "case_lni": "7WBN-KB00-Y892-B3M1-00000-00",
+  "case_number": "2:00cr33",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2000-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT ARTHUR SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:5861(d)"
+        },
+        {
+          "charge_description": "26:5861(d) POSSESSION OF UNREGISTERED FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_315cr5439_WAWD",
+  "case_key": "3:15cr5439_WAWD",
+  "case_lni": "5H22-J011-DXDT-G2NH-00000-00",
+  "case_number": "3:15cr5439",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2015-09-30",
+  "case_status": "Closed",
+  "case_status_date": "06/17/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bradford Jones",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F - Possession of Methamphetamine and Heroin with Intent to Distribute"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F - Possession of Methamphetamine and H"
+        },
+        {
+          "charge_description": "Possession of Methamphetamine and Heroin with Intent to Distribute (Inside white Acura TL) 21:841(a)(1), 841(b)(1)(B), 841(b)(1)(C), and 18:2(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession of Methamphetamine with Intent to Distribute (Inside residence at 910 Coweeman Lane) 21:841(a)(1), 841(b)(1)(A), and 18:2(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert J. Bryan",
+          "judge_guid": "urn:entity:jud-100063935"
+        }
+      ]
+    }
+  ]
+}

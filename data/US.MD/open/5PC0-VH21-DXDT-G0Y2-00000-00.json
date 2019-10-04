@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_117po7464_MDD",
+  "case_key": "1:17po7464_MDD",
+  "case_lni": "5PC0-VH21-DXDT-G0Y2-00000-00",
+  "case_number": "1:17po7464",
+  "case_title": "USA vs Belcher",
+  "case_info_full_case_name": "USA vs Belcher",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Belcher",
+  "case_date_filed": "2017-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Glenda J Belcher",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING WITHOUT A PERMIT OR PARKING IN UNAUTHORIZED LOCATIONS (S7000426)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephanie A Gallagher",
+          "judge_guid": "urn:entity:jud-100072415"
+        }
+      ]
+    }
+  ]
+}

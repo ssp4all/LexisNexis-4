@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_206cr136_UTD",
+  "case_key": "2:06cr136_UTD",
+  "case_lni": "7WBN-GR50-Y892-B534-00000-00",
+  "case_number": "2:06cr136",
+  "case_title": "USA v. Moreno-Robles",
+  "case_info_full_case_name": "USA v. Moreno-Robles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Robles",
+  "case_date_filed": "2006-03-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Isidro Moreno-Robles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 REENTRY OF DEPORTED ALIENS/Previously Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Paul G. Cassell",
+          "judge_guid": "urn:entity:jud-100096437"
+        }
+      ]
+    }
+  ]
+}

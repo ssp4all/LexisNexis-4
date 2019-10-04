@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_208cr1491_CACD",
+  "case_key": "2:08cr1491_CACD",
+  "case_lni": "7WBN-R9J0-Y892-B46K-00000-00",
+  "case_number": "2:08cr1491",
+  "case_title": "USA v. Gevorkyan",
+  "case_info_full_case_name": "USA v. Gevorkyan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gevorkyan",
+  "case_date_filed": "2008-12-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joseph N Akrotirianakis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Artur Gevorkyan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344:"
+        },
+        {
+          "charge_description": "18:1344: BANK FRAUD (1-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1029(a)(2):"
+        },
+        {
+          "charge_description": "18:1029(a)(2): ACCESS DEVICE FRAUD, AGGREGATE LOSS EXCEEDING $1000; (7-8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1029(a)(1), 3147:"
+        },
+        {
+          "charge_description": "18:1029(a)(1), 3147: ACCESS DEVICE; OFFENSE COMMITTED WHILE ON RELEASE (9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

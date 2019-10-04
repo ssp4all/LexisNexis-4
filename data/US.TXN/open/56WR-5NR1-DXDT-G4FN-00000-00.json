@@ -1,0 +1,100 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_412mj458_TXND",
+  "case_key": "4:12mj458_TXND",
+  "case_lni": "56WR-5NR1-DXDT-G4FN-00000-00",
+  "case_number": "4:12mj458",
+  "case_title": "USA v. Ruiz-Guzman et al",
+  "case_info_full_case_name": "USA v. Ruiz-Guzman et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ruiz-Guzman et al",
+  "case_date_filed": "2012-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "J Michael Worley-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Government Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javier Ruiz-Guzman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(D) Possession with intent to distribute marijuana; 21:846 Conspiracy to possess with intent to distribute marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(D) Possession with intent to"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeffrey L Cureton",
+          "judge_guid": "urn:entity:jud-100017718"
+        }
+      ]
+    },
+    {
+      "party_name": "Isaias Duran-Duran",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(D) Possession with intent to distribute marijuana; 21:846 Conspiracy to possess with intent to distribute marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(D) Possession with intent to"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeffrey L Cureton",
+          "judge_guid": "urn:entity:jud-100017718"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Jesus Descarena-Duran",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(D) Possession with intent to distribute marijuana; 21:846 Conspiracy to possess with intent to distribute marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(D) Possession with intent to"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeffrey L Cureton",
+          "judge_guid": "urn:entity:jud-100017718"
+        }
+      ]
+    },
+    {
+      "party_name": "Andres Duran-Duran",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(D) Possession with intent to distribute marijuana; 21:846 Conspiracy to possess with intent to distribute marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(D) Possession with intent to"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeffrey L Cureton",
+          "judge_guid": "urn:entity:jud-100017718"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_803mj2582_mdd",
+  "case_key": "8:03mj2582_mdd",
+  "case_lni": "7WBN-SKM0-Y892-B43G-00000-00",
+  "case_number": "8:03mj2582",
+  "case_title": "USA v. Walton",
+  "case_info_full_case_name": "USA v. Walton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Walton",
+  "case_date_filed": "2003-07-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "John K. Walton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC844-Possession"
+        },
+        {
+          "charge_description": "21 USC 844-Possession of a controlled substance-Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B. Day",
+          "judge_guid": "urn:entity:jud-100057310"
+        }
+      ]
+    }
+  ]
+}

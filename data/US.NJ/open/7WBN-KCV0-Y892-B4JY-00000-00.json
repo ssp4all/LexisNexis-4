@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_201cr670_njd",
+  "case_key": "2:01cr670_njd",
+  "case_lni": "7WBN-KCV0-Y892-B4JY-00000-00",
+  "case_number": "2:01cr670",
+  "case_title": "USA v. SANTOS",
+  "case_info_full_case_name": "USA v. SANTOS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SANTOS",
+  "case_date_filed": "2001-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARCO SANTOS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1029(b)(2) (dof-12/00-7/01)"
+        },
+        {
+          "charge_description": "18:1029(b)(2) ATTEMPTS TO COMMIT AN OFFENSE(unauthorized use of credit cards) (dof-12/00-7/01) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Harold A. Ackerman",
+          "judge_guid": "urn:entity:jud-100053212"
+        }
+      ]
+    }
+  ]
+}

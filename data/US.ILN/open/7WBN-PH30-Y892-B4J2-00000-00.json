@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_100cr160_ilnd",
+  "case_key": "1:00cr160_ilnd",
+  "case_lni": "7WBN-PH30-Y892-B4J2-00000-00",
+  "case_number": "1:00cr160",
+  "case_title": "USA v. Dremon",
+  "case_info_full_case_name": "USA v. Dremon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dremon",
+  "case_date_filed": "2000-03-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL DREMON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:373"
+        },
+        {
+          "charge_description": "18:373 Solicit/commit crime of violence"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Arlander Keys",
+          "judge_guid": "urn:entity:jud-100040469"
+        }
+      ]
+    }
+  ]
+}

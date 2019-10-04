@@ -1,0 +1,106 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_614cr92_FLMD",
+  "case_key": "6:14cr92_FLMD",
+  "case_lni": "5C0F-8B11-DXDT-G4JM-00000-00",
+  "case_number": "6:14cr92",
+  "case_title": "USA v. Marin et al",
+  "case_info_full_case_name": "USA v. Marin et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marin et al",
+  "case_date_filed": "2014-04-16",
+  "case_status": "Closed",
+  "case_status_date": "06/04/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew C. Searle",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arthur Anthony Marin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F  ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD (conspiracy to commit wire fraud)(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 24 months. The Court recommends to the Bureau of Prisons that the defendant be designated to a facility in the New York state area. The defendant is remanded to the custody of the United States Marshal. SUPERVISED RELEASE: 2 years. Special conditions of supervised release: Comply with imposed mandatory drug testing requirements. Participate in a substance abuse program. Do not incur new credit charges, open additional lines of credit, or make an obligation for any major purchases without approval of the Probation Officer. Provide the probation officer access to any requested financial information. Cooperate in the collection of DNA. SPECIAL ASSESSMENT of $100.00 is due immediately. FINE: waived. RESTITUTION: $25,240.63, payable to victims identified in the presentence report. Restitution shall be paid jointly and severally with co-defendant Chinley Jean; the defendants in 6:13-CR-259-ORL-22KRS, Harry Cancel-Velez, Andre Aldain Flemming, and Jim Lee Jean; and the defendants in case number 6:13-CR-230-ORL-22DAB, Donald Napoleon, Renington Javier Noa, and Nicholas Brown. FORFEITURE of those assets identified in the Forfeiture Money Judgment (Doc. No. [92])."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343.F  FRAUD BY WIRE, RADIO, OR TELEVISION (wire fraud)(2-14)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Anne C. Conway",
+          "judge_guid": "urn:entity:jud-100049795"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas B. Smith",
+          "judge_guid": "urn:entity:jud-100020624"
+        }
+      ]
+    },
+    {
+      "party_name": "Chinley Jean",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F  ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD (conspiracy to commit wire fraud)(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 24 months. The Court recommends to the Bureau of Prisons that the defendant be placed at FCC Coleman, receive substance abuse treatment, and obtain his GED while in custody. The defendant is remanded to the custody of the United States Marshal. SUPERVISED RELEASE: 2 years. Special conditions of supervised release: Comply with imposed mandatory drug testing requirements. Do not incur new credit charges, open additional lines of credit, or make an obligation for any major purchases without approval of probation officer. Provide the probation officer access to any requested financial information. Cooperate in the collection of DNA. SPECIAL ASSESSMENT of $100.00 is due immediately. FINE: waived. RESTITUTION: $25,240.63, payable to victims identified in the presentence report to be paid jointly and severally with co-defendant Arthur Anthony Marin; the defendants in 6:13-CR-259- ORL-22KRS, Harry Cancel-Velez, Andre Aldain Flemming, and Jim Lee Jean; and the defendants in case number 6:13-CR-230-ORL-22DAB, Donald Napoleon, Renington Javier Noa, and Nicholas Brown. UNICOR payment plan imposed while in custody. Upon release, pay at a rate of $50/mo. Interest is waived. FORFEITURE as identified in Forfeiture Money Judgment [Doc. No. 45]."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343.F  FRAUD BY WIRE, RADIO, OR TELEVISION (wire fraud)(2-14)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Anne C. Conway",
+          "judge_guid": "urn:entity:jud-100049795"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas B. Smith",
+          "judge_guid": "urn:entity:jud-100020624"
+        }
+      ]
+    }
+  ]
+}

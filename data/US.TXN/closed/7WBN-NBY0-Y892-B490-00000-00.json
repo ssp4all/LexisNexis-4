@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_403m12_txnd",
+  "case_key": "4:03m12_txnd",
+  "case_lni": "7WBN-NBY0-Y892-B490-00000-00",
+  "case_number": "4:03m12",
+  "case_title": "USA v. Nagy",
+  "case_info_full_case_name": "USA v. Nagy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nagy",
+  "case_date_filed": "2003-01-14",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John Bradford, Attorney at Law",
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEVEN L NAGY",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles Bleil",
+          "judge_guid": "urn:entity:jud-100061392"
+        }
+      ]
+    }
+  ]
+}

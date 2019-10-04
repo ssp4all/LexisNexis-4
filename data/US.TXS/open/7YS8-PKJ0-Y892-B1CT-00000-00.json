@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_110mj568_TXSD",
+  "case_key": "1:10mj568_TXSD",
+  "case_lni": "7YS8-PKJ0-Y892-B1CT-00000-00",
+  "case_number": "1:10mj568",
+  "case_title": "USA v. De La Cruz-Armas",
+  "case_info_full_case_name": "USA v. De La Cruz-Armas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Cruz-Armas",
+  "case_date_filed": "2010-05-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sergio De La Cruz-Armas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841 21:846: 3.35 3.35"
+        },
+        {
+          "charge_description": "21:841 &; 21:846: Possession with Intent to Distribute Approximately 3.35 kilograms of Methamphetamine Conspire to Possess with Intent to Distribute Apprixamately 3.35 kilograms of methampethamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

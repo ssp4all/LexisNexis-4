@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIE_201cr85_wied",
+  "case_key": "2:01cr85_wied",
+  "case_lni": "7WBN-KD90-Y892-B0BH-00000-00",
+  "case_number": "2:01cr85",
+  "case_title": "USA v. Bond",
+  "case_info_full_case_name": "USA v. Bond",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bond",
+  "case_date_filed": "2001-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Erica R Nikodem",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL BOND",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)-UNLAWFUL"
+        },
+        {
+          "charge_description": "18:922(g)(1)-UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-CONTROLLED"
+        },
+        {
+          "charge_description": "21:841(a)(1)-CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE COCAINE (2-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lynn Adelman",
+          "judge_guid": "urn:entity:jud-100074809"
+        }
+      ]
+    }
+  ]
+}

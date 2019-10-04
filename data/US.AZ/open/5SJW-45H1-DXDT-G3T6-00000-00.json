@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418cr1086_AZD",
+  "case_key": "4:18cr1086_AZD",
+  "case_lni": "5SJW-45H1-DXDT-G3T6-00000-00",
+  "case_number": "4:18cr1086",
+  "case_title": "USA v. Calix-Mendoza",
+  "case_info_full_case_name": "USA v. Calix-Mendoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Calix-Mendoza",
+  "case_date_filed": "2018-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rene Adalberto Calix-Mendoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a),enhanced by (b)(1) Illegal Re-Entry(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a), enhanced by 8:1326(b)(1) Re-Entry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a), enhanced by 8:1326(b)(1) Re-Entry of Re"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer G Zipps",
+          "judge_guid": "urn:entity:jud-100047798"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

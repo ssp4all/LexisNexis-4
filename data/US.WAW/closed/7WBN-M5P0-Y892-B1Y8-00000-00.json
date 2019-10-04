@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_293cr440_wawd",
+  "case_key": "2:93cr440_wawd",
+  "case_lni": "7WBN-M5P0-Y892-B1Y8-00000-00",
+  "case_number": "2:93cr440",
+  "case_title": "USA v. Lewis",
+  "case_info_full_case_name": "USA v. Lewis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "1993-09-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WAYNE T LEWIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Philip K. Sweigert",
+          "judge_guid": "urn:entity:jud-100013193"
+        }
+      ]
+    }
+  ]
+}

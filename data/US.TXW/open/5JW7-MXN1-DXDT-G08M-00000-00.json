@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_216mj5796_TXWD",
+  "case_key": "2:16mj5796_TXWD",
+  "case_lni": "5JW7-MXN1-DXDT-G08M-00000-00",
+  "case_number": "2:16mj5796",
+  "case_title": "USA v. Contreras",
+  "case_info_full_case_name": "USA v. Contreras",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Contreras",
+  "case_date_filed": "2016-05-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Diego Contreras",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1324(a)(1)(A)(ii) Transporting Illegal Aliens into the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1324(a)(1)(A)(ii) Transporting Illegal Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Collis White",
+          "judge_guid": "urn:entity:jud-100022858"
+        }
+      ]
+    }
+  ]
+}

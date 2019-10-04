@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_496m6032_moed",
+  "case_key": "4:96m6032_moed",
+  "case_lni": "7WBN-NP50-Y892-B1XR-00000-00",
+  "case_number": "4:96m6032",
+  "case_title": "USA v. Hudson",
+  "case_info_full_case_name": "USA v. Hudson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hudson",
+  "case_date_filed": "1996-02-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Suzanne M. Flanegin",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LORRAINE HUDSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1), 841(b)(1)(C) 2"
+        },
+        {
+          "charge_description": "21USC841(a)(1), 841(b)(1)(C) and 2 Knowingly and intentionally distribute a mixture or subtance containing a detectable amount of heroin, Sched. I narcotic controlled substance drug."
+        },
+        {
+          "charge_disposition": "Complaint dismissed without prejudice (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Thomas C. Mummert",
+          "judge_guid": "urn:entity:jud-100003227"
+        }
+      ]
+    }
+  ]
+}

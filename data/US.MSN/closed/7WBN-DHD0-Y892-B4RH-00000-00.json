@@ -1,0 +1,221 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSN_107cr97_MSND",
+  "case_key": "1:07cr97_MSND",
+  "case_lni": "7WBN-DHD0-Y892-B4RH-00000-00",
+  "case_number": "1:07cr97",
+  "case_title": "USA v. Whaley et al",
+  "case_info_full_case_name": "USA v. Whaley et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Whaley et al",
+  "case_date_filed": "2007-05-31",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Keith B. Whaley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY(1s)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 18 mos.; SUPERVISED RELEASE: 3 yrs.; SPECIAL ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STEALING EXPLOSIVE MATERIALS PART OF INTERSTATE COMMERCE(1-2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "SHIP OR TRANSPORT EXPLOSIVE MATERIAL INTERSTATE(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "DISTRIBUTE STOLEN EXPLOSIVES(4)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Michael P. Mills",
+          "judge_guid": "urn:entity:jud-100018387"
+        },
+        {
+          "judge_name": "David A. Sanders",
+          "judge_guid": "urn:entity:jud-100075224"
+        }
+      ]
+    },
+    {
+      "party_name": "Robert L. Whaley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DISTRIBUTE STOLEN EXPLOSIVES(6)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 30 months on Count 6 of the Indictment; SUPERVISED RELEASE: 3 years; SPECIAL ASSESSMENT: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STEALING EXPLOSIVE MATERIALS PART OF INTERSTATE COMMERCE(1-2)"
+        },
+        {
+          "charge_disposition": "Dismissed on the motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "SHIP OR TRANSPORT EXPLOSIVE MATERIAL INTERSTATE(8)"
+        },
+        {
+          "charge_disposition": "Dismissed on the motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Michael P. Mills",
+          "judge_guid": "urn:entity:jud-100018387"
+        },
+        {
+          "judge_name": "David A. Sanders",
+          "judge_guid": "urn:entity:jud-100075224"
+        }
+      ]
+    },
+    {
+      "party_name": "Jenni Whaley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ACCESSORY AFTER THE FACT(1s)"
+        },
+        {
+          "charge_disposition": "PROBATION: 3 yrs.; SPECIAL ASSESSMENT: $100.00 --- AMENDED JUDGMENT (REVOCATION) IMPRISONMENT: 15 months; SUPERVISED RELEASE: 24 months"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STEALING EXPLOSIVE MATERIALS PART OF INTERSTATE COMMERCE(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "DISTRIBUTE STOLEN EXPLOSIVES(5)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Michael P. Mills",
+          "judge_guid": "urn:entity:jud-100018387"
+        },
+        {
+          "judge_name": "David A. Sanders",
+          "judge_guid": "urn:entity:jud-100075224"
+        }
+      ]
+    },
+    {
+      "party_name": "Casey Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "STEALING EXPLOSIVE MATERIALS PART OF INTERSTATE COMMERCE(2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 12 mos.; SUPERVISED RELEASE: 3 yrs.; SPECIAL ASSESSMENT: $100.00 --- REVOCATION JUDGMENT IMPRISONMENT: IMPRISONMENT: 13 mos; SUPERVISED RELEASE: 2 yrs.;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STEALING EXPLOSIVE MATERIALS PART OF INTERSTATE COMMERCE(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "DISTRIBUTE STOLEN EXPLOSIVES(7)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Michael P. Mills",
+          "judge_guid": "urn:entity:jud-100018387"
+        },
+        {
+          "judge_name": "David A. Sanders",
+          "judge_guid": "urn:entity:jud-100075224"
+        }
+      ]
+    }
+  ]
+}

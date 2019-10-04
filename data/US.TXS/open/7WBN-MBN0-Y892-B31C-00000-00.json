@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_297m89_txsd",
+  "case_key": "2:97m89_txsd",
+  "case_lni": "7WBN-MBN0-Y892-B31C-00000-00",
+  "case_number": "2:97m89",
+  "case_title": "USA v. Kerley",
+  "case_info_full_case_name": "USA v. Kerley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kerley",
+  "case_date_filed": "1997-03-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERESA JO KERLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1970, 287"
+        },
+        {
+          "charge_description": "Knowingly, intentionally and unlawfully possess with the intent to distribute a controlled substance in Schedule I of the Controlled sybstances Act of 1970, to wit: 287 pounds (approximate gross weight) of marijuana. 21:841(a)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    }
+  ]
+}

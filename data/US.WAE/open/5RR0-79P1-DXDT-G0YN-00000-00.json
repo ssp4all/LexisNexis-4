@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_118po8053_WAED",
+  "case_key": "1:18po8053_WAED",
+  "case_lni": "5RR0-79P1-DXDT-G0YN-00000-00",
+  "case_number": "1:18po8053",
+  "case_title": "USA vs Rogers",
+  "case_info_full_case_name": "USA vs Rogers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rogers",
+  "case_date_filed": "2018-02-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AUSA CVB",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Parking or leaving a vehicle in violation of posted instructions (F5410244)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mary K. Dimke",
+          "judge_guid": "urn:entity:jud-100120390"
+        }
+      ]
+    }
+  ]
+}

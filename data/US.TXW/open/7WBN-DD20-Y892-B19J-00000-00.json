@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_401cr262_txwd",
+  "case_key": "4:01cr262_txwd",
+  "case_lni": "7WBN-DD20-Y892-B19J-00000-00",
+  "case_number": "4:01cr262",
+  "case_title": "USA v. Cuellar-Villareal",
+  "case_info_full_case_name": "USA v. Cuellar-Villareal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cuellar-Villareal",
+  "case_date_filed": "2001-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIO CUELLAR-VILLAREAL JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "119.98 lbs/54.53 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "Knowingly and intentionally possess with the intent to distribute approx. 119.98 lbs/54.53 kilograms of marijuana in violation of Title 21 USC 841(a)(1) [4:01-m-943]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "W. Royal Furgeson, Jr.",
+          "judge_guid": "urn:entity:jud-100004574"
+        }
+      ]
+    },
+    {
+      "party_name": "ADOLFO YHARTE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "119.98 lbs/54.53 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "Knowingly and intentionally possess with the intent to distribute approx. 119.98 lbs/54.53 kilograms of marijuana in violation of Title 21 USC 841(a)(1) [4:01-m-943]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "W. Royal Furgeson, Jr.",
+          "judge_guid": "urn:entity:jud-100004574"
+        }
+      ]
+    }
+  ]
+}

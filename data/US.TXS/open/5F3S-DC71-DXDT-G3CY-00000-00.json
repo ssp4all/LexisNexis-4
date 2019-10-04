@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_115po556_TXSD",
+  "case_key": "1:15po556_TXSD",
+  "case_lni": "5F3S-DC71-DXDT-G3CY-00000-00",
+  "case_number": "1:15po556",
+  "case_title": "USA v. Hernandez-Lucio",
+  "case_info_full_case_name": "USA v. Hernandez-Lucio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Lucio",
+  "case_date_filed": "2015-01-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Manuel Hernandez-Lucio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_210cr325_AZD",
+  "case_key": "2:10cr325_AZD",
+  "case_lni": "7Y25-64B0-Y892-B47N-00000-00",
+  "case_number": "2:10cr325",
+  "case_title": "USA v. Flores-Chavez",
+  "case_info_full_case_name": "USA v. Flores-Chavez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Chavez",
+  "case_date_filed": "2010-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Theresa Cole Rassas",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Flores-Chavez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1)-Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James A Teilborg",
+          "judge_guid": "urn:entity:jud-100007320"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_193m340_txed",
+  "case_key": "1:93m340_txed",
+  "case_lni": "7WBN-K0Y0-Y892-B1MT-00000-00",
+  "case_number": "1:93m340",
+  "case_title": "USA v. McMahan",
+  "case_info_full_case_name": "USA v. McMahan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McMahan",
+  "case_date_filed": "1993-05-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRUCE EDWARD MCMAHAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) Possess with intent to distribute a Schedule I Controlled Substance, to-wit: Marihuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Earl S. Hines",
+          "judge_guid": "urn:entity:jud-100034426"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_117cr352_HID",
+  "case_key": "1:17cr352_HID",
+  "case_lni": "5NRJ-2K31-DXDT-G39S-00000-00",
+  "case_number": "1:17cr352",
+  "case_title": "USA v. Echarri",
+  "case_info_full_case_name": "USA v. Echarri",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Echarri",
+  "case_date_filed": "2017-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Laura M. Jacobson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus G. Echarri, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER - HRS 291-12; 18:13 - Inattention to Driving; 2/6/2017; Naval Magazine Westloch Lualualei Annex, Hawaii; 6464426/H23(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "KEVIN S.C. CHANG",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

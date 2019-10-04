@@ -1,0 +1,131 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_801cr114_ned",
+  "case_key": "8:01cr114_ned",
+  "case_lni": "7WBN-J410-Y892-B4H9-00000-00",
+  "case_number": "8:01cr114",
+  "case_title": "USA v. Hendrickson",
+  "case_info_full_case_name": "USA v. Hendrickson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hendrickson",
+  "case_date_filed": "2001-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESSE HENDRICKSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 Conspiracy and the objects of conspiracy to transport in interstate commerce stolen vehicles, to possess stolen mail, to execute a scheme to defraud financial institutions (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2312"
+        },
+        {
+          "charge_description": "18:2312 Interstate transportation of stolen motor vehicle (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2312"
+        },
+        {
+          "charge_description": "18:2312 Interstate transportation of stolen motor vehicle [8:01-m-66]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas M. Shanahan",
+          "judge_guid": "urn:entity:jud-100021341"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen A. Jaudzemis",
+          "judge_guid": "urn:entity:jud-100033389"
+        }
+      ]
+    },
+    {
+      "party_name": "MELISSA KUDRNA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 Conspiracy and the objects of conspiracy to transport in interstate commerce stolen vehicles, to possess stolen mail, to execute a scheme to defraud financial institutions (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2312"
+        },
+        {
+          "charge_description": "18:2312 Interstate transportation of stolen motor vehicle (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2312"
+        },
+        {
+          "charge_description": "18:2312 Interstate transportation of stolen motor vehicle [8:01-m-66]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas M. Shanahan",
+          "judge_guid": "urn:entity:jud-100021341"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen A. Jaudzemis",
+          "judge_guid": "urn:entity:jud-100033389"
+        }
+      ]
+    }
+  ]
+}

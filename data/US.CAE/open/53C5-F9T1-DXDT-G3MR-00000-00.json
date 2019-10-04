@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_211cr311_CAED",
+  "case_key": "2:11cr311_CAED",
+  "case_lni": "53C5-F9T1-DXDT-G3MR-00000-00",
+  "case_number": "2:11cr311",
+  "case_title": "USA v. Vargas-Sanchez et al",
+  "case_info_full_case_name": "USA v. Vargas-Sanchez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vargas-Sanchez et al",
+  "case_date_filed": "2011-07-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramiro Vargas-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE AND TO POSSESS WITH INTENT TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "MANUFACTURE OF MARIJUANA (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kimberly J. Mueller",
+          "judge_guid": "urn:entity:jud-100075130"
+        }
+      ]
+    },
+    {
+      "party_name": "Rogelio Orozco-Isasada",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE AND TO POSSESS WITH INTENT TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "MANUFACTURE OF MARIJUANA (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kimberly J. Mueller",
+          "judge_guid": "urn:entity:jud-100075130"
+        }
+      ]
+    }
+  ]
+}

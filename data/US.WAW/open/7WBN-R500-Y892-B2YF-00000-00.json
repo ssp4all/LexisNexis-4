@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_203mj552_WAWD",
+  "case_key": "2:03mj552_WAWD",
+  "case_lni": "7WBN-R500-Y892-B2YF-00000-00",
+  "case_number": "2:03mj552",
+  "case_title": "USA v. Harris",
+  "case_info_full_case_name": "USA v. Harris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harris",
+  "case_date_filed": "2003-10-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carl Anthony Harris",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371Conspiracy, 18:513Making, 18:2314"
+        },
+        {
+          "charge_description": "18:371Conspiracy, 18:513Making, Uttering/Possession Counterfeit Securitite, 18:2314 Transportation of Counterfeit Securities"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo S. Martinez (MJ)",
+          "judge_guid": "urn:entity:jud-100009153"
+        }
+      ]
+    }
+  ]
+}

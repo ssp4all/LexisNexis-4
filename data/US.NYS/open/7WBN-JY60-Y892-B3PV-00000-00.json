@@ -1,0 +1,84 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_191m1753_nysd",
+  "case_key": "1:91m1753_nysd",
+  "case_lni": "7WBN-JY60-Y892-B3PV-00000-00",
+  "case_number": "1:91m1753",
+  "case_title": "USA v. Antoine, et al",
+  "case_info_full_case_name": "USA v. Antoine, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Antoine, et al",
+  "case_date_filed": "1991-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PAUL PIERRE ANTOINE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371,1029, 2;"
+        },
+        {
+          "charge_description": "18 U.S.C. 371,1029, and 2; Conspiracy To Commit Fraud in Connection With Access Devices."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen A. Roberts",
+          "judge_guid": "urn:entity:jud-100121322"
+        }
+      ]
+    },
+    {
+      "party_name": "GUESLY LARRIEUX",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371, 1029, 2;"
+        },
+        {
+          "charge_description": "18 U.S.C. 371, 1029, and 2; Conspiracy to Commit Fraud In Connection With Access Devices."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen A. Roberts",
+          "judge_guid": "urn:entity:jud-100121322"
+        }
+      ]
+    },
+    {
+      "party_name": "PETER CESAIRE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371, 1029 2;"
+        },
+        {
+          "charge_description": "18 U.S.C. 371, 1029 and 2; Consipracy to Commit Fraud in Connection With Access Devices."
+        },
+        {
+          "charge_disposition": "Deferred (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen A. Roberts",
+          "judge_guid": "urn:entity:jud-100121322"
+        }
+      ]
+    }
+  ]
+}

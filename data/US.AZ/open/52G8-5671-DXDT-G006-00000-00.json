@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411mj7913_AZD",
+  "case_key": "4:11mj7913_AZD",
+  "case_lni": "52G8-5671-DXDT-G006-00000-00",
+  "case_number": "4:11mj7913",
+  "case_title": "USA v. Salazar-Valenzuela",
+  "case_info_full_case_name": "USA v. Salazar-Valenzuela",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salazar-Valenzuela",
+  "case_date_filed": "2011-03-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Melesio Salazar-Valenzuela",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a), 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a), enhanced by 8:1326(b)(2) Re-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

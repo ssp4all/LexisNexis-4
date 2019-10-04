@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_316cr8281_AZD",
+  "case_key": "3:16cr8281_AZD",
+  "case_lni": "5M90-7911-DXDT-G2F5-00000-00",
+  "case_number": "3:16cr8281",
+  "case_title": "USA v. Sumatzkuku",
+  "case_info_full_case_name": "USA v. Sumatzkuku",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sumatzkuku",
+  "case_date_filed": "2016-11-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jordan Reed Sumatzkuku",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113C.F, 18:113C.F, 18:13-7990.F"
+        },
+        {
+          "charge_offence_description": "18:113C.F, 18:113C.F, 18:13-7990.F"
+        },
+        {
+          "charge_description": "18:1153, 13, 2 and A.R.S. Section 13-1507(3ss)"
+        },
+        {
+          "charge_disposition": "Defendant committed to custody of BOP for a term of 60 months. Followed by 3 years of supervised release. Special assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153, 113(a)(3) and 2 - (CIR) Assault with a Dangerous Weapon and Aid and Abet(1-2)"
+        },
+        {
+          "charge_disposition": "Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153, 113(a)(3) and 2 CIR - Assault with a Dangerous Weapon and Aid and Abet(1s-2s)"
+        },
+        {
+          "charge_disposition": "Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153, 13 and 2 and Arizona Revised Statutes, Section 13-1507 - (CIR) Burglary of a Residential Structure and Aid and Abet(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153, 13 and 2 and ARS 13-1507, 13-1508 and 13-704 CIR - Burglary of A Residential Structure - First Degree and Aid and Abet(3s)"
+        },
+        {
+          "charge_disposition": "Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David G Campbell",
+          "judge_guid": "urn:entity:jud-100059869"
+        }
+      ]
+    }
+  ]
+}

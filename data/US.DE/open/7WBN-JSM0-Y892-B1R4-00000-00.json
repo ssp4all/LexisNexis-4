@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DE_108cr127_DED",
+  "case_key": "1:08cr127_DED",
+  "case_lni": "7WBN-JSM0-Y892-B1R4-00000-00",
+  "case_number": "1:08cr127",
+  "case_title": "USA v. Mejias",
+  "case_info_full_case_name": "USA v. Mejias",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mejias",
+  "case_date_filed": "2008-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Mejias",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2)-REENTRY"
+        },
+        {
+          "charge_description": "8:1326(a) &; (b)(2)-REENTRY OF DEPORTED ALIENS (COUNT I-[7/23/2008]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)(2)-ILLEGAL"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(2)-ILLEGAL RE-ENTRY INTO THE UNITED STATES AFTER HAVING DEPORTED FOR A CONVICTION OF AN AGGRIVATED FELONY-(COUNT I-[7/22/2008])"
+        }
+      ]
+    }
+  ]
+}

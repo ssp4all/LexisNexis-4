@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_215mj242_ALMD",
+  "case_key": "2:15mj242_ALMD",
+  "case_lni": "5PHG-9171-DXDT-G2Y6-00000-00",
+  "case_number": "2:15mj242",
+  "case_title": "USA v. Ramirez-Garcia",
+  "case_info_full_case_name": "USA v. Ramirez-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Garcia",
+  "case_date_filed": "2015-11-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ronaldo Ramirez-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)and(b)(1) - REENTRY OF DEPORTED ALIEN"
+        },
+        {
+          "charge_offence_description": "8:1326(a)and(b)(1) - REENTRY OF DEPORTED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Susan Russ Walker",
+          "judge_guid": "urn:entity:jud-100011126"
+        }
+      ]
+    }
+  ]
+}

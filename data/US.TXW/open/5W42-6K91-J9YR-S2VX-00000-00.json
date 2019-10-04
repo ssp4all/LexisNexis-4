@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_319cr1439_TXWD",
+  "case_key": "3:19cr1439_TXWD",
+  "case_lni": "5W42-6K91-J9YR-S2VX-00000-00",
+  "case_number": "3:19cr1439",
+  "case_title": "USA v. Arrieta Soto",
+  "case_info_full_case_name": "USA v. Arrieta Soto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arrieta Soto",
+  "case_date_filed": "2019-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Alfredo Arrieta Soto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. 963, 952, 960 Conspiracy to import a controlled substance, to wit: 50 kilograms or more of marijuana(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 U.S.C. 952, 960 Importation of a controlled substance, to wit: 50 kilograms or more of marijuana(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 U.S.C. 846, 841 Conspiracy to possess with intent to distribute a controlled substance, to wit: 50 kilograms or more of marijuana(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 U.S.C. 841 Possession of a controlled substance, to wit: 50 kilograms or more of marijuana(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=MD.F-CONSPIRACY TO DISTRIBUTE MARIJUANA"
+        },
+        {
+          "charge_offence_description": "21:846=MD.F-CONSPIRACY TO DISTRIBUTE MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Guaderrama",
+          "judge_guid": "urn:entity:jud-100104570"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_312mj3991_TXWD",
+  "case_key": "3:12mj3991_TXWD",
+  "case_lni": "56BC-G7V1-DXDT-G544-00000-00",
+  "case_number": "3:12mj3991",
+  "case_title": "USA v. Camarillo-Pena",
+  "case_info_full_case_name": "USA v. Camarillo-Pena",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Camarillo-Pena",
+  "case_date_filed": "2012-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Enrique Camarillo-Pena",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P-CONCEALMENT"
+        },
+        {
+          "charge_description": "8:1325.P-CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

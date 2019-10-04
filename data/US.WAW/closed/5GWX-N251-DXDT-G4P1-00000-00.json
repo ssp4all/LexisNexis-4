@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_315cr5070_WAWD",
+  "case_key": "3:15cr5070_WAWD",
+  "case_lni": "5GWX-N251-DXDT-G4P1-00000-00",
+  "case_number": "3:15cr5070",
+  "case_title": "USA v. Mullady",
+  "case_info_full_case_name": "USA v. Mullady",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mullady",
+  "case_date_filed": "2015-02-10",
+  "case_status": "Closed",
+  "case_status_date": "07/27/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Magistrate Prosecutor Joint Base Lewis-McChord",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nicole L Mullady",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - DRIVING WHILE LICENSE SUSPENDED 2ND DEGREE (4630061)(1)"
+        },
+        {
+          "charge_disposition": "plead guilty, time served; no fine, $25 assessment due within 30 days"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER - NO INSURANCE (4630060)(2)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David W. Christel",
+          "judge_guid": "urn:entity:jud-100062729"
+        }
+      ]
+    }
+  ]
+}

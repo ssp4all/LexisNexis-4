@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_112cr48_MTD",
+  "case_key": "1:12cr48_MTD",
+  "case_lni": "55PX-CRJ1-DXDT-G3NW-00000-00",
+  "case_number": "1:12cr48",
+  "case_title": "USA v. Long Sioux",
+  "case_info_full_case_name": "USA v. Long Sioux",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Long Sioux",
+  "case_date_filed": "2012-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brendan P. McCarthy",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "E. Vincent Carroll",
+      "attorney_label": "LEAD ATTORNEY"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nathan Long Sioux, Sr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113F.F ASSAULT RESULTING IN SERIOUS BODILY INJURY AND 18:1153.F CRIME ON RESERVATION(1)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced on Count 1 in the Indictment to B.O.P. for a term of 24 months; Supervised Release for a term of 3 years. Standard and special conditions apply. Court to recommend 500 RDAP; facility at Yankton, SD; fine is waived; special assessment of 100.00 due. FINAL REVOCATION HEARING HELD ON 5/20/2014 Sentenced to B.O.P. for a term of 3 months; Supervised Release 33 months with standard and special conditions apply including 6 months in a residential re-entry center. Court to recommend a facility in Englwood, CO. FINAL REVOCATION HELD 10/9/2015 The dft is sentenced to the B.O.P for a term of 12 months and 1 day with no term of supervision to follow."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan P. Watters",
+          "judge_guid": "urn:entity:jud-100075184"
+        }
+      ]
+    }
+  ]
+}

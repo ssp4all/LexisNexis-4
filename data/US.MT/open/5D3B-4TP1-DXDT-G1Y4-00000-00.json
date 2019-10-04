@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_414po5088_MTD",
+  "case_key": "4:14po5088_MTD",
+  "case_lni": "5D3B-4TP1-DXDT-G1Y4-00000-00",
+  "case_number": "4:14po5088",
+  "case_title": "USA v. Bullplume",
+  "case_info_full_case_name": "USA v. Bullplume",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bullplume",
+  "case_date_filed": "2014-09-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alice Bullplume",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7990.P Open Container of Alcohol M13 (2276333)(1)"
+        },
+        {
+          "charge_disposition": "Fine of 100.00 for violation 2276333 and $135.00 for violation 2276334"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Keith Strong",
+          "judge_guid": "urn:entity:jud-100106573"
+        }
+      ]
+    }
+  ]
+}

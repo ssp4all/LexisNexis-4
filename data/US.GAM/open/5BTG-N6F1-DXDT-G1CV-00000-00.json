@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_414mj34_GAMD",
+  "case_key": "4:14mj34_GAMD",
+  "case_lni": "5BTG-N6F1-DXDT-G1CV-00000-00",
+  "case_number": "4:14mj34",
+  "case_title": "UNITED STATES OF AMERICA v. CAPLE",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. CAPLE",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "CAPLE",
+  "case_date_filed": "2014-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "COREY J MACKINNON",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY L CAPLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7210.M  DRUNKEN DRIVING - DUI ON 1/19/14 18 USC 7 &; 13 i/c/w OCGA 40-6-391(a)(5)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:13-7210.M  DRUNKEN DRIVING - LESS SAFE ON 1/19/14 18 USC 7 &; 13 i/c/w OCGA 40-6-391(a)(1)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES - SPEEDING 49/35 ON 1/19/14 18 USC 7 &; 13 i/c/w OCGA 40-6-181(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:13-7220.M NO VALID LICENSE PLATE ON 1/19/14 18 USC 7 &; 13 i/c/w OCGA 40-2-8(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US",
+          "judge_guid": "urn:entity:geob-103081227"
+        }
+      ]
+    }
+  ]
+}

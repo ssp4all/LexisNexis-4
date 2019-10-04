@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_307cr960_TXWD",
+  "case_key": "3:07cr960_TXWD",
+  "case_lni": "7WBN-RS90-Y892-B4SM-00000-00",
+  "case_number": "3:07cr960",
+  "case_title": "USA v. Vargas",
+  "case_info_full_case_name": "USA v. Vargas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vargas",
+  "case_date_filed": "2007-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Margarito Vargas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952"
+        },
+        {
+          "charge_description": "21:952 MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F-Marijuana-Sell, 21:952=MI.F-Marijuana-Import, 87.55 18:1001.F-Statements"
+        },
+        {
+          "charge_description": "21:841A=MD.F-Marijuana-Sell, Distribute, or Dispense, 21:952=MI.F-Marijuana-Import, approximately 87.55 pounds 18:1001.F-Statements or Entries Generally."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

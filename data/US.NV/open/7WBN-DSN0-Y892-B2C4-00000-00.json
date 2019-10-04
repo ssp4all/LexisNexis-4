@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_307cr34_NVD",
+  "case_key": "3:07cr34_NVD",
+  "case_lni": "7WBN-DSN0-Y892-B2C4-00000-00",
+  "case_number": "3:07cr34",
+  "case_title": "USA v. George M. Lerner",
+  "case_info_full_case_name": "USA v. George M. Lerner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "George M. Lerner",
+  "case_date_filed": "2007-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "George M. Lerner",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Brian E. Sandoval",
+          "judge_guid": "urn:entity:jud-100059870"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert A. McQuaid, Jr",
+          "judge_guid": "urn:entity:jud-100026192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_298m288_tnwd",
+  "case_key": "2:98m288_tnwd",
+  "case_lni": "7WBN-DR00-Y892-B4F1-00000-00",
+  "case_number": "2:98m288",
+  "case_title": "USA v. Nwoke",
+  "case_info_full_case_name": "USA v. Nwoke",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nwoke",
+  "case_date_filed": "1998-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY JUDE NWOKE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James H. Allen",
+          "judge_guid": "urn:entity:jud-100074614"
+        }
+      ]
+    }
+  ]
+}

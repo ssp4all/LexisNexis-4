@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317cr4453_CASD",
+  "case_key": "3:17cr4453_CASD",
+  "case_lni": "5R9F-7XT1-DXDT-G51P-00000-00",
+  "case_number": "3:17cr4453",
+  "case_title": "USA v. Morales-Lopez",
+  "case_info_full_case_name": "USA v. Morales-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales-Lopez",
+  "case_date_filed": "2017-12-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Davis McEvoy Loop",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andres Morales-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325 - Improper Entry by an Alien (Misdemeanor)(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to Fifteen (15) days custody of BOP. Assessment is remitted. No fine. Defendant waived the right to appeal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "8:1326(a) - Reentry of Removed Alien (Felony)(2)"
+        },
+        {
+          "charge_disposition": "Government oral motion to dismiss Count 2 of the Information without prejudice is granted."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326; 8:1325 - Deported Alien Found in the United States; Illegal Entry (misdemeanor)"
+        },
+        {
+          "charge_offence_description": "8:1326; 8:1325 - Deported Alien Found in the Unite"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrew G. Schopler",
+          "judge_guid": "urn:entity:jud-100124731"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_211cr10_NCWD",
+  "case_key": "2:11cr10_NCWD",
+  "case_lni": "52SD-XVG1-DXDT-G4H2-00000-00",
+  "case_number": "2:11cr10",
+  "case_title": "USA v. Welch",
+  "case_info_full_case_name": "USA v. Welch",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Welch",
+  "case_date_filed": "2011-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "June C. Welch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "36CFR4.2"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, PETTY 36 CFR 4.2 FICTITIOUS LICENSE TAG (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "36CFRAND 20-28"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, PETTY 36 CFR AND NCGS 20-28 DRIVING WITH SUSPENDED LICENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martin Reidinger",
+          "judge_guid": "urn:entity:jud-100015077"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_216cr994_AZD",
+  "case_key": "2:16cr994_AZD",
+  "case_lni": "5PHG-BRP1-DXDT-G19S-00000-00",
+  "case_number": "2:16cr994",
+  "case_title": "USA v. Shull",
+  "case_info_full_case_name": "USA v. Shull",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shull",
+  "case_date_filed": "2016-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kevin Brian Shull",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) - Possession with Intent to Distribute a Controlled Substance, Methamphetamine(2s)"
+        },
+        {
+          "charge_disposition": "Defendant committed to custody of BOP for a term of 87 months. Followed by 3 years of supervised release. Special assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:952(a), 960(a)(1) and 960(b)(1) - Importation of 500 Grams or More of a Controlled Substance, Methamphetamine(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A) - Possession with Intent to Distribute 500 Grams or More of a Controlled Substance, Methamphetamine(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David G Campbell",
+          "judge_guid": "urn:entity:jud-100059869"
+        }
+      ]
+    }
+  ]
+}

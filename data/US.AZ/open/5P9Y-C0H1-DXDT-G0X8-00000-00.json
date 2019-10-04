@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417po26428_AZD",
+  "case_key": "4:17po26428_AZD",
+  "case_lni": "5P9Y-C0H1-DXDT-G0X8-00000-00",
+  "case_number": "4:17po26428",
+  "case_title": "USA v. Vazquez-Hernandez",
+  "case_info_full_case_name": "USA v. Vazquez-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vazquez-Hernandez",
+  "case_date_filed": "2017-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Angel Vazquez-Hernandez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

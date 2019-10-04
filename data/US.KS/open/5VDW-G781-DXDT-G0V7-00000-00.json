@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_219cr20011_KSD",
+  "case_key": "2:19cr20011_KSD",
+  "case_lni": "5VDW-G781-DXDT-G0V7-00000-00",
+  "case_number": "2:19cr20011",
+  "case_title": "USA v. Mendez et al",
+  "case_info_full_case_name": "USA v. Mendez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendez et al",
+  "case_date_filed": "2019-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kyle Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2)- Felon in Possession of a Firearm. (INDICTMENT FILED 2/13/2019) Forfeiture Allegations(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1)and 924(a)(2) - Felon in Possession of a firearm. (INFORMATION FILED 8/19/19). Forfeiture Allegations.(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:371 - Conspiracy to commit theft and 18:2 - aiding and abetting. (INFORMATION FILED 8/19/19). Forfeiture Allegations.(2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(u)-Conspiracy to Commit Theft (INDICTMENT FILED 2/13/2019)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2312-Possession of Stolen Property.  (INDICTMENT FILED 2/13/2019)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Julie A. Robinson",
+          "judge_guid": "urn:entity:jud-100012125"
+        }
+      ]
+    },
+    {
+      "party_name": "Brenda Tosh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(u)-Conspiracy to Commit Theft (INDICTMENT FILED 2/13/2019)(3)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 12 months and 1day. Upon release from imprisonment, defendnat will be on supervised release for a term of 2 years. Assessment-$100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Julie A. Robinson",
+          "judge_guid": "urn:entity:jud-100012125"
+        }
+      ]
+    }
+  ]
+}

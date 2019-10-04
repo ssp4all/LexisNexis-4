@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_103cr469_txsd",
+  "case_key": "1:03cr469_txsd",
+  "case_lni": "7WBN-JG00-Y892-B0B6-00000-00",
+  "case_number": "1:03cr469",
+  "case_title": "USA v. Martinez-Silva",
+  "case_info_full_case_name": "USA v. Martinez-Silva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Silva",
+  "case_date_filed": "2003-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - B",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN PEDRO MARTINEZ-SILVA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 1326(b) 5/9/03 20 3"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b) Illegal re-entry after deportation. Offense date: 5/9/03 Penalty: 20 yrs and/or $250, 000 plus 3 yrs SRT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) 1326(b)"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b) Unlawfully was present in the U.S. after having been previously denied admission, excluded, deported and removed. [1:03-m-1427]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

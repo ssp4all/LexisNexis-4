@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_114cr2781_NMD",
+  "case_key": "1:14cr2781_NMD",
+  "case_lni": "5DPC-SMM1-DXDT-G2DF-00000-00",
+  "case_number": "1:14cr2781",
+  "case_title": "USA v. Lawler",
+  "case_info_full_case_name": "USA v. Lawler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lawler",
+  "case_date_filed": "2014-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 1343: Wire Fraud(1ss-12ss)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 36 months as to Counts 1-12 to run concurrently; 3 years supervised release to run concurrently; SPA $1,200; Restitution $478,511.37; Voluntary Surrender"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343: Wire Fraud(1-12)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 1343: Wire Fraud(1s-12s)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James A. Parker",
+          "judge_guid": "urn:entity:jud-100028418"
+        }
+      ]
+    },
+    {
+      "party_name": "Timothy Lawler",
+      "party_description": "Material Witness"
+    }
+  ]
+}

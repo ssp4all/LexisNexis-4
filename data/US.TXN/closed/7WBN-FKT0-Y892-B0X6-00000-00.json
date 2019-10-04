@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_308cr265_TXND",
+  "case_key": "3:08cr265_TXND",
+  "case_lni": "7WBN-FKT0-Y892-B0X6-00000-00",
+  "case_number": "3:08cr265",
+  "case_title": "USA v. Darnell",
+  "case_info_full_case_name": "USA v. Darnell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Darnell",
+  "case_date_filed": "2008-08-18",
+  "case_status": "Closed",
+  "case_status_date": "08/18/2008",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Admitted/In Good Standing"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leland Keith Darnell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113 Bank Robbery by Force or Violence"
+        },
+        {
+          "charge_disposition": "BOP 52 mos; S/R 3 years; Restitution $6,145; MSA $100.00 - Sentenced in the Eastern District of Texas, Sherman Division... S/R REVOKED - BOP 24 months"
+        },
+        {
+          "charge_offence_description": "18:2113 Bank Robbery by Force or Violence\t\t\t\t\t\t\t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Godbey",
+          "judge_guid": "urn:entity:jud-100042848"
+        }
+      ]
+    }
+  ]
+}

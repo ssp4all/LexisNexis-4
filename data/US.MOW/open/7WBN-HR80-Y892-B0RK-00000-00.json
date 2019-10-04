@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_494m62_mowd",
+  "case_key": "4:94m62_mowd",
+  "case_lni": "7WBN-HR80-Y892-B0RK-00000-00",
+  "case_number": "4:94m62",
+  "case_title": "USA v. Young, et al",
+  "case_info_full_case_name": "USA v. Young, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Young, et al",
+  "case_date_filed": "1994-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARK-YOUNG",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(crack) 50 21:841 (a)(1)"
+        },
+        {
+          "charge_description": "Said defendants did knowingly and intentionally conspire and agree w/each other to distribute cocaine base (crack) in an amt exceeding 50 grams in violation of 21:841 (a)(1) and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Sarah W. Hays",
+          "judge_guid": "urn:entity:jud-100052039"
+        }
+      ]
+    },
+    {
+      "party_name": "SHAWN J SHARPLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(crack) 50 21:841 (a)(1)"
+        },
+        {
+          "charge_description": "Said defendants did knowingly and intentionally conspire and agree w/each other to distribute cocaine base (crack) in an amt exceeding 50 grams in violation of 21:841 (a)(1) and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Sarah W. Hays",
+          "judge_guid": "urn:entity:jud-100052039"
+        }
+      ]
+    }
+  ]
+}

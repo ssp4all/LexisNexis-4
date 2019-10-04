@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_217mj8229_AZD",
+  "case_key": "2:17mj8229_AZD",
+  "case_lni": "5NRV-W011-DXDT-G4JS-00000-00",
+  "case_number": "2:17mj8229",
+  "case_title": "USA v. Favela-Mendoza",
+  "case_info_full_case_name": "USA v. Favela-Mendoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Favela-Mendoza",
+  "case_date_filed": "2017-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Trinidad Favela-Mendoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) - Reentry of Removed Alien (2)  8:1325(a)(2) - Alien Eluding Examination and Inspection by Immigration Officers"
+        },
+        {
+          "charge_offence_description": "8:1326(a) - Reentry of Removed Alien (2)  8:1325(a"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John Z Boyle",
+          "judge_guid": "urn:entity:jud-100108161"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_210mj7129_AZD",
+  "case_key": "2:10mj7129_AZD",
+  "case_lni": "7Y36-7SJ0-Y892-B35P-00000-00",
+  "case_number": "2:10mj7129",
+  "case_title": "USA v. Martinez-Perez",
+  "case_info_full_case_name": "USA v. Martinez-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Perez",
+  "case_date_filed": "2010-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Martinez-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(1) 21:841(a)(1) 841(b)(1)(A)(viii)-Possession (2) 21:952(a), 960(a) 963(b)(1)(II)-Importation"
+        },
+        {
+          "charge_description": "(1) 21:841(a)(1) and 841(b)(1)(A)(viii)-Possession with Intent to Distribute Methamphetamine, a Controlled Substance; (2) 21:952(a), 960(a) and 963(b)(1)(II)-Importation of methampetamine, a Controlled Substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edward C Voss",
+          "judge_guid": "urn:entity:jud-100018796"
+        }
+      ]
+    }
+  ]
+}

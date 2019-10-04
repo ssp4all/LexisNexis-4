@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_114mj216_GAND",
+  "case_key": "1:14mj216_GAND",
+  "case_lni": "5BPV-4761-DXDT-G0V8-00000-00",
+  "case_number": "1:14mj216",
+  "case_title": "USA v. Weathington et al",
+  "case_info_full_case_name": "USA v. Weathington et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Weathington et al",
+  "case_date_filed": "2014-03-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Stephanie Elaine Gabay-Smith",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Seville Weathington",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(a)(1)(A), 924(c), 2 and 21:841(a)(1) - IMPORTNG/MANUFACTURING FIREARMS, POSSESSION OF A FIREARM IN FURTHERANCE OF DRUG TRAFFICKING and DISTRIBUTION OF MARIJUANA"
+        },
+        {
+          "charge_offence_description": "18:924(a)(1)(A), 924(c), 2 and 21:841(a)(1) - IMPO"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alan J. Baverman",
+          "judge_guid": "urn:entity:jud-100062073"
+        }
+      ]
+    },
+    {
+      "party_name": "Bilal McElroy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(a)(1)(A), 924(c), 2 and 21:841(a)(1) - IMPORTNG/MANUFACTURING FIREARMS, POSSESSION OF A FIREARM IN FURTHERANCE OF DRUG TRAFFICKING and DISTRIBUTION OF MARIJUANA"
+        },
+        {
+          "charge_offence_description": "18:924(a)(1)(A), 924(c), 2 and 21:841(a)(1) - IMPO"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alan J. Baverman",
+          "judge_guid": "urn:entity:jud-100062073"
+        }
+      ]
+    }
+  ]
+}

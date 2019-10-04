@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_110cr17_OHSD",
+  "case_key": "1:10cr17_OHSD",
+  "case_lni": "7XP6-CMW0-Y892-B4C9-00000-00",
+  "case_number": "1:10cr17",
+  "case_title": "USA v. Brewsaugh",
+  "case_info_full_case_name": "USA v. Brewsaugh",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brewsaugh",
+  "case_date_filed": "2010-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert C. Brichler",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeffrey A Brewsaugh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Herman J. Weber",
+          "judge_guid": "urn:entity:jud-100017650"
+        }
+      ]
+    }
+  ]
+}

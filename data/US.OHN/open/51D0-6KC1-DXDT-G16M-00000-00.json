@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_510mj1066_OHND",
+  "case_key": "5:10mj1066_OHND",
+  "case_lni": "51D0-6KC1-DXDT-G16M-00000-00",
+  "case_number": "5:10mj1066",
+  "case_title": "United States of America v. Poffenberger",
+  "case_info_full_case_name": "United States of America v. Poffenberger",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Poffenberger",
+  "case_date_filed": "2010-11-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shea C. Poffenberger",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846 (Cultivate) 21USC841(a)(1) (Cultivating)"
+        },
+        {
+          "charge_description": "21 U.S.C. 846 Conspiracy to Manufacture (Cultivate) Marijuana, a Schedule I Controlled Substance, and 21 U.S.C. 841(a)(1) Manufacturing (Cultivating) Marijuana, a Scheduled I Controlled Substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Benita Y. Pearson",
+          "judge_guid": "urn:entity:jud-100071923"
+        }
+      ]
+    }
+  ]
+}

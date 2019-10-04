@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_116cr593_HID",
+  "case_key": "1:16cr593_HID",
+  "case_lni": "5KW2-BTS1-DXDT-G00P-00000-00",
+  "case_number": "1:16cr593",
+  "case_title": "USA v. Wilson",
+  "case_info_full_case_name": "USA v. Wilson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wilson",
+  "case_date_filed": "2016-10-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jason P. Wilson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER - HRS 286-102; HRS 286-136 No Operator's License; 06/26/2016 SB; 6134430/H10(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "BARRY M. KURREN",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

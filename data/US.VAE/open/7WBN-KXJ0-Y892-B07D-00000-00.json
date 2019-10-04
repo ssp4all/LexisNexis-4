@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_207mj705_VAED",
+  "case_key": "2:07mj705_VAED",
+  "case_lni": "7WBN-KXJ0-Y892-B07D-00000-00",
+  "case_number": "2:07mj705",
+  "case_title": "USA v. Porter",
+  "case_info_full_case_name": "USA v. Porter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Porter",
+  "case_date_filed": "2007-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Billy J. Porter",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:7&;13, 46.2-301-TRAFFIC"
+        },
+        {
+          "charge_description": "T. 18:7&;13, assim. State Code of Va. 46.2-301-TRAFFIC OFFENSES, OTHER-DRIVING WHILE ON A SUSPENDED LICENSE (SECOND OFFENSE) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. Bradford Stillman",
+          "judge_guid": "urn:entity:jud-100051654"
+        }
+      ]
+    }
+  ]
+}

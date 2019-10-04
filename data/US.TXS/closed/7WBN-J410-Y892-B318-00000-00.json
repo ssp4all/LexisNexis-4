@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_798m964_txsd",
+  "case_key": "7:98m964_txsd",
+  "case_lni": "7WBN-J410-Y892-B318-00000-00",
+  "case_number": "7:98m964",
+  "case_title": "USA v. Fajardo-Figueroa",
+  "case_info_full_case_name": "USA v. Fajardo-Figueroa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fajardo-Figueroa",
+  "case_date_filed": "1998-02-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FELIX FAJARDO-FIGUEROA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P"
+        },
+        {
+          "charge_description": "8:1325.P CONCEALMENT OF FACTS ABOUT REENTRY (1)"
+        },
+        {
+          "charge_disposition": "90 day impris, suspended for 3 yrs probation w/o supervision, $10 SA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:1028A.M"
+        },
+        {
+          "charge_description": "18:1028A.M FRAUD WITH IDENTIFICATION DOCUMENTS (2)"
+        },
+        {
+          "charge_disposition": "3 yrs probation w/out supervision, to run concurrently w/ct 1, and $25 SA (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "Illegal entry into the U.S. &; Poss false identification document"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dorina Ramos",
+          "judge_guid": "urn:entity:jud-100070094"
+        }
+      ]
+    }
+  ]
+}

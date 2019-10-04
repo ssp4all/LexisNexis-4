@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_413cr94_MOED",
+  "case_key": "4:13cr94_MOED",
+  "case_lni": "57YN-43X1-DXDT-G0R2-00000-00",
+  "case_number": "4:13cr94",
+  "case_title": "USA v. Doumer-Vilches",
+  "case_info_full_case_name": "USA v. Doumer-Vilches",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Doumer-Vilches",
+  "case_date_filed": "2013-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Baltazar Doumer-Vilches",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE IN EXCESS OF 50 GRAMS OF METHAMPHETAMINE(1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE OR DISPENSE A CONTROLLED SUBSTANCE IN EXCESS OF 50 GRMAS OF A MIXTURE OR SUBSTANCE CONTAINING METHAMPHETAMINE, A SCHEDULE II CONTROLLED SUBSTANCE"
+        },
+        {
+          "charge_offence_description": "POSSESSION WITH INTENT TO DISTRIBUTE OR DISPENSE A"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Audrey G. Fleissig",
+          "judge_guid": "urn:entity:jud-100046365"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Terry I. Adelman",
+          "judge_guid": "urn:entity:jud-100079712"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_215cr258_NMD",
+  "case_key": "2:15cr258_NMD",
+  "case_lni": "5F4S-66T1-DXDT-G0SF-00000-00",
+  "case_number": "2:15cr258",
+  "case_title": "USA v. Torrez-Hernandez et al",
+  "case_info_full_case_name": "USA v. Torrez-Hernandez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torrez-Hernandez et al",
+  "case_date_filed": "2015-01-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anna R. Wright",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alejandro Torrez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute 43.6 kilograms of Marijuana; 21:846 Conspiracy"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "Javier Guerrero-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute 43.6 kilograms of Marijuana; 21:846 Conspiracy"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

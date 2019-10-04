@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_115mj502_NYED",
+  "case_key": "1:15mj502_NYED",
+  "case_lni": "5G45-F0C1-DXDT-G40S-00000-00",
+  "case_number": "1:15mj502",
+  "case_title": "USA v. Singh",
+  "case_info_full_case_name": "USA v. Singh",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Singh",
+  "case_date_filed": "2015-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sukhpal Veer Singh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546.F"
+        },
+        {
+          "charge_offence_description": "18:1546.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Arlene R. Lindsay",
+          "judge_guid": "urn:entity:jud-100080523"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_517mj847_TXSD",
+  "case_key": "5:17mj847_TXSD",
+  "case_lni": "5P88-7H91-DXDT-G05H-00000-00",
+  "case_number": "5:17mj847",
+  "case_title": "USA v. Leyva-Cabrera",
+  "case_info_full_case_name": "USA v. Leyva-Cabrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leyva-Cabrera",
+  "case_date_filed": "2017-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jorge Leyva-Cabrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Luis Leyva-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    },
+    {
+      "party_name": "Arcadio Betancourt-Cabrera",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Bulmaro Marban-Alarcon",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Inocente Perez-Seguras",
+      "party_description": "Material Witness"
+    }
+  ]
+}

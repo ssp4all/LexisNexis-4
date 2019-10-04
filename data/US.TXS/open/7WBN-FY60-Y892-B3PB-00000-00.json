@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_701m1214_txsd",
+  "case_key": "7:01m1214_txsd",
+  "case_lni": "7WBN-FY60-Y892-B3PB-00000-00",
+  "case_number": "7:01m1214",
+  "case_title": "USA v. Hinojosa-Morales",
+  "case_info_full_case_name": "USA v. Hinojosa-Morales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hinojosa-Morales",
+  "case_date_filed": "2001-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Re-entry after previously being deported"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter Edward Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

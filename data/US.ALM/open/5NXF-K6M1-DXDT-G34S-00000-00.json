@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_117po231_ALMD",
+  "case_key": "1:17po231_ALMD",
+  "case_lni": "5NXF-K6M1-DXDT-G34S-00000-00",
+  "case_number": "1:17po231",
+  "case_title": "USA vs Castro",
+  "case_info_full_case_name": "USA vs Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castro",
+  "case_date_filed": "2017-07-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brandon Wade Bates",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Connor Joseph Bidwill",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rhianna A Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SPEEDING (7084040)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Wallace Capel, Jr",
+          "judge_guid": "urn:entity:jud-100063359"
+        }
+      ]
+    }
+  ]
+}

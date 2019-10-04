@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_298cr279_ncwd",
+  "case_key": "2:98cr279_ncwd",
+  "case_lni": "7WBN-RJ10-Y892-B0DF-00000-00",
+  "case_number": "2:98cr279",
+  "case_title": "USA v. Acquaah",
+  "case_info_full_case_name": "USA v. Acquaah",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acquaah",
+  "case_date_filed": "1998-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDMOND ACQUAAH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:911.F"
+        },
+        {
+          "charge_description": "18:911.F IMPERSONATING CITIZEN OF THE U.S. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A.F"
+        },
+        {
+          "charge_description": "18:1028A.F FRAUD WITH IDENTIFICATION DOCUMENTS (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1542.F"
+        },
+        {
+          "charge_description": "18:1542.F FALSE STATEMENT IN APPLICATION/USE OF PASSPORT (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC1542-Make"
+        },
+        {
+          "charge_description": "18 USC 1542-Make false statement in an application for a passport [2:98-m-18]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lacy H. Thornburg",
+          "judge_guid": "urn:entity:jud-100019031"
+        }
+      ]
+    }
+  ]
+}

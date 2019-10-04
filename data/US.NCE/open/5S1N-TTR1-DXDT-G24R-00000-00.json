@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_718cr70_NCED",
+  "case_key": "7:18cr70_NCED",
+  "case_lni": "5S1N-TTR1-DXDT-G24R-00000-00",
+  "case_number": "7:18cr70",
+  "case_title": "USA v. Harrison",
+  "case_info_full_case_name": "USA v. Harrison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harrison",
+  "case_date_filed": "2018-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javob James Harrison, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Distribution of a quantity of cocaine base (crack)(1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

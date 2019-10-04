@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_104cr105_VAED",
+  "case_key": "1:04cr105_VAED",
+  "case_lni": "7WBN-PMR0-Y892-B44V-00000-00",
+  "case_number": "1:04cr105",
+  "case_title": "USA v. Miranda",
+  "case_info_full_case_name": "USA v. Miranda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miranda",
+  "case_date_filed": "2004-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MILTON RENE MIRANDA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Cacheris",
+          "judge_guid": "urn:entity:jud-100059998"
+        }
+      ]
+    }
+  ]
+}

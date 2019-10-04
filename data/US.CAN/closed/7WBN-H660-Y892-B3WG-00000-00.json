@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_304cr277_CAND",
+  "case_key": "3:04cr277_CAND",
+  "case_lni": "7WBN-H660-Y892-B3WG-00000-00",
+  "case_number": "3:04cr277",
+  "case_title": "USA v. Burch",
+  "case_info_full_case_name": "USA v. Burch",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Burch",
+  "case_date_filed": "2004-08-31",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edmund Burch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) felon in possession of a firearm (1)"
+        },
+        {
+          "charge_disposition": "57 months custody; 3 years supervised release; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Charles R. Breyer",
+          "judge_guid": "urn:entity:jud-100060784"
+        }
+      ]
+    }
+  ]
+}

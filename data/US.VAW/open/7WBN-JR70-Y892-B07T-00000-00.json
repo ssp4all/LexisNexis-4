@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_107cr23_VAWD",
+  "case_key": "1:07cr23_VAWD",
+  "case_lni": "7WBN-JR70-Y892-B07T-00000-00",
+  "case_number": "1:07cr23",
+  "case_title": "USA v. Riley",
+  "case_info_full_case_name": "USA v. Riley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Riley",
+  "case_date_filed": "2007-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Allen Riley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "DISPENSE--21USC841(a)(1); 846, 860 841(b)(1)(B)--Knowingly 1000 18, 2006)"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE--21 USC 841(a)(1); 846, 860 and 841(b)(1)(B)--Knowingly and intentionally manufactured and attempted to manufacture methamphetamine within 1000 fee of realy property comprising a playground (December 18, 2006) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "SUBSTANCE-21 858--While 18, 2006)"
+        },
+        {
+          "charge_description": "ENDANGERING LIFE MANUFACTURING CONTROLLED SUBSTANCE-21 UC 858--While manufacturing and attempting manufacture methamphetamine did create a substantial risk of harm to human life (December 18, 2006) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James P. Jones",
+          "judge_guid": "urn:entity:jud-100033038"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Pamela Meade Sargent",
+          "judge_guid": "urn:entity:jud-100027085"
+        }
+      ]
+    }
+  ]
+}

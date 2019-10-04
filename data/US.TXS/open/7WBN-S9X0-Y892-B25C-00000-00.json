@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_504m6871_TXSD",
+  "case_key": "5:04m6871_TXSD",
+  "case_lni": "7WBN-S9X0-Y892-B25C-00000-00",
+  "case_number": "5:04m6871",
+  "case_title": "USA v. De La Rosa-Torralba",
+  "case_info_full_case_name": "USA v. De La Rosa-Torralba",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Rosa-Torralba",
+  "case_date_filed": "2004-07-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GRISELDA DE LA ROSA-TORRALBA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Unlawfully enter and attempt to enter the United States at a place other than as designated by Immigration Officers."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

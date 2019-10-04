@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_395cr840_scd",
+  "case_key": "3:95cr840_scd",
+  "case_lni": "7WBN-N3S0-Y892-B4XM-00000-00",
+  "case_number": "3:95cr840",
+  "case_title": "USA v. Kelly",
+  "case_info_full_case_name": "USA v. Kelly",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kelly",
+  "case_date_filed": "1995-09-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Eric William Ruschky",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY B KELLY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:3146D.M A1497126, A1497125, A0165202 A0165203)"
+        },
+        {
+          "charge_description": "18:3146D.M PENALTY FOR FAILURE TO APPEAR (Ft Jackson Matter: Violation Nos. A1497126, A1497125, A0165202 &; A0165203) (1)"
+        },
+        {
+          "charge_disposition": "Defendant shall pay a fine of $500.00 along with a special assessment of $25.00 for a total of $525.00 due by 12/28/95 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert L. Buchanan, Jr.",
+          "judge_guid": "urn:entity:jud-100044530"
+        }
+      ]
+    }
+  ]
+}

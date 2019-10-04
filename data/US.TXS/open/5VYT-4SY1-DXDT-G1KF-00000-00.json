@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_519po66711_TXSD",
+  "case_key": "5:19po66711_TXSD",
+  "case_lni": "5VYT-4SY1-DXDT-G1KF-00000-00",
+  "case_number": "5:19po66711",
+  "case_title": "USA v. Sanchez-Garcia",
+  "case_info_full_case_name": "USA v. Sanchez-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Garcia",
+  "case_date_filed": "2019-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Oscar Sanchez-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

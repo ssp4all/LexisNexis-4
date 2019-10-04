@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417po28414_AZD",
+  "case_key": "4:17po28414_AZD",
+  "case_lni": "5PNF-D001-DXDT-G2TV-00000-00",
+  "case_number": "4:17po28414",
+  "case_title": "USA v. Gomez-Sanchez",
+  "case_info_full_case_name": "USA v. Gomez-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez-Sanchez",
+  "case_date_filed": "2017-10-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ismael Gomez-Sanchez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

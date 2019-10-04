@@ -1,0 +1,137 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_511cr722_TXSD",
+  "case_key": "5:11cr722_TXSD",
+  "case_lni": "52V3-86M1-DXDT-G359-00000-00",
+  "case_number": "5:11cr722",
+  "case_title": "USA v. Calderon-Valenzuela et al",
+  "case_info_full_case_name": "USA v. Calderon-Valenzuela et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Calderon-Valenzuela et al",
+  "case_date_filed": "2011-05-10",
+  "case_status": "Closed",
+  "case_status_date": "01/04/2012",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David White",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-LA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gabriela Calderon-Valenzuela",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952=CI.F --- Controlled Substance - Import approximately 34 kilograms of cocaine."
+        },
+        {
+          "charge_offence_description": "21:952=CI.F --- Controlled Substance - Import appr"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute in excess of 5 kilograms of cocaine. Penalty: 10 yrs and/or $10 million, $100 CVF, 5 yrs min term of TSR.(1)"
+        },
+        {
+          "charge_disposition": "62 months to serve; 4 yrs tsr; standard and mandatory conditions; night restriction; $100 cvf; no fine; deportation; advised of right to appeal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possess with intent to distribute in excess of 5 kilograms of cocaine. Penalty: 10 yrs and/or $10 million, $100 CVF, 5 yrs min term of TSR.(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GVT'S ORAL MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Importation of cocaine in excess of 5 kilograms. Penalty: 10 yrs and/or $10 million, $100 CVF, 5 yrs min term of TSR.(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GVT'S ORAL MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marina Garcia Marmolejo",
+          "judge_guid": "urn:entity:jud-100005708"
+        }
+      ]
+    },
+    {
+      "party_name": "Ana Laura Pena-Gallegos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952=CI.F --- Controlled Substance - Import approximately 34 kilograms of cocaine."
+        },
+        {
+          "charge_offence_description": "21:952=CI.F --- Controlled Substance - Import appr"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute in excess of 5 kilograms of cocaine. Penalty: 10 yrs and/or $10 million, $100 CVF, 5 yrs min term of TSR.(1)"
+        },
+        {
+          "charge_disposition": "51 mos to serve; 3 yrs tsr, comply with all terms; DNA sample; $100 cvf; fine waived; deportation; waived appeal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possess with intent to distribute in excess of 5 kilograms of cocaine. Penalty: 10 yrs and/or $10 million, $100 CVF, 5 yrs min term of TSR.(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govts oral Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Importation of cocaine in excess of 5 kilograms. Penalty: 10 yrs and/or $10 million, $100 CVF, 5 yrs min term of TSR.(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govts oral Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marina Garcia Marmolejo",
+          "judge_guid": "urn:entity:jud-100005708"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_505cr4005_IAND",
+  "case_key": "5:05cr4005_IAND",
+  "case_lni": "7WBN-S9X0-Y892-B489-00000-00",
+  "case_number": "5:05cr4005",
+  "case_title": "USA v. Peterson",
+  "case_info_full_case_name": "USA v. Peterson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peterson",
+  "case_date_filed": "2005-01-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donna Peterson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 21:860(a)"
+        },
+        {
+          "charge_description": "21:846 and 21:860(a) CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE-Methamphetamine-Schedule II (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(3) 18:924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g)(3) and 18:924(a)(2) UNLAWFUL TRANSPORT OF FIREARMS, ETC. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Donald E O'Brien",
+          "judge_guid": "urn:entity:jud-100036068"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Paul A Zoss",
+          "judge_guid": "urn:entity:jud-100016377"
+        }
+      ]
+    }
+  ]
+}

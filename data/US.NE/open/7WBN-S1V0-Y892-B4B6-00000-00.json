@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_403cr3133_ned",
+  "case_key": "4:03cr3133_ned",
+  "case_lni": "7WBN-S1V0-Y892-B4B6-00000-00",
+  "case_number": "4:03cr3133",
+  "case_title": "USA v. Augustine",
+  "case_info_full_case_name": "USA v. Augustine",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Augustine",
+  "case_date_filed": "2003-10-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Augustine",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(a)(6) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(a)(6) and 924(a)(2) IMPORTING/MANUFACTURING FIREARMS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g) and 924(a)(2) UNLAWFUL TRANSPORT OF FIREARMS, ETC. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(a)(6) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(a)(6) and 924(a)(2) IMPORTING/MANUFACTURING FIREARMS (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g) and 924(a)(2) UNLAWFUL TRANSPORT OF FIREARMS, ETC. (4-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Warren K. Urbom",
+          "judge_guid": "urn:entity:jud-100010813"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David L. Piester",
+          "judge_guid": "urn:entity:jud-100024476"
+        }
+      ]
+    }
+  ]
+}

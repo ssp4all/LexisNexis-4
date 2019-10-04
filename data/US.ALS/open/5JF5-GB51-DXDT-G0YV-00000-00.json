@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_116mj23_ALSD",
+  "case_key": "1:16mj23_ALSD",
+  "case_lni": "5JF5-GB51-DXDT-G0YV-00000-00",
+  "case_number": "1:16mj23",
+  "case_title": "USA v. Bullock et al",
+  "case_info_full_case_name": "USA v. Bullock et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bullock et al",
+  "case_date_filed": "2016-03-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brandon Wayne Bullock",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CP.F - Conspiracy to possess with the intent to distribute methamphetamine,  21:846=MP.F - Conspiracy to possess with the intent to distribute marijuana"
+        },
+        {
+          "charge_offence_description": "21:846=CP.F - Conspiracy to possess with the inten"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bert W. Milling, Jr",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    },
+    {
+      "party_name": "Ron Luvell Dedeaux",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CP.F - Conspiracy to possess with the intent to distribute methamphetamine,  21:846=MP.F - Conspiracy to possess with the intent to distribute marijuana"
+        },
+        {
+          "charge_offence_description": "21:846=CP.F - Conspiracy to possess with the inten"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bert W. Milling, Jr",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    },
+    {
+      "party_name": "Alverez Antonio Ruiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CP.F - Conspiracy to possess with the intent to distribute methamphetamine., 21:846=MP.F - Conspiracy to possess with the intent to distribute marijuana"
+        },
+        {
+          "charge_offence_description": "21:846=CP.F - Conspiracy to possess with the inten"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bert W. Milling, Jr",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    }
+  ]
+}

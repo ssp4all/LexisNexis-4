@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_307cr182_CAND",
+  "case_key": "3:07cr182_CAND",
+  "case_lni": "7WBN-MVB0-Y892-B10D-00000-00",
+  "case_number": "3:07cr182",
+  "case_title": "USA v. Valentin-Castro",
+  "case_info_full_case_name": "USA v. Valentin-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valentin-Castro",
+  "case_date_filed": "2007-03-29",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brigid Martin",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Valentin-Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 Illegal Reentry Following Deportation (1)"
+        },
+        {
+          "charge_disposition": "57 Months Custody; 3 Years Supervised Release; $100 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Susan Illston",
+          "judge_guid": "urn:entity:jud-100050761"
+        }
+      ]
+    }
+  ]
+}

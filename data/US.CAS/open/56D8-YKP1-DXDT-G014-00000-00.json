@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_312mj3123_CASD",
+  "case_key": "3:12mj3123_CASD",
+  "case_lni": "56D8-YKP1-DXDT-G014-00000-00",
+  "case_number": "3:12mj3123",
+  "case_title": "USA v. Romero-Sandoval et al",
+  "case_info_full_case_name": "USA v. Romero-Sandoval et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero-Sandoval et al",
+  "case_date_filed": "2012-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan De Dios Romero-Sandoval",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iv)-Encouraging"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iv)-Encouraging or Inducing an alien to come to enter, or reside in the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jan M. Adler",
+          "judge_guid": "urn:entity:jud-100074793"
+        }
+      ]
+    },
+    {
+      "party_name": "Roberto Carlos Navarrete-Osuna",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)-Attempted"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)-Attempted Transportation of an Illegal Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jan M. Adler",
+          "judge_guid": "urn:entity:jud-100074793"
+        }
+      ]
+    }
+  ]
+}

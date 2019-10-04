@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_115cr549_NMD",
+  "case_key": "1:15cr549_NMD",
+  "case_lni": "5FBS-3SW1-DXDT-G4X0-00000-00",
+  "case_number": "1:15cr549",
+  "case_title": "USA v. Caldera-Reyes",
+  "case_info_full_case_name": "USA v. Caldera-Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Caldera-Reyes",
+  "case_date_filed": "2015-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Francisco Caldera-Reyes",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "M. Christina Armijo",
+          "judge_guid": "urn:entity:jud-100074237"
+        }
+      ]
+    }
+  ]
+}

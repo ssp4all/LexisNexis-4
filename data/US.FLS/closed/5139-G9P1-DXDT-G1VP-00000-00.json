@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_010mj6364_FLSD",
+  "case_key": "0:10mj6364_FLSD",
+  "case_lni": "5139-G9P1-DXDT-G1VP-00000-00",
+  "case_number": "0:10mj6364",
+  "case_title": "USA v. Tracking Warrant",
+  "case_info_full_case_name": "USA v. Tracking Warrant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tracking Warrant",
+  "case_date_filed": "2010-09-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Tracking Warrant",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lurana S. Snow",
+          "judge_guid": "urn:entity:jud-100020553"
+        }
+      ]
+    }
+  ]
+}

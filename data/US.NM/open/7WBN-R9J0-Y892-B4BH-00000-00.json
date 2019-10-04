@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_208cr1630_NMD",
+  "case_key": "2:08cr1630_NMD",
+  "case_lni": "7WBN-R9J0-Y892-B4BH-00000-00",
+  "case_number": "2:08cr1630",
+  "case_title": "USA v. Dixon",
+  "case_info_full_case_name": "USA v. Dixon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dixon",
+  "case_date_filed": "2008-07-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Darrel Dixon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841 and 860 Deliver 5 grams and more of Methamphetamine within 1000 feet of a school"
+        },
+        {
+          "charge_offence_description": "21:841 and 860 Deliver 5 grams and more of Methamp"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A) POSSESSION WITH INTENT TO DISTRIBUTE 50 GRAMS AND MORE OF METHAMPHETAMINE; 18:2 AIDING AND ABETTING(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A)(i) CARRYING A FIREARM DURING AND IN RELATION TO A DRUG TRAFFICKING CRIME(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

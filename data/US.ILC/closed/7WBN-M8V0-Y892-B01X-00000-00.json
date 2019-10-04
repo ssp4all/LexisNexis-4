@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_296cr20069_ilcd",
+  "case_key": "2:96cr20069_ilcd",
+  "case_lni": "7WBN-M8V0-Y892-B01X-00000-00",
+  "case_number": "2:96cr20069",
+  "case_title": "USA v. Love",
+  "case_info_full_case_name": "USA v. Love",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Love",
+  "case_date_filed": "1996-12-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KEVIN LOVE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F 7/2/96 7/9/96 (\"CRACK\"), 21:USC:841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841A=ND.F ON OR ABOUT 7/2/96 AND 7/9/96 DISTRIBUTION OF LESS THAN FIVE GRAMS OF A MIXTURE OR SUBSTANCE CONTAINING COCAINE BASE (\"CRACK\"), A SCHEDULE II CONTROLLED SUBSTANCE IN VIOLATION OF 21:USC:841(a)(1) and 841(b)(1)(C) (1-2)"
+        },
+        {
+          "charge_disposition": "Judgment of court, defendant committed to the custody of the BOP for a term of 188 months as to Counts I and II, to run concurrently with each other. Upon release from incarceration, the defendant is placed on supervised release for a term of 6 years and under special conditions. (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Harold A. Baker",
+          "judge_guid": "urn:entity:jud-100069903"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_401cr289_gasd",
+  "case_key": "4:01cr289_gasd",
+  "case_lni": "7WBN-N8X0-Y892-B55W-00000-00",
+  "case_number": "4:01cr289",
+  "case_title": "USA v. Deloach",
+  "case_info_full_case_name": "USA v. Deloach",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Deloach",
+  "case_date_filed": "2001-11-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Yosefi M. Seltzer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MATTHEW L. DELOACH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC7 13; 40-6-391 (a)(1)"
+        },
+        {
+          "charge_description": "18 USC 7 &; 13; OCGA 40-6-391 (a)(1) D.U.I. (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC7 13; 40-6-181"
+        },
+        {
+          "charge_description": "18 USC 7 &; 13; OCGA 40-6-181 Speeding (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "G. R. Smith",
+          "judge_guid": "urn:entity:jud-100015834"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_417cr356_MOWD",
+  "case_key": "4:17cr356_MOWD",
+  "case_lni": "5R02-44V1-DXDT-G430-00000-00",
+  "case_number": "4:17cr356",
+  "case_title": "USA v. Bernal et al",
+  "case_info_full_case_name": "USA v. Bernal et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bernal et al",
+  "case_date_filed": "2017-11-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Salvador Bernal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Howard F. Sachs",
+          "judge_guid": "urn:entity:jud-100031276"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Maughmer",
+          "judge_guid": "urn:entity:jud-100041328"
+        }
+      ]
+    },
+    {
+      "party_name": "Jaime Alberto Ramirez-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "SENTENCED 8/1/19: Defendant is committed to BOP for term of 108 months as to each of Counts 1 and 6 of the Indictment to run concurrently, and concurrent to sentence imposed in Wyandotte County, Kansas, Circuit Court Case No. 06CR1681. Following term of incarceration, the defendant will be on Supervised Release for 4 years as to Count 1 and 3 years as to Count 6 to run concurrently. Standard/Special Conditions imposed. Costs/Fines-Waived. MPA-$200.00. The Court recommends that the defendant be designated to USP Leavenworth, or in the alternative, to a facility as close to the Kansas City area as possible. Counts 4 and 5 of the Indictment are dismissed upon oral motion by the Government. The defendant is advised of right to appeal. The defendant is remanded to custody of USM."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(6)"
+        },
+        {
+          "charge_disposition": "SENTENCED 8/1/19: Defendant is committed to BOP for term of 108 months as to each of Counts 1 and 6 of the Indictment to run concurrently, and concurrent to sentence imposed in Wyandotte County, Kansas, Circuit Court Case No. 06CR1681. Following term of incarceration, the defendant will be on Supervised Release for 4 years as to Count 1 and 3 years as to Count 6 to run concurrently. Standard/Special Conditions imposed. Costs/Fines-Waived. MPA-$200.00. The Court recommends that the defendant be designated to USP Leavenworth, or in the alternative, to a facility as close to the Kansas City area as possible. Counts 4 and 5 of the Indictment are dismissed upon oral motion by the Government. The defendant is advised of right to appeal. The defendant is remanded to custody of USM."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(4-5)"
+        },
+        {
+          "charge_disposition": "Dismissed Upon Government Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Howard F. Sachs",
+          "judge_guid": "urn:entity:jud-100031276"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_206cr307_NJD",
+  "case_key": "2:06cr307_NJD",
+  "case_lni": "7WBN-KRY0-Y892-B1B0-00000-00",
+  "case_number": "2:06cr307",
+  "case_title": "USA v. MK SHIPMANAGEMENT CO. LTD",
+  "case_info_full_case_name": "USA v. MK SHIPMANAGEMENT CO. LTD",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MK SHIPMANAGEMENT CO. LTD",
+  "case_date_filed": "2006-04-12",
+  "case_status": "Closed",
+  "case_status_date": "08/10/2006",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MK SHIPMANAGEMENT CO. LTD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "33:1908 ENFORCEMENT - CRIMINAL PENALTIES DOF: 3/25/05(1)"
+        },
+        {
+          "charge_disposition": "of Information: Probation 3 years. Fine: $200,000.00. Community Service payment: $150,000.00, defendant to implement environmental program, etc. AAPS award of $65,000.00 to Rayton and $35,000.00 to Flora, etc. Special Assessment: $400.00. SEE CORRECTION ON FINE PAGE: $200,000.00. SEE CORRECTION ON PROBATION PAGE"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William H. Walls",
+          "judge_guid": "urn:entity:jud-100023480"
+        }
+      ]
+    },
+    {
+      "party_name": "JOSELITO RAYTON",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "ARNE FLORA",
+      "party_description": "Interested Party"
+    }
+  ]
+}

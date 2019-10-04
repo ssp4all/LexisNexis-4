@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_101m3017_ohnd",
+  "case_key": "1:01m3017_ohnd",
+  "case_lni": "7WBN-JBS0-Y892-B2PN-00000-00",
+  "case_number": "1:01m3017",
+  "case_title": "USA v. Wooding",
+  "case_info_full_case_name": "USA v. Wooding",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wooding",
+  "case_date_filed": "2001-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DARNELL R DARNELL ROSWELL WOODING",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Exchange, transfer, or deliver counterfeit obligations of the United States, to wit, counterfeit Federal Reserve Notes (U.S currency) in violation of Title 18 USC 473"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Patricia A. Hemann",
+          "judge_guid": "urn:entity:jud-100051935"
+        }
+      ]
+    }
+  ]
+}

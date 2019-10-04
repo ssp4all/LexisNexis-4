@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_116po70_CAED",
+  "case_key": "1:16po70_CAED",
+  "case_lni": "5JJ3-SY11-DXDT-G0NJ-00000-00",
+  "case_number": "1:16po70",
+  "case_title": "USA vs He",
+  "case_info_full_case_name": "USA vs He",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "He",
+  "case_date_filed": "2016-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Hanlin He",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Disturbing, Injuring, Spearing, Poisoning, Destroying, Collecting (or Attempt) P (5007029)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stanley A. Boone",
+          "judge_guid": "urn:entity:jud-100103342"
+        }
+      ]
+    }
+  ]
+}

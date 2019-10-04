@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_401cr19_mowd",
+  "case_key": "4:01cr19_mowd",
+  "case_lni": "7WBN-N8X0-Y892-B4PX-00000-00",
+  "case_number": "4:01cr19",
+  "case_title": "USA v. Graves",
+  "case_info_full_case_name": "USA v. Graves",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Graves",
+  "case_date_filed": "2001-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RANDALL L GRAVES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howard F. Sachs",
+          "judge_guid": "urn:entity:jud-100031276"
+        }
+      ]
+    }
+  ]
+}

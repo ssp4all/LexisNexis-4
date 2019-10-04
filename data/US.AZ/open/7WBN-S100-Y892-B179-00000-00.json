@@ -1,0 +1,149 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400cr550_azd",
+  "case_key": "4:00cr550_azd",
+  "case_lni": "7WBN-S100-Y892-B179-00000-00",
+  "case_number": "4:00cr550",
+  "case_title": "USA, et al v. Griffin",
+  "case_info_full_case_name": "USA, et al v. Griffin",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Griffin",
+  "case_date_filed": "2000-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROCO LEWIS GRIFFIN, SR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1--21:841(a)(1), 21:841(d)(1), 802(33), 802(34)(C),802(35)(I) 846;"
+        },
+        {
+          "charge_description": "Count 1--21:841(a)(1), 21:841(d)(1), 802(33), 802(34)(C),802(35)(I) and 846; METHAMPHETAMINE-MANUFACTURE; POSSESS W/INTENT TO DISTRIBUTE METHAMPHETAMINE; POSSESS W/INTENT TO DISTRIBUTE MARIJUANA; POSSESS EPHEDRINE W/INTENT TO MANUFACTURE METHAMPHETAMINE; POSSESS IODINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE; CONSPIRACY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "2--21:841A=CM.F"
+        },
+        {
+          "charge_description": "Count 2--21:841A=CM.F METHAMPHETAMINE-MANUFACTURE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "3--21:841A=CD.F"
+        },
+        {
+          "charge_description": "Count 3--21:841A=CD.F METHAMPHETAMINE-SELL, DISTRIBUTE, OR DISPENSE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "4--21:841A=MD.F"
+        },
+        {
+          "charge_description": "Count 4--21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 6--21:841(d)(1), 802(33), 802(34)(C) 802(35)(I);"
+        },
+        {
+          "charge_description": "Counts 5 and 6--21:841(d)(1), 802(33), 802(34)(C) and 802(35)(I); POSSESS EPHEDRINE, IODINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE (5-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank R Zapata",
+          "judge_guid": "urn:entity:jud-100065407"
+        }
+      ]
+    },
+    {
+      "party_name": "LAWRENCE RAY TOWNSEND",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1--21:841(a)(1), 21:841(d)(1), 802(33), 802(34)(C),802(35)(I) 846;"
+        },
+        {
+          "charge_description": "Count 1--21:841(a)(1), 21:841(d)(1), 802(33), 802(34)(C),802(35)(I) and 846; METHAMPHETAMINE-MANUFACTURE; POSSESS W/INTENT TO DISTRIBUTE METHAMPHETAMINE; POSSESS W/INTENT TO DISTRIBUTE MARIJUANA; POSSESS EPHEDRINE W/INTENT TO MANUFACTURE METHAMPHETAMINE; POSSESS IODINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE; CONSPIRACY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "2--21:841A=CM.F"
+        },
+        {
+          "charge_description": "Count 2--21:841A=CM.F METHAMPHETAMINE-MANUFACTURE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "3--21:841A=CD.F"
+        },
+        {
+          "charge_description": "Count 3--21:841A=CD.F METHAMPHETAMINE-SELL, DISTRIBUTE, OR DISPENSE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "4--21:841A=MD.F"
+        },
+        {
+          "charge_description": "Count 4--21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 6--21:841(d)(1), 802(33), 802(34)(C) 802(35)(I);"
+        },
+        {
+          "charge_description": "Counts 5 and 6--21:841(d)(1), 802(33), 802(34)(C) and 802(35)(I); POSSESS EPHEDRINE, IODINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE (5-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank R Zapata",
+          "judge_guid": "urn:entity:jud-100065407"
+        }
+      ]
+    }
+  ]
+}

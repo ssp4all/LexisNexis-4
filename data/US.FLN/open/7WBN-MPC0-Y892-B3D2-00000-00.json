@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_304mj122_FLND",
+  "case_key": "3:04mj122_FLND",
+  "case_lni": "7WBN-MPC0-Y892-B3D2-00000-00",
+  "case_number": "3:04mj122",
+  "case_title": "USA v. MORRIS",
+  "case_info_full_case_name": "USA v. MORRIS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MORRIS",
+  "case_date_filed": "2004-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BAXTER W MORRIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER (Careless Driving (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER (No Vehicle Registration) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER (No Insurance) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE JUDGE",
+          "judge_name": "MILES DAVIS",
+          "judge_guid": "urn:entity:jud-100045021"
+        }
+      ]
+    }
+  ]
+}

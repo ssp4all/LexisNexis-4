@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418po29902_AZD",
+  "case_key": "4:18po29902_AZD",
+  "case_lni": "5SSC-7G21-DXDT-G2C7-00000-00",
+  "case_number": "4:18po29902",
+  "case_title": "USA v. Pineda-Vega",
+  "case_info_full_case_name": "USA v. Pineda-Vega",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pineda-Vega",
+  "case_date_filed": "2018-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodrigo Pineda-Vega",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

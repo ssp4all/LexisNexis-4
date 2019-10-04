@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_100m1567_nyed",
+  "case_key": "1:00m1567_nyed",
+  "case_lni": "7WBN-G2D0-Y892-B2BC-00000-00",
+  "case_number": "1:00m1567",
+  "case_title": "USA v. Chalas, et al",
+  "case_info_full_case_name": "USA v. Chalas, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chalas, et al",
+  "case_date_filed": "2000-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Marshall L. Miller, Esq.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BIANKA CHALAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371: 31:5316 5322,"
+        },
+        {
+          "charge_description": "18:371: 31:5316 &; 5322, did knowingly &; intentionally conspire to transport...monetary instruments...outside the United States w/o filing the prescribed report"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "A. Simon Chrein",
+          "judge_guid": "urn:entity:jud-100062732"
+        }
+      ]
+    },
+    {
+      "party_name": "BLAS CHALAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371: 31:5316 5322,"
+        },
+        {
+          "charge_description": "18:371: 31:5316 &; 5322, did knowingly &; intentionally conspire to transport...monetary instruments...outside the United States w/o filing the prescribed report"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "A. Simon Chrein",
+          "judge_guid": "urn:entity:jud-100062732"
+        }
+      ]
+    },
+    {
+      "party_name": "ELIZABETH CHALAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371: 31:5316 5322,"
+        },
+        {
+          "charge_description": "18:371: 31:5316 &; 5322, did knowingly &; intentionally conspire to transport...monetary instruments...outside the United States w/o filing the prescribed report"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "A. Simon Chrein",
+          "judge_guid": "urn:entity:jud-100062732"
+        }
+      ]
+    }
+  ]
+}

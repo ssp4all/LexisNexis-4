@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_504cr76_TXND",
+  "case_key": "5:04cr76_TXND",
+  "case_lni": "7WBN-NW40-Y892-B1YS-00000-00",
+  "case_number": "5:04cr76",
+  "case_title": "USA v. Trevino",
+  "case_info_full_case_name": "USA v. Trevino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trevino",
+  "case_date_filed": "2004-10-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Ray Trevino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1000"
+        },
+        {
+          "charge_description": "ESTABLISHMENT OF DISTRIBUTION AND USE OPERATIONS WITHIN 1000 FEET OF A PUBLIC ELEMENTARY SCHOOL AND AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "50 1000"
+        },
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUE LESS THAN 50 KILOGRAMS OF MARIJUANA WITHIN 1000 FEET OF A PUBLIC ELEMENTARY SCHOOL AND AIDING AND ABETTING (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "500 1000"
+        },
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE LESS THAN 500 GRAMS OF COCAINE WITHIN 1000 FEET OF A PUBLIC ELEMENTARY SCHOOL AND AIDING AND ABETTING (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF A FIREARM IN FURTHERANCE OF DRUG TRAFFICKING CRIME (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONVICTED FELON IN POSSESION OF A FIREARM (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        }
+      ]
+    }
+  ]
+}

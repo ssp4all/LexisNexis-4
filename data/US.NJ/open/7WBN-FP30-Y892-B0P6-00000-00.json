@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_399cr325_njd",
+  "case_key": "3:99cr325_njd",
+  "case_lni": "7WBN-FP30-Y892-B0P6-00000-00",
+  "case_number": "3:99cr325",
+  "case_title": "USA v. SMITH",
+  "case_info_full_case_name": "USA v. SMITH",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SMITH",
+  "case_date_filed": "1999-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "TREBY WILLIAMS",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DONSHEA KEYELL SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO commit mail theft (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USCs 1708 2."
+        },
+        {
+          "charge_description": "Criminal Complaint: Theft of U.S. Mail in violation of Title 18, United States Code, Sections 1708 and 2. [3:98-m-1137]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Garrett E. Brown, Jr.",
+          "judge_guid": "urn:entity:jud-100064109"
+        }
+      ]
+    }
+  ]
+}

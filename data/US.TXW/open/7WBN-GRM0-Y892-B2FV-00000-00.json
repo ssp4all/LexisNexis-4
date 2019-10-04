@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_206cr619_TXWD",
+  "case_key": "2:06cr619_TXWD",
+  "case_lni": "7WBN-GRM0-Y892-B2FV-00000-00",
+  "case_number": "2:06cr619",
+  "case_title": "USA v. Lira-Guillen",
+  "case_info_full_case_name": "USA v. Lira-Guillen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lira-Guillen",
+  "case_date_filed": "2006-06-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert Joseph Brady, Jr. A-306",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramiro Clemente Lira-Guillen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.F"
+        },
+        {
+          "charge_description": "8:1325.F ILLEGAL ENTRY, CONCEALMENT OF FACTS (1)"
+        },
+        {
+          "charge_disposition": "Imprisoned for a term of time served, Supervised release for a term of 1 year, $100.00 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable"
+        }
+      ]
+    }
+  ]
+}

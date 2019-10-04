@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_311cr174_CAND",
+  "case_key": "3:11cr174_CAND",
+  "case_lni": "52FW-13F1-DXDT-G22T-00000-00",
+  "case_number": "3:11cr174",
+  "case_title": "USA v. Bidegain et al",
+  "case_info_full_case_name": "USA v. Bidegain et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bidegain et al",
+  "case_date_filed": "2011-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Cynthia Lewis Stier"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albert Bidegain",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7206(1)"
+        },
+        {
+          "charge_description": "26:7206(1) Making And Willfully Subscribing A False Return (1-3)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jeffrey S White",
+          "judge_guid": "urn:entity:jud-100017318"
+        }
+      ]
+    },
+    {
+      "party_name": "Leticia Bidegain",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7206(1)"
+        },
+        {
+          "charge_description": "26:7206(1) Making And Willfully Subscribing A False Return (1-3)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jeffrey S White",
+          "judge_guid": "urn:entity:jud-100017318"
+        }
+      ]
+    }
+  ]
+}

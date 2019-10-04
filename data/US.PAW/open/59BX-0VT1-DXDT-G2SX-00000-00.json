@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_213mj778_PAWD",
+  "case_key": "2:13mj778_PAWD",
+  "case_lni": "59BX-0VT1-DXDT-G2SX-00000-00",
+  "case_number": "2:13mj778",
+  "case_title": "USA v. MISHRA",
+  "case_info_full_case_name": "USA v. MISHRA",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MISHRA",
+  "case_date_filed": "2013-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MAYANK MISHRA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. ยง 402 CONTEMPT  21 U.S.C. ยง 846 CONSPIRACY TO POSSESS WITH THE INTENT TO DISTRIBUTE AND DISTRIBUTE HEROIN  21 U.S.C. ยง 863 SALE OF DRUG PARAPHERNALIA"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. &#167; 402 CONTEMPT  21 U.S.C. &#167; 84"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lisa Pupo Lenihan",
+          "judge_guid": "urn:entity:jud-100039224"
+        }
+      ]
+    }
+  ]
+}

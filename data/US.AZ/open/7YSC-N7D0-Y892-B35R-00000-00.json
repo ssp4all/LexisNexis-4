@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_410cr1095_AZD",
+  "case_key": "4:10cr1095_AZD",
+  "case_lni": "7YSC-N7D0-Y892-B35R-00000-00",
+  "case_number": "4:10cr1095",
+  "case_title": "USA v. Pacheco-Herrera",
+  "case_info_full_case_name": "USA v. Pacheco-Herrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pacheco-Herrera",
+  "case_date_filed": "2010-05-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Arturo A Aguilar",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Monica Pacheco-Herrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(B)(i) Conspiracy to Transport an Illegal Alien for Profit, all in violation of 8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(v)(I) and 1324(a)(1)(B)(i)(1)"
+        },
+        {
+          "charge_disposition": "BOP 15 months, with credit for time served; 36 months sup rel. 11/17/2014 REVOKING SUPERVISED RELEASE; Defendant is committed to the Bureau of Prisons for a term of TIME SERVED, with TWENTY FOUR (24) MONTHS supervised release to follow; 9/6/2016 REVOKING SUPERVISED RELEASE; Defendant is committed to the Bureau of Prisons for a term of SIX (6) MONTHS, with credit for time served, followed by a term of TWENTY FOUR (24) MONTHS supervised release"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(2), 1324(a)(2)(B)(ii) Bringing in an Illegal Alien for Profit(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028A(a), 1028A(b)(2) and 1028A(c)(10) Aggravated Identity Theft(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(v)(I) and 1324(a)(1)(B)(i) Transportation of Illegal Aliens For Financial Gain"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(v)(I) and 1324("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_109mj71_TXSD",
+  "case_key": "1:09mj71_TXSD",
+  "case_lni": "7WBN-JVX0-Y892-B54S-00000-00",
+  "case_number": "1:09mj71",
+  "case_title": "USA v. Hernandez Hernandez",
+  "case_info_full_case_name": "USA v. Hernandez Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez Hernandez",
+  "case_date_filed": "2009-01-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Felipe Hernandez Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and unlawfully was present in the United States after having been previously denied admission, excluded,deported, and removed. 8:1326A."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_409mj100_GAMD",
+  "case_key": "4:09mj100_GAMD",
+  "case_lni": "7WBN-S5G0-Y892-B365-00000-00",
+  "case_number": "4:09mj100",
+  "case_title": "United States of America v. Ingram",
+  "case_info_full_case_name": "United States of America v. Ingram",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Ingram",
+  "case_date_filed": "2009-05-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sanjay S Ingram",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.M"
+        },
+        {
+          "charge_description": "21:844A=MP.M MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M (74/55)"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES-SPEEDING (74/55) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "G. Mallon Faircloth",
+          "judge_guid": "urn:entity:jud-100046843"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_407cr236_MOED",
+  "case_key": "4:07cr236_MOED",
+  "case_lni": "7WBN-NGH0-Y892-B3P0-00000-00",
+  "case_number": "4:07cr236",
+  "case_title": "USA v. Schrage et al",
+  "case_info_full_case_name": "USA v. Schrage et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schrage et al",
+  "case_date_filed": "2007-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David L. Schrage",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "LACEY ACT, PROHIBITED ACTS, OTHER THAN MARKING OFFENSE (1r-5r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "GAME CONSERVATION ACTS (6r-14r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Donald J. Stohr",
+          "judge_guid": "urn:entity:jud-100013856"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Thomas C. Mummert, III",
+          "judge_guid": "urn:entity:jud-100003227"
+        }
+      ]
+    },
+    {
+      "party_name": "Joseph R. Taylor",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "LACEY ACT, PROHIBITED ACTS, OTHER THAN MARKING OFFENSE (15r-17r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Donald J. Stohr",
+          "judge_guid": "urn:entity:jud-100013856"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Thomas C. Mummert, III",
+          "judge_guid": "urn:entity:jud-100003227"
+        }
+      ]
+    },
+    {
+      "party_name": "Robert T. Taylor",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "LACEY ACT, PROHIBITED ACTS, OTHER THAN MARKING OFFENSE (18r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Donald J. Stohr",
+          "judge_guid": "urn:entity:jud-100013856"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Thomas C. Mummert, III",
+          "judge_guid": "urn:entity:jud-100003227"
+        }
+      ]
+    }
+  ]
+}

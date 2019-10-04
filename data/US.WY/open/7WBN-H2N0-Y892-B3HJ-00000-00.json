@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_299cr141_wyd",
+  "case_key": "2:99cr141_wyd",
+  "case_lni": "7WBN-H2N0-Y892-B3HJ-00000-00",
+  "case_number": "2:99cr141",
+  "case_title": "USA v. Michaels",
+  "case_info_full_case_name": "USA v. Michaels",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Michaels",
+  "case_date_filed": "1999-09-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUSTIN MICHAELS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "42:408.F NUMBER-(42:408(a)(7)(B)"
+        },
+        {
+          "charge_description": "42:408.F MISUSE OF SOCIAL SECURITY NUMBER-(42:408(a)(7)(B) False Representation of a Social Security Number) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "William F Downes",
+          "judge_guid": "urn:entity:jud-100057082"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_303m370_vawd",
+  "case_key": "3:03m370_vawd",
+  "case_lni": "7WBN-MNF0-Y892-B0B1-00000-00",
+  "case_number": "3:03m370",
+  "case_title": "USA v. Chu",
+  "case_info_full_case_name": "USA v. Chu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chu",
+  "case_date_filed": "2003-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOBY GENE CHU",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and intentionally conspire with others to distribute five or more grams of cocaine and cocaine base and did transfer a firearm to an individual knowing that such firearm will be used to commit a crime of violence or a drug trafficking crime."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Waugh Crigler",
+          "judge_guid": "urn:entity:jud-100045545"
+        }
+      ]
+    }
+  ]
+}

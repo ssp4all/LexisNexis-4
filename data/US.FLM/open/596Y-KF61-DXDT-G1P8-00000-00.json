@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_813cr418_FLMD",
+  "case_key": "8:13cr418_FLMD",
+  "case_lni": "596Y-KF61-DXDT-G1P8-00000-00",
+  "case_number": "8:13cr418",
+  "case_title": "USA v. Welch",
+  "case_info_full_case_name": "USA v. Welch",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Welch",
+  "case_date_filed": "2013-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gerald Dwayne Welch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F  UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841B=ND.F  NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE, 18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBU"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven D. Merryday",
+          "judge_guid": "urn:entity:jud-100026006"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Anthony E. Porcelli",
+          "judge_guid": "urn:entity:jud-100072934"
+        }
+      ]
+    }
+  ]
+}

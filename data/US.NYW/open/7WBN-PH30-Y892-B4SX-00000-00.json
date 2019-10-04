@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_100cr200_nywd",
+  "case_key": "1:00cr200_nywd",
+  "case_lni": "7WBN-PH30-Y892-B4SX-00000-00",
+  "case_number": "1:00cr200",
+  "case_title": "USA v. Cammisuli",
+  "case_info_full_case_name": "USA v. Cammisuli",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cammisuli",
+  "case_date_filed": "2000-10-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PHILLIP CAMMISULI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 846-KNOWING,"
+        },
+        {
+          "charge_description": "21:841 and 846-KNOWING, WILLFULLY AND UNLAWFULLY CONSPIRE TO POSSESS WITH INTENT TO DISTRIBUTE MARIJUANA, A SCHEDULE I CONTROLLED SUBSTANCE. [1:99-m-1019]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USDJ",
+          "judge_name": "William M. Skretny",
+          "judge_guid": "urn:entity:jud-100020854"
+        }
+      ]
+    }
+  ]
+}

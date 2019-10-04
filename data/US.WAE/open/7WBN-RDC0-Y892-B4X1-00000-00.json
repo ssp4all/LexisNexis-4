@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_292cr87_waed",
+  "case_key": "2:92cr87_waed",
+  "case_lni": "7WBN-RDC0-Y892-B4X1-00000-00",
+  "case_number": "2:92cr87",
+  "case_title": "USA, et al v. Bloyed",
+  "case_info_full_case_name": "USA, et al v. Bloyed",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Bloyed",
+  "case_date_filed": "1992-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STANLEY L BLOYED",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Justin L Quackenbush",
+          "judge_guid": "urn:entity:jud-100027842"
+        }
+      ]
+    }
+  ]
+}

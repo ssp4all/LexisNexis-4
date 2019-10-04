@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_213po60439_AZD",
+  "case_key": "2:13po60439_AZD",
+  "case_lni": "57NP-WJB1-DXDT-G0HS-00000-00",
+  "case_number": "2:13po60439",
+  "case_title": "USA v. Vasquez-Santiago",
+  "case_info_full_case_name": "USA v. Vasquez-Santiago",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasquez-Santiago",
+  "case_date_filed": "2013-02-04",
+  "case_status": "Closed",
+  "case_status_date": "02/04/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fredrick Allen Cocio",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Reynaldo Vasquez-Santiago",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_210mj1665_CACD",
+  "case_key": "2:10mj1665_CACD",
+  "case_lni": "7YX1-T810-Y892-B4BF-00000-00",
+  "case_number": "2:10mj1665",
+  "case_title": "USA v. Cazales",
+  "case_info_full_case_name": "USA v. Cazales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cazales",
+  "case_date_filed": "2010-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aurelio Cazales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a),(b)(2):"
+        },
+        {
+          "charge_description": "Defendant in violation of 8:1326(a),(b)(2): ILLEGAL ALIEN FOUND IN THE UNITED STATES FOLLOWING DEPORTATION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Duty Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

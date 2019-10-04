@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_315cr2218_CASD",
+  "case_key": "3:15cr2218_CASD",
+  "case_lni": "5GRY-M561-DXDT-G2SV-00000-00",
+  "case_number": "3:15cr2218",
+  "case_title": "USA v. Cabrera",
+  "case_info_full_case_name": "USA v. Cabrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cabrera",
+  "case_date_filed": "2015-08-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brenda Cabrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952 and 960 - Unlawful Importation of a Controlled Substance"
+        },
+        {
+          "charge_offence_description": "21:952 and 960 - Unlawful Importation of a Control"
+        },
+        {
+          "charge_description": "21:952, 960 - Importation of Marijuana(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John A. Houston",
+          "judge_guid": "urn:entity:jud-100034005"
+        }
+      ]
+    }
+  ]
+}

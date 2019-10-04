@@ -1,0 +1,142 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_305cr10_TNED",
+  "case_key": "3:05cr10_TNED",
+  "case_lni": "7WBN-FJK0-Y892-B0RV-00000-00",
+  "case_number": "3:05cr10",
+  "case_title": "USA v. Curry et al",
+  "case_info_full_case_name": "USA v. Curry et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Curry et al",
+  "case_date_filed": "2005-02-01",
+  "case_status": "Closed",
+  "case_status_date": "04/14/2006",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David P. Lewen",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "W Brownlow Marsh",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher Allen Curry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(b)(1)(A) CONSPIRACY TO POSSESS W/INTENT TO DISTRIBUTE COCAINE HYDROCHLORIDE(1s)"
+        },
+        {
+          "charge_disposition": "a total term of imprisonment of 35 months, a term of supervised release of 5 years, a special assessment fee of $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 and 841(b)(1)(A) - CONSPIRACY WITH INTENT TO DISTRIBUTE COCAINE(1)"
+        },
+        {
+          "charge_disposition": "superseded"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "R Leon Jordan",
+          "judge_guid": "urn:entity:jud-100004651"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "H Bruce Guyton",
+          "judge_guid": "urn:entity:jud-100047706"
+        }
+      ]
+    },
+    {
+      "party_name": "Michael Vincent Boyd",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(b)(1)(A) CONSPIRACY TO POSSESS W/INTENT TO DISTRIBUTE COCAINE HYDROCHLORIDE(1s)"
+        },
+        {
+          "charge_disposition": "a total term of imprisonment of 60 months, a term of supervised release for a term of 8 years, a special assessment fee of $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 and 841(b)(1)(A) - CONSPIRACY WITH INTENT TO DISTRIBUTE COCAINE(1)"
+        },
+        {
+          "charge_disposition": "superseded"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "R Leon Jordan",
+          "judge_guid": "urn:entity:jud-100004651"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "H Bruce Guyton",
+          "judge_guid": "urn:entity:jud-100047706"
+        }
+      ]
+    },
+    {
+      "party_name": "Jovan Mendizabal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(b)(1)(A) CONSPIRACY TO POSSESS W/INTENT TO DISTRIBUTE COCAINE HYDROCHLORIDE(1)"
+        },
+        {
+          "charge_disposition": "a total term of imprisonment of 180 months, this sentence consists of a term of 120 months as to Count 1 and a term of 60 months as to Count 2, to be served consecutively; a term of supervised release for a term of 5 years, this term consists of 5 years as to each of Counts 1 and 2, to run concurrently; a special assessment fee of $200.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c) POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME(2)"
+        },
+        {
+          "charge_disposition": "a total term of imprisonment of 180 months, this sentence consists of a term of 120 months as to Count 1 and a term of 60 months as to Count 2, to be served consecutively; a term of supervised release for a term of 5 years, this term consists of 5 years as to each of Counts 1 and 2, to run concurrently; a special assessment fee of $200.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "R Leon Jordan",
+          "judge_guid": "urn:entity:jud-100004651"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "H Bruce Guyton",
+          "judge_guid": "urn:entity:jud-100047706"
+        }
+      ]
+    }
+  ]
+}

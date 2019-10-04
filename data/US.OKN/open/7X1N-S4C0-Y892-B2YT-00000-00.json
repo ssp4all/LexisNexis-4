@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_409cr135_OKND",
+  "case_key": "4:09cr135_OKND",
+  "case_lni": "7X1N-S4C0-Y892-B2YT-00000-00",
+  "case_number": "4:09cr135",
+  "case_title": "USA v. Fonville",
+  "case_info_full_case_name": "USA v. Fonville",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fonville",
+  "case_date_filed": "2009-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Janet Sue Reincke",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Phil E Pinnell",
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marquise Ledon Fonville",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2):  Felon in Possession of Firearm and Ammunition(1)"
+        },
+        {
+          "charge_disposition": "10/19/16 JUDGMENT ON S/R: 24 mos to BOP to run concurrent with Tulsa County CF-2013-341; ORIGINAL JUDGMENT: 34 months to BOP; 3 years S/R; $500 Fine; $100 SMA; Interest Waived on Fine. Conditions to include: Firearm; Controlled Substance Restriction; DNA Sample; Alcohol Abstinence; Workforce Development; Financial; Search; Substance Abuse Testing and Treatment; Court recommends a facility as near as possible to Tulsa, OK, Substance abuse treatment and parenting program while incarcerated."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(9)and 924(a)(2): Possess Firearm and Ammunition After Conviction of Misdemeanor Crime of Domestic Violence(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terence Kern",
+          "judge_guid": "urn:entity:jud-100082226"
+        }
+      ]
+    }
+  ]
+}

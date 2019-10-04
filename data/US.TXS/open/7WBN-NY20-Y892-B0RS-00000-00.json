@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_506mj183_TXSD",
+  "case_key": "5:06mj183_TXSD",
+  "case_lni": "7WBN-NY20-Y892-B0RS-00000-00",
+  "case_number": "5:06mj183",
+  "case_title": "USA v. Hernandez-Mojica",
+  "case_info_full_case_name": "USA v. Hernandez-Mojica",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Mojica",
+  "case_date_filed": "2006-01-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Trinidad Hernandez-Mojica",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Angel Carrillo-Escareno",
+      "party_description": "material witness"
+    }
+  ]
+}

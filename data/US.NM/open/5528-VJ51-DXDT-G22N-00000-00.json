@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_212mj397_NMD",
+  "case_key": "2:12mj397_NMD",
+  "case_lni": "5528-VJ51-DXDT-G22N-00000-00",
+  "case_number": "2:12mj397",
+  "case_title": "USA v. Momaca-Momaca et al",
+  "case_info_full_case_name": "USA v. Momaca-Momaca et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Momaca-Momaca et al",
+  "case_date_filed": "2012-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leonel Momaca-Momaca",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 103.4 (46.9 21:846"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute Approximately 103.4 Pounds (46.9 Kilograms) of Marijuana; 21:846 Conspiracy"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carmen E. Garza",
+          "judge_guid": "urn:entity:jud-100008901"
+        }
+      ]
+    },
+    {
+      "party_name": "Carlos Meza-Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 103.4 (46.9 21:846"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute Approximately 103.4 Pounds (46.9 Kilograms) of Marijuana; 21:846 Conspiracy"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carmen E. Garza",
+          "judge_guid": "urn:entity:jud-100008901"
+        }
+      ]
+    }
+  ]
+}

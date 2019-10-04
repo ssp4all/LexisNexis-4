@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_205m3175_AZD",
+  "case_key": "2:05m3175_AZD",
+  "case_lni": "7WBN-GR50-Y892-B0HP-00000-00",
+  "case_number": "2:05m3175",
+  "case_title": "USA, et al v. Perez-Ortiz, et al",
+  "case_info_full_case_name": "USA, et al v. Perez-Ortiz, et al",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Perez-Ortiz, et al",
+  "case_date_filed": "2005-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOMINGO JACINTO PEREZ-ORTIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)-Transportation 8:1325(a)(1)-Illegal"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)-Transportation of Illegal Aliens 8:1325(a)(1)-Illegal Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    },
+    {
+      "party_name": "SERGIO CLARA-DIAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)-Transportation 8:1325(a)(1)-Illegal"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)-Transportation of Illegal Aliens 8:1325(a)(1)-Illegal Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    }
+  ]
+}

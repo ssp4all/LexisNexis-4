@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_310cr195_WIWD",
+  "case_key": "3:10cr195_WIWD",
+  "case_lni": "51PX-J7G1-DXDT-G48R-00000-00",
+  "case_number": "3:10cr195",
+  "case_title": "United States of America v. Lee, Timothy",
+  "case_info_full_case_name": "United States of America v. Lee, Timothy",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Lee, Timothy",
+  "case_date_filed": "2010-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey Anderson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Timothy Lee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William M. Conley",
+          "judge_guid": "urn:entity:jud-100049885"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    }
+  ]
+}

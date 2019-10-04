@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_114mj6039_ILCD",
+  "case_key": "1:14mj6039_ILCD",
+  "case_lni": "5D6M-4471-DXDT-G3FJ-00000-00",
+  "case_number": "1:14mj6039",
+  "case_title": "USA v. McGhee et al",
+  "case_info_full_case_name": "USA v. McGhee et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McGhee et al",
+  "case_date_filed": "2014-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "K Tate Chambers",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Harold U McGhee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL-DISTRIBUTE-DISPENSE On or about 1/2014 to 8/2014 Conspiracy to possess heroin with intent to distribute in violation of Title 21 USC Section 846, 841(a)(1) and 841(b)(1)(C)"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL-DISTRIBUT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jonathan E. Hawley",
+          "judge_guid": "urn:entity:jud-100106803"
+        }
+      ]
+    },
+    {
+      "party_name": "Evelyn Evans",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL-DISTRIBUTE-DISPENSE On or about 1/2014 to 8/2014 Conspiracy to possess heroin with intent to distribute in violation of Title 21 USC Section 846, 841(a)(1) and 841(b)(1)(C)"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL-DISTRIBUT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jonathan E. Hawley",
+          "judge_guid": "urn:entity:jud-100106803"
+        }
+      ]
+    }
+  ]
+}

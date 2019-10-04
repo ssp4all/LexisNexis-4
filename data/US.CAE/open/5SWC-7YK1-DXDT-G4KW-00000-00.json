@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_218cr138_CAED",
+  "case_key": "2:18cr138_CAED",
+  "case_lni": "5SWC-7YK1-DXDT-G4KW-00000-00",
+  "case_number": "2:18cr138",
+  "case_title": "USA v. Bravo",
+  "case_info_full_case_name": "USA v. Bravo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bravo",
+  "case_date_filed": "2018-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Danny Junior Bravo",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Troy L. Nunley",
+          "judge_guid": "urn:entity:jud-100093761"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_101m1503_nysd",
+  "case_key": "1:01m1503_nysd",
+  "case_lni": "7WBN-JBS0-Y892-B0DB-00000-00",
+  "case_number": "1:01m1503",
+  "case_title": "USA v. Diaz",
+  "case_info_full_case_name": "USA v. Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diaz",
+  "case_date_filed": "2001-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SANDRA DIAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "VIOLATION OF PROBATION."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

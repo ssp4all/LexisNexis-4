@@ -1,0 +1,147 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_110cr55_WVND",
+  "case_key": "1:10cr55_WVND",
+  "case_lni": "7YS8-PKG0-Y892-B1R8-00000-00",
+  "case_number": "1:10cr55",
+  "case_title": "USA v. Lamb et al",
+  "case_info_full_case_name": "USA v. Lamb et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lamb et al",
+  "case_date_filed": "2010-05-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brandon Lamb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RECEIVE STOLEN FIREARMS(2)"
+        },
+        {
+          "charge_disposition": "Committed to USBOP for 42 months with credit for time served; 3 years supervised release with conditions; no restitution or fine; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    },
+    {
+      "party_name": "Robert Allen Hill",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RECEIVE STOLEN FIREARMS(2)"
+        },
+        {
+          "charge_disposition": "Committed to USBOP for 37 months; 3 years supervised release; no fine, special assessment paid;; restitution in the amount of $619.99 payable $50.00 per month starting 30 days after release from prison. REVOCATION: Defendant committed to custody of BOP for a term of 18 months, with credit for time served from 2/8/13, to be followed by no additional term of supervision."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    },
+    {
+      "party_name": "William Crayton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(3)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the custody of the BOP for a term of 46 months; 3 years supervised release; no fine; $100.00 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "RECEIVE STOLEN FIREARMS(2)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    }
+  ]
+}

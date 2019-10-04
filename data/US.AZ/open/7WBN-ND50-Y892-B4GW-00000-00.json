@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_404m8639_AZD",
+  "case_key": "4:04m8639_AZD",
+  "case_lni": "7WBN-ND50-Y892-B4GW-00000-00",
+  "case_number": "4:04m8639",
+  "case_title": "USA, et al v. Martinez-Contreras",
+  "case_info_full_case_name": "USA, et al v. Martinez-Contreras",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Martinez-Contreras",
+  "case_date_filed": "2004-11-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NOEL MARTINEZ-CONTRERAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(b)(1)"
+        },
+        {
+          "charge_description": "8:1326(b)(1) Illegal Re-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

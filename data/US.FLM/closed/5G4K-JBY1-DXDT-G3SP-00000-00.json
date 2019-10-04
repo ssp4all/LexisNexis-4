@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_615cr127_FLMD",
+  "case_key": "6:15cr127_FLMD",
+  "case_lni": "5G4K-JBY1-DXDT-G3SP-00000-00",
+  "case_number": "6:15cr127",
+  "case_title": "USA v. Pena-Nava",
+  "case_info_full_case_name": "USA v. Pena-Nava",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pena-Nava",
+  "case_date_filed": "2015-06-03",
+  "case_status": "Closed",
+  "case_status_date": "07/28/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Agustin Pena-Nava",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F  REENTRY OF DEPORTED ALIENS  (illegal re-entry into the U.S. by a previously removed alien)(1)"
+        },
+        {
+          "charge_disposition": "Sentencing - TIME SERVED; Supervised Release - 1 year, unsupervised. Special Assessment - $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326A.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "G. Kendall Sharp",
+          "judge_guid": "urn:entity:jud-100084901"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karla R. Spaulding",
+          "judge_guid": "urn:entity:jud-100020417"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_206cr74_AZD",
+  "case_key": "2:06cr74_AZD",
+  "case_lni": "7WBN-KRY0-Y892-B43W-00000-00",
+  "case_number": "2:06cr74",
+  "case_title": "USA v. Maez",
+  "case_info_full_case_name": "USA v. Maez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maez",
+  "case_date_filed": "2006-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Scotty Joe Maez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1);(b)(1)(C)-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1);(b)(1)(C)-Possession With Intent to Distribute Methamphetamine, a Controlled Substance (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(C) 18:924(c)(1)(A)(i)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with Intent to Distribute Methamphetamine, a Controlled Substance, 18:924(c)(1)(A)(i) Possession of a Firearm During a Drug Trafficing Crime"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen M McNamee",
+          "judge_guid": "urn:entity:jud-100065660"
+        }
+      ]
+    }
+  ]
+}

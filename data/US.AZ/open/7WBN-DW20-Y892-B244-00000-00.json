@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_407mj3180_AZD",
+  "case_key": "4:07mj3180_AZD",
+  "case_lni": "7WBN-DW20-Y892-B244-00000-00",
+  "case_number": "4:07mj3180",
+  "case_title": "USA v. Tacho-Verdugo",
+  "case_info_full_case_name": "USA v. Tacho-Verdugo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tacho-Verdugo",
+  "case_date_filed": "2007-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roberto Tacho-Verdugo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 21:841(b)(1)(D)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 21:841(b)(1)(D) Possess with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

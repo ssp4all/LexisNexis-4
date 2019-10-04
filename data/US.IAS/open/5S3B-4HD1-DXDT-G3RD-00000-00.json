@@ -1,0 +1,162 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_317cr115_IASD",
+  "case_key": "3:17cr115_IASD",
+  "case_lni": "5S3B-4HD1-DXDT-G3RD-00000-00",
+  "case_number": "3:17cr115",
+  "case_title": "USA v. Gomez et al",
+  "case_info_full_case_name": "USA v. Gomez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez et al",
+  "case_date_filed": "2017-12-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Clifford R Cronk , III",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar Gomez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE - 21:841(a)(1), 841(b)(1)(A), 846 - Drug Conspiracy (Cocaine)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY - CONTROLLED SUBSTANCE - IMPORT/EXPORT - 21:959(a), 960(a)(3), 960(b)(1)(A), 963 - Conspiracy to Import Drugs (Cocaine)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE - 21:841(a)(1), 841(b)(1)(B), 846 - Attempted Possession with Intent to Distribute (Cocaine)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John A. Jarvey",
+          "judge_guid": "urn:entity:jud-100050534"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen B. Jackson, Jr",
+          "judge_guid": "urn:entity:jud-100100960"
+        }
+      ]
+    },
+    {
+      "party_name": "Giovany Frank Guzman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE - 21:841(a)(1), 841(b)(1)(A), 846 - Drug Conspiracy (Cocaine)(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the BOP for a term 190 months on each of Counts 1, 2, and 3, to all run concurrent. Defendant shall serve a supervised release term of 4 years on each of Counts 1, 2, and 3, to all run concurrent. $300 Special Assessment ($100 per count)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY - CONTROLLED SUBSTANCE - IMPORT/EXPORT - 21:959(a), 960(a)(3), 960(b)(1)(A), 963 - Conspiracy to Import Drugs (Cocaine)(2)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the BOP for a term 190 months on each of Counts 1, 2, and 3, to all run concurrent. Defendant shall serve a supervised release term of 4 years on each of Counts 1, 2, and 3, to all run concurrent. $300 Special Assessment ($100 per count)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE - 21:841(a)(1), 841(b)(1)(B), 846 - Attempted Possession with Intent to Distribute (Cocaine)(3)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the BOP for a term 190 months on each of Counts 1, 2, and 3, to all run concurrent. Defendant shall serve a supervised release term of 4 years on each of Counts 1, 2, and 3, to all run concurrent. $300 Special Assessment ($100 per count)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John A. Jarvey",
+          "judge_guid": "urn:entity:jud-100050534"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen B. Jackson, Jr",
+          "judge_guid": "urn:entity:jud-100100960"
+        }
+      ]
+    },
+    {
+      "party_name": "Shelby Elizabeth Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE - 21:841(a)(1), 841(b)(1)(A), 846 - Drug Conspiracy (Cocaine)(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the BOP for a term 80 months on each of Counts 1 and 3 to run concurrent. Defendant shall serve a supervised release term of 4 years on each of Counts 1 and 3 to run concurrent. $200 Special Assessment ($100 per count)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE - 21:841(a)(1), 841(b)(1)(B), 846 - Attempted Possession with Intent to Distribute (Cocaine)(3)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the BOP for a term 80 months on each of Counts 1 and 3 to run concurrent. Defendant shall serve a supervised release term of 4 years on each of Counts 1 and 3 to run concurrent. $200 Special Assessment ($100 per count)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY - CONTROLLED SUBSTANCE - IMPORT/EXPORT - 21:959(a), 960(a)(3), 960(b)(1)(A), 963 - Conspiracy to Import Drugs (Cocaine)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John A. Jarvey",
+          "judge_guid": "urn:entity:jud-100050534"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen B. Jackson, Jr",
+          "judge_guid": "urn:entity:jud-100100960"
+        }
+      ]
+    }
+  ]
+}

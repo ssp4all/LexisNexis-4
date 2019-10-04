@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_595cr30013_vawd",
+  "case_key": "5:95cr30013_vawd",
+  "case_lni": "7WBN-P320-Y892-B09S-00000-00",
+  "case_number": "5:95cr30013",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "1995-03-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARTIN ROBERT JEROME SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F IMMIGRATION LAWS, ILLEGAL RE-ENTRY (2)"
+        },
+        {
+          "charge_disposition": "60 months B.O.P.; 3 years supervised release with special condition; $500 fine; $50 special assessment (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-Distribution of crack cocaine, Sch.II. (1)"
+        },
+        {
+          "charge_disposition": "DISMISSED (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Complaint-Distribution and possession with intent to sell crack cocaine,Sch.II,;Deportation of Illegal Aliens [3:94-m-295]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James H. Michael",
+          "judge_guid": "urn:entity:jud-100036315"
+        }
+      ]
+    }
+  ]
+}

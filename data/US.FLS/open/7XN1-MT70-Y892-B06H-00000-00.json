@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_210mj5_FLSD",
+  "case_key": "2:10mj5_FLSD",
+  "case_lni": "7XN1-MT70-Y892-B06H-00000-00",
+  "case_number": "2:10mj5",
+  "case_title": "USA v. Phillips",
+  "case_info_full_case_name": "USA v. Phillips",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Phillips",
+  "case_date_filed": "2010-01-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jennifer C. Nucci",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alonzia Marques Contrell Phillips",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Removal to Middle District of Florida (Orlando Division), Case No:  6:07-cr-55-ORL-22JGG"
+        },
+        {
+          "charge_offence_description": "Removal to Middle District of Florida (Orlando Div"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frank J. Lynch, Jr",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    }
+  ]
+}

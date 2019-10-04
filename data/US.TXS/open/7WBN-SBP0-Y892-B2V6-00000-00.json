@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_506cr831_TXSD",
+  "case_key": "5:06cr831_TXSD",
+  "case_lni": "7WBN-SBP0-Y892-B2V6-00000-00",
+  "case_number": "5:06cr831",
+  "case_title": "USA v. Howard",
+  "case_info_full_case_name": "USA v. Howard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Howard",
+  "case_date_filed": "2006-06-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roy Leonard Howard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5Yrs. 3 10 3"
+        },
+        {
+          "charge_description": "Transporting undocumented aliens within the U.S. PENALTY: 5Yrs. and/or $250,000; $100 CVF; 3 Yrs. TSR; 10 Yrs. and/or $250,000; $100 CVF; 3 YRS TSR (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F bringing in and harboring aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

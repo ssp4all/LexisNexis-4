@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_406mj3152_MOED",
+  "case_key": "4:06mj3152_MOED",
+  "case_lni": "7WBN-S3W0-Y892-B493-00000-00",
+  "case_number": "4:06mj3152",
+  "case_title": "USA v. Santiago et al",
+  "case_info_full_case_name": "USA v. Santiago et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Santiago et al",
+  "case_date_filed": "2006-06-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramon Noe Santiago",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F 50 500"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE IN EXCESS OF 50 GRAMS OF ACTUAL METHAMPHENTAMINE AND 500 GRAMS OF METHAMPHETAMINE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Frederick R Buckles",
+          "judge_guid": "urn:entity:jud-100080190"
+        }
+      ]
+    },
+    {
+      "party_name": "Saul Maciel Rocha",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F 50 500"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE IN EXCESS OF 50 GRAMS OF ACTUAL METHAMPHENTAMINE AND 500 GRAMS OF METHAMPHETAMINE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Frederick R Buckles",
+          "judge_guid": "urn:entity:jud-100080190"
+        }
+      ]
+    }
+  ]
+}

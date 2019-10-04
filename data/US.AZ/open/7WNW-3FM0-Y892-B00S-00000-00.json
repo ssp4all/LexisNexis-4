@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_209mj6411_AZD",
+  "case_key": "2:09mj6411_AZD",
+  "case_lni": "7WNW-3FM0-Y892-B00S-00000-00",
+  "case_number": "2:09mj6411",
+  "case_title": "USA v. Leal",
+  "case_info_full_case_name": "USA v. Leal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leal",
+  "case_date_filed": "2009-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Alejandro Leal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1)-Reentry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David K Duncan",
+          "judge_guid": "urn:entity:jud-100056902"
+        }
+      ]
+    }
+  ]
+}

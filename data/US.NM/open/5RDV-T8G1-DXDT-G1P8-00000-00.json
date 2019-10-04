@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_218cr130_NMD",
+  "case_key": "2:18cr130_NMD",
+  "case_lni": "5RDV-T8G1-DXDT-G1P8-00000-00",
+  "case_number": "2:18cr130",
+  "case_title": "USA v. Perez-Hernandez",
+  "case_info_full_case_name": "USA v. Perez-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Hernandez",
+  "case_date_filed": "2018-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Omar Eder Perez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(v)(I) Conspiracy to  Transport Illegal Aliens"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(v)(I) Conspiracy to  Transport Ill"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Kenneth J. Gonzales",
+          "judge_guid": "urn:entity:jud-100104521"
+        }
+      ]
+    }
+  ]
+}

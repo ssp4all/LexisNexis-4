@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_219mj96_VAED",
+  "case_key": "2:19mj96_VAED",
+  "case_lni": "5VCR-0HF1-DXDT-G4H4-00000-00",
+  "case_number": "2:19mj96",
+  "case_title": "USA v. Hall",
+  "case_info_full_case_name": "USA v. Hall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hall",
+  "case_date_filed": "2019-02-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "James T. Cole",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David L. Hall",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "VIOLATION OF DEFENSE PROPERTY SECURITY REGULATION / TRANSPORT AND INTRODUCE FIREARM ONBOARD NAVAL INSTALLATION - in violation of T. 50 USC Section 797 ad Chief of Naval Operations Instruction 5530.14E(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "FAILURE TO COMPLY WITH OFFICIAL SIGNS - in violation of T. 41, CFR Section 102-74.385(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

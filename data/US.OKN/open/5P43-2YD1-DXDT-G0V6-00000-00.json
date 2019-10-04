@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_417mj113_OKND",
+  "case_key": "4:17mj113_OKND",
+  "case_lni": "5P43-2YD1-DXDT-G0V6-00000-00",
+  "case_number": "4:17mj113",
+  "case_title": "USA v. Vasquez-Estrada",
+  "case_info_full_case_name": "USA v. Vasquez-Estrada",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasquez-Estrada",
+  "case_date_filed": "2017-07-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Timothy Lee Faerber",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Catalino Vasquez-Estrada",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326:  Reentry of a Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326:  Reentry of a Removed Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frank H McCarthy",
+          "judge_guid": "urn:entity:jud-100032599"
+        }
+      ]
+    }
+  ]
+}

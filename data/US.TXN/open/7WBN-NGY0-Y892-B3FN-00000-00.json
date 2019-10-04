@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_407mj52_TXND",
+  "case_key": "4:07mj52_TXND",
+  "case_lni": "7WBN-NGY0-Y892-B3FN-00000-00",
+  "case_number": "4:07mj52",
+  "case_title": "USA v. Washington et al",
+  "case_info_full_case_name": "USA v. Washington et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Washington et al",
+  "case_date_filed": "2007-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Emmitt Lamar Washington",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(B)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B) Controlled Substance, Sell, Distribute or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Charles",
+          "judge_name": "Bleil",
+          "judge_guid": "urn:entity:jud-100061392"
+        }
+      ]
+    },
+    {
+      "party_name": "Cleaman Carnell Kelley Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(B)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B) Controlled Substance, Sell, Distribute or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Charles",
+          "judge_name": "Bleil",
+          "judge_guid": "urn:entity:jud-100061392"
+        }
+      ]
+    }
+  ]
+}

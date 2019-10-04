@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_017cr60224_FLSD",
+  "case_key": "0:17cr60224_FLSD",
+  "case_lni": "5S95-F8V1-DXDT-G2WT-00000-00",
+  "case_number": "0:17cr60224",
+  "case_title": "USA v. Lawler",
+  "case_info_full_case_name": "USA v. Lawler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lawler",
+  "case_date_filed": "2017-09-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gunter Scott Lawler",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA(1-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:U.S.C.841(a)(1) DISTRIBUTION OF MARIJUANA(1s-3s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:U.S.C.841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA(4s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:U.S.C.922(j) and 924(a)(2)POSSESSION OF A STOLEN FIREARM(5s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "James I. Cohn",
+          "judge_guid": "urn:entity:jud-100062368"
+        }
+      ]
+    }
+  ]
+}

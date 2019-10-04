@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_217mj450_AZD",
+  "case_key": "2:17mj450_AZD",
+  "case_lni": "5PSR-4071-DXDT-G46V-00000-00",
+  "case_number": "2:17mj450",
+  "case_title": "USA v. Todd",
+  "case_info_full_case_name": "USA v. Todd",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Todd",
+  "case_date_filed": "2017-10-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Natalie Blair Huddleston",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Stacy Todd",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count One - 8:1324(a)(1)(A)(ii) - Transportation of Illegal Aliens; Count Two - 8:1325 (a)(2) and 18:2 - Aid and Abet Alien to Evade and Elude Immigration Officers"
+        },
+        {
+          "charge_offence_description": "Count One - 8:1324(a)(1)(A)(ii) - Transportation o"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michelle H Burns",
+          "judge_guid": "urn:entity:jud-100080929"
+        }
+      ]
+    },
+    {
+      "party_description": "Material Witness"
+    }
+  ]
+}

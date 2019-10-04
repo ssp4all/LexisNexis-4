@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_112po530_TXSD",
+  "case_key": "1:12po530_TXSD",
+  "case_lni": "54XW-XBR1-DXDT-G2CT-00000-00",
+  "case_number": "1:12po530",
+  "case_title": "USA v. GARCIA-Alvarado",
+  "case_info_full_case_name": "USA v. GARCIA-Alvarado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "GARCIA-Alvarado",
+  "case_date_filed": "2012-02-10",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "ICE (Brownsville PO)",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elia GARCIA-Alvarado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

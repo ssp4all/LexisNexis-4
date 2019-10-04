@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_112cr492_VAED",
+  "case_key": "1:12cr492_VAED",
+  "case_lni": "573F-NKH1-DXDT-G3MB-00000-00",
+  "case_number": "1:12cr492",
+  "case_title": "USA v. Bolden",
+  "case_info_full_case_name": "USA v. Bolden",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bolden",
+  "case_date_filed": "2012-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Adam Block Schwartz",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donte Jamael Bolden",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1791(a)(1) and (b)(2)  Attempting to Provide 50 Ecstasy Pills (Sch. I) to an Inmate in Prison (10/4/2012)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 1791(a)(1) Knowingly and Unlawfully Attempt to Provide Contraband to an Inmate in Prison"
+        },
+        {
+          "charge_offence_description": "18 USC 1791(a)(1) Knowingly and Unlawfully Attempt"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Anthony J Trenga",
+          "judge_guid": "urn:entity:jud-100006263"
+        }
+      ]
+    }
+  ]
+}

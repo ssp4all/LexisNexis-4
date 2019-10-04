@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_212mj3894_TXWD",
+  "case_key": "2:12mj3894_TXWD",
+  "case_lni": "55BK-R561-DXDT-G0SH-00000-00",
+  "case_number": "2:12mj3894",
+  "case_title": "USA v. Martinez-Aguilera",
+  "case_info_full_case_name": "USA v. Martinez-Aguilera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Aguilera",
+  "case_date_filed": "2012-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Cristian Jose Martinez-Aguilera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P-CONCEALMENT"
+        },
+        {
+          "charge_description": "8:1325.P-CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Collis White",
+          "judge_guid": "urn:entity:jud-100022858"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_209cr729_NMD",
+  "case_key": "2:09cr729_NMD",
+  "case_lni": "7WBN-M2J0-Y892-B12G-00000-00",
+  "case_number": "2:09cr729",
+  "case_title": "USA v. Vazquez-Mozo",
+  "case_info_full_case_name": "USA v. Vazquez-Mozo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vazquez-Mozo",
+  "case_date_filed": "2009-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Celso Vazquez-Mozo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a) (b):"
+        },
+        {
+          "charge_description": "8 USC 1326(a) and (b): RE-ENTRY OF A REMOVED ALIEN (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a)(1)&;(a)(2)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a)(1)&;(a)(2)-Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

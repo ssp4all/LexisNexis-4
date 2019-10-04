@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_507mj70370_CAND",
+  "case_key": "5:07mj70370_CAND",
+  "case_lni": "7WBN-NYG0-Y892-B2GM-00000-00",
+  "case_number": "5:07mj70370",
+  "case_title": "USA v. Lopez-Galindo",
+  "case_info_full_case_name": "USA v. Lopez-Galindo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Galindo",
+  "case_date_filed": "2007-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alejandro Lopez-Galindo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 After being deported, illegally reenter the US and was found in the US without obtaining the permission of the US Attorney General or the Secretary of Homeland Security"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patricia V. Trumbull",
+          "judge_guid": "urn:entity:jud-100006126"
+        }
+      ]
+    }
+  ]
+}

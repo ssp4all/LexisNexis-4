@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502m2261_txsd",
+  "case_key": "5:02m2261_txsd",
+  "case_lni": "7WBN-NV80-Y892-B1H6-00000-00",
+  "case_number": "5:02m2261",
+  "case_title": "USA v. Richter",
+  "case_info_full_case_name": "USA v. Richter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Richter",
+  "case_date_filed": "2002-06-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JIMMY GLENN RICHTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "46.9"
+        },
+        {
+          "charge_description": "Unlawfully import from a place outside the U.S., Mexico, to a place in the U. S., Laredo, Tx, approximately 46.9 gross weight of cocaine, with the intent to distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

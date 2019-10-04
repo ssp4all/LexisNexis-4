@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_118mj173_INND",
+  "case_key": "1:18mj173_INND",
+  "case_lni": "5V0W-Y191-DXDT-G0KP-00000-00",
+  "case_number": "1:18mj173",
+  "case_title": "United States of America v. Soto-Garcia",
+  "case_info_full_case_name": "United States of America v. Soto-Garcia",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Soto-Garcia",
+  "case_date_filed": "2018-12-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anthony W Geller - AUSA",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Alberto Soto-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1): POSSESSION WITH INTENT TO DISTRIBUTE A SCHEDULE I CONTROLLED SUBSTANCE, MARIJUANA"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1): POSSESSION WITH INTENT TO DISTRIBUTE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Susan L Collins",
+          "judge_guid": "urn:entity:jud-100120910"
+        }
+      ]
+    }
+  ]
+}

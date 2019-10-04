@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_308cr77_FLND",
+  "case_key": "3:08cr77_FLND",
+  "case_lni": "7WBN-RTH0-Y892-B1TP-00000-00",
+  "case_number": "3:08cr77",
+  "case_title": "USA v. CABRERA et al",
+  "case_info_full_case_name": "USA v. CABRERA et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CABRERA et al",
+  "case_date_filed": "2008-08-19",
+  "case_status": "Closed",
+  "case_status_date": "05/20/2009",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "ALICIA H FORBES"
+    },
+    {
+      "attorney_name": "EDWIN F KNIGHT",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ORESTES CABRERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "Custody of BOP for a term of 276 months is REDUCED to 221 months (effective 11/1/2015) as to Counts 1 and 2; said terms to run concurrently one with the other . Supervised release 5 years as to Counts 1 and 2, said terms to run concurrently one with the other. Fine waived. SMA $200 ($100 per count)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "Custody of BOP for a term of 276 months is REDUCED to 221 months (effective 11/1/2015) as to Counts 1 and 2, said terms to run concurrently one with the other. Supervised release 5 years as to Counts 1 and 2, said terms to run concurrently one with the other. Fine waived. SMA $200 ($100 per count)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "M CASEY RODGERS",
+          "judge_guid": "urn:entity:jud-100059103"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "ELIZABETH M TIMOTHY",
+          "judge_guid": "urn:entity:jud-100024046"
+        }
+      ]
+    },
+    {
+      "party_name": "WILLIE JAMES WHALEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "Custody of BOP for a term of 180 months; supervised release for 5 years; fine waived and $100 SMA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "M CASEY RODGERS",
+          "judge_guid": "urn:entity:jud-100059103"
+        }
+      ]
+    }
+  ]
+}

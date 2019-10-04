@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_404m4817_AZD",
+  "case_key": "4:04m4817_AZD",
+  "case_lni": "7WBN-FR90-Y892-B1JB-00000-00",
+  "case_number": "4:04m4817",
+  "case_title": "USA, et al v. McCrea",
+  "case_info_full_case_name": "USA, et al v. McCrea",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "McCrea",
+  "case_date_filed": "2004-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "COREY LEVI MCCREA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(A)(1)(b)(1)(D)"
+        },
+        {
+          "charge_description": "21:841(A)(1)(b)(1)(D) POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        }
+      ]
+    }
+  ]
+}

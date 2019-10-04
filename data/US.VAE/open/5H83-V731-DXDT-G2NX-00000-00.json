@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_115po3638_VAED",
+  "case_key": "1:15po3638_VAED",
+  "case_lni": "5H83-V731-DXDT-G2NX-00000-00",
+  "case_number": "1:15po3638",
+  "case_title": "USA vs Grimm",
+  "case_info_full_case_name": "USA vs Grimm",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grimm",
+  "case_date_filed": "2015-10-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jorge A Grimm",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNAUTHORIZED TRESSPASS, VIOLATION OF CLOSURES AND LIMITS TO ENTRY (5125807)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

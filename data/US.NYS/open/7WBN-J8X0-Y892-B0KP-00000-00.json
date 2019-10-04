@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_100cr876_nysd",
+  "case_key": "1:00cr876_nysd",
+  "case_lni": "7WBN-J8X0-Y892-B0KP-00000-00",
+  "case_number": "1:00cr876",
+  "case_title": "USA v. Xi",
+  "case_info_full_case_name": "USA v. Xi",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Xi",
+  "case_date_filed": "2000-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Karl Metzner",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JIANG DIAN XI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. (POSSESSION OF FIREARM BY ILLEGAL ALIEN) (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC922(g)(5): 18USC922(k):"
+        },
+        {
+          "charge_description": "18 U.S.C. 922(g)(5): ILLEGAL ALIEN IN POSSESSION OF FIREARM; 18 U.S.C. 922(k): POSSESSED AND RECEIVED A FIREARM WHICH HAD THE IMPORTER'S AND MANUFACTURER'S SERIAL NUMBER REMOVED, OBLITERATED, AND ALTERED. [1:00-m-1023]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

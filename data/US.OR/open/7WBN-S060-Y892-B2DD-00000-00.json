@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_399cr511_ord",
+  "case_key": "3:99cr511_ord",
+  "case_lni": "7WBN-S060-Y892-B2DD-00000-00",
+  "case_number": "3:99cr511",
+  "case_title": "USA v. Stallcup",
+  "case_info_full_case_name": "USA v. Stallcup",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stallcup",
+  "case_date_filed": "1999-11-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "David Robert Stallcup",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:3146(a)(1) FAILURE TO APPEAR FOR SENTENCING(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marco A. Hernandez",
+          "judge_guid": "urn:entity:jud-500000317"
+        }
+      ]
+    }
+  ]
+}

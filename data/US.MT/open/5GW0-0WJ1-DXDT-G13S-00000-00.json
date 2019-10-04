@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_415cr54_MTD",
+  "case_key": "4:15cr54_MTD",
+  "case_lni": "5GW0-0WJ1-DXDT-G13S-00000-00",
+  "case_number": "4:15cr54",
+  "case_title": "USA v. Sharp",
+  "case_info_full_case_name": "USA v. Sharp",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sharp",
+  "case_date_filed": "2015-09-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leon Buck Sharp",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE METHAMPHETAMINE Title 21 USC 846(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841B=CD.F POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE Title 21 USC 841(a)(1)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841D=CD.F DISTRIBUTION OF METHAMPHETAMINE Title 21 USC 841(a)(1)(3-8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922D.F FELON IN POSSESSION OF FIREARM Title 18 USC 922(g)(1), 924(a)(2)(9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Brian Morris",
+          "judge_guid": "urn:entity:jud-100053482"
+        }
+      ]
+    }
+  ]
+}

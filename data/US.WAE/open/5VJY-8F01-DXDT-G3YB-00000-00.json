@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_219cr46_WAED",
+  "case_key": "2:19cr46_WAED",
+  "case_lni": "5VJY-8F01-DXDT-G3YB-00000-00",
+  "case_number": "2:19cr46",
+  "case_title": "USA v. Haskin",
+  "case_info_full_case_name": "USA v. Haskin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Haskin",
+  "case_date_filed": "2019-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kurt Allen Haskin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. ยง 2252A(a)(2)(A)(b)(1) - RECEIPT OF CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. ยง 2252A(a)(5)(B)(b)(2) - POSSESSION OF CHILD PORNOGRAPHY(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Salvador Mendoza, Jr",
+          "judge_guid": "urn:entity:jud-100103992"
+        }
+      ]
+    }
+  ]
+}

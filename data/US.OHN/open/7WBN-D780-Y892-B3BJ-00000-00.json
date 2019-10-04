@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_104cr446_OHND",
+  "case_key": "1:04cr446_OHND",
+  "case_lni": "7WBN-D780-Y892-B3BJ-00000-00",
+  "case_number": "1:04cr446",
+  "case_title": "United States of America v. Sayre",
+  "case_info_full_case_name": "United States of America v. Sayre",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Sayre",
+  "case_date_filed": "2004-09-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shannon Sayre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(\"crack\") 21USCs 841 (a) (1), (b) (1) (C) 846."
+        },
+        {
+          "charge_description": "Conspiracy to possess with the intent to distribute &; distribution of cocaine base (\"crack\") in violation of Title 21, United States Code, Sections 841 (a) (1), (b) (1) (C) and 846. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "John R. Adams",
+          "judge_guid": "urn:entity:jud-100053167"
+        }
+      ]
+    }
+  ]
+}

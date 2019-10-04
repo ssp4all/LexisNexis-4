@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_396m295_prd",
+  "case_key": "3:96m295_prd",
+  "case_lni": "7WBN-HFB0-Y892-B3FW-00000-00",
+  "case_number": "3:96m295",
+  "case_title": "USA v. US Parcel to S. Diaz",
+  "case_info_full_case_name": "USA v. US Parcel to S. Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "US Parcel to S. Diaz",
+  "case_date_filed": "1996-07-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "US PRIORITY PARCEL ADDRESSED TO SATURNINO DIAZ CALLE RETIRO #9 ESTE ANEXO GUAYAMA PR 00784; FROM: ANDRES DIAZ CRUZ PO BOX 1650 DELANO ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    }
+  ]
+}

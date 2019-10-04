@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_216cr821_CACD",
+  "case_key": "2:16cr821_CACD",
+  "case_lni": "5MF3-76P1-DXDT-G2P9-00000-00",
+  "case_number": "2:16cr821",
+  "case_title": "USA v. Arriaga",
+  "case_info_full_case_name": "USA v. Arriaga",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arriaga",
+  "case_date_filed": "2016-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar Arriaga",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1): Felon in Possession of a Firearm and Ammunition(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Defendant in violation of 18:922(g)(1)"
+        },
+        {
+          "charge_offence_description": "Defendant in violation of 18:922(g)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

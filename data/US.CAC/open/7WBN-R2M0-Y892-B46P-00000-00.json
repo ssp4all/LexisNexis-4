@@ -1,0 +1,36 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_201m1552_cacd",
+  "case_key": "2:01m1552_cacd",
+  "case_lni": "7WBN-R2M0-Y892-B46P-00000-00",
+  "case_number": "2:01m1552",
+  "case_title": "USA v. Flores",
+  "case_info_full_case_name": "USA v. Flores",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores",
+  "case_date_filed": "2001-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GABRIEL DE LA CERDA FLORES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "Defendant in violation of 21:846 and 18:1956"
+        }
+      ]
+    }
+  ]
+}

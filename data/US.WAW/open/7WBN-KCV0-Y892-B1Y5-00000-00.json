@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_201cr250_wawd",
+  "case_key": "2:01cr250_wawd",
+  "case_lni": "7WBN-KCV0-Y892-B1Y5-00000-00",
+  "case_number": "2:01cr250",
+  "case_title": "USA v. Bilbo-Johnson",
+  "case_info_full_case_name": "USA v. Bilbo-Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bilbo-Johnson",
+  "case_date_filed": "2001-06-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CECILI BILBO-JOHNSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:656 2"
+        },
+        {
+          "charge_description": "18:656 and 2 EMBEZZLEMENT AND MISAPPLICATION BY BANK EMPLOYEE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert S. Lasnik",
+          "judge_guid": "urn:entity:jud-100053437"
+        }
+      ]
+    }
+  ]
+}

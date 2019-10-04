@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_116po1425_VAED",
+  "case_key": "1:16po1425_VAED",
+  "case_lni": "5JTB-VYP1-DXDT-G3G9-00000-00",
+  "case_number": "1:16po1425",
+  "case_title": "USA vs Thompson",
+  "case_info_full_case_name": "USA vs Thompson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thompson",
+  "case_date_filed": "2016-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Stephen D Thompson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OPERATING A VEHICLE OUTSIDE DESIGNATED AREA (5238831)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

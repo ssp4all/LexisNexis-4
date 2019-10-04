@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_106cr32_NCMD",
+  "case_key": "1:06cr32_NCMD",
+  "case_lni": "7WBN-PPT0-Y892-B19R-00000-00",
+  "case_number": "1:06cr32",
+  "case_title": "USA v. LITTLE",
+  "case_info_full_case_name": "USA v. LITTLE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LITTLE",
+  "case_date_filed": "2006-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TREMYNE KINSHASA LITTLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)&; 924(a)(2)"
+        },
+        {
+          "charge_description": "Possessed firearm in commerce after felony conviction in violation of 18:922(g)(1)&; 924(a)(2) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_219mj1408_TXWD",
+  "case_key": "2:19mj1408_TXWD",
+  "case_lni": "5VBW-PRG1-DXDT-G1NM-00000-00",
+  "case_number": "2:19mj1408",
+  "case_title": "USA v. Flores-Marcelino",
+  "case_info_full_case_name": "USA v. Flores-Marcelino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Marcelino",
+  "case_date_filed": "2019-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Elvira Flores-Marcelino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1326(a)(1)   Re-entry after deportation from the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1)   Re-entry after deportation from"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

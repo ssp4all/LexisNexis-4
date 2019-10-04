@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_315po110_MND",
+  "case_key": "3:15po110_MND",
+  "case_lni": "5H0S-HF11-DXDT-G53R-00000-00",
+  "case_number": "3:15po110",
+  "case_title": "USA vs Perrine",
+  "case_info_full_case_name": "USA vs Perrine",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perrine",
+  "case_date_filed": "2015-09-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "David M Perrine",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of a controlled substance, without a valid prescription or order (2296297)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeffrey J. Keyes",
+          "judge_guid": "urn:entity:jud-100040472"
+        }
+      ]
+    }
+  ]
+}

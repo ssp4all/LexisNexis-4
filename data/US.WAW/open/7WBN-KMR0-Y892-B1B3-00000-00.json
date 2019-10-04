@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_204mj149_WAWD",
+  "case_key": "2:04mj149_WAWD",
+  "case_lni": "7WBN-KMR0-Y892-B1B3-00000-00",
+  "case_number": "2:04mj149",
+  "case_title": "USA v. Cano-Erazo",
+  "case_info_full_case_name": "USA v. Cano-Erazo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cano-Erazo",
+  "case_date_filed": "2004-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Abel Cano-Erazo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a)(2)"
+        },
+        {
+          "charge_description": "8:1325(a)(2) Unlawful Entry: Second Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary Alice Theiler",
+          "judge_guid": "urn:entity:jud-100019205"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_008mj218_MND",
+  "case_key": "0:08mj218_MND",
+  "case_lni": "7WBN-F0D0-Y892-B42V-00000-00",
+  "case_number": "0:08mj218",
+  "case_title": "USA v. Rojas",
+  "case_info_full_case_name": "USA v. Rojas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rojas",
+  "case_date_filed": "2008-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eder H Rojas",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Janie S. Mayeron",
+          "judge_guid": "urn:entity:jud-100041289"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_710mj1232_TXSD",
+  "case_key": "7:10mj1232_TXSD",
+  "case_lni": "7Y25-C8F0-Y892-B2RB-00000-00",
+  "case_number": "7:10mj1232",
+  "case_title": "USA v. Ponce-Barcenas",
+  "case_info_full_case_name": "USA v. Ponce-Barcenas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ponce-Barcenas",
+  "case_date_filed": "2010-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Roberto Ponce-Barcenas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

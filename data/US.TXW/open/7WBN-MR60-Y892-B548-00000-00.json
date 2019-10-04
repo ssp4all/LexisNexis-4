@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_305cr591_TXWD",
+  "case_key": "3:05cr591_TXWD",
+  "case_lni": "7WBN-MR60-Y892-B548-00000-00",
+  "case_number": "3:05cr591",
+  "case_title": "USA v. Berry",
+  "case_info_full_case_name": "USA v. Berry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Berry",
+  "case_date_filed": "2005-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JEFFREY T. BERRY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1 1 3/13/01 4716301000118090, 8:1029(a)(5)"
+        },
+        {
+          "charge_description": "Knowingly and with intent to defraud effect transactions, with 1 or more access devices issued to another person or persons, to receive payment of any other thing of value during any 1 yr period that aggregate value of which is equal to or greater than $1000, to wit on 3/13/01 Berry charged $2,496.00 on James Wooley's Government issued IMPAC credit card, account number 4716301000118090, throught C and L Toner supplies which is a POS machine used by Christopher Robin Maloney in violation of 8:1029(a)(5) [3:02-m-2777]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank Montalvo",
+          "judge_guid": "urn:entity:jud-100016084"
+        }
+      ]
+    }
+  ]
+}

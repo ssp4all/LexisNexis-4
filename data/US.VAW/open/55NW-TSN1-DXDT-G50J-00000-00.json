@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_712po124_VAWD",
+  "case_key": "7:12po124_VAWD",
+  "case_lni": "55NW-TSN1-DXDT-G50J-00000-00",
+  "case_number": "7:12po124",
+  "case_title": "USA v. Thurman",
+  "case_info_full_case_name": "USA v. Thurman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thurman",
+  "case_date_filed": "2012-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty Assistant - Roanoke",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kenny W. Thurman",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert S. Ballou",
+          "judge_guid": "urn:entity:jud-100069807"
+        }
+      ]
+    }
+  ]
+}

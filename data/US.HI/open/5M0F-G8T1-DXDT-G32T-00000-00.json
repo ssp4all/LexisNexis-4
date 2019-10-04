@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_116cr649_HID",
+  "case_key": "1:16cr649_HID",
+  "case_lni": "5M0F-G8T1-DXDT-G32T-00000-00",
+  "case_number": "1:16cr649",
+  "case_title": "USA v. Oliver",
+  "case_info_full_case_name": "USA v. Oliver",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Oliver",
+  "case_date_filed": "2016-10-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Alexander A. Ismail",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charles P. Oliver",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7210.P TRAFFIC OFFENSES, DRUNKEN DRIVING; HRS 291E-61(a)(3), 18 USC 13 - Operate vehicle while with .08 or more grams of alcohol per two hundred ten liters of breath; 7/30/2016, MCBH; 6722756  H30(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "BARRY M. KURREN",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

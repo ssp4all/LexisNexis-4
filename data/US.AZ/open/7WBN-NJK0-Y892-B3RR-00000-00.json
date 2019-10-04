@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409cr241_AZD",
+  "case_key": "4:09cr241_AZD",
+  "case_lni": "7WBN-NJK0-Y892-B3RR-00000-00",
+  "case_number": "4:09cr241",
+  "case_title": "USA v. Rodriguez-Beltran",
+  "case_info_full_case_name": "USA v. Rodriguez-Beltran",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Beltran",
+  "case_date_filed": "2009-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carmelita Rodriguez-Beltran",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(D)POSSESSION"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D)POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(D);"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(D); Possession with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Bury",
+          "judge_guid": "urn:entity:jud-100063659"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

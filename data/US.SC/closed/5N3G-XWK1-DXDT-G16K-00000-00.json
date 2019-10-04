@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_617cr209_SCD",
+  "case_key": "6:17cr209_SCD",
+  "case_lni": "5N3G-XWK1-DXDT-G16K-00000-00",
+  "case_number": "6:17cr209",
+  "case_title": "USA v. Grady",
+  "case_info_full_case_name": "USA v. Grady",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grady",
+  "case_date_filed": "2017-03-14",
+  "case_status": "Closed",
+  "case_status_date": "07/20/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "D Josev Brewer",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tyrone Chadrick Grady",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) Felon in possession of a firearm - a Sig Sauer 40 caliber hand gun, Walther P99 40 caliber hand gun, and 40 caliber ammunition"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) Felon in possession of a firearm - a "
+        },
+        {
+          "charge_description": "21:841(a)(1) AND 841(b)(1)(C) CONTROLLED SUBSTANCE, COCAINE - SELL, DISTRIBUTE, OR DISPENSE (FORFEITURE)(2)"
+        },
+        {
+          "charge_disposition": "The defendant is sentenced to 3 years probation. $100.00 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1), 924(a)(2), and 924(e) FELON IN POSSESSION OF FIREARMS AND AMMUNITION, A WALTHER MODEL P99 .40 CALIBER PISTOL, A SIG SAUER MODEL P250 .40 CALIBER PISTOL, AND .40 CALIBER AMMUNITION (FORFEITURE)(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Timothy M Cain",
+          "judge_guid": "urn:entity:jud-100059960"
+        }
+      ]
+    }
+  ]
+}

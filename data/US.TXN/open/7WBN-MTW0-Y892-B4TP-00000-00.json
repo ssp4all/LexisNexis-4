@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_307cr116_TXND",
+  "case_key": "3:07cr116_TXND",
+  "case_lni": "7WBN-MTW0-Y892-B4TP-00000-00",
+  "case_number": "3:07cr116",
+  "case_title": "USA v. Del Bosque-Carrillo",
+  "case_info_full_case_name": "USA v. Del Bosque-Carrillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Del Bosque-Carrillo",
+  "case_date_filed": "2007-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jaime Del Bosque-Carrillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a) (b)(2)"
+        },
+        {
+          "charge_description": "8 USC 1326(a) and (b)(2) ILLEGAL REENTRY AFTER REMOVAL FROM THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "A. Joe Fish",
+          "judge_guid": "urn:entity:jud-100046471"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_108mj1003_TXSD",
+  "case_key": "1:08mj1003_TXSD",
+  "case_lni": "7WBN-JT20-Y892-B3PD-00000-00",
+  "case_number": "1:08mj1003",
+  "case_title": "USA v. Mendoza Rodriguez",
+  "case_info_full_case_name": "USA v. Mendoza Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendoza Rodriguez",
+  "case_date_filed": "2008-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Carlos Mendoza Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F,"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully was present in the United States having been previously excluded, deported, and removed. 8:1326A.F, 8:1326B.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

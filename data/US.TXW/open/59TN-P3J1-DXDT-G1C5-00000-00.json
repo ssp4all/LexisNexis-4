@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_313mj5045_TXWD",
+  "case_key": "3:13mj5045_TXWD",
+  "case_lni": "59TN-P3J1-DXDT-G1C5-00000-00",
+  "case_number": "3:13mj5045",
+  "case_title": "USA v. Rodriguez-Bustos",
+  "case_info_full_case_name": "USA v. Rodriguez-Bustos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Bustos",
+  "case_date_filed": "2013-11-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hector Rodriguez-Bustos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        },
+        {
+          "charge_offence_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

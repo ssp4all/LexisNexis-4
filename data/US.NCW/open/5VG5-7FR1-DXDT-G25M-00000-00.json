@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_319cr49_NCWD",
+  "case_key": "3:19cr49_NCWD",
+  "case_lni": "5VG5-7FR1-DXDT-G25M-00000-00",
+  "case_number": "3:19cr49",
+  "case_title": "USA v. Diaz",
+  "case_info_full_case_name": "USA v. Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diaz",
+  "case_date_filed": "2019-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rubisel Sanchez Diaz",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Max O. Cogburn, Jr",
+          "judge_guid": "urn:entity:jud-100048133"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David Keesler",
+          "judge_guid": "urn:entity:jud-100043286"
+        }
+      ]
+    }
+  ]
+}

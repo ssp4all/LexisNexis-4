@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_309mj2579_CASD",
+  "case_key": "3:09mj2579_CASD",
+  "case_lni": "7WHG-7840-Y892-B07F-00000-00",
+  "case_number": "3:09mj2579",
+  "case_title": "USA v. Castillo-Lopez",
+  "case_info_full_case_name": "USA v. Castillo-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Lopez",
+  "case_date_filed": "2009-08-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Humberto Castillo-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:751-Escape"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barbara Lynn Major",
+          "judge_guid": "urn:entity:jud-100029199"
+        }
+      ]
+    }
+  ]
+}

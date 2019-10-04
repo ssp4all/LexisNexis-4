@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_219cr138_WAED",
+  "case_key": "2:19cr138_WAED",
+  "case_lni": "5X10-T2T1-J9YR-S2CH-00000-00",
+  "case_number": "2:19cr138",
+  "case_title": "USA v. Morrow",
+  "case_info_full_case_name": "USA v. Morrow",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morrow",
+  "case_date_filed": "2019-09-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Lee Morrow",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. ยง 841(a)(1), (b)(1)(B)(i) - POSSESSION WITH INTENT TO DISTRIBUTE 100 OR MORE GRAMS OF HERION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Wm. Fremming Nielsen",
+          "judge_guid": "urn:entity:jud-100027403"
+        }
+      ]
+    }
+  ]
+}

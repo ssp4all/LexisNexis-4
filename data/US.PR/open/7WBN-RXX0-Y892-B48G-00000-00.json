@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_397m160_prd",
+  "case_key": "3:97m160_prd",
+  "case_lni": "7WBN-RXX0-Y892-B48G-00000-00",
+  "case_number": "3:97m160",
+  "case_title": "USA v. Bautista, et al",
+  "case_info_full_case_name": "USA v. Bautista, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bautista, et al",
+  "case_date_filed": "1997-04-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HAROLD ALBERTO BAUTISTA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possessed with intent to distribute and import heroin into the U. S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    },
+    {
+      "party_name": "AGEO DEL ROSARIO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possessed with intent to distribute and import heroin into the U. S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    },
+    {
+      "party_name": "RAQUELINA MEJIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possessed with intent to distribute and import heroin into the U. S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    }
+  ]
+}

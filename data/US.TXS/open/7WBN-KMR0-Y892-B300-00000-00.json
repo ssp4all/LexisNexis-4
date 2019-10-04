@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_204mj723_TXSD",
+  "case_key": "2:04mj723_TXSD",
+  "case_lni": "7WBN-KMR0-Y892-B300-00000-00",
+  "case_number": "2:04mj723",
+  "case_title": "USA v. Mireles",
+  "case_info_full_case_name": "USA v. Mireles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mireles",
+  "case_date_filed": "2004-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arnold Mireles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1970, 152"
+        },
+        {
+          "charge_description": "Did knowingly, intentionally, and unlawfully possess with intent to distribute a controlled substance in Schedule I of the Controlled Substance Act of 1970, to wit: 152 pounds, approximate gross weight, of marijuana, in violation of 21 USC 841(a)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    }
+  ]
+}

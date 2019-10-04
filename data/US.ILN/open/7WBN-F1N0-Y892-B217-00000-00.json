@@ -1,0 +1,96 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_102cr1117_ilnd",
+  "case_key": "1:02cr1117_ilnd",
+  "case_lni": "7WBN-F1N0-Y892-B217-00000-00",
+  "case_number": "1:02cr1117",
+  "case_title": "USA v. Miller, et al",
+  "case_info_full_case_name": "USA v. Miller, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miller, et al",
+  "case_date_filed": "2002-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lavern Miller",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "50:1705.F; 15:764.2(a), (c), (e) PENALTIES, VIOLATES ANY LICENSE OR ORDER(1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby sentenced to probation for a term of Two (2) years and six (6) months. The defendant shall pay a fine of $1,753.26 plus the cost of electronic monitoring. Schedule of Payments."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "50:1705.F; 15:764.2(a), (c), (e) PENALTIES, VIOLATES ANY LICENSE OR ORDER(2-4)"
+        },
+        {
+          "charge_disposition": "All remaining counts are dismissed on the motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Milton I. Shadur",
+          "judge_guid": "urn:entity:jud-100021365"
+        }
+      ]
+    },
+    {
+      "party_name": "Stoelting Company",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "50:1705.F; 15:764.2(a), (c), (e) PENALTIES, VIOLATES ANY LICENSE OR ORDER(1)"
+        },
+        {
+          "charge_disposition": "The defendant organizationis hereby sentenced to probation for a term of Two (2) years and Six (6) Months. The defendant shall pay a fine of $20,000.00. Schedule of Payments."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "50:1705.F; 15:764.2(a), (c), (e) PENALTIES, VIOLATES ANY LICENSE OR ORDER(2-4)"
+        },
+        {
+          "charge_disposition": "All remaining counts are dismissed on the motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Milton I. Shadur",
+          "judge_guid": "urn:entity:jud-100021365"
+        }
+      ]
+    }
+  ]
+}

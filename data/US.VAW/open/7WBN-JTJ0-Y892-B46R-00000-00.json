@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_108mj68_VAWD",
+  "case_key": "1:08mj68_VAWD",
+  "case_lni": "7WBN-JTJ0-Y892-B46R-00000-00",
+  "case_number": "1:08mj68",
+  "case_title": "USA v. Garrett",
+  "case_info_full_case_name": "USA v. Garrett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garrett",
+  "case_date_filed": "2008-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Timothy Armet Garrett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F-Conspiracy"
+        },
+        {
+          "charge_description": "21:846=CD.F-Conspiracy to Distribute Controlled Substances"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Pamela Meade Sargent",
+          "judge_guid": "urn:entity:jud-100027085"
+        }
+      ]
+    }
+  ]
+}

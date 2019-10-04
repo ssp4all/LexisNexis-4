@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_515po1183_WYD",
+  "case_key": "5:15po1183_WYD",
+  "case_lni": "5H37-5BB1-DXDT-G3C4-00000-00",
+  "case_number": "5:15po1183",
+  "case_title": "USA vs Male",
+  "case_info_full_case_name": "USA vs Male",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Male",
+  "case_date_filed": "2015-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thirupathi R Male",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operate vehicle in excess of posted speed limit (4656479)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

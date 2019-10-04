@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400cr1188_azd",
+  "case_key": "4:00cr1188_azd",
+  "case_lni": "7WBN-S060-Y892-B53F-00000-00",
+  "case_number": "4:00cr1188",
+  "case_title": "USA, et al v. Lopez-Aleman",
+  "case_info_full_case_name": "USA, et al v. Lopez-Aleman",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Lopez-Aleman",
+  "case_date_filed": "2000-09-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDUWIGES LOPEZ-ALEMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(C) POSSESSION W/INTENT TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1--21:841(a)(1) (b)(1)(c); 50 100"
+        },
+        {
+          "charge_description": "Ct 1--21:841(a)(1) and (b)(1)(c); Possess with Intent to Distribute 50 to 100 kilograms of Marijuana [4:00-m-5170]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John M Roll",
+          "judge_guid": "urn:entity:jud-100025388"
+        }
+      ]
+    }
+  ]
+}

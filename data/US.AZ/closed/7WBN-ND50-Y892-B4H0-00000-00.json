@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_404m8643_AZD",
+  "case_key": "4:04m8643_AZD",
+  "case_lni": "7WBN-ND50-Y892-B4H0-00000-00",
+  "case_number": "4:04m8643",
+  "case_title": "USA, et al v. Arredondo-Contreras",
+  "case_info_full_case_name": "USA, et al v. Arredondo-Contreras",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Arredondo-Contreras",
+  "case_date_filed": "2004-11-08",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANGEL NADIR ARREDONDO-CONTRERAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844(a)"
+        },
+        {
+          "charge_description": "21:844(a) MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_disposition": "BOP for 6 months with credit for time served; s/a $25 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1: 21:841(a)(1) 841(b)(1)(B)(vii) 2: 21:844(a)"
+        },
+        {
+          "charge_description": "Count 1: 21:841(a)(1) &; 841(b)(1)(B)(vii) Possession w/Intent to Distribute Marijuana Count 2: 21:844(a) Possession of Marijuana"
+        },
+        {
+          "charge_disposition": "dism count 1 (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy F Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    }
+  ]
+}

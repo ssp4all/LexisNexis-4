@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_810cr139_NED",
+  "case_key": "8:10cr139_NED",
+  "case_lni": "7YSD-7V40-Y892-B30W-00000-00",
+  "case_number": "8:10cr139",
+  "case_title": "USA v. Rangel-Hernandez",
+  "case_info_full_case_name": "USA v. Rangel-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rangel-Hernandez",
+  "case_date_filed": "2010-04-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alejandro Rangel-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) and 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a) and 8:1326(b)(2) Illegal Alien Found in U.S. Following Deportation (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) and 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a) and 8:1326(b)(2) Illegal Alien Found in U.S. Following Deportation"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Joseph F Bataillon",
+          "judge_guid": "urn:entity:jud-100069531"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas D Thalken",
+          "judge_guid": "urn:entity:jud-100007179"
+        }
+      ]
+    }
+  ]
+}

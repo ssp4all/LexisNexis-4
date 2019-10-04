@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_102cr370_ilnd",
+  "case_key": "1:02cr370_ilnd",
+  "case_lni": "7WBN-G3N0-Y892-B3V0-00000-00",
+  "case_number": "1:02cr370",
+  "case_title": "USA v. Khan",
+  "case_info_full_case_name": "USA v. Khan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Khan",
+  "case_date_filed": "2002-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christina M. Egan",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SANAULLAH KHAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1510"
+        },
+        {
+          "charge_description": "18:1510 bribery to obstruct communication of information relating to a violation of a criminal statute"
+        },
+        {
+          "charge_statute": "18:1510"
+        },
+        {
+          "charge_description": "18:1510 bribery to obstruct communication of information relating to a violation of a criminal statute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Nan R. Nolan",
+          "judge_guid": "urn:entity:jud-100027362"
+        }
+      ]
+    }
+  ]
+}

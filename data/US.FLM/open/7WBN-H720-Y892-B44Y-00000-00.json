@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_305cr148_FLMD",
+  "case_key": "3:05cr148_FLMD",
+  "case_lni": "7WBN-H720-Y892-B44Y-00000-00",
+  "case_number": "3:05cr148",
+  "case_title": "USA v. Guifarro",
+  "case_info_full_case_name": "USA v. Guifarro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guifarro",
+  "case_date_filed": "2005-05-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Matias Guifarro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546.F"
+        },
+        {
+          "charge_description": "18:1546.F FRAUD AND MISUSE OF VISAS/PERMITS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546.F-Fraud"
+        },
+        {
+          "charge_description": "18:1546.F-Fraud and misuse of visas/permits"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry Lee Adams, Jr",
+          "judge_guid": "urn:entity:jud-100053175"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Howard T. Snyder",
+          "judge_guid": "urn:entity:jud-100020552"
+        }
+      ]
+    }
+  ]
+}

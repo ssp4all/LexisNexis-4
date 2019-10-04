@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_102cr454_nynd",
+  "case_key": "1:02cr454_nynd",
+  "case_lni": "7WBN-F1N0-Y892-B33X-00000-00",
+  "case_number": "1:02cr454",
+  "case_title": "USA v. Gauthier",
+  "case_info_full_case_name": "USA v. Gauthier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gauthier",
+  "case_date_filed": "2002-12-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THOMAS R. GAUTHIER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252A.F"
+        },
+        {
+          "charge_description": "18:2252A.F ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "2/11/00 4/17/02 18:2252A(a)(2);(a)(5)(B); 2256(8)(A)&;(C)."
+        },
+        {
+          "charge_description": "On or between 2/11/00 and 4/17/02 in Greene co. in the NDNY, deft. did knowingly and willfully possessed and received child pornography, or material that contains child pornography, that has been mailed, shipped and transported in interstate and foreign commerce by any means, including by computer, in violation of 18:2252A(a)(2);(a)(5)(B); 2256(8)(A)&;(C). [1:02-m-158]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lawrence E. Kahn",
+          "judge_guid": "urn:entity:jud-100037968"
+        }
+      ]
+    }
+  ]
+}

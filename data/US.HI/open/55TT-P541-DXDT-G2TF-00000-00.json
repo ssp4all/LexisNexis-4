@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_112cr540_HID",
+  "case_key": "1:12cr540_HID",
+  "case_lni": "55TT-P541-DXDT-G2TF-00000-00",
+  "case_number": "1:12cr540",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2012-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Samuel Garcia Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.P 18:13; 286-102, 286-136; 1724921 H19"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, DRIVING WITHOUT VALID OPERATOR'S LICENSE; 18:13; HRS 286-102, 286-136; Wheeler Army Airfield, HI; [4/22/2012]; 1724921 H19 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "BARRY M. KURREN",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

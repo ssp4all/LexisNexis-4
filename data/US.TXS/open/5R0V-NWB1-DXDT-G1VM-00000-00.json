@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_417mj1795_TXSD",
+  "case_key": "4:17mj1795_TXSD",
+  "case_lni": "5R0V-NWB1-DXDT-G1VM-00000-00",
+  "case_number": "4:17mj1795",
+  "case_title": "USA v. Baltazar-Ortuno",
+  "case_info_full_case_name": "USA v. Baltazar-Ortuno",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baltazar-Ortuno",
+  "case_date_filed": "2017-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Baltazar-Ortuno",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846;841 CPID Methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:846;841 CPID Methamphetamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frances H Stacy",
+          "judge_guid": "urn:entity:jud-100020287"
+        }
+      ]
+    }
+  ]
+}

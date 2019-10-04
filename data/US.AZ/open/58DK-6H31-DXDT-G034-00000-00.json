@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_213po63611_AZD",
+  "case_key": "2:13po63611_AZD",
+  "case_lni": "58DK-6H31-DXDT-G034-00000-00",
+  "case_number": "2:13po63611",
+  "case_title": "USA v. Cordova-Torres",
+  "case_info_full_case_name": "USA v. Cordova-Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cordova-Torres",
+  "case_date_filed": "2013-05-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fredrick Allen Cocio",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rosain Cordova-Torres",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

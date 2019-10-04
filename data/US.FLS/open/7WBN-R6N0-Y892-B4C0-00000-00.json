@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_205m92_FLSD",
+  "case_key": "2:05m92_FLSD",
+  "case_lni": "7WBN-R6N0-Y892-B4C0-00000-00",
+  "case_number": "2:05m92",
+  "case_title": "USA v. Freedman, et al",
+  "case_info_full_case_name": "USA v. Freedman, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Freedman, et al",
+  "case_date_filed": "2005-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Diana Margarita Acosta, AUSA",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SCOTT THOMAS FREEDMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a) 18:2"
+        },
+        {
+          "charge_description": "21:952(a) and 18:2 Knowingly and willingly import and aided and abetted in the importation of cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Frank J. Lynch",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    },
+    {
+      "party_name": "EDWIN DEVEAUX",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a) 18:2"
+        },
+        {
+          "charge_description": "21:952(a) and 18:2 Knowingly and willingly import and aided and abetted in the importation of cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Frank J. Lynch",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    },
+    {
+      "party_name": "JASON CORNELIUS DARVILLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a) 18:2"
+        },
+        {
+          "charge_description": "21:952(a) and 18:2 Knowingly and willingly import and aided and abetted in the importation of cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Frank J. Lynch",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    }
+  ]
+}

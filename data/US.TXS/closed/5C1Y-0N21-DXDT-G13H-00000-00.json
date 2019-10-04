@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_114cr280_TXSD",
+  "case_key": "1:14cr280_TXSD",
+  "case_lni": "5C1Y-0N21-DXDT-G13H-00000-00",
+  "case_number": "1:14cr280",
+  "case_title": "USA v. Ortiz-Maldonado",
+  "case_info_full_case_name": "USA v. Ortiz-Maldonado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortiz-Maldonado",
+  "case_date_filed": "2014-04-22",
+  "case_status": "Closed",
+  "case_status_date": "09/29/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Appellate Division",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "David Agustin Lindenmuth"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Santos Ortiz-Maldonado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1)(b)(1):  an alien who had previously been denied admission, excluded, deported, or removed, knowingly and unlawfully was present in the United States, the said defendant having not obtained the consent of the Attorney General or the Secretary of the Department of Homeland Security to reapply for admission into the United States"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1)(b)(1):  an alien who had previously b"
+        },
+        {
+          "charge_description": "Ct 1: Illegal re-entry into the United States (found in)  8 U.S.C. 1326(a)and (b)(1)"
+        },
+        {
+          "charge_disposition": "24 Months BOP. No SRT ordered. $100.00 S/A fee remitted; fine waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

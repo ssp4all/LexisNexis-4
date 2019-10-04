@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_506mj794_TXSD",
+  "case_key": "5:06mj794_TXSD",
+  "case_lni": "7WBN-D6F0-Y892-B451-00000-00",
+  "case_number": "5:06mj794",
+  "case_title": "USA v. Morales-Rojas",
+  "case_info_full_case_name": "USA v. Morales-Rojas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales-Rojas",
+  "case_date_filed": "2006-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Carlos Alberto Morales-Rojas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=NI.F"
+        },
+        {
+          "charge_description": "21:952=NI.F Narcotics-import"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

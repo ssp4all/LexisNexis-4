@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_100cr13_txwd",
+  "case_key": "1:00cr13_txwd",
+  "case_lni": "7WBN-J8G0-Y892-B097-00000-00",
+  "case_number": "1:00cr13",
+  "case_title": "USA v. Conde-Almaraz",
+  "case_info_full_case_name": "USA v. Conde-Almaraz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Conde-Almaraz",
+  "case_date_filed": "2000-01-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LORETO CONDE-ALMARAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21, 1996 8USC1326."
+        },
+        {
+          "charge_description": "The defendant was found in the United States in Travis County, Texas being willfully in the United States after being previously arrested and deported from the United States to Mexico on or about March 21, 1996 at El Paso, Texas and who had not thereafter obtained the consent of the Attorney General of the United States to reapply for admission to the United States in violation of Title 8 USC 1326. [1:99-m-495]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Sam Sparks",
+          "judge_guid": "urn:entity:jud-100020424"
+        }
+      ]
+    }
+  ]
+}

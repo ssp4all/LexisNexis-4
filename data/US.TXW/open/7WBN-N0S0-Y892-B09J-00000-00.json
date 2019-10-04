@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_309mj3120_TXWD",
+  "case_key": "3:09mj3120_TXWD",
+  "case_lni": "7WBN-N0S0-Y892-B09J-00000-00",
+  "case_number": "3:09mj3120",
+  "case_title": "USA v. Martel-Torres",
+  "case_info_full_case_name": "USA v. Martel-Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martel-Torres",
+  "case_date_filed": "2009-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gerardo Martel-Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F-Marijuana-Sell, 21:952A=MI.F-Marijuana-Import 85.3"
+        },
+        {
+          "charge_description": "21:841A=MD.F-Marijuana-Sell, Distribute, or Dispense, 21:952A=MI.F-Marijuana-Import approximately 85.3 pounds."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

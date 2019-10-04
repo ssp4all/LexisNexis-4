@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_509mj1212_OKWD",
+  "case_key": "5:09mj1212_OKWD",
+  "case_lni": "7WF4-GY90-Y892-B01X-00000-00",
+  "case_number": "5:09mj1212",
+  "case_title": "United States of America v. Rivas",
+  "case_info_full_case_name": "United States of America v. Rivas",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Rivas",
+  "case_date_filed": "2009-08-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Felica L Rivas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, Driving under suspension 18:13-7220.M (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Shon T. Erwin",
+          "judge_guid": "urn:entity:jud-100007099"
+        }
+      ]
+    }
+  ]
+}

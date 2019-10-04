@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_817po4263_MDD",
+  "case_key": "8:17po4263_MDD",
+  "case_lni": "5NFH-JWY1-DXDT-G17D-00000-00",
+  "case_number": "8:17po4263",
+  "case_title": "USA vs Ean Holdings Llc",
+  "case_info_full_case_name": "USA vs Ean Holdings Llc",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ean Holdings Llc",
+  "case_date_filed": "2017-05-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING VIOLATION OR MISCELLANEOUS OFFENSE (7130289)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

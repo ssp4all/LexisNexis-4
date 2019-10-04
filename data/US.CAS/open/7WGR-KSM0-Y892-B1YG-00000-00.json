@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_309cr3206_CASD",
+  "case_key": "3:09cr3206_CASD",
+  "case_lni": "7WGR-KSM0-Y892-B1YG-00000-00",
+  "case_number": "3:09cr3206",
+  "case_title": "USA v. Peralta-Velazquez et al",
+  "case_info_full_case_name": "USA v. Peralta-Velazquez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peralta-Velazquez et al",
+  "case_date_filed": "2009-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lizbethe Peralta-Velazquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of a Controlled Substance"
+        },
+        {
+          "charge_statute": "21:952 960; 18:2-Importation (Felony)"
+        },
+        {
+          "charge_description": "21:952 and 960; 18:2-Importation of Marijuana; Aiding and Abetting (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dana M. Sabraw",
+          "judge_guid": "urn:entity:jud-100027243"
+        }
+      ]
+    },
+    {
+      "party_name": "Ariana Campos-Aguilar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of a Controlled Substance"
+        },
+        {
+          "charge_statute": "21:952 960; 18:2-Importation (Felony)"
+        },
+        {
+          "charge_description": "21:952 and 960; 18:2-Importation of Marijuana; Aiding and Abetting (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dana M. Sabraw",
+          "judge_guid": "urn:entity:jud-100027243"
+        }
+      ]
+    }
+  ]
+}

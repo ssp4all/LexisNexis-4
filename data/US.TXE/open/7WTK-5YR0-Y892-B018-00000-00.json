@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_109cr140_TXED",
+  "case_key": "1:09cr140_TXED",
+  "case_lni": "7WTK-5YR0-Y892-B018-00000-00",
+  "case_number": "1:09cr140",
+  "case_title": "USA v. Cormier",
+  "case_info_full_case_name": "USA v. Cormier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cormier",
+  "case_date_filed": "2009-10-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Jacob Cormier",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION OF UNREGISTERED FIREARM (CRIMINAL FORFEITURE) (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF FIREARM BY CONVICTED FELON (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ron Clark",
+          "judge_guid": "urn:entity:jud-100062595"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Keith F. Giblin",
+          "judge_guid": "urn:entity:jud-100054769"
+        }
+      ]
+    }
+  ]
+}

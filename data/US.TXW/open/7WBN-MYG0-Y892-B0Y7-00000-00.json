@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_308mj5514_TXWD",
+  "case_key": "3:08mj5514_TXWD",
+  "case_lni": "7WBN-MYG0-Y892-B0Y7-00000-00",
+  "case_number": "3:08mj5514",
+  "case_title": "USA v. Corral-Sanchez",
+  "case_info_full_case_name": "USA v. Corral-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Corral-Sanchez",
+  "case_date_filed": "2008-10-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elvira Corral-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028A.M--FRAUD"
+        },
+        {
+          "charge_description": "18:1028A.M--FRAUD WITH IDENTIFICATION DOCUMENTS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

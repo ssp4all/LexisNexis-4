@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_508cr207_CACD",
+  "case_key": "5:08cr207_CACD",
+  "case_lni": "7WBN-DXT0-Y892-B0VV-00000-00",
+  "case_number": "5:08cr207",
+  "case_title": "USA v. Bluitt",
+  "case_info_full_case_name": "USA v. Bluitt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bluitt",
+  "case_date_filed": "2008-10-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sanford Bluitt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC922(g)(1):"
+        },
+        {
+          "charge_description": "18 USC 922(g)(1): FELON IN POSSESSION OF AMMUNITION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1):"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1): POSSESSION OF CONTROLLED SUBSTANCE WITH INTENT TO DISTRIBUTE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC924(d); 28USC2461(c):"
+        },
+        {
+          "charge_description": "18 USC 924(d); 28 USC 2461(c): FORFEITURE (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen G. Larson",
+          "judge_guid": "urn:entity:jud-100039545"
+        }
+      ]
+    }
+  ]
+}

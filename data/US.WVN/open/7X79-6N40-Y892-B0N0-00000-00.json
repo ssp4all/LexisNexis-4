@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_109cr117_WVND",
+  "case_key": "1:09cr117_WVND",
+  "case_lni": "7X79-6N40-Y892-B0N0-00000-00",
+  "case_number": "1:09cr117",
+  "case_title": "USA v. Higginbotham",
+  "case_info_full_case_name": "USA v. Higginbotham",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Higginbotham",
+  "case_date_filed": "2009-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Zelda E. Wesley",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Wilbur Marvin Higginbotham",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the custody of the BOP for a term of 37 months to run concurrently with Count 4; 3 years supervised release to run concurrently with Count 4; no fine; $100.00 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "PENALTIES FOR FIREARMS(4)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the custody of the BOP for a term of 37 months to run concurrently with Count 2; 3 years supervised release to run concurrently with Count 2; no fine; $100.00 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(3)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    }
+  ]
+}

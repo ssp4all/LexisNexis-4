@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_409cr168_MOWD",
+  "case_key": "4:09cr168_MOWD",
+  "case_lni": "7WBN-HP00-Y892-B132-00000-00",
+  "case_number": "4:09cr168",
+  "case_title": "USA v. Stepps",
+  "case_info_full_case_name": "USA v. Stepps",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stepps",
+  "case_date_filed": "2009-05-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Keshia L Stepps",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Arms,.25 3151680, 18USCs 922(g)(1)"
+        },
+        {
+          "charge_description": "having been convicted of a crime punishable by imprisonment for a term exceeding one year, did knowingly possess, in and affecting commerce, a firearm, to wit: a Phoenix Arms,.25 caliber semi-automatic pistol, Serial Number 3151680, which had been transported in interstate commerce, in violation of Title 18, United States Code, Sections 922(g)(1) and 924(a)(2)."
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Gary A. Fenner",
+          "judge_guid": "urn:entity:jud-100046650"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Maughmer",
+          "judge_guid": "urn:entity:jud-100041328"
+        }
+      ]
+    }
+  ]
+}

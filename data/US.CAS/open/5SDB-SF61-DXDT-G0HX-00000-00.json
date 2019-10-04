@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr2622_CASD",
+  "case_key": "3:18cr2622_CASD",
+  "case_lni": "5SDB-SF61-DXDT-G0HX-00000-00",
+  "case_number": "3:18cr2622",
+  "case_title": "USA v. Delgado-Gaona",
+  "case_info_full_case_name": "USA v. Delgado-Gaona",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delgado-Gaona",
+  "case_date_filed": "2018-05-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Julia Criste",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Manuel Delgado-Gaona",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 - Deported Alien Found in the United States (Felony)"
+        },
+        {
+          "charge_offence_description": "8:1326 - Deported Alien Found in the United States"
+        },
+        {
+          "charge_description": "8:1326(a) and (b) - Removed Alien Found in the United States (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cathy Ann Bencivengo",
+          "judge_guid": "urn:entity:jud-100069208"
+        }
+      ]
+    }
+  ]
+}

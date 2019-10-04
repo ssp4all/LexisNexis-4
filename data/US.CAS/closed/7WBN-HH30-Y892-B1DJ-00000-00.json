@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_399m771_casd",
+  "case_key": "3:99m771_casd",
+  "case_lni": "7WBN-HH30-Y892-B1DJ-00000-00",
+  "case_number": "3:99m771",
+  "case_title": "USA v. Clark",
+  "case_info_full_case_name": "USA v. Clark",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clark",
+  "case_date_filed": "1999-03-25",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANGELA D CLARK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:656-THEFT/EMBEZZLEMENT/MISAPPLICA-TION"
+        },
+        {
+          "charge_description": "18:656-THEFT/EMBEZZLEMENT/MISAPPLICA-TION BY BANK OFFICER (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1-18:656-Misapplication (Felony); 2-18:656-Misapplication"
+        },
+        {
+          "charge_description": "Cnt 1-18:656-Misapplication of Funds by Bank Employee (Felony); Cnt 2-18:656-Misapplication of Funds by Bank Employee (Misdemeanor)"
+        },
+        {
+          "charge_disposition": "Cnt 2-dft sentenced to spv prob for three years, fine waived, restitution $5,000 (payable to not applicable if already paid), P/A $25.00 w/i 30 days; cnt 1 dismissed (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leo S. Papas",
+          "judge_guid": "urn:entity:jud-100028458"
+        }
+      ]
+    }
+  ]
+}

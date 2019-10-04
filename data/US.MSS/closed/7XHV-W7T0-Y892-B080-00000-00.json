@@ -1,0 +1,105 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_109cr108_MSSD",
+  "case_key": "1:09cr108_MSSD",
+  "case_lni": "7XHV-W7T0-Y892-B080-00000-00",
+  "case_number": "1:09cr108",
+  "case_title": "USA v. Stadd",
+  "case_info_full_case_name": "USA v. Stadd",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stadd",
+  "case_date_filed": "2009-12-02",
+  "case_status": "Closed",
+  "case_status_date": "11/24/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Alyssa D. Farrell-Federal Gov",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Courtney A. Stadd",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to BOP 41 months; 3 years Supervised Release; $7,500.00 fine; restitution of $287,000.00 to NASA; $87,752.55 of the $287,000.00 restitution owed jointly and severally with Defendant Liam Sarsfield in Criminal No. 1:09cr95; and $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion by Government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FALSE OR FRAUDULENT CLAIMS(4-7)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion by Government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "INFLUENCE/INJURING OFFICER/JUROR/WITNESS(8)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion by Government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MAJOR FRAUD AGAINST U. S.(9)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion by Government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Halil S. Ozerden",
+          "judge_guid": "urn:entity:jud-100065278"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John M. Roper",
+          "judge_guid": "urn:entity:jud-100011748"
+        }
+      ]
+    },
+    {
+      "party_name": "Probation Gulfport",
+      "party_description": "Interested Party"
+    }
+  ]
+}

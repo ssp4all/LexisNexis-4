@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_510mj89_OKWD",
+  "case_key": "5:10mj89_OKWD",
+  "case_lni": "7Y25-C8D0-Y892-B3H8-00000-00",
+  "case_number": "5:10mj89",
+  "case_title": "United States of America v. McClees et al",
+  "case_info_full_case_name": "United States of America v. McClees et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "McClees et al",
+  "case_date_filed": "2010-03-15",
+  "case_status": "Closed",
+  "case_status_date": "07/15/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Stephen Phillip McClees",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Title 18 U.S.C.§661, 2, and 1152 - LARCENY W/IN SPECIAL MARITIME JURISDICTION(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to two (2) months in Bureau of Prisons; one (1) year supervised release with conditions; no fine imposed; $25 special assessment due instanter"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "Title 18, U.S.C.§661; Title 18 U.S.C. §1152; Title 18 U.S.C.§2 Take and Carry away with the intent to steal personal property of another within Indian Country"
+        },
+        {
+          "charge_offence_description": "Title 18, U.S.C.&#167;661; Title 18 U.S.C. &#167;1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary M. Purcell",
+          "judge_guid": "urn:entity:jud-100031980"
+        }
+      ]
+    },
+    {
+      "party_name": "Skilen Jesse McKinney",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Title 18 U.S.C.§661, 2, and 1152 - LARCENY W/IN SPECIAL MARITIME JURISDICTION(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced six (6) months to Bureau of Prisons; one (1) year supervised release with conditions; no fine imposed; $25 special assessment due instanter"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "Title 18, U.S.C.§661; Title 18 U.S.C. §1152; Title 18 U.S.C.§2 Take and Carry away with the intent to steal personal property of another within Indian Country"
+        },
+        {
+          "charge_offence_description": "Title 18, U.S.C.&#167;661; Title 18 U.S.C. &#167;1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary M. Purcell",
+          "judge_guid": "urn:entity:jud-100031980"
+        }
+      ]
+    }
+  ]
+}

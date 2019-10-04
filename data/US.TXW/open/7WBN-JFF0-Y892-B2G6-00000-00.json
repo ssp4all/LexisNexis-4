@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_103cr188_txwd",
+  "case_key": "1:03cr188_txwd",
+  "case_lni": "7WBN-JFF0-Y892-B2G6-00000-00",
+  "case_number": "1:03cr188",
+  "case_title": "USA v. Ellis",
+  "case_info_full_case_name": "USA v. Ellis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ellis",
+  "case_date_filed": "2003-07-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KENDRICK ELLIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES; Conspiracy (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472.F 18:2;"
+        },
+        {
+          "charge_description": "18:472.F and 18:2; PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES; Passing &; Uttering Counterfeit Obligations &; Securities of the United States and Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18, 472 371."
+        },
+        {
+          "charge_description": "Defendant did-knowingly and with intent to defraud conspire with another individual to possess and utter counterfeit currency in violation of Title 18, Sections 472 and 371. [1:03-m-209]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Sam Sparks",
+          "judge_guid": "urn:entity:jud-100020424"
+        }
+      ]
+    },
+    {
+      "party_name": "FREDRICK MANOR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES; Conspiracy (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472.F 18:2;"
+        },
+        {
+          "charge_description": "18:472.F and 18:2; PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES; Passing &; Uttering Counterfeit Obligations &; Securities of the United States and Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18, 472 371."
+        },
+        {
+          "charge_description": "Defendant did-knowingly and with intent to defraud conspire with another individual to possess and utter counterfeit currency in violation of Title 18, Sections 472 and 371. [1:03-m-209]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Sam Sparks",
+          "judge_guid": "urn:entity:jud-100020424"
+        }
+      ]
+    }
+  ]
+}

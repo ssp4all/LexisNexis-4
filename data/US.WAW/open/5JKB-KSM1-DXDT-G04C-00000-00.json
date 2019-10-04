@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_316po6002_WAWD",
+  "case_key": "3:16po6002_WAWD",
+  "case_lni": "5JKB-KSM1-DXDT-G04C-00000-00",
+  "case_number": "3:16po6002",
+  "case_title": "USA vs Kenny",
+  "case_info_full_case_name": "USA vs Kenny",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kenny",
+  "case_date_filed": "2016-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Prosecutor Naval Base Kitsap",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brian M Kenny",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "No proof of liability insurance (3370727)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Expired registration (3370726)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J Richard Creatura",
+          "judge_guid": "urn:entity:jud-100057943"
+        }
+      ]
+    }
+  ]
+}

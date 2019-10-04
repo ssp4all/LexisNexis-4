@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_305cr5770_WAWD",
+  "case_key": "3:05cr5770_WAWD",
+  "case_lni": "7WBN-H7H0-Y892-B12M-00000-00",
+  "case_number": "3:05cr5770",
+  "case_title": "USA v. Davis Portocarrero",
+  "case_info_full_case_name": "USA v. Davis Portocarrero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis Portocarrero",
+  "case_date_filed": "2005-10-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor Ft Lewis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan L Davis Portocarrero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER: FAILURE TO COMPLY WITH LAWFUL ORDER"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mary"
+        }
+      ]
+    }
+  ]
+}

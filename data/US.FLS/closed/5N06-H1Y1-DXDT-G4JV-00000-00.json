@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_017cr60059_FLSD",
+  "case_key": "0:17cr60059_FLSD",
+  "case_lni": "5N06-H1Y1-DXDT-G4JV-00000-00",
+  "case_number": "0:17cr60059",
+  "case_title": "USA v. Session",
+  "case_info_full_case_name": "USA v. Session",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Session",
+  "case_date_filed": "2017-02-23",
+  "case_status": "Closed",
+  "case_status_date": "06/28/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey Kaplan",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Porsha Session",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TAMPERING WITH A WITNESS, VICTIM, OR AN INFORMANT(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment for 36 months; Supervised release for one year. Assessment for $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald M. Middlebrooks",
+          "judge_guid": "urn:entity:jud-100025893"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dave Lee Brannon",
+          "judge_guid": "urn:entity:jud-100064425"
+        }
+      ]
+    }
+  ]
+}

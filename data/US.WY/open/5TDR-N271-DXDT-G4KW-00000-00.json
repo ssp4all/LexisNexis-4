@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_218po989_WYD",
+  "case_key": "2:18po989_WYD",
+  "case_lni": "5TDR-N271-DXDT-G4KW-00000-00",
+  "case_number": "2:18po989",
+  "case_title": "USA vs Say",
+  "case_info_full_case_name": "USA vs Say",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Say",
+  "case_date_filed": "2018-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tammi B Say",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of firearms, carried either openly or concealed (6484721)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Kelly H Rankin",
+          "judge_guid": "urn:entity:jud-100104788"
+        }
+      ]
+    }
+  ]
+}

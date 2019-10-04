@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_508cr1073_TXSD",
+  "case_key": "5:08cr1073_TXSD",
+  "case_lni": "7WBN-NYG0-Y892-B2YM-00000-00",
+  "case_number": "5:08cr1073",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2008-07-08",
+  "case_status": "Closed",
+  "case_status_date": "11/24/2008",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-LA",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roger Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Receipt and distribution of child Pornography  Penalty: Mandatory Minimum of 5 Yrs, Maximum of 20 Yrs, $250,000.00 Fine; $100 CVF; Not More Than 3 Yrs TSR.(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govts oral Motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Receipt and distribution of child Pornography  Penalty: Mandatory Minimum of 5 Yrs, Maximum of 20 Yrs, $250,000.00 Fine; $100 CVF; Not More Than 3 Yrs TSR.(2)"
+        },
+        {
+          "charge_disposition": "90 mos to serve; 10 yrs tsr, usual terms apply; $100 cvf; $1,000 fine at $50 mthly to begin 60 days from release; register w/sex offender agency; cannot view or possess any video of children; cannot prescribe to any internet service while on tsr; no employement with anyone under 18 yrs of age; mental health or sex offender program; as to placement, courts leaves those recommendations to BOP; waived appeal. Plea Agreement unsealed. Deft pled not true to violations 1 thru 6; court finds sufficient evidence tat deft has violated all 6 violations; Modified: continue under the same terms and conditions as previously imposed to include celph stmts must be provided to USPO. Pled not true to allegations 1,2,3; Court finds sufficient evidence that deft has violated srt, Revoked: 6 mos concurrent to all 3 allegations, consecutive to 18 mos in case 5:18cr33 for a total of 24 mos; srt terminated; advised of right to appeal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession of Child Pornography   Penalty: Not More Than 10 Yrs, $250,000.00  Fine; $100 CVF; Not More Than 3 Yrs TSR.(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govts oral Motion."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marina Garcia Marmolejo",
+          "judge_guid": "urn:entity:jud-100005708"
+        }
+      ]
+    }
+  ]
+}

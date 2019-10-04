@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_307cr252_ALMD",
+  "case_key": "3:07cr252_ALMD",
+  "case_lni": "7WBN-MVB0-Y892-B290-00000-00",
+  "case_number": "3:07cr252",
+  "case_title": "USA v. Canady",
+  "case_info_full_case_name": "USA v. Canady",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Canady",
+  "case_date_filed": "2007-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "A. Clark Morris",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ashley Claren Canady",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:843(b) 4Y; 1Y"
+        },
+        {
+          "charge_description": "21:843(b) USE COMMUNICATIONS FACILITY-MARIJUANA/DISTRIBUTE-NMT $250,000; [*]; NMT 4Y; B; NMT 1Y SUP REL; G-LINES; VWPA; $100 SA (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon. Chief Judge",
+          "judge_name": "Mark E. Fuller",
+          "judge_guid": "urn:entity:jud-100004623"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Terry F. Moorer",
+          "judge_guid": "urn:entity:jud-100066258"
+        }
+      ]
+    }
+  ]
+}

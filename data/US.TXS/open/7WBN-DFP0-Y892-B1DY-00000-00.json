@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_704cr31_txsd",
+  "case_key": "7:04cr31_txsd",
+  "case_lni": "7WBN-DFP0-Y892-B1DY-00000-00",
+  "case_number": "7:04cr31",
+  "case_title": "USA v. Alvarez-Vasquez",
+  "case_info_full_case_name": "USA v. Alvarez-Vasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarez-Vasquez",
+  "case_date_filed": "2004-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOEL ALVAREZ-VASQUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a) 1326(b); 12/14/03; 20 3"
+        },
+        {
+          "charge_description": "Unlawfully present in the US after being previously excluded, deported, and removed; Title 8 USC Sections 1326(a) and 1326(b); Offense date: 12/14/03; Penalty: Imprisonment for not more than 20 yrs and/or a fine not to exceed $250,000 and at least a 3 yr SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Re-entry into the US after being previously deported [7:03-m-5595]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    }
+  ]
+}

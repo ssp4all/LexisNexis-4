@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_596m113_nynd",
+  "case_key": "5:96m113_nynd",
+  "case_lni": "7WBN-P320-Y892-B415-00000-00",
+  "case_number": "5:96m113",
+  "case_title": "USA v. Sealed Defendant 1",
+  "case_info_full_case_name": "USA v. Sealed Defendant 1",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sealed Defendant 1",
+  "case_date_filed": "1996-02-29",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SEALED DEFENDANT 1",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gustave J. DiBianco",
+          "judge_guid": "urn:entity:jud-100044650"
+        }
+      ]
+    }
+  ]
+}

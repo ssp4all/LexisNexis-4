@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_518cr50113_SDD",
+  "case_key": "5:18cr50113_SDD",
+  "case_lni": "5TY0-61S1-DXDT-G0J7-00000-00",
+  "case_number": "5:18cr50113",
+  "case_title": "USA v. MacDonald-Fisher",
+  "case_info_full_case_name": "USA v. MacDonald-Fisher",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MacDonald-Fisher",
+  "case_date_filed": "2018-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Benjamin D. Patterson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pamela MacDonald-Fisher",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. ยง 641; THEFT OF GOVERNMENT PROPERTY(1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "42 U.S.C. ยง 1383a(a)(3)(A); SUPPLEMENTAL SECURITY INCOME BENEFITS FRAUD(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. ยง 1001; FALSE STATEMENT(5-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Jeffrey L. Viken",
+          "judge_guid": "urn:entity:jud-100018901"
+        },
+        {
+          "judge_name": "US Magistrate Judge Daneta Wollmann",
+          "judge_guid": "urn:entity:jud-100126945"
+        }
+      ]
+    }
+  ]
+}

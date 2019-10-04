@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_195m987_gand",
+  "case_key": "1:95m987_gand",
+  "case_lni": "7WBN-D3Y0-Y892-B43X-00000-00",
+  "case_number": "1:95m987",
+  "case_title": "USA v. Elliott",
+  "case_info_full_case_name": "USA v. Elliott",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Elliott",
+  "case_date_filed": "1995-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROSALIND RICHARDSON ELLIOTT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371,"
+        },
+        {
+          "charge_description": "CONSPIRACY/EMBEZZMELENT, 18:371, 641"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John E. Dougherty",
+          "judge_guid": "urn:entity:jud-100044327"
+        }
+      ]
+    }
+  ]
+}

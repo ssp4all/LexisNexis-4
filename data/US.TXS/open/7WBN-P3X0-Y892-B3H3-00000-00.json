@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_599cr482_txsd",
+  "case_key": "5:99cr482_txsd",
+  "case_lni": "7WBN-P3X0-Y892-B3H3-00000-00",
+  "case_number": "5:99cr482",
+  "case_title": "USA v. Perez-Lopez",
+  "case_info_full_case_name": "USA v. Perez-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Lopez",
+  "case_date_filed": "1999-06-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BENITO PEREZ-LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(felony) 2 1"
+        },
+        {
+          "charge_description": "Illegal entry of alien (felony) [8 USC 1325]; Penalty: 2 yrs and/or $250, 000.00 $100 Spec Assessment not more than 1 yr term of supervised release. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Unlawfully entered the United States by evading examination or inspection by Immigration officers/or by willful concealment of a material fact. [5:99-m-2328]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

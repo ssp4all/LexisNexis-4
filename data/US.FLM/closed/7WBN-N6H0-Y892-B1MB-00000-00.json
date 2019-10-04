@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_398cr386_flmd",
+  "case_key": "3:98cr386_flmd",
+  "case_lni": "7WBN-N6H0-Y892-B1MB-00000-00",
+  "case_number": "3:98cr386",
+  "case_title": "USA v. Tipton",
+  "case_info_full_case_name": "USA v. Tipton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tipton",
+  "case_date_filed": "1998-11-13",
+  "case_status": "Closed",
+  "case_status_date": "07/29/1999",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Adelaide G. Few",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jimmy Franklin Tipton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1341.F FRAUDS AND SWINDLES(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 18 months; Supervised Release: 36 months; Special Assessment: $100.00; Restitution: $92,000.97"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Terrell Hodges",
+          "judge_guid": "urn:entity:jud-100071240"
+        }
+      ]
+    }
+  ]
+}

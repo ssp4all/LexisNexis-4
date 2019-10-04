@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_019cr60255_FLSD",
+  "case_key": "0:19cr60255_FLSD",
+  "case_lni": "5X16-RV01-J9YR-S01X-00000-00",
+  "case_number": "0:19cr60255",
+  "case_title": "USA v. Toribio",
+  "case_info_full_case_name": "USA v. Toribio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Toribio",
+  "case_date_filed": "2019-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "M. Catherine Koontz",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Camilo Jasmani Toribio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:U.S.C.§2422(b)PERSUADING, INDUCING, ENTICING, OR COERCING A MINOR TO ENGAGE IN ILLICIT SEXUAL CONDUCT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:U.S.C.§2422(b)USING ANY FACILITY AND MEANS OF INTERSTATE COMMERCE, THAT IS, KNOWINGLY ATTEMPTED TO PERSUADE, INDUCE, ENTICE, AND COERCE AN INDIVIDUAL WHO HAD NOT ATTAINED THE AGE OF EIGHTEEN YEARS, TO ENGAGE IN ANY SEXUAL ACTIVITY FOR WHICH ANY PERSON CAN BE CHARGED WITH A CRIMINAL OFFENSE"
+        },
+        {
+          "charge_offence_description": "18:U.S.C.&#167;2422(b)USING ANY FACILITY AND MEANS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Beth Bloom",
+          "judge_guid": "urn:entity:jud-100061360"
+        }
+      ]
+    }
+  ]
+}

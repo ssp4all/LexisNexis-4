@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_215mj3350_NMD",
+  "case_key": "2:15mj3350_NMD",
+  "case_lni": "5H1H-K1G1-DXDT-G0TW-00000-00",
+  "case_number": "2:15mj3350",
+  "case_title": "USA v. Vasconcelos De Freitas",
+  "case_info_full_case_name": "USA v. Vasconcelos De Freitas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasconcelos De Freitas",
+  "case_date_filed": "2015-09-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eduardo Vasconcelos De Freitas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephan M. Vidmar",
+          "judge_guid": "urn:entity:jud-100018913"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_708mj22_TXWD",
+  "case_key": "7:08mj22_TXWD",
+  "case_lni": "7WBN-FYP0-Y892-B255-00000-00",
+  "case_number": "7:08mj22",
+  "case_title": "USA v. Rios",
+  "case_info_full_case_name": "USA v. Rios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rios",
+  "case_date_filed": "2008-01-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Andrew Rios DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "18:2113A.F"
+        },
+        {
+          "charge_description": "18:2113A.F On or about [1/25/08] in Midland county, in the Western District of Texas defendant by force and violence, or by intimidation, take from the person or presence of another, money in the care, custody, control management, or possession of, a bank in violation of Title 18 USC 2113"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "L. Stuart Platt",
+          "judge_guid": "urn:entity:jud-100024402"
+        }
+      ]
+    }
+  ]
+}

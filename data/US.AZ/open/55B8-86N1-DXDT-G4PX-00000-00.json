@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_212mj6145_AZD",
+  "case_key": "2:12mj6145_AZD",
+  "case_lni": "55B8-86N1-DXDT-G4PX-00000-00",
+  "case_number": "2:12mj6145",
+  "case_title": "USA v. Lopez-Vasquez",
+  "case_info_full_case_name": "USA v. Lopez-Vasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Vasquez",
+  "case_date_filed": "2012-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Marni Francisca Guerrero",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alfredo Lopez-Vasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) Reentry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David K Duncan",
+          "judge_guid": "urn:entity:jud-100056902"
+        }
+      ]
+    }
+  ]
+}

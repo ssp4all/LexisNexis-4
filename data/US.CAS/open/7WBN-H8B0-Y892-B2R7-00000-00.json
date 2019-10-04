@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_306cr825_CASD",
+  "case_key": "3:06cr825_CASD",
+  "case_lni": "7WBN-H8B0-Y892-B2R7-00000-00",
+  "case_number": "3:06cr825",
+  "case_title": "USA v. Estrada-Gutierrez",
+  "case_info_full_case_name": "USA v. Estrada-Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada-Gutierrez",
+  "case_date_filed": "2006-04-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUZ GABRIELA ESTRADA-GUTIERREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Possession (felony)"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of Cocaine with Intent to Distribute (felony) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marilyn L. Huff",
+          "judge_guid": "urn:entity:jud-100050993"
+        }
+      ]
+    }
+  ]
+}

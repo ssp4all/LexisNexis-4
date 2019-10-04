@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_313mj354_PRD",
+  "case_key": "3:13mj354_PRD",
+  "case_lni": "584P-MR71-DXDT-G2X0-00000-00",
+  "case_number": "3:13mj354",
+  "case_title": "DO NOT DOCKET IN MAGISTRATE CASE - CASE MERGED INTO CRIMINAL CASE 13-208 (CC)",
+  "case_info_full_case_name": "DO NOT DOCKET IN MAGISTRATE CASE - CASE MERGED INTO CRIMINAL CASE 13-208 (CC)",
+  "case_info_short_case_name": "DO NOT DOCKET IN MAGISTRATE CASE - CASE MERGED INTO CRIMINAL CASE 13-208 CC",
+  "case_info_party1": "DO NOT DOCKET IN MAGISTRATE CASE - CASE MERGED INTO CRIMINAL CASE 13-208 CC",
+  "case_info_party2": null,
+  "case_date_filed": "2013-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Juan C. Ovies-Domingo",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christian Robert Capo-Ortiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F = Prohibited person in possession of a firearm - convicted felon"
+        },
+        {
+          "charge_offence_description": "18:922G.F = Prohibited person in possession of a f"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Camille L. Velez-Rive",
+          "judge_guid": "urn:entity:jud-100017923"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    }
+  ]
+}

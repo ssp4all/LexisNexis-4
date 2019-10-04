@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_198m25_innd",
+  "case_key": "1:98m25_innd",
+  "case_lni": "7WBN-DK60-Y892-B367-00000-00",
+  "case_number": "1:98m25",
+  "case_title": "USA v. Coleman",
+  "case_info_full_case_name": "USA v. Coleman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Coleman",
+  "case_date_filed": "1998-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CONTRELL L COLEMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 21:846-(1) (2) (3)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 21:846-(1) conspiracy to manufacture a Sched II controlled substance, cocaine base, crack (2) manufacturing a Sched II controlled substance, cocaine base, crack (3) possession w/intent to distribute Sched II controlled substance, cocaine base, crack"
+        },
+        {
+          "charge_disposition": "Bound over to District Court for further proceedings (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Roger B. Cosbey",
+          "judge_guid": "urn:entity:jud-100049591"
+        }
+      ]
+    }
+  ]
+}

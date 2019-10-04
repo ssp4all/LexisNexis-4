@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_713cr210_TXWD",
+  "case_key": "7:13cr210_TXWD",
+  "case_lni": "58S1-R1V1-DXDT-G0Y0-00000-00",
+  "case_number": "7:13cr210",
+  "case_title": "USA v. Deaton",
+  "case_info_full_case_name": "USA v. Deaton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Deaton",
+  "case_date_filed": "2013-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Justin Brent Deaton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A.F - ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO - Defendant did knowingly possess material that contained images of child pornography that involved a  minor who had not attained 12 years of age that had been mailed, shipped or transported using any means or facility of interstate and foreign commerce, or in and affecting interstate and foreign commerce, or was produced using materials which had been mailed, shipped or transported in or affecting interstate and foreign commerce, by any means, including by  computer. In violation of Title 18, United States Code, Sections 2252A(a)(5)(B) and 2252A (b)(2).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252.F Possession of Child Pornography"
+        },
+        {
+          "charge_offence_description": "18:2252.F Possession of Child Pornography"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

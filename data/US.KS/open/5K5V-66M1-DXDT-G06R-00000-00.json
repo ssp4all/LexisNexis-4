@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_216cr20068_KSD",
+  "case_key": "2:16cr20068_KSD",
+  "case_lni": "5K5V-66M1-DXDT-G06R-00000-00",
+  "case_number": "2:16cr20068",
+  "case_title": "USA v. Garcia-Jaimes",
+  "case_info_full_case_name": "USA v. Garcia-Jaimes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Jaimes",
+  "case_date_filed": "2016-07-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jabari B. Wamble",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Santos Garcia-Jaimes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)and (b)(2) - Reentry of a deported alien. (INDICTMENT FILED 7/6/16).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(2) - Illegal Re-Entry (COMPLAINT FILED 6/27/2016)"
+        },
+        {
+          "charge_offence_description": "8:1326(a) and (b)(2) - Illegal Re-Entry (COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Carlos Murguia",
+          "judge_guid": "urn:entity:jud-100015503"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Waxse",
+          "judge_guid": "urn:entity:jud-100023227"
+        }
+      ]
+    }
+  ]
+}

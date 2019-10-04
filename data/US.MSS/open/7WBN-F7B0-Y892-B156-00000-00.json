@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_199cr34_mssd",
+  "case_key": "1:99cr34_mssd",
+  "case_lni": "7WBN-F7B0-Y892-B156-00000-00",
+  "case_number": "1:99cr34",
+  "case_title": "USA v. Buckley",
+  "case_info_full_case_name": "USA v. Buckley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Buckley",
+  "case_date_filed": "1999-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THOMAS E. BUCKLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:152.F"
+        },
+        {
+          "charge_description": "18:152.F CONCEAL ASSETS, FALSE OATH AND CLAIMS BRIBERY (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408.M"
+        },
+        {
+          "charge_description": "42:408.M FALSE STATEMENTS/REPRESENTATION-PENALTY (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_310po153_INSD",
+  "case_key": "3:10po153_INSD",
+  "case_lni": "513D-37D1-DXDT-G06R-00000-00",
+  "case_number": "3:10po153",
+  "case_title": "USA v. WILSON",
+  "case_info_full_case_name": "USA v. WILSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "WILSON",
+  "case_date_filed": "2010-09-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradley Paul Shepard",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KRISTOPHER C. WILSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.P"
+        },
+        {
+          "charge_description": "18:13-7220.P &;nbsp; TRAFFIC OFFENSES, OTHER, EXPRIED REGISTRATION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Craig M. McKee",
+          "judge_guid": "urn:entity:jud-100094765"
+        }
+      ]
+    }
+  ]
+}

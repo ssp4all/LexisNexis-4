@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_316po461_CASD",
+  "case_key": "3:16po461_CASD",
+  "case_lni": "5J53-0RW1-DXDT-G37C-00000-00",
+  "case_number": "3:16po461",
+  "case_title": "USA vs Longmire",
+  "case_info_full_case_name": "USA vs Longmire",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Longmire",
+  "case_date_filed": "2016-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Cindy J Longmire",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Registration required. (3161097)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_103m412_nysd",
+  "case_key": "1:03m412_nysd",
+  "case_lni": "7WBN-PMR0-Y892-B25K-00000-00",
+  "case_number": "1:03m412",
+  "case_title": "USA v. Vernon",
+  "case_info_full_case_name": "USA v. Vernon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vernon",
+  "case_date_filed": "2003-02-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David L. Jaffe",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALONZO VERNON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT in violation of 21 U.S.C. 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

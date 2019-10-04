@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_112po14330_MDD",
+  "case_key": "1:12po14330_MDD",
+  "case_lni": "56WR-5NR1-DXDT-G3J4-00000-00",
+  "case_number": "1:12po14330",
+  "case_title": "USA vs Garonzik",
+  "case_info_full_case_name": "USA vs Garonzik",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garonzik",
+  "case_date_filed": "2012-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Meade",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michelle D Garonzik",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING ON PROTECTED PROPERTY W/O AUTHORIZATION, PERMIT, POSTED SIGNS, IMPEDES (3611307)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "C. Bruce Anderson",
+          "judge_guid": "urn:entity:jud-100103853"
+        }
+      ]
+    }
+  ]
+}

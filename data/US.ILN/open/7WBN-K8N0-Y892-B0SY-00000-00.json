@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_199cr300_ilnd",
+  "case_key": "1:99cr300_ilnd",
+  "case_lni": "7WBN-K8N0-Y892-B0SY-00000-00",
+  "case_number": "1:99cr300",
+  "case_title": "USA v. Carey",
+  "case_info_full_case_name": "USA v. Carey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carey",
+  "case_date_filed": "1999-04-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT CAREY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1703A.F"
+        },
+        {
+          "charge_description": "18:1703A.F DELAY OR DESTRUCTION OF MAIL OR NEWSPAPER (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1703A.F"
+        },
+        {
+          "charge_description": "18:1703A.F DELAY OR DESTRUCTION OF MAIL OR NEWSPAPER (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1703(a)"
+        },
+        {
+          "charge_description": "18:1703(a) Delay or destruction of mail"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Elaine E. Bucklo",
+          "judge_guid": "urn:entity:jud-100063865"
+        }
+      ]
+    }
+  ]
+}

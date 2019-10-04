@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_511cr262_NCED",
+  "case_key": "5:11cr262_NCED",
+  "case_lni": "53RR-75N1-DXDT-G2MJ-00000-00",
+  "case_number": "5:11cr262",
+  "case_title": "USA v. Harrelson",
+  "case_info_full_case_name": "USA v. Harrelson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harrelson",
+  "case_date_filed": "2011-09-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dominic Debson Harrelson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of a firearm and ammunition by a felon (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession with intent to distribute a quantity of marijuana, a Schedule VI controlled substance (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession of a firearm in furtherance of a drug trafficking crime (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

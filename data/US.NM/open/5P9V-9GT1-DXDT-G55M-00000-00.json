@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_217cr2232_NMD",
+  "case_key": "2:17cr2232_NMD",
+  "case_lni": "5P9V-9GT1-DXDT-G55M-00000-00",
+  "case_number": "2:17cr2232",
+  "case_title": "USA v. Gill-Castillo",
+  "case_info_full_case_name": "USA v. Gill-Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gill-Castillo",
+  "case_date_filed": "2017-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bernardino Gill-Castillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and (b) RE-ENTRY OF A REMOVED ALIEN(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

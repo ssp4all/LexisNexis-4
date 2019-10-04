@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_305cr5334_WAWD",
+  "case_key": "3:05cr5334_WAWD",
+  "case_lni": "7WBN-RR30-Y892-B050-00000-00",
+  "case_number": "3:05cr5334",
+  "case_title": "USA v. Arrott",
+  "case_info_full_case_name": "USA v. Arrott",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arrott",
+  "case_date_filed": "2005-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor Ft Lewis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Arrott",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "J. Kelley Arnold",
+          "judge_guid": "urn:entity:jud-100074208"
+        }
+      ]
+    }
+  ]
+}

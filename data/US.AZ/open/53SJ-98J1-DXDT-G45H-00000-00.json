@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411mj4081_AZD",
+  "case_key": "4:11mj4081_AZD",
+  "case_lni": "53SJ-98J1-DXDT-G45H-00000-00",
+  "case_number": "4:11mj4081",
+  "case_title": "USA v. Lopez-Zunun",
+  "case_info_full_case_name": "USA v. Lopez-Zunun",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Zunun",
+  "case_date_filed": "2011-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Marino Lopez-Zunun",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a), 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a), enhanced by 8:1326(b)(2) Re-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

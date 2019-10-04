@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_196cr197_nynd",
+  "case_key": "1:96cr197_nynd",
+  "case_lni": "7WBN-DJR0-Y892-B4BR-00000-00",
+  "case_number": "1:96cr197",
+  "case_title": "USA v. Frese",
+  "case_info_full_case_name": "USA v. Frese",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Frese",
+  "case_date_filed": "1996-06-25",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES FRESE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS (1)"
+        },
+        {
+          "charge_disposition": "Term of Probation of 4 Years w/condition not to possess any firearms; Special conditions that Deft be placed in a halfway house for a period of 6 Months; shall participate in a substance abuse treatment program and Deft shall allow the US Probation Office access to and/or provide full financial disclosure. Total Special Assessment $50. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "T21USCSec 846,"
+        },
+        {
+          "charge_description": "Viol. of T21 USC Sec 846, did conspire with others to distribute and to possess w/intent to distribute cocaine [1:96-m-309]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Thomas J. McAvoy",
+          "judge_guid": "urn:entity:jud-100028568"
+        }
+      ]
+    }
+  ]
+}

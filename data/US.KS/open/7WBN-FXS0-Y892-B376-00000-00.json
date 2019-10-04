@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_604mj6013_ksd",
+  "case_key": "6:04mj6013_ksd",
+  "case_lni": "7WBN-FXS0-Y892-B376-00000-00",
+  "case_number": "6:04mj6013",
+  "case_title": "USA v. Ramos-Ramirez",
+  "case_info_full_case_name": "USA v. Ramos-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos-Ramirez",
+  "case_date_filed": "2004-02-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "D. Blair Watson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Erik Francisco Ramos-Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with intent to distribute methamphetamine (COMPLAINT FILED 2/6/04)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen M. Humphreys",
+          "judge_guid": "urn:entity:jud-100050935"
+        }
+      ]
+    }
+  ]
+}

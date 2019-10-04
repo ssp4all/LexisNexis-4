@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_405cr446_MOWD",
+  "case_key": "4:05cr446_MOWD",
+  "case_lni": "7WBN-HKR0-Y892-B3W5-00000-00",
+  "case_number": "4:05cr446",
+  "case_title": "USA v. Sartin",
+  "case_info_full_case_name": "USA v. Sartin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sartin",
+  "case_date_filed": "2005-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Curtis Dwayne Sartin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "DPMS,.233 AR-15 26979, B,.22 56116,"
+        },
+        {
+          "charge_description": "Defendant did knowingly possess a firearm, to wit: a DPMS,.233 caliber AR-15 assault rifle, serial number 26979, and a High Standard, Model B,.22 caliber semi-automatic handgun, serial number 56116, which had been transported in interstate commerce in violation of Title 18, USC"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief District Judge",
+          "judge_name": "Dean Whipple",
+          "judge_guid": "urn:entity:jud-100067879"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert E. Larsen",
+          "judge_guid": "urn:entity:jud-100035550"
+        }
+      ]
+    }
+  ]
+}

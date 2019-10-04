@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_310mj3124_TXWD",
+  "case_key": "3:10mj3124_TXWD",
+  "case_lni": "7YSC-N7D0-Y892-B3TW-00000-00",
+  "case_number": "3:10mj3124",
+  "case_title": "USA v. VALDEZ-VICENCIO",
+  "case_info_full_case_name": "USA v. VALDEZ-VICENCIO",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "VALDEZ-VICENCIO",
+  "case_date_filed": "2010-05-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "APOLONIO VALDEZ-VICENCIO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P-CONCEALMENT"
+        },
+        {
+          "charge_description": "8:1325.P-CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

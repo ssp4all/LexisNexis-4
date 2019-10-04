@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_204m574_TXSD",
+  "case_key": "2:04m574_TXSD",
+  "case_lni": "7WBN-KM70-Y892-B4PG-00000-00",
+  "case_number": "2:04m574",
+  "case_title": "USA v. Fuentes, et al",
+  "case_info_full_case_name": "USA v. Fuentes, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fuentes, et al",
+  "case_date_filed": "2004-08-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SONIA MARIA DE OLVEIRA",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    },
+    {
+      "party_name": "ROSANGELA PEREIRA LIMA",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    },
+    {
+      "party_name": "SERGIO FUENTES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Did knowingly or in a reckless disregard of the fact that aliens had come to, entered, or remained in the United States in violation of law, transported, moved or attempted to transport or move such aliens within the United States by means of transportation or otherwise, in violation of 8 USC 1324."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    },
+    {
+      "party_name": "JORGE LUIS GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Did knowingly or in a reckless disregard of the fact that aliens had come to, entered, or remained in the United States in violation of law, transported, moved or attempted to transport or move such aliens within the United States by means of transportation or otherwise, in violation of 8 USC 1324."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    }
+  ]
+}

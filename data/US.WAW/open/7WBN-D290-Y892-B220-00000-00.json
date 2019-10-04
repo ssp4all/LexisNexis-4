@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_202cr404_wawd",
+  "case_key": "2:02cr404_wawd",
+  "case_lni": "7WBN-D290-Y892-B220-00000-00",
+  "case_number": "2:02cr404",
+  "case_title": "USA v. Paulson",
+  "case_info_full_case_name": "USA v. Paulson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Paulson",
+  "case_date_filed": "2002-11-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GARY JOHN WILLIAM PAULSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas S Zilly",
+          "judge_guid": "urn:entity:jud-100016407"
+        }
+      ]
+    }
+  ]
+}

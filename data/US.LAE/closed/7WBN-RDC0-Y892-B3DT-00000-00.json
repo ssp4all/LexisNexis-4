@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_292cr129_laed",
+  "case_key": "2:92cr129_laed",
+  "case_lni": "7WBN-RDC0-Y892-B3DT-00000-00",
+  "case_number": "2:92cr129",
+  "case_title": "USA v. Strickland",
+  "case_info_full_case_name": "USA v. Strickland",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Strickland",
+  "case_date_filed": "1992-03-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "REGINALD D STRICKLAND",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Peter Beer",
+          "judge_guid": "urn:entity:jud-100069313"
+        }
+      ]
+    }
+  ]
+}

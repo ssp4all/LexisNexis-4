@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_407mj5623_AZD",
+  "case_key": "4:07mj5623_AZD",
+  "case_lni": "7WBN-NGY0-Y892-B3J7-00000-00",
+  "case_number": "4:07mj5623",
+  "case_title": "USA v. Arroyo-Salinas",
+  "case_info_full_case_name": "USA v. Arroyo-Salinas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arroyo-Salinas",
+  "case_date_filed": "2007-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Angela W Woolridge",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Arroyo-Salinas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326 enhanced by 8:1326(b)(2) Illegal re-Entry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

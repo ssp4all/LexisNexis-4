@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_217cr15_VAED",
+  "case_key": "2:17cr15_VAED",
+  "case_lni": "5MV4-WY61-DXDT-G4PV-00000-00",
+  "case_number": "2:17cr15",
+  "case_title": "USA v. Webb",
+  "case_info_full_case_name": "USA v. Webb",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Webb",
+  "case_date_filed": "2017-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John F. Butler",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Benjamin Webb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "T.18:922(g)(2), 924(a)(2) and 2 - Fugitive from Justice in Possession of Firearms and Ammunition(2)"
+        },
+        {
+          "charge_disposition": "Imprisonment: Ninety-Six (96) Months; Supervised Release: Three (3) Years; Special Assessment: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "T.18:922(g)(1), 924(a)(2) and 2 - Convicted Felon in Possession of Firearms and Ammunition / Criminal Forfeiture T.21:853(p), T.18:924(d), 982(a)(2) and 1028(b)(5) and T.28:2461(1)"
+        },
+        {
+          "charge_disposition": "Dismissed Upon Motion of the Government, at Sentencing."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "T.18:922(k), 924(a)(1)(B) and 2 - Possession of a Firearm with Obliterated Serial Number(3)"
+        },
+        {
+          "charge_disposition": "Dismissed Upon Motion of the Government, at Sentencing."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "T.18:1028(a)(3) and (b)(6) - Unlawful Possession of Five or More Identification Documents(4)"
+        },
+        {
+          "charge_disposition": "Dismissed Upon Motion of the Government, at Sentencing."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "T.18:922(g)(1) - Felon in Possession of a Firearm"
+        },
+        {
+          "charge_offence_description": "T.18:922(g)(1) - Felon in Possession of a Firearm"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Raymond A. Jackson",
+          "judge_guid": "urn:entity:jud-100033530"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

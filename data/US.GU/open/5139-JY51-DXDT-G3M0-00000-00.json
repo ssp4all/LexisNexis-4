@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GU_104cr18_GUD",
+  "case_key": "1:04cr18_GUD",
+  "case_lni": "5139-JY51-DXDT-G3M0-00000-00",
+  "case_number": "1:04cr18",
+  "case_title": "USA v. Wu",
+  "case_info_full_case_name": "USA v. Wu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wu",
+  "case_date_filed": "2004-04-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shou Hua Wu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MISUSE OF A PASSPORT(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to time served (139 days)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "John S. Unpingco",
+          "judge_guid": "urn:entity:jud-100095017"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411mj7321_AZD",
+  "case_key": "4:11mj7321_AZD",
+  "case_lni": "546M-9R81-DXDT-G255-00000-00",
+  "case_number": "4:11mj7321",
+  "case_title": "USA v. Luquin-Estavillo",
+  "case_info_full_case_name": "USA v. Luquin-Estavillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Luquin-Estavillo",
+  "case_date_filed": "2011-11-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Martin Alejandro Luquin-Estavillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1791 (a)(2)and (d)(1)(D)"
+        },
+        {
+          "charge_description": "18:1791 (a)(2)and (d)(1)(D) Possession of a Prohibited Object in Prison"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

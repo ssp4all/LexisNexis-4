@@ -1,0 +1,143 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_396cr172_prd",
+  "case_key": "3:96cr172_prd",
+  "case_lni": "7WBN-N450-Y892-B42X-00000-00",
+  "case_number": "3:96cr172",
+  "case_title": "USA v. Mateo-Sanchez et al",
+  "case_info_full_case_name": "USA v. Mateo-Sanchez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mateo-Sanchez et al",
+  "case_date_filed": "1996-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Guillermo A. Gil-Bonar",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Miguel Mateo-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "IMPR for a term of 292 mos. SRT of 5 yrs. SMA of $100.00; Pursuant to Amendment 782 sentence reduced to IMPR- 235 MONTHS; SRT- 5 YEARS; SMA- $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Carmen C. Cerezo",
+          "judge_guid": "urn:entity:jud-100066260"
+        }
+      ]
+    },
+    {
+      "party_name": "Carlos Julio Cipriano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "IMPR for a term of 292 mos. SRT of 5 yrs. SMA of $100.00; Pursuant to Amendment 782, sentence reduced to: IMPR- 235 MONTHS; SRT- 5 YEARS"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Carmen C. Cerezo",
+          "judge_guid": "urn:entity:jud-100066260"
+        }
+      ]
+    },
+    {
+      "party_name": "Victor Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "IMPR for a term of 292 mos. SRT of 5 yrs. SMA of $100.00. ORDER PURSUANT TO AMENDMENT 782: Sentence is reduced to 235 months."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Carmen C. Cerezo",
+          "judge_guid": "urn:entity:jud-100066260"
+        }
+      ]
+    },
+    {
+      "party_name": "Santos De-Aza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "IMPR for a term of 292 mos. SRT of 5 yrs. SMA of $100.00. ORDER PURSUANT TO AMENDMENT 782: Sentence is reduced to 235 months. All other terms and conditions remain as previously imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Carmen C. Cerezo",
+          "judge_guid": "urn:entity:jud-100066260"
+        }
+      ]
+    },
+    {
+      "party_name": "Rafael Perez-Cabrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "IMPR for a term of 151 mos. SRT of 5 yrs. SMA of $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Carmen C. Cerezo",
+          "judge_guid": "urn:entity:jud-100066260"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation Officer",
+      "party_description": "Interested Party"
+    }
+  ]
+}

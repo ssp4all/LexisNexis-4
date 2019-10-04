@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318po315_CASD",
+  "case_key": "3:18po315_CASD",
+  "case_lni": "5RJ2-HPH1-DXDT-G156-00000-00",
+  "case_number": "3:18po315",
+  "case_title": "USA vs Snyder",
+  "case_info_full_case_name": "USA vs Snyder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Snyder",
+  "case_date_filed": "2018-01-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Shannon W Snyder",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violation of basic speed law (7079524)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William V. Gallo",
+          "judge_guid": "urn:entity:jud-100045796"
+        }
+      ]
+    }
+  ]
+}

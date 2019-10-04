@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_215mj326_VAED",
+  "case_key": "2:15mj326_VAED",
+  "case_lni": "5G4C-5X01-DXDT-G3YS-00000-00",
+  "case_number": "2:15mj326",
+  "case_title": "USA v. Boatner",
+  "case_info_full_case_name": "USA v. Boatner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Boatner",
+  "case_date_filed": "2015-06-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Nicholas D Linstroth",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kendal M.A. Boatner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING UNDER THE INFLUENCE OF ALCOHOL 2ND OFFENSE WITHIN 5 YEARS - 18 USC, 7&;13, assim. Code of Va., Section 18.2-266 and 18.2-270(1)"
+        },
+        {
+          "charge_disposition": "$500 fine; $25 special assessment; 22 consecutive days in jail, to report 10/22/15 by 10:00 a.m., with credit for time served"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "DRIVING WITH SUSPENDED LICENSE -  18 USC, 7&;13, assim. Code of Va., Section46.2-301(2)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on Govt motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "DRIVING IN VIOLATION OF RESTRICTED LICENSE -18 USC, 7&;13, assim. Code of Va., Section 18.2-272(3)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on Govt motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

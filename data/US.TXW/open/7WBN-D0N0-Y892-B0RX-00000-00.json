@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_502m323_txwd",
+  "case_key": "5:02m323_txwd",
+  "case_lni": "7WBN-D0N0-Y892-B0RX-00000-00",
+  "case_number": "5:02m323",
+  "case_title": "USA v. Hernandez-Cervantes",
+  "case_info_full_case_name": "USA v. Hernandez-Cervantes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Cervantes",
+  "case_date_filed": "2002-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GUILLERMO HERNANDEZ-CERVANTES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Re-entry after deportation, in violation of 8 USC 1326"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "John W. Primomo",
+          "judge_guid": "urn:entity:jud-100071867"
+        }
+      ]
+    }
+  ]
+}

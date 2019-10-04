@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_109cr233_ALSD",
+  "case_key": "1:09cr233_ALSD",
+  "case_lni": "7X1N-S380-Y892-B0VV-00000-00",
+  "case_number": "1:09cr233",
+  "case_title": "USA v. Webb",
+  "case_info_full_case_name": "USA v. Webb",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Webb",
+  "case_date_filed": "2009-10-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gary Lee Webb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION OF CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_disposition": "Defendant was sentenced to the custody of the Bureau of Prisons for a term of 84 months, as to each of Counts 1, 2 and 3; said terms to run concurrently w/special conditions. SRT Life, as to each of Counts 1, 2 and 3; said terms to run concurrently with special conditions. No fine imposed. SA $300.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "RECEIPT/DISTRIBUTION OF CHILD PORNOGRAPHY(2-3)"
+        },
+        {
+          "charge_disposition": "Defendant was sentenced to the custody of the Bureau of Prisons for a term of 84 months, as to each of Counts 1, 2 and 3; said terms to run concurrently w/special conditions. SRT Life, as to each of Counts 1, 2 and 3; said terms to run concurrently with special conditions. No fine imposed. SA $300.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CRIMINAL FORFEITURE IN VIOLATION OF EXPLOITATION OF MINORS(4)"
+        },
+        {
+          "charge_disposition": "Consented"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kristi K. DuBose",
+          "judge_guid": "urn:entity:jud-100066256"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bert W. Milling, Jr",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    }
+  ]
+}

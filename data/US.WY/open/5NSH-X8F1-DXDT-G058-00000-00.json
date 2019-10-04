@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_317po334_WYD",
+  "case_key": "3:17po334_WYD",
+  "case_lni": "5NSH-X8F1-DXDT-G058-00000-00",
+  "case_number": "3:17po334",
+  "case_title": "USA v. Molinet",
+  "case_info_full_case_name": "USA v. Molinet",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Molinet",
+  "case_date_filed": "2017-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Camden Neil Molinet",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of a controlled substance (marijuana) (6569257)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

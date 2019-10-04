@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_515cr1277_TXSD",
+  "case_key": "5:15cr1277_TXSD",
+  "case_lni": "5H7N-FG21-DXDT-G12V-00000-00",
+  "case_number": "5:15cr1277",
+  "case_title": "USA v. Hernandez Benavides",
+  "case_info_full_case_name": "USA v. Hernandez Benavides",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez Benavides",
+  "case_date_filed": "2015-10-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-LA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Karen Irene Hernandez-Benavides",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSES WITH INTENT TO DISTRIBUTE METHAMPHETAMINE OR A MIXTURE AND SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF METHAMPHETAMINE.    Penalty:   0 to 20 Yrs  and/or $1 Million Fine; $100 CVF; At Least a 3 Yr TSR.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESS WITH INTENT TO DISTRIBUTE METHAMPHETAMINE OR A MIXTURE AND SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF METHAMPHETAMINE.  Penalty: 0 to 20 Yrs and/or $1 Million Fine; $100 CVF; At Least a 3 Yr TSR.(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21: 841(a)(1), 846, &; 952  Knowingly, willfully, and unlawfully import from a place outside the United States to wit the Republic of Mexico to a place in the U.S. to wit a controlled substance approximately 29.62  kilograms of crystal methamphetamine.  Knowingly, intentionally possess with the intent to distribute the above mentioned controlled substance. Furthermore, conspire to possess with intent to distribute."
+        },
+        {
+          "charge_offence_description": "21: 841(a)(1), 846, & 952  Knowingly, willfully, a"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

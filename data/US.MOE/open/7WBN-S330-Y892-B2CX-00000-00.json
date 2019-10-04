@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_405cr143_MOED",
+  "case_key": "4:05cr143_MOED",
+  "case_lni": "7WBN-S330-Y892-B2CX-00000-00",
+  "case_number": "4:05cr143",
+  "case_title": "USA v. Speaks",
+  "case_info_full_case_name": "USA v. Speaks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Speaks",
+  "case_date_filed": "2005-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joel D. Speaks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DUI (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "David D. Noce",
+          "judge_guid": "urn:entity:jud-100027370"
+        }
+      ]
+    }
+  ]
+}

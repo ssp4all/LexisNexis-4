@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_214cr1144_TXWD",
+  "case_key": "2:14cr1144_TXWD",
+  "case_lni": "5CVH-VDV1-DXDT-G11V-00000-00",
+  "case_number": "2:14cr1144",
+  "case_title": "USA v. Burrola",
+  "case_info_full_case_name": "USA v. Burrola",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Burrola",
+  "case_date_filed": "2014-08-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Francisco Burrola",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-9150.M NATIONAL PARK/RECREATION VIOLATIONS -  Vio: 36 C.F.R. § 4.23(a) and 1.3 - Driving Under the Influence of Alcohol in a National Park(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "36 CFR 4.23(a)(2) Driving Under the Influence of Alcohol:.08 or Greater B.A.C.; 36 CFR 4.2(b):TRC 545.401 Reckless Driving; 36 CFR 4.2(b): TRC 521.457 Driving with License Invalid"
+        },
+        {
+          "charge_offence_description": "36 CFR 4.23(a)(2) Driving Under the Influence of A"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Collis White",
+          "judge_guid": "urn:entity:jud-100022858"
+        }
+      ]
+    }
+  ]
+}

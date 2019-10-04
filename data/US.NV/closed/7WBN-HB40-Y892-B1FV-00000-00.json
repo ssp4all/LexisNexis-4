@@ -1,0 +1,172 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_308cr98_NVD",
+  "case_key": "3:08cr98_NVD",
+  "case_lni": "7WBN-HB40-Y892-B1FV-00000-00",
+  "case_number": "3:08cr98",
+  "case_title": "USA v. York et al",
+  "case_info_full_case_name": "USA v. York et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "York et al",
+  "case_date_filed": "2008-10-08",
+  "case_status": "Closed",
+  "case_status_date": "07/17/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sue Fahami",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "William R Reed",
+      "attorney_label": "LEAD ATTORNEY"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kenneth York",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy(1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "False Statement in Connection with Firearm Purchase, and 18:924(a)(2); and 18:2(2-10)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert C. Jones",
+          "judge_guid": "urn:entity:jud-100032987"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Valerie P. Cooke",
+          "judge_guid": "urn:entity:jud-100020874"
+        }
+      ]
+    },
+    {
+      "party_name": "Elene Tobie Lamb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy(1)"
+        },
+        {
+          "charge_disposition": "dismissed on govt motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "False Statement in Connection with Firearm Purchase, and 18:924(a)(2); and 18:2(2)"
+        },
+        {
+          "charge_disposition": "dismissed on govt motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "False Statement in Connection with Firearm Purchase, and 18:924(a)(2); and 18:2(3)"
+        },
+        {
+          "charge_disposition": "5 years probation; $100 assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "False Statement in Connection with Firearm Purchase, and 18:924(a)(2); and 18:2(4-8)"
+        },
+        {
+          "charge_disposition": "dismissed on govt motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert C. Jones",
+          "judge_guid": "urn:entity:jud-100032987"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Valerie P. Cooke",
+          "judge_guid": "urn:entity:jud-100020874"
+        }
+      ]
+    },
+    {
+      "party_name": "Penney Morales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "False Statement in Connection with Firearm Purchase, and 18:924(a)(2); and 18:2(9)"
+        },
+        {
+          "charge_disposition": "Pled guilty to Count Nine of the Indictment filed 10/8/2009 : 5 months custody USBOP; The court recommends incarceration at FCI, Dublin, CA.; D shall surrender before 12:00 p.m. on September 28, 2009; 2 years supervised release; Standard and Special conditions of supervision include 5 months home confinement with electronic monitoring, and substance abuse treatment; $100.00 Assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Conspiracy(1)"
+        },
+        {
+          "charge_disposition": "Count One Dismissed on govt motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "False Statement in Connection with Firearm Purchase, and 18:924(a)(2); and 18:2(10)"
+        },
+        {
+          "charge_disposition": "Count Ten dismissed on govt motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert C. Jones",
+          "judge_guid": "urn:entity:jud-100032987"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Valerie P. Cooke",
+          "judge_guid": "urn:entity:jud-100020874"
+        }
+      ]
+    }
+  ]
+}

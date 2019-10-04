@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_208cr614_NMD",
+  "case_key": "2:08cr614_NMD",
+  "case_lni": "7WBN-KYD0-Y892-B4X7-00000-00",
+  "case_number": "2:08cr614",
+  "case_title": "USA v. Ortiz-Torres",
+  "case_info_full_case_name": "USA v. Ortiz-Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortiz-Torres",
+  "case_date_filed": "2008-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ignacio Ortiz-Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1) &;(a)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1) &;(a)(2) Re-entry of a Removed Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

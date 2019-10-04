@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_103cr189_nysd",
+  "case_key": "1:03cr189_nysd",
+  "case_lni": "7WBN-JFF0-Y892-B2GJ-00000-00",
+  "case_number": "1:03cr189",
+  "case_title": "USA v. James",
+  "case_info_full_case_name": "USA v. James",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "James",
+  "case_date_filed": "2003-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARIONN JAMES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (CONSPIRACY TO COMMIT FRAUD AND THEFT OF PUBLIC MONIES) (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F PUBLIC MONEY, PROPERTY OR RECORDS (THEFT OF PUBLIC MONIES) (3-5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC371"
+        },
+        {
+          "charge_description": "COMPLAINT in violation of 18 U.S.C. 371 [1:03-m-104]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Harold Baer, Jr.",
+          "judge_guid": "urn:entity:jud-100069969"
+        }
+      ]
+    }
+  ]
+}

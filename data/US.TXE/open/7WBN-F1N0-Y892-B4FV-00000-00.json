@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_102m202_txed",
+  "case_key": "1:02m202_txed",
+  "case_lni": "7WBN-F1N0-Y892-B4FV-00000-00",
+  "case_number": "1:02m202",
+  "case_title": "USA v. Guzobad-Mendoza, et al",
+  "case_info_full_case_name": "USA v. Guzobad-Mendoza, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guzobad-Mendoza, et al",
+  "case_date_filed": "2002-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PABLO GUZOBAD-MENDOZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Identity theft, Credit Card Fraud, Aiding and Abetting, Illegal Re-entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Wendell C. Radford",
+          "judge_guid": "urn:entity:jud-100034387"
+        }
+      ]
+    },
+    {
+      "party_name": "JACOBO RUBENSTEIN-CHAVEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028, 1029 2; 09:1326"
+        },
+        {
+          "charge_description": "18:1028, 1029 &; 2; 09:1326 Identity Theft, Credit Card Fraud, Aiding and Abetting, Illegal Re-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Wendell C. Radford",
+          "judge_guid": "urn:entity:jud-100034387"
+        }
+      ]
+    },
+    {
+      "party_name": "ALI OMAR AQUINO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028, 1029 2"
+        },
+        {
+          "charge_description": "18:1028, 1029 &; 2 Identity Theft, Credit Card Fraud, Aiding and Abetting"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Wendell C. Radford",
+          "judge_guid": "urn:entity:jud-100034387"
+        }
+      ]
+    }
+  ]
+}

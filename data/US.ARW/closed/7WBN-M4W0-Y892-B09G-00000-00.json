@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_292cr20004_arwd",
+  "case_key": "2:92cr20004_arwd",
+  "case_lni": "7WBN-M4W0-Y892-B09G-00000-00",
+  "case_number": "2:92cr20004",
+  "case_title": "USA v. Farkas, et al",
+  "case_info_full_case_name": "USA v. Farkas, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Farkas, et al",
+  "case_date_filed": "1992-02-27",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LINDA ANN FARKAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1702 18:2"
+        },
+        {
+          "charge_description": "18:1702 &; 18:2 LARCENY &; THEFT, POSTAL (Obstruction of mail matter, aiding and abetting) (1)"
+        },
+        {
+          "charge_disposition": "Three (3) years supervised probation; $250.00 fine; $304.00 restitution; $50.00 special assessment (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:510(a)(1) 18:2"
+        },
+        {
+          "charge_description": "18:510(a)(1) &; 18:2 FORGERY, OTHER U. S. (Forgery, aiding and abetting) (2)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of U. S. Attorney (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jimm Larry Hendren",
+          "judge_guid": "urn:entity:jud-100034717"
+        }
+      ]
+    },
+    {
+      "party_name": "RANDALL LANE METCALF",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1702 18:2"
+        },
+        {
+          "charge_description": "18:1702 &; 18:2 LARCENY &; THEFT, POSTAL (Obstruction of mail matter, aiding and abetting) (1)"
+        },
+        {
+          "charge_disposition": "Dft continued on probationunder same terms &; conditions heretofore imposed (Three (3) years supervised probation; $250.00 fine; $304.03 restitution; $50.00 special assessment) with added special conditions: dft to pay balance owed on fine before 3/20/95; dft to report monthly in person to USPO; period of probation extended through 7/1/96 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:510(a)(1) 18:2"
+        },
+        {
+          "charge_description": "18:510(a)(1) &; 18:2 FORGERY, OTHER U. S. (Forgery, aiding and abetting) (2)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of U. S. Attorney (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jimm Larry Hendren",
+          "judge_guid": "urn:entity:jud-100034717"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_701m9_txwd",
+  "case_key": "7:01m9_txwd",
+  "case_lni": "7WBN-P820-Y892-B2C6-00000-00",
+  "case_number": "7:01m9",
+  "case_title": "USA v. Ramos, et al",
+  "case_info_full_case_name": "USA v. Ramos, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos, et al",
+  "case_date_filed": "2001-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE CRUZ RAMOS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "27, 2001 21USC841(a)"
+        },
+        {
+          "charge_description": "On or about January 27, 2001 in Midland County, in the Western District of Texas, defendant, aided and abetted by another, did possess with intent to distribute a quantity of marijuana in violation of Title 21, U.S.C., Section 841(a) and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "L. Stuart Platt",
+          "judge_guid": "urn:entity:jud-100024402"
+        }
+      ]
+    },
+    {
+      "party_name": "BOBBY JOE KLEPPER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "27, 2001 21USC841(a)"
+        },
+        {
+          "charge_description": "On or about January 27, 2001 in Midland County, in the Western District of Texas, defendant, aided and abetted by another, did possess with intent to distribute a quantity of marijuana in violation of Title 21, U.S.C., Section 841(a) and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "L. Stuart Platt",
+          "judge_guid": "urn:entity:jud-100024402"
+        }
+      ]
+    }
+  ]
+}

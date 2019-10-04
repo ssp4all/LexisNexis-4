@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_518mj23_GAMD",
+  "case_key": "5:18mj23_GAMD",
+  "case_lni": "5RXH-V751-DXDT-G4WR-00000-00",
+  "case_number": "5:18mj23",
+  "case_title": "UNITED STATES OF AMERICA v. WILLIAMS",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. WILLIAMS",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "WILLIAMS",
+  "case_date_filed": "2018-03-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN ANTHONY WILLIAMS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) Convicted Felon in Possession of a Firearm"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) Convicted Felon in Possession of a Fi"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

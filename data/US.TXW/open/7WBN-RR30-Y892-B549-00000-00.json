@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_306cr1603_TXWD",
+  "case_key": "3:06cr1603_TXWD",
+  "case_lni": "7WBN-RR30-Y892-B549-00000-00",
+  "case_number": "3:06cr1603",
+  "case_title": "USA v. Martinez-Castro",
+  "case_info_full_case_name": "USA v. Martinez-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Castro",
+  "case_date_filed": "2006-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Milton Martinez-Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841-CONTROLLED"
+        },
+        {
+          "charge_description": "21:841-CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_disposition": "87 months imprisonment, 3 years term supervised release and $100.00 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable"
+        }
+      ]
+    }
+  ]
+}

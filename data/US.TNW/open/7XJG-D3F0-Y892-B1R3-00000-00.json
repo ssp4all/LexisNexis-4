@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_210cr20013_TNWD",
+  "case_key": "2:10cr20013_TNWD",
+  "case_lni": "7XJG-D3F0-Y892-B1R3-00000-00",
+  "case_number": "2:10cr20013",
+  "case_title": "USA v. Ables",
+  "case_info_full_case_name": "USA v. Ables",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ables",
+  "case_date_filed": "2010-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Scotty Lynn Ables",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2250(a)"
+        },
+        {
+          "charge_description": "18:2250(a) FAILURE TO REGISTER AS A SEX OFFENDER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Bernice B. Donald",
+          "judge_guid": "urn:entity:jud-100044421"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_100m3694_flsd",
+  "case_key": "1:00m3694_flsd",
+  "case_lni": "7WBN-F170-Y892-B2WN-00000-00",
+  "case_number": "1:00m3694",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2000-11-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TRAVIS WILLIAMS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Convicted Felon in Possession of a Firearm. 18:922(g)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Stephen T. Brown",
+          "judge_guid": "urn:entity:jud-100064031"
+        }
+      ]
+    }
+  ]
+}

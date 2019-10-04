@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_110mj485_TXWD",
+  "case_key": "1:10mj485_TXWD",
+  "case_lni": "7YS8-YBX0-Y892-B33N-00000-00",
+  "case_number": "1:10mj485",
+  "case_title": "USA v. Reyes-Aviles",
+  "case_info_full_case_name": "USA v. Reyes-Aviles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes-Aviles",
+  "case_date_filed": "2010-06-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Garth R. Backe",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Reynaldo Reyes-Aviles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F Illegal reentry of deported alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert Pitman",
+          "judge_guid": "urn:entity:jud-100032905"
+        }
+      ]
+    }
+  ]
+}

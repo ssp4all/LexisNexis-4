@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_503cr90_gamd",
+  "case_key": "5:03cr90_gamd",
+  "case_lni": "7WBN-HTV0-Y892-B4V4-00000-00",
+  "case_number": "5:03cr90",
+  "case_title": "USA v. Jenkins",
+  "case_info_full_case_name": "USA v. Jenkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jenkins",
+  "case_date_filed": "2003-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jonathan Haze Jenkins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:842(i)(1) &; 18:844(a)(1): SHIP OR TRANSPORT EXPLOSIVE MATERIAL INTERSTATE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 18 months, followed by 3 years supervised release. MAF $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Duross Fitzpatrick",
+          "judge_guid": "urn:entity:jud-100046425"
+        }
+      ]
+    }
+  ]
+}

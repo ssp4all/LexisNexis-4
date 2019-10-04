@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_312cr146_PRD",
+  "case_key": "3:12cr146_PRD",
+  "case_lni": "5537-WV81-DXDT-G0NB-00000-00",
+  "case_number": "3:12cr146",
+  "case_title": "USA v. Feliz",
+  "case_info_full_case_name": "USA v. Feliz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Feliz",
+  "case_date_filed": "2012-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Maria L. Montanez-Concepcion",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Manuel Feliz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(c) -- Violent Crime/Drugs/Machine Gun, 21:841(a)(1) -- Narcotics - Sell, Distribute, or Dispense"
+        },
+        {
+          "charge_offence_description": "18:924(c) -- Violent Crime/Drugs/Machine Gun, 21:8"
+        },
+        {
+          "charge_description": "18:924(c) POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME(1)"
+        },
+        {
+          "charge_disposition": "Impr of 60 months as to Ct. 1, and 27 months as to Ct. 2 to be served consecutively with each other for a total term of 87 months. SRT of 5 years as to Ct. 1, and 3 years as to Ct. 2 to be served concurrently with each other. SMA of $200. --AMENDED JUDGMENT: Impr Term: Sixty (60) months as to Count One, SRT: Three (3) years, SMA: $100.00. Count 2 is dismissed.--"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:481(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE CRACK(2)"
+        },
+        {
+          "charge_disposition": "Impr of 60 months as to Ct. 1, and 27 months as to Ct. 2 to be served consecutively with each other for a total term of 87 months . SRT of 5 years as to Ct. 1, and 3 years as to Ct. 2 to be served concurrently with each other. SMA of $200. --AMENDED JUDGMENT: Impr Term: Sixty (60) months as to Count One, SRT: Three (3) years, SMA: $100.00. Count 2 is dismissed.--"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jay A. Garcia-Gregory",
+          "judge_guid": "urn:entity:jud-100055074"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "US Pretrial",
+      "party_description": "Interested Party"
+    }
+  ]
+}

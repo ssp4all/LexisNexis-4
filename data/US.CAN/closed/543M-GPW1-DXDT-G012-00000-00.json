@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_511cr783_CAND",
+  "case_key": "5:11cr783_CAND",
+  "case_lni": "543M-GPW1-DXDT-G012-00000-00",
+  "case_number": "5:11cr783",
+  "case_title": "USA v. Blanco",
+  "case_info_full_case_name": "USA v. Blanco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blanco",
+  "case_date_filed": "2011-10-24",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Karol Blanco",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "17:506(a)(1)(B), 18 2319(b)(3) and 18:2"
+        },
+        {
+          "charge_description": "17:506(a)(1)(B), 18 2319(b)(3) and 18:2 Criminal Copyright Infringement (1)"
+        },
+        {
+          "charge_disposition": "1 Year Probation, $25.00 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Misdemeanor",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:371, 2319"
+        },
+        {
+          "charge_description": "18:371, 2319 Engage in A Conspiracy to Manufacture And Distribute Unauthorized Copies of Copyrighted Movies"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Howard R Lloyd",
+          "judge_guid": "urn:entity:jud-100009008"
+        }
+      ]
+    }
+  ]
+}

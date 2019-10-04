@@ -1,0 +1,137 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_117cr370_NMD",
+  "case_key": "1:17cr370_NMD",
+  "case_lni": "5MTW-PCW1-DXDT-G1PC-00000-00",
+  "case_number": "1:17cr370",
+  "case_title": "USA v. Aysheh et al",
+  "case_info_full_case_name": "USA v. Aysheh et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aysheh et al",
+  "case_date_filed": "2017-02-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Sean J. Sullivan",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Imad Aysheh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371: Conspiracy(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Judith C. Herrera",
+          "judge_guid": "urn:entity:jud-100051803"
+        }
+      ]
+    },
+    {
+      "party_name": "Iyad Aysheh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371: Conspiracy(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1159: Violation of the Indian Arts and Crafts Act(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Judith C. Herrera",
+          "judge_guid": "urn:entity:jud-100051803"
+        }
+      ]
+    },
+    {
+      "party_name": "Nedal Aysheh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371: Conspiracy(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Judith C. Herrera",
+          "judge_guid": "urn:entity:jud-100051803"
+        }
+      ]
+    },
+    {
+      "party_name": "Raed Aysheh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371: Conspiracy(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Judith C. Herrera",
+          "judge_guid": "urn:entity:jud-100051803"
+        }
+      ]
+    },
+    {
+      "party_name": "Nael Ali",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1159: Violation of the Indian Arts and Crafts Act(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Judith C. Herrera",
+          "judge_guid": "urn:entity:jud-100051803"
+        }
+      ]
+    }
+  ]
+}

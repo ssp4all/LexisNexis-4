@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_208cr892_AZD",
+  "case_key": "2:08cr892_AZD",
+  "case_lni": "7WBN-FCB0-Y892-B3J8-00000-00",
+  "case_number": "2:08cr892",
+  "case_title": "USA v. Ruiz-Nunez",
+  "case_info_full_case_name": "USA v. Ruiz-Nunez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ruiz-Nunez",
+  "case_date_filed": "2008-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jane Elizabeth McLaughlin",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Ruiz-Nunez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a), (b)(1)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a), enhanced by (b)(1)-Reentry After Deportation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)(1)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1)-Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James A Teilborg",
+          "judge_guid": "urn:entity:jud-100007320"
+        }
+      ]
+    }
+  ]
+}

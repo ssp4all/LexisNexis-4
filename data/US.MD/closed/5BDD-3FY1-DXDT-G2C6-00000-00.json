@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_114po951_MDD",
+  "case_key": "1:14po951_MDD",
+  "case_lni": "5BDD-3FY1-DXDT-G2C6-00000-00",
+  "case_number": "1:14po951",
+  "case_title": "USA vs Jefferson",
+  "case_info_full_case_name": "USA vs Jefferson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jefferson",
+  "case_date_filed": "2014-01-30",
+  "case_status": "Closed",
+  "case_status_date": "09/29/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Meade",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Troy N Jefferson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING ON PROTECTED PROPERTY W/O AUTHORIZATION, PERMIT, POSTED SIGNS, IMPEDES (4313585)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Timothy J. Sullivan",
+          "judge_guid": "urn:entity:jud-100103554"
+        }
+      ]
+    }
+  ]
+}

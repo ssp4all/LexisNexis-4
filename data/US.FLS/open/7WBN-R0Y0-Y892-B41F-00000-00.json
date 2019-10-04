@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_199cr617_flsd",
+  "case_key": "1:99cr617_flsd",
+  "case_lni": "7WBN-R0Y0-Y892-B41F-00000-00",
+  "case_number": "1:99cr617",
+  "case_title": "USA v. Ruiz-Estevez",
+  "case_info_full_case_name": "USA v. Ruiz-Estevez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ruiz-Estevez",
+  "case_date_filed": "1999-08-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS MIGUEL RUIZ-ESTEVEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS (2-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Encourage and induce aliens carrying false documents to enter and reside in the United States [1:99-m-3230]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ursula Ungaro-Benages",
+          "judge_guid": "urn:entity:jud-100003211"
+        }
+      ]
+    }
+  ]
+}

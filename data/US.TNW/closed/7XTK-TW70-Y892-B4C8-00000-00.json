@@ -1,0 +1,130 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_110cr10013_TNWD",
+  "case_key": "1:10cr10013_TNWD",
+  "case_lni": "7XTK-TW70-Y892-B4C8-00000-00",
+  "case_number": "1:10cr10013",
+  "case_title": "USA v. Redden et al",
+  "case_info_full_case_name": "USA v. Redden et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Redden et al",
+  "case_date_filed": "2010-02-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gregory L. Redden",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_disposition": "41 Months incarceration on each of Counts 1, 2 and 3, to run concurrent with each other and consecutive to any sentence imposed in U. S. Districtr/Northern District of Ohio Case No.s CR85-234A and CR86-34A; Circuit Court of Williamson County, TN Case No. 00-I-298-77 and Criminal Court of Robertons County, TN Case No. 98-I-378. 3 Years Supervised Release on each of Counts 1, 2 and 3, concurrent. $300.00 Special Assessment. No fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:471"
+        },
+        {
+          "charge_description": "18:471 UTTERS COUNTERFEIT OBLIGATIONS (2)"
+        },
+        {
+          "charge_disposition": "41 Months incarceration on each of Counts 1, 2 and 3, to run concurrent with each other and consecutive to any sentence imposed in U. S. Districtr/Northern District of Ohio Case No.s CR85-234A and CR86-34A; Circuit Court of Williamson County, TN Case No. 00-I-298-77 and Criminal Court of Robertons County, TN Case No. 98-I-378. 3 Years Supervised Release on each of Counts 1, 2 and 3, concurrent. $300.00 Special Assessment. No fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:427 (471)"
+        },
+        {
+          "charge_description": "18:427 (471) UTTERS COUNTERFEIT OBLIGATIONS (3)"
+        },
+        {
+          "charge_disposition": "41 Months incarceration on each of Counts 1, 2 and 3, to run concurrent with each other and consecutive to any sentence imposed in U. S. Districtr/Northern District of Ohio Case No.s CR85-234A and CR86-34A; Circuit Court of Williamson County, TN Case No. 00-I-298-77 and Criminal Court of Robertons County, TN Case No. 98-I-378. 3 Years Supervised Release on each of Counts 1, 2 and 3, concurrent. $300.00 Special Assessment. No fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    },
+    {
+      "party_name": "Jennifer S. Ellis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:471"
+        },
+        {
+          "charge_description": "18:471 UTTERS COUNTERFEIT OBLIGATIONS (2)"
+        },
+        {
+          "charge_disposition": "dismissed on Motion of the Govt"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_disposition": "dismissed on Motion of the Govt"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:427 (471)"
+        },
+        {
+          "charge_description": "18:427 (471) UTTERS COUNTERFEIT OBLIGATIONS (3)"
+        },
+        {
+          "charge_disposition": "dismissed on Motion of the Govt"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    }
+  ]
+}

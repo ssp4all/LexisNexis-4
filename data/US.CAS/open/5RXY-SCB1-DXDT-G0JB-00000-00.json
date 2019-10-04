@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr1539_CASD",
+  "case_key": "3:18cr1539_CASD",
+  "case_lni": "5RXY-SCB1-DXDT-G0JB-00000-00",
+  "case_number": "3:18cr1539",
+  "case_title": "USA v. Pulido-Ramos",
+  "case_info_full_case_name": "USA v. Pulido-Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pulido-Ramos",
+  "case_date_filed": "2018-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramiro Pulido-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326; 8:1325 - Attempted Entry After Deportation (Felony), Attempted Illegal Entry (Misdemeanor)"
+        },
+        {
+          "charge_offence_description": "8:1326; 8:1325 - Attempted Entry After Deportation"
+        },
+        {
+          "charge_description": "8:1325 - Improper Entry by an Alien (Misdemeanor)(1)"
+        },
+        {
+          "charge_disposition": "BOP for a term of Time Served; Penalty Assessment $10 waived; Fine Waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) - Reentry of Removed Alien (Felony)(2)"
+        },
+        {
+          "charge_disposition": "govt's oral motion to dismiss - granted"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_195cr709_hid",
+  "case_key": "1:95cr709_hid",
+  "case_lni": "7WBN-GDK0-Y892-B1J9-00000-00",
+  "case_number": "1:95cr709",
+  "case_title": "USA v. Ansari",
+  "case_info_full_case_name": "USA v. Ansari",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ansari",
+  "case_date_filed": "1995-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLE-ANN ANSARI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        },
+        {
+          "charge_disposition": "Re-Sentence: Probation 2 years. Special Conditions of Probaiton-1) That the defendant reside with her mother; 2) That the defendant immediately seek and maintain full time employment; 3) That the defendant stay arrest free of any type of violations; 4) That the defendant seek mental health treatment at the direction and the discretion of the Probation Office. 5) That the defendant participate in random drug testing at such times as directed by the Probation Office. (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Francis I. Yamashita",
+          "judge_guid": "urn:entity:jud-100016542"
+        }
+      ]
+    }
+  ]
+}

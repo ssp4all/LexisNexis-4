@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_409cr1016_CAND",
+  "case_key": "4:09cr1016_CAND",
+  "case_lni": "7X1N-S4C0-Y892-B2W2-00000-00",
+  "case_number": "4:09cr1016",
+  "case_title": "USA v. Garner",
+  "case_info_full_case_name": "USA v. Garner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garner",
+  "case_date_filed": "2009-10-21",
+  "case_status": "Closed",
+  "case_status_date": "02/24/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brigid Martin",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "Katie Burroughs Medearis"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Sterling Isaac Garner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113(a) and (d): Armed bank robbery"
+        },
+        {
+          "charge_offence_description": "18:2113(a) and (d): Armed bank robbery"
+        },
+        {
+          "charge_description": "18:2113(a) and (d), 18:2: Armed bank robbery, Aiding and abetting(1)"
+        },
+        {
+          "charge_disposition": "committed to custody of BOP for a term of 48 months; 5 years supervised release; $100 special assessment; $1,360 restitution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Phyllis J. Hamilton",
+          "judge_guid": "urn:entity:jud-100076137"
+        }
+      ]
+    }
+  ]
+}

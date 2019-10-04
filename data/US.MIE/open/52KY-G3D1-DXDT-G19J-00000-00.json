@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_211cr20213_MIED",
+  "case_key": "2:11cr20213_MIED",
+  "case_lni": "52KY-G3D1-DXDT-G19J-00000-00",
+  "case_number": "2:11cr20213",
+  "case_title": "United States of America v. Davis-Devine",
+  "case_info_full_case_name": "United States of America v. Davis-Devine",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Davis-Devine",
+  "case_date_filed": "2011-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brandon Henry Davis-Devine",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES(2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 51 months concurrent to 09-20618, plus an additional 6 months to be consecutive to 09-20618 and 11-20213 producing an aggregate sentence of 57 months; SUPERVISED RELEASE: 3 years; SPECIAL ASSESSMENT: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "DEAL IN COUNTERFEIT OBLIGATIONS AND SECURITIES(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Victoria A. Roberts",
+          "judge_guid": "urn:entity:jud-100001804"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mona K. Majzoub",
+          "judge_guid": "urn:entity:jud-100042922"
+        }
+      ]
+    }
+  ]
+}

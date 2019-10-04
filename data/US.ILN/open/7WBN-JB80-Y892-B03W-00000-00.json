@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_101cr293_ilnd",
+  "case_key": "1:01cr293_ilnd",
+  "case_lni": "7WBN-JB80-Y892-B03W-00000-00",
+  "case_number": "1:01cr293",
+  "case_title": "USA v. Perez, et al",
+  "case_info_full_case_name": "USA v. Perez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez, et al",
+  "case_date_filed": "2001-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MAURICIO PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii);"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii); Immigration Deportation Violation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Sidney I. Schenkier",
+          "judge_guid": "urn:entity:jud-100026905"
+        }
+      ]
+    },
+    {
+      "party_name": "ULISES SERGIO BELTRAN-TRUJILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii);"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii); Immigration Deportation Violation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Sidney I. Schenkier",
+          "judge_guid": "urn:entity:jud-100026905"
+        }
+      ]
+    }
+  ]
+}

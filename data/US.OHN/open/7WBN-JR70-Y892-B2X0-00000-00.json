@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_107cr539_OHND",
+  "case_key": "1:07cr539_OHND",
+  "case_lni": "7WBN-JR70-Y892-B2X0-00000-00",
+  "case_number": "1:07cr539",
+  "case_title": "United States of America v. Tran et al",
+  "case_info_full_case_name": "United States of America v. Tran et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Tran et al",
+  "case_date_filed": "2007-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Seo Van Tran",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)(b)(1)(B)Manufacture (cultivation)"
+        },
+        {
+          "charge_description": "21:841(a)(1)(b)(1)(B)Manufacture (cultivation) Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:856(a)(1) 18:2"
+        },
+        {
+          "charge_description": "21:856(a)(1) and 18:2 Maintaining Drug involved Premises (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James S. Gwin",
+          "judge_guid": "urn:entity:jud-100042049"
+        }
+      ]
+    },
+    {
+      "party_name": "Trong Tran",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)(b)(1)(B)Manufacture (cultivation)"
+        },
+        {
+          "charge_description": "21:841(a)(1)(b)(1)(B)Manufacture (cultivation) Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:856(a)(1) 18:2"
+        },
+        {
+          "charge_description": "21:856(a)(1) and 18:2 Maintaining Drug involved Premises (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James S. Gwin",
+          "judge_guid": "urn:entity:jud-100042049"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_519po94_WYD",
+  "case_key": "5:19po94_WYD",
+  "case_lni": "5VPH-WDB1-DXDT-G4GX-00000-00",
+  "case_number": "5:19po94",
+  "case_title": "USA vs Adams",
+  "case_info_full_case_name": "USA vs Adams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adams",
+  "case_date_filed": "2019-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeffrey W Adams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Fail to maintain that degree of control of mot veh necessary to avoid danger (7344278)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

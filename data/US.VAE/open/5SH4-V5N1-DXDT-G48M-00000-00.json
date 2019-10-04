@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_118po1505_VAED",
+  "case_key": "1:18po1505_VAED",
+  "case_lni": "5SH4-V5N1-DXDT-G48M-00000-00",
+  "case_number": "1:18po1505",
+  "case_title": "USA vs Mcconnell",
+  "case_info_full_case_name": "USA vs Mcconnell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mcconnell",
+  "case_date_filed": "2018-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Victoria A Mcconnell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OPERATING VEHICLE AT SPEED IN EXCESS OF SPEED LIMIT (7336983)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATE UNREGISTERED VEHICLE (7336984)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael S. Nachmanoff",
+          "judge_guid": "urn:entity:jud-100112063"
+        }
+      ]
+    }
+  ]
+}

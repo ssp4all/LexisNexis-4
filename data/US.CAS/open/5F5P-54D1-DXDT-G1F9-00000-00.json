@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_315po366_CASD",
+  "case_key": "3:15po366_CASD",
+  "case_lni": "5F5P-54D1-DXDT-G1F9-00000-00",
+  "case_number": "3:15po366",
+  "case_title": "USA vs Zuniga",
+  "case_info_full_case_name": "USA vs Zuniga",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zuniga",
+  "case_date_filed": "2015-01-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Francisco M Zuniga",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conduct on Federal Property - Conformity with Signs and Directions. (4248263)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David H. Bartick",
+          "judge_guid": "urn:entity:jud-100100980"
+        }
+      ]
+    }
+  ]
+}

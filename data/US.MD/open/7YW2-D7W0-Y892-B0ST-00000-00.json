@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_110cr393_MDD",
+  "case_key": "1:10cr393_MDD",
+  "case_lni": "7YW2-D7W0-Y892-B0ST-00000-00",
+  "case_number": "1:10cr393",
+  "case_title": "USA v. Dunbebin",
+  "case_info_full_case_name": "USA v. Dunbebin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dunbebin",
+  "case_date_filed": "2010-07-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Dunbebin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1017"
+        },
+        {
+          "charge_description": "18:1017 FRAUDULENT USE OF A GOVERNMENT SEAL (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William D Quarles, Jr",
+          "judge_guid": "urn:entity:jud-100031943"
+        }
+      ]
+    }
+  ]
+}

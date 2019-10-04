@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_115po346_VAED",
+  "case_key": "1:15po346_VAED",
+  "case_lni": "5F94-ND11-DXDT-G182-00000-00",
+  "case_number": "1:15po346",
+  "case_title": "USA vs Viera",
+  "case_info_full_case_name": "USA vs Viera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Viera",
+  "case_date_filed": "2015-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Oscar N Viera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "EXCEEDING MAXIMUM SPEED LIMITS (4411338)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F. Anderson",
+          "judge_guid": "urn:entity:jud-100074444"
+        }
+      ]
+    }
+  ]
+}

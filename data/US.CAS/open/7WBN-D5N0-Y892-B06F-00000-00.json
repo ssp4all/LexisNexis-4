@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_306cr1279_CASD",
+  "case_key": "3:06cr1279_CASD",
+  "case_lni": "7WBN-D5N0-Y892-B06F-00000-00",
+  "case_number": "3:06cr1279",
+  "case_title": "USA v. Ruiz-Ayala",
+  "case_info_full_case_name": "USA v. Ruiz-Ayala",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ruiz-Ayala",
+  "case_date_filed": "2006-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ERNESTO ALONSO RUIZ-AYALA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952 960-Importation (Felony)"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of marijuana (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dana M Sabraw",
+          "judge_guid": "urn:entity:jud-100027243"
+        }
+      ]
+    }
+  ]
+}

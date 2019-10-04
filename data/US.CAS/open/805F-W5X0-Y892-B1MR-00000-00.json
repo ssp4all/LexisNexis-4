@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_310cr3242_CASD",
+  "case_key": "3:10cr3242_CASD",
+  "case_lni": "805F-W5X0-Y892-B1MR-00000-00",
+  "case_number": "3:10cr3242",
+  "case_title": "USA v. Privado-Blanco",
+  "case_info_full_case_name": "USA v. Privado-Blanco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Privado-Blanco",
+  "case_date_filed": "2010-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ana Ruth Privado-Blanco",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)-Illegal"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)-Illegal Transportation of Aliens (Felony)"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii) (v)(II)-Transportation"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) and (v)(II)-Transportation of Illegal Aliens and Aiding (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael M. Anello",
+          "judge_guid": "urn:entity:jud-100074349"
+        }
+      ]
+    },
+    {
+      "party_name": "Yaying Zheng",
+      "party_description": "material witness"
+    }
+  ]
+}

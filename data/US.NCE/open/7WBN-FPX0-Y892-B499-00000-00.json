@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_403m10_nced",
+  "case_key": "4:03m10_nced",
+  "case_lni": "7WBN-FPX0-Y892-B499-00000-00",
+  "case_number": "4:03m10",
+  "case_title": "USA v. Gibbs",
+  "case_info_full_case_name": "USA v. Gibbs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gibbs",
+  "case_date_filed": "2003-01-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KIMBERLY ANN GIBBS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:661.M"
+        },
+        {
+          "charge_description": "18:661.M LARCENY W/IN SPECIAL MARITIME JURISDICTION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

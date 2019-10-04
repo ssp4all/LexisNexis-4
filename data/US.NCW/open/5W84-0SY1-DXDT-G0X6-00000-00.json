@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_319mj180_NCWD",
+  "case_key": "3:19mj180_NCWD",
+  "case_lni": "5W84-0SY1-DXDT-G0X6-00000-00",
+  "case_number": "3:19mj180",
+  "case_title": "USA v. Brownlee",
+  "case_info_full_case_name": "USA v. Brownlee",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brownlee",
+  "case_date_filed": "2019-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Riane Leigh Brownlee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:912 IMPERSONATION OF AN FBI SPECIAL AGENT; 18:922(g) POSSESSION OF FIREARM BY CONVICTED FELON"
+        },
+        {
+          "charge_offence_description": "18:912 IMPERSONATION OF AN FBI SPECIAL AGENT; 18:9"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David Keesler",
+          "judge_guid": "urn:entity:jud-100043286"
+        }
+      ]
+    }
+  ]
+}

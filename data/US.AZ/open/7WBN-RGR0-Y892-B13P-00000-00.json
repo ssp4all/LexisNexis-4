@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_296m1046_azd",
+  "case_key": "2:96m1046_azd",
+  "case_lni": "7WBN-RGR0-Y892-B13P-00000-00",
+  "case_number": "2:96m1046",
+  "case_title": "USA v. Escalante-Orozco",
+  "case_info_full_case_name": "USA v. Escalante-Orozco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Escalante-Orozco",
+  "case_date_filed": "1996-01-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "IGNACIO ESCALANTE-OROZCO",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

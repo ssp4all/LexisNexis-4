@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_214cr14_CAED",
+  "case_key": "2:14cr14_CAED",
+  "case_lni": "5BBJ-BHX1-DXDT-G4FH-00000-00",
+  "case_number": "2:14cr14",
+  "case_title": "USA v. Solorio",
+  "case_info_full_case_name": "USA v. Solorio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Solorio",
+  "case_date_filed": "2014-01-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Tiffany Nicole Solorio",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John A. Mendez",
+          "judge_guid": "urn:entity:jud-100036464"
+        }
+      ]
+    }
+  ]
+}

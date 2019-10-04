@@ -1,0 +1,133 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_117cr10305_MAD",
+  "case_key": "1:17cr10305_MAD",
+  "case_lni": "5PNX-XSB1-DXDT-G1W1-00000-00",
+  "case_number": "1:17cr10305",
+  "case_title": "USA v. Baptiste",
+  "case_info_full_case_name": "USA v. Baptiste",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baptiste",
+  "case_date_filed": "2017-10-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Kriss Basil",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Stephen E. Frank",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Elina Rubin Smith",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph Baptiste",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371...Conspiracy to Violate the Foreign Corrupt Practices Act and to Commit Money Laundering"
+        },
+        {
+          "charge_offence_description": "18:371...Conspiracy to Violate the Foreign Corrupt"
+        },
+        {
+          "charge_description": "18:371...CONSPIRACY TO COMMIT OFFENSES AGAINST THE UNITED STATES(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:371-- CONSPIRACY TO VIOLATE THE TRAVEL ACT AND THE FOREIGN CORRUPT PRACTICES ACT(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1952(a)(3)(A)...TRAVEL ACT(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1952(a)(3)(A) and 2 -- TRAVEL ACT; AIDING AND ABETTING(2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(a)(3)(A) and (B)...MONEY LAUNDERING CONSPIRACY(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956 (h)-- MONEY LAUNDERING CONSPIRACY(3s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allison D. Burroughs",
+          "judge_guid": "urn:entity:jud-100111111"
+        }
+      ]
+    },
+    {
+      "party_name": "Roger Richard Boncy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371-- CONSPIRACY TO VIOLATE THE TRAVEL ACT AND THE FOREIGN CORRUPT PRACTICES ACT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1952(a)(3)(A) and 2 -- TRAVEL ACT; AIDING AND ABETTING(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956 (h)-- MONEY LAUNDERING CONSPIRACY(3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allison D. Burroughs",
+          "judge_guid": "urn:entity:jud-100111111"
+        }
+      ]
+    }
+  ]
+}

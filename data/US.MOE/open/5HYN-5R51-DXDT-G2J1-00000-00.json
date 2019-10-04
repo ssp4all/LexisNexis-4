@@ -1,0 +1,111 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_416cr42_MOED",
+  "case_key": "4:16cr42_MOED",
+  "case_lni": "5HYN-5R51-DXDT-G2J1-00000-00",
+  "case_number": "4:16cr42",
+  "case_title": "USA v. White",
+  "case_info_full_case_name": "USA v. White",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "White",
+  "case_date_filed": "2016-01-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jon Thomas White",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal transactions with an access device(1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Aggravated identity theft(2r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Illegal transactions with an access device(3r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Aggravated identity theft(4r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Illegal transactions with an access device(5r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Aggravated identity theft(6r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Unlawful production of an identification document(7r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Aggravated identity theft(8r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Illegal transactions with an access device(9r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Aggravated identity theft(10r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Rodney W. Sippel",
+          "judge_guid": "urn:entity:jud-100020898"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patricia L. Cohen",
+          "judge_guid": "urn:entity:jud-100062378"
+        }
+      ]
+    }
+  ]
+}

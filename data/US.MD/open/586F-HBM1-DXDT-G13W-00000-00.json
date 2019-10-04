@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_113po4064_MDD",
+  "case_key": "1:13po4064_MDD",
+  "case_lni": "586F-HBM1-DXDT-G13W-00000-00",
+  "case_number": "1:13po4064",
+  "case_title": "USA vs Edwards",
+  "case_info_full_case_name": "USA vs Edwards",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Edwards",
+  "case_date_filed": "2013-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Aberdeen Proving Ground",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cameron S Edwards",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "(DRIVING, ATTEMPING TO DRIVE) MOTOR VEH. ON HWY. W/O REG. LICENSE AND AUTHORIZAT (2714121)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Timothy J. Sullivan",
+          "judge_guid": "urn:entity:jud-100103554"
+        }
+      ]
+    }
+  ]
+}

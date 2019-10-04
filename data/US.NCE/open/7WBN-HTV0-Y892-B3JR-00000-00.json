@@ -1,0 +1,148 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_503cr10_nced",
+  "case_key": "5:03cr10_nced",
+  "case_lni": "7WBN-HTV0-Y892-B3JR-00000-00",
+  "case_number": "5:03cr10",
+  "case_title": "USA v. Fajardo, et al",
+  "case_info_full_case_name": "USA v. Fajardo, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fajardo, et al",
+  "case_date_filed": "2003-01-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MANUEL MORENO FAJARDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841-Conspiracy 500"
+        },
+        {
+          "charge_description": "21:841-Conspiracy to distribute 500 grams or more of a mixture containing methamphetamine DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841-Distribution 50"
+        },
+        {
+          "charge_description": "21:841-Distribution of 50 grams or more of a mixture containing methamphetamine DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841-Distribution 50"
+        },
+        {
+          "charge_description": "21:841-Distribution of 50 grams or more of a mixture containing methamphetamine DISPENSE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841-Possession 50"
+        },
+        {
+          "charge_description": "21:841-Possession with the intent to distribute 50 grams or more of a mixture containing methamphetamine DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924-Possess"
+        },
+        {
+          "charge_description": "18:924-Possess a firearm in futherance of a drug trafficking offense (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:856-Maintaining"
+        },
+        {
+          "charge_description": "21:856-Maintaining a dwelling SELL/DISTRIBUTE/DISPENSE (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Malcolm J. Howard",
+          "judge_guid": "urn:entity:jud-100051104"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841-Conspiracy 500"
+        },
+        {
+          "charge_description": "21:841-Conspiracy to distribute 500 grams or more of a mixture containing methamphetamine DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841-Distribution 50"
+        },
+        {
+          "charge_description": "21:841-Distribution of 50 grams or more of a mixture containing methamphetamine DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "50 21:841-Distribution"
+        },
+        {
+          "charge_description": "21:841-Distribution of 50 grams or more of a mixture containing methamphetamine DISPENSE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841-Possession"
+        },
+        {
+          "charge_description": "21:841-Possession with the intent to distribute a mixture containing methamphetamine DISPENSE (7)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Malcolm J. Howard",
+          "judge_guid": "urn:entity:jud-100051104"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_217cr477_NJD",
+  "case_key": "2:17cr477_NJD",
+  "case_lni": "5PWG-G9X1-DXDT-G4JP-00000-00",
+  "case_number": "2:17cr477",
+  "case_title": "USA v. ARROYO",
+  "case_info_full_case_name": "USA v. ARROYO",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ARROYO",
+  "case_date_filed": "2017-11-03",
+  "case_status": "Closed",
+  "case_status_date": "09/18/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL ARROYO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "B18:1344 ANK FRAUD d/o/f 2013 thru 01/2014(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to a term of 21 months imprisonment; 5 years supervised release; alcohol testing/treatment; new debt restriction; financial disclosure; gambling restrictions; self-employment/business disclosure; Restitution $281,728.31; Special assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1349 CONSPIRACY TO COMMIT BANK FRAUD CT. 1 (DOF 2012-2014) (18:1344 BANK FRAUD)"
+        },
+        {
+          "charge_offence_description": "18:1349 CONSPIRACY TO COMMIT BANK FRAUD CT. 1 (DOF"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John Michael Vazquez",
+          "judge_guid": "urn:entity:jud-100121340"
+        }
+      ]
+    }
+  ]
+}

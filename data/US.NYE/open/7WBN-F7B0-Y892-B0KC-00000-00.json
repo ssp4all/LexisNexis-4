@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_199cr1162_nyed",
+  "case_key": "1:99cr1162_nyed",
+  "case_lni": "7WBN-F7B0-Y892-B0KC-00000-00",
+  "case_number": "1:99cr1162",
+  "case_title": "USA v. Lorenzo",
+  "case_info_full_case_name": "USA v. Lorenzo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lorenzo",
+  "case_date_filed": "1999-12-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John L. Smith",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ELIZABETH LORENZO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1001"
+        },
+        {
+          "charge_description": "18:1001 Did knowingly &; intentionally make materially false statements in a matter within the jurisdiction of a department of Government of the U.S. [1:99-m-1593]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "I. Leo Glasser",
+          "judge_guid": "urn:entity:jud-100038081"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_308po7135_KSD",
+  "case_key": "3:08po7135_KSD",
+  "case_lni": "7WBN-RV00-Y892-B1CV-00000-00",
+  "case_number": "3:08po7135",
+  "case_title": "USA v. Streetman",
+  "case_info_full_case_name": "USA v. Streetman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Streetman",
+  "case_date_filed": "2008-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ricky H. Streetman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1382"
+        },
+        {
+          "charge_description": "18:1382 Unlawfully Reentered Onto Fort Leavenworth Military Installation When Ordered Not To. (Class B Misdemeanor). (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James P. O'Hara",
+          "judge_guid": "urn:entity:jud-100025546"
+        }
+      ]
+    }
+  ]
+}

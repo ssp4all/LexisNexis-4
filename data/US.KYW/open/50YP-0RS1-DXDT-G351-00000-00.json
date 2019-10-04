@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_510mj266_KYWD",
+  "case_key": "5:10mj266_KYWD",
+  "case_lni": "50YP-0RS1-DXDT-G351-00000-00",
+  "case_number": "5:10mj266",
+  "case_title": "USA v. Rivera-Ayala",
+  "case_info_full_case_name": "USA v. Rivera-Ayala",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera-Ayala",
+  "case_date_filed": "2010-09-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hector Erasmo Rivera-Ayala Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 39-14-408)-VANDALISM"
+        },
+        {
+          "charge_description": "18:13 (TCA 39-14-408)-VANDALISM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 57-3-412)-POSSESSION"
+        },
+        {
+          "charge_description": "18:13 (TCA 57-3-412)-POSSESSION OF ALCOHOL BY A MINOR (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "W. David King",
+          "judge_guid": "urn:entity:jud-100040342"
+        }
+      ]
+    }
+  ]
+}

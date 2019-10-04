@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_506cr282_OKWD",
+  "case_key": "5:06cr282_OKWD",
+  "case_lni": "7WBN-DF70-Y892-B1M0-00000-00",
+  "case_number": "5:06cr282",
+  "case_title": "United States of America v. Schene",
+  "case_info_full_case_name": "United States of America v. Schene",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Schene",
+  "case_date_filed": "2006-12-06",
+  "case_status": "Closed",
+  "case_status_date": "07/09/2007",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jay Martin Schene",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A(a)(5)(B) POSSESSION OF CHILD PORNOGRAPHY(1-5)"
+        },
+        {
+          "charge_disposition": "Dft sentenced to custody of the Bureau of Prisons for a term of 60 months on counts 1-5 to run concurrently with each other; Supervised Release for 2 years on each count to run concurrently; S/A fee $500.00 due immediately;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Joe Heaton",
+          "judge_guid": "urn:entity:jud-100034872"
+        }
+      ]
+    }
+  ]
+}

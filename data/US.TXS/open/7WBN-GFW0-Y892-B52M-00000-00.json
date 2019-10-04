@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_197m3211_txsd",
+  "case_key": "1:97m3211_txsd",
+  "case_lni": "7WBN-GFW0-Y892-B52M-00000-00",
+  "case_number": "1:97m3211",
+  "case_title": "USA v. Castillo-Hernandez",
+  "case_info_full_case_name": "USA v. Castillo-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Hernandez",
+  "case_date_filed": "1997-12-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN CASTILLO-HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Re-Enter the United States without inspection. 8 USC 1325;"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

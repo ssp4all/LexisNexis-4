@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_391m129_ohsd",
+  "case_key": "3:91m129_ohsd",
+  "case_lni": "7WBN-RVS0-Y892-B4F3-00000-00",
+  "case_number": "3:91m129",
+  "case_title": "USA v. 424 E Wenger Avenue, et al",
+  "case_info_full_case_name": "USA v. 424 E Wenger Avenue, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "424 E Wenger Avenue, et al",
+  "case_date_filed": "1991-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "424 E WENGER AVENUE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Michael Merz",
+          "judge_guid": "urn:entity:jud-100025999"
+        }
+      ]
+    }
+  ]
+}

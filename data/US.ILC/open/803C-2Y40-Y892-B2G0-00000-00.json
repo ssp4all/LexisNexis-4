@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_210cr20059_ILCD",
+  "case_key": "2:10cr20059_ILCD",
+  "case_lni": "803C-2Y40-Y892-B2G0-00000-00",
+  "case_number": "2:10cr20059",
+  "case_title": "USA v. Allen",
+  "case_info_full_case_name": "USA v. Allen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Allen",
+  "case_date_filed": "2010-08-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kuwuan M Allen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:472.F 18USC472)"
+        },
+        {
+          "charge_description": "18:472.F PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES (On or about [6/8/10], defendant did pass a counterfeited Federal Reserve Note, which the defendant knew to be counterfeited in violation of Title 18, United States Code, Section 472) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Michael P. McCuskey",
+          "judge_guid": "urn:entity:jud-100032454"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David G. Bernthal",
+          "judge_guid": "urn:entity:jud-100061640"
+        }
+      ]
+    }
+  ]
+}

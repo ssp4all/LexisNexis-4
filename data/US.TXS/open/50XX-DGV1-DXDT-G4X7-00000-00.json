@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_110mj1156_TXSD",
+  "case_key": "1:10mj1156_TXSD",
+  "case_lni": "50XX-DGV1-DXDT-G4X7-00000-00",
+  "case_number": "1:10mj1156",
+  "case_title": "USA v. Huerta-Bear",
+  "case_info_full_case_name": "USA v. Huerta-Bear",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Huerta-Bear",
+  "case_date_filed": "2010-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Huerta-Bear",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 1326(b)"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b) Knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported, and removed."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

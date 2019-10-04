@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_315po8446_WAWD",
+  "case_key": "3:15po8446_WAWD",
+  "case_lni": "5HPX-J5C1-DXDT-G4DP-00000-00",
+  "case_number": "3:15po8446",
+  "case_title": "USA vs Engle",
+  "case_info_full_case_name": "USA vs Engle",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Engle",
+  "case_date_filed": "2015-12-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Steven E Engle",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Speed too fast for conditions (4953806)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David W. Christel",
+          "judge_guid": "urn:entity:jud-100062729"
+        }
+      ]
+    }
+  ]
+}

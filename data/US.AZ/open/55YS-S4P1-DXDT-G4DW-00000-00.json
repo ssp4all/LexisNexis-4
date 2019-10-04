@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412cr1400_AZD",
+  "case_key": "4:12cr1400_AZD",
+  "case_lni": "55YS-S4P1-DXDT-G4DW-00000-00",
+  "case_number": "4:12cr1400",
+  "case_title": "USA v. Hammock",
+  "case_info_full_case_name": "USA v. Hammock",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hammock",
+  "case_date_filed": "2012-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ricky Lynn Hammock",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(ii) 1324(a)(1)(B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(ii) and 1324(a)(1)(B)(i) CONSPIRACY TO TRANSPORT ILLEGAL ALIENS FOR PROFIT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii); 1324(a)(1)(A)(v)(I); 1324(a)(1)(B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii); 1324(a)(1)(A)(v)(I); and 1324(a)(1)(B)(i) Transportation of Illegal Aliens for Purpose of Private Financial Gain"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Bury",
+          "judge_guid": "urn:entity:jud-100063659"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

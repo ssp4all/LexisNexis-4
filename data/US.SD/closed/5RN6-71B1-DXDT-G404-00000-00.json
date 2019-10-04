@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_318cr30020_SDD",
+  "case_key": "3:18cr30020_SDD",
+  "case_lni": "5RN6-71B1-DXDT-G404-00000-00",
+  "case_number": "3:18cr30020",
+  "case_title": "USA v. Marshall",
+  "case_info_full_case_name": "USA v. Marshall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marshall",
+  "case_date_filed": "2018-02-14",
+  "case_status": "Closed",
+  "case_status_date": "09/24/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dana Marshall",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. &;sect&;sect 1153 and 113(a)(3); ASSAULT WITH A DANGEROUS WEAPON(2)"
+        },
+        {
+          "charge_disposition": "46 months custody; 3 years supervised release; fine waived; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. &;sect&;sect 1153 and 113(a)(3); ASSAULT WITH A DANGEROUS WEAPON(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Roberto A. Lange",
+          "judge_guid": "urn:entity:jud-100035621"
+        },
+        {
+          "judge_name": "US Magistrate Judge Mark A. Moreno",
+          "judge_guid": "urn:entity:jud-100032290"
+        }
+      ]
+    }
+  ]
+}

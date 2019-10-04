@@ -1,0 +1,180 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_303cr115_PRD",
+  "case_key": "3:03cr115_PRD",
+  "case_lni": "7WBN-FHC0-Y892-B4XH-00000-00",
+  "case_number": "3:03cr115",
+  "case_title": "USA v. Mota, et al",
+  "case_info_full_case_name": "USA v. Mota, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mota, et al",
+  "case_date_filed": "2003-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Probation Office",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "David Rivera",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nelson Mota",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1): 18:2: A/A: NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "IMPR for a term of 57 months. SRT of 4 years. SMA of $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:963: ATTEMPT/CONSPIRACY - NARCOTICS - IMPORTATION/EXPORTATION(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Juan M. Perez-Gimenez",
+          "judge_guid": "urn:entity:jud-100028134"
+        }
+      ]
+    },
+    {
+      "party_name": "Juan Perez-Matos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1): 18:2: A/A: NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "IMPR for a term of 57 months. SRT of 4 years. SMA of .00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:963: ATTEMPT/CONSPIRACY - NARCOTICS - IMPORTATION/EXPORTATION(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Juan M. Perez-Gimenez",
+          "judge_guid": "urn:entity:jud-100028134"
+        }
+      ]
+    },
+    {
+      "party_name": "Pedro De-Jesus-de-la-Rosa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1): 18:2: A/A: NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "IMPR for a term of 46 months. SRT of 4 years. SMA of $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Juan M. Perez-Gimenez",
+          "judge_guid": "urn:entity:jud-100028134"
+        }
+      ]
+    },
+    {
+      "party_name": "Julio Cuello-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:963: ATTEMPT/CONSPIRACY - NARCOTICS - IMPORTATION/EXPORTATION(3)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Juan M. Perez-Gimenez",
+          "judge_guid": "urn:entity:jud-100028134"
+        }
+      ]
+    }
+  ]
+}

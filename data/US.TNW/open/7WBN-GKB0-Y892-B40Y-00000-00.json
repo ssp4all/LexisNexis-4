@@ -1,0 +1,132 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_202cr20417_tnwd",
+  "case_key": "2:02cr20417_tnwd",
+  "case_lni": "7WBN-GKB0-Y892-B40Y-00000-00",
+  "case_number": "2:02cr20417",
+  "case_title": "USA v. Fortner, et al",
+  "case_info_full_case_name": "USA v. Fortner, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fortner, et al",
+  "case_date_filed": "2002-11-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERESA FORTNER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708.F 2"
+        },
+        {
+          "charge_description": "18:1708.F and 2 THEFT OR RECEIPT OF STOLEN MAIL MATTER (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708.F 2"
+        },
+        {
+          "charge_description": "18:1708.F and 2 THEFT OR RECEIPT OF STOLEN MAIL MATTER (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708.F 2"
+        },
+        {
+          "charge_description": "18:1708.F and 2 THEFT OR RECEIPT OF STOLEN MAIL MATTER (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708.F 2"
+        },
+        {
+          "charge_description": "18:1708.F and 2 THEFT OR RECEIPT OF STOLEN MAIL MATTER (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr.",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    },
+    {
+      "party_name": "PHYLLIS PERRY-NORFORD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708.F 2"
+        },
+        {
+          "charge_description": "18:1708.F and 2 THEFT OR RECEIPT OF STOLEN MAIL MATTER (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr.",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    },
+    {
+      "party_name": "NICOLE WRIGHT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708.F 2"
+        },
+        {
+          "charge_description": "18:1708.F and 2 THEFT OR RECEIPT OF STOLEN MAIL MATTER (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708.F 2"
+        },
+        {
+          "charge_description": "18:1708.F and 2 THEFT OR RECEIPT OF STOLEN MAIL MATTER (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel H. Mays, Jr.",
+          "judge_guid": "urn:entity:jud-100041277"
+        }
+      ]
+    }
+  ]
+}

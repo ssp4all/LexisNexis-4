@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_100m24_gamd",
+  "case_key": "1:00m24_gamd",
+  "case_lni": "7WBN-J8X0-Y892-B3NH-00000-00",
+  "case_number": "1:00m24",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2000-12-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VINCENT A. WILLIAMS",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Richard L. Hodge",
+          "judge_guid": "urn:entity:jud-100051514"
+        }
+      ]
+    }
+  ]
+}

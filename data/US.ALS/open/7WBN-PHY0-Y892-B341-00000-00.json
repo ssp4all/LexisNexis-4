@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_100m170_alsd",
+  "case_key": "1:00m170_alsd",
+  "case_lni": "7WBN-PHY0-Y892-B341-00000-00",
+  "case_number": "1:00m170",
+  "case_title": "USA v. Reeves",
+  "case_info_full_case_name": "USA v. Reeves",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reeves",
+  "case_date_filed": "2000-10-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID REEVES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113(a)-taking 4671"
+        },
+        {
+          "charge_description": "18:2113(a)-taking by force, violence and by intimidation take from the person and presence of another money belonging to and i the care, custody, control, management and possession of Compass Bank located at 4671 Airport Boulevard, Mobile, Alabama, the deposits of which were then insured by the Federal Deposit Insurance Corporation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    }
+  ]
+}

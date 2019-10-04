@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_809mj2742_MDD",
+  "case_key": "8:09mj2742_MDD",
+  "case_lni": "7WKC-Y600-Y892-B04H-00000-00",
+  "case_number": "8:09mj2742",
+  "case_title": "USA v. 85 Oak Shade Road Gaithersburg, Maryland et al",
+  "case_info_full_case_name": "USA v. 85 Oak Shade Road Gaithersburg, Maryland et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "85 Oak Shade Road Gaithersburg, Maryland et al",
+  "case_date_filed": "2009-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "85 Oak Shade Road ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B. Day",
+          "judge_guid": "urn:entity:jud-100057310"
+        }
+      ]
+    },
+    {
+      "party_name": "2002 Gray BMW X-5 Bearing ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B. Day",
+          "judge_guid": "urn:entity:jud-100057310"
+        }
+      ]
+    },
+    {
+      "party_name": "2000 Gold Honda Civic Bearing ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B. Day",
+          "judge_guid": "urn:entity:jud-100057310"
+        }
+      ]
+    }
+  ]
+}

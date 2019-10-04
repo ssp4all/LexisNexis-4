@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.RI_111mj11_RID",
+  "case_key": "1:11mj11_RID",
+  "case_lni": "5216-DM41-DXDT-G4KX-00000-00",
+  "case_number": "1:11mj11",
+  "case_title": "USA v. Almeida",
+  "case_info_full_case_name": "USA v. Almeida",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Almeida",
+  "case_date_filed": "2011-01-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sandra R. Hebert",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aaron Almeida",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846-CONSPIRACY"
+        },
+        {
+          "charge_description": "21:846-CONSPIRACY TO DISTRIBUTE OXYCODONE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lincoln D. Almond",
+          "judge_guid": "urn:entity:jud-100074564"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_416mj55_VAED",
+  "case_key": "4:16mj55_VAED",
+  "case_lni": "5J8D-1MT1-DXDT-G2YT-00000-00",
+  "case_number": "4:16mj55",
+  "case_title": "USA v. Palmer",
+  "case_info_full_case_name": "USA v. Palmer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Palmer",
+  "case_date_filed": "2016-03-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jason Varughese",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeffery A. Palmer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING WITH SUSPENDED LICENSE 3RD OFFENSE-18 USC, 7&;13, assim. Code of VA., Section 46.2-301(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

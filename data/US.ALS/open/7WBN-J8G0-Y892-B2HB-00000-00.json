@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_100cr32_alsd",
+  "case_key": "1:00cr32_alsd",
+  "case_lni": "7WBN-J8G0-Y892-B2HB-00000-00",
+  "case_number": "1:00cr32",
+  "case_title": "USA v. Perkins",
+  "case_info_full_case_name": "USA v. Perkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perkins",
+  "case_date_filed": "2000-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gina S. Vann",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert L. Perkins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1708.F THEFT OR RECEIPT OF STOLEN MAIL MATTER(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 24 months w/recom. that deft. participate in residential, comprehensive, substance abuse treatment while incarcerated; SRT 3 years; SA .00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Charles R. Butler, Jr",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bert W. Milling, Jr",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    }
+  ]
+}

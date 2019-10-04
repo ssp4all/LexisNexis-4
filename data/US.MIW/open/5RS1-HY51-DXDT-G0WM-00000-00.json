@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_118pt5_MIWD",
+  "case_key": "1:18pt5_MIWD",
+  "case_lni": "5RS1-HY51-DXDT-G0WM-00000-00",
+  "case_number": "1:18pt5",
+  "case_title": "USA v. Sims",
+  "case_info_full_case_name": "USA v. Sims",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sims",
+  "case_date_filed": "2018-02-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ronnie Sims",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371  CONSPIRACY TO DEFRAUD THE UNITED STATES; conspiracy to commit federal program bribery"
+        },
+        {
+          "charge_offence_description": "18:371  CONSPIRACY TO DEFRAUD THE UNITED STATES; c"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janet T. Neff",
+          "judge_guid": "urn:entity:jud-100031726"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_514cr244_WYD",
+  "case_key": "5:14cr244_WYD",
+  "case_lni": "5DC7-07T1-DXDT-G45S-00000-00",
+  "case_number": "5:14cr244",
+  "case_title": "USA v. Herrington",
+  "case_info_full_case_name": "USA v. Herrington",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Herrington",
+  "case_date_filed": "2014-10-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Max W.K. Herrington",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARIJUANA - POSSESSION; class A misd(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

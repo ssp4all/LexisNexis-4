@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_208cr174_UTD",
+  "case_key": "2:08cr174_UTD",
+  "case_lni": "7WBN-KYD0-Y892-B09S-00000-00",
+  "case_number": "2:08cr174",
+  "case_title": "USA v. Waldie",
+  "case_info_full_case_name": "USA v. Waldie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Waldie",
+  "case_date_filed": "2008-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mark G. Waldie",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844"
+        },
+        {
+          "charge_description": "21:844 MARIJUANA-POSSESSION/Simple Possession of a Controlled Substance (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brooke C. Wells",
+          "judge_guid": "urn:entity:jud-100023056"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_219cr20016_TNWD",
+  "case_key": "2:19cr20016_TNWD",
+  "case_lni": "5VDN-KF01-DXDT-G1VN-00000-00",
+  "case_number": "2:19cr20016",
+  "case_title": "United States of America v. McKay",
+  "case_info_full_case_name": "United States of America v. McKay",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "McKay",
+  "case_date_filed": "2019-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bryce Phillips",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Samuel David Winnig",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F - UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mark S. Norris",
+          "judge_guid": "urn:entity:jud-500002686"
+        }
+      ]
+    }
+  ]
+}

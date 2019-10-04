@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_111cr20748_FLSD",
+  "case_key": "1:11cr20748_FLSD",
+  "case_lni": "5431-3MJ1-DXDT-G1PS-00000-00",
+  "case_number": "1:11cr20748",
+  "case_title": "USA v. Caetano",
+  "case_info_full_case_name": "USA v. Caetano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Caetano",
+  "case_date_filed": "2011-10-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Francis Ines Viamontes",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Lucas Caetano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "PASSPORT18:1543.F"
+        },
+        {
+          "charge_description": "FORGERY OR FALSE USE OF PASSPORT18:1543.F (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "VISAS/PERMITS18:1546.F"
+        },
+        {
+          "charge_description": "FRAUD AND MISUSE OF VISAS/PERMITS18:1546.F (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1543.F;"
+        },
+        {
+          "charge_description": "18:1543.F; FORGERY OR FALSE USE OF PASSPORT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James I. Cohn",
+          "judge_guid": "urn:entity:jud-100062368"
+        }
+      ]
+    }
+  ]
+}

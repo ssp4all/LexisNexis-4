@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_608mj562_NYWD",
+  "case_key": "6:08mj562_NYWD",
+  "case_lni": "7WBN-DY70-Y892-B3FB-00000-00",
+  "case_number": "6:08mj562",
+  "case_title": "USA v. 184 Park Street, Canandaigua, New York",
+  "case_info_full_case_name": "USA v. 184 Park Street, Canandaigua, New York",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "184 Park Street, Canandaigua, New York",
+  "case_date_filed": "2008-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "184 Park Street Canandaigua ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_401cr803_txsd",
+  "case_key": "4:01cr803_txsd",
+  "case_lni": "7WBN-HHX0-Y892-B2CY-00000-00",
+  "case_number": "4:01cr803",
+  "case_title": "USA v. Sansing",
+  "case_info_full_case_name": "USA v. Sansing",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sansing",
+  "case_date_filed": "2001-10-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Marshal - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H INS_prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TONY RAY SANSING",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F 5 3"
+        },
+        {
+          "charge_description": "18:371.F Conspiracy to violate the Federal Water Pollution Control Act MAX PENALTY: 5 yrs and/or $250,000 and 3 yrs SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "33:1319.F 3 1"
+        },
+        {
+          "charge_description": "33:1319.F Violating a condition of a wastewater discharge permit issued under FWPCA MAX PENALTY: 3 yrs and/or $250,000 and 1 yr SRT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "33:1319.F 2 1"
+        },
+        {
+          "charge_description": "33:1319.F Tampering with and rendering inaccurate a monitoring method required by FWPCA MAX PENALTY: 2 yrs and/or $250,000 and 1 yr SRT (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "33:1319.F 2 1"
+        },
+        {
+          "charge_description": "33:1319.F Making false material representations in Monthly Effluent Reports MAX PENALTY: 2 yrs and/or $250,000 and 1 yr SRT (4-9)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy F. Atlas",
+          "judge_guid": "urn:entity:jud-100074101"
+        }
+      ]
+    }
+  ]
+}

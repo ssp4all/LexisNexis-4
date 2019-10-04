@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_301m41_mssd",
+  "case_key": "3:01m41_mssd",
+  "case_lni": "7WBN-FHC0-Y892-B1JB-00000-00",
+  "case_number": "3:01m41",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2001-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Giles Wood Bond, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PRINCE JOHN JOHNSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2113(a)(d):"
+        },
+        {
+          "charge_description": "18 USC SECTION 2113(a)(d): ARMED BANK ROBBERY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alfred G. Nicols",
+          "judge_guid": "urn:entity:jud-100000945"
+        }
+      ]
+    }
+  ]
+}

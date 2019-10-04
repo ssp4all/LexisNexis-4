@@ -1,0 +1,85 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_110cr756_NMD",
+  "case_key": "1:10cr756_NMD",
+  "case_lni": "7Y36-7SJ0-Y892-B32R-00000-00",
+  "case_number": "1:10cr756",
+  "case_title": "USA v. Pino",
+  "case_info_full_case_name": "USA v. Pino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pino",
+  "case_date_filed": "2010-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Glynette R. Carson-McNabb",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Pino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2241(a) &; 2246(2)(A):"
+        },
+        {
+          "charge_description": "18:2241(a) &; 2246(2)(A): Aggravated Sexual Abuse (1s)"
+        },
+        {
+          "charge_disposition": "Sentence Imposed: Cbop 240 Months; 5 Years Supervised Release W/Special Conditions; Spa $100.00; Deft in Custody"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1153, 2241(c) &; 2246(2)(A):"
+        },
+        {
+          "charge_description": "18:1153, 2241(c) &; 2246(2)(A): Aggravated Sexual Abuse of A Child (1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1153, 2241(c) &; 2246(2)(X):"
+        },
+        {
+          "charge_description": "18:1153, 2241(c) &; 2246(2)(X): Aggravated Sexual Abuse of A Child (2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1153:"
+        },
+        {
+          "charge_description": "18:1153: Crime in Indian Country; 18:2241(C) And 2246(A)(C): Sexual Assault of A Minor"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James O Browning",
+          "judge_guid": "urn:entity:jud-100064003"
+        }
+      ]
+    }
+  ]
+}

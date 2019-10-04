@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_203m2162_txwd",
+  "case_key": "2:03m2162_txwd",
+  "case_lni": "7WBN-GMN0-Y892-B4GF-00000-00",
+  "case_number": "2:03m2162",
+  "case_title": "USA v. Ortegon",
+  "case_info_full_case_name": "USA v. Ortegon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortegon",
+  "case_date_filed": "2003-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID ORTEGON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841-unlawfully, 109.41"
+        },
+        {
+          "charge_description": "21:841-unlawfully, knowingly and intentionally possess with the intent to distribute approximately 109.41 kilograms of marijuana, a Schedule I Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

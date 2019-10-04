@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_307mj46_WVND",
+  "case_key": "3:07mj46_WVND",
+  "case_lni": "7WBN-RT40-Y892-B1XD-00000-00",
+  "case_number": "3:07mj46",
+  "case_title": "USA v. Taylor",
+  "case_info_full_case_name": "USA v. Taylor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Taylor",
+  "case_date_filed": "2007-12-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charlie B. Taylor DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_description": "18:113C.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Joel",
+          "judge_guid": "urn:entity:jud-100050421"
+        }
+      ]
+    }
+  ]
+}

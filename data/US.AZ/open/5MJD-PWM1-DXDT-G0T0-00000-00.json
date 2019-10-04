@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_317cr8000_AZD",
+  "case_key": "3:17cr8000_AZD",
+  "case_lni": "5MJD-PWM1-DXDT-G0T0-00000-00",
+  "case_number": "3:17cr8000",
+  "case_title": "USA v. Tessier",
+  "case_info_full_case_name": "USA v. Tessier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tessier",
+  "case_date_filed": "2017-01-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anthony William Church",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Colin Kelly Tessier",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1153 and 113(a)(6) CIR-Assault Resulting in Serious Bodily Injury(1s)"
+        },
+        {
+          "charge_disposition": "BOP for a term of TWENTY-ONE (21) MONTHS, with credit for time served, followed by Supervise Release for a term of THREE (3) YEARS. Special Assessment: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153, 2241(a) and 2246(2)(A) - (CIR) Aggravated Sexual Abuse(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153 and 1201(a) - (CIR) Kidnap(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Diane J Humetewa",
+          "judge_guid": "urn:entity:jud-100107092"
+        }
+      ]
+    }
+  ]
+}

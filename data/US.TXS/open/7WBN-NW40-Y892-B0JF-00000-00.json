@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_504cr2504_TXSD",
+  "case_key": "5:04cr2504_TXSD",
+  "case_lni": "7WBN-NW40-Y892-B0JF-00000-00",
+  "case_number": "5:04cr2504",
+  "case_title": "USA v. Reyna-Delgado",
+  "case_info_full_case_name": "USA v. Reyna-Delgado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyna-Delgado",
+  "case_date_filed": "2004-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Marcelo Reyna-Delgado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 10 $4 $100 5"
+        },
+        {
+          "charge_description": "Conspiracy to possess w/intent to dist a quantity in excess of 1 kgm of Heroin. Penalty: 10 yrs to life and/or $4 mil fine; $100 cvf; 5 yrs tsr. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "3.63 10 $4 $100 5"
+        },
+        {
+          "charge_description": "Possess w/intent to dist approx 3.63 kgs of Heroin. Penalty: 10 yrs to life and/or $4 mil fine; $100 cvf; 5 yrs tsr. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=NP.F"
+        },
+        {
+          "charge_description": "21:841A=NP.F Narcotics-Possession"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

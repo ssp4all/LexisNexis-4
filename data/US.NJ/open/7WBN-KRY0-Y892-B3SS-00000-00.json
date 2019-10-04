@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_206cr680_NJD",
+  "case_key": "2:06cr680_NJD",
+  "case_lni": "7WBN-KRY0-Y892-B3SS-00000-00",
+  "case_number": "2:06cr680",
+  "case_title": "USA v. COLLAZO",
+  "case_info_full_case_name": "USA v. COLLAZO",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "COLLAZO",
+  "case_date_filed": "2006-08-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE LUIS COLLAZO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 (21:841(a)(1) 841(b)(1)(C)CONSPIRACY DOO:4/05-7/05"
+        },
+        {
+          "charge_description": "21:846 (21:841(a)(1) &; 841(b)(1)(C)CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE DOO:4/05-7/05 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Possession with intent to distribute a controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William J. Martini",
+          "judge_guid": "urn:entity:jud-100028797"
+        }
+      ]
+    }
+  ]
+}

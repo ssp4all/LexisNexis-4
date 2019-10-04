@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_211cr83_AZD",
+  "case_key": "2:11cr83_AZD",
+  "case_lni": "51Y0-8CX1-DXDT-G41R-00000-00",
+  "case_number": "2:11cr83",
+  "case_title": "USA v. Oliveros-Milanez",
+  "case_info_full_case_name": "USA v. Oliveros-Milanez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Oliveros-Milanez",
+  "case_date_filed": "2011-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Allen Ebett Oliveros-Milanez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a)-Reentry of Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a);"
+        },
+        {
+          "charge_description": "8:1326(a); Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "G Murray Snow",
+          "judge_guid": "urn:entity:jud-100020555"
+        }
+      ]
+    }
+  ]
+}

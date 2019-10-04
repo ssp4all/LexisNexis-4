@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_602m6013_ksd",
+  "case_key": "6:02m6013_ksd",
+  "case_lni": "7WBN-J0Y0-Y892-B254-00000-00",
+  "case_number": "6:02m6013",
+  "case_title": "USA v. Cruz-Cornejo",
+  "case_info_full_case_name": "USA v. Cruz-Cornejo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cruz-Cornejo",
+  "case_date_filed": "2002-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MIGUEL CRUZ-CORNEJO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(1) Illegal reentry (COMPLAINT FILED 3/7/02)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Donald W. Bostwick",
+          "judge_guid": "urn:entity:jud-100064663"
+        }
+      ]
+    }
+  ]
+}

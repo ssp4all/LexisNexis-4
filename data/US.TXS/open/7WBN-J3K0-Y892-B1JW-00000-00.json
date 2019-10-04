@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_708cr71_TXSD",
+  "case_key": "7:08cr71_TXSD",
+  "case_lni": "7WBN-J3K0-Y892-B1JW-00000-00",
+  "case_number": "7:08cr71",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2008-01-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Mc",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - Mc",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Danessa Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    },
+    {
+      "party_name": "Pedro Rodriguez-Rodriguez",
+      "party_description": "material witness"
+    }
+  ]
+}

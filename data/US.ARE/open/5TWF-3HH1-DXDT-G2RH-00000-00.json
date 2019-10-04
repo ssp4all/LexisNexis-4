@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_418cr668_ARED",
+  "case_key": "4:18cr668_ARED",
+  "case_lni": "5TWF-3HH1-DXDT-G2RH-00000-00",
+  "case_number": "4:18cr668",
+  "case_title": "USA v. Longoria",
+  "case_info_full_case_name": "USA v. Longoria",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Longoria",
+  "case_date_filed": "2018-12-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael James Longoria",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:513(a) Uttered Counterfeit Securities - Personal Checks(1-11)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "D. P. Marshall Jr.",
+          "judge_guid": "urn:entity:jud-100028901"
+        }
+      ]
+    }
+  ]
+}

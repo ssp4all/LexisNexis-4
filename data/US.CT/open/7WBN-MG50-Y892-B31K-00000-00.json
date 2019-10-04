@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_300cr95_ctd",
+  "case_key": "3:00cr95_ctd",
+  "case_lni": "7WBN-MG50-Y892-B31K-00000-00",
+  "case_number": "3:00cr95",
+  "case_title": "USA v. Thomas",
+  "case_info_full_case_name": "USA v. Thomas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomas",
+  "case_date_filed": "2000-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Stephen C. Robinson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KARANJA THOMAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Peter C. Dorsey",
+          "judge_guid": "urn:entity:jud-100053603"
+        }
+      ]
+    }
+  ]
+}

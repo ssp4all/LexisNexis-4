@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_398cr19_txnd",
+  "case_key": "3:98cr19_txnd",
+  "case_lni": "7WBN-N640-Y892-B4CP-00000-00",
+  "case_number": "3:98cr19",
+  "case_title": "USA v. Schneider",
+  "case_info_full_case_name": "USA v. Schneider",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schneider",
+  "case_date_filed": "1998-01-16",
+  "case_status": "Closed",
+  "case_status_date": "07/22/1998",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Admitted/In Good Standing"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Frank Schneider",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1343.F FRAUD BY WIRE, RADIO, OR TELEVISION(1)"
+        },
+        {
+          "charge_disposition": "SA of $100 / BOP for a term of 21 months...dft shall surrender for service of sentence at the institution designated by the BOP NLT 2:00 pm on 10/27/98 / SR for term 3 yrs w/ special conditions / RESTITUTION in the amount $1,218,324.12"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "A. Joe Fish",
+          "judge_guid": "urn:entity:jud-100046471"
+        }
+      ]
+    }
+  ]
+}

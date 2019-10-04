@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_101cr450_dcd",
+  "case_key": "1:01cr450_dcd",
+  "case_lni": "7WBN-JB80-Y892-B1H2-00000-00",
+  "case_number": "1:01cr450",
+  "case_title": "USA v. VINCENT",
+  "case_info_full_case_name": "USA v. VINCENT",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "VINCENT",
+  "case_date_filed": "2001-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAMSEY J. VINCENT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:844(a); CONTROLLED SUBSTANCE - POSSESSION; Simple Possession of a Controlled Substance.(1s)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Six (6) Months incarceration; Supervised Release waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "22 D.C. Code 4504(a)(2); FIREARMS; Carrying a Pistol Without a License.(2s)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Ninety Six (96) Months incarceration; Followed by Three (3) Years Supervised Release. All but Forty Eight (48) Months incarceration is suspended; The supervised release is suspended, concurrrently with count 1. Probation of Fiv e (5) Years as to count 2. Special Assessment of $200.00 imposed; Fine is waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1); TRANSPORT FIREARMS INTERSTATE BY FELON; Unlawful Possession of a Firearm and Ammunition by a Convicted Felon.(1)"
+        },
+        {
+          "charge_disposition": "dismissed upon motion of the government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:844(a); CONTROLLED SUBSTANCE - POSSESSION; Simple Possession of a Controlled Substanace.(2)"
+        },
+        {
+          "charge_disposition": "dismissed upon motion of the government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Emmet G. Sullivan",
+          "judge_guid": "urn:entity:jud-100019707"
+        }
+      ]
+    }
+  ]
+}

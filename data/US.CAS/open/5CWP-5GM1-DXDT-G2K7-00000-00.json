@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_314cr2269_CASD",
+  "case_key": "3:14cr2269_CASD",
+  "case_lni": "5CWP-5GM1-DXDT-G2K7-00000-00",
+  "case_number": "3:14cr2269",
+  "case_title": "USA v. Rodas-Maldonado",
+  "case_info_full_case_name": "USA v. Rodas-Maldonado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodas-Maldonado",
+  "case_date_filed": "2014-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gerber Eliazar Rodas-Maldonado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a),(b) - Removed Alien Found in the United States (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326 - Deported Alien found in the United States (Felony)"
+        },
+        {
+          "charge_offence_description": "8:1326 - Deported Alien found in the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anthony J. Battaglia",
+          "judge_guid": "urn:entity:jud-100062115"
+        },
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gordon Thompson, Jr",
+          "judge_guid": "urn:entity:jud-100019100"
+        }
+      ]
+    }
+  ]
+}

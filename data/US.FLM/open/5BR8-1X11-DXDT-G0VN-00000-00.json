@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_614mj1146_FLMD",
+  "case_key": "6:14mj1146_FLMD",
+  "case_lni": "5BR8-1X11-DXDT-G0VN-00000-00",
+  "case_number": "6:14mj1146",
+  "case_title": "USA v. Moreno-Hernandez",
+  "case_info_full_case_name": "USA v. Moreno-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Hernandez",
+  "case_date_filed": "2014-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Myrna Amelia Mesa",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Humberto Moreno-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326A.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karla R. Spaulding",
+          "judge_guid": "urn:entity:jud-100020417"
+        }
+      ]
+    }
+  ]
+}

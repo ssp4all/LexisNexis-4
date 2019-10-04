@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_105cr78_VAED",
+  "case_key": "1:05cr78_VAED",
+  "case_lni": "7WBN-JKY0-Y892-B2FJ-00000-00",
+  "case_number": "1:05cr78",
+  "case_title": "USA v. Sardelis",
+  "case_info_full_case_name": "USA v. Sardelis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sardelis",
+  "case_date_filed": "2005-02-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "G. David Hackney",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PHILLIP EDWARD SARDELIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(21:8412A=CD.F) 21:841(a)(1) 846 500 (Sch.II)"
+        },
+        {
+          "charge_description": "(21:8412A=CD.F) 21:841(a)(1) and 846 Conspiracy to distribute 500 grams or more of cocaine hyrdochloride (Sch.II) [1:03-m-448]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Claude M. Hilton",
+          "judge_guid": "urn:entity:jud-100034442"
+        }
+      ]
+    }
+  ]
+}

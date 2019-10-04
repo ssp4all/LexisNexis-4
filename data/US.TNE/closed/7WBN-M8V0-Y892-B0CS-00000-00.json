@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_296cr23_tned",
+  "case_key": "2:96cr23_tned",
+  "case_lni": "7WBN-M8V0-Y892-B0CS-00000-00",
+  "case_number": "2:96cr23",
+  "case_title": "USA v. Haynes",
+  "case_info_full_case_name": "USA v. Haynes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Haynes",
+  "case_date_filed": "1996-06-10",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRUCE P HAYNES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343.F"
+        },
+        {
+          "charge_description": "18:1343.F FRAUD BY WIRE, RADIO, OR TELEVISION (1)"
+        },
+        {
+          "charge_disposition": "deft given opp to speak and declines, court pronounces judgment, deft sentence to 5 years probation and CCA Fee of $50.00 and rest of #12,563.30, deft under 13 standard conditions, no firearms or explosives, no illegal drugs, deft to submit to urine drug screens and program as directed by probation office, deft to reside under home detention w/electronic monitoring for a period of 6 months, except for employment and other approved activities, deft pay rest as directed by USPO interest waived, deft to provide financial info, no new credit, deft to submit to 1 drug screen as directed within 15 days, 2 thereafteras directed (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Thomas G Hull",
+          "judge_guid": "urn:entity:jud-100033839"
+        }
+      ]
+    }
+  ]
+}

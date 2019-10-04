@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_417mj124_GAMD",
+  "case_key": "4:17mj124_GAMD",
+  "case_lni": "5R14-BVW1-DXDT-G42R-00000-00",
+  "case_number": "4:17mj124",
+  "case_title": "UNITED STATES OF AMERICA v. MILLHEISER",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. MILLHEISER",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "MILLHEISER",
+  "case_date_filed": "2017-11-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "PAIGE P CHANEY",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARY KATE MILLHEISER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 7 AND 13 I/C/W OCGA 40-6-391(a)(1) - TRAFFIC OFFENSES, DRUNKEN DRIVING (LESS SAFE) ON 10 08 2017(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18 USC 7 AND 13 I/C/W OCGA 40-6-40 TRAFFIC OFFENSES - FAILURE TO DRIVE ON ROADWAY ON 10 08 2017(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US",
+          "judge_guid": "urn:entity:geob-103081227"
+        }
+      ]
+    }
+  ]
+}

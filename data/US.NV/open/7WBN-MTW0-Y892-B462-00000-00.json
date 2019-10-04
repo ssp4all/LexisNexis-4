@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_306mj82_NVD",
+  "case_key": "3:06mj82_NVD",
+  "case_lni": "7WBN-MTW0-Y892-B462-00000-00",
+  "case_number": "3:06mj82",
+  "case_title": "USA v. Stephen C. Cuevas",
+  "case_info_full_case_name": "USA v. Stephen C. Cuevas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stephen C. Cuevas",
+  "case_date_filed": "2006-10-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Stephen C. Cuevas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F-Conspiracy 18:641.F-Theft"
+        },
+        {
+          "charge_description": "18:371.F-Conspiracy to Commit an Offense Against the US Govt; 18:641.F-Theft of Public Money, Property of Records Belonging to the US or Any Agency Thereof with a value in excess of $1000.00."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Valerie P. Cooke",
+          "judge_guid": "urn:entity:jud-100020874"
+        }
+      ]
+    }
+  ]
+}

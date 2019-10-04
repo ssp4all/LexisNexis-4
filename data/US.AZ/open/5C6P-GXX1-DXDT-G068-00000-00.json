@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po26717_AZD",
+  "case_key": "4:14po26717_AZD",
+  "case_lni": "5C6P-GXX1-DXDT-G068-00000-00",
+  "case_number": "4:14po26717",
+  "case_title": "USA v. Pillado-Roman",
+  "case_info_full_case_name": "USA v. Pillado-Roman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pillado-Roman",
+  "case_date_filed": "2014-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Heather H Sechrist",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Pillado-Roman",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

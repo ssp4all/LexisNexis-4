@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_115po2213_VAED",
+  "case_key": "1:15po2213_VAED",
+  "case_lni": "5GJ4-5TK1-DXDT-G2PF-00000-00",
+  "case_number": "1:15po2213",
+  "case_title": "USA vs Suggs",
+  "case_info_full_case_name": "USA vs Suggs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Suggs",
+  "case_date_filed": "2015-07-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Vernon C Suggs",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "EXPIRED REGISTRATION/EXP LICENSE PLATES/UNREG VEHICLE (4537851)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

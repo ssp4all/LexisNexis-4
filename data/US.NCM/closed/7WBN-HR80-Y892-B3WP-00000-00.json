@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_496cr215_ncmd",
+  "case_key": "4:96cr215_ncmd",
+  "case_lni": "7WBN-HR80-Y892-B3WP-00000-00",
+  "case_number": "4:96cr215",
+  "case_title": "USA v. WHITE",
+  "case_info_full_case_name": "USA v. WHITE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "WHITE",
+  "case_date_filed": "1996-10-30",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD LYNN WHITE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Conspiracy: Possess with intent to distribute and to distribute cocaine (1)"
+        },
+        {
+          "charge_disposition": "Ten (10) months imprisonment (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief",
+          "judge_name": "Jdg Frank W. Bullock, Jr.",
+          "judge_guid": "urn:entity:jud-100082892"
+        }
+      ]
+    }
+  ]
+}

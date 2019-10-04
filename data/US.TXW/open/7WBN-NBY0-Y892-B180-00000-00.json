@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_403cr203_txwd",
+  "case_key": "4:03cr203_txwd",
+  "case_lni": "7WBN-NBY0-Y892-B180-00000-00",
+  "case_number": "4:03cr203",
+  "case_title": "USA v. Sheffield",
+  "case_info_full_case_name": "USA v. Sheffield",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sheffield",
+  "case_date_filed": "2003-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALVIN SHEFFIELD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:472.F"
+        },
+        {
+          "charge_description": "18:472.F PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC472."
+        },
+        {
+          "charge_description": "Possession of counterfeit Federal Reserve Notes, in the amount of $1,960.00. In violation of 18 USC 472. [4:03-m-1026]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

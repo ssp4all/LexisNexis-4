@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_518po64699_TXSD",
+  "case_key": "5:18po64699_TXSD",
+  "case_lni": "5TC1-VST1-DXDT-G4TF-00000-00",
+  "case_number": "5:18po64699",
+  "case_title": "USA v. Morataya-Monzon",
+  "case_info_full_case_name": "USA v. Morataya-Monzon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morataya-Monzon",
+  "case_date_filed": "2018-09-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Luis Morataya-Monzon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

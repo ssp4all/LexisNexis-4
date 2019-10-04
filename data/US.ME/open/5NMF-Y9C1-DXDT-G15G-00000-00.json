@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_217mj122_MED",
+  "case_key": "2:17mj122_MED",
+  "case_lni": "5NMF-Y9C1-DXDT-G15G-00000-00",
+  "case_number": "2:17mj122",
+  "case_title": "USA v. SHINE et al",
+  "case_info_full_case_name": "USA v. SHINE et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SHINE et al",
+  "case_date_filed": "2017-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KEON SHINE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM, 18:922(g)(1) AND 924(a)"
+        },
+        {
+          "charge_offence_description": "FELON IN POSSESSION OF A FIREARM, 18:922(g)(1) AND"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "JOHN H. RICH III",
+          "judge_guid": "urn:entity:jud-100014857"
+        }
+      ]
+    },
+    {
+      "party_name": "DANE MITCHELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM, 18:922(g)(1) AND 924(a)"
+        },
+        {
+          "charge_offence_description": "FELON IN POSSESSION OF A FIREARM, 18:922(g)(1) AND"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "JOHN H. RICH III",
+          "judge_guid": "urn:entity:jud-100014857"
+        }
+      ]
+    }
+  ]
+}

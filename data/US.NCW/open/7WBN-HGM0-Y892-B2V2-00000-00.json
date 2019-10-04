@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_399cr168_ncwd",
+  "case_key": "3:99cr168_ncwd",
+  "case_lni": "7WBN-HGM0-Y892-B2V2-00000-00",
+  "case_number": "3:99cr168",
+  "case_title": "USA v. Vaughn",
+  "case_info_full_case_name": "USA v. Vaughn",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vaughn",
+  "case_date_filed": "1999-11-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRIAN G. VAUGHN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:472.F"
+        },
+        {
+          "charge_description": "18:472.F PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472"
+        },
+        {
+          "charge_description": "Intent to defraud, possessed and attempted to pass a falsely made or counterfeited obligation of the US to wit $100 Federal Reserve Notes in violation of 18:472 [3:99-m-219]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Graham C. Mullen",
+          "judge_guid": "urn:entity:jud-100003303"
+        }
+      ]
+    }
+  ]
+}

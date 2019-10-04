@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_112cr212_NYWD",
+  "case_key": "1:12cr212_NYWD",
+  "case_lni": "5610-6NT1-DXDT-G2NM-00000-00",
+  "case_number": "1:12cr212",
+  "case_title": "USA v. Patel et al",
+  "case_info_full_case_name": "USA v. Patel et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Patel et al",
+  "case_date_filed": "2012-06-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hareshkumar Patel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1001.F Statements or Entries Generally, 18:1028A.F Fraud with Identification Documents , 18:1546.F Fraud and Misuse of Visas/Permits"
+        },
+        {
+          "charge_offence_description": "18:1001.F Statements or Entries Generally, 18:1028"
+        },
+        {
+          "charge_description": "18:1546.F and 2 FRAUD AND MISUSE OF VISAS/PERMITS(1)"
+        },
+        {
+          "charge_disposition": "Deft is committed to the custody of the Bureau of Prisons for a term of time served; the cost of incarceration fee is waived. Upon release from imprisonment, Deft shall be placed on supervised release for a term of 1 year with standard and special conditions. The defendant shall cooperate with immigration officials in the determination of possible deportation proceedings. In the event Deft is deported, Deft shall not re-enter or attempt to re-enter the United States without the written authorization of the Secretary of Homeland Security. Re-entry into the United States without approval of the Secretary of Homeland Security constitutes new criminal conduct which may subject the defendant to criminal prosecution. Re-entry without approval during the term of supervision will be considered a violation of the conditions of supervised release. If deported, the term of supervised release shall be unsupervised. No fine. Deft to pay $100.00 mandatory assessment, due immediately. The Court grants the Govt's oral motion to dismiss Criminal Complaint No. 11-mj-135 as to this Deft."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard J. Arcara",
+          "judge_guid": "urn:entity:jud-100074279"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "H. Kenneth Schroeder, Jr",
+          "judge_guid": "urn:entity:jud-100026781"
+        }
+      ]
+    },
+    {
+      "party_name": "Pankajkumer Patel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1001.F Statements or Entries Generally, 18:1028A.F Fraud with Identification Documents , 18:1546.F Fraud and Misuse of Visas/Permits"
+        },
+        {
+          "charge_offence_description": "18:1001.F Statements or Entries Generally, 18:1028"
+        },
+        {
+          "charge_description": "18:1546.F and 2 FRAUD AND MISUSE OF VISAS/PERMITS(2)"
+        },
+        {
+          "charge_disposition": "Deft is committed to the custody of the Bureau of Prisons for a term of time served; the cost of incarceration fee is waived. Upon release from imprisonment, Deft shall be placed on supervised release for a term of 1 year with standard and special conditions. The defendant shall cooperate with Immigration officials in the determination of possible deportation proceedings. In the event Deft is deported, Deft shall not re-enter or attempt to re-enter the United States without the written authorization of the Secretary of Homeland Security. Re-entry into the United States without approval of the Secretary of Homeland Security constitutes new criminal conduct which may subject the defendant to criminal prosecution. Re-entry without approval during the term of supervision will be considered a violation of the conditions of supervised release. If deported, the term of supervised release shall be unsupervised. No fine. Deft to pay $100.00 mandatory assessment, due immediately. The Court grants the Govt's oral motion to dismiss Criminal Complaint No. 11-mj-135 as to this Deft."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard J. Arcara",
+          "judge_guid": "urn:entity:jud-100074279"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "H. Kenneth Schroeder, Jr",
+          "judge_guid": "urn:entity:jud-100026781"
+        }
+      ]
+    }
+  ]
+}

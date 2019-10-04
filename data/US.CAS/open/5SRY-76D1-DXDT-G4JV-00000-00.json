@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318mj3895_CASD",
+  "case_key": "3:18mj3895_CASD",
+  "case_lni": "5SRY-76D1-DXDT-G4JV-00000-00",
+  "case_number": "3:18mj3895",
+  "case_title": "USA v. Garcia Patino",
+  "case_info_full_case_name": "USA v. Garcia Patino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia Patino",
+  "case_date_filed": "2018-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramon Garcia Patino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:3583(e)(3) - Violation of Supervised Release"
+        },
+        {
+          "charge_offence_description": "18:3583(e)(3) - Violation of Supervised Release"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jan M. Adler",
+          "judge_guid": "urn:entity:jud-100074793"
+        }
+      ]
+    }
+  ]
+}

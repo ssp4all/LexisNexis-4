@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_316cr857_CASD",
+  "case_key": "3:16cr857_CASD",
+  "case_lni": "5JKJ-SV41-DXDT-G3KJ-00000-00",
+  "case_number": "3:16cr857",
+  "case_title": "USA v. Lozano-Lopez",
+  "case_info_full_case_name": "USA v. Lozano-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lozano-Lopez",
+  "case_date_filed": "2016-04-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hugo Lozano-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and (b) - Removed Alien Found in the United States (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326 - Deported Alien Found in the United States"
+        },
+        {
+          "charge_offence_description": "8:1326 - Deported Alien Found in the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William Q. Hayes",
+          "judge_guid": "urn:entity:jud-100046969"
+        }
+      ]
+    }
+  ]
+}

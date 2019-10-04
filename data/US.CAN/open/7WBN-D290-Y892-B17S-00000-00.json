@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_198m2_cand",
+  "case_key": "1:98m2_cand",
+  "case_lni": "7WBN-D290-Y892-B17S-00000-00",
+  "case_number": "1:98m2",
+  "case_title": "USA v. Delgadillo",
+  "case_info_full_case_name": "USA v. Delgadillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delgadillo",
+  "case_date_filed": "1998-05-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EFREN ERIX DELGADILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1073"
+        },
+        {
+          "charge_description": "18:1073 Unlawful flight to avoid prosecution."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Larry B. Nord",
+          "judge_guid": "urn:entity:jud-100031398"
+        }
+      ]
+    }
+  ]
+}

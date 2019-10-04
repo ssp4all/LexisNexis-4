@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_011cr59_MND",
+  "case_key": "0:11cr59_MND",
+  "case_lni": "525W-P0R1-DXDT-G34T-00000-00",
+  "case_number": "0:11cr59",
+  "case_title": "USA v. Beltran-Aragon",
+  "case_info_full_case_name": "USA v. Beltran-Aragon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beltran-Aragon",
+  "case_date_filed": "2011-02-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Deidre Y Aanstad",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hugo Beltran-Aragon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and 1326(b)(2), and 6:202 and 557 UNLAWFUL RE-ENTRY AFTER REMOVAL(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Michael J. Davis",
+          "judge_guid": "urn:entity:jud-100071501"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Franklin L. Noel",
+          "judge_guid": "urn:entity:jud-100031426"
+        }
+      ]
+    }
+  ]
+}

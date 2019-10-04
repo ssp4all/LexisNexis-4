@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_503m48_flnd",
+  "case_key": "5:03m48_flnd",
+  "case_lni": "7WBN-FV80-Y892-B42G-00000-00",
+  "case_number": "5:03m48",
+  "case_title": "USA v. MICHAELS",
+  "case_info_full_case_name": "USA v. MICHAELS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MICHAELS",
+  "case_date_filed": "2003-10-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Larry A Bodiford",
+          "judge_guid": "urn:entity:jud-100068675"
+        }
+      ]
+    }
+  ]
+}

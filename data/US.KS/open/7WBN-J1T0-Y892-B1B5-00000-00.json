@@ -1,0 +1,96 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_607cr10169_KSD",
+  "case_key": "6:07cr10169_KSD",
+  "case_lni": "7WBN-J1T0-Y892-B1B5-00000-00",
+  "case_number": "6:07cr10169",
+  "case_title": "USA v. Viscarra",
+  "case_info_full_case_name": "USA v. Viscarra",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Viscarra",
+  "case_date_filed": "2007-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Karina J Viscarra",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546(a)"
+        },
+        {
+          "charge_description": "18:1546(a) Possess/use fraudulent documents for stay or employment in the US (INDICTMENT FILED [9/19/07]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A"
+        },
+        {
+          "charge_description": "18:1028A Aggravated identity theft (INDICTMENT FILED [9/19/07]) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408(a)(7)(B)"
+        },
+        {
+          "charge_description": "42:408(a)(7)(B) Misuse of a Social Security Number (INDICTMENT FILED [9/19/07]) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A"
+        },
+        {
+          "charge_description": "18:1028A Aggravated identity theft (INDICTMENT FILED [9/19/07]) (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001(a)(3)"
+        },
+        {
+          "charge_description": "18:1001(a)(3) Making false statements (INDICTMENT FILED [9/19/07]) (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A"
+        },
+        {
+          "charge_description": "18:1028A Aggravated identity theft (INDICTMENT FILED [9/19/07]) (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Monti L Belot",
+          "judge_guid": "urn:entity:jud-100069228"
+        }
+      ]
+    }
+  ]
+}

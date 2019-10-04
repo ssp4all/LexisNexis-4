@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_507cr772_CAND",
+  "case_key": "5:07cr772_CAND",
+  "case_lni": "7WBN-HWK0-Y892-B1JH-00000-00",
+  "case_number": "5:07cr772",
+  "case_title": "USA v. Reyes",
+  "case_info_full_case_name": "USA v. Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes",
+  "case_date_filed": "2007-12-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Thomas Reyes DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "21:841(c)(2)"
+        },
+        {
+          "charge_description": "21:841(c)(2) Possession of a Listed Chemical with Knowledge or Reasonable Cause to Believe it Will be Used to Manufacture a Controlled Substance (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(A)(iv), 846"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A)(iv), and 846 Conspiracy to Manufacture One Kilogram or More of a Mixture or Substance Containing a Detectable Amount of Phencyclidine, or PCP (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(c)(2)"
+        },
+        {
+          "charge_description": "21:841(c)(2) Knowingly and intentionally possess a List I chemical, to wit piperidine and its salts, knowing and having reasonable cause to believe that the listed chemical would be used to manufacture a controlled substance, to wit, phencyclidine (also known as PCP)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Jeremy Fogel",
+          "judge_guid": "urn:entity:jud-100087758"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard Seeborg",
+          "judge_guid": "urn:entity:jud-100030578"
+        }
+      ]
+    }
+  ]
+}

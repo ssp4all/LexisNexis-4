@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_219mj70_NVD",
+  "case_key": "2:19mj70_NVD",
+  "case_lni": "5V9C-Y2G1-DXDT-G1J0-00000-00",
+  "case_number": "2:19mj70",
+  "case_title": "USA v. Tellis, II",
+  "case_info_full_case_name": "USA v. Tellis, II",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tellis, II",
+  "case_date_filed": "2019-01-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Demetrick Lee Tellis, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count 1 - 18:922(g)(1) and 924(a)(2) - Felon in Possession of Ammunition"
+        },
+        {
+          "charge_offence_description": "Count 1 - 18:922(g)(1) and 924(a)(2) - Felon in Po"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peggy A. Leen",
+          "judge_guid": "urn:entity:jud-100030202"
+        }
+      ]
+    }
+  ]
+}

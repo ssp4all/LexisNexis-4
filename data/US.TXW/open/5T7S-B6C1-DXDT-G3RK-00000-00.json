@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_318cr2695_TXWD",
+  "case_key": "3:18cr2695_TXWD",
+  "case_lni": "5T7S-B6C1-DXDT-G3RK-00000-00",
+  "case_number": "3:18cr2695",
+  "case_title": "USA v. Pacheco-Martinez",
+  "case_info_full_case_name": "USA v. Pacheco-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pacheco-Martinez",
+  "case_date_filed": "2018-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eliseo Joselito Pacheco-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F-REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "DEFENDANT SENTENCED TO TIME SERVED, 3 YEARS NON-REPORTING SUPERVISED RELEASE, $100.00 S/A REMITTED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326.F-REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F-REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

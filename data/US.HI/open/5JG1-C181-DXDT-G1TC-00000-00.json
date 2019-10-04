@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_116cr238_HID",
+  "case_key": "1:16cr238_HID",
+  "case_lni": "5JG1-C181-DXDT-G1TC-00000-00",
+  "case_number": "1:16cr238",
+  "case_title": "USA v. Soto",
+  "case_info_full_case_name": "USA v. Soto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Soto",
+  "case_date_filed": "2016-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tyreen Soto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER -HRS 286-102 and 286-136- No license; 02/07/2016; SB; 1376830/H10(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "RICHARD L. PUGLISI",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_417po42_MND",
+  "case_key": "4:17po42_MND",
+  "case_lni": "5N1V-XNW1-DXDT-G35R-00000-00",
+  "case_number": "4:17po42",
+  "case_title": "USA vs Cedarholm",
+  "case_info_full_case_name": "USA vs Cedarholm",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cedarholm",
+  "case_date_filed": "2017-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anthony M Cedarholm",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Parking in emergency vehicle spaces, as marked for EMERGENCY VEHICLES ONLY (6411432)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Franklin L. Noel",
+          "judge_guid": "urn:entity:jud-100031426"
+        }
+      ]
+    }
+  ]
+}

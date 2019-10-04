@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_111mj2886_NMD",
+  "case_key": "1:11mj2886_NMD",
+  "case_lni": "54H1-S8J1-DXDT-G4W6-00000-00",
+  "case_number": "1:11mj2886",
+  "case_title": "USA v. Nava",
+  "case_info_full_case_name": "USA v. Nava",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nava",
+  "case_date_filed": "2011-12-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Agustin Nava",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen B. Molzen",
+          "judge_guid": "urn:entity:jud-100016109"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_911cr43_MTD",
+  "case_key": "9:11cr43_MTD",
+  "case_lni": "53KD-5TG1-DXDT-G3PJ-00000-00",
+  "case_number": "9:11cr43",
+  "case_title": "USA v. Scudder",
+  "case_info_full_case_name": "USA v. Scudder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Scudder",
+  "case_date_filed": "2011-08-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Thurlowe Arthur Scudder",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:152.F"
+        },
+        {
+          "charge_description": "18:152.F FALSE OATH IN BANKRUPTCY (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald W. Molloy",
+          "judge_guid": "urn:entity:jud-100004243"
+        }
+      ]
+    }
+  ]
+}

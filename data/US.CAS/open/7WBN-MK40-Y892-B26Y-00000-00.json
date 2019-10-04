@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_302m2029_casd",
+  "case_key": "3:02m2029_casd",
+  "case_lni": "7WBN-MK40-Y892-B26Y-00000-00",
+  "case_number": "3:02m2029",
+  "case_title": "USA v. Tave",
+  "case_info_full_case_name": "USA v. Tave",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tave",
+  "case_date_filed": "2002-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIMOTHY TAVE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(o) 371-Unlawful"
+        },
+        {
+          "charge_description": "18:922(o) and 371-Unlawful Possession and/or Transfer of Machine Gun &; Conspiracy to commit fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leo S. Papas",
+          "judge_guid": "urn:entity:jud-100028458"
+        }
+      ]
+    }
+  ]
+}

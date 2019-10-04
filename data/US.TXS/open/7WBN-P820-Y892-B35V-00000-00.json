@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_702cr709_txsd",
+  "case_key": "7:02cr709_txsd",
+  "case_lni": "7WBN-P820-Y892-B35V-00000-00",
+  "case_number": "7:02cr709",
+  "case_title": "USA v. Conejo",
+  "case_info_full_case_name": "USA v. Conejo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Conejo",
+  "case_date_filed": "2002-10-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARCELO ROMERO CONEJO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 21,USC846, 841(a)(1) 841(b)(1)(A); 9/19/02; 10 5"
+        },
+        {
+          "charge_description": "Conspiracy to possess w/intent to dist more than 5 kilogs of cocaine; Title 21, USC 846, 841(a)(1) &; 841(b)(1)(A); Offense date: 9/19/02; Penalty: Imprisonment for 10 yrs to Life* and/or a $5,000, 000 fine &; at least a 5 yr SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 74.36 21,USC841(a)(1) 841(b)(1)(A); 9/19/02; 10 5"
+        },
+        {
+          "charge_description": "Possession w/intent to dist more than 5 kilogs of cocaine that is approx 74.36 kilogs of cocaine; Title 21, USC 841(a)(1) &; 841(b)(1)(A); Offense date: 9/19/02; Penalty: Imprisonment for not more than 10 yrs to Life* and a 5 yr SRT (*Mandatory Minimum) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession with Intent to Distribute Cocaine [7:02-m-2541]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

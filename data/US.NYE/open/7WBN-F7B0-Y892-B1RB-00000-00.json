@@ -1,0 +1,113 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_199cr693_nyed",
+  "case_key": "1:99cr693_nyed",
+  "case_lni": "7WBN-F7B0-Y892-B1RB-00000-00",
+  "case_number": "1:99cr693",
+  "case_title": "USA v. Pressa",
+  "case_info_full_case_name": "USA v. Pressa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pressa",
+  "case_date_filed": "1999-07-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL PRESSA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:84=CP.F"
+        },
+        {
+          "charge_description": "21:84=CP.F USE COMMUNICATIONS FACILITY-CONTROLLED SUBSTANCE-DISTR. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 841(b)(1)(D); 18: 3551"
+        },
+        {
+          "charge_description": "21:846 and 841(b)(1)(D); 18: 3551 et seq.___ CONSPIRACY TO POSSESS NARCOTICS (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:84=CP.F"
+        },
+        {
+          "charge_description": "21:84=CP.F USE COMMUNICATIONS FACILITY-CONTROLLED SUBSTANCE-DISTR. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:84=CP.F"
+        },
+        {
+          "charge_description": "21:84=CP.F USE COMMUNICATIONS FACILITY-CONTROLLED SUBSTANCE-DISTR. (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846-CONSPIRACY"
+        },
+        {
+          "charge_description": "21:846-CONSPIRACY AND POSSESSION OF CONTROLLED SUBSTANCE. [1:98-m-1667]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles P. Sifton",
+          "judge_guid": "urn:entity:jud-100003680"
+        }
+      ]
+    }
+  ]
+}

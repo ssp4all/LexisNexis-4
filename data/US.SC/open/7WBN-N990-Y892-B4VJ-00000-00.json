@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_401m787_scd",
+  "case_key": "4:01m787_scd",
+  "case_lni": "7WBN-N990-Y892-B4VJ-00000-00",
+  "case_number": "4:01m787",
+  "case_title": "USA v. Willard, et al",
+  "case_info_full_case_name": "USA v. Willard, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Willard, et al",
+  "case_date_filed": "2001-09-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RALPH C WILLARD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "Conspire to possess with intent to distribute crack cocaine and possess with inntent to distribute crack cocaine, in violation of 21:846 and 841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Terry L. Wooten",
+          "judge_guid": "urn:entity:jud-100016641"
+        }
+      ]
+    },
+    {
+      "party_name": "STEVEN JEFFREY MULLEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "Conspire to possess with intent to distribute crack cocaine and possess with inntent to distribute crack cocaine, in violation of 21:846 and 841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Terry L. Wooten",
+          "judge_guid": "urn:entity:jud-100016641"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_516po102_FLND",
+  "case_key": "5:16po102_FLND",
+  "case_lni": "5JX5-X491-DXDT-G0R6-00000-00",
+  "case_number": "5:16po102",
+  "case_title": "USA vs PARGAS",
+  "case_info_full_case_name": "USA vs PARGAS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PARGAS",
+  "case_date_filed": "2016-06-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "MATTHEW PELLEGRINE",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "MICHAEL FRANK",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM PARGAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Speeding (4382784)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "LARRY BODIFORD",
+          "judge_guid": "urn:entity:jud-100068675"
+        }
+      ]
+    }
+  ]
+}

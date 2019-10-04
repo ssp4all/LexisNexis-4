@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117po63_VAED",
+  "case_key": "1:17po63_VAED",
+  "case_lni": "5MJN-H541-DXDT-G2DF-00000-00",
+  "case_number": "1:17po63",
+  "case_title": "USA vs Freeman",
+  "case_info_full_case_name": "USA vs Freeman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Freeman",
+  "case_date_filed": "2017-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Dayron A Freeman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING WO OPERATOR'S LICENSE-DRIVING WO VALID OPERATOR'S LICENSE (6590572)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATING COMMERCIAL VEHICLE ON PARK ROADWAY WITHOUT A PERMIT (6590571)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael S. Nachmanoff",
+          "judge_guid": "urn:entity:jud-100112063"
+        }
+      ]
+    }
+  ]
+}

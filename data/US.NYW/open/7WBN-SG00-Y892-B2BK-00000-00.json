@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_602cr6082_nywd",
+  "case_key": "6:02cr6082_nywd",
+  "case_lni": "7WBN-SG00-Y892-B2BK-00000-00",
+  "case_number": "6:02cr6082",
+  "case_title": "USA v. Beach",
+  "case_info_full_case_name": "USA v. Beach",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beach",
+  "case_date_filed": "2002-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRAD BEACH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1512B.F"
+        },
+        {
+          "charge_description": "18:1512B.F INTIMIDATION OR FORCE AGAINST WITNESS (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1513.F"
+        },
+        {
+          "charge_description": "18:1513.F RETALIATING AGAINST WITNESS, VICTIM (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1512(b) (c)"
+        },
+        {
+          "charge_description": "defendant did knowingly use and/or attempt to use intimidation and physical force and threatened another with intent to influence, delay, or prevent the other's participation in an official DEA investigation and/or future prosecution; and intentionally harassed another in an attempt to hinder, delay, prevent or dissuade the other from participating in a DEA investigation and/or future prosecution in violation of 18:1512(b) and (c) [6:02-m-4082]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief"
+        }
+      ]
+    }
+  ]
+}

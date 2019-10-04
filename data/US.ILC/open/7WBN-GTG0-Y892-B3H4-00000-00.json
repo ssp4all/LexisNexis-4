@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_207mj7214_ILCD",
+  "case_key": "2:07mj7214_ILCD",
+  "case_lni": "7WBN-GTG0-Y892-B3H4-00000-00",
+  "case_number": "2:07mj7214",
+  "case_title": "USA v. Glosser",
+  "case_info_full_case_name": "USA v. Glosser",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Glosser",
+  "case_date_filed": "2007-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gregory A Glosser",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 500 21USC841(a)(1); (b)(1)(A)(viii)"
+        },
+        {
+          "charge_description": "21:841A=CD.F On or about [3/15/07] defendant did knowingly attempt to possess 500 grams or more of a substance containing methamphetamine with intent to distribute in violation of 21 USC 841(a)(1); (b)(1)(A)(viii) and 846."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David G. Bernthal",
+          "judge_guid": "urn:entity:jud-100061640"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_209cr600_TXSD",
+  "case_key": "2:09cr600_TXSD",
+  "case_lni": "7WBN-GWS0-Y892-B3SG-00000-00",
+  "case_number": "2:09cr600",
+  "case_title": "USA v. Holtzapfel et al",
+  "case_info_full_case_name": "USA v. Holtzapfel et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Holtzapfel et al",
+  "case_date_filed": "2009-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Marshal - M",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - Mc",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "X Case Manager - Judge ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Edmond Holtzapfel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F-BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_disposition": "5 years Probation as to Count 1s-2s-3s to run concurrent; $3,000.00 fine ($1,000.00 as to each count); $300.00 special assessment ($100.00 as to each count);"
+        },
+        {
+          "charge_description": "CONSPIRE TO BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_disposition": "5 years Probation as to Count 1s-2s-3s to run concurrent; $3,000.00 fine ($1,000.00 as to each count); $300.00 special assessment ($100.00 as to each count);"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONSPIRE TO BRINGING IN AND HARBORING ALIENS (1s)"
+        },
+        {
+          "charge_disposition": "5 years Probation as to Count 1s-2s-3s to run concurrent; $3,000.00 fine ($1,000.00 as to each count); $300.00 special assessment ($100.00 as to each count);"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (2-3)"
+        },
+        {
+          "charge_disposition": "5 years Probation as to Count 1s-2s-3s to run concurrent; $3,000.00 fine ($1,000.00 as to each count); $300.00 special assessment ($100.00 as to each count);"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (2s-3s)"
+        },
+        {
+          "charge_disposition": "5 years Probation as to Count 1s-2s-3s to run concurrent; $3,000.00 fine ($1,000.00 as to each count); $300.00 special assessment ($100.00 as to each count);"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hayden Head",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    },
+    {
+      "party_name": "Edgar Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRE TO BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONSPIRE TO BRINGING IN AND HARBORING ALIENS (1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (3s)"
+        },
+        {
+          "charge_disposition": "Not Guilty by Jury Verdict"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hayden Head",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    },
+    {
+      "party_name": "Robert Wilson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRE TO BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_disposition": "Cts 1s-2s-3s to 3 years Probation Concurrently; $3000.00 Fine; $300 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (2-3)"
+        },
+        {
+          "charge_disposition": "Cts 1s-2s-3s to 3 years Probation Concurrently; $3000.00 Fine; $300 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hayden Head",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    }
+  ]
+}

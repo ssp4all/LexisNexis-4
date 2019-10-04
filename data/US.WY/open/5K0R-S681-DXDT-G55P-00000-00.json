@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_516cr112_WYD",
+  "case_key": "5:16cr112_WYD",
+  "case_lni": "5K0R-S681-DXDT-G55P-00000-00",
+  "case_number": "5:16cr112",
+  "case_title": "USA v. Reynolds",
+  "case_info_full_case_name": "USA v. Reynolds",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reynolds",
+  "case_date_filed": "2016-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marc R Reynolds",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARIJUANA - POSSESSION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

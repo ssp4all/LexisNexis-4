@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_199m3390_flsd",
+  "case_key": "1:99m3390_flsd",
+  "case_lni": "7WBN-DK60-Y892-B4YJ-00000-00",
+  "case_number": "1:99m3390",
+  "case_title": "USA v. Browning",
+  "case_info_full_case_name": "USA v. Browning",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Browning",
+  "case_date_filed": "1999-09-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOYCE BEVERLY BROWNING",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failure to declare outboudn currency."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John J. O'Sullivan",
+          "judge_guid": "urn:entity:jud-100035772"
+        }
+      ]
+    }
+  ]
+}

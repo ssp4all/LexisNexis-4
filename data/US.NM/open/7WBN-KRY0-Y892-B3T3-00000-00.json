@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_206cr682_NMD",
+  "case_key": "2:06cr682_NMD",
+  "case_lni": "7WBN-KRY0-Y892-B3T3-00000-00",
+  "case_number": "2:06cr682",
+  "case_title": "USA v. Ramirez-Cortes",
+  "case_info_full_case_name": "USA v. Ramirez-Cortes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Cortes",
+  "case_date_filed": "2006-04-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alberto Ramirez-Cortes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1)&;(a)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1)&;(a)(2) Reentry after Deportation [2:06-m-4005] (0-0)"
+        },
+        {
+          "charge_statute": "8:1326(a)(1)&;(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1)&;(2) REENTRY OF DEPORTED ALIEN (1-1)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_110mj1049_COD",
+  "case_key": "1:10mj1049_COD",
+  "case_lni": "7XV7-HCC0-Y892-B26Y-00000-00",
+  "case_number": "1:10mj1049",
+  "case_title": "USA v. Matlis",
+  "case_info_full_case_name": "USA v. Matlis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Matlis",
+  "case_date_filed": "2010-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David James Matlis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Interference With Flight Crew Members And Attendants (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Craig B Shaffer",
+          "judge_guid": "urn:entity:jud-100021357"
+        }
+      ]
+    }
+  ]
+}

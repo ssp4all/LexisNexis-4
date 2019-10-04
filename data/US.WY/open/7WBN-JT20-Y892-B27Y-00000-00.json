@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_108cr65_WYD",
+  "case_key": "1:08cr65_WYD",
+  "case_lni": "7WBN-JT20-Y892-B27Y-00000-00",
+  "case_number": "1:08cr65",
+  "case_title": "USA v. Hayes",
+  "case_info_full_case_name": "USA v. Hayes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hayes",
+  "case_date_filed": "2008-03-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William J Hayes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:2250(a)"
+        },
+        {
+          "charge_description": "FAILURE TO REGISTER AS A SEX OFFENDER (18:2250(a) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC2250-Failure"
+        },
+        {
+          "charge_description": "18 USC 2250-Failure to Register as a Sex Offender"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Clarence A Brimmer",
+          "judge_guid": "urn:entity:jud-100064289"
+        }
+      ]
+    }
+  ]
+}

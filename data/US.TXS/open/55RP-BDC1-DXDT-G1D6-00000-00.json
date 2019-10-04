@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_412mj465_TXSD",
+  "case_key": "4:12mj465_TXSD",
+  "case_lni": "55RP-BDC1-DXDT-G1D6-00000-00",
+  "case_number": "4:12mj465",
+  "case_title": "USA v. Hernandez-Mondragon et al",
+  "case_info_full_case_name": "USA v. Hernandez-Mondragon et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Mondragon et al",
+  "case_date_filed": "2012-05-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Santiago Hernandez-Mondragon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Engaged in a conspiracy to conceal, harbor, or shield from detection, or attempted to conceal, harbor, or shield from detection, such alien in any place, including any building or any means of transportation in furtherance of such violation of law; 8 Usc 1324(a)(1)(A)(v)(I), 8:1324.F"
+        },
+        {
+          "charge_offence_description": "Engaged in a conspiracy to conceal, harbor, or shi"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frances H Stacy",
+          "judge_guid": "urn:entity:jud-100020287"
+        }
+      ]
+    },
+    {
+      "party_name": "Leonel Medrano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Engaged in a conspiracy to conceal, harbor, or shield from detection, or attempted to conceal, harbor, or shield from detection, such alien in any place, including any building or any means of transportation in furtherance of such violation of law; 8 Usc 1324(a)(1)(A)(v)(I), 8:1324.F"
+        },
+        {
+          "charge_offence_description": "Engaged in a conspiracy to conceal, harbor, or shi"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frances H Stacy",
+          "judge_guid": "urn:entity:jud-100020287"
+        }
+      ]
+    }
+  ]
+}

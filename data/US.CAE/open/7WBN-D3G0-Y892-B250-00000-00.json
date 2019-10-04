@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_609mj2_CAED",
+  "case_key": "6:09mj2_CAED",
+  "case_lni": "7WBN-D3G0-Y892-B250-00000-00",
+  "case_number": "6:09mj2",
+  "case_title": "USA v. Hanson",
+  "case_info_full_case_name": "USA v. Hanson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hanson",
+  "case_date_filed": "2009-01-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Heidi Hanson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7990.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William M. Wunderlich",
+          "judge_guid": "urn:entity:jud-100021670"
+        }
+      ]
+    }
+  ]
+}

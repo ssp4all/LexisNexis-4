@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ID_197m4764_idd",
+  "case_key": "1:97m4764_idd",
+  "case_lni": "7WBN-K610-Y892-B43R-00000-00",
+  "case_number": "1:97m4764",
+  "case_title": "USA v. Dyer",
+  "case_info_full_case_name": "USA v. Dyer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dyer",
+  "case_date_filed": "1997-12-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DONALD PATRICK DYER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC922(g)(9)--Possession"
+        },
+        {
+          "charge_description": "18 USC 922(g)(9)--Possession of Firearms after conviction of Domestic Violence Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Larry M. Boyle",
+          "judge_guid": "urn:entity:jud-100064538"
+        }
+      ]
+    }
+  ]
+}

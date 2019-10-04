@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_300cr1739_casd",
+  "case_key": "3:00cr1739_casd",
+  "case_lni": "7WBN-FGK0-Y892-B1D5-00000-00",
+  "case_number": "3:00cr1739",
+  "case_title": "USA v. Alvarado-Gomez",
+  "case_info_full_case_name": "USA v. Alvarado-Gomez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarado-Gomez",
+  "case_date_filed": "2000-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MONICA ALVARADO-GOMEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of Heroin with Intent to Distribute (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of Cocaine (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of Cocaine with Intent to Distribute (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of Heroin (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Irma E Gonzalez",
+          "judge_guid": "urn:entity:jud-100042724"
+        }
+      ]
+    }
+  ]
+}

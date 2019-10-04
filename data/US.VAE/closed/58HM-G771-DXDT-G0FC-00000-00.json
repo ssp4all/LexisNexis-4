@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_213cr72_VAED",
+  "case_key": "2:13cr72_VAED",
+  "case_lni": "58HM-G771-DXDT-G0FC-00000-00",
+  "case_number": "2:13cr72",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2013-05-24",
+  "case_status": "Closed",
+  "case_status_date": "05/24/2013",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anthony M. Johnson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "T.21:846, 841(b)(1)(B) - Conspiracy to distribute a mixture or substance containing a detectable amount of cocaine base, Sch. II(1)"
+        },
+        {
+          "charge_disposition": "Seventy-eight (78) Months Imprisonment; Four (4) Years Supervised Release; $100.00 Restitution. (Sentence imposed on 8/19/09 by the Hon. William K. Sessions, III, Chief Judge in the District of Vermont.)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_697cr228_flmd",
+  "case_key": "6:97cr228_flmd",
+  "case_lni": "7WBN-DFP0-Y892-B0N9-00000-00",
+  "case_number": "6:97cr228",
+  "case_title": "USA v. Keith",
+  "case_info_full_case_name": "USA v. Keith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Keith",
+  "case_date_filed": "1997-11-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dryden McKinley Keith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F Narcotics   Sell, Distribute, OR Dispense (Possess With Intent to Distribute And Distribute Cocaine Base) (1)"
+        },
+        {
+          "charge_disposition": "92 Months Imprisonment; 5 Years Supervised Release; 150 Hours Community Service; $100 Special Assessment. 02/01/99: Sentence Reduced to A Term of 70 Months. All Other Terms And Conditions of The Judgment Shall Remain The Same."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Anne C Conway",
+          "judge_guid": "urn:entity:jud-100049795"
+        }
+      ]
+    }
+  ]
+}

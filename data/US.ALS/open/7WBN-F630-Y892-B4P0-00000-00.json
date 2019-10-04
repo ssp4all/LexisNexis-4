@@ -1,0 +1,110 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_197cr155_alsd",
+  "case_key": "1:97cr155_alsd",
+  "case_lni": "7WBN-F630-Y892-B4P0-00000-00",
+  "case_number": "1:97cr155",
+  "case_title": "USA v. Garcia, et al",
+  "case_info_full_case_name": "USA v. Garcia, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia, et al",
+  "case_date_filed": "1997-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Probation for a term of 3 years as t o Count one of the indictment. SA $100.00, Rest. $1480.00 as further set out. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:471.F"
+        },
+        {
+          "charge_description": "18:471.F UTTERS COUNTERFEIT OBLIGATIONS (2-4)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Probation for a term of 3 years as t o Count one of the indictment. SA $100.00, Rest. $1480.00 as further set out. (2-4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles Butler, Jr.",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    },
+    {
+      "party_name": "FREIDA GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Probation for a term of 3 years as to count one. SA $100.00 Restitution $1,480.00. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:471.F"
+        },
+        {
+          "charge_description": "18:471.F UTTERS COUNTERFEIT OBLIGATIONS (2-4)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Probation for a term of 3 years as to count one. SA $100.00 Restitution $1,480.00. (2-4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles Butler, Jr.",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    }
+  ]
+}

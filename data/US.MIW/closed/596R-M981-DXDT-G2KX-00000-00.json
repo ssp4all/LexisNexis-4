@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_113cr119_MIWD",
+  "case_key": "1:13cr119_MIWD",
+  "case_lni": "596R-M981-DXDT-G2KX-00000-00",
+  "case_number": "1:13cr119",
+  "case_title": "USA v. Dunnington",
+  "case_info_full_case_name": "USA v. Dunnington",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dunnington",
+  "case_date_filed": "2013-06-25",
+  "case_status": "Closed",
+  "case_status_date": "12/20/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Sean M. Lewis",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bruce Dunnington",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1952(a)(3)(A); 21:841(a)(1); 18:2 - RACKETEERING - TRANSPORTING IN AID OF; interstate travel in aid of racketeering(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 60 months in custody followed by 3 years supervised release; shall pay $100 special assessment; SEE DOCUMENT #44 FOR AMENDED JUDGMENT; SEE DOCUMENT #56 FOR ORDER MODIFYING SENTENCE"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Paul L. Maloney",
+          "judge_guid": "urn:entity:jud-100029144"
+        }
+      ]
+    },
+    {
+      "party_name": "Federal Public Defender",
+      "party_description": "Interested Party",
+      "charges": [
+        {
+          "charge_description": "Federal Public Defender re Amendment 782 motion"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Federal Public Defender re Amendment 782 motion\t\t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Paul L. Maloney",
+          "judge_guid": "urn:entity:jud-100029144"
+        }
+      ]
+    }
+  ]
+}

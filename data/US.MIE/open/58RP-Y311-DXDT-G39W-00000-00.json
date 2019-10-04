@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_213cr20480_MIED",
+  "case_key": "2:13cr20480_MIED",
+  "case_lni": "58RP-Y311-DXDT-G39W-00000-00",
+  "case_number": "2:13cr20480",
+  "case_title": "United States of America v. Linseman",
+  "case_info_full_case_name": "United States of America v. Linseman",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Linseman",
+  "case_date_filed": "2013-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Linda C Linseman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PUBLIC MONEY, PROPERTY OR RECORDS(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 32 Months; SUPERVISED RELEASE: 3 Years; RESTITUTION: $385,242.73; SPECIAL ASSESSMENT: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert H. Cleland",
+          "judge_guid": "urn:entity:jud-100062545"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Laurie J. Michelson",
+          "judge_guid": "urn:entity:jud-100017969"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_199m180_txwd",
+  "case_key": "1:99m180_txwd",
+  "case_lni": "7WBN-K940-Y892-B117-00000-00",
+  "case_number": "1:99m180",
+  "case_title": "USA v. Murphy",
+  "case_info_full_case_name": "USA v. Murphy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Murphy",
+  "case_date_filed": "1999-06-07",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JIMMY DON MURPHY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "The defendant did unlawfully flee the State of Texas, Western District of Texas, to avoid prosecution for parole violation, a felony offense in violation of Title 18 USC 1073."
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable"
+        }
+      ]
+    }
+  ]
+}

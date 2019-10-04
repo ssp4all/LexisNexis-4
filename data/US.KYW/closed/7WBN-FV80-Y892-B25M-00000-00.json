@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_502m209_kywd",
+  "case_key": "5:02m209_kywd",
+  "case_lni": "7WBN-FV80-Y892-B25M-00000-00",
+  "case_number": "5:02m209",
+  "case_title": "USA v. Sorrell",
+  "case_info_full_case_name": "USA v. Sorrell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sorrell",
+  "case_date_filed": "2002-05-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MATTHEW T. SORRELL",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "W. David King",
+          "judge_guid": "urn:entity:jud-100040342"
+        }
+      ]
+    }
+  ]
+}

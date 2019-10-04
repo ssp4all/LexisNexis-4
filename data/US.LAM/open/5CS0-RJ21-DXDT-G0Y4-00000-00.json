@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAM_314cr85_LAMD",
+  "case_key": "3:14cr85_LAMD",
+  "case_lni": "5CS0-RJ21-DXDT-G0Y4-00000-00",
+  "case_number": "3:14cr85",
+  "case_title": "USA v. Castillo-Aguilar",
+  "case_info_full_case_name": "USA v. Castillo-Aguilar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Aguilar",
+  "case_date_filed": "2014-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Olvin Noe Castillo-Aguilar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F"
+        },
+        {
+          "charge_offence_description": "8:1326A.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Shelly D. Dick",
+          "judge_guid": "urn:entity:jud-100104515"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard L. Bourgeois, Jr",
+          "judge_guid": "urn:entity:jud-100103988"
+        }
+      ]
+    }
+  ]
+}

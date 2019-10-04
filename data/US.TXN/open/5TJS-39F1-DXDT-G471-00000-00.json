@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_318mj703_TXND",
+  "case_key": "3:18mj703_TXND",
+  "case_lni": "5TJS-39F1-DXDT-G471-00000-00",
+  "case_number": "3:18mj703",
+  "case_title": "USA v. Amoako",
+  "case_info_full_case_name": "USA v. Amoako",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Amoako",
+  "case_date_filed": "2018-10-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Melanie Smith-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Quentin Lee Amoako",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. ยง 841(a)(1)"
+        },
+        {
+          "charge_offence_description": "21 U.S.C. &#167; 841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Irma Carrillo Ramirez",
+          "judge_guid": "urn:entity:jud-100018333"
+        }
+      ]
+    }
+  ]
+}

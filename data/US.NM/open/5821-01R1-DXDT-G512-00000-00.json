@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_213po772_NMD",
+  "case_key": "2:13po772_NMD",
+  "case_lni": "5821-01R1-DXDT-G512-00000-00",
+  "case_number": "2:13po772",
+  "case_title": "USA v. Alvarez-Telule",
+  "case_info_full_case_name": "USA v. Alvarez-Telule",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarez-Telule",
+  "case_date_filed": "2013-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Hector Antonio Alvarez-Telule",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325(a)(1) Illegal Entry Without Inspection"
+        },
+        {
+          "charge_offence_description": "8:1325(a)(1) Illegal Entry Without Inspection"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephan M. Vidmar",
+          "judge_guid": "urn:entity:jud-100018913"
+        }
+      ]
+    }
+  ]
+}

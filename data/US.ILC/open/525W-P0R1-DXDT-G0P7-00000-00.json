@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_411cr40016_ILCD",
+  "case_key": "4:11cr40016_ILCD",
+  "case_lni": "525W-P0R1-DXDT-G0P7-00000-00",
+  "case_number": "4:11cr40016",
+  "case_title": "USA v. Loeza-Cortez",
+  "case_info_full_case_name": "USA v. Loeza-Cortez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Loeza-Cortez",
+  "case_date_filed": "2011-02-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ulyses Loeza-Cortez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS on or about 1/7/2011, in Rock Island County, in the CDIL, the Dft. an alien, a native and citizen of Mexico, having been previously deported, was found to be in the US without the AG or Secretary of the Department of Homeland Security's consent, in violation of 8 USC §§ 1326(a) and (b)(2).(1)"
+        },
+        {
+          "charge_disposition": "IT IS ORDERED: On Count 1 Dft is committed to the custody of the BOP for a term of 38 months, 2 years supervised release with special conditions, no fine, $100 special assessment due immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "James E. Shadid",
+          "judge_guid": "urn:entity:jud-100013199"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

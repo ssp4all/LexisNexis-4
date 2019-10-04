@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_615mj1057_FLMD",
+  "case_key": "6:15mj1057_FLMD",
+  "case_lni": "5F73-TNP1-DXDT-G04C-00000-00",
+  "case_number": "6:15mj1057",
+  "case_title": "USA v. Veugeler",
+  "case_info_full_case_name": "USA v. Veugeler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Veugeler",
+  "case_date_filed": "2015-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Peter Philip Veugeler",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES"
+        },
+        {
+          "charge_offence_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gregory J. Kelly",
+          "judge_guid": "urn:entity:jud-100043204"
+        }
+      ]
+    }
+  ]
+}

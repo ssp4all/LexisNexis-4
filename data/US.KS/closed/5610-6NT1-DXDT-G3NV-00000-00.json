@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B12po90085_KSD",
+  "case_key": "B:12po90085_KSD",
+  "case_lni": "5610-6NT1-DXDT-G3NV-00000-00",
+  "case_number": "B:12po90085",
+  "case_title": "USA v. Pollen",
+  "case_info_full_case_name": "USA v. Pollen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pollen",
+  "case_date_filed": "2012-06-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Annemarie P.E. Vazquez",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brandon M. Pollen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 21-5607)-Furnishing"
+        },
+        {
+          "charge_description": "18:13 (K.S.A. 21-5607)-Furnishing alcohol to a minor (Class B) INFORMATION [06/21/2012] (1)"
+        },
+        {
+          "charge_disposition": "oral PTD ending 60 days from 06/21/2012 and a $200 Diversion Fine"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kenneth G. Gale",
+          "judge_guid": "urn:entity:jud-100055199"
+        }
+      ]
+    }
+  ]
+}

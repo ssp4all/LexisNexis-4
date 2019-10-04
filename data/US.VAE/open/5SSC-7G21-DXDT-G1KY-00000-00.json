@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_218cr107_VAED",
+  "case_key": "2:18cr107_VAED",
+  "case_lni": "5SSC-7G21-DXDT-G1KY-00000-00",
+  "case_number": "2:18cr107",
+  "case_title": "USA v. Espinoza-Hernandez",
+  "case_info_full_case_name": "USA v. Espinoza-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Espinoza-Hernandez",
+  "case_date_filed": "2018-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Voni Espinoza-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "T.8:1326(a) - Reentry of a Previously Deported Alien(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Raymond A. Jackson",
+          "judge_guid": "urn:entity:jud-100033530"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_217cr502_TXSD",
+  "case_key": "2:17cr502_TXSD",
+  "case_lni": "5P9V-9GV1-DXDT-G00H-00000-00",
+  "case_number": "2:17cr502",
+  "case_title": "USA v. Texco-Dorantes",
+  "case_info_full_case_name": "USA v. Texco-Dorantes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Texco-Dorantes",
+  "case_date_filed": "2017-08-21",
+  "case_status": "Closed",
+  "case_status_date": "08/21/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Texco-Dorantes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME - CRIMINAL FORFEITURE(2)"
+        },
+        {
+          "charge_disposition": "60 months imprisonment cs,3 yrs sup/rel cc, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE COCAINE(3)"
+        },
+        {
+          "charge_disposition": "22 months imprisonment cs,3 yrs sup/rel cc, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John D Rainey",
+          "judge_guid": "urn:entity:jud-100027752"
+        }
+      ]
+    }
+  ]
+}

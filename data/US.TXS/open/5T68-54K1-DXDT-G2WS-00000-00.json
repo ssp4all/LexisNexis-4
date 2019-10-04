@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_218mj3756_TXSD",
+  "case_key": "2:18mj3756_TXSD",
+  "case_lni": "5T68-54K1-DXDT-G2WS-00000-00",
+  "case_number": "2:18mj3756",
+  "case_title": "USA v. Garcia-Carrillo",
+  "case_info_full_case_name": "USA v. Garcia-Carrillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Carrillo",
+  "case_date_filed": "2018-09-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Garcia-Carrillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P --- Concealment of Facts of Reentry"
+        },
+        {
+          "charge_offence_description": "8:1325.P --- Concealment of Facts of Reentry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    }
+  ]
+}

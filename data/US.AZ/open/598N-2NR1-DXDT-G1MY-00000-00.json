@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_213mj3325_AZD",
+  "case_key": "2:13mj3325_AZD",
+  "case_lni": "598N-2NR1-DXDT-G1MY-00000-00",
+  "case_number": "2:13mj3325",
+  "case_title": "USA v. Gomez-Cornejo",
+  "case_info_full_case_name": "USA v. Gomez-Cornejo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez-Cornejo",
+  "case_date_filed": "2013-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Manuel Gomez-Cornejo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and enhanced by (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) and enhanced by (b)(1) - Reentry of Remo"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    }
+  ]
+}

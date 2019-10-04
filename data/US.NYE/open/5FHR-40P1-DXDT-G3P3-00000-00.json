@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_215cr109_NYED",
+  "case_key": "2:15cr109_NYED",
+  "case_lni": "5FHR-40P1-DXDT-G3P3-00000-00",
+  "case_number": "2:15cr109",
+  "case_title": "USA v. Osbourne",
+  "case_info_full_case_name": "USA v. Osbourne",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Osbourne",
+  "case_date_filed": "2015-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Duane Jeleal Osbourne",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Arthur D. Spatt",
+          "judge_guid": "urn:entity:jud-100020419"
+        }
+      ]
+    }
+  ]
+}

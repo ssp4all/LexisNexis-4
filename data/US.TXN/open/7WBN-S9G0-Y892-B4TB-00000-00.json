@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_503mj61_txnd",
+  "case_key": "5:03mj61_txnd",
+  "case_lni": "7WBN-S9G0-Y892-B4TB-00000-00",
+  "case_number": "5:03mj61",
+  "case_title": "USA v. Muniz-Solis",
+  "case_info_full_case_name": "USA v. Muniz-Solis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Muniz-Solis",
+  "case_date_filed": "2003-05-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Manuel Muniz-Solis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 Illegal Re-entry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Nancy",
+          "judge_name": "M Koenig",
+          "judge_guid": "urn:entity:jud-100040097"
+        }
+      ]
+    },
+    {
+      "party_name": "USMS-",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "USPT-",
+      "party_description": "Interested Party"
+    }
+  ]
+}

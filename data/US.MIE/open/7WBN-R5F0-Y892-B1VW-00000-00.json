@@ -1,0 +1,107 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_204cr80371_MIED",
+  "case_key": "2:04cr80371_MIED",
+  "case_lni": "7WBN-R5F0-Y892-B1VW-00000-00",
+  "case_number": "2:04cr80371",
+  "case_title": "United States of America v. Wilson et al",
+  "case_info_full_case_name": "United States of America v. Wilson et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Wilson et al",
+  "case_date_filed": "2004-04-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gloria Jane Wilson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARIJUANA - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 1 DAY, SUPERVISED RELEASE: 4 YEARS, ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Denise Page Hood",
+          "judge_guid": "urn:entity:jud-100079965"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Donald A Scheer",
+          "judge_guid": "urn:entity:jud-100070463"
+        }
+      ]
+    },
+    {
+      "party_name": "Kevin Lorenzo Waller",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT:48 MONTHS; SUPERVISED RELEASE: 4 YEARS; SPECIAL ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Denise Page Hood",
+          "judge_guid": "urn:entity:jud-100079965"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Donald A Scheer",
+          "judge_guid": "urn:entity:jud-100070463"
+        }
+      ]
+    },
+    {
+      "party_name": "Kevin Izzard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 60 MONTHS; SUPERVISED RELEASE: 4 YEARS; SPECIAL ASSESSMENT: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Denise Page Hood",
+          "judge_guid": "urn:entity:jud-100079965"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Donald A Scheer",
+          "judge_guid": "urn:entity:jud-100070463"
+        }
+      ]
+    }
+  ]
+}

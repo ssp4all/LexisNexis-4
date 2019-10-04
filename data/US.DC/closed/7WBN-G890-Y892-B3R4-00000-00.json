@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_107mj93_DCD",
+  "case_key": "1:07mj93_DCD",
+  "case_lni": "7WBN-G890-Y892-B3R4-00000-00",
+  "case_number": "1:07mj93",
+  "case_title": "USA v. FETENE",
+  "case_info_full_case_name": "USA v. FETENE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "FETENE",
+  "case_date_filed": "2007-03-14",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Debra L. Long-Doyle",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EYOB DEMOZE FETENE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT filed in violation of 18:1344."
+        },
+        {
+          "charge_offence_description": "COMPLAINT filed in violation of 18:1344."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John M. Facciola",
+          "judge_guid": "urn:entity:jud-100046873"
+        }
+      ]
+    }
+  ]
+}

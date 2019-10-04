@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_214cr943_NMD",
+  "case_key": "2:14cr943_NMD",
+  "case_lni": "5BV1-VBF1-DXDT-G14R-00000-00",
+  "case_number": "2:14cr943",
+  "case_title": "USA v. Soliz-Moreno et al",
+  "case_info_full_case_name": "USA v. Soliz-Moreno et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Soliz-Moreno et al",
+  "case_date_filed": "2014-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Daniel Soliz-Moreno",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846:  CONSPIRACY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute Approximately 39.4 Kilograms of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    },
+    {
+      "party_name": "Eddy Alvarado-Chavez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846:  CONSPIRACY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute Approximately 39.4 Kilograms of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

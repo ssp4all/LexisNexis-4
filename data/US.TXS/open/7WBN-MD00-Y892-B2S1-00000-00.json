@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_298m62_txsd",
+  "case_key": "2:98m62_txsd",
+  "case_lni": "7WBN-MD00-Y892-B2S1-00000-00",
+  "case_number": "2:98m62",
+  "case_title": "USA v. Ramos",
+  "case_info_full_case_name": "USA v. Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos",
+  "case_date_filed": "1998-03-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA ANGELICA RAMOS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1970, 150"
+        },
+        {
+          "charge_description": "Knowingly, intentionally and unlawfully possess w/intent to distribute a controlled substance in Schedule I of the Controlled Act of 1970, to wit: 150 lbs. (approx. gross weight) of marijuana. 21:841(a)(l)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

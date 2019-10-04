@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_714po1322_LAWD",
+  "case_key": "7:14po1322_LAWD",
+  "case_lni": "5DW5-TX61-DXDT-G2V3-00000-00",
+  "case_number": "7:14po1322",
+  "case_title": "USA vs Gibbs",
+  "case_info_full_case_name": "USA vs Gibbs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gibbs",
+  "case_date_filed": "2014-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mckayla A Gibbs",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Smoking in motor vehicle (4506454)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen Kay",
+          "judge_guid": "urn:entity:jud-100037773"
+        }
+      ]
+    }
+  ]
+}

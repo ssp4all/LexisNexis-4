@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_300m134_vawd",
+  "case_key": "3:00m134_vawd",
+  "case_lni": "7WBN-H400-Y892-B2KY-00000-00",
+  "case_number": "3:00m134",
+  "case_title": "USA v. 684 Kildare Drive",
+  "case_info_full_case_name": "USA v. 684 Kildare Drive",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "684 Kildare Drive",
+  "case_date_filed": "2000-05-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "IN THE MATTER OF: 684 KILDARE DRIVE ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Waugh Crigler",
+          "judge_guid": "urn:entity:jud-100045545"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_191cr265_ilnd",
+  "case_key": "1:91cr265_ilnd",
+  "case_lni": "7WBN-GBW0-Y892-B1WB-00000-00",
+  "case_number": "1:91cr265",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "1991-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT EARL JONES",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Elaine E. Bucklo",
+          "judge_guid": "urn:entity:jud-100063865"
+        }
+      ]
+    }
+  ]
+}

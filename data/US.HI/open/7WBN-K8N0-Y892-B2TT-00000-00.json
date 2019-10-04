@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_199cr541_hid",
+  "case_key": "1:99cr541_hid",
+  "case_lni": "7WBN-K8N0-Y892-B2TT-00000-00",
+  "case_number": "1:99cr541",
+  "case_title": "USA v. Miller",
+  "case_info_full_case_name": "USA v. Miller",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miller",
+  "case_date_filed": "1999-11-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL P. MILLER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-2400; 708-810(1)"
+        },
+        {
+          "charge_description": "18:13-2400; HRS 708-810(1) BURGLARY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 Theft of Govt Property (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:661"
+        },
+        {
+          "charge_description": "18:661 LARCENY W/IN SPECIAL MARITIME JURISDICTION (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alan C. Kay",
+          "judge_guid": "urn:entity:jud-100043329"
+        }
+      ]
+    }
+  ]
+}

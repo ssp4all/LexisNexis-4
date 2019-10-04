@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_506mj1978_TXSD",
+  "case_key": "5:06mj1978_TXSD",
+  "case_lni": "7WBN-HW40-Y892-B4RB-00000-00",
+  "case_number": "5:06mj1978",
+  "case_title": "USA v. Sanchez",
+  "case_info_full_case_name": "USA v. Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez",
+  "case_date_filed": "2006-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Gilbert Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-Bringing"
+        },
+        {
+          "charge_description": "8:1324.F-Bringing In and Harboring Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Saldana",
+          "judge_guid": "urn:entity:jud-100059638"
+        }
+      ]
+    },
+    {
+      "party_name": "Rogelio Arriaga-Rolon",
+      "party_description": "material witness"
+    },
+    {
+      "party_name": "Norma Azmitia-Montalvo",
+      "party_description": "material witness"
+    }
+  ]
+}

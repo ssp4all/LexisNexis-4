@@ -1,0 +1,654 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_191cr322_nyed",
+  "case_key": "1:91cr322_nyed",
+  "case_lni": "7WBN-D290-Y892-B07S-00000-00",
+  "case_number": "1:91cr322",
+  "case_title": "USA v. Kaid, et al",
+  "case_info_full_case_name": "USA v. Kaid, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kaid, et al",
+  "case_date_filed": "1991-04-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Derhim Hussain Kaid",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 and 3551."
+        },
+        {
+          "charge_description": "18:371 and 3551. Fraud, Other : Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced to 5 Years Probation; 3 Months Home Detention; Restitution Set by Probation Dept., Run Concurrently With Each Count. $700 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551."
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551. Fraud Food Stamp Program (2-14)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced to 5 Years Probation; 3 Months Home Detention; Restitution Set by Probation Dept., Run Concurrently With Each Count. $700 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Mohamed #1 Alkaifi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (15-20)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Abdulla Salh Alkaifi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (21)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced to 5 Years Probation' $25.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud (1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (22-24)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Abdul Lohkami Alkaifi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (25-29)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Ali Abdullah Mohammed Saleh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (30-31)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced to 5 Years Probation; And $100.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Ahmed Amair Maflahi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 3551 Fraud Food Stamp Program (32-34)"
+        },
+        {
+          "charge_disposition": "Count 1 is Dismissed on Govt's Motion. Dft is Sentenced to 5 Years Probation With Special Conditions : The Dft's to Serve 2 Months in Home Confinement And That he Make Restitution of $9,7000.00. And he is Also to Pay $150.00 For S Pecial Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt.S Motion."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Nagi Abdo Alkifi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (35-38)"
+        },
+        {
+          "charge_disposition": "Count 1 Dismissed on Govt's Motion. Dft is Sentenced to 5 Years Probation; 2 Months Home Detention; Restitution Set by Probation Dept., Concurrent With Each Count; And $200 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt.'S Motion."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Abdul. Alkaifi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (39-46)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Ali Mohamed Abdul Sharhan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (47)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced to 5 Years Probation; Restitution in The Amount of $9,674.00, And Special Assessment of $100.00."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (49)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced to 5 Years Probation; Restitution in The Amount of $9,674.00, And Special Assessment of $100.00."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (48)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (50-52)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Mohamed #2 Alkaifi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (54-55)"
+        },
+        {
+          "charge_disposition": "Count 1 And 53 Are Dismissed on Govt's Motion. Dft is Sentenced to 5 Years Probation; $1,250.00 Restitution; And $100.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (53)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Ali Alkaifi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (56-58)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced to 5 Years Probation; $150.00 Special Assessment; 3 Months Home Detention; And $3,750.00 Restitution."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Alex Alkaifi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (59-61)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Ali Sharhan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (62-64)"
+        },
+        {
+          "charge_disposition": "Dft is Sentenced to 5 Years Probation With Special Condition That The Dft Serve 2 Months Home Detention And Make Resitution of $7,750.00 TI The Dept. of Agriculture."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Mohamed Abdul Moselh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (65-67)"
+        },
+        {
+          "charge_disposition": "Count 1 is Dismissed on Govt's Motion. Dft is Sentenced to 5 Years Probation - 3 Months Home Detention; Restitution of $8,000.00 And $150.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt.'S Motion."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Omar M. Musleh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (68)"
+        },
+        {
+          "charge_disposition": "Count 1 is Dismissed on Govt's Motion. Dft is Sentenced to 3 Years Probation; 2 Months Home Detention; $2,250.00 Restitution; And $50.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt.'S Motion."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    },
+    {
+      "party_name": "Ali Mohamed Kaid",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b), 18:2 and 3551"
+        },
+        {
+          "charge_description": "7:2024(b), 18:2 and 3551 Fraud Food Stamp Program (69-70)"
+        },
+        {
+          "charge_disposition": "Count 1 is Dismissed on Govt's Motion. Dft is Sentenced to 3 Years Probation. 2 Months Home Detention, Restitution $4,300.00 And $100.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371 and 3551"
+        },
+        {
+          "charge_description": "18:371 and 3551 Fraud, Other   Food Stamp Fraud. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt.'S Motion."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Senior-Judge Edward R Korman",
+          "judge_guid": "urn:entity:jud-100036973"
+        }
+      ]
+    }
+  ]
+}

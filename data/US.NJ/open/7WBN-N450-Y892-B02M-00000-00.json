@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_395m1145_njd",
+  "case_key": "3:95m1145_njd",
+  "case_lni": "7WBN-N450-Y892-B02M-00000-00",
+  "case_number": "3:95m1145",
+  "case_title": "USA v. ROMANO",
+  "case_info_full_case_name": "USA v. ROMANO",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ROMANO",
+  "case_date_filed": "1995-12-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTONIO DARYO ROMANO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USCs 4082(a) 751(a)"
+        },
+        {
+          "charge_description": "Title 18, United States Code, Sections 4082(a) and 751(a) did knowingly and wilfully escape from FCI Fort Dix by failing to return within the time prescribed after a furlough outside the institution."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "John J. Hughes",
+          "judge_guid": "urn:entity:jud-100033868"
+        }
+      ]
+    }
+  ]
+}

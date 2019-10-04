@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_195cr457_nysd",
+  "case_key": "1:95cr457_nysd",
+  "case_lni": "7WBN-K2V0-Y892-B073-00000-00",
+  "case_number": "1:95cr457",
+  "case_title": "USA v. Mojena",
+  "case_info_full_case_name": "USA v. Mojena",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mojena",
+  "case_date_filed": "1995-05-31",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Yvonne M. Dutton",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SANDY MOJENA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:112"
+        },
+        {
+          "charge_description": "18:112 AGGRAVATED OR FELONIOUS (1)"
+        },
+        {
+          "charge_disposition": "Dft pleaded guilty to Ct 1, $10.00 special assessment due immediately, deft fined $300.00 to be paid in full within 60 days. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18USC112(b):"
+        },
+        {
+          "charge_description": "18 U.S.C. 112(b): OBSTRUCTION OF FOREIGN OFFICIAL IN PERFORMANCE OF DUTIES. [1:95-m-642]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theodore H. Katz",
+          "judge_guid": "urn:entity:jud-100072700"
+        }
+      ]
+    }
+  ]
+}

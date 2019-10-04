@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_117mj4136_OHND",
+  "case_key": "1:17mj4136_OHND",
+  "case_lni": "5P61-2H61-DXDT-G14M-00000-00",
+  "case_number": "1:17mj4136",
+  "case_title": "United States of America v. Herrara",
+  "case_info_full_case_name": "United States of America v. Herrara",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Herrara",
+  "case_date_filed": "2017-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Honorio Herrara",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1029(a)(3) - Possession of 15 or more counterfeit or unauthorized access devices; 18:1029(a)(4) - Possession of Device Making Equipment; 18:1028A(a)(1) - Aggravated Identity Theft"
+        },
+        {
+          "charge_offence_description": "18:1029(a)(3) - Possession of 15 or more counterfe"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jonathan D. Greenberg",
+          "judge_guid": "urn:entity:jud-100124370"
+        }
+      ]
+    }
+  ]
+}

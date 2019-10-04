@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502cr396_txsd",
+  "case_key": "5:02cr396_txsd",
+  "case_lni": "7WBN-NTH0-Y892-B4CR-00000-00",
+  "case_number": "5:02cr396",
+  "case_title": "USA v. Herrera-Velasquez",
+  "case_info_full_case_name": "USA v. Herrera-Velasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Herrera-Velasquez",
+  "case_date_filed": "2002-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 8:1325.F 2 1"
+        },
+        {
+          "charge_description": "Ct 1: 8:1325.F Illegal entry of alien. Penalty: 2 yrs and/or $250,000 fine, $100 cvf, 1 yr tsr. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Unlawfully enter the United States at a place other than as designated by Immigration Officers, after having previously been arrested and convicted of the same offense. [5:02-m-792]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

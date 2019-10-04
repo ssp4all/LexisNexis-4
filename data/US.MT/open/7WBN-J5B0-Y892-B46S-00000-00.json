@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_902cr18_mtd",
+  "case_key": "9:02cr18_mtd",
+  "case_lni": "7WBN-J5B0-Y892-B46S-00000-00",
+  "case_number": "9:02cr18",
+  "case_title": "USA v. Leckrone, et al",
+  "case_info_full_case_name": "USA v. Leckrone, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leckrone, et al",
+  "case_date_filed": "2002-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DUSTIN DEAN LECKRONE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F PUBLIC MONEY, PROPERTY OR RECORDS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald W. Molloy",
+          "judge_guid": "urn:entity:jud-100004243"
+        }
+      ]
+    },
+    {
+      "party_name": "ROBERT NORMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F PUBLIC MONEY, PROPERTY OR RECORDS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald W. Molloy",
+          "judge_guid": "urn:entity:jud-100004243"
+        }
+      ]
+    },
+    {
+      "party_name": "MICHAEL RYAN MYERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F RECEIVE PUBLIC MONEY, PROPERTY OR RECORDS (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald W. Molloy",
+          "judge_guid": "urn:entity:jud-100004243"
+        }
+      ]
+    }
+  ]
+}

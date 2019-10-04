@@ -1,0 +1,107 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_009cr228_MND",
+  "case_key": "0:09cr228_MND",
+  "case_lni": "7WDX-M2B0-Y892-B03V-00000-00",
+  "case_number": "0:09cr228",
+  "case_title": "USA v. Young et al",
+  "case_info_full_case_name": "USA v. Young et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Young et al",
+  "case_date_filed": "2009-08-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Bernard Young",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 846, 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1), 846, AND 841(b)(1)(A) CONSPIRACY-MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ann D. Montgomery",
+          "judge_guid": "urn:entity:jud-100004133"
+        },
+        {
+          "judge_title": "Chief Mag. Judge",
+          "judge_name": "Raymond L. Erickson",
+          "judge_guid": "urn:entity:jud-100056409"
+        }
+      ]
+    },
+    {
+      "party_name": "Talora Ann Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 846, 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1), 846, AND 841(b)(1)(A) CONSPIRACY-MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ann D. Montgomery",
+          "judge_guid": "urn:entity:jud-100004133"
+        },
+        {
+          "judge_title": "Chief Mag. Judge",
+          "judge_name": "Raymond L. Erickson",
+          "judge_guid": "urn:entity:jud-100056409"
+        }
+      ]
+    },
+    {
+      "party_name": "Tyler Charles Englund",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 846, 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1), 846, AND 841(b)(1)(A) CONSPIRACY-MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ann D. Montgomery",
+          "judge_guid": "urn:entity:jud-100004133"
+        },
+        {
+          "judge_title": "Chief Mag. Judge",
+          "judge_name": "Raymond L. Erickson",
+          "judge_guid": "urn:entity:jud-100056409"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_210cr2764_NMD",
+  "case_key": "2:10cr2764_NMD",
+  "case_lni": "515N-9361-DXDT-G3T2-00000-00",
+  "case_number": "2:10cr2764",
+  "case_title": "USA v. Ortiz-Gonzalez",
+  "case_info_full_case_name": "USA v. Ortiz-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortiz-Gonzalez",
+  "case_date_filed": "2010-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Paige Messec",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Salvador Ortiz-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b):"
+        },
+        {
+          "charge_description": "8:1326(a) &; (b): Re-Entry of a Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Reentry After Deportation-Aggravated Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Bruce D. Black",
+          "judge_guid": "urn:entity:jud-100068850"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_219mj1692_AZD",
+  "case_key": "2:19mj1692_AZD",
+  "case_lni": "5WRG-K6Y1-DXDT-G4FM-00000-00",
+  "case_number": "2:19mj1692",
+  "case_title": "USA v. Castro-Calderon",
+  "case_info_full_case_name": "USA v. Castro-Calderon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castro-Calderon",
+  "case_date_filed": "2019-09-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John Andrew Ballos",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Primo Armando Castro-Calderon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) Re-Entry After Removal"
+        },
+        {
+          "charge_offence_description": "8:1326(a) enhanced by (b)(1) Re-Entry After Remova"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

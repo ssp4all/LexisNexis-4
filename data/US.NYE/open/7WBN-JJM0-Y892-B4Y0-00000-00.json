@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_104mj484_NYED",
+  "case_key": "1:04mj484_NYED",
+  "case_lni": "7WBN-JJM0-Y892-B4Y0-00000-00",
+  "case_number": "1:04mj484",
+  "case_title": "USA v. Dominguez-Menendez",
+  "case_info_full_case_name": "USA v. Dominguez-Menendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dominguez-Menendez",
+  "case_date_filed": "2004-04-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Daniel Dominguez-Menendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=CI.F-CONTROLLED"
+        },
+        {
+          "charge_description": "21:952=CI.F-CONTROLLED SUBSTANCE-IMPORT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert M. Levy",
+          "judge_guid": "urn:entity:jud-100030011"
+        }
+      ]
+    }
+  ]
+}

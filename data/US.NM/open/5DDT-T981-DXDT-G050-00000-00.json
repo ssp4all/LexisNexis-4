@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_114cr3605_NMD",
+  "case_key": "1:14cr3605_NMD",
+  "case_lni": "5DDT-T981-DXDT-G050-00000-00",
+  "case_number": "1:14cr3605",
+  "case_title": "USA v. Barash",
+  "case_info_full_case_name": "USA v. Barash",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barash",
+  "case_date_filed": "2014-10-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Abdelrhman Barash",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 331: MISBRANDING(1s-2s)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 12 months on Count 1 and 1 day on Count 2 for a total of 12 months + 1 day; 1 year Supervised Release as to each count to run concurrently with special conditions; SPA $25 for each count for total of $50; Deft to Voluntary Surrender."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "21:841(a)(1)and(b)(1)(C): Distribution of XLR-11(1)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841 (a)(1) &; 841 (b)(1)(c) Distribution of Schedule 1 controlled Substance"
+        },
+        {
+          "charge_offence_description": "21:841 (a)(1) & 841 (b)(1)(c) Distribution of Sche"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James A. Parker",
+          "judge_guid": "urn:entity:jud-100028418"
+        }
+      ]
+    }
+  ]
+}

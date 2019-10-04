@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_195cr115_nhd",
+  "case_key": "1:95cr115_nhd",
+  "case_lni": "7WBN-PX50-Y892-B1FX-00000-00",
+  "case_number": "1:95cr115",
+  "case_title": "USA v. Chambers",
+  "case_info_full_case_name": "USA v. Chambers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chambers",
+  "case_date_filed": "1995-10-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARTIN CHAMBERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924A.F 18:922(j), 924(a)(2)."
+        },
+        {
+          "charge_description": "18:924A.F FIREARMS-receive, conceal &; store stolen firearms shipped in interstate commerce 18:922(j), 924(a)(2). (1)"
+        },
+        {
+          "charge_disposition": "Ct 1 dismissed on motion by USA. Deft is hereby placed on probation for 3 yrs, and subject to the standard conditions of supervision. 3 months home detention with conditions; $50 SPA; restitution of $2,501.63 payable to American West Ins.--1/23/98 REVOCATION JUDGMENT--Committed to the custody of Bureau of Prison for 6 months, recommendation of placement in community corrections center, preferrably Shea Farm, defendant to remain at Merrimack House of Corrections until placement is completed; 3 years supervised release with conditions of: pay unpaid balance of restitution ordered by North Dakota, participate in drug treatment program, enroll &; participate in program for GED.--5/25/99 REVOCATION JUDGMENT--7 months Bureau of Prison; 26 months Supervised release with conditions of drug treatment, no new credit, provide access to financial information, Resitution of $1576.63 is reimposed. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924A.F 18:922(u), 924(i)(1)."
+        },
+        {
+          "charge_description": "18:924A.F FIREARMS-Theft of firearms from premises of licensed dealer, 18:922(u), 924(i)(1). (2)"
+        },
+        {
+          "charge_disposition": "Ct 1 dismissed on motion by USA. Deft is hereby placed on probation for 3 yrs, and subject to the standard conditions of supervision. 3 months home detention with conditions; $50 SPA; restitution of $2,501.63 payable to American West Ins.--1/23/98 REVOCATION JUDGMENT--Committed to the custody of Bureau of Prison for 6 months, recommendation of placement in community corrections center, preferrably Shea Farm, defendant to remain at Merrimack House of Corrections until placement is completed; 3 years supervised release with conditions of: pay unpaid balance of restitution ordered by North Dakota, participate in drug treatment program, enroll &; participate in program for GED.--5/25/99 REVOCATION JUDGMENT--7 months Bureau of Prison; 26 months Supervised release with conditions of drug treatment, no new credit, provide access to financial information, Resitution of $1576.63 is reimposed. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Paul J. Barbadoro",
+          "judge_guid": "urn:entity:jud-100069765"
+        }
+      ]
+    }
+  ]
+}

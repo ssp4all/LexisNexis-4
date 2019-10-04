@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412cr438_AZD",
+  "case_key": "4:12cr438_AZD",
+  "case_lni": "5517-X9V1-DXDT-G25S-00000-00",
+  "case_number": "4:12cr438",
+  "case_title": "USA v. Illingworth-Rodriguez",
+  "case_info_full_case_name": "USA v. Illingworth-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Illingworth-Rodriguez",
+  "case_date_filed": "2012-02-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Enrique Alonso Illingworth-Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(D), 50"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D), Possession with Intent to Distribute less than 50 kilograms of Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(D)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(D) Possession w/Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer G Zipps",
+          "judge_guid": "urn:entity:jud-100047798"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hector C Estrada",
+          "judge_guid": "urn:entity:jud-100056372"
+        }
+      ]
+    }
+  ]
+}

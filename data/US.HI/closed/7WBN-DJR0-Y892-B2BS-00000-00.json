@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_194cr918_hid",
+  "case_key": "1:94cr918_hid",
+  "case_lni": "7WBN-DJR0-Y892-B2BS-00000-00",
+  "case_number": "1:94cr918",
+  "case_title": "USA v. Pillow",
+  "case_info_full_case_name": "USA v. Pillow",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pillow",
+  "case_date_filed": "1994-04-06",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rachelle M. Guyant",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAYMOND E. PILLOW",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 286-116A 2/22/94"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER HRS 286-116A No Valid Insurance Card SB 2/22/94 (3)"
+        },
+        {
+          "charge_disposition": "As to Ct 3: SA $25.00 (no fine) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 286-102 2/22/94"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER HRS 286-102 No Valid License SB 2/22/94 (1)"
+        },
+        {
+          "charge_disposition": "Dismissed by Govt. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 286-47(3) 2/22/94"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER HRS 286-47(3) No Valid Registration SB 2/22/94 (2)"
+        },
+        {
+          "charge_disposition": "DISMISSED BY GOVT.-PROOF SHOWN (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Barry M. Kurren",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

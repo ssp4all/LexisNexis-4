@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_208cr115_MED",
+  "case_key": "2:08cr115_MED",
+  "case_lni": "7WBN-KXJ0-Y892-B42P-00000-00",
+  "case_number": "2:08cr115",
+  "case_title": "USA v. Brown",
+  "case_info_full_case_name": "USA v. Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown",
+  "case_date_filed": "2008-07-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amy Dawn Brown",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Bank Fraud, 18:1344 And 2 (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Aggravated Identity Theft, 18:1028A (2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344A.F bank fraud of"
+        },
+        {
+          "charge_description": "18:1344A.F bank fraud of Td Banknorth, Norway Savings Bank, Bank of America, Gorham Savings Bank, Tru Choice Federal Credit Union, Portland Regional Federal Credit Union &; Bangor Savings Bank, 18:1344, 2"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "D Brock Hornby",
+          "judge_guid": "urn:entity:jud-100034087"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_103m2509_txsd",
+  "case_key": "1:03m2509_txsd",
+  "case_lni": "7WBN-F240-Y892-B35H-00000-00",
+  "case_number": "1:03m2509",
+  "case_title": "USA v. Lopez Ceja",
+  "case_info_full_case_name": "USA v. Lopez Ceja",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez Ceja",
+  "case_date_filed": "2003-09-04",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AARON LOPEZ CEJA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1325(a)(1);"
+        },
+        {
+          "charge_description": "8 USc 1325(a)(1); illegal entry into the United States"
+        },
+        {
+          "charge_disposition": "time served and $10 special assessment (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

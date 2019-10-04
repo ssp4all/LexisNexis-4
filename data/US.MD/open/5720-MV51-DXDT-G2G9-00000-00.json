@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_812mj4577_MDD",
+  "case_key": "8:12mj4577_MDD",
+  "case_lni": "5720-MV51-DXDT-G2G9-00000-00",
+  "case_number": "8:12mj4577",
+  "case_title": "USA vs Buchanan",
+  "case_info_full_case_name": "USA vs Buchanan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Buchanan",
+  "case_date_filed": "2012-11-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Detrick",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gilbert L Buchanan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PERSON DRIVING MOTOR VEH. ON (HWY., PUBLIC USE PROPERTY) ON SUSPENDED LIC. AND P (1774650)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

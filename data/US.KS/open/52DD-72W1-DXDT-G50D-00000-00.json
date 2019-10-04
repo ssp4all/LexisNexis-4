@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B10po10091_KSD",
+  "case_key": "B:10po10091_KSD",
+  "case_lni": "52DD-72W1-DXDT-G50D-00000-00",
+  "case_number": "B:10po10091",
+  "case_title": "USA v. Scott",
+  "case_info_full_case_name": "USA v. Scott",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Scott",
+  "case_date_filed": "2011-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kristy K. Scott",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 8-1567(a)(3)) B)(INFORMATION"
+        },
+        {
+          "charge_description": "18:13 (KSA 8-1567(a)(3)) Driving under the influence of drugs or alcohol (CLASS B)(INFORMATION [3/16/11]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13(KSA 8-245) B)(INFORMATION"
+        },
+        {
+          "charge_description": "18:13(KSA 8-245) Driving restrictions (CLASS B)(INFORMATION [3/16/11]) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13 8-1599) C)(INFORMATION"
+        },
+        {
+          "charge_description": "18:13 (KSA 8-1599) Unlawful transportation of an open container of alcohol (CLASS C)(INFORMATION [3/16/11]) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13 8-1012) (INFRACTION)(INFORMATION"
+        },
+        {
+          "charge_description": "18:13 (KSA 8-1012) Refusal of breath test (INFRACTION)(INFORMATION [3/16/11]) (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen M. Humphreys",
+          "judge_guid": "urn:entity:jud-100050935"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_107mj6046_ILCD",
+  "case_key": "1:07mj6046_ILCD",
+  "case_lni": "7WBN-D810-Y892-B12H-00000-00",
+  "case_number": "1:07mj6046",
+  "case_title": "USA v. Pate",
+  "case_info_full_case_name": "USA v. Pate",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pate",
+  "case_date_filed": "2007-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradley W Murphy",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph Lee Pate",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F 5 (crack), 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE From on or about [6/6/07] in Peoria County in the CDIL, Dft knowingly possessed more than 5 grams of a mixture and substance containing cocaine base (crack), a Schedule II controlled substance, with intent to distribute. In violation of 21 USC 841(a)(1) and 841(b)(1)(B)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

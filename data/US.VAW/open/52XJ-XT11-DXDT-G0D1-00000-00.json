@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_111mj33_VAWD",
+  "case_key": "1:11mj33_VAWD",
+  "case_lni": "52XJ-XT11-DXDT-G0D1-00000-00",
+  "case_number": "1:11mj33",
+  "case_title": "USA v. Hale",
+  "case_info_full_case_name": "USA v. Hale",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hale",
+  "case_date_filed": "2011-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jason Scott Hale",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F States-31USC5324(a)(3)"
+        },
+        {
+          "charge_description": "18:371.F Conspiracy to Defraud the United States-31 USC 5324(a)(3) Structuring of Monetary Transactions-(3/2011)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Pamela Meade Sargent",
+          "judge_guid": "urn:entity:jud-100027085"
+        }
+      ]
+    }
+  ]
+}

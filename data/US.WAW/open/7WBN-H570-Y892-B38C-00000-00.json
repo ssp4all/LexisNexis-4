@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_302cr5975_wawd",
+  "case_key": "3:02cr5975_wawd",
+  "case_lni": "7WBN-H570-Y892-B38C-00000-00",
+  "case_number": "3:02cr5975",
+  "case_title": "USA v. Mogel",
+  "case_info_full_case_name": "USA v. Mogel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mogel",
+  "case_date_filed": "2002-12-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD C MOGEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=CP.M"
+        },
+        {
+          "charge_description": "21:844A=CP.M CONTROLLED SUBSTANCE-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Kelley Arnold",
+          "judge_guid": "urn:entity:jud-100074208"
+        }
+      ]
+    }
+  ]
+}

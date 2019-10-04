@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_299cr1106_nmd",
+  "case_key": "2:99cr1106_nmd",
+  "case_lni": "7WBN-MD00-Y892-B4W8-00000-00",
+  "case_number": "2:99cr1106",
+  "case_title": "USA v. Gonzalez-Portillo",
+  "case_info_full_case_name": "USA v. Gonzalez-Portillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Portillo",
+  "case_date_filed": "1999-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Saul Gonzalez-Portillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1)"
+        },
+        {
+          "charge_description": "8:1326(a)(1) Reentry after Deportation [2:99-m-667]"
+        },
+        {
+          "charge_statute": "8:1326(a)(1)(2)&;(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1)(2)&;(b)(2) REENTRY OF DEPORTED ALIEN (1-1)"
+        },
+        {
+          "charge_disposition": "(1-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Bruce D. Black",
+          "judge_guid": "urn:entity:jud-100068850"
+        }
+      ]
+    }
+  ]
+}

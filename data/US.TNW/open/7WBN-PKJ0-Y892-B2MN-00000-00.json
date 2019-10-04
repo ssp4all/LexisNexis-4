@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_102m13_tnwd",
+  "case_key": "1:02m13_tnwd",
+  "case_lni": "7WBN-PKJ0-Y892-B2MN-00000-00",
+  "case_number": "1:02m13",
+  "case_title": "USA v. Pinnix",
+  "case_info_full_case_name": "USA v. Pinnix",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pinnix",
+  "case_date_filed": "2002-10-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BILLY H. PINNIX",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "telephonic bomb threat against the City of Lexington, Tennessee"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    }
+  ]
+}

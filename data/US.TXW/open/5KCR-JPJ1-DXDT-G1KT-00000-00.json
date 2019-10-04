@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_216cr1072_TXWD",
+  "case_key": "2:16cr1072_TXWD",
+  "case_lni": "5KCR-JPJ1-DXDT-G1KT-00000-00",
+  "case_number": "2:16cr1072",
+  "case_title": "USA v. Aguilera-Rivas",
+  "case_info_full_case_name": "USA v. Aguilera-Rivas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguilera-Rivas",
+  "case_date_filed": "2016-08-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose De Jesus Aguilera-Rivas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B2.F IMMIGRATION, REENTRY OF REMOVED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1) Re-entry after Deportation from the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1) Re-entry after Deportation from t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

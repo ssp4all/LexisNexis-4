@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_107cr465_COD",
+  "case_key": "1:07cr465_COD",
+  "case_lni": "7WBN-JR70-Y892-B2DM-00000-00",
+  "case_number": "1:07cr465",
+  "case_title": "USA v. Delgado-Cruz",
+  "case_info_full_case_name": "USA v. Delgado-Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delgado-Cruz",
+  "case_date_filed": "2007-11-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Delgado-Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Reentry of Deported Aliens (1)"
+        },
+        {
+          "charge_disposition": "Dft Pleaded Guilty to Count(S) 1 of The Indictment; Dft to be Imprisoned For 37 Months; Upon Release From Imprisonment, Dft Shall be on Supervised Release For 3 Years; Assessment $100.00; no Fine Imposed; Dft Remanded."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Wiley Y Daniel",
+          "judge_guid": "urn:entity:jud-100057533"
+        }
+      ]
+    }
+  ]
+}

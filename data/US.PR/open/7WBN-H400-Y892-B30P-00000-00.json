@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_300m190_prd",
+  "case_key": "3:00m190_prd",
+  "case_lni": "7WBN-H400-Y892-B30P-00000-00",
+  "case_number": "3:00m190",
+  "case_title": "USA v. Toro-Hernaiz, et al",
+  "case_info_full_case_name": "USA v. Toro-Hernaiz, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Toro-Hernaiz, et al",
+  "case_date_filed": "2000-05-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MIGUEL TORO-HERNAIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "420"
+        },
+        {
+          "charge_description": "PWID aproximaltely 420 grams of heroin"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    },
+    {
+      "party_name": "LUIS D. RIVAS-RIVERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "420"
+        },
+        {
+          "charge_description": "PWID aproximaltely 420 grams of heroin"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    },
+    {
+      "party_name": "MILDRED AYALA-FIGUEROA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "420"
+        },
+        {
+          "charge_description": "PWID aproximaltely 420 grams of heroin"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    }
+  ]
+}

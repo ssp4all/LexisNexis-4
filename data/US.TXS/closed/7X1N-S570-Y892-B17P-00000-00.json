@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_509po11858_TXSD",
+  "case_key": "5:09po11858_TXSD",
+  "case_lni": "7X1N-S570-Y892-B17P-00000-00",
+  "case_number": "5:09po11858",
+  "case_title": "USA v. LOPEZ-Arguello",
+  "case_info_full_case_name": "USA v. LOPEZ-Arguello",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LOPEZ-Arguello",
+  "case_date_filed": "2009-11-05",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Immigration (Laredo PO)",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Eddw LOPEZ-Arguello",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Scott Hacker",
+          "judge_guid": "urn:entity:jud-100070615"
+        }
+      ]
+    }
+  ]
+}

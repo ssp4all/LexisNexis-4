@@ -1,0 +1,100 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_301cr3720_casd",
+  "case_key": "3:01cr3720_casd",
+  "case_lni": "7WBN-H4D0-Y892-B23M-00000-00",
+  "case_number": "3:01cr3720",
+  "case_title": "USA v. Wendorff",
+  "case_info_full_case_name": "USA v. Wendorff",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wendorff",
+  "case_date_filed": "2001-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JENNIFER ANN WENDORFF",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960; 18:2-Importation"
+        },
+        {
+          "charge_description": "21:952, 960; 18:2-Importation of Ketamine and Methamphetamine; Aiding and Abetting (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1); 18:2-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1); 18:2-Possession of Ketamine with intent to distribute; Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Irma E Gonzalez",
+          "judge_guid": "urn:entity:jud-100042724"
+        }
+      ]
+    },
+    {
+      "party_name": "TERRY WAYNE LEATHERWOOD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960; 18:2-Importation"
+        },
+        {
+          "charge_description": "21:952, 960; 18:2-Importation of Ketamine and Methamphetamine; Aiding and Abetting (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1); 18:2-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1); 18:2-Possession of Ketamine with intent to distribute; Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of Methamphetamine (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Irma E Gonzalez",
+          "judge_guid": "urn:entity:jud-100042724"
+        }
+      ]
+    }
+  ]
+}

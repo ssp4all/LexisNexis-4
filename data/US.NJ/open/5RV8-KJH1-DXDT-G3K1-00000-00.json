@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_118cr112_NJD",
+  "case_key": "1:18cr112_NJD",
+  "case_lni": "5RV8-KJH1-DXDT-G3K1-00000-00",
+  "case_number": "1:18cr112",
+  "case_title": "USA v. WILLIAMS",
+  "case_info_full_case_name": "USA v. WILLIAMS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "WILLIAMS",
+  "case_date_filed": "2018-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GEORGE WILLIAMS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846   CONSPIRACY TO DISTRIBUTE AND TO POSSESS WITH INTENT TO DISTRIBUTE CONTROLLED SUBSTANCE - FURANYL FENTANYL   (DOF 10/2016 through 6/13/2017)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SU"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Renee Marie Bumb",
+          "judge_guid": "urn:entity:jud-100060311"
+        }
+      ]
+    }
+  ]
+}

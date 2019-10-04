@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414mj8535_AZD",
+  "case_key": "4:14mj8535_AZD",
+  "case_lni": "5BW8-JG91-DXDT-G09G-00000-00",
+  "case_number": "4:14mj8535",
+  "case_title": "USA v. Herrera-Ochoa",
+  "case_info_full_case_name": "USA v. Herrera-Ochoa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Herrera-Ochoa",
+  "case_date_filed": "2014-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Christian Herrera-Ochoa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1 21:841(a)(1) and 841(b)(1)(C) all in violation of 21:846 Conspiracy to Possess w/Intent to Distribute Marijuana; CT 2 21:844(a) Simple Possession"
+        },
+        {
+          "charge_offence_description": "CT 1 21:841(a)(1) and 841(b)(1)(C) all in violatio"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

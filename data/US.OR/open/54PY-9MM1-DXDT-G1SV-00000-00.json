@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_312cr6_ORD",
+  "case_key": "3:12cr6_ORD",
+  "case_lni": "54PY-9MM1-DXDT-G1SV-00000-00",
+  "case_number": "3:12cr6",
+  "case_title": "USA v. Kahue",
+  "case_info_full_case_name": "USA v. Kahue",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kahue",
+  "case_date_filed": "2012-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Darren Kahue",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751-ESCAPE"
+        },
+        {
+          "charge_description": "18:751-ESCAPE (1)"
+        },
+        {
+          "charge_disposition": "SENTENCING DATE(FROM THE DISTRICT OF HAWAII): 8/26/09; IMPRISONMENT: 12 months and 1 Day; SUPERVISED RELEASE: 3 years; FEE ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:3147"
+        },
+        {
+          "charge_description": "18:3147 Violation of the General and Standard Conditions of Supervised Release (District of Hawaii)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marco A. Hernandez",
+          "judge_guid": "urn:entity:jud-500000317"
+        }
+      ]
+    }
+  ]
+}

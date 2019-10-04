@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_402cr1240_scd",
+  "case_key": "4:02cr1240_scd",
+  "case_lni": "7WBN-FPX0-Y892-B18C-00000-00",
+  "case_number": "4:02cr1240",
+  "case_title": "USA v. Ferrari",
+  "case_info_full_case_name": "USA v. Ferrari",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ferrari",
+  "case_date_filed": "2002-11-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY JAMES FERRARI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE MARIJUANA combine, conspire and agree together to knowingly and intentionally distribute marihuana, a Schedule I controlled substance, in violation of 21:841(a)(1) (1)"
+        },
+        {
+          "charge_disposition": "Defendant is hereby committed to custody of Bureau of Prisons to be imprisoned for a term of 72 months. Remanded to Marshal. Court recommends defendant be designated to an institution where he can receive drug abuse evaluation and treatment. Upon release, defendant shall be on supervised release for a term of 4 years, comply with standard conditions of this court and the following conditions: 1. Defendant shall submit to 1 drug test within 15 days of release from imprisonment and at least 2 periodic drug tests thereafter, as directed by probation office. 2. The defendant shall participate in a program of testing and treatment for substance abuse, as directed by probation officer, until such time as he is released from program by probation office. Defendant shall not use alcohol and/or other intoxicants during and after course of treatment. $50 special assessment due immediately. ORDER FILED 3/25/98 reduced 72 months to 60 months. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "C. Weston Houck",
+          "judge_guid": "urn:entity:jud-100051171"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_396cr460_ord",
+  "case_key": "3:96cr460_ord",
+  "case_lni": "7WBN-RXF0-Y892-B47J-00000-00",
+  "case_number": "3:96cr460",
+  "case_title": "USA v. Chaparro",
+  "case_info_full_case_name": "USA v. Chaparro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chaparro",
+  "case_date_filed": "1996-12-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charles Ball",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GILBERTO CHAPARRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBTUE METHAMPHETAMINE (2)"
+        },
+        {
+          "charge_disposition": "SENTENCING DATE: 4/16/97; IMPRISONMENT: 120 months; SUPERVISED RELEASE: 5 years; FINE: $500; SPECIAL ASSESSMENT FEE: $100; Count 1 is DISMISSED on the motion of the government (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) DISTRIBUTION OF METHAMPHETAMINE DISPENSE (1)"
+        },
+        {
+          "charge_disposition": "SENTENCING DATE: 4/16/97; IMPRISONMENT: 120 months; SUPERVISED RELEASE: 5 years; FINE: $500; SPECIAL ASSESSMENT FEE: $100; Count 1 is DISMISSED on the motion of the government (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE [3:96-m-595]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Garr M King",
+          "judge_guid": "urn:entity:jud-100077954"
+        }
+      ]
+    },
+    {
+      "party_name": "SILVARIO CHAPARRO-RUIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924(c)(1) (2)"
+        },
+        {
+          "charge_description": "18:924(c)(1) and (2) CARRYING A FIREARM, DURING AND IN RELATION TO A DRUG TRAFFICKING OFFENSE (5)"
+        },
+        {
+          "charge_disposition": "SENTENCED: 3/3/97. IMPRISONMENT: 60 MONTHS. SUPERVISED RELEASE: 3 YEARS. FINE: $1,000.00. 3/20/97 AMENDED JUDGMENT: judgment amended to reflect the correct citation and offense description (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE [3:96-m-595]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Garr M King",
+          "judge_guid": "urn:entity:jud-100077954"
+        }
+      ]
+    },
+    {
+      "party_name": "ANTEMIO CHAPARRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) DISTRIBUTION OF COCAINE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE COCAINE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) [3:96-m-595]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Garr M King",
+          "judge_guid": "urn:entity:jud-100077954"
+        }
+      ]
+    }
+  ]
+}

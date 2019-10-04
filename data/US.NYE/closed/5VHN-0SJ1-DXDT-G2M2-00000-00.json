@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_119cr105_NYED",
+  "case_key": "1:19cr105_NYED",
+  "case_lni": "5VHN-0SJ1-DXDT-G2M2-00000-00",
+  "case_number": "1:19cr105",
+  "case_title": "USA v. Eady",
+  "case_info_full_case_name": "USA v. Eady",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Eady",
+  "case_date_filed": "2019-02-28",
+  "case_status": "Closed",
+  "case_status_date": "02/28/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jibri Eady",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY, TO KNOWINGLY AND WITH INTENT TO DEFRAUD, TO POSSESS MORE THAN FIFTEEN COUNTERFEIT ACCESS DEVICES, SAID POSSESSION AFFECTING INTERSTATE COMMERCE in Violation of 18 USC 1029(b)(1)(1)"
+        },
+        {
+          "charge_disposition": "The court sentences the deft to a term of TIME SERVED as to Counts I and II, to be served concurrently with each other; 2 years of Supervised Release with Special Conditions as to Counts I and II, to run concurrently with each other; Special Assessment: $200.00; Restitution: $3,910.59 (interest waived) - joint and several with Joshua Cutchin (CR 15-32S); No fine imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "KNOWINGLY AND WITH INTENT TO DEFRAUD, POSSESSED MORE THAN FIFTEEN COUNTERFEIT ACCESS DEVICES, SAID POSSESSION AFFECTING INTERSTATE COMMERCE in Violation of 18 USC 1029(a)(3) and (c)(1)(A)(i)(2)"
+        },
+        {
+          "charge_disposition": "The court sentences the deft to a term of TIME SERVED as to Counts I and II, to be served concurrently with each other; 2 years of Supervised Release with Special Conditions as to Counts I and II, to run concurrently with each other; Special Assessment: $200.00; Restitution: $3,910.59 (interest waived) - joint and several with Joshua Cutchin (CR 15-32S); No fine imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Dora Lizette Irizarry",
+          "judge_guid": "urn:entity:jud-100054214"
+        }
+      ]
+    }
+  ]
+}

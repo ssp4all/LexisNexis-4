@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_408cr122_OKND",
+  "case_key": "4:08cr122_OKND",
+  "case_lni": "7WBN-NHC0-Y892-B0J3-00000-00",
+  "case_number": "4:08cr122",
+  "case_title": "USA v. Horn",
+  "case_info_full_case_name": "USA v. Horn",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Horn",
+  "case_date_filed": "2008-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Douglas Edward Snow",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard Duwayne Horn",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252(a)(4)(B) 2252(b)(2)-POSSESSION"
+        },
+        {
+          "charge_description": "18:2252(a)(4)(B) and 2252(b)(2)-POSSESSION OF CERTAIN MATERIAL INVOLVING THE SEXUAL EXPLOITATION OF MINORS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Claire V Eagan",
+          "judge_guid": "urn:entity:jud-100056785"
+        }
+      ]
+    }
+  ]
+}

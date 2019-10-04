@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_209cr8_TXND",
+  "case_key": "2:09cr8_TXND",
+  "case_lni": "7WBN-RC60-Y892-B340-00000-00",
+  "case_number": "2:09cr8",
+  "case_title": "USA v. Grimaldo-Sanchez",
+  "case_info_full_case_name": "USA v. Grimaldo-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grimaldo-Sanchez",
+  "case_date_filed": "2009-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Ricardo Grimaldo-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(5) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g)(5) and 924(a)(2) ALIEN IN POSSESSION OF FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1325(A)(1) 1329"
+        },
+        {
+          "charge_description": "8:1325(A)(1) AND 1329 UNLAWFUL ENTRY BY AN ILLEGAL ALIEN (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary Lou Robinson",
+          "judge_guid": "urn:entity:jud-100012118"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clinton E Averitte",
+          "judge_guid": "urn:entity:jud-100052428"
+        }
+      ]
+    }
+  ]
+}

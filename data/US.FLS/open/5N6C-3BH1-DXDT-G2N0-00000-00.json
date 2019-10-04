@@ -1,0 +1,116 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_117cr20163_FLSD",
+  "case_key": "1:17cr20163_FLSD",
+  "case_lni": "5N6C-3BH1-DXDT-G2N0-00000-00",
+  "case_number": "1:17cr20163",
+  "case_title": "USA v. Fornaris",
+  "case_info_full_case_name": "USA v. Fornaris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fornaris",
+  "case_date_filed": "2017-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Lisa H. Miller",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Yunesky Fornaris",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F CONSPIRACY TO COMMIT HEALTH CARE FRAUD AND WIRE FRAUD(1s)"
+        },
+        {
+          "charge_disposition": "115 months imprisonment; 3 years supervised release"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1349 Conspiracy to Commit Health Care Fraud and Wire Fraud(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1347 Health Care Fraud(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1347.F HEALTH CARE FRAUD(2s-3s)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to Defraud the United States and Pay Health Care Kickbacks(4)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES AND PAY HEALTH CARE KICKBACKS(4s)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956-0100.F MONEY LAUNDERING(5s-7s)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joan A. Lenard",
+          "judge_guid": "urn:entity:jud-100030148"
+        }
+      ]
+    }
+  ]
+}

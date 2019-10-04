@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_116cr308_NYED",
+  "case_key": "1:16cr308_NYED",
+  "case_lni": "5K03-BVT1-DXDT-G299-00000-00",
+  "case_number": "1:16cr308",
+  "case_title": "USA v. Kuyumcu",
+  "case_info_full_case_name": "USA v. Kuyumcu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kuyumcu",
+  "case_date_filed": "2016-06-09",
+  "case_status": "Closed",
+  "case_status_date": "09/19/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Erdal Kuyumcu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "50 USC 1701"
+        },
+        {
+          "charge_offence_description": "50 USC 1701"
+        },
+        {
+          "charge_description": "Conspiracy to Violate IEEPA(1)"
+        },
+        {
+          "charge_disposition": "57 months in custody; 3 years of Supervised Release. $7000 fine (interest waived) payable at the rate of $25 per quarter while in custody and 10% of gross income per month while on supervised release. $100 Special Assessment. Special conditions of Supervised Release: 1. May not possess firearm, ammunition, destructive device; 2. Full financial disclosure; 3. Employment prohibition; 4. Maintain lawful, verifiable, full-time employment; if not employed, perform 20 hours community service per week; 5. Search condition. Recommendation to Bureau of Prisons: Designation to FCI Otisville."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Dora Lizette Irizarry",
+          "judge_guid": "urn:entity:jud-100054214"
+        }
+      ]
+    }
+  ]
+}

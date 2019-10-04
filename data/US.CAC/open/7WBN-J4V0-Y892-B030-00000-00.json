@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_802cr266_cacd",
+  "case_key": "8:02cr266_cacd",
+  "case_lni": "7WBN-J4V0-Y892-B030-00000-00",
+  "case_number": "8:02cr266",
+  "case_title": "USA v. Galicia",
+  "case_info_full_case_name": "USA v. Galicia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galicia",
+  "case_date_filed": "2002-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEOPOLDO SANDOVAL GALICIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "42:408(a)(7)(B)"
+        },
+        {
+          "charge_description": "42:408(a)(7)(B) MISUSE OF SOCIAL SECURITY NUMBER FOR ANY PURPOSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546(a)"
+        },
+        {
+          "charge_description": "18:1546(a) FRAUD AND MISUSE OF ANY DOCUMENTS FOR AUTHORIZED STAY OR EMPLOYMENT IN THE UNITED STATES (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

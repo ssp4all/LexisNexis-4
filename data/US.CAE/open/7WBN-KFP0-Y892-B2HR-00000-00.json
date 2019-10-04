@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_202cr414_caed",
+  "case_key": "2:02cr414_caed",
+  "case_lni": "7WBN-KFP0-Y892-B2HR-00000-00",
+  "case_number": "2:02cr414",
+  "case_title": "USA v. Stewart",
+  "case_info_full_case_name": "USA v. Stewart",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stewart",
+  "case_date_filed": "2002-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tami Rae Stewart",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1711.F MISAPPROPRIATION OF POSTAL FUNDS &gt; $100(1)"
+        },
+        {
+          "charge_disposition": "36 mos probation; $7,451.14 restitution; fine waived; $100 s/a to be paid immediately"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank C. Damrell, Jr",
+          "judge_guid": "urn:entity:jud-100057560"
+        }
+      ]
+    }
+  ]
+}

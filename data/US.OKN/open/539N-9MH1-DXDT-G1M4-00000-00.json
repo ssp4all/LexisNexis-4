@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_411cr105_OKND",
+  "case_key": "4:11cr105_OKND",
+  "case_lni": "539N-9MH1-DXDT-G1M4-00000-00",
+  "case_number": "4:11cr105",
+  "case_title": "USA v. Jarrett",
+  "case_info_full_case_name": "USA v. Jarrett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jarrett",
+  "case_date_filed": "2011-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Loretta Finiece Radford",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Phil E Pinnell",
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Timothy Lee Faerber",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Janet Sue Reincke",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kendra Mae Jarrett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(j) and 924(a)(2) Possession of Stolen Firearm(2)"
+        },
+        {
+          "charge_disposition": "BOP 33 mos., 36 mos. S.R., $100 SMA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) Felon in Possession of Firearm(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Gregory K Frizzell",
+          "judge_guid": "urn:entity:jud-100016350"
+        }
+      ]
+    }
+  ]
+}

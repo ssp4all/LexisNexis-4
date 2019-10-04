@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po28403_AZD",
+  "case_key": "4:14po28403_AZD",
+  "case_lni": "5CG2-8F61-DXDT-G0YN-00000-00",
+  "case_number": "4:14po28403",
+  "case_title": "USA v. Bocilio-Galvez",
+  "case_info_full_case_name": "USA v. Bocilio-Galvez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bocilio-Galvez",
+  "case_date_filed": "2014-06-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Bocilio-Galvez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

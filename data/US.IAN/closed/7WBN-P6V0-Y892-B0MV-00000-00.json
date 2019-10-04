@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_693cr2011_iand",
+  "case_key": "6:93cr2011_iand",
+  "case_lni": "7WBN-P6V0-Y892-B0MV-00000-00",
+  "case_number": "6:93cr2011",
+  "case_title": "USA v. Kalb",
+  "case_info_full_case_name": "USA v. Kalb",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kalb",
+  "case_date_filed": "1993-03-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEPHAN N KALB",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "DISPEN(21:846 21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONTROLLED SUB-SELL,DISTRIBUTE,OR DISPEN(21:846 Conspiracy to manufacture &; distribute a mixture or substance containing a detectable amount of methamphetamine) (1)"
+        },
+        {
+          "charge_disposition": "60 mons impr; 5 yrs supervised release; $50 special assessment (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Michael J Melloy",
+          "judge_guid": "urn:entity:jud-100026070"
+        }
+      ]
+    }
+  ]
+}

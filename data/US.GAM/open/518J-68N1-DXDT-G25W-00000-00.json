@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_410mj239_GAMD",
+  "case_key": "4:10mj239_GAMD",
+  "case_lni": "518J-68N1-DXDT-G25W-00000-00",
+  "case_number": "4:10mj239",
+  "case_title": "United States of America v. Sewell",
+  "case_info_full_case_name": "United States of America v. Sewell",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Sewell",
+  "case_date_filed": "2010-10-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Keith A. Stewart , Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kevin J Sewell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M-TRAFFIC"
+        },
+        {
+          "charge_description": "18:13-7220.M-TRAFFIC OFFENSES-RIVING WHILE LICENSE SUSPENDED/REVOKED (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "US Mag Judge"
+        }
+      ]
+    }
+  ]
+}

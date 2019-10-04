@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_495cr72_oknd",
+  "case_key": "4:95cr72_oknd",
+  "case_lni": "7WBN-DWK0-Y892-B1W3-00000-00",
+  "case_number": "4:95cr72",
+  "case_title": "USA v. Hartness",
+  "case_info_full_case_name": "USA v. Hartness",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hartness",
+  "case_date_filed": "1995-05-30",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas Ray Hartness",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1163:"
+        },
+        {
+          "charge_description": "18:1163: Embezzlement &; theft from Indian Tribal organization. (1)"
+        },
+        {
+          "charge_disposition": "BOP-13 mos; $50 SMA; 3 yrs SR; $7000 restitution to Hominy Indian Village Committee;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "H Dale Cook",
+          "judge_guid": "urn:entity:jud-100049777"
+        }
+      ]
+    }
+  ]
+}

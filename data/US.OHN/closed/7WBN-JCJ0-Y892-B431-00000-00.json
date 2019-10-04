@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_102cr24_ohnd",
+  "case_key": "1:02cr24_ohnd",
+  "case_lni": "7WBN-JCJ0-Y892-B431-00000-00",
+  "case_number": "1:02cr24",
+  "case_title": "USA v. Brown",
+  "case_info_full_case_name": "USA v. Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown",
+  "case_date_filed": "2002-01-16",
+  "case_status": "Closed",
+  "case_status_date": "07/10/2002",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Edward F. Feran",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marlin Lamont Brown",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113(a) and (d) BANK ROBBERY BY FORCE OR VIOLENCE(1)"
+        },
+        {
+          "charge_disposition": "Custody BOP for 185 mos; credit for time served while in federal custody for this case; Ct recommendation to BOP: Terminal Island, CA; 5 yrs super rel w/special cond for drug aftercare treatment; dft shall participate in an outpatient program approve d by Prob Off for treatment for drug &;/or alcohol abuse which will incl testing; dft shall provide Prob Off access to any req financial information; dft shall not incur new credit charges or open addl lines of credit w/out approval of Prob Off unless dft is in compliance w/payment sched; dft shall have no contact w/known gang members; $200 total SA; $64,933 total restitution to National City Bank, Euclid, OH, all concurrent w/case #1:02cr153."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James S. Gwin",
+          "judge_guid": "urn:entity:jud-100042049"
+        }
+      ]
+    }
+  ]
+}

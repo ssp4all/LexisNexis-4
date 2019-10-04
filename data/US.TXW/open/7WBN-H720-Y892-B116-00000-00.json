@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304m2091_TXWD",
+  "case_key": "3:04m2091_TXWD",
+  "case_lni": "7WBN-H720-Y892-B116-00000-00",
+  "case_number": "3:04m2091",
+  "case_title": "USA v. Gutierrez",
+  "case_info_full_case_name": "USA v. Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gutierrez",
+  "case_date_filed": "2004-05-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE DOLORES GUTIERREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "221.4"
+        },
+        {
+          "charge_description": "Ppssession with intent to distribute and importation of approx. 221.4 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

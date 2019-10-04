@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_102m677_nyed",
+  "case_key": "1:02m677_nyed",
+  "case_lni": "7WBN-PM00-Y892-B024-00000-00",
+  "case_number": "1:02m677",
+  "case_title": "USA v. Beltre",
+  "case_info_full_case_name": "USA v. Beltre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beltre",
+  "case_date_filed": "2002-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JULIAN BELTRE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952-IMPORTATION"
+        },
+        {
+          "charge_description": "21:952-IMPORTATION OF CONTROLLED SUBSTANCE COCAINE."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Robert Morris Levy",
+          "judge_guid": "urn:entity:jud-100030011"
+        }
+      ]
+    }
+  ]
+}

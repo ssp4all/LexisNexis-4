@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_105cr100_COD",
+  "case_key": "1:05cr100_COD",
+  "case_lni": "7WBN-D780-Y892-B3TD-00000-00",
+  "case_number": "1:05cr100",
+  "case_title": "USA v. Jenson",
+  "case_info_full_case_name": "USA v. Jenson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jenson",
+  "case_date_filed": "2005-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lynell Lyn Jenson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Aiding and Abetting BURGLARY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "THEFT, FELONY (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:13-7990.F 18:13-7990.F"
+        },
+        {
+          "charge_description": "18:13-7990.F SECOND DEGREE BURGLARY;, 18:13-7990.F FELONY THEFT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Walker D. Miller",
+          "judge_guid": "urn:entity:jud-100036141"
+        }
+      ]
+    }
+  ]
+}

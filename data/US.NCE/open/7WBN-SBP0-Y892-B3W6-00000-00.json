@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_506mj36_NCED",
+  "case_key": "5:06mj36_NCED",
+  "case_lni": "7WBN-SBP0-Y892-B3W6-00000-00",
+  "case_number": "5:06mj36",
+  "case_title": "USA v. Gale",
+  "case_info_full_case_name": "USA v. Gale",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gale",
+  "case_date_filed": "2006-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Samantha Shoell",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Zachary I. Gale",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "20-138.1"
+        },
+        {
+          "charge_description": "DWI, NCGS 20-138.1 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "20-138.3"
+        },
+        {
+          "charge_description": "Underage consumption of alcohol while driving, NCGS 20-138.3 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "20-146(d)(1)"
+        },
+        {
+          "charge_description": "Fail to maintain lane, NCGS 20-146(d)(1) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William A. Webb",
+          "judge_guid": "urn:entity:jud-100023194"
+        }
+      ]
+    }
+  ]
+}

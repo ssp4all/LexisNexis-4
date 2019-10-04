@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_604cr2_txed",
+  "case_key": "6:04cr2_txed",
+  "case_lni": "7WBN-P570-Y892-B3MY-00000-00",
+  "case_number": "6:04cr2",
+  "case_title": "USA v. McKinney",
+  "case_info_full_case_name": "USA v. McKinney",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McKinney",
+  "case_date_filed": "2004-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL JOSHE MCKINNEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:843A=CP.F"
+        },
+        {
+          "charge_description": "21:843A=CP.F UNLAWFUL ACTS-CONTROLLED SUBSTANCE-POSSESS (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924H.F"
+        },
+        {
+          "charge_description": "18:924H.F TRANSFER OF FIREARM-USE IN VIOLENT CRIME (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAM_311cr12_LAMD",
+  "case_key": "3:11cr12_LAMD",
+  "case_lni": "524R-D3Y1-DXDT-G1R3-00000-00",
+  "case_number": "3:11cr12",
+  "case_title": "USA v. Crum",
+  "case_info_full_case_name": "USA v. Crum",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Crum",
+  "case_date_filed": "2011-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brandon R. Crum",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank J. Polozola",
+          "judge_guid": "urn:entity:jud-100024340"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Docia L Dalby",
+          "judge_guid": "urn:entity:jud-100057626"
+        }
+      ]
+    }
+  ]
+}

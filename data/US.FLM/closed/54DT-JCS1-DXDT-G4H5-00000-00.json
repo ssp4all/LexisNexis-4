@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_811mj1600_FLMD",
+  "case_key": "8:11mj1600_FLMD",
+  "case_lni": "54DT-JCS1-DXDT-G4H5-00000-00",
+  "case_number": "8:11mj1600",
+  "case_title": "USA v. Dickinson",
+  "case_info_full_case_name": "USA v. Dickinson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dickinson",
+  "case_date_filed": "2011-12-02",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christine Marie Dickinson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F Conspiracy to Defraud The United States"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Elizabeth A Jenkins",
+          "judge_guid": "urn:entity:jud-100050496"
+        }
+      ]
+    }
+  ]
+}

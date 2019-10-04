@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_202cr2180_waed",
+  "case_key": "2:02cr2180_waed",
+  "case_lni": "7WBN-GKB0-Y892-B444-00000-00",
+  "case_number": "2:02cr2180",
+  "case_title": "USA v. Gutierrez-Ramirez",
+  "case_info_full_case_name": "USA v. Gutierrez-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gutierrez-Ramirez",
+  "case_date_filed": "2002-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE GUTIERREZ-RAMIREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326--ALIEN"
+        },
+        {
+          "charge_description": "8 USC 1326--ALIEN IN UNITED STATES AFTER DEPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Fred L. Van Sickle",
+          "judge_guid": "urn:entity:jud-100010547"
+        }
+      ]
+    }
+  ]
+}

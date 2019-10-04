@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_319cr2389_TXWD",
+  "case_key": "3:19cr2389_TXWD",
+  "case_lni": "5WJ0-JHF1-DXDT-G4GV-00000-00",
+  "case_number": "3:19cr2389",
+  "case_title": "USA v. Alvarado",
+  "case_info_full_case_name": "USA v. Alvarado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarado",
+  "case_date_filed": "2019-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Xavier Alejandro Alvarado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952=CI. IMPORTING A QUANTITY OF METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD. POSSESSING WITH INTENT TO DISTRIBUTE A QUANTITY OF METHAMPHETAMINE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F-CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F-CONTROLLED SUBSTANCE-SELL, DISTRIBUTE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

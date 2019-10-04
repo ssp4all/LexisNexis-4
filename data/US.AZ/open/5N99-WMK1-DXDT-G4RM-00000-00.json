@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_217cr529_AZD",
+  "case_key": "2:17cr529_AZD",
+  "case_lni": "5N99-WMK1-DXDT-G4RM-00000-00",
+  "case_number": "2:17cr529",
+  "case_title": "USA v. Calvillo Bernal",
+  "case_info_full_case_name": "USA v. Calvillo Bernal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Calvillo Bernal",
+  "case_date_filed": "2017-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Margaret Wu Perlmeter",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eladio Alejandro Calvillo Bernal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) - Possession with Intent to Distribute Methamphetamine(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:952(a), 960(a), and (b)(3) - Importation of Methamphetamine(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) - Possession with Intent to Distribute Heroin(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:952(a), 960(a) and (b)(3) - Importation of Heroin(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Counts One and Two:  21:841(a)(1) and (b)(1)(C) Possession of a Controlled Substance with Intent to Distribute; Counts Three and Four:  21:952, 960(a) and (b)(3) Importation of a Controlled Substance into the United States"
+        },
+        {
+          "charge_offence_description": "Counts One and Two:  21:841(a)(1) and (b)(1)(C) Po"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David G Campbell",
+          "judge_guid": "urn:entity:jud-100059869"
+        }
+      ]
+    }
+  ]
+}

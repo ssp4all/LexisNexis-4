@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_311mj5998_TXWD",
+  "case_key": "3:11mj5998_TXWD",
+  "case_lni": "54FX-XD41-DXDT-G27F-00000-00",
+  "case_number": "3:11mj5998",
+  "case_title": "USA v. Martinez Morales",
+  "case_info_full_case_name": "USA v. Martinez Morales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez Morales",
+  "case_date_filed": "2011-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Armando Martinez Morales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:911.F--IMPERSONATING"
+        },
+        {
+          "charge_description": "18:911.F--IMPERSONATING A CITIZEN OF THE U.S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_303cr1693_txwd",
+  "case_key": "3:03cr1693_txwd",
+  "case_lni": "7WBN-H5R0-Y892-B1YX-00000-00",
+  "case_number": "3:03cr1693",
+  "case_title": "USA v. Perez-Gutierrez",
+  "case_info_full_case_name": "USA v. Perez-Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Gutierrez",
+  "case_date_filed": "2003-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA MARGARITA PEREZ-GUTIERREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(2)(B)(ii)"
+        },
+        {
+          "charge_description": "Knowingly and in reckless disregard of the fact that an alien, was an alien who had not received p;rior authorization to come to,enter and reside in the United States, did bring to and attempt to bring to the United States said alien, the offense being done for the purpose of commercial advatage or private financial gain in violation of 8:1324(a)(2)(B)(ii) [3:03-m-2616]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    },
+    {
+      "party_name": "MARIA ELIZABETH PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(2)(B)(ii)"
+        },
+        {
+          "charge_description": "Knowingly and in reckless disregard of the fact that an alien, was an alien who had not received p;rior authorization to come to,enter and reside in the United States, did bring to and attempt to bring to the United States said alien, the offense being done for the purpose of commercial advatage or private financial gain in violation of 8:1324(a)(2)(B)(ii) [3:03-m-2616]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

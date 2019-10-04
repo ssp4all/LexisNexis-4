@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_113mj691_TXSD",
+  "case_key": "1:13mj691_TXSD",
+  "case_lni": "592J-PPM1-DXDT-G37R-00000-00",
+  "case_number": "1:13mj691",
+  "case_title": "USA v. Gonzalez-Dominguez",
+  "case_info_full_case_name": "USA v. Gonzalez-Dominguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Dominguez",
+  "case_date_filed": "2013-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Asst ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Gonzalez-Dominguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported and removed; 8 USC 1326(a) and (b)"
+        },
+        {
+          "charge_offence_description": "Knowingly and unlawfully was present in the United"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

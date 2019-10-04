@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_200cr216_caed",
+  "case_key": "2:00cr216_caed",
+  "case_lni": "7WBN-F7B0-Y892-B46R-00000-00",
+  "case_number": "2:00cr216",
+  "case_title": "USA v. Rosales-Leal",
+  "case_info_full_case_name": "USA v. Rosales-Leal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosales-Leal",
+  "case_date_filed": "2000-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Glyndell E Williams",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUBEN ROSALES-LEAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P"
+        },
+        {
+          "charge_description": "8:1325.P ILLEGAL ENTRY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F DEPORTED ALIEN FOUND IN THE US (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Lawrence K Karlton",
+          "judge_guid": "urn:entity:jud-100043383"
+        }
+      ]
+    }
+  ]
+}

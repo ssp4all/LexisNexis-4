@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_118po78_INSD",
+  "case_key": "1:18po78_INSD",
+  "case_lni": "5T6G-0T51-DXDT-G3VS-00000-00",
+  "case_number": "1:18po78",
+  "case_title": "USA vs SOUTHALL",
+  "case_info_full_case_name": "USA vs SOUTHALL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SOUTHALL",
+  "case_date_filed": "2018-09-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "LAMONT SOUTHALL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "38CFR1.218(b)(26)Â Parking in no parking area (6322047)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark J. Dinsmore",
+          "judge_guid": "urn:entity:jud-100071365"
+        }
+      ]
+    }
+  ]
+}

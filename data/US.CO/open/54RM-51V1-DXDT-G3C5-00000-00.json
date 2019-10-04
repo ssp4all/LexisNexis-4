@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_112mj1006_COD",
+  "case_key": "1:12mj1006_COD",
+  "case_lni": "54RM-51V1-DXDT-G3C5-00000-00",
+  "case_number": "1:12mj1006",
+  "case_title": "USA v. Harbin",
+  "case_info_full_case_name": "USA v. Harbin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harbin",
+  "case_date_filed": "2012-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas Harbin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2119.F 18:924C.F"
+        },
+        {
+          "charge_description": "18:2119.F Carjacking,, 18:924C.F Use of a Firearm during a Crime of Violence"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Boyd N. Boland",
+          "judge_guid": "urn:entity:jud-100061263"
+        }
+      ]
+    }
+  ]
+}

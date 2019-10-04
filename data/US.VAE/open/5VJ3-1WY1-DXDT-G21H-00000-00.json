@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_119po433_VAED",
+  "case_key": "1:19po433_VAED",
+  "case_lni": "5VJ3-1WY1-DXDT-G21H-00000-00",
+  "case_number": "1:19po433",
+  "case_title": "USA vs Nieto",
+  "case_info_full_case_name": "USA vs Nieto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nieto",
+  "case_date_filed": "2019-03-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Leslie A Nieto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CHILD NEGLECT/ABANDONMENT/CONTRIBUTING TO THE DELINQUENCY OF A MINOR (7869529)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

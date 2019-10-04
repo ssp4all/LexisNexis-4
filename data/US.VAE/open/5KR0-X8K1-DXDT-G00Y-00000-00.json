@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_116po2779_VAED",
+  "case_key": "1:16po2779_VAED",
+  "case_lni": "5KR0-X8K1-DXDT-G00Y-00000-00",
+  "case_number": "1:16po2779",
+  "case_title": "USA vs Ciccone",
+  "case_info_full_case_name": "USA vs Ciccone",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ciccone",
+  "case_date_filed": "2016-09-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Alexander W Ciccone",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "EXPIRED REGISTRATION/EXP LICENSE PLATES/UNREG VEHICLE (6427601)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

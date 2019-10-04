@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_302cr599_casd",
+  "case_key": "3:02cr599_casd",
+  "case_lni": "7WBN-H570-Y892-B38H-00000-00",
+  "case_number": "3:02cr599",
+  "case_title": "USA v. Martinez-Garcia",
+  "case_info_full_case_name": "USA v. Martinez-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Garcia",
+  "case_date_filed": "2002-03-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TOMAS MARTINEZ-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of Marijuana with Intent to Distribute (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Barry T. Moskowitz",
+          "judge_guid": "urn:entity:jud-100003500"
+        }
+      ]
+    }
+  ]
+}

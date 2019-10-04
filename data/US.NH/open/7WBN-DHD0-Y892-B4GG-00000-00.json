@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_107cr51_NHD",
+  "case_key": "1:07cr51_NHD",
+  "case_lni": "7WBN-DHD0-Y892-B4GG-00000-00",
+  "case_number": "1:07cr51",
+  "case_title": "USA v. Nguyen",
+  "case_info_full_case_name": "USA v. Nguyen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nguyen",
+  "case_date_filed": "2007-02-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jennifer C. Davis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Toan K. Nguyen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1) 841(b)(1)(B)(vii) 100"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) and 841(b)(1)(B)(vii) Possession with Intent to Distribute 100 or more marijuana plants (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Steven J. McAuliffe",
+          "judge_guid": "urn:entity:jud-100041246"
+        }
+      ]
+    }
+  ]
+}

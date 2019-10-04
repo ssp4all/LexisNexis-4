@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_519po2218_TXSD",
+  "case_key": "5:19po2218_TXSD",
+  "case_lni": "5VSW-VWS1-DXDT-G2BR-00000-00",
+  "case_number": "5:19po2218",
+  "case_title": "USA v. Gutierrez-Melgar",
+  "case_info_full_case_name": "USA v. Gutierrez-Melgar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gutierrez-Melgar",
+  "case_date_filed": "2019-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Graciela Rodriguez Lindberg",
+      "attorney_label": "LEAD ATTORNEY"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marlon Gutierrez-Melgar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

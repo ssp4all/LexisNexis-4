@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_300cr30_vaed",
+  "case_key": "3:00cr30_vaed",
+  "case_lni": "7WBN-H400-Y892-B0F8-00000-00",
+  "case_number": "3:00cr30",
+  "case_title": "USA v. Payne",
+  "case_info_full_case_name": "USA v. Payne",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Payne",
+  "case_date_filed": "2000-01-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ISAIAH PAYNE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1952-7400.F (18:1952-7400.F)"
+        },
+        {
+          "charge_description": "18:1952-7400.F Interstate transportation in aid of racketerring (possession with intent to distribute cocaine) (18:1952-7400.F) (1)"
+        },
+        {
+          "charge_disposition": "14 months, The court recommends the deft be confined at FCI Petersburg or a facility where the deft may receive residential drug treatment and counselling. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert E. Payne",
+          "judge_guid": "urn:entity:jud-100028253"
+        }
+      ]
+    }
+  ]
+}

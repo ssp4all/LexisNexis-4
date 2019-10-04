@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_318po5956_WAWD",
+  "case_key": "3:18po5956_WAWD",
+  "case_lni": "5SFF-7WF1-DXDT-G0W6-00000-00",
+  "case_number": "3:18po5956",
+  "case_title": "USA vs Baldwin",
+  "case_info_full_case_name": "USA vs Baldwin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baldwin",
+  "case_date_filed": "2018-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Dustin J Baldwin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Speeding (7578945)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David W. Christel",
+          "judge_guid": "urn:entity:jud-100062729"
+        }
+      ]
+    }
+  ]
+}

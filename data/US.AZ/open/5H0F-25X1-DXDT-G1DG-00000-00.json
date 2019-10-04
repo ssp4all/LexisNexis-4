@@ -1,0 +1,98 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_315cr8206_AZD",
+  "case_key": "3:15cr8206_AZD",
+  "case_lni": "5H0F-25X1-DXDT-G1DG-00000-00",
+  "case_number": "3:15cr8206",
+  "case_title": "USA v. Cook et al",
+  "case_info_full_case_name": "USA v. Cook et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cook et al",
+  "case_date_filed": "2015-09-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(c)(1)(A)(i), (ii), and 2 - Brandishing a Firearm During a Crime of Violence - Aid and Abet(1s)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the custody of the Bureau of Prisons for a term of EIGHTY-FOUR (84) MONTHS, with credit for time served. This term shall be served consecutively to the term of imprisonment imposed in CR-15-08237-PCT-JJT. Upon release from imprisonment, the defendant shall be placed on supervised release for a term of THREE (3) YEARS. This term shall be served concurrently to the term of supervised release imposed in CR-15-08237-PCT-JJT.SPECIAL ASSESSMENT: $100.00 FINE: WAIVED RESTITUTION: $683.02"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153, 1201(a) and 2 (CIR - Kidnapping and Aid and Abet)(1-6)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A)(i), (ii) and 2 (Brandishing a Firearm During a Crime of Violence and Aid and Abet)(7-12)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John J Tuchi",
+          "judge_guid": "urn:entity:jud-100107093"
+        }
+      ]
+    },
+    {
+      "party_name": "Victoria Lynn Buckinghorse",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1153, 1201(a) and 2 (CIR - Kidnapping and Aid and Abet)(1-6)"
+        },
+        {
+          "charge_disposition": "Dismissed pursuant to order of the court."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A)(i), (ii) and 2 (Brandishing a Firearm During a Crime of Violence and Aid and Abet)(7-12)"
+        },
+        {
+          "charge_disposition": "Dismissed pursuant to order of the court."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John J Tuchi",
+          "judge_guid": "urn:entity:jud-100107093"
+        }
+      ]
+    }
+  ]
+}

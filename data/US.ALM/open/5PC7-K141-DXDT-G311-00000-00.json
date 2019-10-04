@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_117cr383_ALMD",
+  "case_key": "1:17cr383_ALMD",
+  "case_lni": "5PC7-K141-DXDT-G311-00000-00",
+  "case_number": "1:17cr383",
+  "case_title": "USA v. Diaz-Velasquez",
+  "case_info_full_case_name": "USA v. Diaz-Velasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diaz-Velasquez",
+  "case_date_filed": "2017-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Kevin P Davidson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Diaz-Velasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G Illegal Alien in poss of Firearm"
+        },
+        {
+          "charge_offence_description": "18:922G Illegal Alien in poss of Firearm"
+        },
+        {
+          "charge_description": "18:922(g)(5)(A) - UNLAWFUL TRANSPORT OF FIREARMS, ETC.; FORFEITURE ALLEGATION(1)"
+        },
+        {
+          "charge_disposition": "Time served (7 mos cc); 2 Yrs Sup Rel; $100 AF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:844(a) - CONTROLLED SUBSTANCE - POSSESSION; FORFEITURE ALLEGATION(2)"
+        },
+        {
+          "charge_disposition": "6 Mos Imp cc; 1 Yr Sup Rel; $25 AF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "William Keith Watkins",
+          "judge_guid": "urn:entity:jud-100081962"
+        },
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Terry F. Moorer",
+          "judge_guid": "urn:entity:jud-100066258"
+        }
+      ]
+    }
+  ]
+}

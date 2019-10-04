@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_497m3042_ared",
+  "case_key": "4:97m3042_ared",
+  "case_lni": "7WBN-DWK0-Y892-B38K-00000-00",
+  "case_number": "4:97m3042",
+  "case_title": "USA v. Slack",
+  "case_info_full_case_name": "USA v. Slack",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Slack",
+  "case_date_filed": "1997-05-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES AVERY SLACK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1073 88"
+        },
+        {
+          "charge_description": "in violation of Title 18 USC 1073 move and travel in Interstate Commerce, with the intent to avoid confinement under the laws of the State of Arkansas, from which state Slack fled, and in which state he was serving an 88 year year sentence for kidnapping."
+        },
+        {
+          "charge_disposition": "Dismissed upon motion of the govt (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Henry L. Jones, Jr.",
+          "judge_guid": "urn:entity:jud-100050211"
+        }
+      ]
+    }
+  ]
+}

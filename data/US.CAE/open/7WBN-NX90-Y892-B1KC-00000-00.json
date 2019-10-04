@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_505mj45_CAED",
+  "case_key": "5:05mj45_CAED",
+  "case_lni": "7WBN-NX90-Y892-B1KC-00000-00",
+  "case_number": "5:05mj45",
+  "case_title": "USA v. Dahlgreen",
+  "case_info_full_case_name": "USA v. Dahlgreen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dahlgreen",
+  "case_date_filed": "2005-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Edward Derobertis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bruce E Dahlgreen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "OTHER-36CFR2.4(a)"
+        },
+        {
+          "charge_description": "FEDERAL STATUTES, OTHER-36 CFR 2.4(a) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "OTHER-36CFR2.1(a)(1)(iii)"
+        },
+        {
+          "charge_description": "FEDERAL STATUTES, OTHER-36 CFR 2.1(a)(1)(iii) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa A. Goldner",
+          "judge_guid": "urn:entity:jud-100042766"
+        }
+      ]
+    }
+  ]
+}

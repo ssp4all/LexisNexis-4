@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_591cr105_nced",
+  "case_key": "5:91cr105_nced",
+  "case_lni": "7WBN-HXY0-Y892-B48R-00000-00",
+  "case_number": "5:91cr105",
+  "case_title": "USA v. Innab, et al",
+  "case_info_full_case_name": "USA v. Innab, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Innab, et al",
+  "case_date_filed": "1991-12-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RODNEY DEMETRIUS PARRISH",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    },
+    {
+      "party_name": "NAHRO SUDQUI INNAB",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_104cr20247_FLSD",
+  "case_key": "1:04cr20247_FLSD",
+  "case_lni": "7WBN-PMR0-Y892-B55X-00000-00",
+  "case_number": "1:04cr20247",
+  "case_title": "USA v. Downs",
+  "case_info_full_case_name": "USA v. Downs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Downs",
+  "case_date_filed": "2004-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RODNEY DOWNS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:960B=NI.F (Cocaine)"
+        },
+        {
+          "charge_description": "21:960B=NI.F NARCOTICS-IMPORTATION/EXPORTATION. (Cocaine) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=NP.F (Cocaine)"
+        },
+        {
+          "charge_description": "21:841B=NP.F NARCOTICS-POSSESSION. (Cocaine) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession with intent to distribute cocaine [1:04-m-2376]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cecilia M. Altonaga",
+          "judge_guid": "urn:entity:jud-100052878"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414mj8550_AZD",
+  "case_key": "4:14mj8550_AZD",
+  "case_lni": "5BW8-JGB1-DXDT-G38K-00000-00",
+  "case_number": "4:14mj8550",
+  "case_title": "USA v. Ulivarria-Hernandez et al",
+  "case_info_full_case_name": "USA v. Ulivarria-Hernandez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ulivarria-Hernandez et al",
+  "case_date_filed": "2014-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jesus Manuel Ulivarria-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1: 21:841(a)(1) &; 841(b)(1)(C); Possession w/Intent to Distribute Marijuana; All in violation of Title 21:846 Conspiracy to Possess With Intent to Distribute Marijuana; CT 2: 21:844(a); Simple Possession of Marijuana"
+        },
+        {
+          "charge_offence_description": "CT 1: 21:841(a)(1) & 841(b)(1)(C); Possession w/In"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    },
+    {
+      "party_name": "Fidencio Meraz-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1: 21:841(a)(1) &; 841(b)(1)(C); Possession w/Intent to Distribute Marijuana; All in violation of Title 21:846 Conspiracy to Possess With Intent to Distribute Marijuana; CT 2: 21:844(a); Simple Possession of Marijuana"
+        },
+        {
+          "charge_offence_description": "CT 1: 21:841(a)(1) & 841(b)(1)(C); Possession w/In"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

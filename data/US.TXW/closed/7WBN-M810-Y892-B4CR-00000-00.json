@@ -1,0 +1,381 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_296cr129_txwd",
+  "case_key": "2:96cr129_txwd",
+  "case_lni": "7WBN-M810-Y892-B4CR-00000-00",
+  "case_number": "2:96cr129",
+  "case_title": "USA v. Benitez-Leon",
+  "case_info_full_case_name": "USA v. Benitez-Leon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Benitez-Leon",
+  "case_date_filed": "1996-05-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CALIXTO PEREZ-REBOLLAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_disposition": "78 months imprisonment, 5 years supervised release, on each count, to run concurrently, $400 S/A. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (2)"
+        },
+        {
+          "charge_disposition": "78 months imprisonment, 5 years supervised release, on each count, to run concurrently, $400 S/A. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (3)"
+        },
+        {
+          "charge_disposition": "78 months imprisonment, 5 years supervised release, on each count, to run concurrently, $400 S/A. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (4)"
+        },
+        {
+          "charge_disposition": "78 months imprisonment, 5 years supervised release, on each count, to run concurrently, $400 S/A. (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1), 846-Possess"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1), 846-Possess and conspiracy to possess with intent to distribute marijuana [2:96-m-882]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    },
+    {
+      "party_name": "MELECIO LEIJA-GUZMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_disposition": "37 months imprisonment, 5 years supervised release, $100 S/A. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (2)"
+        },
+        {
+          "charge_disposition": "37 months imprisonment, 5 years supervised release, $100 S/A. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government Motion. (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (4)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government Motion. (4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1), 846-Possess"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1), 846-Possess and conspiracy to possess with intent to distribute marijuana [2:96-m-882]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    },
+    {
+      "party_name": "PEDRO LOPEZ-TOVAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_disposition": "37 months imprisonment, 5 years supervised release, on each count, to run concurrently, $100 S/A. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (2)"
+        },
+        {
+          "charge_disposition": "37 months imprisonment, 5 years supervised release, on each count, to run concurrently, $100 S/A. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government Motion. (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (4)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government Motion. (4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1), 846-Possess"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1), 846-Possess and conspiracy to possess with intent to distribute marijuana [2:96-m-882]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    },
+    {
+      "party_name": "RAUNEL BENITEZ-LEON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_disposition": "78 months imprisonment, 5 years supervised release, on each count, to run concurrently, $400 S/A. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (2)"
+        },
+        {
+          "charge_disposition": "78 months imprisonment, 5 years supervised release, on each count, to run concurrently, $400 S/A. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (3)"
+        },
+        {
+          "charge_disposition": "78 months imprisonment, 5 years supervised release, on each count, to run concurrently, $400 S/A. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (4)"
+        },
+        {
+          "charge_disposition": "78 months imprisonment, 5 years supervised release, on each count, to run concurrently, $400 S/A. (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1), 846-Possess"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1), 846-Possess and conspiracy to possess with intent to distribute marijuana [2:96-m-882]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    },
+    {
+      "party_name": "ARTURO RODRIGUEZ-GRIMALDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_disposition": "46 months imprisonment, 4 years supervised release, on each count, to run concurrently, $100 S/A (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (2)"
+        },
+        {
+          "charge_disposition": "46 months imprisonment, 4 years supervised release, on each count, to run concurrently, $100 S/A (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government Motion. (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (4)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government Motion. (4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1), 846-Possess"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1), 846-Possess and conspiracy to possess with intent to distribute marijuana [2:96-m-882]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    }
+  ]
+}

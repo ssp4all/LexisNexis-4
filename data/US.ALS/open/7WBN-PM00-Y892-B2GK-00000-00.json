@@ -1,0 +1,315 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_103cr23_alsd",
+  "case_key": "1:03cr23_alsd",
+  "case_lni": "7WBN-PM00-Y892-B2GK-00000-00",
+  "case_number": "1:03cr23",
+  "case_title": "USA v. Perez, et al",
+  "case_info_full_case_name": "USA v. Perez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez, et al",
+  "case_date_filed": "2003-01-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2-34)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS-COCAINE (35)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:853.F"
+        },
+        {
+          "charge_description": "21:853.F CRIMINAL FORFEITURES (38)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles Butler, Jr.",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    },
+    {
+      "party_name": "ERASMO RAMOS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2-34)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS-COCAINE (35)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE COCAINE (36)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE COCAINE (37)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:853.F"
+        },
+        {
+          "charge_description": "21:853.F CRIMINAL FORFEITURES (38)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles Butler, Jr.",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    },
+    {
+      "party_name": "DARYL JACOBS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2-34)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS-COCAINE (35)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE COCAINE (36)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE COCAINE (37)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:853.F"
+        },
+        {
+          "charge_description": "21:853.F CRIMINAL FORFEITURES (38)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles Butler, Jr.",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    },
+    {
+      "party_name": "CHRIS JOSEPH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2-34)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS-COCAINE (35)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE COCAINE (36)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE COCAINE (37)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:853.F"
+        },
+        {
+          "charge_description": "21:853.F CRIMINAL FORFEITURES (38)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles Butler, Jr.",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    }
+  ]
+}

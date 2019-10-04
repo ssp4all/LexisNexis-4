@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_204cr621_TXSD",
+  "case_key": "2:04cr621_TXSD",
+  "case_lni": "7WBN-KKC0-Y892-B3N6-00000-00",
+  "case_number": "2:04cr621",
+  "case_title": "USA v. Loredo-Turrubiartes",
+  "case_info_full_case_name": "USA v. Loredo-Turrubiartes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Loredo-Turrubiartes",
+  "case_date_filed": "2004-11-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Eusebio Loredo-Turrubiartes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "States-8USC1324(a)(1)(A)(ii) 1324(a)(1)(B)(ii). 10/28/04. 5 $250,000, 3 $100.00"
+        },
+        {
+          "charge_description": "Did transport an undocumented alien within the United States-8 USC 1324(a)(1)(A)(ii) and 1324(a)(1)(B)(ii). Date of Offense: 10/28/04. PENALTY: Not more than 5 years imprisonment and/or, a fine of up to $250,000, up to 3 years SRT, and a $100.00 Special Assessment. (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(7)"
+        },
+        {
+          "charge_description": "Did unlawfully transport illegal undocumented migrants Eduardo De Jesus Martinez-Coca, Wilber Alexander Esperanza-Quintanilla and seven (7) others by means of a motor vehicle within the Southern District of Texas knowingly or in reckless disregard of the fact that said migrants had come to, entered, or were to remain in the United States in violation of law, and transported or moved said migrants within the United States by means of transportation or otherwise, in furtherance of such violation of law, in violation of 8 USC 1324(a)(1)(A)(ii)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Hayden Head",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    }
+  ]
+}

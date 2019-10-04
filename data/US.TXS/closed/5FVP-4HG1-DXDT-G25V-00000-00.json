@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_415mj553_TXSD",
+  "case_key": "4:15mj553_TXSD",
+  "case_lni": "5FVP-4HG1-DXDT-G25V-00000-00",
+  "case_number": "4:15mj553",
+  "case_title": "USA v. Emasealu Do not docket in 4:15mj553. Case has been merged into 4:15cr268.",
+  "case_info_full_case_name": "USA v. Emasealu Do not docket in 4:15mj553. Case has been merged into 4:15cr268.",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Emasealu Do not docket in 4:15mj553. Case has been merged into 4:15cr268.",
+  "case_date_filed": "2015-04-24",
+  "case_status": "Closed",
+  "case_status_date": "05/20/2015",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Tom Ineze Emasealu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1028 ID Fraud"
+        },
+        {
+          "charge_offence_description": "18:1028 ID Fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frances H Stacy",
+          "judge_guid": "urn:entity:jud-100020287"
+        }
+      ]
+    }
+  ]
+}

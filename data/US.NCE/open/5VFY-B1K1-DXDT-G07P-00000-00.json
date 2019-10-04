@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_519mj1231_NCED",
+  "case_key": "5:19mj1231_NCED",
+  "case_lni": "5VFY-B1K1-DXDT-G07P-00000-00",
+  "case_number": "5:19mj1231",
+  "case_title": "USA v. Caudillo",
+  "case_info_full_case_name": "USA v. Caudillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Caudillo",
+  "case_date_filed": "2019-02-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katharine M Adams",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Angelina R. Caudillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DWI - NCGS 20-138.1(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Possess Drug Paraphernalia - NCGS 90-113.22(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Open Container - NCGS 20-138.7(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "False Registration (Expired Registration) - NCGS 20-111(2)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert T. Numbers, II",
+          "judge_guid": "urn:entity:jud-100110710"
+        }
+      ]
+    }
+  ]
+}

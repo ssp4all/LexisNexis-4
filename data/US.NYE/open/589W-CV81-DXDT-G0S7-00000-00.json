@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_113mj384_NYED",
+  "case_key": "1:13mj384_NYED",
+  "case_lni": "589W-CV81-DXDT-G0S7-00000-00",
+  "case_number": "1:13mj384",
+  "case_title": "USA v. Allen",
+  "case_info_full_case_name": "USA v. Allen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Allen",
+  "case_date_filed": "2013-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Daniel Allen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 500"
+        },
+        {
+          "charge_offence_description": "18 USC 500"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cheryl L. Pollak",
+          "judge_guid": "urn:entity:jud-100032821"
+        }
+      ]
+    }
+  ]
+}

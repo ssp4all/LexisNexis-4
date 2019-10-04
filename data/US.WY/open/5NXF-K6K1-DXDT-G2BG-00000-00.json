@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_517po420_WYD",
+  "case_key": "5:17po420_WYD",
+  "case_lni": "5NXF-K6K1-DXDT-G2BG-00000-00",
+  "case_number": "5:17po420",
+  "case_title": "USA v. Gally",
+  "case_info_full_case_name": "USA v. Gally",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gally",
+  "case_date_filed": "2017-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel S Gally",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "36CFR1.5(f) Violating a closure, designation, use or activity restriction-bear closure (Freight Road) (6539880)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

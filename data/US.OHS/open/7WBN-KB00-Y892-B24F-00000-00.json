@@ -1,0 +1,73 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_200cr192_ohsd",
+  "case_key": "2:00cr192_ohsd",
+  "case_lni": "7WBN-KB00-Y892-B24F-00000-00",
+  "case_number": "2:00cr192",
+  "case_title": "USA v. Ross",
+  "case_info_full_case_name": "USA v. Ross",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ross",
+  "case_date_filed": "2000-11-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robyn Jones Hahnert",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIE B ROSS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:13-7990.F"
+        },
+        {
+          "charge_description": "18:13-7990.F FORFEITURE OF FIREARMS AND AMMUNITION NAMED IN THE INDICTMENT. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1), 924(a)(2) 21:841(a)(1) (b)(1)(D) 846"
+        },
+        {
+          "charge_description": "18:922(g)(1), 924(a)(2) &; 21:841(a)(1) &; (b)(1)(D) &; 846 possess firearm &; distribute marijuana [2:00-m-343]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George C. Smith",
+          "judge_guid": "urn:entity:jud-100022320"
+        }
+      ]
+    }
+  ]
+}

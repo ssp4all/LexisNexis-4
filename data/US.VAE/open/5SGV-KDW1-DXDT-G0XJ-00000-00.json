@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_118po1357_VAED",
+  "case_key": "1:18po1357_VAED",
+  "case_lni": "5SGV-KDW1-DXDT-G0XJ-00000-00",
+  "case_number": "1:18po1357",
+  "case_title": "USA v. Sok",
+  "case_info_full_case_name": "USA v. Sok",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sok",
+  "case_date_filed": "2018-06-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Piden San Sok",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SPEEDING 45/25 (7523314)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "RECKLESS DRIVING BY SPEED (7523315)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVING UNDER THE INFLUENCE (7523316)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVING WHILE INTOXICATED (7523318)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F. Anderson",
+          "judge_guid": "urn:entity:jud-100074444"
+        }
+      ]
+    }
+  ]
+}

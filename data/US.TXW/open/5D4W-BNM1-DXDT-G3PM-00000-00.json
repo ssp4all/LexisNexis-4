@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_714mj434_TXWD",
+  "case_key": "7:14mj434_TXWD",
+  "case_lni": "5D4W-BNM1-DXDT-G3PM-00000-00",
+  "case_number": "7:14mj434",
+  "case_title": "USA v. Rogers et al",
+  "case_info_full_case_name": "USA v. Rogers et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rogers et al",
+  "case_date_filed": "2014-09-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Denzel Rogers",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F On or about July 31, 2014 in Midland County, in the Western District of Texas, defendant, aided and abetted by another, did possess with intent to distribute a quantity of \"crack\" cocaine in violation of Title 21, USC 841(a)(1) and Title 18, USC 2."
+        },
+        {
+          "charge_offence_description": "21:841A=ND.F On or about July 31, 2014 in Midland "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    },
+    {
+      "party_name": "Darren Christian",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F On or about July 31, 2014 in Midland County, in the Western District of Texas, defendant, aided and abetted by another, did possess with intent to distribute a quantity of \"crack\" cocaine in violation of Title 21, USC 841(a)(1) and Title 18, USC 2."
+        },
+        {
+          "charge_offence_description": "21:841A=ND.F On or about July 31, 2014 in Midland "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    }
+  ]
+}

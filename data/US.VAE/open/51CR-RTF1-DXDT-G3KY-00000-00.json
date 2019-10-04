@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_310mj567_VAED",
+  "case_key": "3:10mj567_VAED",
+  "case_lni": "51CR-RTF1-DXDT-G3KY-00000-00",
+  "case_number": "3:10mj567",
+  "case_title": "USA v. Hernandez",
+  "case_info_full_case_name": "USA v. Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez",
+  "case_date_filed": "2010-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "N. George Metcalf",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oblin I. Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC13 1950 46.2-301-Suspended"
+        },
+        {
+          "charge_description": "18 U.S.C. 13 assimilating 1950 Code of Va., as amended, 46.2-301-Suspended License (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    }
+  ]
+}

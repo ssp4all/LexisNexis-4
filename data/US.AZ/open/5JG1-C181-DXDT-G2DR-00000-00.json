@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416po23145_AZD",
+  "case_key": "4:16po23145_AZD",
+  "case_lni": "5JG1-C181-DXDT-G2DR-00000-00",
+  "case_number": "4:16po23145",
+  "case_title": "USA v. Quintana-Lara",
+  "case_info_full_case_name": "USA v. Quintana-Lara",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Quintana-Lara",
+  "case_date_filed": "2016-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Quintana-Lara",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

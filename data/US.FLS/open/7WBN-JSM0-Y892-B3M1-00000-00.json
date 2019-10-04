@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_108cr20932_FLSD",
+  "case_key": "1:08cr20932_FLSD",
+  "case_lni": "7WBN-JSM0-Y892-B3M1-00000-00",
+  "case_number": "1:08cr20932",
+  "case_title": "USA v. Brice",
+  "case_info_full_case_name": "USA v. Brice",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brice",
+  "case_date_filed": "2008-10-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jean Gerard Brice",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Fraud and Misuse of Visas/Permits 18:1546.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jose E. Martinez",
+          "judge_guid": "urn:entity:jud-100041490"
+        }
+      ]
+    }
+  ]
+}

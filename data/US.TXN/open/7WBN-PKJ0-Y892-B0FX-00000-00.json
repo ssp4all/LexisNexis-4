@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_102cr43_txnd",
+  "case_key": "1:02cr43_txnd",
+  "case_lni": "7WBN-PKJ0-Y892-B0FX-00000-00",
+  "case_number": "1:02cr43",
+  "case_title": "USA, et al v. Rodriguez-Garcia",
+  "case_info_full_case_name": "USA, et al v. Rodriguez-Garcia",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Rodriguez-Garcia",
+  "case_date_filed": "2002-08-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ifs] [PRO SE]"
+    },
+    {
+      "attorney_name": "US Pretrial Services",
+      "attorney_label": "[COR LD NTC ifs] [PRO SE]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SALVADOR RODRIGUEZ-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a), 960(a)(1) 960(b)(1)(B) 5 18:2"
+        },
+        {
+          "charge_description": "21:952(a), 960(a)(1) and 960(b)(1)(B) IMPORTATION OF 5 KILOGRAMS OR MORE OF COCAINE AND 18:2 AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(A)(ii) 5 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A)(ii) POSSESSION WITH INTENT TO DISTRIBUTE 5 KILOGRAMS OR MORE OF COCAINE; 18:2 AIDING AND ABETTING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21: 841(a)(1), 841(b)(1)(A) 18:2 59"
+        },
+        {
+          "charge_description": "21: 841(a)(1), 841(b)(1)(A) and 18:2 Possession with intent to distribute cocaine, to wit: 59 kilograms of cocaine and aiding and abetting [1:02-m-86]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        }
+      ]
+    }
+  ]
+}

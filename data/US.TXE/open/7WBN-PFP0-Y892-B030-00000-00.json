@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_900cr31_txed",
+  "case_key": "9:00cr31_txed",
+  "case_lni": "7WBN-PFP0-Y892-B030-00000-00",
+  "case_number": "9:00cr31",
+  "case_title": "USA v. Little",
+  "case_info_full_case_name": "USA v. Little",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Little",
+  "case_date_filed": "2000-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL JEROME LITTLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F POSSESS W/INTENT TO DISTRIBUTE a Schedule II controlled subst, crack cocaine (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howell Cobb",
+          "judge_guid": "urn:entity:jud-100048177"
+        }
+      ]
+    }
+  ]
+}

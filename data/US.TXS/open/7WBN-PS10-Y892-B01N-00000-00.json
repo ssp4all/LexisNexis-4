@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_107cr893_TXSD",
+  "case_key": "1:07cr893_TXSD",
+  "case_lni": "7WBN-PS10-Y892-B01N-00000-00",
+  "case_number": "1:07cr893",
+  "case_title": "USA v. Perez-Vasquez",
+  "case_info_full_case_name": "USA v. Perez-Vasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Vasquez",
+  "case_date_filed": "2007-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Daniel Perez-Vasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 8:1326(a) 1326(b)."
+        },
+        {
+          "charge_description": "Count 1: Illegal re-entry into the United States (found in); 8:1326(a) and 1326(b). (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F,"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported, and removed. 8:1326A.F, 8:1326B.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

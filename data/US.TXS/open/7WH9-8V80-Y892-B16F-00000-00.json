@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_509mj2258_TXSD",
+  "case_key": "5:09mj2258_TXSD",
+  "case_lni": "7WH9-8V80-Y892-B16F-00000-00",
+  "case_number": "5:09mj2258",
+  "case_title": "USA v. Rochel-Arreola",
+  "case_info_full_case_name": "USA v. Rochel-Arreola",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rochel-Arreola",
+  "case_date_filed": "2009-08-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ruben Rochel-Arreola",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.F---ILLEGAL"
+        },
+        {
+          "charge_description": "8:1325.F---ILLEGAL ENTRY, CONCEALMENT OF FACTS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Saldana",
+          "judge_guid": "urn:entity:jud-100059638"
+        }
+      ]
+    }
+  ]
+}

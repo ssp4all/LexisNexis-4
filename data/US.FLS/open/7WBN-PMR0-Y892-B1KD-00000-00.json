@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_103m3046_flsd",
+  "case_key": "1:03m3046_flsd",
+  "case_lni": "7WBN-PMR0-Y892-B1KD-00000-00",
+  "case_number": "1:03m3046",
+  "case_title": "USA v. Suarez",
+  "case_info_full_case_name": "USA v. Suarez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Suarez",
+  "case_date_filed": "2003-08-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FELIPE SUAREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Complaint from Northern District of Florida Escape"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Ted E. Bandstra",
+          "judge_guid": "urn:entity:jud-100052182"
+        }
+      ]
+    }
+  ]
+}

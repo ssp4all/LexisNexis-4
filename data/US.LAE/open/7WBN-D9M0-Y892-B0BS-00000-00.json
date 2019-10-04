@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_206cr171_LAED",
+  "case_key": "2:06cr171_LAED",
+  "case_lni": "7WBN-D9M0-Y892-B0BS-00000-00",
+  "case_number": "2:06cr171",
+  "case_title": "USA v. Cashio",
+  "case_info_full_case_name": "USA v. Cashio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cashio",
+  "case_date_filed": "2006-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Todd M. Cashio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "40:1315"
+        },
+        {
+          "charge_description": "40:1315 FAILURE TO CONFORM WITH SIGNS AND DIRECTIONS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary Ann Vial Lemmon",
+          "judge_guid": "urn:entity:jud-100039232"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alma L. Chasez",
+          "judge_guid": "urn:entity:jud-100062852"
+        }
+      ]
+    }
+  ]
+}

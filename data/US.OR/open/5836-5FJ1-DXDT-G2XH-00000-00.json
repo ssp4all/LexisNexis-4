@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_613mj43_ORD",
+  "case_key": "6:13mj43_ORD",
+  "case_lni": "5836-5FJ1-DXDT-G2XH-00000-00",
+  "case_number": "6:13mj43",
+  "case_title": "USA v. Parker",
+  "case_info_full_case_name": "USA v. Parker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parker",
+  "case_date_filed": "2013-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesse Parker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 846 - Conspiracy to Possesses With Intent to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and 846 - Conspiracy to Possesses Wit"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. Coffin",
+          "judge_guid": "urn:entity:jud-100048142"
+        }
+      ]
+    }
+  ]
+}

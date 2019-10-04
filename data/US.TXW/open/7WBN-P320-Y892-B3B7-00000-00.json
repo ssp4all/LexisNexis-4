@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_596cr361_txwd",
+  "case_key": "5:96cr361_txwd",
+  "case_lni": "7WBN-P320-Y892-B3B7-00000-00",
+  "case_number": "5:96cr361",
+  "case_title": "USA v. Whipple",
+  "case_info_full_case_name": "USA v. Whipple",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Whipple",
+  "case_date_filed": "1996-12-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Margaret Mary Embry",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ERVIN WHIPPLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=ND.F"
+        },
+        {
+          "charge_description": "21:841B=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (Possession with Intent to Distribute a Quantity of Cocaine Base) (2)"
+        },
+        {
+          "charge_disposition": "188 Months Imprisonment to run concurrently w/sentence in SA-89-CR-15(2); 5 Years Supervised Release; $100 Special Assessment Fee-AMENDED JUDGMENT: 188 Months Imprisonment to run concurrently w/sentence in SA-89-Cr-15(2); 5 Years Supervised Release; $100 Special Assessment Fee (Amended to Correct Title and Section) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=ND.F"
+        },
+        {
+          "charge_description": "21:841B=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (Possession with Intent to Distribute a Quantity of Cocaine Base) (1)"
+        },
+        {
+          "charge_disposition": "Dismissed Count on Government's Motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Orlando L. Garcia",
+          "judge_guid": "urn:entity:jud-100055086"
+        }
+      ]
+    }
+  ]
+}

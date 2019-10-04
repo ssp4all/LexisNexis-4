@@ -1,0 +1,184 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_216cr7_MSSD",
+  "case_key": "2:16cr7_MSSD",
+  "case_lni": "5JCC-8B21-DXDT-G1M7-00000-00",
+  "case_number": "2:16cr7",
+  "case_title": "USA v. Bolton et al",
+  "case_info_full_case_name": "USA v. Bolton et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bolton et al",
+  "case_date_filed": "2016-03-22",
+  "case_status": "Closed",
+  "case_status_date": "03/28/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charles Bolton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT TO EVADE OR DEFEAT TAX(2-5)"
+        },
+        {
+          "charge_disposition": "33 Months confinement with the Bureau of Prisons. 3 Year term of Supervised Release. $10,000.00 Fine. Restitution $145,849.78 to be paid jointly and severally with co-defendant Linda Bolton. No Interest Ordered by the Court. $100 special assessment per count."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FILING FALSE TAX RETURN(6-10)"
+        },
+        {
+          "charge_disposition": "12 Months Confinement with the Bureau of Prisons to run consecutive to Confinement for Counts 2-5 for a total sentence for Counts 2-10 of 45 Months. Supervised Release of 1 year to run concurrent to supervised release for Counts 2-5. $100.00 Special Assessment per Count for a total Special Assessment for Counts 2-10 of $900.00. Defendant allowed to voluntarily report to the designated facility within 72 hours of notification but no longer than 60 days from today."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPT TO EVADE OR DEFEAT TAX(1)"
+        },
+        {
+          "charge_disposition": "Found Not Guilty"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Keith Starrett",
+          "judge_guid": "urn:entity:jud-100071061"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael T. Parker",
+          "judge_guid": "urn:entity:jud-100028403"
+        }
+      ]
+    },
+    {
+      "party_name": "Linda Bolton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT TO EVADE OR DEFEAT TAX(2-5)"
+        },
+        {
+          "charge_disposition": "Declared Mistrial by Order of the Court"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FILING FALSE TAX RETURN(6-10)"
+        },
+        {
+          "charge_disposition": "30 Months confinement with Bureau of Prisons per Count to run concurrently. 1 year Supervised Release per Count to run concurrently. $6000.00 Fine. Restitution $145,849.78 to be paid jointly and severally with co-defendant Charles Bolton. No Interest Ordered by the Court. $100.00 Special Assessment per count for a total of $500.00. Defendant allowed to voluntarily surrender to the designated facility within 72 hours of notification of designation but no later than 60 days from today."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ATTEMPT TO EVADE OR DEFEAT TAX(1)"
+        },
+        {
+          "charge_disposition": "Found Not Guilty"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Keith Starrett",
+          "judge_guid": "urn:entity:jud-100071061"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael T. Parker",
+          "judge_guid": "urn:entity:jud-100028403"
+        }
+      ]
+    },
+    {
+      "party_name": "Probation ",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Probation Officer Matthew Becker",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Gina Morris",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Owen, Galloway and Myers, PLLC",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Robert B. McDuff",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Harold Brittain",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Attorney John M. Colette",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_offence_description": "Attorney  John M. Colette"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Keith Starrett",
+          "judge_guid": "urn:entity:jud-100071061"
+        }
+      ]
+    },
+    {
+      "party_name": "John Lee",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "John Lee"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "John Lee\t\trepresented&nbsp;byRichard            "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Keith Starrett",
+          "judge_guid": "urn:entity:jud-100071061"
+        }
+      ]
+    }
+  ]
+}

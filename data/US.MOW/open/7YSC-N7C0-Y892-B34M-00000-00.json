@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_410cr130_MOWD",
+  "case_key": "4:10cr130_MOWD",
+  "case_lni": "7YSC-N7C0-Y892-B34M-00000-00",
+  "case_number": "4:10cr130",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2010-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Manuel Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "400 9th 64106, 4, 2010 18USC(s)"
+        },
+        {
+          "charge_description": "place a hoax explosive device at the east entrance of the United States Federal Court House located at 400 East 9th Street, Kansas City, Missouri 64106, on the evening of April 4, 2010 and conveyed false information of explosives materials through the use of a telephone. in violation of Title 18, United States Code, Section(s) 844(e)."
+        },
+        {
+          "charge_description": "PENALTIES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief District Judge",
+          "judge_name": "Fernando J. Gaitan, Jr",
+          "judge_guid": "urn:entity:jud-100045855"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Maughmer",
+          "judge_guid": "urn:entity:jud-100041328"
+        }
+      ]
+    }
+  ]
+}

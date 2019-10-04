@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_212mj74_VAED",
+  "case_key": "2:12mj74_VAED",
+  "case_lni": "54YP-YMX1-DXDT-G4GN-00000-00",
+  "case_number": "2:12mj74",
+  "case_title": "USA v. Rossetto-Brown",
+  "case_info_full_case_name": "USA v. Rossetto-Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rossetto-Brown",
+  "case_date_filed": "2012-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jennifer Cantrell-Sutor",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Danielle B. Rossetto-Brown",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC641"
+        },
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY-in violation of T. 18 USC Section 641 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. Bradford Stillman",
+          "judge_guid": "urn:entity:jud-100051654"
+        }
+      ]
+    }
+  ]
+}

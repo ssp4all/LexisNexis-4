@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_519mj11_VAWD",
+  "case_key": "5:19mj11_VAWD",
+  "case_lni": "5VDN-KF11-DXDT-G0XD-00000-00",
+  "case_number": "5:19mj11",
+  "case_title": "USA v. Fox",
+  "case_info_full_case_name": "USA v. Fox",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fox",
+  "case_date_filed": "2019-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty Assistant - ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodney Fox",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joel C. Hoppe",
+          "judge_guid": "urn:entity:jud-100106430"
+        }
+      ]
+    }
+  ]
+}

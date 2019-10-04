@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_115mj9_WYD",
+  "case_key": "1:15mj9_WYD",
+  "case_lni": "5F73-TNK1-DXDT-G540-00000-00",
+  "case_number": "1:15mj9",
+  "case_title": "USA v. Maurillo-Ramirez",
+  "case_info_full_case_name": "USA v. Maurillo-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maurillo-Ramirez",
+  "case_date_filed": "2015-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Merlin Maurillo-Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal re-entry of a previously deported alien into the US in violation of 8 USC 1326(a)(1) and (2)"
+        },
+        {
+          "charge_offence_description": "Illegal re-entry of a previously deported alien in"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Nancy D Freudenthal",
+          "judge_guid": "urn:entity:jud-100055291"
+        }
+      ]
+    }
+  ]
+}

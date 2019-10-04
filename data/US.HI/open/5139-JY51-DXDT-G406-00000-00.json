@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_110cr647_HID",
+  "case_key": "1:10cr647_HID",
+  "case_lni": "5139-JY51-DXDT-G406-00000-00",
+  "case_number": "1:10cr647",
+  "case_title": "USA v. Schreiner",
+  "case_info_full_case_name": "USA v. Schreiner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schreiner",
+  "case_date_filed": "2010-09-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rechelle M. Schreiner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.P 286-102; 2379683/H23"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER-HRS 286-102; No Operator's License; [07/18/2010]; West Loch/LLL; 2379683/H23 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "LESLIE E KOBAYASHI",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    }
+  ]
+}

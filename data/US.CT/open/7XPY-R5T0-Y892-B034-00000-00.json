@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_310mj21_CTD",
+  "case_key": "3:10mj21_CTD",
+  "case_lni": "7XPY-R5T0-Y892-B034-00000-00",
+  "case_number": "3:10mj21",
+  "case_title": "USA v. Kikabidze",
+  "case_info_full_case_name": "USA v. Kikabidze",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kikabidze",
+  "case_date_filed": "2010-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Kikabidze",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William I Garfinkel",
+          "judge_guid": "urn:entity:jud-100055045"
+        }
+      ]
+    }
+  ]
+}

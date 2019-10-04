@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_301m401_vaed",
+  "case_key": "3:01m401_vaed",
+  "case_lni": "7WBN-RM10-Y892-B321-00000-00",
+  "case_number": "3:01m401",
+  "case_title": "USA v. Clark",
+  "case_info_full_case_name": "USA v. Clark",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clark",
+  "case_date_filed": "2001-12-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARGARET D. CLARK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 1950 46.2-300-OPERATE"
+        },
+        {
+          "charge_description": "18:13 ASSIMILATING 1950 CODE OF VIRGINIA, AS AMENDED, 46.2-300-OPERATE MOTOR VEHICLE WITHOUT VALID LICENSE [18:13-7220.M] (1)"
+        },
+        {
+          "charge_disposition": "Probation-1 yr.; Special Assessment-$10.00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 1950 46.2-613(i)-EXPIRED"
+        },
+        {
+          "charge_description": "18:13 ASSIMILATING 1950 CODE OF VIRGINIA, AS AMENDED, 46.2-613(i)-EXPIRED REGISTRATION [18:13-7220.M] (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David G. Lowe",
+          "judge_guid": "urn:entity:jud-100042057"
+        }
+      ]
+    }
+  ]
+}

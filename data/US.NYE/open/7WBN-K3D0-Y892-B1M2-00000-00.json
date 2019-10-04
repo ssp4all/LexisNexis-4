@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_195m779_nyed",
+  "case_key": "1:95m779_nyed",
+  "case_lni": "7WBN-K3D0-Y892-B1M2-00000-00",
+  "case_number": "1:95m779",
+  "case_title": "USA v. Zuluaga-Betancurt",
+  "case_info_full_case_name": "USA v. Zuluaga-Betancurt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zuluaga-Betancurt",
+  "case_date_filed": "1995-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JULIAN ZULUAGA-BETANCURT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a)"
+        },
+        {
+          "charge_description": "21:952(a) Knowingly, intentionallly &; unlawfully imported into the US a substance containing heroin, a Schedule I narcotic drug controlled substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "John L. Caden",
+          "judge_guid": "urn:entity:jud-100059990"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_195m2155_caed",
+  "case_key": "1:95m2155_caed",
+  "case_lni": "7WBN-PXM0-Y892-B065-00000-00",
+  "case_number": "1:95m2155",
+  "case_title": "CR-F-95-5128-REC v. Hernandez-Rodriguez",
+  "case_info_full_case_name": "CR-F-95-5128-REC v. Hernandez-Rodriguez",
+  "case_info_short_case_name": "CR-F-95-5128-REC",
+  "case_info_party1": "CR-F-95-5128-REC",
+  "case_info_party2": "Hernandez-Rodriguez",
+  "case_date_filed": "1995-05-05",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN MANUEL HERNANDEZ-RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a)"
+        },
+        {
+          "charge_description": "Title 8 USC 1326(a) Illegal reentry into the United States of America"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis L Beck",
+          "judge_guid": "urn:entity:jud-100061970"
+        }
+      ]
+    }
+  ]
+}

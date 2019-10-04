@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_513mj202_TXND",
+  "case_key": "5:13mj202_TXND",
+  "case_lni": "59NV-NJ51-DXDT-G009-00000-00",
+  "case_number": "5:13mj202",
+  "case_title": "USA v. Solares-Chajon",
+  "case_info_full_case_name": "USA v. Solares-Chajon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Solares-Chajon",
+  "case_date_filed": "2013-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ann C Roberts-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Government Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adan Mauricio Solares-Chajon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326  Illegal Re-entry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326  Illegal Re-entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nancy M Koenig",
+          "judge_guid": "urn:entity:jud-100040094"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_817po3659_MDD",
+  "case_key": "8:17po3659_MDD",
+  "case_lni": "5NCK-XYH1-DXDT-G53F-00000-00",
+  "case_number": "8:17po3659",
+  "case_title": "USA vs Ashe",
+  "case_info_full_case_name": "USA vs Ashe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ashe",
+  "case_date_filed": "2017-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph R Ashe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OPERATING VEHICLE AT SPEED IN EXCESS OF SPEED LIMIT (6018998)(1)"
+        },
+        {
+          "charge_disposition": "Disposition: Dismissed/Acquitted - Plea Agreement(PD)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATING VEHICLE WHILE UNDER INFLUENCE OF ALCOHOL OR  CONTROLLED SUBSTANCE (6018997)(2)"
+        },
+        {
+          "charge_disposition": "Disposition: Dismissed/Acquitted - Plea Agreement(PD)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DUI .08 OR HIGHER (6018996)(3)"
+        },
+        {
+          "charge_disposition": "$210.00 Fine $10.00 S/A $30.00 Fee. One Year of supervised Probation to w/ conditons: Victim Impact, Eval, Test, Treatment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "UNSAFE OPERATION (6018995)(4)"
+        },
+        {
+          "charge_disposition": "Disposition: Dismissed/Acquitted - Plea Agreement(PD)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "REFUSED BAC TEST (6018999)(5)"
+        },
+        {
+          "charge_disposition": "Disposition: Dismissed/Acquitted - Plea Agreement(PD)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_512cr350_NYND",
+  "case_key": "5:12cr350_NYND",
+  "case_lni": "561V-Y1K1-DXDT-G0C3-00000-00",
+  "case_number": "5:12cr350",
+  "case_title": "USA v. Herne",
+  "case_info_full_case_name": "USA v. Herne",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Herne",
+  "case_date_filed": "2012-07-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tehorahkwaneken Herne",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "19:1459.M-failure"
+        },
+        {
+          "charge_description": "19:1459.M-failure to comply with entry and reporting requirements when arriving in U.S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Larry A. Kudrle",
+          "judge_guid": "urn:entity:jud-100017769"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_207cr380_PAWD",
+  "case_key": "2:07cr380_PAWD",
+  "case_lni": "7WBN-DN90-Y892-B548-00000-00",
+  "case_number": "2:07cr380",
+  "case_title": "USA v. MOORE",
+  "case_info_full_case_name": "USA v. MOORE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MOORE",
+  "case_date_filed": "2007-10-24",
+  "case_status": "Closed",
+  "case_status_date": "01/25/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CALVIN MOORE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 841(a)(1) and 841(b)(1)(B)(iii) DISTRIBUTION OF FIVE (5) GRAMS OR MORE OF A MIXTURE AND SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF COCAINE BASE, IN THE FORM COMMONLY KNOWN AS CRACK(1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of sixty (60) months w/recommendations more fully stated in the Judgment; Five (5) years Supervised Release w/standard and additional conditions; No Restitution; Fine waived; $100.00 Special Assessment, due immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Nora Barry Fischer",
+          "judge_guid": "urn:entity:jud-100046475"
+        }
+      ]
+    }
+  ]
+}

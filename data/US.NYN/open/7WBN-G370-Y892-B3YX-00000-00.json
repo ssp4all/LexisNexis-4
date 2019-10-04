@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_101m155_nynd",
+  "case_key": "1:01m155_nynd",
+  "case_lni": "7WBN-G370-Y892-B3YX-00000-00",
+  "case_number": "1:01m155",
+  "case_title": "USA v. Lafave",
+  "case_info_full_case_name": "USA v. Lafave",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lafave",
+  "case_date_filed": "2001-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHARON LAFAVE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USCSec."
+        },
+        {
+          "charge_description": "Did attempt to bring an illegal alien to the U.S. in Violation of 8 USC Sec. 1324(a)(2)(B)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David R. Homer",
+          "judge_guid": "urn:entity:jud-100034183"
+        }
+      ]
+    }
+  ]
+}

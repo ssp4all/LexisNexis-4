@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_517po2054_TXSD",
+  "case_key": "5:17po2054_TXSD",
+  "case_lni": "5NP8-3H81-DXDT-G4D9-00000-00",
+  "case_number": "5:17po2054",
+  "case_title": "USA v. Martinez-Mejia",
+  "case_info_full_case_name": "USA v. Martinez-Mejia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Mejia",
+  "case_date_filed": "2017-06-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brigido Martinez-Mejia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    }
+  ]
+}

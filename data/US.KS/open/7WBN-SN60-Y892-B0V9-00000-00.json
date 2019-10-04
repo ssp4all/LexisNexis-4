@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B08mj9098_KSD",
+  "case_key": "B:08mj9098_KSD",
+  "case_lni": "7WBN-SN60-Y892-B0V9-00000-00",
+  "case_number": "B:08mj9098",
+  "case_title": "USA v. Broadfoot",
+  "case_info_full_case_name": "USA v. Broadfoot",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Broadfoot",
+  "case_date_filed": "2008-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Erica D. Broadfoot",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 65-4152) A)(Information"
+        },
+        {
+          "charge_description": "18:13 (KSA 65-4152) Possesssion of drug paraphernalia (Class A)(Information [7/10/08]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 21-4310) A)(Information"
+        },
+        {
+          "charge_description": "18:13 (KSA 21-4310) Cruelty to animals (Class A)(Information [7/10/08]) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 21-3720) B)(Information"
+        },
+        {
+          "charge_description": "18:13 (KSA 21-3720) Criminal damage to property (Class B)(Information [7/10/08]) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen M. Humphreys",
+          "judge_guid": "urn:entity:jud-100050935"
+        }
+      ]
+    }
+  ]
+}

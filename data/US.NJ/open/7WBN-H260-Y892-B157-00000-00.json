@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_297m4026_njd",
+  "case_key": "2:97m4026_njd",
+  "case_lni": "7WBN-H260-Y892-B157-00000-00",
+  "case_number": "2:97m4026",
+  "case_title": "USA v. CHAVEZ",
+  "case_info_full_case_name": "USA v. CHAVEZ",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CHAVEZ",
+  "case_date_filed": "1997-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEVEN CHAVEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31:5316(a)(1) 5322(a): 31:103.11, 103.23 103.49 18:2"
+        },
+        {
+          "charge_description": "31:5316(a)(1) and 5322(a): 31:103.11, 103.23 and 103.49 and 18:2 Knowingly and willfully was about to transport more than $10, 000.00 and failed to file a currency transaction report."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "G. Donald Haneke",
+          "judge_guid": "urn:entity:jud-100037677"
+        }
+      ]
+    }
+  ]
+}

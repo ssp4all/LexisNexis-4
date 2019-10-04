@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_116po540_LAWD",
+  "case_key": "1:16po540_LAWD",
+  "case_lni": "5K9X-BDV1-DXDT-G3NP-00000-00",
+  "case_number": "1:16po540",
+  "case_title": "USA vs Coleman",
+  "case_info_full_case_name": "USA vs Coleman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Coleman",
+  "case_date_filed": "2016-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Damian A Coleman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Special closure due to public health or safety (F4100824)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph H L Perez-Montes",
+          "judge_guid": "urn:entity:jud-100119910"
+        }
+      ]
+    }
+  ]
+}

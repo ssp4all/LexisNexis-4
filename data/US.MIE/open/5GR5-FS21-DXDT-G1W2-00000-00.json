@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_415cr20518_MIED",
+  "case_key": "4:15cr20518_MIED",
+  "case_lni": "5GR5-FS21-DXDT-G1W2-00000-00",
+  "case_number": "4:15cr20518",
+  "case_title": "United States of America v. Barker",
+  "case_info_full_case_name": "United States of America v. Barker",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Barker",
+  "case_date_filed": "2015-08-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hollis Raymond Barker, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_offence_description": "COMPLAINT"
+        },
+        {
+          "charge_description": "ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 150 MONTHS; SUPERVISED RELEASE: 72 MONTHS; SPECIAL ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Linda V. Parker",
+          "judge_guid": "urn:entity:jud-100028406"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Hluchaniuk",
+          "judge_guid": "urn:entity:jud-100051544"
+        }
+      ]
+    }
+  ]
+}

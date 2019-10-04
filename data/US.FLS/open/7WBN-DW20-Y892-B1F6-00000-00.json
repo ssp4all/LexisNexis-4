@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_407cr10014_FLSD",
+  "case_key": "4:07cr10014_FLSD",
+  "case_lni": "7WBN-DW20-Y892-B1F6-00000-00",
+  "case_number": "4:07cr10014",
+  "case_title": "USA v. Symroski et al",
+  "case_info_full_case_name": "USA v. Symroski et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Symroski et al",
+  "case_date_filed": "2007-03-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Thomas Austin Watts-Fitzgerald",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leonard E. Symroski",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARINE MAMMALS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "Robert H. Cardenas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARINE MAMMALS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    }
+  ]
+}

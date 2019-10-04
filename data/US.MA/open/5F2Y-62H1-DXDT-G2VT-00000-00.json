@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_115cr10013_MAD",
+  "case_key": "1:15cr10013_MAD",
+  "case_lni": "5F2Y-62H1-DXDT-G2VT-00000-00",
+  "case_number": "1:15cr10013",
+  "case_title": "USA v. De Castro Tolentino",
+  "case_info_full_case_name": "USA v. De Castro Tolentino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De Castro Tolentino",
+  "case_date_filed": "2015-01-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rafael Antonio De Castro Tolentino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1)...Possession of heroin with intent to distribute"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1)...Possession of heroin with intent to"
+        },
+        {
+          "charge_description": "21:841(a)(1)...POSSESSION WITH INTENT TO DISTRIBUTE HEROIN(1)"
+        },
+        {
+          "charge_disposition": "The defendant is sentenced on Count 1 to 21 months in the custody of the Bureau of Prisons followed by 3 years of supervised release with conditions, no fine, special assessment of $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allison D. Burroughs",
+          "judge_guid": "urn:entity:jud-100111111"
+        }
+      ]
+    }
+  ]
+}

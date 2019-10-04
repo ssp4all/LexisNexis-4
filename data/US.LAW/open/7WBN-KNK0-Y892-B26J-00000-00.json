@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_205cr20201_LAWD",
+  "case_key": "2:05cr20201_LAWD",
+  "case_lni": "7WBN-KNK0-Y892-B26J-00000-00",
+  "case_number": "2:05cr20201",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2005-08-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Corey Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ASSAULTING/RESISTING/IMPEDING OFFICERS/EMPLOYEES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Patricia Minaldi",
+          "judge_guid": "urn:entity:jud-100079698"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Alonzo P Wilson",
+          "judge_guid": "urn:entity:jud-100067221"
+        }
+      ]
+    }
+  ]
+}

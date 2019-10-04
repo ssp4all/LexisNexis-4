@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_305cr532_VAED",
+  "case_key": "3:05cr532_VAED",
+  "case_lni": "7WBN-FJK0-Y892-B1YJ-00000-00",
+  "case_number": "3:05cr532",
+  "case_title": "USA v. Hernandez-Regalado",
+  "case_info_full_case_name": "USA v. Hernandez-Regalado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Regalado",
+  "case_date_filed": "2005-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Stephen David Schiller",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Osbin Hernandez-Regalado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a);"
+        },
+        {
+          "charge_description": "8:1326(a); Re-entry After Deportation"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(18:1001.F);"
+        },
+        {
+          "charge_description": "False Statements (18:1001.F); Re-entry into the US"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Robert E. Payne",
+          "judge_guid": "urn:entity:jud-100028253"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_217cr386_NVD",
+  "case_key": "2:17cr386_NVD",
+  "case_lni": "5R3X-DVK1-DXDT-G3PT-00000-00",
+  "case_number": "2:17cr386",
+  "case_title": "USA v. Vega-Hernandez",
+  "case_info_full_case_name": "USA v. Vega-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vega-Hernandez",
+  "case_date_filed": "2017-12-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kimberly M Frayn",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Vega-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 - Deported Alien Found Unlawfully in the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard F. Boulware, II",
+          "judge_guid": "urn:entity:jud-100107323"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "George Foley, Jr",
+          "judge_guid": "urn:entity:jud-100055655"
+        }
+      ]
+    }
+  ]
+}

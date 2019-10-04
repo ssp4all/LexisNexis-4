@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_407cr64_VAED",
+  "case_key": "4:07cr64_VAED",
+  "case_lni": "7WBN-NGY0-Y892-B05X-00000-00",
+  "case_number": "4:07cr64",
+  "case_title": "USA v. Sparrow",
+  "case_info_full_case_name": "USA v. Sparrow",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sparrow",
+  "case_date_filed": "2007-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Edward Sparrow",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.21:846-Conspiracy T.21:853 T.18:982"
+        },
+        {
+          "charge_description": "T.21:846-Conspiracy to distribute &; possess with intent to distribute a mixture or substance containing a detectable amount of marijuana-Sch. I and Criminal Forfeiture T.21:853 &; T.18:982 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "T.18:1956(h)"
+        },
+        {
+          "charge_description": "T.18:1956(h) Conspiracy to launder money (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert G. Doumar",
+          "judge_guid": "urn:entity:jud-100044311"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

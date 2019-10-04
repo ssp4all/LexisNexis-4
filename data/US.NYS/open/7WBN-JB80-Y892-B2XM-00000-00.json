@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_101cr653_nysd",
+  "case_key": "1:01cr653_nysd",
+  "case_lni": "7WBN-JB80-Y892-B2XM-00000-00",
+  "case_number": "1:01cr653",
+  "case_title": "USA v. Morgan",
+  "case_info_full_case_name": "USA v. Morgan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morgan",
+  "case_date_filed": "2001-06-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LESTER MORGAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC846:"
+        },
+        {
+          "charge_description": "21 U.S.C. 846: CONSPIRACY TO DISTRIBUTE NARCOTICS. [1:01-m-45]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gerard E. Lynch",
+          "judge_guid": "urn:entity:jud-100029483"
+        }
+      ]
+    }
+  ]
+}

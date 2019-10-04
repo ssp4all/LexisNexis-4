@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po29895_AZD",
+  "case_key": "4:14po29895_AZD",
+  "case_lni": "5CTG-0MW1-DXDT-G3JY-00000-00",
+  "case_number": "4:14po29895",
+  "case_title": "USA v. Garcia-Venegas",
+  "case_info_full_case_name": "USA v. Garcia-Venegas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Venegas",
+  "case_date_filed": "2014-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wilbert L Rocker",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alberto Garcia-Venegas",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

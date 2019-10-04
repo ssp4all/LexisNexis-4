@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_311cr595_TXWD",
+  "case_key": "3:11cr595_TXWD",
+  "case_lni": "52DD-72W1-DXDT-G4M5-00000-00",
+  "case_number": "3:11cr595",
+  "case_title": "USA v. Pompa-Aragon",
+  "case_info_full_case_name": "USA v. Pompa-Aragon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pompa-Aragon",
+  "case_date_filed": "2011-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cynthia Berenisse Pompa-Aragon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F--MARIJUANA-SELL, 21:952A=MI.F--MARIJUANA-IMPORT, 72.60"
+        },
+        {
+          "charge_description": "21:841A=MD.F--MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE; 21:952A=MI.F--MARIJUANA-IMPORT, APPROXIMATELY 72.60 POUNDS (GROSS WEIGHT)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

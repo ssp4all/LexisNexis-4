@@ -1,0 +1,112 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_404cr20_GAMD",
+  "case_key": "4:04cr20_GAMD",
+  "case_lni": "7WBN-NCS0-Y892-B460-00000-00",
+  "case_number": "4:04cr20",
+  "case_title": "USA v. Jones, et al",
+  "case_info_full_case_name": "USA v. Jones, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones, et al",
+  "case_date_filed": "2004-05-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TOMMY JONES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-distribution of a Schedule II controlled substance, to wit: cocaine base (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-possession of a Schedule II controlled substance, to wit: cocaine base with intent to distribute (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Clay D. Land",
+          "judge_guid": "urn:entity:jud-100036627"
+        }
+      ]
+    },
+    {
+      "party_name": "RICKY NUNN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-possession of a Schedule II controlled substance, to wit: cocaine base with intent to distribute (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Clay D. Land",
+          "judge_guid": "urn:entity:jud-100036627"
+        }
+      ]
+    },
+    {
+      "party_name": "CEDRICK EDWARDS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-distribution of a Schedule II controlled substance, to wit: cocaine base (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-possession of a Schedule II controlled substance, to wit: cocaine base with intent to distribute (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Clay D. Land",
+          "judge_guid": "urn:entity:jud-100036627"
+        }
+      ]
+    }
+  ]
+}

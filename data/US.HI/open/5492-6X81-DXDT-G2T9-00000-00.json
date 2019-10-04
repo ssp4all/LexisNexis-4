@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_111cr1048_HID",
+  "case_key": "1:11cr1048_HID",
+  "case_lni": "5492-6X81-DXDT-G2T9-00000-00",
+  "case_number": "1:11cr1048",
+  "case_title": "USA v. Keyes",
+  "case_info_full_case_name": "USA v. Keyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Keyes",
+  "case_date_filed": "2011-11-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jessica C. Keyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "40USC1315(c); 32 634.25(f); 431:10C-104-VIOLATION #2918108 H10"
+        },
+        {
+          "charge_description": "Title 40 U.S.C. 1315(c); 32 C.F.R. 634.25(f); H.R.S. 431:10C-104-VIOLATION OF REGULATIONS ON GOVERNMENT PROPERTY, No Insurance, [08/31/2011] Schofield Barrack CIT #2918108 H10 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "RICHARD L. PUGLISI",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    }
+  ]
+}

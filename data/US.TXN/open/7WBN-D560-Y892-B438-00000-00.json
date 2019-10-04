@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_302m14_txnd",
+  "case_key": "3:02m14_txnd",
+  "case_lni": "7WBN-D560-Y892-B438-00000-00",
+  "case_number": "3:02m14",
+  "case_title": "USA v. Hall, et al",
+  "case_info_full_case_name": "USA v. Hall, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hall, et al",
+  "case_date_filed": "2002-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LAWRENCE BERNARD HALL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "12/19/01"
+        },
+        {
+          "charge_description": "Indictment filed 12/19/01 in the Western District of Louisiana, Monroe Division, Case #01-30043-01-13."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul D Stickney",
+          "judge_guid": "urn:entity:jud-100013954"
+        }
+      ]
+    },
+    {
+      "party_name": "STANLEY LATRELL HAMBURG",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "12/19/01"
+        },
+        {
+          "charge_description": "Indictment filed 12/19/01 in the Western District of Louisiana, Monroe Division, Case #01-30043-01-13."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul D Stickney",
+          "judge_guid": "urn:entity:jud-100013954"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_205cr316_WAWD",
+  "case_key": "2:05cr316_WAWD",
+  "case_lni": "7WBN-GP90-Y892-B2SJ-00000-00",
+  "case_number": "2:05cr316",
+  "case_title": "USA v. Habtai et al",
+  "case_info_full_case_name": "USA v. Habtai et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Habtai et al",
+  "case_date_filed": "2005-08-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew C Friedman",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "Todd Greenberg",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lual W. Habtai",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NARCOTICS - Possession with intent to distribute cocaine base (crack)(1ss)"
+        },
+        {
+          "charge_disposition": "Deft is committed to the custody of AG for a term of 36 months to be followed by 3 yrs of supervised release with conditions. Fine-waived; $100 special assessment fee imposed. Deft remanded to custody."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Conspiracy to Distribute Cocaine Base &; Cocaine 21:841(a)(1), 841(b)(1)(B), 841(b)(1)(C) &; 846(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession of Cocaine Base(1s)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession w/Intent to Distribute Cocaine Base 21:841(a)(1) &; 841(b)(1)(B) &; 18:2(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession w/Intent to Distribute Cocaine 21:841(a)(1) &; 841(b)(1)(C) &; 18:2(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James L. Robart",
+          "judge_guid": "urn:entity:jud-100012332"
+        }
+      ]
+    },
+    {
+      "party_name": "Mohamud H. Ali",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession w/Intent to Distribute Cocaine Base 21:841(a)(1) &; 841(b)(1)(B) &; 18:2(2)"
+        },
+        {
+          "charge_disposition": "Deft is committed to the custody of AG for a term of 36 months with credit for time served to be followed by 3 yrs of supervised release w/conditions. Fine-waived; special assessment fee of $100. Court recommends incarceration at FCI Sheridan if eligible. Deft remanded to custody."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Conspiracy to Distribute Cocaine Base &; Cocaine 21:841(a)(1), 841(b)(1)(B), 841(b)(1)(C) &; 846(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession w/Intent to Distribute Cocaine 21:841(a)(1) &; 841(b)(1)(C) &; 18:2(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James L. Robart",
+          "judge_guid": "urn:entity:jud-100012332"
+        }
+      ]
+    }
+  ]
+}

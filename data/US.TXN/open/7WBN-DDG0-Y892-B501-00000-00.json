@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_501cr9_txnd",
+  "case_key": "5:01cr9_txnd",
+  "case_lni": "7WBN-DDG0-Y892-B501-00000-00",
+  "case_number": "5:01cr9",
+  "case_title": "USA v. Zamora-Castillo",
+  "case_info_full_case_name": "USA v. Zamora-Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zamora-Castillo",
+  "case_date_filed": "2001-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PRAJEDES ZAMORA-CASTILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028(a)(7)-Identity"
+        },
+        {
+          "charge_description": "18:1028(a)(7)-Identity Theft (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408(a)(7)(B)-False"
+        },
+        {
+          "charge_description": "42:408(a)(7)(B)-False Representation of Social Security Number (2-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546(b)(1)-Misuse"
+        },
+        {
+          "charge_description": "18:1546(b)(1)-Misuse of Identification Document for Employment Verification (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546(b)(3)-False"
+        },
+        {
+          "charge_description": "18:1546(b)(3)-False Attestation in Connection with Employment Verification (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408(a)(7)(B)"
+        },
+        {
+          "charge_description": "42:408(a)(7)(B) Knowingly and with intent to deceive falsely represented a Social Security Number not assigned to him by the Commissioner of the Social Security Administration. [5:01-m-22]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        }
+      ]
+    }
+  ]
+}

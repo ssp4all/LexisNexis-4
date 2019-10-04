@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DE_101cr68_ded",
+  "case_key": "1:01cr68_ded",
+  "case_lni": "7WBN-PJB0-Y892-B3T5-00000-00",
+  "case_number": "1:01cr68",
+  "case_title": "USA v. Valdes",
+  "case_info_full_case_name": "USA v. Valdes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valdes",
+  "case_date_filed": "2001-09-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS MANUEL VALDES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(B)-KNOWINGLY 5 I-8/27/2001)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)-KNOWINGLY DISTRIBUTE MORE THAN 5 GRAMS OF COCAINE BASE (COUNT I-8/27/2001) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (B)(1)(A)-KNOWINGLY 50 II-8/30/2001)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (B)(1)(A)-KNOWINGLY DISTRIBUTE MORE THAN 50 GRAMS OF COCAINE BASE, A SCHEDULE II NARCOTIC (COUNT II-8/30/2001) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(A)-KNOWINGLY 50 III-9/5/2001)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A)-KNOWINGLY DISTRIBUTE MORE THAN 50 GRAMS OF COCAINE BASE, A SCHEDULE II NARCOTIC (COUNT III-9/5/2001) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

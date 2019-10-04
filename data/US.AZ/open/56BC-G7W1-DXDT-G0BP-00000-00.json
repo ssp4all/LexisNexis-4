@@ -1,0 +1,259 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412cr1675_AZD",
+  "case_key": "4:12cr1675_AZD",
+  "case_lni": "56BC-G7W1-DXDT-G0BP-00000-00",
+  "case_number": "4:12cr1675",
+  "case_title": "USA v. Valdez et al",
+  "case_info_full_case_name": "USA v. Valdez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valdez et al",
+  "case_date_filed": "2012-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Valdez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(2)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the Bureau of Prisons for a term of 135 months followed by 60 months of supervised release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    },
+    {
+      "party_name": "Henrry Valdez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(2)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the Bureau of Prisons for a term of 108 months followed by 60 months of supervised release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    },
+    {
+      "party_name": "Luis Enrique Ballesteros",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer G Zipps",
+          "judge_guid": "urn:entity:jud-100047798"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Angel Barrios-Moreno",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    },
+    {
+      "party_name": "Justin Ford Halsey",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) and 18:2 Possession with Intent to Distribute Methamphetamine; Aid and Abet(1s)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the Bureau of Prisons for a term of 30 months followed by 36 months of supervised release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    },
+    {
+      "party_name": "Jesus Demitrio Valdez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:4 Misprision of a Felony(1s)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the Bureau of Prisons for a term of 13 months followed by 12 months of supervised release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(viii) Possession with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    },
+    {
+      "party_name": "Antonio Sanchez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(viii) Possession with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(1)"
+        },
+        {
+          "charge_disposition": "Defendant committed to the Bureau of Prisons for a term of 60 months followed by 60 months of supervised release. Sentence to run consecutively to sentence in Minnesota case # CR11299."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Methamphetamine; 21:853 and Rule 32.2(a) Forfeiture Allegation(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

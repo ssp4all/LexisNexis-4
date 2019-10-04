@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_614cr192_TXWD",
+  "case_key": "6:14cr192_TXWD",
+  "case_lni": "5D3N-3691-DXDT-G4DS-00000-00",
+  "case_number": "6:14cr192",
+  "case_title": "USA v. Najera",
+  "case_info_full_case_name": "USA v. Najera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Najera",
+  "case_date_filed": "2014-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Angel Najera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F; NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE; Possession With Intent to Distribute at Least 500 Grams of Cocaine, a Schedule II Narcotic Drug Controlled Substance(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFULLY, KNOWINGLY, AND INTENTIONALLY DID POSSESS WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE, WHICH OFFENSE INVOLVED AT LEAST 500 GRAMS OF A MIXTURE OR SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF COCAINE, A SCHEDULE II NARCOTIC DRUG CONTROLLED SUBSTANCE IN VIOLATION OF 21 USC 841(a)(1) AND 841(b)(1)(B)(ii)(II)."
+        },
+        {
+          "charge_offence_description": "UNLAWFULLY, KNOWINGLY, AND INTENTIONALLY DID POSSE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Walter S. Smith",
+          "judge_guid": "urn:entity:jud-100020612"
+        }
+      ]
+    }
+  ]
+}

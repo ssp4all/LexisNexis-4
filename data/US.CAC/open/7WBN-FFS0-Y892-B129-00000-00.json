@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_296cr464_cacd",
+  "case_key": "2:96cr464_cacd",
+  "case_lni": "7WBN-FFS0-Y892-B129-00000-00",
+  "case_number": "2:96cr464",
+  "case_title": "USA v. Reese",
+  "case_info_full_case_name": "USA v. Reese",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reese",
+  "case_date_filed": "1996-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THOMAS JOSEPH REESE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "41:54:"
+        },
+        {
+          "charge_description": "41:54: PROVIDING KICKBACKS IN CONNECTION WITH GOVERNMENT CONTRACTS (1)"
+        },
+        {
+          "charge_disposition": "It is the judgment of the Court that the dft guilty as chrgd and convicted and ord that the dft shlll pay to the US a total fine of $500, which shll bear int as provided by law. It is ord that the dft shll mke restitution to the foll: It is the judg of the Court that the dft, THomas Joseph Reese, is hereby placed on prob on cnt 1 of the indict for a term of 3 yrs under the foll terms and cond of The dft shll comply with the r &; r of the US Prob Ofc and GO 318: S/A of $50.00. Bond Exon. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "41:54:"
+        },
+        {
+          "charge_description": "41:54: PROVIDING KICKBACKS IN CONNECTION WITH GOVERNMENT CONTRACTS (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Edward Rafeedie",
+          "judge_guid": "urn:entity:jud-100005016"
+        }
+      ]
+    }
+  ]
+}

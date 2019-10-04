@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_306cr144_OHSD",
+  "case_key": "3:06cr144_OHSD",
+  "case_lni": "7WBN-H8B0-Y892-B05K-00000-00",
+  "case_number": "3:06cr144",
+  "case_title": "USA v. Russell",
+  "case_info_full_case_name": "USA v. Russell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Russell",
+  "case_date_filed": "2006-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Christopher Russell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC472-UTTERING"
+        },
+        {
+          "charge_description": "18 USC 472-UTTERING COUNTERFEIT OBLIGATIONS AND SECURITIES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC472 21USC841(a)(1) (b)(1)(C)"
+        },
+        {
+          "charge_description": "18 USC SECTION 472 INTENT TO DEFRAUD, POSSESS AND CONCEAL FALSELY MADE, FORGED, COUNTERFEITED AND ALTERED OBLIGATIONS OF THE UNITED STATES; 21 USC SECTIONS 841(a)(1) AND (b)(1)(C) KNOWINGLY, INTENTIONALLY AND UNLAWFULLY POSSESS WITH INTENT TO DISTRIBUTE COCAINE BASE (COMMONLY REFERRED TO AS CRACK), A SCHEDULE II CONTROLLED SUBSTANCE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Walter"
+        }
+      ]
+    }
+  ]
+}

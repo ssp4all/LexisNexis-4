@@ -1,0 +1,138 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_198cr84_alsd",
+  "case_key": "1:98cr84_alsd",
+  "case_lni": "7WBN-K790-Y892-B183-00000-00",
+  "case_number": "1:98cr84",
+  "case_title": "USA v. Hart, et al",
+  "case_info_full_case_name": "USA v. Hart, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hart, et al",
+  "case_date_filed": "1998-05-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DONALD ALFORD HART",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE-CODEINE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963=CI.F"
+        },
+        {
+          "charge_description": "21:963=CI.F ATTEMPT/CONSPIRACY-CONTROLLED SUBSTANCE-IMPORTATION/EXPORTATION-CODEINE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924C.F"
+        },
+        {
+          "charge_description": "18:924C.F VIOLENT CRIME/DRUGS/MACHINE GUN-USE/CARRY A FIREARM IN A DRUG TRAFFICKING CRIME (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles Butler, Jr.",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Bert W. Milling, Jr.",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    },
+    {
+      "party_name": "ELLA DANIELLE WATSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE-CODEINE (2)"
+        },
+        {
+          "charge_disposition": "Probation 5 years, w/special condition that if deft. has one positive urinalysis, the Court will revoke her probation. Deft. is to participate in a program of testing and treatment for drug and/or alcohol abuse as direceted by probation. SA $100 to be paid immediately. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of Government. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963=CI.F"
+        },
+        {
+          "charge_description": "21:963=CI.F ATTEMPT/CONSPIRACY-CONTROLLED SUBSTANCE-IMPORTATION/EXPORTATION-CODEINE (3)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of Government. (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Charles Butler, Jr.",
+          "judge_guid": "urn:entity:jud-100060088"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Bert W. Milling, Jr.",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    }
+  ]
+}

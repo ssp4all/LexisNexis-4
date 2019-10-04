@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_116cr195_NCMD",
+  "case_key": "1:16cr195_NCMD",
+  "case_lni": "5K3X-DFK1-DXDT-G471-00000-00",
+  "case_number": "1:16cr195",
+  "case_title": "USA v. LESSINGTON",
+  "case_info_full_case_name": "USA v. LESSINGTON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LESSINGTON",
+  "case_date_filed": "2016-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARDEAN [NMN] LESSINGTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Distribute cocaine hydrochloride(1)"
+        },
+        {
+          "charge_disposition": "Fourteen (14) months imprisonment, three (3) years supervised release, $100.00 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Distribute cocaine hydrochloride(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(D) Distribute  marihuana(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "CATHERINE C. EAGLES",
+          "judge_guid": "urn:entity:jud-100043934"
+        }
+      ]
+    }
+  ]
+}

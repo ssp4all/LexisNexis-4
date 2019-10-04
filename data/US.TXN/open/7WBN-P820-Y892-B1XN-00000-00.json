@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_701m246_txnd",
+  "case_key": "7:01m246_txnd",
+  "case_lni": "7WBN-P820-Y892-B1XN-00000-00",
+  "case_number": "7:01m246",
+  "case_title": "USA v. Degarmo",
+  "case_info_full_case_name": "USA v. Degarmo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Degarmo",
+  "case_date_filed": "2001-10-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CAROL A DEGARMO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 1 1 6"
+        },
+        {
+          "charge_description": "Did, intentionally and unlawfully steal property of a value of about $19.94, belonging to the Army and Air Force Exchange Service, to wit: 1 pair of Pan Oceanic New York sunglasses, 1 blue denim Oh Mamma blouse, and 1 Maxwell 6 hour EVSS video tape"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R Kerry Roach",
+          "judge_guid": "urn:entity:jud-100012354"
+        }
+      ]
+    }
+  ]
+}

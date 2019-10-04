@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_319cr10_PRD",
+  "case_key": "3:19cr10_PRD",
+  "case_lni": "5V6C-K0G1-DXDT-G4Y2-00000-00",
+  "case_number": "3:19cr10",
+  "case_title": "USA v. Sanchez",
+  "case_info_full_case_name": "USA v. Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez",
+  "case_date_filed": "2019-01-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 Re-entry of deported alien."
+        },
+        {
+          "charge_offence_description": "8:1326 Re-entry of deported alien."
+        },
+        {
+          "charge_description": "8:1326(a)(2) and (b)(2) REENTRY OF DEPORTED ALIEN - FELONY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Daniel R. Dominguez",
+          "judge_guid": "urn:entity:jud-100053698"
+        }
+      ]
+    },
+    {
+      "party_name": "U.S. Probation Officer",
+      "party_description": "Interested Party"
+    }
+  ]
+}

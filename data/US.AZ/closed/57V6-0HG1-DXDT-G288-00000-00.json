@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_413mj5289_AZD",
+  "case_key": "4:13mj5289_AZD",
+  "case_lni": "57V6-0HG1-DXDT-G288-00000-00",
+  "case_number": "4:13mj5289",
+  "case_title": "USA v. Torrez",
+  "case_info_full_case_name": "USA v. Torrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torrez",
+  "case_date_filed": "2013-02-21",
+  "case_status": "Closed",
+  "case_status_date": "02/25/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Erica Leigh Seger",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Emmanuel Torrez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841-Indictment from District of Florida"
+        },
+        {
+          "charge_offence_description": "21:846 and 841-Indictment from District of Florida"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_113cr795_TXSD",
+  "case_key": "1:13cr795_TXSD",
+  "case_lni": "59HX-HWR1-DXDT-G4VF-00000-00",
+  "case_number": "1:13cr795",
+  "case_title": "USA v. Guevara-Garcia",
+  "case_info_full_case_name": "USA v. Guevara-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guevara-Garcia",
+  "case_date_filed": "2013-10-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Guevara-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count 1: 8:1326(a) and 8:1326(b)(1): Illegal re-entry into the United States (found in)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326.F; Knowingly and unlawfully was present in the United States after having been previously deported."
+        },
+        {
+          "charge_offence_description": "8:1326.F; Knowingly and unlawfully was present in "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        }
+      ]
+    }
+  ]
+}

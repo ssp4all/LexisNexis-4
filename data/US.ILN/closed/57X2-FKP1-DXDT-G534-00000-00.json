@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_113cr195_ILND",
+  "case_key": "1:13cr195_ILND",
+  "case_lni": "57X2-FKP1-DXDT-G534-00000-00",
+  "case_number": "1:13cr195",
+  "case_title": "USA v. DeBois",
+  "case_info_full_case_name": "USA v. DeBois",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DeBois",
+  "case_date_filed": "2013-03-06",
+  "case_status": "Closed",
+  "case_status_date": "04/10/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "April Perry",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "AUSA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tony D DeBois",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY 18:2 Aiding &; Abetting(1s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 60 months. The defendant shall surrender for service of sentence at the institution designated by the Bureau of Prisons before 2p.m. on 6/10/14. Upon release from imprisonment, the defendant shall be on supervised release for a term of 3 years. Criminal monetary penalties. Schedule of payments."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "DEPRIVE CIVIL RIGHTS(1)"
+        },
+        {
+          "charge_disposition": "Count dismissed on the motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Joan H. Lefkow",
+          "judge_guid": "urn:entity:jud-100039295"
+        }
+      ]
+    }
+  ]
+}

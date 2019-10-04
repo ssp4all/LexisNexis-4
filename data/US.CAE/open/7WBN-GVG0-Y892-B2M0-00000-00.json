@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_208cr432_CAED",
+  "case_key": "2:08cr432_CAED",
+  "case_lni": "7WBN-GVG0-Y892-B2M0-00000-00",
+  "case_number": "2:08cr432",
+  "case_title": "USA v. Trejo-Guzman",
+  "case_info_full_case_name": "USA v. Trejo-Guzman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trejo-Guzman",
+  "case_date_filed": "2008-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javier Trejo-Guzman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DEPORTED ALIEN FOUND IN THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "DEPORTED ALIEN KNOWLINGLY RE-ENTERED THE UNITED STATES WITHOUT CONSENT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Morrison C. England, Jr",
+          "judge_guid": "urn:entity:jud-100043591"
+        }
+      ]
+    }
+  ]
+}

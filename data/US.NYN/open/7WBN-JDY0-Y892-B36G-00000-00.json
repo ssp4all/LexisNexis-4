@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_102m462_nynd",
+  "case_key": "1:02m462_nynd",
+  "case_lni": "7WBN-JDY0-Y892-B36G-00000-00",
+  "case_number": "1:02m462",
+  "case_title": "USA v. Penafiel",
+  "case_info_full_case_name": "USA v. Penafiel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Penafiel",
+  "case_date_filed": "2002-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EMMA PENAFIEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "10/22/02 defendant(s) 18USC, Section(s)"
+        },
+        {
+          "charge_description": "On or about 10/22/02 in Saratoga county, the NDNY defendant(s) did misuseof a US Visa in violation of Title 18 USC, Section(s) 1546(a)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Randolph F. Treece",
+          "judge_guid": "urn:entity:jud-100023832"
+        }
+      ]
+    }
+  ]
+}

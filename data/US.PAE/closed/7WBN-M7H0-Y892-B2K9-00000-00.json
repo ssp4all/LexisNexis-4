@@ -1,0 +1,113 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_295cr680_paed",
+  "case_key": "2:95cr680_paed",
+  "case_lni": "7WBN-M7H0-Y892-B2K9-00000-00",
+  "case_number": "2:95cr680",
+  "case_title": "USA v. MAGNUS",
+  "case_info_full_case_name": "USA v. MAGNUS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MAGNUS",
+  "case_date_filed": "1995-12-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD MAGNUS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE COCAINE BASE. (1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 130 MONTHS, COUNT 1 IMPRISONMENT 70 MONTHS, COUNT 2 IMPRISONMENT 60 MONTHS TO RUN CONSECUTIVE WITH COUNT 1, SUPERVISED RELEASE 5 YEARS ON COUNT 1 AND 2 YEARS ON COUNT 2 TO RUN CONCURRENT WITH COUNT 1 AND SPECIAL ASSESSMENT $ 50.00 ON EACH COUNT TOTAL $ 100.00. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c)"
+        },
+        {
+          "charge_description": "18:924(c) USING OR CARRYING A FIREARM DURING A DRUG TRAFFICKING OFFENSE. (2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 130 MONTHS, COUNT 1 IMPRISONMENT 70 MONTHS, COUNT 2 IMPRISONMENT 60 MONTHS TO RUN CONSECUTIVE WITH COUNT 1, SUPERVISED RELEASE 5 YEARS ON COUNT 1 AND 2 YEARS ON COUNT 2 TO RUN CONCURRENT WITH COUNT 1 AND SPECIAL ASSESSMENT $ 50.00 ON EACH COUNT TOTAL $ 100.00. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a) 846 18:924(c)."
+        },
+        {
+          "charge_description": "DISTRIBUTION OF COCAINE IN VIOLATION OF 21:841(a) &; 846 AND USE OF FIREARM IN VIOLATION OF 18:924(c). [2:95-m-781]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "JAMES MCGIRR KELLY",
+          "judge_guid": "urn:entity:jud-100043200"
+        }
+      ]
+    },
+    {
+      "party_name": "HILL MCCRAY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE COCAINE BASE. (1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 40 MONTHS; SUPERVISED RELEASE 5 YEARS; FINE $1,000.00; SPECIAL ASSESSMENT $50.00. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c)"
+        },
+        {
+          "charge_description": "18:924(c) USING OR CARRYING A FIREARM DURING A DRUG TRAFFICKING OFFENSE. (2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 60 MONTHS CONSECTIVE TO CT. 1; SUPERVISED RELEASE 5 YEARS CONCURRENT WITH CT. 1; SPECIAL ASSESSMENT $50.00. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a), 846 18:924(c)."
+        },
+        {
+          "charge_description": "DISTRIBUTION OF COCAIN IN VIOLATION OF 21:841(a), 846 AND USA OF FIREARM IN VIOLATION OF 18:924(c). [2:95-m-780]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "JAMES MCGIRR KELLY",
+          "judge_guid": "urn:entity:jud-100043200"
+        }
+      ]
+    }
+  ]
+}

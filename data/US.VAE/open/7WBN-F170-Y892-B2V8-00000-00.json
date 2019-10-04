@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_100m342_vaed",
+  "case_key": "1:00m342_vaed",
+  "case_lni": "7WBN-F170-Y892-B2V8-00000-00",
+  "case_number": "1:00m342",
+  "case_title": "USA v. Bergeron",
+  "case_info_full_case_name": "USA v. Bergeron",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bergeron",
+  "case_date_filed": "2000-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rosie Haney",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JODY C. BERGERON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:13-7990.M) 18:13 18.2-387"
+        },
+        {
+          "charge_description": "(18:13-7990.M) 18:13 assim. 18.2-387 VA Obscene Exposure (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7950.P) 36CFRSEC 2.34(a)(2)"
+        },
+        {
+          "charge_description": "(18:13-7950.P) 36 CFR SEC 2.34(a)(2) Unlawfully engage in a display and act that was obscene (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

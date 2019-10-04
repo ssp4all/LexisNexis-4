@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_319cr166_TNMD",
+  "case_key": "3:19cr166_TNMD",
+  "case_lni": "5WDT-B561-DXDT-G3DM-00000-00",
+  "case_number": "3:19cr166",
+  "case_title": "USA v. Vargas-Diaz",
+  "case_info_full_case_name": "USA v. Vargas-Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vargas-Diaz",
+  "case_date_filed": "2019-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Joshua A. Kurtzman",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nestor Vargas-Diaz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Information 6/27/19: 8:1326(a) and 8:1326(b)(2) Illegal reentry by a previously deported aggravated felon(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Illegal reentry by a previously deported aggravated felon"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(2) Illegal reentry by a previously depor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William L. Campbell, Jr",
+          "judge_guid": "urn:entity:jud-500000019"
+        }
+      ]
+    }
+  ]
+}

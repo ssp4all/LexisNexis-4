@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_605cr95_TXSD",
+  "case_key": "6:05cr95_TXSD",
+  "case_lni": "7WBN-SGD0-Y892-B0BK-00000-00",
+  "case_number": "6:05cr95",
+  "case_title": "USA v. Perez-Gomez",
+  "case_info_full_case_name": "USA v. Perez-Gomez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Gomez",
+  "case_date_filed": "2005-07-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - V",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Timothy Hammer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Neri Anibal Perez-Gomez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "deportation-8USC1326(a). 07/02/2005. 2 1"
+        },
+        {
+          "charge_description": "Did unlawfully and knowingly enter the United States and was found unlawfully persent in the United States without the consent of the Attorney General or the Secretary for Homeland Security following deportation-8 USC 1326(a). OFFENSE DATE: on or about 07/02/2005. PENALTY: Not more than 2 years imprisonment, a fine of up to $250.000, up to 1 year SRT, and a $100 Special Assessment. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326B.F/Re-entry"
+        },
+        {
+          "charge_description": "8:1326B.F/Re-entry of Previously Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John D. Rainey",
+          "judge_guid": "urn:entity:jud-100027752"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_614mj914_TXWD",
+  "case_key": "6:14mj914_TXWD",
+  "case_lni": "5DN6-DJC1-DXDT-G2Y8-00000-00",
+  "case_number": "6:14mj914",
+  "case_title": "USA v. Hubbard",
+  "case_info_full_case_name": "USA v. Hubbard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hubbard",
+  "case_date_filed": "2014-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Isabel Leinaala Hubbard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:930.M  ATTEMPT/POSSESS/CAUSE/WEAPON IN FEDERAL FACILITY--Unlawful Possession of Firearm(1)"
+        },
+        {
+          "charge_disposition": "Dismissed per Government's Motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:1382.P  ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY(2)"
+        },
+        {
+          "charge_disposition": "Dismissed per Government's Motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_215mj7504_AZD",
+  "case_key": "2:15mj7504_AZD",
+  "case_lni": "5GTJ-J0M1-DXDT-G1DV-00000-00",
+  "case_number": "2:15mj7504",
+  "case_title": "USA v. Sierra-Sierra",
+  "case_info_full_case_name": "USA v. Sierra-Sierra",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sierra-Sierra",
+  "case_date_filed": "2015-08-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Isaac Sierra-Sierra",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and enhanced by (b)(1), Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) and enhanced by (b)(1), Reentry of Remov"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bridget S Bade",
+          "judge_guid": "urn:entity:jud-100102302"
+        }
+      ]
+    }
+  ]
+}

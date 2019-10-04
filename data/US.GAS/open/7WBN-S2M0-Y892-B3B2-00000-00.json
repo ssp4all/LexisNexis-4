@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_404cr265_GASD",
+  "case_key": "4:04cr265_GASD",
+  "case_lni": "7WBN-S2M0-Y892-B3B2-00000-00",
+  "case_number": "4:04cr265",
+  "case_title": "USA v. Shackelford",
+  "case_info_full_case_name": "USA v. Shackelford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shackelford",
+  "case_date_filed": "2004-10-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LORIN R. SHACKELFORD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC7 13; 40-6-391(a)(1) 40-6-391(a)(5)"
+        },
+        {
+          "charge_description": "18 USC 7 &; 13; OCGA 40-6-391(a)(1) &; OCGA 40-6-391(a)(5) D.U.I. on a military reservation (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "G. R. Smith",
+          "judge_guid": "urn:entity:jud-100015834"
+        }
+      ]
+    }
+  ]
+}

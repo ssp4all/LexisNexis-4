@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_201m3462_txwd",
+  "case_key": "2:01m3462_txwd",
+  "case_lni": "7WBN-KD90-Y892-B4NP-00000-00",
+  "case_number": "2:01m3462",
+  "case_title": "USA v. Ramos-Aguirre",
+  "case_info_full_case_name": "USA v. Ramos-Aguirre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos-Aguirre",
+  "case_date_filed": "2001-12-10",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN ANTONIO RAMOS-AGUIRRE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

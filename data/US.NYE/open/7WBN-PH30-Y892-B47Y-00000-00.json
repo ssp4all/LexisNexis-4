@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_100cr1261_nyed",
+  "case_key": "1:00cr1261_nyed",
+  "case_lni": "7WBN-PH30-Y892-B47Y-00000-00",
+  "case_number": "1:00cr1261",
+  "case_title": "USA v. Mendez",
+  "case_info_full_case_name": "USA v. Mendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendez",
+  "case_date_filed": "2000-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD N. MENDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841 (b) (1) (A) (ii) (II); 18USCs 3551"
+        },
+        {
+          "charge_description": "21:846 and 841 (b) (1) (A) (ii) (II); Title 18, U.S.C., Sections 3551 et seq.-CONSPIRACY TO POSSESS NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 (a) (1) 841 (b) (1) (A) (ii) (II); 18USCs 2 3551"
+        },
+        {
+          "charge_description": "21:841 (a) (1) and 841 (b) (1) (A) (ii) (II); Title 18, U.S.C., Sections 2 and 3551 et seq.-NARCOTICS-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USCSecs. 846 841(a)-knowingly"
+        },
+        {
+          "charge_description": "21 USC Secs. 846 and 841(a)-knowingly and intentionally conspire to possess with intent to distribute a Schedule II controlled substance in violation of the referenced statute. [1:00-m-1776]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sterling Johnson, Jr.",
+          "judge_guid": "urn:entity:jud-100050317"
+        }
+      ]
+    },
+    {
+      "party_name": "JUAN DAVID HENAO-VALDERRAMA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841 (b) (1) (A) (ii) (II); 18USCs 3551"
+        },
+        {
+          "charge_description": "21:846 and 841 (b) (1) (A) (ii) (II); Title 18, U.S.C., Sections 3551 et seq.-CONSPIRACY TO POSSESS NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 (a) (1) 841 (b) (1) (A) (ii) (II); 18USCs 2 3551"
+        },
+        {
+          "charge_description": "21:841 (a) (1) and 841 (b) (1) (A) (ii) (II); Title 18, U.S.C., Sections 2 and 3551 et seq.-NARCOTICS-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USCSecs. 846 841(a)-knowingly"
+        },
+        {
+          "charge_description": "21 USC Secs. 846 and 841(a)-knowingly and intentionally conspire to possess with intent to distribute a Schedule II controlled substance in violation of the referenced statute. [1:00-m-1776]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sterling Johnson, Jr.",
+          "judge_guid": "urn:entity:jud-100050317"
+        }
+      ]
+    }
+  ]
+}

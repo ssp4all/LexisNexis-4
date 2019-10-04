@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_299cr176_utd",
+  "case_key": "2:99cr176_utd",
+  "case_lni": "7WBN-MDD0-Y892-B0P7-00000-00",
+  "case_number": "2:99cr176",
+  "case_title": "USA v. Farnsworth",
+  "case_info_full_case_name": "USA v. Farnsworth",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Farnsworth",
+  "case_date_filed": "1999-04-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD BRENT FARNSWORTH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:513A.F SECURITY/18:513"
+        },
+        {
+          "charge_description": "18:513A.F UTTER FORGED AND COUNTERFEIT SECURITY/18:513 Uttering and Possessing Counterfeit Securities (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:513(a)"
+        },
+        {
+          "charge_description": "18:513(a) Uttering and processing counterfeit checks [2:98-m-297]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

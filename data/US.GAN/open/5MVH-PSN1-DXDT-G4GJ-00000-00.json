@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_117mj94_GAND",
+  "case_key": "1:17mj94_GAND",
+  "case_lni": "5MVH-PSN1-DXDT-G4GJ-00000-00",
+  "case_number": "1:17mj94",
+  "case_title": "USA v. Zepeda Del Angel",
+  "case_info_full_case_name": "USA v. Zepeda Del Angel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zepeda Del Angel",
+  "case_date_filed": "2017-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alvaro Ivan Zepeda Del Angel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1028 and 1545 and 42:408(a)(7)(C) - FRAUD WITH IDENTIFICATION DOCUMENTS"
+        },
+        {
+          "charge_offence_description": "18:1028 and 1545 and 42:408(a)(7)(C) - FRAUD WITH "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Linda T. Walker",
+          "judge_guid": "urn:entity:jud-100080855"
+        }
+      ]
+    }
+  ]
+}

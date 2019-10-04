@@ -1,0 +1,118 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_817cr550_FLMD",
+  "case_key": "8:17cr550_FLMD",
+  "case_lni": "5R44-51T1-DXDT-G101-00000-00",
+  "case_number": "8:17cr550",
+  "case_title": "USA v. Marmol et al",
+  "case_info_full_case_name": "USA v. Marmol et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marmol et al",
+  "case_date_filed": "2017-11-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christopher Poor",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jonathan Marmol",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F  ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:371.F  CONSPIRACY TO DEFRAUD THE UNITED STATES(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1344A.F  BANK FRAUD(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1014.F  LOAN AND CREDIT APPLICATIONS GENERALLY(4s-5s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sean P. Flynn",
+          "judge_guid": "urn:entity:jud-500006240"
+        }
+      ]
+    },
+    {
+      "party_name": "Mordechai Boaziz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F  CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1014.F  LOAN AND CREDIT APPLICATIONS GENERALLY(2-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sean P. Flynn",
+          "judge_guid": "urn:entity:jud-500006240"
+        }
+      ]
+    },
+    {
+      "party_name": "Ramone A. Marmol",
+      "party_description": "Surety",
+      "charges": [
+        {
+          "charge_offence_description": "Ramone A. Marmol"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

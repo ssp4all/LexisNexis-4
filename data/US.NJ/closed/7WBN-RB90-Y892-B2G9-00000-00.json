@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_208cr936_NJD",
+  "case_key": "2:08cr936_NJD",
+  "case_lni": "7WBN-RB90-Y892-B2G9-00000-00",
+  "case_number": "2:08cr936",
+  "case_title": "USA v. SCOTT",
+  "case_info_full_case_name": "USA v. SCOTT",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SCOTT",
+  "case_date_filed": "2008-12-29",
+  "case_status": "Closed",
+  "case_status_date": "12/29/2008",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT SCOTT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violation of Supervised Release"
+        },
+        {
+          "charge_disposition": "Supervised Release imposed on 1/4/07 is revoked and the offender is committed to the BOP for a term of 4 months on Count 5, 4 months on Count 6 to run concurrently with each other but consecutive to the sentence imposed by the Superior Court of New Jersey; no further supervised release is imposed"
+        },
+        {
+          "charge_offence_description": "Violation of Supervised Release\t\t\t\t\t\t\t\t\t\t\t\tSuper"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William J. Martini",
+          "judge_guid": "urn:entity:jud-100028797"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_011mj6201_FLSD",
+  "case_key": "0:11mj6201_FLSD",
+  "case_lni": "52KY-G3D1-DXDT-G15T-00000-00",
+  "case_number": "0:11mj6201",
+  "case_title": "USA v. Nardelli",
+  "case_info_full_case_name": "USA v. Nardelli",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nardelli",
+  "case_date_filed": "2011-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Matthew Nardelli",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F,"
+        },
+        {
+          "charge_description": "21:841A=CD.F, 21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robin S. Rosenbaum",
+          "judge_guid": "urn:entity:jud-100104525"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_603m6005_kyed",
+  "case_key": "6:03m6005_kyed",
+  "case_lni": "7WBN-SG00-Y892-B3TV-00000-00",
+  "case_number": "6:03m6005",
+  "case_title": "USA v. Couch",
+  "case_info_full_case_name": "USA v. Couch",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Couch",
+  "case_date_filed": "2003-01-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANK M. COUCH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F Knowingly and intentionally distribute a quantity of Oxycontin, a Schedule II controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "J. B. Johnson, Jr.",
+          "judge_guid": "urn:entity:jud-100050358"
+        }
+      ]
+    }
+  ]
+}

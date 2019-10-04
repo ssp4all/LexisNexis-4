@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_403m8193_azd",
+  "case_key": "4:03m8193_azd",
+  "case_lni": "7WBN-HJW0-Y892-B2KG-00000-00",
+  "case_number": "4:03m8193",
+  "case_title": "USA, et al v. Heredia-Escalante",
+  "case_info_full_case_name": "USA, et al v. Heredia-Escalante",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Heredia-Escalante",
+  "case_date_filed": "2003-10-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CESAR RAUL HEREDIA-ESCALANTE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) Transport Illegal Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

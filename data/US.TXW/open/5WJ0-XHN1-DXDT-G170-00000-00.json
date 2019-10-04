@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_319mj7349_TXWD",
+  "case_key": "3:19mj7349_TXWD",
+  "case_lni": "5WJ0-XHN1-DXDT-G170-00000-00",
+  "case_number": "3:19mj7349",
+  "case_title": "USA v. Mandujano-Gutierrez",
+  "case_info_full_case_name": "USA v. Mandujano-Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mandujano-Gutierrez",
+  "case_date_filed": "2019-07-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hedy Mandujano-Gutierrez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1326 Re-entry of Deported Alien"
+        },
+        {
+          "charge_offence_description": "8 USC 1326 Re-entry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert F. Castaneda",
+          "judge_guid": "urn:entity:jud-100071767"
+        }
+      ]
+    }
+  ]
+}

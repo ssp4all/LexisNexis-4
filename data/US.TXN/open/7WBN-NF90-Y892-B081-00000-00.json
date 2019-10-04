@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_405cr78_TXND",
+  "case_key": "4:05cr78_TXND",
+  "case_lni": "7WBN-NF90-Y892-B081-00000-00",
+  "case_number": "4:05cr78",
+  "case_title": "USA v. Ramirez-Benavidez",
+  "case_info_full_case_name": "USA v. Ramirez-Benavidez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Benavidez",
+  "case_date_filed": "2005-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raul Ramirez-Benavidez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2) 6:202 (3) (4) 557"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(2) and 6:202 (3) and (4) and 557 ILLEGAL REENTRY AFTER DEPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(A)(viii)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A)(viii) POSSESSION WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terry R Means",
+          "judge_guid": "urn:entity:jud-100026144"
+        }
+      ]
+    }
+  ]
+}

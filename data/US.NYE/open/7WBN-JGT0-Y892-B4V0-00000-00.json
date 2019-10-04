@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_103mj1878_nyed",
+  "case_key": "1:03mj1878_nyed",
+  "case_lni": "7WBN-JGT0-Y892-B4V0-00000-00",
+  "case_number": "1:03mj1878",
+  "case_title": "USA v. Naclerio et al",
+  "case_info_full_case_name": "USA v. Naclerio et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Naclerio et al",
+  "case_date_filed": "2003-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anthony Naclerio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1878-knowingly"
+        },
+        {
+          "charge_description": "18 USC 1878-knowingly and intentionally devising a scheme to defraud, by means of false pretenses, representations, or promises by transmitting, by means of wire communication in interstate and foreign commerce, certain writings, signs, and signals for the prupose of executing such scheme or artifice."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Steven M. Gold",
+          "judge_guid": "urn:entity:jud-100042810"
+        }
+      ]
+    },
+    {
+      "party_name": "71 Alexander Ave. ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1878-knowingly"
+        },
+        {
+          "charge_description": "18 USC 1878-knowingly and intentionally devising a scheme to defraud, by means of false pretenses, representations, or promises by transmitting, by means of wire communication in interstate and foreign commerce, certain writings, signs, and signals for the prupose of executing such scheme or artifice."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Steven M. Gold",
+          "judge_guid": "urn:entity:jud-100042810"
+        }
+      ]
+    },
+    {
+      "party_name": "52 Vogel Loop ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1878-knowingly"
+        },
+        {
+          "charge_description": "18 USC 1878-knowingly and intentionally devising a scheme to defraud, by means of false pretenses, representations, or promises by transmitting, by means of wire communication in interstate and foreign commerce, certain writings, signs, and signals for the prupose of executing such scheme or artifice."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Steven M. Gold",
+          "judge_guid": "urn:entity:jud-100042810"
+        }
+      ]
+    }
+  ]
+}

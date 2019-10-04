@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_816po497_MDD",
+  "case_key": "8:16po497_MDD",
+  "case_lni": "5HVF-K1F1-DXDT-G4SY-00000-00",
+  "case_number": "8:16po497",
+  "case_title": "USA vs Olmsegun",
+  "case_info_full_case_name": "USA vs Olmsegun",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Olmsegun",
+  "case_date_filed": "2016-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charles O Olmsegun",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO MAINTAIN CONTROL OF MOTOR VEHICLE TO AVOID PERSONS,PROPERTY,WILDLIFE (5097996)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

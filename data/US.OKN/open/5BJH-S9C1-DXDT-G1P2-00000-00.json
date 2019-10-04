@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_414mj21_OKND",
+  "case_key": "4:14mj21_OKND",
+  "case_lni": "5BJH-S9C1-DXDT-G1P2-00000-00",
+  "case_number": "4:14mj21",
+  "case_title": "USA v. Torres et al",
+  "case_info_full_case_name": "USA v. Torres et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres et al",
+  "case_date_filed": "2014-02-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcelo Alejandro Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Distribute Methamphetamine, 21:841(a)(1)(B)(C) Possession with Intent to Distribute Methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:846 Conspiracy to Distribute Methamphetamine, 2"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frank H McCarthy",
+          "judge_guid": "urn:entity:jud-100032599"
+        }
+      ]
+    },
+    {
+      "party_name": "Alfredo Sustiata, Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Distribute Methamphetamine, 21:841(a)(1)(B)(C) Possession with Intent to Distribute Methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:846 Conspiracy to Distribute Methamphetamine, 2"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frank H McCarthy",
+          "judge_guid": "urn:entity:jud-100032599"
+        }
+      ]
+    }
+  ]
+}

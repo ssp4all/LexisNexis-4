@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_419mj5856_AZD",
+  "case_key": "4:19mj5856_AZD",
+  "case_lni": "5VMD-DJW1-DXDT-G35F-00000-00",
+  "case_number": "4:19mj5856",
+  "case_title": "USA v. Martinez-Salomen",
+  "case_info_full_case_name": "USA v. Martinez-Salomen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Salomen",
+  "case_date_filed": "2019-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Leonel Martinez-Salomen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a), enhanced by 8:1326(b)(1) Re-Entry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a), enhanced by 8:1326(b)(1) Re-Entry of Re"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

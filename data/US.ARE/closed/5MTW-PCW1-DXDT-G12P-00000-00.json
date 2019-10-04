@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_417cr29_ARED",
+  "case_key": "4:17cr29_ARED",
+  "case_lni": "5MTW-PCW1-DXDT-G12P-00000-00",
+  "case_number": "4:17cr29",
+  "case_title": "USA v. Mack",
+  "case_info_full_case_name": "USA v. Mack",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mack",
+  "case_date_filed": "2017-02-07",
+  "case_status": "Closed",
+  "case_status_date": "11/13/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Everett Powell Mack, III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) Felon in Possession of a Firearm(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to 120 months imprisonment, 2 years supervised release , $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CMP  18:922G.F"
+        },
+        {
+          "charge_offence_description": "CMP  18:922G.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Brian S. Miller",
+          "judge_guid": "urn:entity:jud-100053416"
+        }
+      ]
+    }
+  ]
+}

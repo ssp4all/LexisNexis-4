@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_314po987_CASD",
+  "case_key": "3:14po987_CASD",
+  "case_lni": "5CBY-63K1-DXDT-G411-00000-00",
+  "case_number": "3:14po987",
+  "case_title": "USA vs Schisler",
+  "case_info_full_case_name": "USA vs Schisler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schisler",
+  "case_date_filed": "2014-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Austin D Schisler",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY (2920502)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mitchell D. Dembin",
+          "judge_guid": "urn:entity:jud-100044786"
+        }
+      ]
+    }
+  ]
+}

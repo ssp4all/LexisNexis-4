@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_311mj4798_CASD",
+  "case_key": "3:11mj4798_CASD",
+  "case_lni": "54KY-9FP1-DXDT-G1JS-00000-00",
+  "case_number": "3:11mj4798",
+  "case_title": "USA v. Valadez-Hernandez et al",
+  "case_info_full_case_name": "USA v. Valadez-Hernandez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valadez-Hernandez et al",
+  "case_date_filed": "2011-12-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Glen Guadalupe Valadez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iv)-Encouraging"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iv)-Encouraging or Inducing an alien to come to, enter, or reside in the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Louisa S Porter",
+          "judge_guid": "urn:entity:jud-100024279"
+        }
+      ]
+    },
+    {
+      "party_name": "Ana Maria Vazquez-Cardenas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)-Attempted"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)-Attempted Transportation of an Illegal Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Louisa S Porter",
+          "judge_guid": "urn:entity:jud-100024279"
+        }
+      ]
+    },
+    {
+      "party_name": "Blanca Yadira Torres-Hernandez",
+      "party_description": "material witness"
+    }
+  ]
+}

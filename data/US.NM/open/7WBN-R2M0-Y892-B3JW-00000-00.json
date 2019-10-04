@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_201cr925_nmd",
+  "case_key": "2:01cr925_nmd",
+  "case_lni": "7WBN-R2M0-Y892-B3JW-00000-00",
+  "case_number": "2:01cr925",
+  "case_title": "USA v. Rascon-Ortiz",
+  "case_info_full_case_name": "USA v. Rascon-Ortiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rascon-Ortiz",
+  "case_date_filed": "2001-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nicolas Rascon-Ortiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Reentry after deportation [2:01-m-4466]"
+        },
+        {
+          "charge_statute": "8:1326(a)(1)(2) 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1)(2) &; 8:1326(b)(2) REENTRY OF DEPORTED ALIEN PREVIOUSLY CONVICTED OF AN AGGRAVATED FELONY (1-1)"
+        },
+        {
+          "charge_disposition": "(1-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "C. LeRoy Hansen",
+          "judge_guid": "urn:entity:jud-100009773"
+        }
+      ]
+    }
+  ]
+}

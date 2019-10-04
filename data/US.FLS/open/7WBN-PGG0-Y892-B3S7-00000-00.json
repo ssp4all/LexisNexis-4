@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_003cr60241_flsd",
+  "case_key": "0:03cr60241_flsd",
+  "case_lni": "7WBN-PGG0-Y892-B3S7-00000-00",
+  "case_number": "0:03cr60241",
+  "case_title": "USA v. Venturi, et al",
+  "case_info_full_case_name": "USA v. Venturi, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Venturi, et al",
+  "case_date_filed": "2003-10-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM VENTURI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21, 353(b)(1),"
+        },
+        {
+          "charge_description": "Dispensing with the intent to defraud and mislead, prescription drugs contrary to the previsions of Title 21, United States Code, 353(b)(1), in that the drugs were dispensed without the prescription of the practitioner licensed by law to administer prescription drugs, and the defendants did so while the prescription drugs were held for sale after shipment in interstate commerce, resulting in the drugs being misbranded. [0:03-m-4121]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kenneth A. Marra",
+          "judge_guid": "urn:entity:jud-100028929"
+        }
+      ]
+    },
+    {
+      "party_name": "JOANNE LEONHARDT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kenneth A. Marra",
+          "judge_guid": "urn:entity:jud-100028929"
+        }
+      ]
+    }
+  ]
+}

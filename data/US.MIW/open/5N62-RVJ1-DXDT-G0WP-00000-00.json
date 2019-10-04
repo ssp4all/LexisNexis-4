@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_117mj90_MIWD",
+  "case_key": "1:17mj90_MIWD",
+  "case_lni": "5N62-RVJ1-DXDT-G0WP-00000-00",
+  "case_number": "1:17mj90",
+  "case_title": "USA v. Brewster",
+  "case_info_full_case_name": "USA v. Brewster",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brewster",
+  "case_date_filed": "2017-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Adam B. Townshend",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mark E. Brewster",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ellen S. Carmody",
+          "judge_guid": "urn:entity:jud-100063255"
+        }
+      ]
+    }
+  ]
+}

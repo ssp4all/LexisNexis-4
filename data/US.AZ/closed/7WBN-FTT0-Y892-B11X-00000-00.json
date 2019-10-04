@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_498cr988_azd",
+  "case_key": "4:98cr988_azd",
+  "case_lni": "7WBN-FTT0-Y892-B11X-00000-00",
+  "case_number": "4:98cr988",
+  "case_title": "USA v. Ontiveros-Molina",
+  "case_info_full_case_name": "USA v. Ontiveros-Molina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ontiveros-Molina",
+  "case_date_filed": "1998-08-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARTIN ONTIVEROS-MOLINA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) TRANSPORTATION OF ILLEGAL ALIENS (1)"
+        },
+        {
+          "charge_disposition": "6 mos imprisonment; 36 mos sup rel; no fine; $100 s/a; (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) Transportation of Illegal Aliens [4:98-m-2749]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John M Roll",
+          "judge_guid": "urn:entity:jud-100025388"
+        }
+      ]
+    }
+  ]
+}

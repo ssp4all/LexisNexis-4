@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_107mj101_NCWD",
+  "case_key": "1:07mj101_NCWD",
+  "case_lni": "7WBN-JR80-Y892-B4W3-00000-00",
+  "case_number": "1:07mj101",
+  "case_title": "USA v. Roberts",
+  "case_info_full_case_name": "USA v. Roberts",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Roberts",
+  "case_date_filed": "2007-09-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Gary David Roberts",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113F.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Dennis",
+          "judge_name": "Howell",
+          "judge_guid": "urn:entity:jud-100033959"
+        }
+      ]
+    }
+  ]
+}

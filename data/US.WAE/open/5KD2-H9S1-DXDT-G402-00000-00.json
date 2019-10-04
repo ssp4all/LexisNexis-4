@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_216mj247_WAED",
+  "case_key": "2:16mj247_WAED",
+  "case_lni": "5KD2-H9S1-DXDT-G402-00000-00",
+  "case_number": "2:16mj247",
+  "case_title": "USA v. Owens",
+  "case_info_full_case_name": "USA v. Owens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Owens",
+  "case_date_filed": "2016-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "James A Goeke",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Don Charles Owens",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. ยง 2113(a) - BANK ROBBERY BY FORCE, VIOLENCE AND INTIMIDATION; 18 U.S.C. ยง 924(c)(1)(A)(iii) - DISCHARGING A FIREARM DURING A CRIME OF VIOLENCE"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. &#167; 2113(a) - BANK ROBBERY BY FORCE, "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Rodgers",
+          "judge_guid": "urn:entity:jud-100104663"
+        }
+      ]
+    }
+  ]
+}

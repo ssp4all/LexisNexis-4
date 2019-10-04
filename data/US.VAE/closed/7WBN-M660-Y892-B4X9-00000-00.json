@@ -1,0 +1,115 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_294cr93_vaed",
+  "case_key": "2:94cr93_vaed",
+  "case_lni": "7WBN-M660-Y892-B4X9-00000-00",
+  "case_number": "2:94cr93",
+  "case_title": "USA v. Cannon, et al",
+  "case_info_full_case_name": "USA v. Cannon, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cannon, et al",
+  "case_date_filed": "1994-06-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Geoffrey M. Coan",
+      "attorney_label": "[COR LD]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIMOTHY LEE CANNON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 THEFT OF U. S. PROPERTY Conspiracy to embezzle, steal purloin and knowingly convert to own use-Government property having a value of more than $100.00 (1)"
+        },
+        {
+          "charge_disposition": "6 Months Confinement; 3 Years Supervised Release; $50.00 Special Assessment; $4,471.00 Restitution (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 THEFT OF U. S. PROPERTY (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry C. Morgan, Jr.",
+          "judge_guid": "urn:entity:jud-100003810"
+        }
+      ]
+    },
+    {
+      "party_name": "RONNIE INGRAM, SR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 THEFT OF U. S. PROPERTY Conspiracy to embezzle, steal purloin and knowingly convert to own use-Government property having a value of more than $100.00 (1)"
+        },
+        {
+          "charge_disposition": "5 Years Probation; $50.00 Special Assessment; $4,470.00 Restitution (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry C. Morgan, Jr.",
+          "judge_guid": "urn:entity:jud-100003810"
+        }
+      ]
+    },
+    {
+      "party_name": "MURRAY ALONZO COLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 THEFT OF U. S. PROPERTY Conspiracy to embezzle, steal purloin and knowingly convert to own use-Government property having a value of more than $100.00 (1)"
+        },
+        {
+          "charge_disposition": "3 Months Confinement; 3 Years Supervised Release; $50.00 Special Assessment; $4,470.96 Restitution (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry C. Morgan, Jr.",
+          "judge_guid": "urn:entity:jud-100003810"
+        }
+      ]
+    }
+  ]
+}

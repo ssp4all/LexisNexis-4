@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_517mj442_OKWD",
+  "case_key": "5:17mj442_OKWD",
+  "case_lni": "5PN7-NFT1-DXDT-G35D-00000-00",
+  "case_number": "5:17mj442",
+  "case_title": "United States of America v. Search Warrant",
+  "case_info_full_case_name": "United States of America v. Search Warrant",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Search Warrant",
+  "case_date_filed": "2017-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Nicholas J Patterson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Search Warrant",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B Goodwin",
+          "judge_guid": "urn:entity:jud-100108084"
+        }
+      ]
+    }
+  ]
+}

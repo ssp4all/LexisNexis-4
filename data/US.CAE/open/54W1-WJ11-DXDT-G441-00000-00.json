@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_112cr23_CAED",
+  "case_key": "1:12cr23_CAED",
+  "case_lni": "54W1-WJ11-DXDT-G441-00000-00",
+  "case_number": "1:12cr23",
+  "case_title": "USA v. Campos-Calvillo",
+  "case_info_full_case_name": "USA v. Campos-Calvillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Campos-Calvillo",
+  "case_date_filed": "2012-02-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ian Garriques",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Campos-Calvillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.C. 1326(a) and (b)(2) - Deported Alien Found in the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326B.F  RE-ENTRY OF DEPORTED ALIEN"
+        },
+        {
+          "charge_offence_description": "8:1326B.F  RE-ENTRY OF DEPORTED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Anthony W. Ishii",
+          "judge_guid": "urn:entity:jud-100033609"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis L. Beck",
+          "judge_guid": "urn:entity:jud-100061970"
+        }
+      ]
+    }
+  ]
+}

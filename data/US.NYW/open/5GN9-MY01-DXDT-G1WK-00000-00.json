@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_615cr6113_NYWD",
+  "case_key": "6:15cr6113_NYWD",
+  "case_lni": "5GN9-MY01-DXDT-G1WK-00000-00",
+  "case_number": "6:15cr6113",
+  "case_title": "USA v. To",
+  "case_info_full_case_name": "USA v. To",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "To",
+  "case_date_filed": "2015-08-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Craig R. Gestring",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Phu To",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F - defendants, did conspire and agree, by knowingly and willfully engaging in a scheme to defraud and to obtain money by means of false and fraudulent pretenses, and representations and that in furtherance of such scheme did use the mails and did cause the mails to be used"
+        },
+        {
+          "charge_offence_description": "18:1349.F - defendants, did conspire and agree, by"
+        },
+        {
+          "charge_description": "18:1349.F ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "5 years probation; no fine; $35,296.00 restitution; $100 SPA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Frank P. Geraci, Jr.",
+          "judge_guid": "urn:entity:jud-100104557"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_296cr429_paed",
+  "case_key": "2:96cr429_paed",
+  "case_lni": "7WBN-RGR0-Y892-B007-00000-00",
+  "case_number": "2:96cr429",
+  "case_title": "USA v. LOFTLIN",
+  "case_info_full_case_name": "USA v. LOFTLIN",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LOFTLIN",
+  "case_date_filed": "1996-09-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STACEY WILLIAM LOFTLIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344(1)"
+        },
+        {
+          "charge_description": "18:1344(1) BANK FRAUD (1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 10 MONTHS TO RUN CONCURRENTLY, SUPERVISED RELEASE 5 YEARS AND SPECIAL ASSESSMENT $ 100.00. COUNTS 2 AND 3 DISMISSED ON GOVERNMENT'S MOTION. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344(1)"
+        },
+        {
+          "charge_description": "18:1344(1) BANK FRAUD (4)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 10 MONTHS TO RUN CONCURRENTLY, SUPERVISED RELEASE 5 YEARS AND SPECIAL ASSESSMENT $ 100.00. COUNTS 2 AND 3 DISMISSED ON GOVERNMENT'S MOTION. (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344(1)"
+        },
+        {
+          "charge_description": "18:1344(1) BANK FRAUD (2-3)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOVERNMENT'S MOTION. (2-3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "RONALD L. BUCKWALTER",
+          "judge_guid": "urn:entity:jud-100063859"
+        }
+      ]
+    }
+  ]
+}

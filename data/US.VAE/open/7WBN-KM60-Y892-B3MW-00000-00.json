@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_204m369_VAED",
+  "case_key": "2:04m369_VAED",
+  "case_lni": "7WBN-KM60-Y892-B3MW-00000-00",
+  "case_number": "2:04m369",
+  "case_title": "USA v. Santiago",
+  "case_info_full_case_name": "USA v. Santiago",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Santiago",
+  "case_date_filed": "2004-05-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SALIA M. SANTIAGO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 21:846"
+        },
+        {
+          "charge_description": "Knowingly and intentionally conspire and agree to posses with the intent to distribute 5 kilo grams or more of cocaine in violation of 21:846 &; 841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Rebecca Beach Smith",
+          "judge_guid": "urn:entity:jud-100022213"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

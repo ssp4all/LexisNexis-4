@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_211mj19_WVND",
+  "case_key": "2:11mj19_WVND",
+  "case_lni": "52KY-G3D1-DXDT-G1CD-00000-00",
+  "case_number": "2:11mj19",
+  "case_title": "USA v. Tapia",
+  "case_info_full_case_name": "USA v. Tapia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tapia",
+  "case_date_filed": "2011-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edgar Tapia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841B=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Joel",
+          "judge_guid": "urn:entity:jud-100050421"
+        }
+      ]
+    }
+  ]
+}

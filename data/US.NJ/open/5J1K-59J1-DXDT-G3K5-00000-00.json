@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_215mj3579_NJD",
+  "case_key": "2:15mj3579_NJD",
+  "case_lni": "5J1K-59J1-DXDT-G3K5-00000-00",
+  "case_number": "2:15mj3579",
+  "case_title": "USA v. PATEL et al",
+  "case_info_full_case_name": "USA v. PATEL et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PATEL et al",
+  "case_date_filed": "2015-05-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "FRANCISCO J. NAVARRO",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "JOYCE M. MALLIET",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HIRAL PATEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES"
+        },
+        {
+          "charge_offence_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark Falk",
+          "judge_guid": "urn:entity:jud-100056215"
+        }
+      ]
+    },
+    {
+      "party_name": "SHIKHA MOHTA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES"
+        },
+        {
+          "charge_offence_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark Falk",
+          "judge_guid": "urn:entity:jud-100056215"
+        }
+      ]
+    }
+  ]
+}

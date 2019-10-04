@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_018mj48_MND",
+  "case_key": "0:18mj48_MND",
+  "case_lni": "5RG4-YJM1-DXDT-G39Y-00000-00",
+  "case_number": "0:18mj48",
+  "case_title": "USA v. Morales",
+  "case_info_full_case_name": "USA v. Morales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales",
+  "case_date_filed": "2018-01-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Morales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possess with intent to distribute methamphetamine in violation of 21:841(a)(1) and b(1)(A)"
+        },
+        {
+          "charge_offence_description": "Possess with intent to distribute methamphetamine "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Becky R. Thorson",
+          "judge_guid": "urn:entity:jud-100109711"
+        }
+      ]
+    }
+  ]
+}

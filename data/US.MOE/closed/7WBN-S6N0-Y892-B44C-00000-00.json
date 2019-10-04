@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_495m1025_moed",
+  "case_key": "4:95m1025_moed",
+  "case_lni": "7WBN-S6N0-Y892-B44C-00000-00",
+  "case_number": "4:95m1025",
+  "case_title": "USA v. Neal",
+  "case_info_full_case_name": "USA v. Neal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Neal",
+  "case_date_filed": "1995-01-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sam C. Bertolet",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTOINE NEAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:401"
+        },
+        {
+          "charge_description": "18:401 Failure to appear-contempt of Court"
+        },
+        {
+          "charge_disposition": "Gove dismisses case (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Terry I. Adelman",
+          "judge_guid": "urn:entity:jud-100079712"
+        }
+      ]
+    }
+  ]
+}

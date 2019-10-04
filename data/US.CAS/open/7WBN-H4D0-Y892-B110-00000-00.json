@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_301cr210_casd",
+  "case_key": "3:01cr210_casd",
+  "case_lni": "7WBN-H4D0-Y892-B110-00000-00",
+  "case_number": "3:01cr210",
+  "case_title": "USA v. Torres-Garcia",
+  "case_info_full_case_name": "USA v. Torres-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres-Garcia",
+  "case_date_filed": "2001-01-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAUL TORRES-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-Attempted"
+        },
+        {
+          "charge_description": "8:1326-Attempted entry after deportation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:911-False"
+        },
+        {
+          "charge_description": "18:911-False claim to united States citizenship (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas J. Whelan",
+          "judge_guid": "urn:entity:jud-100017364"
+        }
+      ]
+    }
+  ]
+}

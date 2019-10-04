@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_205m8607_CASD",
+  "case_key": "2:05m8607_CASD",
+  "case_lni": "7WBN-R6N0-Y892-B484-00000-00",
+  "case_number": "2:05m8607",
+  "case_title": "USA v. Castaneda-Rocha",
+  "case_info_full_case_name": "USA v. Castaneda-Rocha",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castaneda-Rocha",
+  "case_date_filed": "2005-10-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[NO LABEL]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "OSCAR GUADALUPE CASTANEDA-ROCHA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iii) (v)(II)-Harboring"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii) (v)(II)-Harboring illegal aliens (felony)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

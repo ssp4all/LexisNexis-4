@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_202m316_vaed",
+  "case_key": "2:02m316_vaed",
+  "case_lni": "7WBN-GM60-Y892-B2SK-00000-00",
+  "case_number": "2:02m316",
+  "case_title": "USA v. McKay",
+  "case_info_full_case_name": "USA v. McKay",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McKay",
+  "case_date_filed": "2002-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PHILLIP A. MCKAY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:7 13, 18.2-266 5.2.02)"
+        },
+        {
+          "charge_description": "18:7 &; 13, Assim. Code of VA 18.2-266 [18:13-7210.M] Driving under influence of alcohol. (date of offense 5.2.02) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:7 13, 46.2-301 5.8.02)"
+        },
+        {
+          "charge_description": "18:7 &; 13, Assim. Code of VA 46.2-301 [18:13-7220.M] Driving while suspended. (date of offense 5.8.02) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

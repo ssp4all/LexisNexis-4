@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_408cr40035_MAD",
+  "case_key": "4:08cr40035_MAD",
+  "case_lni": "7WBN-NHC0-Y892-B2DW-00000-00",
+  "case_number": "4:08cr40035",
+  "case_title": "USA v. Ripley",
+  "case_info_full_case_name": "USA v. Ripley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ripley",
+  "case_date_filed": "2008-11-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Karin Michelle Bell",
+      "attorney_label": "Lead Attorney"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jerold Ripley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) Felon in Possession of Ammunition (1)"
+        },
+        {
+          "charge_disposition": "The Defendant is Hereby Committed to The Custody of The U.S. Bureau of Prisons to be Imprisoned For A Term of Time Served (27 Months And 10 Days). Upon Release From Imprisonment, The Defendant Shall be Placed on Supervised Release For A Term of 3 Years. it is Further Ordered That The Defendant Shall Pay to The United States A Special Assessment in The Amount of $100.00."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1)   knowingly possess in or affecting commerce, ammunition and"
+        },
+        {
+          "charge_description": "18:922(g)(1)   knowingly possess in or affecting commerce, ammunition and  Receive Ammunition Which Has Been Shipped ."
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "F Dennis Saylor, IV",
+          "judge_guid": "urn:entity:jud-100026983"
+        }
+      ]
+    }
+  ]
+}

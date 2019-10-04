@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_107cr61_OHSD",
+  "case_key": "1:07cr61_OHSD",
+  "case_lni": "7WBN-F440-Y892-B18P-00000-00",
+  "case_number": "1:07cr61",
+  "case_title": "USA v. Garrod",
+  "case_info_full_case_name": "USA v. Garrod",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garrod",
+  "case_date_filed": "2007-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christy L Muncy",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Allen F Garrod",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113(a) BANK ROBBERY BY FORCE OR VIOLENCE(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 132 months in jail on all counts to run concurrently with each other. 3 years supervised release. $22,240 in restitution and $600 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Susan J. Dlott",
+          "judge_guid": "urn:entity:jud-100044481"
+        }
+      ]
+    }
+  ]
+}

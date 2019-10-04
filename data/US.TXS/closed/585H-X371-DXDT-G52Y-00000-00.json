@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_513po4936_TXSD",
+  "case_key": "5:13po4936_TXSD",
+  "case_lni": "585H-X371-DXDT-G52Y-00000-00",
+  "case_number": "5:13po4936",
+  "case_title": "USA v. SOLIS-Gutierrez",
+  "case_info_full_case_name": "USA v. SOLIS-Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SOLIS-Gutierrez",
+  "case_date_filed": "2013-04-10",
+  "case_status": "Closed",
+  "case_status_date": "04/10/2013",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Hugo SOLIS-Gutierrez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_213mj7118_AZD",
+  "case_key": "2:13mj7118_AZD",
+  "case_lni": "586F-HBM1-DXDT-G175-00000-00",
+  "case_number": "2:13mj7118",
+  "case_title": "USA v. Orozco-Gonzalez",
+  "case_info_full_case_name": "USA v. Orozco-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Orozco-Gonzalez",
+  "case_date_filed": "2013-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Gabriel Orozco-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bridget S Bade",
+          "judge_guid": "urn:entity:jud-100102302"
+        }
+      ]
+    }
+  ]
+}

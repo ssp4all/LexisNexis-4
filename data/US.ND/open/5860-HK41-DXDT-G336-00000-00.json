@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_113cr73_NDD",
+  "case_key": "1:13cr73_NDD",
+  "case_lni": "5860-HK41-DXDT-G336-00000-00",
+  "case_number": "1:13cr73",
+  "case_title": "USA v. Morales-Alarcon",
+  "case_info_full_case_name": "USA v. Morales-Alarcon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales-Alarcon",
+  "case_date_filed": "2013-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marco Antonio Morales-Alarcon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546(a) POSSESSION OF FALSE IMMIGRATION DOCUMENT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1546(a) POSSESSION OF FALSE ALIEN REGISTRATION RECEIPT CARD AND SOCIAL SECURITY CARD"
+        },
+        {
+          "charge_offence_description": "18:1546(a) POSSESSION OF FALSE ALIEN REGISTRATION "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Daniel L. Hovland",
+          "judge_guid": "urn:entity:jud-100051124"
+        }
+      ]
+    }
+  ]
+}

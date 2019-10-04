@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317cr2153_CASD",
+  "case_key": "3:17cr2153_CASD",
+  "case_lni": "5P61-2H61-DXDT-G18N-00000-00",
+  "case_number": "3:17cr2153",
+  "case_title": "USA v. Batriz-Gonzalez",
+  "case_info_full_case_name": "USA v. Batriz-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Batriz-Gonzalez",
+  "case_date_filed": "2017-08-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Arturo Batriz-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325 - Improper Entry by an Alien (Misdemeanor)(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to Bureau of Prisons - One Hundred Twenty (120) Days; Probation/Supervised Release - Not Imposed; Fine - $10.00 (Waived); Special Assessment - $10.00 is imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "8:1326(a) - Reentry of Removed Alien (Felony)(2)"
+        },
+        {
+          "charge_disposition": "Government oral motion to dismiss Count 2 of the Information without prejudice is granted."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326; 8:1325 - Deported Alien Found In The United States; Illegal Entry (misdemeanor)"
+        },
+        {
+          "charge_offence_description": "8:1326; 8:1325 - Deported Alien Found In The Unite"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrew G. Schopler",
+          "judge_guid": "urn:entity:jud-100124731"
+        }
+      ]
+    }
+  ]
+}

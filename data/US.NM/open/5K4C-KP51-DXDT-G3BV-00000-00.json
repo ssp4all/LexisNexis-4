@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_116cr2938_NMD",
+  "case_key": "1:16cr2938_NMD",
+  "case_lni": "5K4C-KP51-DXDT-G3BV-00000-00",
+  "case_number": "1:16cr2938",
+  "case_title": "USA v. Martinez",
+  "case_info_full_case_name": "USA v. Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez",
+  "case_date_filed": "2016-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Eva Mae Fontanez",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albert Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13(a), NMSA 66-8-102(D)(1) and 66-8-102(H): Aggravated Driving Under the Influence;(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 24 months (15 months of incarceration and 9 months suspended); 1 year supervised release w/special conditions; SPA $100.00; deft in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:13(a), NMSA 66-8-102(A and 66-8-102(H): Driving Under the Influence;(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:13(a), NMSA 66-5-39(A): Driving on a Suspended and Revoked License (Class B Misdemeanor)(3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:13; NMSA 66-8-102; Driving Under the Influence of Intoxicating Liquor or Drugs; NMSA 66-5-39; Driving While License Suspended or Revoked"
+        },
+        {
+          "charge_offence_description": "18:13; NMSA 66-8-102; Driving Under the Influence "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James O. Browning",
+          "judge_guid": "urn:entity:jud-100064003"
+        }
+      ]
+    }
+  ]
+}

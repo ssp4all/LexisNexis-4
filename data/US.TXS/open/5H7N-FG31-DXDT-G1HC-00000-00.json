@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_515po12181_TXSD",
+  "case_key": "5:15po12181_TXSD",
+  "case_lni": "5H7N-FG31-DXDT-G1HC-00000-00",
+  "case_number": "5:15po12181",
+  "case_title": "USA v. Marroquin-Romero",
+  "case_info_full_case_name": "USA v. Marroquin-Romero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marroquin-Romero",
+  "case_date_filed": "2015-10-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Claudio Marroquin-Romero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Scott Hacker",
+          "judge_guid": "urn:entity:jud-100070615"
+        }
+      ]
+    }
+  ]
+}

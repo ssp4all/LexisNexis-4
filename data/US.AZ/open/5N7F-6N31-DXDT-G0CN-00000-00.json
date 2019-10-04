@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_317mj4078_AZD",
+  "case_key": "3:17mj4078_AZD",
+  "case_lni": "5N7F-6N31-DXDT-G0CN-00000-00",
+  "case_number": "3:17mj4078",
+  "case_title": "USA v. Schimmel",
+  "case_info_full_case_name": "USA v. Schimmel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schimmel",
+  "case_date_filed": "2017-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Frieda B Schimmel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 844 Simple Possession of Controlled Substance"
+        },
+        {
+          "charge_offence_description": "21 USC 844 Simple Possession of Controlled Substan"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Deborah M Fine",
+          "judge_guid": "urn:entity:jud-100112801"
+        }
+      ]
+    }
+  ]
+}

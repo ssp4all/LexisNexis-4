@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_415cr101_MOED",
+  "case_key": "4:15cr101_MOED",
+  "case_lni": "5FFG-VXT1-DXDT-G2PY-00000-00",
+  "case_number": "4:15cr101",
+  "case_title": "USA v. Tuttle",
+  "case_info_full_case_name": "USA v. Tuttle",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tuttle",
+  "case_date_filed": "2015-03-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Travis Wayne Tuttle",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RECEIPT OF CHILD PORNOGRAPHY(1r)"
+        },
+        {
+          "charge_disposition": "The defendant pleaded guilty to counts one and two of the indictment on August 27, 2015. The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 75 months. This term consists of a term of 75 months on each of Counts 1 and 2, all such terms to be served concurrently. Upon release from imprisonment, the defendant shall be on supervised release for a term of life. The defendant must pay a special assessment of $200.00, due immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION OF CHILD PORNOGRAPHY(2r)"
+        },
+        {
+          "charge_disposition": "The defendant pleaded guilty to counts one and two of the indictment on August 27, 2015. The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 75 months. This term consists of a term of 75 months on each of Counts 1 and 2, all such terms to be served concurrently. Upon release from imprisonment, the defendant shall be on supervised release for a term of life. The defendant must pay a special assessment of $200.00, due immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Audrey G. Fleissig",
+          "judge_guid": "urn:entity:jud-100046365"
+        }
+      ]
+    }
+  ]
+}

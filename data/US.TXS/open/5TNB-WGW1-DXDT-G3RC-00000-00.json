@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_718mj2281_TXSD",
+  "case_key": "7:18mj2281_TXSD",
+  "case_lni": "5TNB-WGW1-DXDT-G3RC-00000-00",
+  "case_number": "7:18mj2281",
+  "case_title": "USA v. Gonzalez-Maldonado",
+  "case_info_full_case_name": "USA v. Gonzalez-Maldonado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Maldonado",
+  "case_date_filed": "2018-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Francisco Gonzalez-Maldonado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F"
+        },
+        {
+          "charge_offence_description": "8:1326.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

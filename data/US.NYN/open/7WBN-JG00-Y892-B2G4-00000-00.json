@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_103cr83_nynd",
+  "case_key": "1:03cr83_nynd",
+  "case_lni": "7WBN-JG00-Y892-B2G4-00000-00",
+  "case_number": "1:03cr83",
+  "case_title": "USA v. Reichel",
+  "case_info_full_case_name": "USA v. Reichel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reichel",
+  "case_date_filed": "2003-03-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EVELYN REICHEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344A.F 8/02 11/02"
+        },
+        {
+          "charge_description": "18:1344A.F BANK FRAUD-That beginning in 8/02 and continuing to 11/02 at or near Schenectady, in the State and NDNY, and elsewhere, the deft knowingly executed and attempted to execute a scheme and artifice to defraud financial institution where the deft wrote and negotiated checks totaling at least $7, 000 against checking accounts at said banks knowing that said cheding accounts were closed. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "T18,USCSec 1344;"
+        },
+        {
+          "charge_description": "Viol. of T18, USC Sec 1344; knowingly executed or attempted to execute a scheme to defraud a financial institution. [1:02-m-443]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Hurd",
+          "judge_guid": "urn:entity:jud-100050886"
+        }
+      ]
+    }
+  ]
+}

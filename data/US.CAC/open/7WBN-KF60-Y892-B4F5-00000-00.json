@@ -1,0 +1,112 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_202cr1212_cacd",
+  "case_key": "2:02cr1212_cacd",
+  "case_lni": "7WBN-KF60-Y892-B4F5-00000-00",
+  "case_number": "2:02cr1212",
+  "case_title": "USA v. Sarabia et al",
+  "case_info_full_case_name": "USA v. Sarabia et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sarabia et al",
+  "case_date_filed": "2002-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leo Sarabia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1341, 2, 2326 MAIL FRAUD; CAUSING AN ACT TO BE DONE; ENHANCED PENALITIES FOR TELEMARKETING FRAUD(1s-9s)"
+        },
+        {
+          "charge_disposition": "BOP for 70 months total sentence, conc as to each criminal action 02-1212(A) &; 02-1213(A). Supervised Release for 3 years conc on all counts plus 1 year on count 16 also conc, under T/C of USPO &; GO 318. S/A of $2,700. Restitution (see Judgment for restitution)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:7202 FAILURE TO COLLECT &; PAY OVER TAXES(10s-12s)"
+        },
+        {
+          "charge_disposition": "BOP for 70 months total sentence, conc as to each criminal action 02-1212(A) &; 02-1213(A). Supervised Release for 3 years conc on all counts plus 1 year on count 16 also conc, under T/C of USPO &; GO 318. S/A of $2,700. Restitution (see Judgment for restitution)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD; 18:2: CAUSING AN ACT TO BE DONE; 18:2326: ENCHANCED PENALTIES FOR TELEMARKETING FRAUD(1-9)"
+        },
+        {
+          "charge_disposition": "It is order that any remaining vunts &;/or any underlying Indictment are dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Manuel L. Real",
+          "judge_guid": "urn:entity:jud-100002808"
+        }
+      ]
+    },
+    {
+      "party_name": "David Canter",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1341, 2, 2326 MAIL FRAUD; CAUSING AN ACT TO BE DONE; ENHANCED PENALITIES FOR TELEMARKETING FRAUD(1rs-9rs)"
+        },
+        {
+          "charge_disposition": "Bureau of Prisons 78 months; Supervised release 36 months; Special assessment $900. Total restitution $465,870.44. RE-SENTENCING AFTER REMAND FROM U.S.C.A. 9th Circuit. Bureau of Prisons Fifty-one (51) months, concurrent on counts 1-9 of th e 1st superseding indictment. Supervised release three (3) years concurrent on counts 1-9 of the 1st superseding indictment, under the terms and condition of the U.S. Probation Office and General Order 318. Special assessment $900. Restitution &; #036;15,910.44."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD; 18:2: CAUSING AN ACT TO BE DONE; 18:2326: ENCHANCED PENALTIES FOR TELEMARKETING FRAUD(1-6)"
+        },
+        {
+          "charge_disposition": "Remaining counts ordered dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD; 18:2: CAUSING AN ACT TO BE DONE; 18:2326: ENCHANCED PENALTIES FOR TELEMARKETING FRAUD(7-9)"
+        },
+        {
+          "charge_disposition": "Remaining counts ordered dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Manuel L. Real",
+          "judge_guid": "urn:entity:jud-100002808"
+        }
+      ]
+    }
+  ]
+}

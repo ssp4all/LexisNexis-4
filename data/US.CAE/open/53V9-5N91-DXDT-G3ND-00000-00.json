@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_211cr408_CAED",
+  "case_key": "2:11cr408_CAED",
+  "case_lni": "53V9-5N91-DXDT-G3ND-00000-00",
+  "case_number": "2:11cr408",
+  "case_title": "USA v. Alvarez",
+  "case_info_full_case_name": "USA v. Alvarez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarez",
+  "case_date_filed": "2011-09-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jaime Valencia Alvarez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DEPORTED ALIEN FOUND IN THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Morrison C. England, Jr",
+          "judge_guid": "urn:entity:jud-100043591"
+        }
+      ]
+    }
+  ]
+}

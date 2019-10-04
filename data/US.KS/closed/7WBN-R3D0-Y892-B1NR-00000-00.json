@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_201m8033_ksd",
+  "case_key": "2:01m8033_ksd",
+  "case_lni": "7WBN-R3D0-Y892-B1NR-00000-00",
+  "case_number": "2:01m8033",
+  "case_title": "USA v. Simental, et al",
+  "case_info_full_case_name": "USA v. Simental, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Simental, et al",
+  "case_date_filed": "2001-04-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIO E SIMENTAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Unlawfully, knowingly, and intentionally possess with intent to distribute five kilograms or more of a mixture or substance containing a detectable amount of cocaine, a controlled substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Waxse",
+          "judge_guid": "urn:entity:jud-100023227"
+        }
+      ]
+    },
+    {
+      "party_name": "MARIO A SIMENTAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Unlawfully, knowingly, and intentionally possess with intent to distribute five kilograms or more of a mixture or substance containing a detectable amount of cocaine, a controlled substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Waxse",
+          "judge_guid": "urn:entity:jud-100023227"
+        }
+      ]
+    }
+  ]
+}

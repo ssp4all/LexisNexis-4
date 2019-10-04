@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_304cr187_VAED",
+  "case_key": "3:04cr187_VAED",
+  "case_lni": "7WBN-MNF0-Y892-B47H-00000-00",
+  "case_number": "3:04cr187",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2004-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Ramon Antoine Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1),841(b)(1)(B)(ii) &; 846 Conspiracy to Possess With Intent to Distribute Cocaine Hydrochloride [21:846=ND.F](1)"
+        },
+        {
+          "charge_disposition": "Imprisonment for a term of 76 months; placed on Supervised Release for a term of 5 years; $100.00 Special Assessment (Imprisonment reduced to TIME SERVED as of May 28, 2008)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(iii) Possession With Intent to Distribute Cocaine Base [21:841A=ND.F](2)"
+        },
+        {
+          "charge_disposition": "Imprisonment for a term of 76 months; placed on Supervised Release for a term of 5 years; $100.00 Special Assessment (Imprisonment reduced to TIME SERVED as of May 28, 2008)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Richard L. Williams",
+          "judge_guid": "urn:entity:jud-100096844"
+        }
+      ]
+    }
+  ]
+}

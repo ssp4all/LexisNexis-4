@@ -1,0 +1,128 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_297cr280_txsd",
+  "case_key": "2:97cr280_txsd",
+  "case_lni": "7WBN-H1B0-Y892-B3K6-00000-00",
+  "case_number": "2:97cr280",
+  "case_title": "USA v. Bambino",
+  "case_info_full_case_name": "USA v. Bambino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bambino",
+  "case_date_filed": "1997-12-10",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSEPH ADAM BAMBINO, JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "167 21:846, 841(a)(1), 841(b)(1)(B). 25, 1997. 5 40 4"
+        },
+        {
+          "charge_description": "Conspiracy to knowingly and intentionally possess with intent to distribute approximately 167 kilograms of marijuana. 21:846, 841(a)(1), and 841(b)(1)(B). Date of Offense: November 25, 1997. Penalty: Not less than 5 years nor more than 40 years imprisonment without probation, parole or suspended sentence, a fine of up to $2 million, at least 4 years SRT and a $100.00 special assessment. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "167 21:841(a)(1), 841(b)(1)(B) 18:2. 25, 1997. 5 40 4"
+        },
+        {
+          "charge_description": "Aiding, abetting, and assisting one another to knowingly and intentionally possess with intent to distribute approximately 167 kilograms of marijuana. 21:841(a)(1), 841(b)(1)(B) and 18:2. Date of Offense: November 25, 1997. Penalty: Not less than 5 years nor more than 40 years imprisonment without probation, parole or suspended sentence, a fine of up to $2 million, at least 4 years SRT, and $100.00 special assessment. (2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1970, 378 21:841(a)(1)"
+        },
+        {
+          "charge_description": "Knowingly, intentionally and unlawfully possess with intent to distribute a controlled substance in Schedule I of the controlled substance Act of 1970, to wit: 378 pounds (approximate gross weight) of marijuana. 21:841(a)(1) [2:97-m-301]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis Graham Jack",
+          "judge_guid": "urn:entity:jud-100050653"
+        }
+      ]
+    },
+    {
+      "party_name": "BOBBY DUANE BATES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "167 21:846, 841(a)(1), 841(b)(1)(B). 25, 1997. 5 40 4"
+        },
+        {
+          "charge_description": "Conspiracy to knowingly and intentionally possess with intent to distribute approximately 167 kilograms of marijuana. 21:846, 841(a)(1), and 841(b)(1)(B). Date of Offense: November 25, 1997. Penalty: Not less than 5 years nor more than 40 years imprisonment without probation, parole or suspended sentence, a fine of up to $2 million, at least 4 years SRT and a $100.00 special assessment. (1)"
+        },
+        {
+          "charge_disposition": "40 months (concurrent), 4 years Supervised Release Term, $200.00 fine, $200.00 special assessment (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "167 21:841(a)(1), 841(b)(1)(B) 18:2. 25, 1997. 5 40 4"
+        },
+        {
+          "charge_description": "Aiding, abetting, and assisting one another to knowingly and intentionally possess with intent to distribute approximately 167 kilograms of marijuana. 21:841(a)(1), 841(b)(1)(B) and 18:2. Date of Offense: November 25, 1997. Penalty: Not less than 5 years nor more than 40 years imprisonment without probation, parole or suspended sentence, a fine of up to $2 million, at least 4 years SRT, and $100.00 special assessment. (2)"
+        },
+        {
+          "charge_disposition": "40 months (concurrent), 4 years Supervised Release Term, $200.00 fine, $200.00 special assessment (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1970, 378 21:841(a)(1)"
+        },
+        {
+          "charge_description": "Knowingly, intentionally and unlawfully possess with intent to distribute a controlled substance in Schedule I of the controlled substance Act of 1970, to wit: 378 pounds (approximate gross weight) of marijuana. 21:841(a)(1) [2:97-m-301]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis Graham Jack",
+          "judge_guid": "urn:entity:jud-100050653"
+        }
+      ]
+    }
+  ]
+}

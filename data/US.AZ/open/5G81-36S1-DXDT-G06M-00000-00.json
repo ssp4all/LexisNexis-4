@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415mj8686_AZD",
+  "case_key": "4:15mj8686_AZD",
+  "case_lni": "5G81-36S1-DXDT-G06M-00000-00",
+  "case_number": "4:15mj8686",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2015-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Manuel Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) Possession w/ Intent to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(C) Possession w/ Intent to D"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

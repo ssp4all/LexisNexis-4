@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_516mj5199_KYED",
+  "case_key": "5:16mj5199_KYED",
+  "case_lni": "5M76-G9G1-DXDT-G2TJ-00000-00",
+  "case_number": "5:16mj5199",
+  "case_title": "USA v. King",
+  "case_info_full_case_name": "USA v. King",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "King",
+  "case_date_filed": "2016-11-21",
+  "case_status": "Closed",
+  "case_status_date": "11/21/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Henry L. King",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "16:551.P - REMOVING YELLOW ROOT WITHOUT PERMIT"
+        },
+        {
+          "charge_disposition": "2 YEARS PROBATION; $500 RESTITUTION; $30 PROCESSING FEE; $10 ASSESSMENT"
+        },
+        {
+          "charge_offence_description": "16:551.P - REMOVING YELLOW ROOT WITHOUT PERMIT\t\t\t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert E. Wier",
+          "judge_guid": "urn:entity:jud-100008212"
+        }
+      ]
+    }
+  ]
+}

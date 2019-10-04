@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_208mj1921_NMD",
+  "case_key": "2:08mj1921_NMD",
+  "case_lni": "7WBN-FCB0-Y892-B4JM-00000-00",
+  "case_number": "2:08mj1921",
+  "case_title": "USA v. Maldonado-Castillo et al",
+  "case_info_full_case_name": "USA v. Maldonado-Castillo et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maldonado-Castillo et al",
+  "case_date_filed": "2008-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Leobardo Maldonado-Castillo",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William P Lynch",
+          "judge_guid": "urn:entity:jud-100038057"
+        }
+      ]
+    },
+    {
+      "party_name": "Miguel Garcia-Lopez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William P Lynch",
+          "judge_guid": "urn:entity:jud-100038057"
+        }
+      ]
+    }
+  ]
+}

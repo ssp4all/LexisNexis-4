@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_115cr461_HID",
+  "case_key": "1:15cr461_HID",
+  "case_lni": "5G81-36S1-DXDT-G0N7-00000-00",
+  "case_number": "1:15cr461",
+  "case_title": "USA v. Constantino",
+  "case_info_full_case_name": "USA v. Constantino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Constantino",
+  "case_date_filed": "2015-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cynthia R. Constantino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "40:1315.P VIOLATION OF REGULATIONS ON GOVERNMENT PROPERTY - HRS 431:10C-104; 32 CFR 634.25(f) No insurance; 04/30/2015 TAMC; 4318727/H14(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "BARRY M. KURREN",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_518mj1248_OHND",
+  "case_key": "5:18mj1248_OHND",
+  "case_lni": "5TP0-XD21-DXDT-G561-00000-00",
+  "case_number": "5:18mj1248",
+  "case_title": "United States of America v. Nash",
+  "case_info_full_case_name": "United States of America v. Nash",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Nash",
+  "case_date_filed": "2018-11-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael A. Sullivan",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luther Nash",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2422(b) Knowingly used a facility and means of interstate commerce to attempt to persuade, induce and entice a minor to engage in sexual activity"
+        },
+        {
+          "charge_offence_description": "18:2422(b) Knowingly used a facility and means of "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen B. Burke",
+          "judge_guid": "urn:entity:jud-100060229"
+        }
+      ]
+    }
+  ]
+}

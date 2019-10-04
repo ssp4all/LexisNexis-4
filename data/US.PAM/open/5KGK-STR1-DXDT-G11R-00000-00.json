@@ -1,0 +1,79 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAM_416cr235_PAMD",
+  "case_key": "4:16cr235_PAMD",
+  "case_lni": "5KGK-STR1-DXDT-G11R-00000-00",
+  "case_number": "4:16cr235",
+  "case_title": "USA v. Young et al",
+  "case_info_full_case_name": "USA v. Young et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Young et al",
+  "case_date_filed": "2016-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joshua Young",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ASSAULT WITH DANGEROUS WEAPON (18:113)(1)"
+        },
+        {
+          "charge_disposition": "BOP for a term of Seventy-Eight (78) months, consisting of 78 months on each of Counts 1 and 2 to be served concurrently, and consecutive to the sentence the defendant is now serving in U.S. District Court, ED/TN, No. 1:11-CR-65-001. $100 special assessment. No fine. Restitution in the amount of $194,923.23. Of this amount, $160,444.83 is imposed jointly and severally with the restitution order imposed in the case of codefendant Michael Killion (02). The interest requirement is waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ASSAULT WITH DANGEROUS WEAPON (18:113)(2)"
+        },
+        {
+          "charge_disposition": "BOP for a term of Seventy-Eight (78) months, consisting of 78 months on each of Counts 1 and 2 to be served concurrently, and consecutive to the sentence the defendant is now serving in U.S. District Court, ED/TN, No. 1:11-CR-65-001. $100 special assessment. No fine. Restitution in the amount of $194,923.23. Of this amount, $160,444.83 is imposed jointly and severally with the restitution order imposed in the case of codefendant Michael Killion (02). The interest requirement is waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Matthew W. Brann",
+          "judge_guid": "urn:entity:jud-100104562"
+        }
+      ]
+    },
+    {
+      "party_name": "Michael Killion",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ASSAULT WITH DANGEROUS WEAPON (18:113)(2)"
+        },
+        {
+          "charge_disposition": "BOP for a term of Seventy-seven (77) months. This term shall run consecutively to any sentence the Defendant is now serving and for which he is being held. Restitution in the amount of $166,444.83. The restitution is imposed jointly and severally with the restitution order imposed or to be imposed with codefendant. No fine. $100 Special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Matthew W. Brann",
+          "judge_guid": "urn:entity:jud-100104562"
+        }
+      ]
+    }
+  ]
+}

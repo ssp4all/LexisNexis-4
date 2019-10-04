@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_308cr170_PRD",
+  "case_key": "3:08cr170_PRD",
+  "case_lni": "7WBN-RT40-Y892-B3WD-00000-00",
+  "case_number": "3:08cr170",
+  "case_title": "USA v. Gonzalez",
+  "case_info_full_case_name": "USA v. Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez",
+  "case_date_filed": "2008-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Luis Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:963=NI.F"
+        },
+        {
+          "charge_description": "21:963=NI.F CONSPIRACY TO IMPORT FIVE KILOS OR MORE OF COCAINE"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR 46 MOS., 3 YRS. SUPERVISED RELEASE W/STANDARD CONDITIONS; $100 SMA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Carmen C. Cerezo",
+          "judge_guid": "urn:entity:jud-100066260"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    }
+  ]
+}

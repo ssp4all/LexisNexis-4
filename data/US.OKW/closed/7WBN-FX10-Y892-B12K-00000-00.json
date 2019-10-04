@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_593cr232_okwd",
+  "case_key": "5:93cr232_okwd",
+  "case_lni": "7WBN-FX10-Y892-B12K-00000-00",
+  "case_number": "5:93cr232",
+  "case_title": "USA v. Young",
+  "case_info_full_case_name": "USA v. Young",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Young",
+  "case_date_filed": "1993-11-16",
+  "case_status": "Closed",
+  "case_status_date": "03/09/1994",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kim S Kakish",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michelle Janine Young",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:856 MAINTAIN A PLACE FOR MANUFACTURE, DISTRIBUTION, OR USING CONTROLLED SUBSTANCES(1)"
+        },
+        {
+          "charge_disposition": "Dft is sentenced to custody of Bureau of Prisons 40 months; S/A fee $50.00;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Tim Leonard",
+          "judge_guid": "urn:entity:jud-100030116"
+        }
+      ]
+    }
+  ]
+}

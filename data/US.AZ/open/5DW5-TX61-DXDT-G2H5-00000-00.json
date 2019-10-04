@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_214po6408_AZD",
+  "case_key": "2:14po6408_AZD",
+  "case_lni": "5DW5-TX61-DXDT-G2H5-00000-00",
+  "case_number": "2:14po6408",
+  "case_title": "USA v. Luz",
+  "case_info_full_case_name": "USA v. Luz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Luz",
+  "case_date_filed": "2014-12-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edward Luz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "4315766/A11 - 38 CFR 1.218(a)"
+        },
+        {
+          "charge_disposition": "Fine: $125.00; Special Assessment: $25.00."
+        },
+        {
+          "charge_offence_description": "4315766/A11 - 38 CFR 1.218(a)\t\t\t\t\t\t\t\t\t\t\t\tFine: &"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David K Duncan",
+          "judge_guid": "urn:entity:jud-100056902"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_309cr118_INND",
+  "case_key": "3:09cr118_INND",
+  "case_lni": "7WN3-GY60-Y892-B032-00000-00",
+  "case_number": "3:09cr118",
+  "case_title": "United States of America v. Yazid",
+  "case_info_full_case_name": "United States of America v. Yazid",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Yazid",
+  "case_date_filed": "2009-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maraka Yazid",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)NARCOTICS-SELL, (CRACK)"
+        },
+        {
+          "charge_description": "21:841(a)(1)NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE COCAINE BASE (CRACK) A SCHEDULE II CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert L Miller, Jr",
+          "judge_guid": "urn:entity:jud-100036156"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_718po491_TXSD",
+  "case_key": "7:18po491_TXSD",
+  "case_lni": "5SB7-JG31-DXDT-G1P8-00000-00",
+  "case_number": "7:18po491",
+  "case_title": "USA v. Contreras-Ordonez",
+  "case_info_full_case_name": "USA v. Contreras-Ordonez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Contreras-Ordonez",
+  "case_date_filed": "2018-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Martha Guadalupe Contreras-Ordonez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

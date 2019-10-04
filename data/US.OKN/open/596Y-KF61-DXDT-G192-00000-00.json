@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_413cr159_OKND",
+  "case_key": "4:13cr159_OKND",
+  "case_lni": "596Y-KF61-DXDT-G192-00000-00",
+  "case_number": "4:13cr159",
+  "case_title": "USA v. Cooley",
+  "case_info_full_case_name": "USA v. Cooley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cooley",
+  "case_date_filed": "2013-08-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Catherine J Depew",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Loretta Finiece Radford",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 1343: Wire Fraud; Forfeiture Allegation: 18 USC 981(a)(1)(C) and 28 USC 2461(c): Wire Fraud Forfeiture(1)"
+        },
+        {
+          "charge_disposition": "BOP 55 months; SR 3 years; Restitution $770,457.32; SMA $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26 USC 7206(1): Willfully Making and Subscribing a False Federal Income Tax Return(4)"
+        },
+        {
+          "charge_disposition": "BOP 36 months concurrent to Ct 1; SR 1 year; SMA $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26 USC 7206(1): Willfully Making and Subscribing a False Federal Income Tax Return(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed at sentencing"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James H Payne",
+          "judge_guid": "urn:entity:jud-100024900"
+        }
+      ]
+    }
+  ]
+}

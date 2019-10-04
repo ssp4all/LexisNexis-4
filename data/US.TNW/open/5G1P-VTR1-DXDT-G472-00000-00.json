@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_114cr10021_TNWD",
+  "case_key": "1:14cr10021_TNWD",
+  "case_lni": "5G1P-VTR1-DXDT-G472-00000-00",
+  "case_number": "1:14cr10021",
+  "case_title": "USA v. Barnett",
+  "case_info_full_case_name": "USA v. Barnett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barnett",
+  "case_date_filed": "2014-03-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Matthew J. Wilson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "Gregory David Allen",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "John Barnett, III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a) CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "132 Months incarceration on each of Counts 1, 4 and 5, concurrent; 60 Months on Count 2 and 120 Months on Count 3, to be served concurrently, for a total sentence of 132 Months; 3 Years Supervised Released on each of Counts 1, 2, 3, 4 and 5 of the Indictment, to be served concurrently; $500.00 Special Assessment. No fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a) MARIJUANA - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "132 Months incarceration on each of Counts 1, 4 and 5, concurrent; 60 Months on Count 2 and 120 Months on Count 3, to be served concurrently, for a total sentence of 132 Months; 3 Years Supervised Released on each of Counts 1, 2, 3, 4 and 5 of the Indictment, to be served concurrently; $500.00 Special Assessment. No fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g) UNLAWFUL TRANSPORT OF FIREARMS, ETC.(3)"
+        },
+        {
+          "charge_disposition": "132 Months incarceration on each of Counts 1, 4 and 5, concurrent; 60 Months on Count 2 and 120 Months on Count 3, to be served concurrently, for a total sentence of 132 Months; 3 Years Supervised Released on each of Counts 1, 2, 3, 4 and 5 of the Indictment, to be served concurrently; $500.00 Special Assessment. No fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a) CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(4-5)"
+        },
+        {
+          "charge_disposition": "132 Months incarceration on each of Counts 1, 4 and 5, concurrent; 60 Months on Count 2 and 120 Months on Count 3, to be served concurrently, for a total sentence of 132 Months; 3 Years Supervised Released on each of Counts 1, 2, 3, 4 and 5 of the Indictment, to be served concurrently; $500.00 Special Assessment. No fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    }
+  ]
+}

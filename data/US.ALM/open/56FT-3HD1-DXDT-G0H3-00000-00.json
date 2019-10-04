@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_212cr156_ALMD",
+  "case_key": "2:12cr156_ALMD",
+  "case_lni": "56FT-3HD1-DXDT-G0H3-00000-00",
+  "case_number": "2:12cr156",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2012-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "A. Clark Morris",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Quincy B. Jones",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1958(a) RACKETEERING - MURDER(1)"
+        },
+        {
+          "charge_disposition": "120 Mos Imp (conc w/200 mos imposed in 1:11cr004-WKW); 3 Yrs Sup Rel (conc w/5 yrs imposed in 1:11cr004-WKW); $100 AF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "William Keith Watkins",
+          "judge_guid": "urn:entity:jud-100081962"
+        },
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Terry F. Moorer",
+          "judge_guid": "urn:entity:jud-100066258"
+        }
+      ]
+    }
+  ]
+}

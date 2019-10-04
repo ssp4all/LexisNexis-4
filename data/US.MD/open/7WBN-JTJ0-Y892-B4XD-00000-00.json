@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_108mj87_MDD",
+  "case_key": "1:08mj87_MDD",
+  "case_lni": "7WBN-JTJ0-Y892-B4XD-00000-00",
+  "case_number": "1:08mj87",
+  "case_title": "USA v. Estrada",
+  "case_info_full_case_name": "USA v. Estrada",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada",
+  "case_date_filed": "2008-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Tanya C. Estrada DEFENDANT",
+      "charges": [
+        {
+          "charge_description": "DRIVING UNINSURED VEHICLE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "James K. Bredar",
+          "judge_guid": "urn:entity:jud-100064383"
+        }
+      ]
+    }
+  ]
+}

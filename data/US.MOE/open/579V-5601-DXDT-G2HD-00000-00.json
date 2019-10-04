@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_412cr467_MOED",
+  "case_key": "4:12cr467_MOED",
+  "case_lni": "579V-5601-DXDT-G2HD-00000-00",
+  "case_number": "4:12cr467",
+  "case_title": "USA v. Blount",
+  "case_info_full_case_name": "USA v. Blount",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blount",
+  "case_date_filed": "2012-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sayler A. Fleming",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jerimiah Blount",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA(1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME(2r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM(3r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Audrey G. Fleissig",
+          "judge_guid": "urn:entity:jud-100046365"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas C. Mummert, III",
+          "judge_guid": "urn:entity:jud-100003227"
+        }
+      ]
+    }
+  ]
+}

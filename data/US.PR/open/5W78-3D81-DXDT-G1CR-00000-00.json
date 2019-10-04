@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_319mj1168_PRD",
+  "case_key": "3:19mj1168_PRD",
+  "case_lni": "5W78-3D81-DXDT-G1CR-00000-00",
+  "case_number": "3:19mj1168",
+  "case_title": "USA v. De La Paz-Cruz",
+  "case_info_full_case_name": "USA v. De La Paz-Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Paz-Cruz",
+  "case_date_filed": "2019-05-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "De La Paz-Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F -Controlled substance - sell, distribute or dispense, 18:924C.F - possession of a firearm in furtherance of a drug trafficking crime, 18:922G.F - possession of a firearm by a prohibited person, and with an obliterated serial number"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F -Controlled substance - sell, distrib"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Camille L. Velez-Rive",
+          "judge_guid": "urn:entity:jud-100017923"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    }
+  ]
+}

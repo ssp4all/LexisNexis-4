@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_413cr27_VAWD",
+  "case_key": "4:13cr27_VAWD",
+  "case_lni": "5PHG-CC71-DXDT-G2MT-00000-00",
+  "case_number": "4:13cr27",
+  "case_title": "USA v. Clark",
+  "case_info_full_case_name": "USA v. Clark",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clark",
+  "case_date_filed": "2013-12-02",
+  "case_status": "Closed",
+  "case_status_date": "12/02/2013",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Leon Revell Clark",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS - 8:1324(a)(1)(A)(v)(I), (a)(1)(A)(ii), and (a)(1)(B)(i) Conspiracy to transport undocumented aliens within the United States (2/14/13)(1)"
+        },
+        {
+          "charge_disposition": "CBOP: 7 months, concurrent as to Counts 1, 2 and 3 for a total of 7 months; SR: 3 years with special condition of 7 months in home confinement concurrent as to Counts 1, 2 and 3 for a total of 3 years; SA: $100.00 as to each count for a total of $300.00; fine waived; 120 hours of community service to be completed within first two years of supervision."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS - 8:1324(a)(1)(A)(ii) and (a)(1)(B)(i) Transportation of undocumented aliens within the United States (2/14/13)(2-3)"
+        },
+        {
+          "charge_disposition": "CBOP: 7 months, concurrent as to Counts 1, 2 and 3 for a total of 7 months; SR: 3 years with special condition of 7 months in home confinement concurrent as to Counts 1, 2 and 3 for a total of 3 years; SA: $100.00 as to each count for a total of $300.00; fine waived; 120 hours of community service to be completed within first two years of supervision."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jackson L. Kiser",
+          "judge_guid": "urn:entity:jud-100037240"
+        }
+      ]
+    }
+  ]
+}

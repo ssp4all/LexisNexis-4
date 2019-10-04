@@ -1,0 +1,97 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_203cr689_txwd",
+  "case_key": "2:03cr689_txwd",
+  "case_lni": "7WBN-GMN0-Y892-B2TW-00000-00",
+  "case_number": "2:03cr689",
+  "case_title": "USA v. Passarell",
+  "case_info_full_case_name": "USA v. Passarell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Passarell",
+  "case_date_filed": "2003-10-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN ALBERT PASSARELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=MP.F"
+        },
+        {
+          "charge_description": "21:841B=MP.F MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 846-unlawfully,"
+        },
+        {
+          "charge_description": "21:841 &; 846-unlawfully, knowingly and intentionally possess with intent to distribute a quantity of marijuana, a Schedule I Controlled Substance. [2:03-m-2620]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "CHRISTOPHER ZAMBRANO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=MP.F"
+        },
+        {
+          "charge_description": "21:841B=MP.F MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 846-unlawfully,"
+        },
+        {
+          "charge_description": "21:841 &; 846-unlawfully, knowingly and intentionally possess with intent to distribute a quantity of marijuana, a Schedule I Controlled Substance. [2:03-m-2620]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

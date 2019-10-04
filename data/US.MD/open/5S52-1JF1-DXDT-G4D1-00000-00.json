@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_818po2407_MDD",
+  "case_key": "8:18po2407_MDD",
+  "case_lni": "5S52-1JF1-DXDT-G4D1-00000-00",
+  "case_number": "8:18po2407",
+  "case_title": "USA vs Keen",
+  "case_info_full_case_name": "USA vs Keen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Keen",
+  "case_date_filed": "2018-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher M Keen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ATTEMPT BY DRIVE TO ELUDE UNIFORMED POLICE BY FAILING TO STOP VEH. (7212026)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVER CHANGING LANES WHEN UNSAFE (7212031)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "UNSAFE OPERATION (7212030)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATING VEHICLE AT SPEED IN EXCESS OF SPEED LIMIT (7212029)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "AGGRESSIVE DRIVING BY COMMITTING, AT THE SAME TIME OR DURING A SINGLE CONTINUOUS (7212028)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

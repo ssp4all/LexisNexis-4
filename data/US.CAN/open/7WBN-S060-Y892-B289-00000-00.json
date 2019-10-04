@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_399cr464_cand",
+  "case_key": "3:99cr464_cand",
+  "case_lni": "7WBN-S060-Y892-B289-00000-00",
+  "case_number": "3:99cr464",
+  "case_title": "USA v. Portillo",
+  "case_info_full_case_name": "USA v. Portillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Portillo",
+  "case_date_filed": "1999-10-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JEANETTE PORTILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708"
+        },
+        {
+          "charge_description": "18:1708 Possession of Stolen Mail (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:844(a)"
+        },
+        {
+          "charge_description": "21:844(a) Possession of a Controlled Substance (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1704"
+        },
+        {
+          "charge_description": "18:1704 Possession of Counterfeit Postal Keys (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC1708 18USC844"
+        },
+        {
+          "charge_description": "18 U.S.C. 1708 Mail theft 18 U.S.C. 844 Possession of controlled substances [3:99-m-30385]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Charles A. Legge",
+          "judge_guid": "urn:entity:jud-100039279"
+        }
+      ]
+    }
+  ]
+}

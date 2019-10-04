@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_198m387_hid",
+  "case_key": "1:98m387_hid",
+  "case_lni": "7WBN-R0J0-Y892-B50B-00000-00",
+  "case_number": "1:98m387",
+  "case_title": "USA v. Chalk",
+  "case_info_full_case_name": "USA v. Chalk",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chalk",
+  "case_date_filed": "1998-06-30",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BOBBY STEVE CHALK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(b)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(b) possess w/intent to distribute methamphetamine, Sched. II-06/29/98"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Francis I. Yamashita",
+          "judge_guid": "urn:entity:jud-100016542"
+        }
+      ]
+    }
+  ]
+}

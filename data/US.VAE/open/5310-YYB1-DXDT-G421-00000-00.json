@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_111mj431_VAED",
+  "case_key": "1:11mj431_VAED",
+  "case_lni": "5310-YYB1-DXDT-G421-00000-00",
+  "case_number": "1:11mj431",
+  "case_title": "USA v. Story",
+  "case_info_full_case_name": "USA v. Story",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Story",
+  "case_date_filed": "2011-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John J. Radacsy , IV",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jacob D. Story",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:661"
+        },
+        {
+          "charge_description": "18:661 Theft (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas Rawles Jones, Jr",
+          "judge_guid": "urn:entity:jud-100032961"
+        }
+      ]
+    }
+  ]
+}

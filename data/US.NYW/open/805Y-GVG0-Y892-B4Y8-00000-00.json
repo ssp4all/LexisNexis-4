@@ -1,0 +1,380 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_110cr233_NYWD",
+  "case_key": "1:10cr233_NYWD",
+  "case_lni": "805Y-GVG0-Y892-B4Y8-00000-00",
+  "case_number": "1:10cr233",
+  "case_title": "USA v. Martinez et al",
+  "case_info_full_case_name": "USA v. Martinez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez et al",
+  "case_date_filed": "2010-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1r)"
+        },
+        {
+          "charge_disposition": "The Defendant is sentenced to the custody of the BOP for a term of life and an 8 year term of Supervised Release. Conditions of Supervised release are as detailed in minute entry of 8/24/2016 . $100.00 Special Assessment imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1512K.F TAMPERING WITH A WITNESS, VICTIM OR INFORMANT(2r)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1512A.F and 1512(a)(3)(A) and 2 TAMPER W/WITNESS, VICTIM, INFORMANT (IF DEATH RESULTS)(3r)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) RETALIATING AGAINST WITNESS, VICTIM(4r)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) and 2 RETALIATING AGAINST WITNESS, VICTIM(5r)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F and 924(j)(1) and 2 VIOLENT CRIME/DRUGS/MACHINE GUN(6r)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William M. Skretny",
+          "judge_guid": "urn:entity:jud-100020854"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "H. Kenneth Schroeder, Jr",
+          "judge_guid": "urn:entity:jud-100026781"
+        }
+      ]
+    },
+    {
+      "party_name": "Angel Luis Marcial",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1512K.F TAMPERING WITH A WITNESS, VICTIM OR INFORMANT(2r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1512A.F and 1512(a)(3)(A) and 2 TAMPER W/WITNESS, VICTIM, INFORMANT (IF DEATH RESULTS)(3r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) RETALIATING AGAINST WITNESS, VICTIM(4r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) and 2 RETALIATING AGAINST WITNESS, VICTIM(5r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F and 924(j)(1) and 2 VIOLENT CRIME/DRUGS/MACHINE GUN(6r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William M. Skretny",
+          "judge_guid": "urn:entity:jud-100020854"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "H. Kenneth Schroeder, Jr",
+          "judge_guid": "urn:entity:jud-100026781"
+        }
+      ]
+    },
+    {
+      "party_name": "Juan DeJesus Santiago",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924C.F and 924(j)(1) and 2 VIOLENT CRIME/DRUGS/MACHINE GUN(6)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the Bureau of Prisons as for a term of Three Hundred Sixty (360) months as follows: One Hundred Eighty (180) months on Count 1ss, and One Hundred Eighty (180) months on Count 19ss in Case No. 6:08-CR-06210-006, to run concurrent to each other, and One Hundred Eighty (180) months on Count 6 in Case No. 1:10-CR-00233-003, to be served consecutively to the sentence imposed on Counts 1ss and 19ss, for a total term of Three Hundred Sixty (360) months (cost of incarceration fee waived); no fine; $100 special assessment on each count (Counts 1ss, 19ss and 6), for a total of $300; supervised release upon release from imprisonment as follows: Five (5) years on Count 1ss and Three (3)years on Count 19ss (6:08-CR-06210), and Five (5) years on Count 6 (1:10-CR-00233-003) to run concurrent, for a total term of Five (5) years; forfeiture of U.S. currency and Yamaha motorcycle; and other conditions as set forth."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1512K.F TAMPERING WITH A WITNESS, VICTIM OR INFORMANT(2)"
+        },
+        {
+          "charge_disposition": "Disposed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1512A.F and 1512(a)(3)(A) and 2 TAMPER W/WITNESS, VICTIM, INFORMANT (IF DEATH RESULTS)(3)"
+        },
+        {
+          "charge_disposition": "Disposed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) RETALIATING AGAINST WITNESS, VICTIM(4)"
+        },
+        {
+          "charge_disposition": "Disposed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) and 2 RETALIATING AGAINST WITNESS, VICTIM(5)"
+        },
+        {
+          "charge_disposition": "Disposed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Charles J. Siragusa",
+          "judge_guid": "urn:entity:jud-100065634"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "H. Kenneth Schroeder, Jr",
+          "judge_guid": "urn:entity:jud-100026781"
+        }
+      ]
+    },
+    {
+      "party_name": "Felix J. Vasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1512K.F TAMPERING WITH A WITNESS, VICTIM OR INFORMANT(2r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1512A.F and 1512(a)(3)(A) and 2 TAMPER W/WITNESS, VICTIM, INFORMANT (IF DEATH RESULTS)(3r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) RETALIATING AGAINST WITNESS, VICTIM(4r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) and 2 RETALIATING AGAINST WITNESS, VICTIM(5r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F and 924(j)(1) and 2 VIOLENT CRIME/DRUGS/MACHINE GUN(6r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William M. Skretny",
+          "judge_guid": "urn:entity:jud-100020854"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "H. Kenneth Schroeder, Jr",
+          "judge_guid": "urn:entity:jud-100026781"
+        }
+      ]
+    },
+    {
+      "party_name": "Carlos A. Canales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1512K.F TAMPERING WITH A WITNESS, VICTIM OR INFORMANT(2r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1512A.F and 1512(a)(3)(A) and 2 TAMPER W/WITNESS, VICTIM, INFORMANT (IF DEATH RESULTS)(3r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) RETALIATING AGAINST WITNESS, VICTIM(4r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1513.F and 1513(a)(2)(A) and 2 RETALIATING AGAINST WITNESS, VICTIM(5r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F and 924(j)(1) and 2 VIOLENT CRIME/DRUGS/MACHINE GUN(6r)"
+        },
+        {
+          "charge_disposition": "ACQUITTED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William M. Skretny",
+          "judge_guid": "urn:entity:jud-100020854"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "H. Kenneth Schroeder, Jr",
+          "judge_guid": "urn:entity:jud-100026781"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_500cr154_nced",
+  "case_key": "5:00cr154_nced",
+  "case_lni": "7WBN-S880-Y892-B4DD-00000-00",
+  "case_number": "5:00cr154",
+  "case_title": "USA v. Woods",
+  "case_info_full_case_name": "USA v. Woods",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Woods",
+  "case_date_filed": "2000-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KENNETH WOODS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(l) 18:2-Distribuiton"
+        },
+        {
+          "charge_description": "21:841(a)(l) &; 18:2-Distribuiton of Hydromorphone and Aiding and Abetting (30)"
+        },
+        {
+          "charge_disposition": "BOP-70 mos. remanded-rec: Intensive Conf. program-Sup Rel-3 yrs.-spec. conds.-$1,000. fine due immed.-Int. waived-$50.00 spec. assessment-statement of reasons (30)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Malcolm J. Howard",
+          "judge_guid": "urn:entity:jud-100051104"
+        }
+      ]
+    }
+  ]
+}

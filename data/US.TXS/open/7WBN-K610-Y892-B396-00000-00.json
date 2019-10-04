@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_197m3397_txsd",
+  "case_key": "1:97m3397_txsd",
+  "case_lni": "7WBN-K610-Y892-B396-00000-00",
+  "case_number": "1:97m3397",
+  "case_title": "USA v. Martinez-De Aguilar",
+  "case_info_full_case_name": "USA v. Martinez-De Aguilar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-De Aguilar",
+  "case_date_filed": "1997-12-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CELIA MARTINEZ-DE AGUILAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028(a)(4)"
+        },
+        {
+          "charge_description": "18:1028(a)(4) Knowingly possess an identification document (othern one issued lawfully for the use of the possesser) or a false identification document, with the intent such document be used to defraud the United States. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "Knowingly possess an identification document (other than one issued lawfully for the use of the possesser) or a false identification document, with the intent such document be used to defraud the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Fidencio Garza, Jr.",
+          "judge_guid": "urn:entity:jud-100054993"
+        }
+      ]
+    }
+  ]
+}

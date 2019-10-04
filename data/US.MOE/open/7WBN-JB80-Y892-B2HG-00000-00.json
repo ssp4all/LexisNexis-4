@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_101cr58_moed",
+  "case_key": "1:01cr58_moed",
+  "case_lni": "7WBN-JB80-Y892-B2HG-00000-00",
+  "case_number": "1:01cr58",
+  "case_title": "USA v. Workman",
+  "case_info_full_case_name": "USA v. Workman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Workman",
+  "case_date_filed": "2001-07-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL WORKMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CM.F"
+        },
+        {
+          "charge_description": "21:841A=CM.F CONTROLLED SUBSTANCE-ATTEMPT MANUFACTURE METHAMPHETAMINE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE-POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Rodney W. Sippel",
+          "judge_guid": "urn:entity:jud-100020898"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Lewis M. Blanton",
+          "judge_guid": "urn:entity:jud-100061414"
+        }
+      ]
+    }
+  ]
+}

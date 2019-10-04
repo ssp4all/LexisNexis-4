@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_214cr834_NMD",
+  "case_key": "2:14cr834_NMD",
+  "case_lni": "5BSG-V941-DXDT-G1KS-00000-00",
+  "case_number": "2:14cr834",
+  "case_title": "USA v. Santa Cruz-De La Cruz",
+  "case_info_full_case_name": "USA v. Santa Cruz-De La Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Santa Cruz-De La Cruz",
+  "case_date_filed": "2014-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Santa Cruz-De La Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and (b)REENTRY OF A REMOVED ALIEN(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 41 months, SPA 100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Reentry After Deportation - Aggravated Felony"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(2) Reentry After Deportation - Aggravate"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

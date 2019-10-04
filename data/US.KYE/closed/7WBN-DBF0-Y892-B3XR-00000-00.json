@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_298cr11_kyed",
+  "case_key": "2:98cr11_kyed",
+  "case_lni": "7WBN-DBF0-Y892-B3XR-00000-00",
+  "case_number": "2:98cr11",
+  "case_title": "USA v. Donovan",
+  "case_info_full_case_name": "USA v. Donovan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Donovan",
+  "case_date_filed": "1998-02-11",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PATRICK BRIAN DONOVAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE COCAINE (1)"
+        },
+        {
+          "charge_disposition": "SIXTY (60) MONTHS IMPRISONMENT FOUR (4) YEARS SUPERVISED RELEASE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:843(b)"
+        },
+        {
+          "charge_description": "21:843(b) USE COMMUNICATIONS FACILITY-CONTROLLED SUBSTANCE-DISTR. (2)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON USA MOTION (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC843(b)-use"
+        },
+        {
+          "charge_description": "Title 21, United States Code, Section 843(b)-use of a communciation facility to facilitate the commission of an act constituting a felony [2:98-m-2008]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

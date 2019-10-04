@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_516po728_WYD",
+  "case_key": "5:16po728_WYD",
+  "case_lni": "5KH8-MPM1-DXDT-G3D2-00000-00",
+  "case_number": "5:16po728",
+  "case_title": "USA v. Li",
+  "case_info_full_case_name": "USA v. Li",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Li",
+  "case_date_filed": "2016-08-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tieshan Li",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violating closures and use limits, to wit: flying a drone (6022070)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

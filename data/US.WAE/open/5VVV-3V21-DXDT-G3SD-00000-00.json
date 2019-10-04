@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_219mj166_WAED",
+  "case_key": "2:19mj166_WAED",
+  "case_lni": "5VVV-3V21-DXDT-G3SD-00000-00",
+  "case_number": "2:19mj166",
+  "case_title": "USA v. Mis-Balam",
+  "case_info_full_case_name": "USA v. Mis-Balam",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mis-Balam",
+  "case_date_filed": "2019-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Carlos Mis-Balam",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1325(a)(1), (2): ATTEMPT TO IMPROPERLY ENTER BY ALIEN, IMPROPER ENTRY BY ALIEN, AND ELUDING EXAMINATION OR INSPECTION BY IMMIGRATION OFFICER"
+        },
+        {
+          "charge_offence_description": "8 USC 1325(a)(1), (2): ATTEMPT TO IMPROPERLY ENTER"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Rodgers",
+          "judge_guid": "urn:entity:jud-100104663"
+        }
+      ]
+    }
+  ]
+}

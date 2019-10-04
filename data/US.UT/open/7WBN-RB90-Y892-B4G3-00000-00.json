@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_208mj198_UTD",
+  "case_key": "2:08mj198_UTD",
+  "case_lni": "7WBN-RB90-Y892-B4G3-00000-00",
+  "case_number": "2:08mj198",
+  "case_title": "USA v. Rottini",
+  "case_info_full_case_name": "USA v. Rottini",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rottini",
+  "case_date_filed": "2008-06-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Colby Rottini",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:641.M"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul M. Warner",
+          "judge_guid": "urn:entity:jud-100023364"
+        }
+      ]
+    }
+  ]
+}

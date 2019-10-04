@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_307cr2089_CASD",
+  "case_key": "3:07cr2089_CASD",
+  "case_lni": "7WBN-MVB0-Y892-B1GV-00000-00",
+  "case_number": "3:07cr2089",
+  "case_title": "USA v. Rodriguez-Mepfords",
+  "case_info_full_case_name": "USA v. Rodriguez-Mepfords",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Mepfords",
+  "case_date_filed": "2007-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sergio Rodriguez-Mepfords",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-Deported"
+        },
+        {
+          "charge_description": "8:1326-Deported Alien Found in the United States"
+        },
+        {
+          "charge_statute": "8:1326 (a) (b)-Deported (Felony)"
+        },
+        {
+          "charge_description": "8:1326 (a) and (b)-Deported Alien Found in the United States (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William Q. Hayes",
+          "judge_guid": "urn:entity:jud-100046969"
+        }
+      ]
+    }
+  ]
+}

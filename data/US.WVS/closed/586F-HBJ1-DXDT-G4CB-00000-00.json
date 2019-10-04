@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_213cr112_WVSD",
+  "case_key": "2:13cr112_WVSD",
+  "case_lni": "586F-HBJ1-DXDT-G4CB-00000-00",
+  "case_number": "2:13cr112",
+  "case_title": "United States of America v. Sowder",
+  "case_info_full_case_name": "United States of America v. Sowder",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Sowder",
+  "case_date_filed": "2013-04-15",
+  "case_status": "Closed",
+  "case_status_date": "09/16/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joshua C. Hanks",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jody Lowell Sowder",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "36 months imprisonment, 3 years supervised release, $100 special assessment. RESENTENCED to 8 months imprisonment and 28 months supervised release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John T. Copenhaver, Jr.",
+          "judge_guid": "urn:entity:jud-100058253"
+        }
+      ]
+    }
+  ]
+}

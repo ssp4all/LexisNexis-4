@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_513mj764_TXWD",
+  "case_key": "5:13mj764_TXWD",
+  "case_lni": "598N-2NR1-DXDT-G220-00000-00",
+  "case_number": "5:13mj764",
+  "case_title": "USA v. Jimenez, Jr.",
+  "case_info_full_case_name": "USA v. Jimenez, Jr.",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jimenez, Jr.",
+  "case_date_filed": "2013-09-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Luis Jimenez, Jr.",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John W. Primomo",
+          "judge_guid": "urn:entity:jud-100071867"
+        }
+      ]
+    }
+  ]
+}

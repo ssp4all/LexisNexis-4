@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_317cr82_TNMD",
+  "case_key": "3:17cr82_TNMD",
+  "case_lni": "5NJY-48C1-DXDT-G0JD-00000-00",
+  "case_number": "3:17cr82",
+  "case_title": "USA v. Young",
+  "case_info_full_case_name": "USA v. Young",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Young",
+  "case_date_filed": "2017-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Sara E. Myers",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tammy Young",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Felony Information 5/16/17: 18:1349  Conspiracy to commit wire fraud(1)"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Count 1. Imprisonment for 15 months. Deft to self-report on 12/3/18. Two years Supervised release, with conditions. $100 special assessment. $550,001 restitution. Forfeiture by Consent Order of Forfeiture Consisting of a $550,001 United States Currency Money Judgment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Aleta A. Trauger",
+          "judge_guid": "urn:entity:jud-100006326"
+        }
+      ]
+    }
+  ]
+}

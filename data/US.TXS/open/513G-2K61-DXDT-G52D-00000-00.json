@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_710mj2615_TXSD",
+  "case_key": "7:10mj2615_TXSD",
+  "case_lni": "513G-2K61-DXDT-G52D-00000-00",
+  "case_number": "7:10mj2615",
+  "case_title": "USA v. Saavedra-Moreno",
+  "case_info_full_case_name": "USA v. Saavedra-Moreno",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Saavedra-Moreno",
+  "case_date_filed": "2010-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Angel Saavedra-Moreno",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

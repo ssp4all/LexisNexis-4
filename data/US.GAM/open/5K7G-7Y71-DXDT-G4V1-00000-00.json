@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_316cr19_GAMD",
+  "case_key": "3:16cr19_GAMD",
+  "case_lni": "5K7G-7Y71-DXDT-G4V1-00000-00",
+  "case_number": "3:16cr19",
+  "case_title": "UNITED STATES OF AMERICA v. ZUNIGA",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. ZUNIGA",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "ZUNIGA",
+  "case_date_filed": "2016-07-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "PETER D LEARY",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSHUA ZUNIGA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2422(b) and 18:2425 USE INTERSTATE FACILITIES TO TRANSMIT INFO ABOUT MINOR - Use of Facilities in Interstate and Foreign Commerce to Transmit Information about a Minor(1s)"
+        },
+        {
+          "charge_disposition": "46 months imprisonment; 5 years supervised release; $100 MAF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2422(b) COERCION OR ENTICEMENT OF FEMALE - Attempted Online Enticement of a Minor(1)"
+        },
+        {
+          "charge_disposition": "Count superseded."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "C ASHLEY ROYAL",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

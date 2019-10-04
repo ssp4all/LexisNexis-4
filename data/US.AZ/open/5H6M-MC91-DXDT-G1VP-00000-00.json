@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415po31085_AZD",
+  "case_key": "4:15po31085_AZD",
+  "case_lni": "5H6M-MC91-DXDT-G1VP-00000-00",
+  "case_number": "4:15po31085",
+  "case_title": "USA v. Texocotitan-Sayago",
+  "case_info_full_case_name": "USA v. Texocotitan-Sayago",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Texocotitan-Sayago",
+  "case_date_filed": "2015-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Samuel Texocotitan-Sayago",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

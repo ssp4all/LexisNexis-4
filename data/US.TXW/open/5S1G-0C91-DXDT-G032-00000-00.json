@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_318cr836_TXWD",
+  "case_key": "3:18cr836_TXWD",
+  "case_lni": "5S1G-0C91-DXDT-G032-00000-00",
+  "case_number": "3:18cr836",
+  "case_title": "USA v. Ramirez-Perez",
+  "case_info_full_case_name": "USA v. Ramirez-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Perez",
+  "case_date_filed": "2018-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert Jerome White",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Edgar Ramirez-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F---Methamphetamine - Sell, Distribute, or Dispense"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F---Methamphetamine - Sell, Distribute,"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank Montalvo",
+          "judge_guid": "urn:entity:jud-100016084"
+        }
+      ]
+    }
+  ]
+}

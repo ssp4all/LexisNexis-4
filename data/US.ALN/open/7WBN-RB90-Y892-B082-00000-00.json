@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_208cr264_ALND",
+  "case_key": "2:08cr264_ALND",
+  "case_lni": "7WBN-RB90-Y892-B082-00000-00",
+  "case_number": "2:08cr264",
+  "case_title": "USA v. Pinkney",
+  "case_info_full_case_name": "USA v. Pinkney",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pinkney",
+  "case_date_filed": "2008-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "USM",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Albert Pinkney",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)UNLAWFUL"
+        },
+        {
+          "charge_description": "18:922(g)(1)UNLAWFUL TRANSPORT OF FIREARMS, ETC. Convicted Felon (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "R David Proctor",
+          "judge_guid": "urn:entity:jud-100032046"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul W Greene",
+          "judge_guid": "urn:entity:jud-100079482"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_102cr20_alnd",
+  "case_key": "1:02cr20_alnd",
+  "case_lni": "7WBN-JCJ0-Y892-B33M-00000-00",
+  "case_number": "1:02cr20",
+  "case_title": "USA v. Hill",
+  "case_info_full_case_name": "USA v. Hill",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hill",
+  "case_date_filed": "2002-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES H HILL",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "U W Clemon",
+          "judge_guid": "urn:entity:jud-100097689"
+        },
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "John E Ott",
+          "judge_guid": "urn:entity:jud-100025291"
+        }
+      ]
+    }
+  ]
+}

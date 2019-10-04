@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_412mj296_TXND",
+  "case_key": "4:12mj296_TXND",
+  "case_lni": "5663-WB11-DXDT-G2C6-00000-00",
+  "case_number": "4:12mj296",
+  "case_title": "USA v. Sanchez Ahumada",
+  "case_info_full_case_name": "USA v. Sanchez Ahumada",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez Ahumada",
+  "case_date_filed": "2012-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "J Michael Worley-DOJ <I>Bar Status: Government Attorney</I>",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Sanchez Ahumada",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 (a) (b)(1)(2)"
+        },
+        {
+          "charge_description": "8:1326 (a) &; (b)(1)(2) Reentry of deported alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeffrey L Cureton",
+          "judge_guid": "urn:entity:jud-100017718"
+        }
+      ]
+    }
+  ]
+}

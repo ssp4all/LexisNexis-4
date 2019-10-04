@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_104m37_txwd",
+  "case_key": "1:04m37_txwd",
+  "case_lni": "7WBN-D3Y0-Y892-B00S-00000-00",
+  "case_number": "1:04m37",
+  "case_title": "USA v. Hernandez",
+  "case_info_full_case_name": "USA v. Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez",
+  "case_date_filed": "2004-02-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN HERNANDEZ III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Defendant did possession of a firearm by felon; possession of a firearm by a drug user/addict; possession of body armor by a person convicted of a felony crime of violence in violation of Title 18:922"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert Pitman",
+          "judge_guid": "urn:entity:jud-100032905"
+        }
+      ]
+    }
+  ]
+}

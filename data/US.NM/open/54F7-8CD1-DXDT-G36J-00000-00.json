@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_211po2286_NMD",
+  "case_key": "2:11po2286_NMD",
+  "case_lni": "54F7-8CD1-DXDT-G36J-00000-00",
+  "case_number": "2:11po2286",
+  "case_title": "USA v. Cisneros",
+  "case_info_full_case_name": "USA v. Cisneros",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cisneros",
+  "case_date_filed": "2011-12-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ana Maria Cisneros",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a)(1)"
+        },
+        {
+          "charge_description": "8:1325(a)(1) Illegal Entry Without Inspection"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_511cr334_OKWD",
+  "case_key": "5:11cr334_OKWD",
+  "case_lni": "5431-3MK1-DXDT-G2GT-00000-00",
+  "case_number": "5:11cr334",
+  "case_title": "United States of America v. Pimson",
+  "case_info_full_case_name": "United States of America v. Pimson",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Pimson",
+  "case_date_filed": "2011-10-24",
+  "case_status": "Closed",
+  "case_status_date": "07/25/2012",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Venus Marie Pimson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 CONSPIRACY TO COMMIT WIRE FRAUD(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the Bureau of Prisons for a term of 30 months on Count 1 of the Information; Supervised Release of 3 yrs on Count 1; dft ordered to pay restitution in the amount of $2,778,177.25, joint and several w/Dwight Pimson and Joseph Sivigliano; S/A fee $100 due immediately; Court recommends FMC Carswell TX; execution of sentence stayed until 12:00 noon, 9/4/12"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David L. Russell",
+          "judge_guid": "urn:entity:jud-100000717"
+        }
+      ]
+    }
+  ]
+}

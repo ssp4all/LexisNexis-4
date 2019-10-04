@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_017cr60140_FLSD",
+  "case_key": "0:17cr60140_FLSD",
+  "case_lni": "5NP8-3H81-DXDT-G3TW-00000-00",
+  "case_number": "0:17cr60140",
+  "case_title": "USA v. O'Reilly",
+  "case_info_full_case_name": "USA v. O'Reilly",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "O'Reilly",
+  "case_date_filed": "2017-06-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Shannon Kelley Shaw",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Yuanki Oliva O'Reilly",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:401 Contempt of Court(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:3146 Failure to Appear(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "James I. Cohn",
+          "judge_guid": "urn:entity:jud-100062368"
+        }
+      ]
+    }
+  ]
+}

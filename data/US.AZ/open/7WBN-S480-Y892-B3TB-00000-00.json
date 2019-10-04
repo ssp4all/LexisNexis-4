@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_407mj4528_AZD",
+  "case_key": "4:07mj4528_AZD",
+  "case_lni": "7WBN-S480-Y892-B3TB-00000-00",
+  "case_number": "4:07mj4528",
+  "case_title": "USA v. Baez-Rojas et al",
+  "case_info_full_case_name": "USA v. Baez-Rojas et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baez-Rojas et al",
+  "case_date_filed": "2007-04-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Susan Amanda Baumann",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Manuel Baez-Rojas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii) 1324(a)(1)(B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) and 1324(a)(1)(B)(i) Transportation of Illegal Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "Agustin Barrales-Barrales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii) 1324(a)(1)(B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) and 1324(a)(1)(B)(i) Transportation of Illegal Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    },
+    {
+      "party_description": "material witness"
+    }
+  ]
+}

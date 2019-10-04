@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_196cr206_vaed",
+  "case_key": "1:96cr206_vaed",
+  "case_lni": "7WBN-PXM0-Y892-B2K2-00000-00",
+  "case_number": "1:96cr206",
+  "case_title": "USA v. Saunders",
+  "case_info_full_case_name": "USA v. Saunders",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Saunders",
+  "case_date_filed": "1996-05-24",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Timothy J. Shea",
+      "attorney_label": "[COR LD]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEWIS SAUNDERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "22DCC2603 (loaded.32 (4-30-96)"
+        },
+        {
+          "charge_description": "22 DCC 2603 Introduction of contraband (loaded.32 caliber revolver) into Lorton Reformatory (4-30-96) (1)"
+        },
+        {
+          "charge_disposition": "48 mos. w/3 year super. release term (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "22 2603"
+        },
+        {
+          "charge_description": "Introduction of contraband to Lorton in viol. of 22 DC Code 2603 [1:96-m-343]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

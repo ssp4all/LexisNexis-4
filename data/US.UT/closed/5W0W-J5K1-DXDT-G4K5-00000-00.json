@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_218cr323_UTD",
+  "case_key": "2:18cr323_UTD",
+  "case_lni": "5W0W-J5K1-DXDT-G4K5-00000-00",
+  "case_number": "2:18cr323",
+  "case_title": "USA v. Bates",
+  "case_info_full_case_name": "USA v. Bates",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bates",
+  "case_date_filed": "2018-06-27",
+  "case_status": "Closed",
+  "case_status_date": "06/25/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Adam S. Elggren",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard Legrand Bates",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(9) UNLAWFUL TRANSPORT OF FIREARMS, ETC. Person Convicted of Misdemeanor Crime of Domestic Violence in Possession of a Firearm and Ammunition; 18:924(d) and 28:2461(c) Intent to Seek Forfeiture(1)"
+        },
+        {
+          "charge_disposition": "Dft pleaded guilty. SENTENCE: BOP: 27 months. S/R: 36 months. No fine. SPA: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dale A. Kimball",
+          "judge_guid": "urn:entity:jud-100037389"
+        }
+      ]
+    },
+    {
+      "party_name": "Pretrial Noticing",
+      "party_description": "Notice Party",
+      "charges": [
+        {
+          "charge_offence_description": "Pretrial NoticingTERMINATED: 08/08/2019"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dale A. Kimball",
+          "judge_guid": "urn:entity:jud-100037389"
+        }
+      ]
+    },
+    {
+      "party_name": "Jennifer L. Gaston",
+      "party_description": "Notice Party",
+      "charges": [
+        {
+          "charge_description": "Jennifer L. Gaston"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Jennifer L. Gaston\t\trepresented&nbsp;byJennifer "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dale A. Kimball",
+          "judge_guid": "urn:entity:jud-100037389"
+        }
+      ]
+    }
+  ]
+}

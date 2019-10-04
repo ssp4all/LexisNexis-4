@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412mj7369_AZD",
+  "case_key": "4:12mj7369_AZD",
+  "case_lni": "574B-HWV1-DXDT-G0NB-00000-00",
+  "case_number": "4:12mj7369",
+  "case_title": "USA v. Almeida-Velarde",
+  "case_info_full_case_name": "USA v. Almeida-Velarde",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Almeida-Velarde",
+  "case_date_filed": "2012-11-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jesus Raul Almeida-Velarde",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(vii); Possession w/ Intent to Distribute Methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and 841(b)(1)(A)(vii); Possession w/ "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

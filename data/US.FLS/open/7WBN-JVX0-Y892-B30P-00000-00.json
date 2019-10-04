@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_109mj2394_FLSD",
+  "case_key": "1:09mj2394_FLSD",
+  "case_lni": "7WBN-JVX0-Y892-B30P-00000-00",
+  "case_number": "1:09mj2394",
+  "case_title": "USA v. Odoni",
+  "case_info_full_case_name": "USA v. Odoni",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Odoni",
+  "case_date_filed": "2009-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Simon Andrew Odoni",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    }
+  ]
+}

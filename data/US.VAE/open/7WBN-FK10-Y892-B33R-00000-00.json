@@ -1,0 +1,97 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_307cr394_VAED",
+  "case_key": "3:07cr394_VAED",
+  "case_lni": "7WBN-FK10-Y892-B33R-00000-00",
+  "case_number": "3:07cr394",
+  "case_title": "USA v. Wilkins",
+  "case_info_full_case_name": "USA v. Wilkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wilkins",
+  "case_date_filed": "2007-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sara Elizabeth Chase",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ernest J. Wilkins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13, 46.2-357(B)(3)Driving 6th"
+        },
+        {
+          "charge_description": "18:13, assimilating VA Code 46.2-357(B)(3)Driving as an Habitual Offender, 6th Offense (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:13, 18.2-266 18.2-270"
+        },
+        {
+          "charge_description": "18:13, assimilating VA Code 18.2-266 and 18.2-270 Driving Under the Influence of Alcohol (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:13, 46.2-357(B)(2)"
+        },
+        {
+          "charge_description": "18:13, assimilating VA Code 46.2-357(B)(2) Driving Under the Influence of Alcohol, as an Habitual Offender (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:3118"
+        },
+        {
+          "charge_description": "18:3118 Refusal (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:13, 46.2-613(a)(2)"
+        },
+        {
+          "charge_description": "18:13, assimilating VA Code 46.2-613(a)(2) Using License Plates from Another Vehicle (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "32:634.25(f), 46.2-878"
+        },
+        {
+          "charge_description": "32:634.25(f), assimilating VA Code 46.2-878 Speeding (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Richard L. Williams",
+          "judge_guid": "urn:entity:jud-100096844"
+        }
+      ]
+    }
+  ]
+}

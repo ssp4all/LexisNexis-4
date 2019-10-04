@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_115mj218_OHSD",
+  "case_key": "1:15mj218_OHSD",
+  "case_lni": "5FPR-W1R1-DXDT-G150-00000-00",
+  "case_number": "1:15mj218",
+  "case_title": "USA v. Lowry",
+  "case_info_full_case_name": "USA v. Lowry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lowry",
+  "case_date_filed": "2015-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christy L Muncy",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Martell Lowry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2251.F COERCION AND ENTICEMENT, PRODUCTION OF CHILD PORNOGRAPHY, RECEIPT AND POSSESSION OF CHILD PORNOGRAPHY"
+        },
+        {
+          "charge_offence_description": "18:2251.F COERCION AND ENTICEMENT, PRODUCTION OF C"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen L. Litkovitz",
+          "judge_guid": "urn:entity:jud-100075759"
+        }
+      ]
+    }
+  ]
+}

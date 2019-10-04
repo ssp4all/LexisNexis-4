@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_507cr585_TXWD",
+  "case_key": "5:07cr585_TXWD",
+  "case_lni": "7WBN-SC30-Y892-B0HB-00000-00",
+  "case_number": "5:07cr585",
+  "case_title": "USA v. Bazan",
+  "case_info_full_case_name": "USA v. Bazan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bazan",
+  "case_date_filed": "2007-10-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joey Contreras",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Bazan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F-Possess"
+        },
+        {
+          "charge_description": "21:841A=MD.F-Possess with intent to distribute Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "100 21USC841(b)(1)(B),"
+        },
+        {
+          "charge_description": "Possess more than 100 kilograms of marijuana with intent to distribute, in violation of 21 USC 841(b)(1)(B), 21:841A=MD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Orlando L. Garcia",
+          "judge_guid": "urn:entity:jud-100055086"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_301cr219_vaed",
+  "case_key": "3:01cr219_vaed",
+  "case_lni": "7WBN-RKJ0-Y892-B432-00000-00",
+  "case_number": "3:01cr219",
+  "case_title": "USA v. Shelton",
+  "case_info_full_case_name": "USA v. Shelton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shelton",
+  "case_date_filed": "2001-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DETWON LAMONT SHELTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 (\"Crack\")"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to distribute and possess w/intent to distribute cocaine base (\"Crack\") [21:846=ND.F] (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC846 841-CONSPIRACY 50"
+        },
+        {
+          "charge_description": "21 U.S.C. 846 and 841-CONSPIRACY TO DISTRIBUTE; POSSESS WITH INTENT TO DISTRIBUTE 50 GRAMS OR MORE OF CRACK [3:01-m-174]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert E. Payne",
+          "judge_guid": "urn:entity:jud-100028253"
+        }
+      ]
+    }
+  ]
+}

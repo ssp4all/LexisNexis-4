@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_300m374_txnd",
+  "case_key": "3:00m374_txnd",
+  "case_lni": "7WBN-H400-Y892-B4BB-00000-00",
+  "case_number": "3:00m374",
+  "case_title": "USA v. Jefferson",
+  "case_info_full_case_name": "USA v. Jefferson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jefferson",
+  "case_date_filed": "2000-10-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MYRON DURAND JEFFERSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "9/6/00 21USC846, 841(a)(1)"
+        },
+        {
+          "charge_description": "First Superseding indictment filed 9/6/00 in the Eastern District of Michigan, Southern Division, charging Conspiracy to Distribute Cocaine, in violation of 21 USC 846, 841(a)(1) and (b)(1)(A)(ii)&;(iii)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul D Stickney",
+          "judge_guid": "urn:entity:jud-100013954"
+        }
+      ]
+    }
+  ]
+}

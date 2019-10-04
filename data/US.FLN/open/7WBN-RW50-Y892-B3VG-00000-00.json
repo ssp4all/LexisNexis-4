@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_393cr3081_flnd",
+  "case_key": "3:93cr3081_flnd",
+  "case_lni": "7WBN-RW50-Y892-B3VG-00000-00",
+  "case_number": "3:93cr3081",
+  "case_title": "USA v. MITCHELL",
+  "case_info_full_case_name": "USA v. MITCHELL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MITCHELL",
+  "case_date_filed": "1993-07-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PAUL ANTHONY MITCHELL",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "SENIOR JUDGE",
+          "judge_name": "ROGER VINSON",
+          "judge_guid": "urn:entity:jud-100010227"
+        }
+      ]
+    }
+  ]
+}

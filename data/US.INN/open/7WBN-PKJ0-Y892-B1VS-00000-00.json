@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_102cr9_innd",
+  "case_key": "1:02cr9_innd",
+  "case_lni": "7WBN-PKJ0-Y892-B1VS-00000-00",
+  "case_number": "1:02cr9",
+  "case_title": "USA v. Kryder",
+  "case_info_full_case_name": "USA v. Kryder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kryder",
+  "case_date_filed": "2002-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LORI A KRYDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(a)(6)"
+        },
+        {
+          "charge_description": "18:922(a)(6) FALSE STATEMENTS (1-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "William C Lee",
+          "judge_guid": "urn:entity:jud-100039317"
+        }
+      ]
+    }
+  ]
+}

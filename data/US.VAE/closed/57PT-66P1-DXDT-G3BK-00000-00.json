@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_113mj74_VAED",
+  "case_key": "1:13mj74_VAED",
+  "case_lni": "57PT-66P1-DXDT-G3BK-00000-00",
+  "case_number": "1:13mj74",
+  "case_title": "USA v. Pollard",
+  "case_info_full_case_name": "USA v. Pollard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pollard",
+  "case_date_filed": "2013-02-08",
+  "case_status": "Closed",
+  "case_status_date": "04/10/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "May Sena",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ashley N. Pollard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "32 CFR 634.25(f) adopting VA Code 46.2-869 Improper Driving(1)"
+        },
+        {
+          "charge_disposition": "Fine $25.00 S/A $10.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas Rawles Jones, Jr",
+          "judge_guid": "urn:entity:jud-100032961"
+        }
+      ]
+    }
+  ]
+}

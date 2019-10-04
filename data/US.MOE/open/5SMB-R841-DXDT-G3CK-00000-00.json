@@ -1,0 +1,117 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_418cr527_MOED",
+  "case_key": "4:18cr527_MOED",
+  "case_lni": "5SMB-R841-DXDT-G3CK-00000-00",
+  "case_number": "4:18cr527",
+  "case_title": "USA v. Eason et al",
+  "case_info_full_case_name": "USA v. Eason et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Eason et al",
+  "case_date_filed": "2018-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leroy Eason, III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE HEROIN(100g+)(1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM(2r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Catherine D. Perry",
+          "judge_guid": "urn:entity:jud-100028090"
+        }
+      ]
+    },
+    {
+      "party_name": "Mark Lamont Malone, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE HEROIN(100g+)(1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE CONTROLLED SUBSTANCE (NO QUANTITY)(3r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION OF FIREARMS IN FURTHERANCE OF DRUG-TRAFFICKING CRIME(4r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F:       Count I: POSSESSION WITH INTENT TO DISTRIBUTION OF HEROIN,     Count II: 18:924C.F:        POSSESSION OF A FIREARM(S) IN FURTHERANCE OF A DRUG-TRAFFICKING CRIME"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F:       Count I: POSSESSION WITH INTEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Catherine D. Perry",
+          "judge_guid": "urn:entity:jud-100028090"
+        }
+      ]
+    },
+    {
+      "party_name": "Jason Logan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE HEROIN(100g+)(1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM(5r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Catherine D. Perry",
+          "judge_guid": "urn:entity:jud-100028090"
+        }
+      ]
+    }
+  ]
+}

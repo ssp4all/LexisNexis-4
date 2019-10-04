@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_717cr398_TXSD",
+  "case_key": "7:17cr398_TXSD",
+  "case_lni": "5N3G-XWK1-DXDT-G1JB-00000-00",
+  "case_number": "7:17cr398",
+  "case_title": "USA v. Nicolas-Dominguez",
+  "case_info_full_case_name": "USA v. Nicolas-Dominguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nicolas-Dominguez",
+  "case_date_filed": "2017-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rolando David Cantu",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Nicolas-Dominguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326.F"
+        },
+        {
+          "charge_offence_description": "8:1326.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

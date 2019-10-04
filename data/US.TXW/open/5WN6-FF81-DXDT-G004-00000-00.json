@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_519mj917_TXWD",
+  "case_key": "5:19mj917_TXWD",
+  "case_lni": "5WN6-FF81-DXDT-G004-00000-00",
+  "case_number": "5:19mj917",
+  "case_title": "USA v. Shannon",
+  "case_info_full_case_name": "USA v. Shannon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shannon",
+  "case_date_filed": "2019-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kevin Warren Shannon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. ยง841(a)(1) and 841(b) Possession with intent to distribute Methamphetamine    18 US.C. ยง924(c) Possession of a firearm in furtherance of Drug Trafficking Crime"
+        },
+        {
+          "charge_offence_description": "21 U.S.C. &#167;841(a)(1) and 841(b) Possession wi"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry J. Bemporad",
+          "judge_guid": "urn:entity:jud-100102323"
+        }
+      ]
+    }
+  ]
+}

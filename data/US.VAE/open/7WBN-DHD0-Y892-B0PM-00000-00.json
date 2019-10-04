@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_105cr252_VAED",
+  "case_key": "1:05cr252_VAED",
+  "case_lni": "7WBN-DHD0-Y892-B0PM-00000-00",
+  "case_number": "1:05cr252",
+  "case_title": "USA v. Manson",
+  "case_info_full_case_name": "USA v. Manson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Manson",
+  "case_date_filed": "2005-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Manson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113(a) (03.16.05)"
+        },
+        {
+          "charge_description": "18:2113(a) Bank Robbery (03.16.05) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2113(a)"
+        },
+        {
+          "charge_description": "18:2113(a) Unarmed Bank Robbery"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "T. S. Ellis, III",
+          "judge_guid": "urn:entity:jud-100076266"
+        }
+      ]
+    }
+  ]
+}

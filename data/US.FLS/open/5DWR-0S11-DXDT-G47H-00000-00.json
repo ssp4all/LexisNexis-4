@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_114mj3549_FLSD",
+  "case_key": "1:14mj3549_FLSD",
+  "case_lni": "5DWR-0S11-DXDT-G47H-00000-00",
+  "case_number": "1:14mj3549",
+  "case_title": "USA v. Givens",
+  "case_info_full_case_name": "USA v. Givens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Givens",
+  "case_date_filed": "2014-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alvin Jason Givens",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "WARRANT AND INDICTMENT OUT OF THE EASTER DISTRICT OF KENTUCKY. VIOLATION: 21:846=CD.F CONSPIRACY DISTRIBUTE A CONTROLLED SUBSTANCE"
+        },
+        {
+          "charge_offence_description": "WARRANT AND INDICTMENT OUT OF THE EASTER DISTRICT "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alicia M. Otazo-Reyes",
+          "judge_guid": "urn:entity:jud-100102129"
+        }
+      ]
+    }
+  ]
+}

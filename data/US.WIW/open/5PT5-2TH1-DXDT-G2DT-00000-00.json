@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_317cr102_WIWD",
+  "case_key": "3:17cr102_WIWD",
+  "case_lni": "5PT5-2TH1-DXDT-G2DT-00000-00",
+  "case_number": "3:17cr102",
+  "case_title": "United States of America v. Solis-Ramos, Luis",
+  "case_info_full_case_name": "United States of America v. Solis-Ramos, Luis",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Solis-Ramos, Luis",
+  "case_date_filed": "2017-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Solis-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James D. Peterson",
+          "judge_guid": "urn:entity:jud-100107063"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_113mj4096_MOED",
+  "case_key": "1:13mj4096_MOED",
+  "case_lni": "58RD-96X1-DXDT-G42N-00000-00",
+  "case_number": "1:13mj4096",
+  "case_title": "USA v. Suppressed",
+  "case_info_full_case_name": "USA v. Suppressed",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Suppressed",
+  "case_date_filed": "2013-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Suppressed",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "APPLICATION"
+        },
+        {
+          "charge_offence_description": "APPLICATION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lewis M. Blanton",
+          "judge_guid": "urn:entity:jud-100061414"
+        }
+      ]
+    }
+  ]
+}

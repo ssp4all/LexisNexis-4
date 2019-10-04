@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_615cr14_FLMD",
+  "case_key": "6:15cr14_FLMD",
+  "case_lni": "5F5W-YNK1-DXDT-G50V-00000-00",
+  "case_number": "6:15cr14",
+  "case_title": "USA v. Perez-Astudillo",
+  "case_info_full_case_name": "USA v. Perez-Astudillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Astudillo",
+  "case_date_filed": "2015-01-28",
+  "case_status": "Closed",
+  "case_status_date": "06/11/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Reyes Perez-Astudillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F  REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 24 months. The defendant is remanded to the custody of the United States Marshal. SUPERVISED RELEASE: Not ordered. If deported, defendant shall not re-enter the United States without express permission of the appropriate governmental authority. The defendant, having been convicted of a qualifying felony, shall cooperate in the collection of DNA. Mandatory drug testing is waived. SPECIAL ASSESSMENT of $100.00 is due immediately. FINE: waived. Defendant advised of right to appeal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Anne C. Conway",
+          "judge_guid": "urn:entity:jud-100049795"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas B. Smith",
+          "judge_guid": "urn:entity:jud-100020624"
+        }
+      ]
+    }
+  ]
+}

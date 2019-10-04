@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_207cr1095_TXWD",
+  "case_key": "2:07cr1095_TXWD",
+  "case_lni": "7WBN-KV50-Y892-B2V9-00000-00",
+  "case_number": "2:07cr1095",
+  "case_title": "USA v. Castillo",
+  "case_info_full_case_name": "USA v. Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo",
+  "case_date_filed": "2007-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mark Castillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952A=NI.F"
+        },
+        {
+          "charge_description": "21:952A=NI.F NARCOTICS-IMPORT COCAINE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952A=NI.F"
+        },
+        {
+          "charge_description": "21:952A=NI.F NARCOTICS-IMPORT COCAINE BASE, OR\"CRACK COCAINE\"(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC951 960-Import"
+        },
+        {
+          "charge_description": "21 USC 951 &; 960-Import and cause to be imported a quantity of cocaine, a Schedule II Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable"
+        }
+      ]
+    }
+  ]
+}

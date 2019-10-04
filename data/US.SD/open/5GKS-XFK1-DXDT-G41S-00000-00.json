@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_415cr40096_SDD",
+  "case_key": "4:15cr40096_SDD",
+  "case_lni": "5GKS-XFK1-DXDT-G41S-00000-00",
+  "case_number": "4:15cr40096",
+  "case_title": "USA v. Nielsen",
+  "case_info_full_case_name": "USA v. Nielsen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nielsen",
+  "case_date_filed": "2015-08-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bethany Renae Nielsen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. ยง 843(a)(3) OBTAINING CONTROLLED SUBSTANCE BY FRAUD, DECEPTION AND SUBTERFUGE(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 U.S.C. ยง 843(a)(2) USE OF REGISTRATION ISSUED TO ANOTHER PERSON(3-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Karen E. Schreier",
+          "judge_guid": "urn:entity:jud-100030778"
+        },
+        {
+          "judge_name": "US Magistrate Judge Veronica L. Duffy",
+          "judge_guid": "urn:entity:jud-100008272"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_016cr60333_FLSD",
+  "case_key": "0:16cr60333_FLSD",
+  "case_lni": "5M6S-9YX1-DXDT-G1NR-00000-00",
+  "case_number": "0:16cr60333",
+  "case_title": "USA v. Oldenstam",
+  "case_info_full_case_name": "USA v. Oldenstam",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Oldenstam",
+  "case_date_filed": "2016-11-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kevin Neil Oldenstam",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "26 U.S.C. § 5861(d) POSSESSION OF AN UNREGISTERED NATIONAL FIREARMS ACT WEAPON(1)"
+        },
+        {
+          "charge_disposition": "PROBATION: 5 Years as to Counts 1, 2, 3, and 16 to run Concurrent. ASSESSMENT: $400.00. FINE: $5,000.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. § 922(a)(1)(A) DEALING IN FIREARMS WITHOUT A LICENSE(2)"
+        },
+        {
+          "charge_disposition": "PROBATION: 5 Years as to Counts 1, 2, 3, and 16 to run Concurrent. ASSESSMENT: $400.00. FINE: $5,000.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. § 922(a)(6) MAKING FALSE STATEMENTS TO FIREARMS DEALERS(3)"
+        },
+        {
+          "charge_disposition": "PROBATION: 5 Years as to Counts 1, 2, 3, and 16 to run Concurrent. ASSESSMENT: $400.00. FINE: $5,000.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. § 922(a)(6) MAKING FALSE STATEMENTS TO FIREARMS DEALERS(16)"
+        },
+        {
+          "charge_disposition": "PROBATION: 5 Years as to Counts 1, 2, 3, and 16 to run Concurrent. ASSESSMENT: $400.00. FINE: $5,000.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. § 922(a)(6) MAKING FALSE STATEMENTS TO FIREARMS DEALERS(4-15)"
+        },
+        {
+          "charge_disposition": "DISMISSED."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. § 922(a)(6) MAKING FALSE STATEMENTS TO FIREARMS DEALERS(17-19)"
+        },
+        {
+          "charge_disposition": "DISMISSED."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William P. Dimitrouleas",
+          "judge_guid": "urn:entity:jud-100044540"
+        }
+      ]
+    }
+  ]
+}

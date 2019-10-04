@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_517cr33_KYWD",
+  "case_key": "5:17cr33_KYWD",
+  "case_lni": "5PN7-NFV1-DXDT-G2GN-00000-00",
+  "case_number": "5:17cr33",
+  "case_title": "USA v. Stepro",
+  "case_info_full_case_name": "USA v. Stepro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stepro",
+  "case_date_filed": "2017-10-04",
+  "case_status": "Closed",
+  "case_status_date": "10/05/2017",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anthony Stepro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Supervised Releasee from Southern District of Indiana"
+        },
+        {
+          "charge_offence_description": "Supervised Releasee from Southern District of Indi"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        }
+      ]
+    }
+  ]
+}

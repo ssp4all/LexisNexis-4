@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_817po9645_MDD",
+  "case_key": "8:17po9645_MDD",
+  "case_lni": "5PT5-2TH1-DXDT-G1YW-00000-00",
+  "case_number": "8:17po9645",
+  "case_title": "USA vs Dodge",
+  "case_info_full_case_name": "USA vs Dodge",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dodge",
+  "case_date_filed": "2017-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William A Dodge",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "(STANDING, PARKING) VEH. WHEREVER PROHIBITED BY OFFICIAL SIGN (7129895)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

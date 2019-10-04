@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_211cr542_CAED",
+  "case_key": "2:11cr542_CAED",
+  "case_lni": "54JX-SSJ1-DXDT-G1PJ-00000-00",
+  "case_number": "2:11cr542",
+  "case_title": "USA v. Cantrelle",
+  "case_info_full_case_name": "USA v. Cantrelle",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cantrelle",
+  "case_date_filed": "2011-12-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph Cantrelle",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DISTRIBUTION OF VISUAL DEPICTIONS OF MINORS ENGAGED IN SEXUALLY EXPLICIT CONDUCT(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 170 months; TSR: 120 months; S.A.: $100.00; recommend placement in a California institution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Garland E. Burrell, Jr",
+          "judge_guid": "urn:entity:jud-100060156"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_200cr736_azd",
+  "case_key": "2:00cr736_azd",
+  "case_lni": "7WBN-R250-Y892-B0K8-00000-00",
+  "case_number": "2:00cr736",
+  "case_title": "USA, et al v. Sierzchula",
+  "case_info_full_case_name": "USA, et al v. Sierzchula",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Sierzchula",
+  "case_date_filed": "2000-07-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID SIERZCHULA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2319(a) (b)(3)"
+        },
+        {
+          "charge_description": "18:2319(a) and (b)(3) Copyright Infringement (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    }
+  ]
+}

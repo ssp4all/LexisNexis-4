@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_109mj113_VAED",
+  "case_key": "1:09mj113_VAED",
+  "case_lni": "7WBN-JVX0-Y892-B1P7-00000-00",
+  "case_number": "1:09mj113",
+  "case_title": "USA v. Mackey",
+  "case_info_full_case_name": "USA v. Mackey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mackey",
+  "case_date_filed": "2009-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Shanna L. Cronin",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio D. Mackey",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 46.2-301"
+        },
+        {
+          "charge_description": "18:13 Assim Sec 46.2-301 Code of VA, Operate After Suspension (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 46.2-300"
+        },
+        {
+          "charge_description": "18:13 Assim Sec 46.2-300 Code of VA, No Valid Operators License (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR634.25(f) 46.2-878 35/20"
+        },
+        {
+          "charge_description": "32 CFR 634.25(f) adopting Sec 46.2-878 Code of VA, Speeding 35/20 (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F. Anderson",
+          "judge_guid": "urn:entity:jud-100074444"
+        }
+      ]
+    }
+  ]
+}

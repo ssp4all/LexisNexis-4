@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_207mj1436_AZD",
+  "case_key": "2:07mj1436_AZD",
+  "case_lni": "7WBN-KW60-Y892-B3B6-00000-00",
+  "case_number": "2:07mj1436",
+  "case_title": "USA v. Perez-Robles",
+  "case_info_full_case_name": "USA v. Perez-Robles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Robles",
+  "case_date_filed": "2007-02-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Perez-Robles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "I-8:1326(a)(b)(2)-Re-Entry"
+        },
+        {
+          "charge_description": "Count I-8:1326(a)(b)(2)-Re-Entry After Removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jay R Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

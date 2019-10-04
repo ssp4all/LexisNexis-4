@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_413cr1191_AZD",
+  "case_key": "4:13cr1191_AZD",
+  "case_lni": "58W1-62F1-DXDT-G2T7-00000-00",
+  "case_number": "4:13cr1191",
+  "case_title": "USA v. Reyes-Encinas",
+  "case_info_full_case_name": "USA v. Reyes-Encinas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes-Encinas",
+  "case_date_filed": "2013-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rogelio Reyes-Encinas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 enhanced by (b)(1) Re-Entry After Deportation(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CT 1, 8:1326(b)(1) Illegal Re-Entry; CT 2, 8:1325 Illegal Entry"
+        },
+        {
+          "charge_offence_description": "CT 1, 8:1326(b)(1) Illegal Re-Entry; CT 2, 8:1325 "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

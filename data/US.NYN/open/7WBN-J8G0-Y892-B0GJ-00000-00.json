@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_100cr140_nynd",
+  "case_key": "1:00cr140_nynd",
+  "case_lni": "7WBN-J8G0-Y892-B0GJ-00000-00",
+  "case_number": "1:00cr140",
+  "case_title": "USA v. Castillo",
+  "case_info_full_case_name": "USA v. Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo",
+  "case_date_filed": "2000-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RENE VELASQUEZ CASTILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.M"
+        },
+        {
+          "charge_description": "8:1325.M CONCELAMENT OF FACTS, ILLEGAL ENTRY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "3/15/00 3/15/00, 8USC, 1325(a)(2)."
+        },
+        {
+          "charge_description": "On or about 3/15/00 in Clinton county, in the Northern District of New York defendant did, Rene Velasquez Castillo, being an alien born in Bolivia, attempted to enter the US by eluding inspection by an Immigration Inspector, to wit; on 3/15/00, Rene Velasquez Castillo attempted to ther the US at the Champlain, NY Port of Entry by concealing himself in the trunk of a vehicle, this being in violation of Title 8 USC, Section 1325(a)(2). [1:00-m-82]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David R. Homer",
+          "judge_guid": "urn:entity:jud-100034183"
+        }
+      ]
+    }
+  ]
+}

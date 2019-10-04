@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416mj1609_AZD",
+  "case_key": "4:16mj1609_AZD",
+  "case_lni": "5JJV-7YS1-DXDT-G27B-00000-00",
+  "case_number": "4:16mj1609",
+  "case_title": "USA v. Rivas-Amador",
+  "case_info_full_case_name": "USA v. Rivas-Amador",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivas-Amador",
+  "case_date_filed": "2016-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Alejandro Rivas-Amador",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 Enhanced by 8:1326(b)(2) Attempted Illegal Re-Entry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326 Enhanced by 8:1326(b)(2) Attempted Illegal "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

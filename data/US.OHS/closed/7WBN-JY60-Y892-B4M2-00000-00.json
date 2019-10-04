@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_192cr110_ohsd",
+  "case_key": "1:92cr110_ohsd",
+  "case_lni": "7WBN-JY60-Y892-B4M2-00000-00",
+  "case_number": "1:92cr110",
+  "case_title": "USA v. Daboiku",
+  "case_info_full_case_name": "USA v. Daboiku",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Daboiku",
+  "case_date_filed": "1992-10-02",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "AJIBOLA AROKOYA DABOIKU",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952"
+        },
+        {
+          "charge_description": "21:952 NARCOTICS-IMPORTATION/EXPORTATION (1)"
+        },
+        {
+          "charge_disposition": "84 Months. 5 Years supervised release. Assessed $50. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USCSec 841(a)(1) 846. 21USCSec 952 963."
+        },
+        {
+          "charge_description": "Attempt to possess with intent to distribute Schedule I narcotic controlled substances to wit: heroin, in violation of 21 USC Sec 841(a)(1) and 846. Attempt to import into Custom's territory Schedule I narcotic drug substance to wit: heroin, in violation of 21 USC Sec 952 and 963. [1:92-m-128]"
+        },
+        {
+          "charge_disposition": "Complaint rolled into Indictment/Information (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Carl B. Rubin",
+          "judge_guid": "urn:entity:jud-100009828"
+        }
+      ]
+    }
+  ]
+}

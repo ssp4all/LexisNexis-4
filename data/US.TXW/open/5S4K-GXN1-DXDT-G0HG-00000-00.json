@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_218cr730_TXWD",
+  "case_key": "2:18cr730_TXWD",
+  "case_lni": "5S4K-GXN1-DXDT-G0HG-00000-00",
+  "case_number": "2:18cr730",
+  "case_title": "USA v. Galvan-Rios",
+  "case_info_full_case_name": "USA v. Galvan-Rios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galvan-Rios",
+  "case_date_filed": "2018-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Armando Galvan-Rios",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) &; (b)(1)/(2):  Illegal Re-entry into the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1) Re-entry after deportation from the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1) Re-entry after deportation from t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_309cr30023_MAD",
+  "case_key": "3:09cr30023_MAD",
+  "case_lni": "7WN3-GY60-Y892-B06W-00000-00",
+  "case_number": "3:09cr30023",
+  "case_title": "USA v. Biancardi",
+  "case_info_full_case_name": "USA v. Biancardi",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Biancardi",
+  "case_date_filed": "2009-09-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Paul H. Smyth",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christian Biancardi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE HEROIN"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE HEROIN"
+        },
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE AND DISTRIBUTION OF HEROIN, 21:846=CD.F(1)"
+        },
+        {
+          "charge_disposition": "120 Months imprisonment on single count. 60 Months supervised release to follow. 1. The defendant is prohibited from possessing a firearm, destructive device, or other dangerous weapon. 2. If ordered deported, the defendant is to leave the United States and is not to return without prior permission of the Secretary of the Department of Homeland Security. 3. The defendant shall use his true name and is prohibited from the use of any false identifying information which includes, but is not limited to, any aliases, false dates of birth, false social security numbers, and incorrect places of birth. Special assessment fee of $100 to be paid immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael A. Ponsor",
+          "judge_guid": "urn:entity:jud-100032801"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_299m7207_njd",
+  "case_key": "2:99m7207_njd",
+  "case_lni": "7WBN-MF70-Y892-B4RF-00000-00",
+  "case_number": "2:99m7207",
+  "case_title": "USA v. LEHNERT",
+  "case_info_full_case_name": "USA v. LEHNERT",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LEHNERT",
+  "case_date_filed": "1999-11-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NORVILLE MCANDREWS",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DIRK LEHNERT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC875 2-Knowingly"
+        },
+        {
+          "charge_description": "T. 18 USC 875 &; 2-Knowingly &; willfully transmitting in interst &; foreign commerce a communication containing a threat to injure the person of another."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Joel A. Pisano",
+          "judge_guid": "urn:entity:jud-100024429"
+        }
+      ]
+    }
+  ]
+}

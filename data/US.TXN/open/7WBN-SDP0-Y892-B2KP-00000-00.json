@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_595m30_txnd",
+  "case_key": "5:95m30_txnd",
+  "case_lni": "7WBN-SDP0-Y892-B2KP-00000-00",
+  "case_number": "5:95m30",
+  "case_title": "USA v. Pacheco-Sanchez",
+  "case_info_full_case_name": "USA v. Pacheco-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pacheco-Sanchez",
+  "case_date_filed": "1995-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL PACHECO-SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18"
+        },
+        {
+          "charge_description": "An alien over 18 years of age who did not have in his possession an alien registration card issued to him by the Attorney General in violation of 8:1304."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J Q Warnick, Jr",
+          "judge_guid": "urn:entity:jud-100023360"
+        }
+      ]
+    }
+  ]
+}

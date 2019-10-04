@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_218cr26_TNED",
+  "case_key": "2:18cr26_TNED",
+  "case_lni": "5RMY-SRB1-DXDT-G0VR-00000-00",
+  "case_number": "2:18cr26",
+  "case_title": "USA v. Brady",
+  "case_info_full_case_name": "USA v. Brady",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brady",
+  "case_date_filed": "2018-02-13",
+  "case_status": "Closed",
+  "case_status_date": "09/04/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Trevor Alexander Brady",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922J.F- RECEIVE STOLEN FIREARMS(2)"
+        },
+        {
+          "charge_disposition": "46 months imprisonment, 3 years supervised release, $100.00 assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F- UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion by the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "J Ronnie Greer",
+          "judge_guid": "urn:entity:jud-100072448"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clifton L Corker",
+          "judge_guid": "urn:entity:jud-100113981"
+        }
+      ]
+    }
+  ]
+}

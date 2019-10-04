@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_600cr41_txed",
+  "case_key": "6:00cr41_txed",
+  "case_lni": "7WBN-D1H0-Y892-B215-00000-00",
+  "case_number": "6:00cr41",
+  "case_title": "USA v. Hogan",
+  "case_info_full_case_name": "USA v. Hogan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hogan",
+  "case_date_filed": "2000-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHNNY LEE HOGAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "L25,.25 026563, 185th 582090, 18 Section(s) 922(g)(1)"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possessing in and affecting commerce, a firearm, to wit: Lorcin, model L25,.25 caliber pistol, serial number 026563, after Johnny Lee Hogan had been convicted of a crime punishable by imprisonment for a term exceeding one year, to wit: Indecency with a child, a felony, in the 185th District Court of Harris County, in cause number 582090, in violation of Title 18 United States Code, Section(s) 922(g)(1) [6:00-m-53]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John Hannah, Jr.",
+          "judge_guid": "urn:entity:jud-100047418"
+        }
+      ]
+    }
+  ]
+}

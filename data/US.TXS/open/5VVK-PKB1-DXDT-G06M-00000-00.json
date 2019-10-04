@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_119po2067_TXSD",
+  "case_key": "1:19po2067_TXSD",
+  "case_lni": "5VVK-PKB1-DXDT-G06M-00000-00",
+  "case_number": "1:19po2067",
+  "case_title": "USA v. Polo-Pena",
+  "case_info_full_case_name": "USA v. Polo-Pena",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Polo-Pena",
+  "case_date_filed": "2019-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Belkis Polo-Pena",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

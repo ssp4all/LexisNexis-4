@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_602m4046_nywd",
+  "case_key": "6:02m4046_nywd",
+  "case_lni": "7WBN-P570-Y892-B106-00000-00",
+  "case_number": "6:02m4046",
+  "case_title": "USA v. Maxwell",
+  "case_info_full_case_name": "USA v. Maxwell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maxwell",
+  "case_date_filed": "2002-06-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TAMMY LOU MAXWELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028A.M 18:1028B.M"
+        },
+        {
+          "charge_description": "18:1028A.M and 18:1028B.M FRAUD WITH IDENTIFICATION DOCUMENTS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William G. Bauer",
+          "judge_guid": "urn:entity:jud-100051701"
+        }
+      ]
+    }
+  ]
+}

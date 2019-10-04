@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_313mj175_VAED",
+  "case_key": "3:13mj175_VAED",
+  "case_lni": "586T-NMT1-DXDT-G227-00000-00",
+  "case_number": "3:13mj175",
+  "case_title": "USA v. Gregory",
+  "case_info_full_case_name": "USA v. Gregory",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gregory",
+  "case_date_filed": "2013-04-17",
+  "case_status": "Closed",
+  "case_status_date": "07/10/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Katharine M.E. Adams",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Kevin E. Gregory",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 13 assimilating 1950 Code of Va., as amended, 18.2-266 and 18.2-270 et seq - Operate motor vehicle under the influence of marijuana(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE: Imprisonment seventy (70) days; Supervised Release twelve (12) months; Fine, $250.00, Special Assessment, $25.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18 U.S.C. 13 assimilating 1950 Code of Va., as amended, 46.2-301 - Suspended License, 5th offense(2)"
+        },
+        {
+          "charge_disposition": "SENTENCE: Imprisonment seventy (70) days. Supervised Release twelve (12) months;No fine, Special Assessment, $25.00. License suspended for one year;ASAP"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "32 C.F.R. Section 634.25(f) assimilating 1950 Code of Va., as amended, 46.2-804 - Fail to stay within one lane(3)"
+        },
+        {
+          "charge_disposition": "Dismissed by government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Novak",
+          "judge_guid": "urn:entity:jud-100031335"
+        }
+      ]
+    }
+  ]
+}

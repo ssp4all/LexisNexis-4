@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAM_197cr202_pamd",
+  "case_key": "1:97cr202_pamd",
+  "case_lni": "7WBN-K5G0-Y892-B0CT-00000-00",
+  "case_number": "1:97cr202",
+  "case_title": "USA v. Lua",
+  "case_info_full_case_name": "USA v. Lua",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lua",
+  "case_date_filed": "1997-09-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RODRIGO LUA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 21:841(a)(1) 18:2"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE 21:841(a)(1) CONTROLLED SUBSTANCE, SELL, DISTRIBUTE, OR DISPENSE 18:2 AID &; ABET (1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 46 months w/court recommendation that dft be incarcerated @ fed. prison in Penna. Supervised release 3 yrs w/spec. conditions including that if dft is deported, he shall remain outside U.S. &; supervision shall be on non-reporting basis; Special assessment $100; Fine $400; Ct. grants dft 3-point reduction for acceptance of responsibility. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sylvia H. Rambo",
+          "judge_guid": "urn:entity:jud-100009717"
+        }
+      ]
+    },
+    {
+      "party_name": "JOSE DIAZ",
+      "party_description": "unknown",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sylvia H. Rambo",
+          "judge_guid": "urn:entity:jud-100009717"
+        }
+      ]
+    }
+  ]
+}

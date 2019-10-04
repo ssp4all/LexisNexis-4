@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_407mj938_TXWD",
+  "case_key": "4:07mj938_TXWD",
+  "case_lni": "7WBN-S480-Y892-B50G-00000-00",
+  "case_number": "4:07mj938",
+  "case_title": "USA v. Sanchez-Licon",
+  "case_info_full_case_name": "USA v. Sanchez-Licon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Licon",
+  "case_date_filed": "2007-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Sanchez-Licon",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Durwood Edwards",
+          "judge_guid": "urn:entity:jud-100056691"
+        }
+      ]
+    }
+  ]
+}

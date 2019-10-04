@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_202cr512_nmd",
+  "case_key": "2:02cr512_nmd",
+  "case_lni": "7WBN-KFP0-Y892-B34M-00000-00",
+  "case_number": "2:02cr512",
+  "case_title": "USA v. Gonzalez-Garcia",
+  "case_info_full_case_name": "USA v. Gonzalez-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Garcia",
+  "case_date_filed": "2002-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javier Gonzalez-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1)"
+        },
+        {
+          "charge_description": "8:1326(a)(1) Reentry after deportation [2:02-m-4340]"
+        },
+        {
+          "charge_statute": "8:1326(a)(1) (2); 8:1326(b)(2):"
+        },
+        {
+          "charge_description": "8:1326(a)(1) and (2); and 8:1326(b)(2): REENTRY OF DEPORTED ALIEN PREVIOUSLY CONVICTED OF AN AGGRAVATED FELONY (1-1)"
+        },
+        {
+          "charge_disposition": "(1-1)"
+        }
+      ]
+    }
+  ]
+}

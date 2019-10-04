@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_705cr331_NYND",
+  "case_key": "7:05cr331_NYND",
+  "case_lni": "7WBN-P8V0-Y892-B3MD-00000-00",
+  "case_number": "7:05cr331",
+  "case_title": "USA v. Hamm",
+  "case_info_full_case_name": "USA v. Hamm",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hamm",
+  "case_date_filed": "2005-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew D. Flor",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Breanna Marie Hamm",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MISCELLANEOUS GENERAL OFFENSES, OTHER: did knowingly act in a manner likely to be injuious to the physicial, mental or moral welfare of a child, namely her own children(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "MISCELLANEOUS GENERAL OFFENSES, OTHER: intentionally damaged the property of another, namely the United States(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "George H. Lowe",
+          "judge_guid": "urn:entity:jud-100029625"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_197m2570_txsd",
+  "case_key": "1:97m2570_txsd",
+  "case_lni": "7WBN-K610-Y892-B2H3-00000-00",
+  "case_number": "1:97m2570",
+  "case_title": "USA v. Alvarez-De Ruiz, et al",
+  "case_info_full_case_name": "USA v. Alvarez-De Ruiz, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarez-De Ruiz, et al",
+  "case_date_filed": "1997-10-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA DEL CARMEN ALVAREZ-DE RUIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly, willfully and in reckless disregard conspire together and with each other to bring in certain undocumented aliens and transport said aliens within the United States. 8 USC 1324(a)(l)(A)(v)(i)(ii)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    },
+    {
+      "party_name": "PLATON OROSCO-LUVIANO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly, willfully and in reckless disregard conspire together and with each other to bring in certain undocumented aliens and transport said aliens within the United States. 8 USC 1324(a)(l)(A)(v)(i)(ii)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

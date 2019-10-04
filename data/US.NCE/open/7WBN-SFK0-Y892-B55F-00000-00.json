@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_599m450_nced",
+  "case_key": "5:99m450_nced",
+  "case_lni": "7WBN-SFK0-Y892-B55F-00000-00",
+  "case_number": "5:99m450",
+  "case_title": "USA v. Compton",
+  "case_info_full_case_name": "USA v. Compton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Compton",
+  "case_date_filed": "1999-04-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER COMPTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M 20-138"
+        },
+        {
+          "charge_description": "18:13-7210.M NCGS 20-138 DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P 20-150"
+        },
+        {
+          "charge_description": "18:13-7220.P NCGS 20-150 Fail to maintain lane (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Alexander B. Denson",
+          "judge_guid": "urn:entity:jud-100044754"
+        }
+      ]
+    }
+  ]
+}

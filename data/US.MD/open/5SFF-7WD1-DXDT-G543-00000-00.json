@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_118po2883_MDD",
+  "case_key": "1:18po2883_MDD",
+  "case_lni": "5SFF-7WD1-DXDT-G543-00000-00",
+  "case_number": "1:18po2883",
+  "case_title": "USA vs Kristian",
+  "case_info_full_case_name": "USA vs Kristian",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kristian",
+  "case_date_filed": "2018-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ronald C Kristian",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNAUTHORIZED USE, POSSESSION AND/OR CONSUMPTION OF ALCOHOL ON FEDERAL PROPERTY (6909181)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "ENTERING/REMAINING ON FEDERAL PROPERTY WHILE UNDER INFLUENCE ALCOHOL/CONTROLLED (6909180)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "A. David Copperthite",
+          "judge_guid": "urn:entity:jud-100122711"
+        }
+      ]
+    }
+  ]
+}

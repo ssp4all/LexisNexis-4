@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_312mj79_VAED",
+  "case_key": "3:12mj79_VAED",
+  "case_lni": "553W-7PP1-DXDT-G504-00000-00",
+  "case_number": "3:12mj79",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2012-03-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Walter Elliott Smith Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC922 (g)(1) 18USC924(c) 18USC1951"
+        },
+        {
+          "charge_description": "18 U.S.C. 922 (g)(1) possession of firearm by convicted felon, 18 U.S.C. 924(c) carry a firearm during a crime of violence, and 18 U.S.C. 1951 Robbery"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    }
+  ]
+}

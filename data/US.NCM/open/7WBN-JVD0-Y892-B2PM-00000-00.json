@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_109cr176_NCMD",
+  "case_key": "1:09cr176_NCMD",
+  "case_lni": "7WBN-JVD0-Y892-B2PM-00000-00",
+  "case_number": "1:09cr176",
+  "case_title": "USA v. KRAFT",
+  "case_info_full_case_name": "USA v. KRAFT",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "KRAFT",
+  "case_date_filed": "2009-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JACOB D KRAFT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failure to Appear &; DUI"
+        },
+        {
+          "charge_statute": "18:7 13"
+        },
+        {
+          "charge_description": "18:7 &; 13 Drive or operate a motor vehicle while under the influence of an intoxicating liquor on a naval base (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ]
+    }
+  ]
+}

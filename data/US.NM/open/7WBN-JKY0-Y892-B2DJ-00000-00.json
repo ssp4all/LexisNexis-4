@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_105cr772_NMD",
+  "case_key": "1:05cr772_NMD",
+  "case_lni": "7WBN-JKY0-Y892-B2DJ-00000-00",
+  "case_number": "1:05cr772",
+  "case_title": "USA v. Fox",
+  "case_info_full_case_name": "USA v. Fox",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fox",
+  "case_date_filed": "2005-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dionysius Spencer Fox",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1), FELON IN POSSESSION OF A FIREARM [ 1:05-m -186 ]"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1), FELON IN POSSESSION OF A FIREARM [ 1"
+        },
+        {
+          "charge_description": "18:922(g)(1) &; 18:924(a)(2): FELON IN POSSESSION OF A FIREARM(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 180 months; 3 years supervised release w/special conditions; SPA $100.00; deft in custody; SENTENCE REDUCED to 120 months; 2 years supervised release w/special conditions; deft in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James O. Browning",
+          "judge_guid": "urn:entity:jud-100064003"
+        }
+      ]
+    }
+  ]
+}

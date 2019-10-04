@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_109cr108_INND",
+  "case_key": "1:09cr108_INND",
+  "case_lni": "7X1N-S380-Y892-B0DC-00000-00",
+  "case_number": "1:09cr108",
+  "case_title": "United States of America v. Martin",
+  "case_info_full_case_name": "United States of America v. Martin",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Martin",
+  "case_date_filed": "2009-10-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Douglas Martin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (1-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408(a)(7)(B)"
+        },
+        {
+          "charge_description": "42:408(a)(7)(B) MISUSE OF SOCIAL SECURITY NUMBER (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1-42:408(a)(7)(B):"
+        },
+        {
+          "charge_description": "COUNT 1-42:408(a)(7)(B): MISUSE OF SOCIAL SECURITY NUMBER"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Theresa L Springmann",
+          "judge_guid": "urn:entity:jud-100014544"
+        }
+      ]
+    }
+  ]
+}

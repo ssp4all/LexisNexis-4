@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_518cr333_TXWD",
+  "case_key": "5:18cr333_TXWD",
+  "case_lni": "5SBN-FR01-DXDT-G4VH-00000-00",
+  "case_number": "5:18cr333",
+  "case_title": "USA v. Contreras-Matehuala",
+  "case_info_full_case_name": "USA v. Contreras-Matehuala",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Contreras-Matehuala",
+  "case_date_filed": "2018-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Moises Contreras-Matehuala",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B.F -REENTRY OF DEPORTED ALIEN - FELONY, Illegal Re-entry into the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F - Re-entry of Deported Alien"
+        },
+        {
+          "charge_offence_description": "8:1326A.F - Re-entry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_608mj6046_KYED",
+  "case_key": "6:08mj6046_KYED",
+  "case_lni": "7WBN-P6C0-Y892-B312-00000-00",
+  "case_number": "6:08mj6046",
+  "case_title": "USA v. Estevan",
+  "case_info_full_case_name": "USA v. Estevan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estevan",
+  "case_date_filed": "2008-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gregory A. Ousley",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adrian Estevan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546(a)"
+        },
+        {
+          "charge_description": "18:1546(a) Use of a falsely made alien registration receipt card"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_609mj130_TXWD",
+  "case_key": "6:09mj130_TXWD",
+  "case_lni": "7WBN-P6C0-Y892-B44W-00000-00",
+  "case_number": "6:09mj130",
+  "case_title": "USA v. Knight",
+  "case_info_full_case_name": "USA v. Knight",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Knight",
+  "case_date_filed": "2009-07-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Frank Paul Knight",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "KNOWINGLY POSSESS ONE OR MORE IMAGES OF CHILD PORNOGRAPHY, AND SUCH IMAGES HAD BEEN SHIPPED AND TRANSPORTED IN INTERSTATE AND FOREIGN COMMERCE, BY ANY MEANS, INCLUDING BY COMPUTER, AND HAD BEEN PRODUCED USING MATERIALS THAT HAD BEEN SHIPPED AND TRANSPORTED IN INTERSTATE AND FOREIGN COMMERCE IN VIOLATION OF 18 USC 2252A(a)(5)(B)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

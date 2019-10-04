@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_401cr622_azd",
+  "case_key": "4:01cr622_azd",
+  "case_lni": "7WBN-N990-Y892-B1D1-00000-00",
+  "case_number": "4:01cr622",
+  "case_title": "USA v. Amaya-Jaquez",
+  "case_info_full_case_name": "USA v. Amaya-Jaquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Amaya-Jaquez",
+  "case_date_filed": "2001-05-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PEDRO AMAYA-JAQUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 (b)(1)"
+        },
+        {
+          "charge_description": "8:1326 (b)(1) REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John M Roll",
+          "judge_guid": "urn:entity:jud-100025388"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

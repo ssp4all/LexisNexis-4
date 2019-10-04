@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317cr2537_CASD",
+  "case_key": "3:17cr2537_CASD",
+  "case_lni": "5PCM-52J1-DXDT-G1XD-00000-00",
+  "case_number": "3:17cr2537",
+  "case_title": "USA v. Aguilera",
+  "case_info_full_case_name": "USA v. Aguilera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguilera",
+  "case_date_filed": "2017-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Abelardo Aguilera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(11),(v)(II),(a)(1)(B)(i) - Transportation of Certain Aliens for Financial Gain and Aiding and Abetting (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) - Transportation of Illegal Aliens (Felony)"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii) - Transportation of Illegal Al"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gonzalo P. Curiel",
+          "judge_guid": "urn:entity:jud-100104535"
+        }
+      ]
+    },
+    {
+      "party_name": "Bilma Clarisa Hernandez-Aguilar",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Santiago Nava-Ramos",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Enrique Ordaz-Zaragoza",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Ramon Ponce-Agustin",
+      "party_description": "Material Witness"
+    }
+  ]
+}

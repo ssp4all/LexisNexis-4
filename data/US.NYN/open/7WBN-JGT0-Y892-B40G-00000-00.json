@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_103m86_nynd",
+  "case_key": "1:03m86_nynd",
+  "case_lni": "7WBN-JGT0-Y892-B40G-00000-00",
+  "case_number": "1:03m86",
+  "case_title": "USA v. Geib",
+  "case_info_full_case_name": "USA v. Geib",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Geib",
+  "case_date_filed": "2003-03-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSEPH GEIB",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USCSec."
+        },
+        {
+          "charge_description": "Did steal from the person or the premises of a person who is licensed to engage in the business of dealing in firearms any firearm in the licensee's business inventory that has been shipped or transported in interstate or foreign commerce in Violation of 18 USC Sec. 922(u)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Randolph F. Treece",
+          "judge_guid": "urn:entity:jud-100023832"
+        }
+      ]
+    }
+  ]
+}

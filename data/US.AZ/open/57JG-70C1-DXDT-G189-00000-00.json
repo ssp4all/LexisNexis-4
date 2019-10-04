@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_413mj8044_AZD",
+  "case_key": "4:13mj8044_AZD",
+  "case_lni": "57JG-70C1-DXDT-G189-00000-00",
+  "case_number": "4:13mj8044",
+  "case_title": "USA v. Sandoval-Ruiz",
+  "case_info_full_case_name": "USA v. Sandoval-Ruiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval-Ruiz",
+  "case_date_filed": "2013-01-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Sandoval-Ruiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) Possession w/Intent to Distribute Marijuana, all in violation of 21:846 Conspiracy to Possess w/Intent to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and 841(b)(1)(C) Possession w/Intent "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

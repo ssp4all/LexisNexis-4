@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_111mj2921_FLSD",
+  "case_key": "1:11mj2921_FLSD",
+  "case_lni": "539N-9MH1-DXDT-G4JS-00000-00",
+  "case_number": "1:11mj2921",
+  "case_title": "USA v. Acosta Levano",
+  "case_info_full_case_name": "USA v. Acosta Levano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acosta Levano",
+  "case_date_filed": "2011-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carmen Rosa Acosta Levano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546.F;"
+        },
+        {
+          "charge_description": "18:1546.F; FRAUD AND MISUSE OF VISAS/PERMITS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Chris M. McAliley",
+          "judge_guid": "urn:entity:jud-100041264"
+        }
+      ]
+    }
+  ]
+}

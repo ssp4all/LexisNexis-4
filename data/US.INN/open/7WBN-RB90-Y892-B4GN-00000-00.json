@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_208mj2_INND",
+  "case_key": "2:08mj2_INND",
+  "case_lni": "7WBN-RB90-Y892-B4GN-00000-00",
+  "case_number": "2:08mj2",
+  "case_title": "United States of America v. Scott",
+  "case_info_full_case_name": "United States of America v. Scott",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Scott",
+  "case_date_filed": "2008-01-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ralph Scott",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1201.F, 18:2"
+        },
+        {
+          "charge_description": "18:1201.F, 18:2 unlawfully seize, confine, inveigle, decoy, kidnap, abduct, or carry away and hold for ranson or reward or otherwise any person, except in the case of a minor by the parent thereof, when the person is willfully transported in interstate commerce"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul R Cherry",
+          "judge_guid": "urn:entity:jud-100049075"
+        }
+      ]
+    }
+  ]
+}

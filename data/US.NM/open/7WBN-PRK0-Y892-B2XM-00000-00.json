@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_107cr2151_NMD",
+  "case_key": "1:07cr2151_NMD",
+  "case_lni": "7WBN-PRK0-Y892-B2XM-00000-00",
+  "case_number": "1:07cr2151",
+  "case_title": "USA v. Vasquez-Cienfuegos",
+  "case_info_full_case_name": "USA v. Vasquez-Cienfuegos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasquez-Cienfuegos",
+  "case_date_filed": "2007-10-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ivonne Elena Vasquez-Cienfuegos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1) (2):"
+        },
+        {
+          "charge_description": "8:1326(a)(1) and (2): REENTRY OF A REMOVED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Bruce D. Black",
+          "judge_guid": "urn:entity:jud-100068850"
+        }
+      ]
+    }
+  ]
+}

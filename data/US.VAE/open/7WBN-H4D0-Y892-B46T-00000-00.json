@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_301m241_vaed",
+  "case_key": "3:01m241_vaed",
+  "case_lni": "7WBN-H4D0-Y892-B46T-00000-00",
+  "case_number": "3:01m241",
+  "case_title": "USA v. Whiters",
+  "case_info_full_case_name": "USA v. Whiters",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Whiters",
+  "case_date_filed": "2001-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DEREK A. WHITERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844-Possession (21:844A=MP.M)"
+        },
+        {
+          "charge_description": "21:844-Possession of marijuana (21:844A=MP.M) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis W. Dohnal",
+          "judge_guid": "urn:entity:jud-100044444"
+        }
+      ]
+    }
+  ]
+}

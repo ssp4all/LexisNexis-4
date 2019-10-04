@@ -1,0 +1,346 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_498cr309_txsd",
+  "case_key": "4:98cr309_txsd",
+  "case_lni": "7WBN-S7W0-Y892-B1RH-00000-00",
+  "case_number": "4:98cr309",
+  "case_title": "USA v. Hernandez, et al",
+  "case_info_full_case_name": "USA v. Hernandez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez, et al",
+  "case_date_filed": "1998-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Douglas Davis",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Marshal - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL ORTIZ HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor illegal aliens MAX PENALTY: 5 yrs and/or $250,000, 3 yrs SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor undocumented aliens MAX PENALTY: 5 yrs and/or $250, 000, 3 yrs SRT and $100 special assessment (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sim Lake",
+          "judge_guid": "urn:entity:jud-100036693"
+        }
+      ]
+    },
+    {
+      "party_name": "ARMANDO ORTIZ HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor undocumented aliens MAX PENALTY: 5 yrs and/or $250, 000, 3 yrs SRT and $100 special assessment (1s)"
+        },
+        {
+          "charge_disposition": "Ct. 1s: 37 months to serve with 3 yrs SRT and $100 (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor illegal aliens MAX PENALTY: 5 yrs and/or $250,000, 3 yrs SRT (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sim Lake",
+          "judge_guid": "urn:entity:jud-100036693"
+        }
+      ]
+    },
+    {
+      "party_name": "SEVERO ORTIZ HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor undocumented aliens MAX PENALTY: 5 yrs and/or $250, 000, 3 yrs SRT and $100 special assessment (1s)"
+        },
+        {
+          "charge_disposition": "37 mo. to serve, followed by 3 yrs SRT, plus $3,000.00 fine (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor illegal aliens MAX PENALTY: 5 yrs and/or $250,000, 3 yrs SRT (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sim Lake",
+          "judge_guid": "urn:entity:jud-100036693"
+        }
+      ]
+    },
+    {
+      "party_name": "GELACIO MANDUJANO HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor undocumented aliens MAX PENALTY: 5 yrs and/or $250, 000, 3 yrs SRT and $100 special assessment (1s)"
+        },
+        {
+          "charge_disposition": "Ct. 1s: 37 months to serve with 3 yrs SRT and $100 S/A. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor illegal aliens MAX PENALTY: 5 yrs and/or $250,000, 3 yrs SRT (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sim Lake",
+          "judge_guid": "urn:entity:jud-100036693"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor undocumented aliens MAX PENALTY: 5 yrs and/or $250, 000, 3 yrs SRT and $100 special assessment (1s)"
+        },
+        {
+          "charge_disposition": "37 mo. to serve, followed by 3 yrs SRT, to become inactive if deported (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor illegal aliens MAX PENALTY: 5 yrs and/or $250,000, 3 yrs SRT (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sim Lake",
+          "judge_guid": "urn:entity:jud-100036693"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor undocumented aliens MAX PENALTY: 5 yrs and/or $250, 000, 3 yrs SRT and $100 special assessment (1s)"
+        },
+        {
+          "charge_disposition": "27 mo. to serve, followed by 3 yrs SRT, to become inactive if deported (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor illegal aliens MAX PENALTY: 5 yrs and/or $250,000, 3 yrs SRT (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sim Lake",
+          "judge_guid": "urn:entity:jud-100036693"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor illegal aliens MAX PENALTY: 5 yrs and/or $250,000, 3 yrs SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor undocumented aliens MAX PENALTY: 5 yrs and/or $250, 000, 3 yrs SRT and $100 special assessment (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sim Lake",
+          "judge_guid": "urn:entity:jud-100036693"
+        }
+      ]
+    },
+    {
+      "party_name": "ALFONSO VALDOVINOS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1324"
+        },
+        {
+          "charge_description": "8 USC 1324 Recruit employment of unauthorized alien (1ss)"
+        },
+        {
+          "charge_disposition": "Ct. 1ss: 1000 fine by 5/14/99 (1ss)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor illegal aliens MAX PENALTY: 5 yrs and/or $250,000, 3 yrs SRT (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt's Motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F 5 3"
+        },
+        {
+          "charge_description": "8:1324.F Conspiracy to transport and harbor undocumented aliens MAX PENALTY: 5 yrs and/or $250, 000, 3 yrs SRT and $100 special assessment (1s)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt's Motion (1s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nancy K. Johnson",
+          "judge_guid": "urn:entity:jud-100079622"
+        }
+      ]
+    }
+  ]
+}

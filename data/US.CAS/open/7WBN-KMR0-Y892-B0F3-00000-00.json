@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_204m8331_CASD",
+  "case_key": "2:04m8331_CASD",
+  "case_lni": "7WBN-KMR0-Y892-B0F3-00000-00",
+  "case_number": "2:04m8331",
+  "case_title": "USA v. Rivas-Rivera",
+  "case_info_full_case_name": "USA v. Rivas-Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivas-Rivera",
+  "case_date_filed": "2004-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JULIO RIVAS-RIVERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-Attempted"
+        },
+        {
+          "charge_description": "8:1326-Attempted entry after deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Roger T. Benitez",
+          "judge_guid": "urn:entity:jud-100061781"
+        }
+      ]
+    }
+  ]
+}

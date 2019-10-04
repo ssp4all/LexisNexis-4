@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_112mj1204_GAND",
+  "case_key": "1:12mj1204_GAND",
+  "case_lni": "56JB-GBR1-DXDT-G04V-00000-00",
+  "case_number": "1:12mj1204",
+  "case_title": "USA v. Contero et al",
+  "case_info_full_case_name": "USA v. Contero et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Contero et al",
+  "case_date_filed": "2012-09-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Contero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 - CONSPIRACY AND POSSESSION WITH INTENT TO DISTRIBUTE COCAINE"
+        },
+        {
+          "charge_offence_description": "21:846 - CONSPIRACY AND POSSESSION WITH INTENT TO "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justin S Anand",
+          "judge_guid": "urn:entity:jud-100100979"
+        }
+      ]
+    },
+    {
+      "party_name": "Juan Macedo-Maldonado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 - CONSPIRACY AND POSSESSION WITH INTENT TO DISTRIBUTE COCAINE"
+        },
+        {
+          "charge_offence_description": "21:846 - CONSPIRACY AND POSSESSION WITH INTENT TO "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justin S Anand",
+          "judge_guid": "urn:entity:jud-100100979"
+        }
+      ]
+    },
+    {
+      "party_name": "Gabriel Macedo-Maldonado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 - CONSPIRACY AND POSSESSION WITH INTENT TO DISTRIBUTE COCAINE"
+        },
+        {
+          "charge_offence_description": "21:846 - CONSPIRACY AND POSSESSION WITH INTENT TO "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justin S Anand",
+          "judge_guid": "urn:entity:jud-100100979"
+        }
+      ]
+    }
+  ]
+}

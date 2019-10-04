@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_319po5634_WAWD",
+  "case_key": "3:19po5634_WAWD",
+  "case_lni": "5VX3-C4D1-DXDT-G438-00000-00",
+  "case_number": "3:19po5634",
+  "case_title": "USA vs Reese",
+  "case_info_full_case_name": "USA vs Reese",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reese",
+  "case_date_filed": "2019-04-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Adam W Reese",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Entering Military/Naval/Coast Guard property (6943407)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J Richard Creatura",
+          "judge_guid": "urn:entity:jud-100057943"
+        }
+      ]
+    }
+  ]
+}

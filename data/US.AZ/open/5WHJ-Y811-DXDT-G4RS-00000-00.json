@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_319mj4181_AZD",
+  "case_key": "3:19mj4181_AZD",
+  "case_lni": "5WHJ-Y811-DXDT-G4RS-00000-00",
+  "case_number": "3:19mj4181",
+  "case_title": "USA v. Raczynski",
+  "case_info_full_case_name": "USA v. Raczynski",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Raczynski",
+  "case_date_filed": "2019-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kurt John Raczynski",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "36 CFR 261.10(c) - Conducting Commercial Activities without a Special Use Permit;  36 CFR 261.10(k) - Use of National Forest System Land without Special Use Authorization when Required"
+        },
+        {
+          "charge_offence_description": "36 CFR 261.10(c) - Conducting Commercial Activitie"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Camille D Bibles",
+          "judge_guid": "urn:entity:jud-500003788"
+        }
+      ]
+    }
+  ]
+}

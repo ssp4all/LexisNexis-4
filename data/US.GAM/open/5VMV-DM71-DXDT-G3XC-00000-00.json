@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_519cr13_GAMD",
+  "case_key": "5:19cr13_GAMD",
+  "case_lni": "5VMV-DM71-DXDT-G3XC-00000-00",
+  "case_number": "5:19cr13",
+  "case_title": "UNITED STATES OF AMERICA v. CARACHURE",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. CARACHURE",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "CARACHURE",
+  "case_date_filed": "2019-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "ELIZABETH S HOWARD",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL CARACHURE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) and 18:2:  Possession with Intent to Distribute Methamphetamine(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(viii)  and 18:2 Possession with Intent to Distribute Methamphetamine(1)"
+        },
+        {
+          "charge_disposition": "Count Superseded"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

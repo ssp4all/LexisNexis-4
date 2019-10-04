@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_300m5022_wawd",
+  "case_key": "3:00m5022_wawd",
+  "case_lni": "7WBN-MGY0-Y892-B25C-00000-00",
+  "case_number": "3:00m5022",
+  "case_title": "USA v. Neureiter, et al",
+  "case_info_full_case_name": "USA v. Neureiter, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Neureiter, et al",
+  "case_date_filed": "2000-02-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL BERND NEUREITER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(b)(1)(A) 18:2-Conspiracy"
+        },
+        {
+          "charge_description": "For Violation of 21:841(b)(1)(A) &; 18:2-Conspiracy to Distribute Methamphetamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Kelley Arnold",
+          "judge_guid": "urn:entity:jud-100074208"
+        }
+      ]
+    },
+    {
+      "party_name": "SHARON BARBARA ERNST",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(b)(1)(A) 18:2-Conspiracy"
+        },
+        {
+          "charge_description": "For Violation of 21:841(b)(1)(A) &; 18:2-Conspiracy to Distribute Methamphetamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Kelley Arnold",
+          "judge_guid": "urn:entity:jud-100074208"
+        }
+      ]
+    }
+  ]
+}

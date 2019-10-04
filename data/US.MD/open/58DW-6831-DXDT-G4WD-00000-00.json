@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_113po5024_MDD",
+  "case_key": "1:13po5024_MDD",
+  "case_lni": "58DW-6831-DXDT-G4WD-00000-00",
+  "case_number": "1:13po5024",
+  "case_title": "USA vs Muse",
+  "case_info_full_case_name": "USA vs Muse",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Muse",
+  "case_date_filed": "2013-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Aberdeen Proving Ground",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gary W Muse",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO STOP AT STOP SIGN (3389107)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "C. Bruce Anderson",
+          "judge_guid": "urn:entity:jud-100103853"
+        }
+      ]
+    }
+  ]
+}

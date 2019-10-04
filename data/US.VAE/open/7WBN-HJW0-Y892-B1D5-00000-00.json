@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_403m204_vaed",
+  "case_key": "4:03m204_vaed",
+  "case_lni": "7WBN-HJW0-Y892-B1D5-00000-00",
+  "case_number": "4:03m204",
+  "case_title": "USA v. McMaster",
+  "case_info_full_case_name": "USA v. McMaster",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McMaster",
+  "case_date_filed": "2003-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Matthew Miller",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KRISTIN J. MCMASTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC7 13, 46.2-301"
+        },
+        {
+          "charge_description": "Title 18 USC 7 &; 13, Assim. VA State Code, Section 46.2-301 [18:13-7220.M]-Driving While License Suspended (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC7 13, 18.2-266.1 21"
+        },
+        {
+          "charge_description": "Title 18 USC 7 &; 13, Assim. Code of VA, Section 18.2-266.1 [18:13-7210.P]-Driving Under the Influence of Alcohol, Under the Age of 21 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR634.25, 46.2-821"
+        },
+        {
+          "charge_description": "Title 32 CFR 634.25, Assim. Code of VA, Section 46.2-821 [18:13-7220.P]-Failure to Yield the Right of Way (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

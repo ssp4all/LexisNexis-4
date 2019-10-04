@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_504cr20113_CAND",
+  "case_key": "5:04cr20113_CAND",
+  "case_lni": "7WBN-S9X0-Y892-B03X-00000-00",
+  "case_number": "5:04cr20113",
+  "case_title": "USA v. Vasquez",
+  "case_info_full_case_name": "USA v. Vasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasquez",
+  "case_date_filed": "2004-07-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Antonio Vasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18: 1701"
+        },
+        {
+          "charge_description": "18: 1701 Opbstructions of Mails (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:1701"
+        },
+        {
+          "charge_description": "18:1701 Obstructions of Mails (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Howard"
+        }
+      ]
+    }
+  ]
+}

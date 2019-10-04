@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_502m346_txwd",
+  "case_key": "5:02m346_txwd",
+  "case_lni": "7WBN-NV80-Y892-B28D-00000-00",
+  "case_number": "5:02m346",
+  "case_title": "USA v. Duhanaj",
+  "case_info_full_case_name": "USA v. Duhanaj",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Duhanaj",
+  "case_date_filed": "2002-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TOMO DUHANAJ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P"
+        },
+        {
+          "charge_description": "8:1325.P CONCEALMENT OF FACTS ABOUT REENTRY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "Illegal entry into the United States, in violation of 8 USC 1325(a)(2)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "John W. Primomo",
+          "judge_guid": "urn:entity:jud-100071867"
+        }
+      ]
+    }
+  ]
+}

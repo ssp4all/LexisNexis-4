@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_108po2404_TXSD",
+  "case_key": "1:08po2404_TXSD",
+  "case_lni": "7WBN-G9M0-Y892-B16H-00000-00",
+  "case_number": "1:08po2404",
+  "case_title": "USA v. CORDOBA-Herrera A 76 421 350",
+  "case_info_full_case_name": "USA v. CORDOBA-Herrera A 76 421 350",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CORDOBA-Herrera A 76 421 350",
+  "case_date_filed": "2008-03-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Samuel CORDOBA-Herrera A 76 421 350",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

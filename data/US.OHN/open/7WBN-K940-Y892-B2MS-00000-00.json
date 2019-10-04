@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_199m3071_ohnd",
+  "case_key": "1:99m3071_ohnd",
+  "case_lni": "7WBN-K940-Y892-B2MS-00000-00",
+  "case_number": "1:99m3071",
+  "case_title": "USA v. Sanchez",
+  "case_info_full_case_name": "USA v. Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez",
+  "case_date_filed": "1999-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTONIO SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 conspiracy to distribute a controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Patricia A. Hemann",
+          "judge_guid": "urn:entity:jud-100051935"
+        }
+      ]
+    }
+  ]
+}

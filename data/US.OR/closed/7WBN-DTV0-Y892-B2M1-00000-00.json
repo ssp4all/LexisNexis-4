@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_398cr373_ord",
+  "case_key": "3:98cr373_ord",
+  "case_lni": "7WBN-DTV0-Y892-B2M1-00000-00",
+  "case_number": "3:98cr373",
+  "case_title": "USA v. Gonzales",
+  "case_info_full_case_name": "USA v. Gonzales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzales",
+  "case_date_filed": "1998-08-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert B Ross",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID SARAGOSA GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1035(a)(1)"
+        },
+        {
+          "charge_description": "18:1035(a)(1) FALSE STATEMENTS RELATING TO HEALTH CARE MATTERS (1)"
+        },
+        {
+          "charge_disposition": "SENTENCED: 1/25/99. IMPRISONMENT: 6 MONTHS. SUPERVISED RELEASE: 1 YEAR. RESTITUTION: $776.75 TO OHSU. SPECIAL ASSESSMENT: $100.00. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC1035 42USC1320a-7b"
+        },
+        {
+          "charge_description": "Charging 18 USC 1035 and 42 USC 1320a-7b Making False Statements Relating to Health Care matters and committing Criminal Acts Involving Federal Health Care Program [3:98-m-513]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ancer L Haggerty",
+          "judge_guid": "urn:entity:jud-100047643"
+        }
+      ]
+    }
+  ]
+}

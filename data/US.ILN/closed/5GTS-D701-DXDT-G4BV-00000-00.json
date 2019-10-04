@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_115cr528_ILND",
+  "case_key": "1:15cr528_ILND",
+  "case_lni": "5GTS-D701-DXDT-G4BV-00000-00",
+  "case_number": "1:15cr528",
+  "case_title": "USA v. Long",
+  "case_info_full_case_name": "USA v. Long",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Long",
+  "case_date_filed": "2015-08-28",
+  "case_status": "Closed",
+  "case_status_date": "08/28/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;PRO HAC VICE;ATTORNEY TO BE NOTICED;"
+    },
+    {
+      "attorney_name": "AUSA - ",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ulysses Long",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846.C1.F--conspiracy to import a control substance"
+        },
+        {
+          "charge_offence_description": "21:846.C1.F--conspiracy to import a control substa"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jeffrey T. Gilbert",
+          "judge_guid": "urn:entity:jud-100038202"
+        }
+      ]
+    }
+  ]
+}

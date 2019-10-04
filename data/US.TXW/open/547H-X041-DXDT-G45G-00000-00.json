@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_711cr344_TXWD",
+  "case_key": "7:11cr344_TXWD",
+  "case_lni": "547H-X041-DXDT-G45G-00000-00",
+  "case_number": "7:11cr344",
+  "case_title": "USA v. Davis",
+  "case_info_full_case_name": "USA v. Davis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis",
+  "case_date_filed": "2011-10-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Willis Jay Davis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841C=CM.F-CONTROLLED 21USC841(c)(2)"
+        },
+        {
+          "charge_description": "21:841C=CM.F-CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE-Defendant repeatedly purchased over-the-counter medication containing pseudoephedrine and possessed the pseudoephedrine knowing that it would be used to manufacture methamphetamine in violation of Title 21 USC 841(c)(2) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

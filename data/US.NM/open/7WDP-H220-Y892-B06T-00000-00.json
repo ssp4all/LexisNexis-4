@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_209cr2326_NMD",
+  "case_key": "2:09cr2326_NMD",
+  "case_lni": "7WDP-H220-Y892-B06T-00000-00",
+  "case_number": "2:09cr2326",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2009-08-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albert J Williams Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 450 (204 21:846 450 (204"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute 450 lbs (204 kgs) of Marijuana and 21:846 Possession/Conspiracy to distribute 450 lbs (204 kgs) of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "John E. Conway",
+          "judge_guid": "urn:entity:jud-100049792"
+        }
+      ]
+    }
+  ]
+}

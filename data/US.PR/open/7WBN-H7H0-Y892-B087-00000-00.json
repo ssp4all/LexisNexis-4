@@ -1,0 +1,102 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_305cr312_PRD",
+  "case_key": "3:05cr312_PRD",
+  "case_lni": "7WBN-H7H0-Y892-B087-00000-00",
+  "case_number": "3:05cr312",
+  "case_title": "USA v. Encarnacion-Mota et al",
+  "case_info_full_case_name": "USA v. Encarnacion-Mota et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Encarnacion-Mota et al",
+  "case_date_filed": "2005-09-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Scott H. Anderson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rigoberto Encarnacion-Mota",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a) 18 2-NARCOTICS-IMPORT"
+        },
+        {
+          "charge_description": "21:952(a) and Title 18 Sec. 2-NARCOTICS-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(A) 18 2-NARCOTICS-SELL,"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A) and Title 18 Sec. 2-NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F-Controlled 21:846=CD.F-Conspiracy 21:952A=CI.F-Controlled 21:963=CD.F-Attempt/conspiracy-Controlled"
+        },
+        {
+          "charge_description": "21:841A=CD.F-Controlled substance-sell, distribute or dispense, 21:846=CD.F-Conspiracy to distribute controlled substance, 21:952A=CI.F-Controlled substances-import, 21:963=CD.F-Attempt/conspiracy-Controlled substance-distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jay A Garcia-Gregory",
+          "judge_guid": "urn:entity:jud-100055074"
+        }
+      ]
+    },
+    {
+      "party_name": "Alejandro Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a) 18 2-NARCOTICS-IMPORT"
+        },
+        {
+          "charge_description": "21:952(a) and Title 18 Sec. 2-NARCOTICS-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(A) 18 2-NARCOTICS-SELL,"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A) and Title 18 Sec. 2-NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F-Controlled 21:846=CD.F-Conspiracy 21:952A=CI.F-Controlled 21:963=CD.F-Attempt/conspiracy-Controlled"
+        },
+        {
+          "charge_description": "21:841A=CD.F-Controlled substance-sell, distribute or dispense, 21:846=CD.F-Conspiracy to distribute controlled substance, 21:952A=CI.F-Controlled substances-import, 21:963=CD.F-Attempt/conspiracy-Controlled substance-distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jay A Garcia-Gregory",
+          "judge_guid": "urn:entity:jud-100055074"
+        }
+      ]
+    }
+  ]
+}

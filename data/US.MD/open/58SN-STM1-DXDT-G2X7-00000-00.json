@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_813po6342_MDD",
+  "case_key": "8:13po6342_MDD",
+  "case_lni": "58SN-STM1-DXDT-G2X7-00000-00",
+  "case_number": "8:13po6342",
+  "case_title": "USA vs Jiminezcoreas",
+  "case_info_full_case_name": "USA vs Jiminezcoreas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jiminezcoreas",
+  "case_date_filed": "2013-06-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ever M Jiminezcoreas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVER CHANGING LANES WHEN UNSAFE (4067265)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "PERSON DRIVING MOTOR VEH. ON (HWY., PUBLIC USE PROPERTY) ON SUSPENDED LIC. AND P (4067269)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DUI .08 OR HIGHER (4067268)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATING VEHICLE WHILE UNDER INFLUENCE OF ALCOHOL OR  CONTROLLED SUBSTANCE (4067267)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

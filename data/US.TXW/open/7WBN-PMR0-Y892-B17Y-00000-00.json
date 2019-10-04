@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_103m26_txwd",
+  "case_key": "1:03m26_txwd",
+  "case_lni": "7WBN-PMR0-Y892-B17Y-00000-00",
+  "case_number": "1:03m26",
+  "case_title": "USA v. Saenz",
+  "case_info_full_case_name": "USA v. Saenz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Saenz",
+  "case_date_filed": "2003-01-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DESI RENE SAENZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841 (a)(1)"
+        },
+        {
+          "charge_description": "The defendant did knowingly, intentionally, and unlawfully conspire to possess and did possess with intent to distribute a controlled dangerous substance to wit: cocaine in violation of Title 21 USC 841 (a)(1) and 846."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew W. Austin",
+          "judge_guid": "urn:entity:jud-100074069"
+        }
+      ]
+    }
+  ]
+}

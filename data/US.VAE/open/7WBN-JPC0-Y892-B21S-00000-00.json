@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_106mj95_VAED",
+  "case_key": "1:06mj95_VAED",
+  "case_lni": "7WBN-JPC0-Y892-B21S-00000-00",
+  "case_number": "1:06mj95",
+  "case_title": "USA v. Adams",
+  "case_info_full_case_name": "USA v. Adams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adams",
+  "case_date_filed": "2006-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kirk J. Kumagai",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Clarence Adams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 18.2-266(i) of.08&;#037;"
+        },
+        {
+          "charge_description": "18:13 assim. VA Code Sect. 18.2-266(i) Driving While Intoxicated with a BAC of.08&;#037; or More (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 18.2-266(ii)"
+        },
+        {
+          "charge_description": "18:13 assim. VA Code Sect. 18.2-266(ii) Driving While Under the Influence (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 46.2-852"
+        },
+        {
+          "charge_description": "18:13 assim. VA Code Sect. 46.2-852 Reckless Driving (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas Rawles Jones, Jr",
+          "judge_guid": "urn:entity:jud-100032961"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_316mj1753_TXWD",
+  "case_key": "3:16mj1753_TXWD",
+  "case_lni": "5JP5-67V1-DXDT-G17G-00000-00",
+  "case_number": "3:16mj1753",
+  "case_title": "USA v. Rocha-Gonzalez",
+  "case_info_full_case_name": "USA v. Rocha-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rocha-Gonzalez",
+  "case_date_filed": "2016-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Shane Devin Wagman",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Adrian Rocha-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F - REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F - REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anne T. Berton",
+          "judge_guid": "urn:entity:jud-100102882"
+        }
+      ]
+    }
+  ]
+}

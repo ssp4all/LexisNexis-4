@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_217po211_LAED",
+  "case_key": "2:17po211_LAED",
+  "case_lni": "5P51-BF51-DXDT-G2TB-00000-00",
+  "case_number": "2:17po211",
+  "case_title": "USA v. Julia",
+  "case_info_full_case_name": "USA v. Julia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Julia",
+  "case_date_filed": "2017-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ashton M Julia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Vandalism of property (6455277)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Possession of controlled substance (6455275)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen Wells Roby",
+          "judge_guid": "urn:entity:jud-100012065"
+        }
+      ]
+    }
+  ]
+}

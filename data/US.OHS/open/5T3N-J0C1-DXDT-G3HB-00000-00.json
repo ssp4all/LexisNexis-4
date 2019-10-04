@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_218mj632_OHSD",
+  "case_key": "2:18mj632_OHSD",
+  "case_lni": "5T3N-J0C1-DXDT-G3HB-00000-00",
+  "case_number": "2:18mj632",
+  "case_title": "USA v. Juarez-Valenzuela",
+  "case_info_full_case_name": "USA v. Juarez-Valenzuela",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Juarez-Valenzuela",
+  "case_date_filed": "2018-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kelly Ann Norris",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "S. Courter Shimeall",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Juarez-Valenzuela",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F, 8:1326B.F"
+        },
+        {
+          "charge_offence_description": "8:1326A.F, 8:1326B.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kimberly A. Jolson",
+          "judge_guid": "urn:entity:jud-100121150"
+        }
+      ]
+    }
+  ]
+}

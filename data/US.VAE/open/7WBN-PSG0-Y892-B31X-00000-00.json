@@ -1,0 +1,105 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_108mj1064_VAED",
+  "case_key": "1:08mj1064_VAED",
+  "case_lni": "7WBN-PSG0-Y892-B31X-00000-00",
+  "case_number": "1:08mj1064",
+  "case_title": "USA v. Newman",
+  "case_info_full_case_name": "USA v. Newman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Newman",
+  "case_date_filed": "2008-12-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844"
+        },
+        {
+          "charge_description": "21:844 Possession of Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR234.17(a) 234.10(a), 46.2, 830"
+        },
+        {
+          "charge_description": "32 CFR 234.17(a) and 234.10(a), adopting 46.2, Code of VA, 830 Failure to Obey Highway Sign (No left Turn) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR234.17(a) 234.19(a), 46.2, 804(2)"
+        },
+        {
+          "charge_description": "32 CFR 234.17(a) and 234.19(a), adopting 46.2, Code of VA, 804(2) Failure to Stay in Single Lane (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR234.17(b)(2) 234.19(a)"
+        },
+        {
+          "charge_description": "32 CFR 234.17(b)(2) and 234.19(a) Possession of an Open Container (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR234.17(c)(1)(i) 234.19(a)"
+        },
+        {
+          "charge_description": "32 CFR 234.17(c)(1)(i) and 234.19(a) Driving Under the Influence Alcohol (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR234.17(c)(1)(ii) 234.19(a) w/.08"
+        },
+        {
+          "charge_description": "32 CFR 234.17(c)(1)(ii) and 234.19(a) Driving While Intoxicated w/.08 BAC or More (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32CFR234.17(a) 234.19(a)"
+        },
+        {
+          "charge_description": "32 CFR 234.17(a) and 234.19(a) Operating After Suspension (7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas Rawles Jones, Jr",
+          "judge_guid": "urn:entity:jud-100032961"
+        }
+      ]
+    }
+  ]
+}

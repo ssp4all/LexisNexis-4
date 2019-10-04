@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_407mj110_TXND",
+  "case_key": "4:07mj110_TXND",
+  "case_lni": "7WBN-NGY0-Y892-B10D-00000-00",
+  "case_number": "4:07mj110",
+  "case_title": "USA v. Maciel",
+  "case_info_full_case_name": "USA v. Maciel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maciel",
+  "case_date_filed": "2007-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Matias Maciel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18, 922"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIRMARMS in violation of Title 18, United States Code Section 922 (g)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Charles",
+          "judge_name": "Bleil",
+          "judge_guid": "urn:entity:jud-100061392"
+        }
+      ]
+    }
+  ]
+}

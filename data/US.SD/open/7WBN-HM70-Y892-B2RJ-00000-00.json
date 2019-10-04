@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_406cr40108_SDD",
+  "case_key": "4:06cr40108_SDD",
+  "case_lni": "7WBN-HM70-Y892-B2RJ-00000-00",
+  "case_number": "4:06cr40108",
+  "case_title": "USA v. Castillo-Reyes",
+  "case_info_full_case_name": "USA v. Castillo-Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Reyes",
+  "case_date_filed": "2006-11-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Asael Castillo-Reyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "42USC408(a)(7)(B)"
+        },
+        {
+          "charge_description": "42 USC 408(a)(7)(B) Fraudulent Use of Social Security Number (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC911"
+        },
+        {
+          "charge_description": "18 USC 911 False Claim to Citizenship (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Lawrence L. Piersol",
+          "judge_guid": "urn:entity:jud-100027874"
+        },
+        {
+          "judge_name": "John E. Simko",
+          "judge_guid": "urn:entity:jud-100021002"
+        }
+      ]
+    }
+  ]
+}

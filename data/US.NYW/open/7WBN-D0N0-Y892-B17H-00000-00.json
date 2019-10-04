@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_106cr126_NYWD",
+  "case_key": "1:06cr126_NYWD",
+  "case_lni": "7WBN-D0N0-Y892-B17H-00000-00",
+  "case_number": "1:06cr126",
+  "case_title": "USA v. Olszewski",
+  "case_info_full_case_name": "USA v. Olszewski",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Olszewski",
+  "case_date_filed": "2006-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jodi Olszewski",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 846, 960 963--Between 2003, 23, 2004 3,4-methylenedioxymethamphetamine (MDMA), 5 (GHB),"
+        },
+        {
+          "charge_description": "21:841(a)(1), 846, 960 and 963--Between in or about October 2003, the exact date being unknown, and on or about November 23, 2004 in Erie County, in the Western District of New York and elsewhere, the defendants did knowingly, willfully and unlawfully combine, conspire and agree, together and with others known and unknown, to possess with intent to distribute and the distribution of quantities of a mixture and substance containing 3,4-methylenedioxymethamphetamine (MDMA), a Schedule I controlled substance, 5 grams or more of a quantity of a mixture and substance containing a detectable amount of methamphetamine, a Schedule lI controlled substance, a quantity of a mixture and substance containing gamma hyrodxbutric acid (GHB), and quantities of a mixture and substance containing ketamine, a Schedule III controlled substance; and conspiracy to import same."
+        },
+        {
+          "charge_statute": "21:843B-CD.F"
+        },
+        {
+          "charge_description": "USE COMMUNICATIONS FACILITY-CONTROLLED SUBSTANCE-DISTR.; all in violation of 21:843B-CD.F (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Richard J. Arcara",
+          "judge_guid": "urn:entity:jud-100074279"
+        }
+      ]
+    }
+  ]
+}

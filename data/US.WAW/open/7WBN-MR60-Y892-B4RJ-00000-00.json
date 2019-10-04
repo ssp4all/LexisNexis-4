@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_305cr5474_WAWD",
+  "case_key": "3:05cr5474_WAWD",
+  "case_lni": "7WBN-MR60-Y892-B4RJ-00000-00",
+  "case_number": "3:05cr5474",
+  "case_title": "USA v. Barrett",
+  "case_info_full_case_name": "USA v. Barrett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barrett",
+  "case_date_filed": "2005-06-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michelle D Barrett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "James"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_297m406_utd",
+  "case_key": "2:97m406_utd",
+  "case_lni": "7WBN-MBN0-Y892-B0XR-00000-00",
+  "case_number": "2:97m406",
+  "case_title": "USA v. Heaps, et al",
+  "case_info_full_case_name": "USA v. Heaps, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Heaps, et al",
+  "case_date_filed": "1997-11-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PATRICK GARRETT HEAPS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751(a) 752(a)"
+        },
+        {
+          "charge_description": "18:751(a) 752(a) Escape from custody, assisting in escape from custody"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ronald N. Boyce",
+          "judge_guid": "urn:entity:jud-100064568"
+        }
+      ]
+    },
+    {
+      "party_name": "CLARENCE HURT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751(a) 752(a)"
+        },
+        {
+          "charge_description": "18:751(a) 752(a) Escape from custody, assisting in escape from custody"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ronald N. Boyce",
+          "judge_guid": "urn:entity:jud-100064568"
+        }
+      ]
+    },
+    {
+      "party_name": "MELVIN REDMOND",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751(a) 752(a)"
+        },
+        {
+          "charge_description": "18:751(a) 752(a) Escape from custody, assisting in escape from custody"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ronald N. Boyce",
+          "judge_guid": "urn:entity:jud-100064568"
+        }
+      ]
+    }
+  ]
+}

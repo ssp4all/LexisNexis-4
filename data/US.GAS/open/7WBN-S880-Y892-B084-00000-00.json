@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_499cr148_gasd",
+  "case_key": "4:99cr148_gasd",
+  "case_lni": "7WBN-S880-Y892-B084-00000-00",
+  "case_number": "4:99cr148",
+  "case_title": "USA v. Chapman",
+  "case_info_full_case_name": "USA v. Chapman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chapman",
+  "case_date_filed": "1999-09-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANDREW CHAPMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)"
+        },
+        {
+          "charge_description": "21:841(a) Distribution of Cocaine (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "B. Avant Edenfield",
+          "judge_guid": "urn:entity:jud-100081285"
+        }
+      ]
+    }
+  ]
+}

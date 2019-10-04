@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_208cr183_OHSD",
+  "case_key": "2:08cr183_OHSD",
+  "case_lni": "7WBN-KYD0-Y892-B0FH-00000-00",
+  "case_number": "2:08cr183",
+  "case_title": "USA v. Collins",
+  "case_info_full_case_name": "USA v. Collins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Collins",
+  "case_date_filed": "2008-09-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elisha Collins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "James",
+          "judge_name": "L Graham",
+          "judge_guid": "urn:entity:jud-100077919"
+        }
+      ]
+    }
+  ]
+}

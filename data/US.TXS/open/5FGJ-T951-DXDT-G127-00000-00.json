@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_215mj274_TXSD",
+  "case_key": "2:15mj274_TXSD",
+  "case_lni": "5FGJ-T951-DXDT-G127-00000-00",
+  "case_number": "2:15mj274",
+  "case_title": "USA v. Sanchez et al",
+  "case_info_full_case_name": "USA v. Sanchez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez et al",
+  "case_date_filed": "2015-03-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B. Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    },
+    {
+      "party_name": "Maria Nelly Dominguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B. Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    },
+    {
+      "party_name": "Edel Cuevas-Castro",
+      "party_description": "Material Witness"
+    }
+  ]
+}

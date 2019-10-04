@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_399m108_gamd",
+  "case_key": "3:99m108_gamd",
+  "case_lni": "7WBN-N7R0-Y892-B2BY-00000-00",
+  "case_number": "3:99m108",
+  "case_title": "USA v. Hall",
+  "case_info_full_case_name": "USA v. Hall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hall",
+  "case_date_filed": "1999-01-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS HALL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1073-Unlawful"
+        },
+        {
+          "charge_description": "18 U.S.C. 1073-Unlawful flight to avoid prosecution"
+        },
+        {
+          "charge_disposition": "Dismissed by Government; Deft turned over to state authorities. (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Claude W. Hicks, Jr.",
+          "judge_guid": "urn:entity:jud-100051727"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_304cr155_NDD",
+  "case_key": "3:04cr155_NDD",
+  "case_lni": "7WBN-FHT0-Y892-B2YM-00000-00",
+  "case_number": "3:04cr155",
+  "case_title": "USA v. Vazquez-Arvizu",
+  "case_info_full_case_name": "USA v. Vazquez-Arvizu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vazquez-Arvizu",
+  "case_date_filed": "2004-10-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LUIS VAZQUEZ-ARVIZU",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "42USC408(a)(7)(B) (42:408.F"
+        },
+        {
+          "charge_description": "42 USC 408(a)(7)(B) False Representation of Social Security Number (42:408.F MISUSE OF SOCIAL SECURITY NUMBER) (1)"
+        },
+        {
+          "charge_disposition": "time served, $100 special assessment, remanded to the United States Marshal to be delivered to the proper authorities for deportation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Ralph R. Erickson",
+          "judge_guid": "urn:entity:jud-100056411"
+        }
+      ]
+    }
+  ]
+}

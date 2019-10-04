@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_102cr968_ilnd",
+  "case_key": "1:02cr968_ilnd",
+  "case_lni": "7WBN-DH00-Y892-B0KC-00000-00",
+  "case_number": "1:02cr968",
+  "case_title": "United States of America v. Quimby",
+  "case_info_full_case_name": "United States of America v. Quimby",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Quimby",
+  "case_date_filed": "2003-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Former AUSA"
+    },
+    {
+      "attorney_name": "Christina M. Egan",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Quimby",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE AND 18:2 AID AND ABET(1)"
+        },
+        {
+          "charge_disposition": "It is the judgment of this court that: the defendants is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total uninterrupted term of two-hundred-forty (240) months. The defendant is sentenced on all count(s) of conviction, namely, count(s) one to a period of five (5) years of supervised release, said periods to run concurrent. Mandatory conditions of supervised release. Standard conditions of supervised release. Defendant shall pay a fine in the total amount of $2,000.00. Schedule of payments. The defendant is immediately remanded to the custody of the United States Marshal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Joan H. Lefkow",
+          "judge_guid": "urn:entity:jud-100039295"
+        }
+      ]
+    }
+  ]
+}

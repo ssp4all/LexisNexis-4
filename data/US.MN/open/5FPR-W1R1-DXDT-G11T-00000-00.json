@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_015cr105_MND",
+  "case_key": "0:15cr105_MND",
+  "case_lni": "5FPR-W1R1-DXDT-G11T-00000-00",
+  "case_number": "0:15cr105",
+  "case_title": "USA v. Rush",
+  "case_info_full_case_name": "USA v. Rush",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rush",
+  "case_date_filed": "2015-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Miguel Rush",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) FELON IN POSSESSION OF A FIREARM(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) FELON IN POSSESSION OF AMMUNITION(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan Richard Nelson",
+          "judge_guid": "urn:entity:jud-100027550"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leo I. Brisbois",
+          "judge_guid": "urn:entity:jud-100064279"
+        }
+      ]
+    }
+  ]
+}

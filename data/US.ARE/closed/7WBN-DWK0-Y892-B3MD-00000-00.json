@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_498cr1_ared",
+  "case_key": "4:98cr1_ared",
+  "case_lni": "7WBN-DWK0-Y892-B3MD-00000-00",
+  "case_number": "4:98cr1",
+  "case_title": "USA v. Hambrick",
+  "case_info_full_case_name": "USA v. Hambrick",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hambrick",
+  "case_date_filed": "1931-01-01",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kenneth F. Stoll",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL HAMBRICK",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George Howard, Jr.",
+          "judge_guid": "urn:entity:jud-100051115"
+        }
+      ]
+    }
+  ]
+}

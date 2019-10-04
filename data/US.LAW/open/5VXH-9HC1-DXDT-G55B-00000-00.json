@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_719po339_LAWD",
+  "case_key": "7:19po339_LAWD",
+  "case_lni": "5VXH-9HC1-DXDT-G55B-00000-00",
+  "case_number": "7:19po339",
+  "case_title": "USA vs Zhang",
+  "case_info_full_case_name": "USA vs Zhang",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zhang",
+  "case_date_filed": "2019-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Skylar D Washington",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cheng Zhang",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Speeding (7480967)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen Kay",
+          "judge_guid": "urn:entity:jud-100037773"
+        }
+      ]
+    }
+  ]
+}

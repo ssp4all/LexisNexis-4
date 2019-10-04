@@ -1,0 +1,86 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_196cr218_alsd",
+  "case_key": "1:96cr218_alsd",
+  "case_lni": "7WBN-PXM0-Y892-B2MM-00000-00",
+  "case_number": "1:96cr218",
+  "case_title": "USA v. Diedie",
+  "case_info_full_case_name": "USA v. Diedie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diedie",
+  "case_date_filed": "1996-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RENE REINHOLD DIDIE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:4.F"
+        },
+        {
+          "charge_description": "18:4.F WITHHOLDING INFORMATION ON A CRIME (1s)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: time served; dft. remanded to USM; SRT: 1 YR.; spec cond: if dft. leaves US within 30 days from today, he will not be required to report to Prob. Office; however, if he re-enters US within 1 yr. of today, he must report to Prob. Office in South. District within 72 hrs of re-entry; if dft. has not left US by 5/21/97, he must keep Prob. advised as to whether or not he is leaving US; if dft. is not leaving US within 30 days from today, he must report to Probation immed; SA $100 due immed.; stmt. of reasons as set out (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO COUNTERFEIT U. S. CURRENCY (1)"
+        },
+        {
+          "charge_disposition": "Superseded with information (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472.F"
+        },
+        {
+          "charge_description": "18:472.F UTTERING AND POSSESSING COUNTERFEIT U. S. CURRENCY (2)"
+        },
+        {
+          "charge_disposition": "Superseded with information (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472-Whoever 15"
+        },
+        {
+          "charge_description": "18:472-Whoever with intent to defraud, passes, utters, publishes, or sells, or attempt to pas, utter, publish or sell, or with like intent, brings into the United States or keeps in possession, or conceals any falsely made forged, counterfeited, or altered obligation or other security of the United States shall be fined not more than $5,000 or imprisoned for more than 15 yrs. or both [1:96-m-137]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alex T. Howard, Jr.",
+          "judge_guid": "urn:entity:jud-100051122"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Bert W. Milling, Jr.",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    }
+  ]
+}

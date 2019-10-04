@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_199cr472_hid",
+  "case_key": "1:99cr472_hid",
+  "case_lni": "7WBN-GH60-Y892-B4P9-00000-00",
+  "case_number": "1:99cr472",
+  "case_title": "USA v. Broswick",
+  "case_info_full_case_name": "USA v. Broswick",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Broswick",
+  "case_date_filed": "1999-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lori Wai Ling Chang",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRADLEY D. BROSWICK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:661.M 1-4, 1/12/99"
+        },
+        {
+          "charge_description": "18:661.M LARCENY W/IN SPECIAL MARITIME JURISDICTION-CTS 1-4, 1/12/99 Hickam on all counts (1-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M 708-823 1/12/99, 5,6"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER-HRS 708-823 Criminal Property Damage, 1/12/99, Hickam, CTS 5,6 (5-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:1382.P 1/12/99,"
+        },
+        {
+          "charge_description": "18:1382.P ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY, 1/12/99, Hickam (7)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Leslie E Kobayashi",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    }
+  ]
+}

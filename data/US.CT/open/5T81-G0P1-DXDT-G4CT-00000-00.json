@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_318cr201_CTD",
+  "case_key": "3:18cr201_CTD",
+  "case_lni": "5T81-G0P1-DXDT-G4CT-00000-00",
+  "case_number": "3:18cr201",
+  "case_title": "USA v. Torres",
+  "case_info_full_case_name": "USA v. Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres",
+  "case_date_filed": "2018-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F (Possession with Intent to Distribute, and Distribution of, 28 Grams or More of a Mixture and Substance Containing Cocaine Base)"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F (Possession with Intent to Distribute"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL,DISTRIBUTE,OR DISPENSE; Possession with intent to distribute  and distribution of cocaine base(1-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE; Possession with intent to distribute 28 grams or more of cocaine base(6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert N. Chatigny",
+          "judge_guid": "urn:entity:jud-100062844"
+        }
+      ]
+    }
+  ]
+}

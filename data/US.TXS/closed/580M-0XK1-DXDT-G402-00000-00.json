@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_513po3571_TXSD",
+  "case_key": "5:13po3571_TXSD",
+  "case_lni": "580M-0XK1-DXDT-G402-00000-00",
+  "case_number": "5:13po3571",
+  "case_title": "USA v. Carmona-Ramirez",
+  "case_info_full_case_name": "USA v. Carmona-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carmona-Ramirez",
+  "case_date_filed": "2013-03-18",
+  "case_status": "Closed",
+  "case_status_date": "03/18/2013",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jaime Carmona-Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

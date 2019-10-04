@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_212cr744_NJD",
+  "case_key": "2:12cr744_NJD",
+  "case_lni": "5732-KNH1-DXDT-G0N3-00000-00",
+  "case_number": "2:12cr744",
+  "case_title": "USA v. HINTON",
+  "case_info_full_case_name": "USA v. HINTON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "HINTON",
+  "case_date_filed": "2012-11-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GARNET HINTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F ATTEMPT AND CONSPIRACY TO COMMIT MAIL FRAUD (DOF Dec. 2008 - Jan. 2012)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1349.F Conspiracy to commit bank fraud"
+        },
+        {
+          "charge_offence_description": "18:1349.F Conspiracy to commit bank fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kevin McNulty",
+          "judge_guid": "urn:entity:jud-100104544"
+        }
+      ]
+    }
+  ]
+}

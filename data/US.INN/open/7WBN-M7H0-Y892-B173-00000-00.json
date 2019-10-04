@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_295cr33_innd",
+  "case_key": "2:95cr33_innd",
+  "case_lni": "7WBN-M7H0-Y892-B173-00000-00",
+  "case_number": "2:95cr33",
+  "case_title": "USA v. David A Durham",
+  "case_info_full_case_name": "USA v. David A Durham",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "David A Durham",
+  "case_date_filed": "1995-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID A DURHAM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7206"
+        },
+        {
+          "charge_description": "26:7206 DECLARE UNDER PENALTY OF PERJURY-False, fradulent statements (3)"
+        },
+        {
+          "charge_disposition": "Probation-3 yrs. No fine. Special Assessment of $50.00. Restitution of $10,983.80. Home detention beginning 12/1/95 for 6 months. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7206"
+        },
+        {
+          "charge_description": "26:7206 DECLARE UNDER PENALTY OF PERJURY-False, fradulent statements (1-2)"
+        },
+        {
+          "charge_disposition": "Cts 1 &; 2 are DISMISSED upon motion by the Govt. (1-2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James T. Moody",
+          "judge_guid": "urn:entity:jud-100004080"
+        }
+      ]
+    }
+  ]
+}

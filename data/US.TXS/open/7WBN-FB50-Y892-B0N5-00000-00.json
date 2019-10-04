@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_205mj454_TXSD",
+  "case_key": "2:05mj454_TXSD",
+  "case_lni": "7WBN-FB50-Y892-B0N5-00000-00",
+  "case_number": "2:05mj454",
+  "case_title": "USA v. Jackson",
+  "case_info_full_case_name": "USA v. Jackson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jackson",
+  "case_date_filed": "2005-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Orin Jackson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F-Marijuana-Sell,"
+        },
+        {
+          "charge_description": "21:841A=MD.F-Marijuana-Sell, Distribute, or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brian L Owsley",
+          "judge_guid": "urn:entity:jud-100075563"
+        }
+      ]
+    }
+  ]
+}

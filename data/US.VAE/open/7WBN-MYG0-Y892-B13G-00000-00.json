@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_308mj573_VAED",
+  "case_key": "3:08mj573_VAED",
+  "case_lni": "7WBN-MYG0-Y892-B13G-00000-00",
+  "case_number": "3:08mj573",
+  "case_title": "USA v. Trent",
+  "case_info_full_case_name": "USA v. Trent",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trent",
+  "case_date_filed": "2008-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sara Elizabeth Chase",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kenneth W. Trent Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC844(a)-Possession"
+        },
+        {
+          "charge_description": "21 U.S.C. 844(a)-Possession of marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC13 1950 18.2-323.1-Operate"
+        },
+        {
+          "charge_description": "18 U.S.C. 13 ASSIMILATING 1950 CODE OF VIRGINIA, AS AMENDED, 18.2-323.1-Operate motor vehicle while in possession of open container of alcohol (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    }
+  ]
+}

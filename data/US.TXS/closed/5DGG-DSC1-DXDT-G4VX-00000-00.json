@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_714cr1626_TXSD",
+  "case_key": "7:14cr1626_TXSD",
+  "case_lni": "5DGG-DSC1-DXDT-G4VX-00000-00",
+  "case_number": "7:14cr1626",
+  "case_title": "USA v. Bustos-Prado",
+  "case_info_full_case_name": "USA v. Bustos-Prado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bustos-Prado",
+  "case_date_filed": "2014-10-28",
+  "case_status": "Closed",
+  "case_status_date": "04/13/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation"
+    },
+    {
+      "attorney_name": "US "
+    },
+    {
+      "attorney_name": "US Probation - Mc"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Noe Rosendo Bustos-Prado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "Twenty Six (26) months custody of the Bureau of Prisons, no Supervised Release Term, $100 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F"
+        },
+        {
+          "charge_offence_description": "8:1326A.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

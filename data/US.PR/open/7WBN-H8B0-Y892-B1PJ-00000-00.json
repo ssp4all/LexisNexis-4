@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_306cr369_PRD",
+  "case_key": "3:06cr369_PRD",
+  "case_lni": "7WBN-H8B0-Y892-B1PJ-00000-00",
+  "case_number": "3:06cr369",
+  "case_title": "USA v. Cid-Lescalle",
+  "case_info_full_case_name": "USA v. Cid-Lescalle",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cid-Lescalle",
+  "case_date_filed": "2006-11-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luciano Cid-Lescalle",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1001(a)(2)"
+        },
+        {
+          "charge_description": "18:1001(a)(2) FALSE STATEMENTS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "31:5332; 5316"
+        },
+        {
+          "charge_description": "31:5332; 5316 BULK CASH SMUGGLING OUT OF THE UNITED STATES (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "31:5316.F-Reports"
+        },
+        {
+          "charge_description": "31:5316.F-Reports on export and import of monetary instruments, 31:5322A.F-Penalties"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Daniel R Dominguez",
+          "judge_guid": "urn:entity:jud-500000323"
+        }
+      ]
+    }
+  ]
+}

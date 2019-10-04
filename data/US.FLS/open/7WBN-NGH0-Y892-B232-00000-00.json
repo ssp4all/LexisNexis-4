@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_407cr10032_FLSD",
+  "case_key": "4:07cr10032_FLSD",
+  "case_lni": "7WBN-NGH0-Y892-B232-00000-00",
+  "case_number": "4:07cr10032",
+  "case_title": "USA v. Olive",
+  "case_info_full_case_name": "USA v. Olive",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Olive",
+  "case_date_filed": "2007-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Benton Curtis",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alexi Olive",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1)CD.F Possession With Intent to Distribute Cocaine Base"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1)CD.F Possession With Intent to Distrib"
+        },
+        {
+          "charge_description": "CONTROLLED SUBST/POSS WITH INTENT TO /DISTR/DISPENSE/ COCAINE BASE (CRACK) 21:841A=CD.F(1)"
+        },
+        {
+          "charge_disposition": "71 Months Incarceration; 5 years supervised release"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    }
+  ]
+}

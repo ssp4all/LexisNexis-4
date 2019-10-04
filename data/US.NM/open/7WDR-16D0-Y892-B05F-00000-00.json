@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_209mj2400_NMD",
+  "case_key": "2:09mj2400_NMD",
+  "case_lni": "7WDR-16D0-Y892-B05F-00000-00",
+  "case_number": "2:09mj2400",
+  "case_title": "USA v. Sandoval-Hernandez",
+  "case_info_full_case_name": "USA v. Sandoval-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval-Hernandez",
+  "case_date_filed": "2009-08-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Carlos Sandoval-Hernandez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carmen E. Garza",
+          "judge_guid": "urn:entity:jud-100008901"
+        }
+      ]
+    }
+  ]
+}

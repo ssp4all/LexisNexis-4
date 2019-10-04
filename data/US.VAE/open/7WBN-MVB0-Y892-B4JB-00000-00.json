@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_307cr459_VAED",
+  "case_key": "3:07cr459_VAED",
+  "case_lni": "7WBN-MVB0-Y892-B4JB-00000-00",
+  "case_number": "3:07cr459",
+  "case_title": "USA v. Peralta-Garcia",
+  "case_info_full_case_name": "USA v. Peralta-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peralta-Garcia",
+  "case_date_filed": "2007-12-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Carlos Peralta-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a);"
+        },
+        {
+          "charge_description": "8:1326(a); ILLEGAL REENTRY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Henry E. Hudson",
+          "judge_guid": "urn:entity:jud-100033906"
+        }
+      ]
+    }
+  ]
+}

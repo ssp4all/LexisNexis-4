@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_615cr6059_NYWD",
+  "case_key": "6:15cr6059_NYWD",
+  "case_lni": "5FV8-2CT1-DXDT-G1CW-00000-00",
+  "case_number": "6:15cr6059",
+  "case_title": "USA v. Grice",
+  "case_info_full_case_name": "USA v. Grice",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grice",
+  "case_date_filed": "2015-04-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Melissa M. Marangola",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thaddeus Grice",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1591.F SEX TRAFFICKING OF CHILDREN OR BY FORCE, FRAUD OR COERCION(1)"
+        },
+        {
+          "charge_disposition": "240 months, to run concurrent with the sentence the Court previously imposed in case 12-CR-6056; 5 years supervised release; fine waived; $100 SPA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1591.F SEX TRAFFICKING OF CHILDREN OR BY FORCE, FRAUD OR COERCION(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1591.F - defendant did knowingly, in and affecting interstate commerce, recruit, entice, harbor, transport, provide and obtained persons knowingly that threats, force, coercion or fraud would be used to cause the persons to engage in a commercial sex act, and knowing and in reckless disregard of the fact that one person had attained the age of 18 years and would be caused to engage in a commercial sex act"
+        },
+        {
+          "charge_offence_description": "18:1591.F - defendant did knowingly, in and affect"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David G. Larimer",
+          "judge_guid": "urn:entity:jud-100039574"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Marian W. Payson",
+          "judge_guid": "urn:entity:jud-100024892"
+        }
+      ]
+    }
+  ]
+}

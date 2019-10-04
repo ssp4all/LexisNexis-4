@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_107mj2022_NYWD",
+  "case_key": "1:07mj2022_NYWD",
+  "case_lni": "7WBN-D1H0-Y892-B4N5-00000-00",
+  "case_number": "1:07mj2022",
+  "case_title": "USA v. Rosa et al",
+  "case_info_full_case_name": "USA v. Rosa et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosa et al",
+  "case_date_filed": "2007-01-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Betzaida Rosa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 21:843B=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F Controlled Substance Sell Distribute or Dispense, 21:843B=CD.F Use Communication Facility Controlled Substance Distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Hugh B. Scott",
+          "judge_guid": "urn:entity:jud-100072666"
+        }
+      ]
+    },
+    {
+      "party_name": "Zelmaly Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 21:843B=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F Controlled Substance Sell Distribute or Dispense, 21:843B=CD.F Use Communication Facility Controlled Substance Distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Hugh B. Scott",
+          "judge_guid": "urn:entity:jud-100072666"
+        }
+      ]
+    }
+  ]
+}

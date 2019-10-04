@@ -1,0 +1,179 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_105cr103_TXWD",
+  "case_key": "1:05cr103_TXWD",
+  "case_lni": "7WBN-JK40-Y892-B162-00000-00",
+  "case_number": "1:05cr103",
+  "case_title": "USA v. Garces",
+  "case_info_full_case_name": "USA v. Garces",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garces",
+  "case_date_filed": "2005-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GILBERT GARCES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE HEROIN (2-5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21,USC, 846."
+        },
+        {
+          "charge_description": "Defendant did-knowingly, intentionally and unlawfully conspire with others known and unknown to distribute a controlled dangerous substance to wit: heroin in violation of Title 21, USC, Section 846. [1:05-m-134]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lee Yeakel",
+          "judge_guid": "urn:entity:jud-100012994"
+        }
+      ]
+    },
+    {
+      "party_name": "JESSE GATICA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE HEROIN (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21,USC, 841(a)(1)."
+        },
+        {
+          "charge_description": "Defendant did knowingly intentionally and unlawfully possess with intent to distribute a dangerous controlled substance to wit: heroin in violation of Title 21, USC, Section 841(a)(1). [1:05-m-138]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lee Yeakel",
+          "judge_guid": "urn:entity:jud-100012994"
+        }
+      ]
+    },
+    {
+      "party_name": "JOEL GUERRERO JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE HEROIN (4-5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21,USC, 846."
+        },
+        {
+          "charge_description": "Defendant did-knowingly intentionally and unlawfully conspire with others known and unknown to possess with intent to distribute a controlled dangerous substance, to wit: heroin in violation of Title 21, USC, Section 846. [1:05-m-153]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lee Yeakel",
+          "judge_guid": "urn:entity:jud-100012994"
+        }
+      ]
+    },
+    {
+      "party_name": "ANTHONY MULLA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE HEROIN (2-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21,USC, 841(a)(1) 846."
+        },
+        {
+          "charge_description": "Defendant did-knowingly intentionally and unlawfully possess with intent to distribute a dangerous controlled substance, to wit: heroin, knowingly, intentionally and unlawfully conspire with others known and unknown to distribute a controlled dangerous substance to wit: heroin in violation of Title 21, USC, Section 841(a)(1) and 846. [1:05-m-135]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lee Yeakel",
+          "judge_guid": "urn:entity:jud-100012994"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_502cr420_alnd",
+  "case_key": "5:02cr420_alnd",
+  "case_lni": "7WBN-FV80-Y892-B1N3-00000-00",
+  "case_number": "5:02cr420",
+  "case_title": "USA v. Bryant",
+  "case_info_full_case_name": "USA v. Bryant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bryant",
+  "case_date_filed": "2002-09-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "Russell E Penfield",
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY L BRYANT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 13A-10-9,"
+        },
+        {
+          "charge_description": "18:13 FEDERAL STATUTES, OTHER (Sec. 13A-10-9, Code of ALA) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag-Judge",
+          "judge_name": "Harwell G Davis, III",
+          "judge_guid": "urn:entity:jud-100057396"
+        }
+      ]
+    }
+  ]
+}

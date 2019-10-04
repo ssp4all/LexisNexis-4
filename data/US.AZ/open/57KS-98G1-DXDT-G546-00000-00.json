@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_413mj8113_AZD",
+  "case_key": "4:13mj8113_AZD",
+  "case_lni": "57KS-98G1-DXDT-G546-00000-00",
+  "case_number": "4:13mj8113",
+  "case_title": "USA v. Miranda",
+  "case_info_full_case_name": "USA v. Miranda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miranda",
+  "case_date_filed": "2013-01-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Tracy Lee Miranda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) &; (a)(1)(B)(i)&; (a)(1)(B)(iii) Transportation of Illegal Aliens for Profit"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii) & (a)(1)(B)(i)& (a)(1)(B)(iii)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

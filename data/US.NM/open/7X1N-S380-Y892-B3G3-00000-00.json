@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_209cr3194_NMD",
+  "case_key": "2:09cr3194_NMD",
+  "case_lni": "7X1N-S380-Y892-B3G3-00000-00",
+  "case_number": "2:09cr3194",
+  "case_title": "USA v. Reyes-Camargo",
+  "case_info_full_case_name": "USA v. Reyes-Camargo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes-Camargo",
+  "case_date_filed": "2009-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Reyes-Camargo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b):"
+        },
+        {
+          "charge_description": "8:1326(a) and (b): ReEntry of a Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a)(1)&;(a)(2),(b)(1)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a)(1)&;(a)(2),(b)(1)-Reentry After Deportation-Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James O. Browning",
+          "judge_guid": "urn:entity:jud-100064003"
+        }
+      ]
+    }
+  ]
+}

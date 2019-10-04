@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_512mj169_TXWD",
+  "case_key": "5:12mj169_TXWD",
+  "case_lni": "5501-3301-DXDT-G1BN-00000-00",
+  "case_number": "5:12mj169",
+  "case_title": "USA v. Brooks",
+  "case_info_full_case_name": "USA v. Brooks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brooks",
+  "case_date_filed": "2012-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Malcom David Brooks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751A.F-Escape"
+        },
+        {
+          "charge_description": "18:751A.F-Escape (Prisoner in Custody of Institution or Officer)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy Stein Nowak",
+          "judge_guid": "urn:entity:jud-100031325"
+        }
+      ]
+    }
+  ]
+}

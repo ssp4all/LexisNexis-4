@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_305mj235_FLMD",
+  "case_key": "3:05mj235_FLMD",
+  "case_lni": "7WBN-MSH0-Y892-B03J-00000-00",
+  "case_number": "3:05mj235",
+  "case_title": "USA v. Garcia-Heredia",
+  "case_info_full_case_name": "USA v. Garcia-Heredia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Heredia",
+  "case_date_filed": "2005-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Manuel Garcia-Heredia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas E. Morris",
+          "judge_guid": "urn:entity:jud-100015833"
+        }
+      ]
+    }
+  ]
+}

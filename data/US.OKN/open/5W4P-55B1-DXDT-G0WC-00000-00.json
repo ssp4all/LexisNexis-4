@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_419cr94_OKND",
+  "case_key": "4:19cr94_OKND",
+  "case_lni": "5W4P-55B1-DXDT-G0WC-00000-00",
+  "case_number": "4:19cr94",
+  "case_title": "USA v. Diaz-Rangel",
+  "case_info_full_case_name": "USA v. Diaz-Rangel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diaz-Rangel",
+  "case_date_filed": "2019-05-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Luis Diaz-Rangel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326: Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326 Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326 Reentry of Removed Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gregory K Frizzell",
+          "judge_guid": "urn:entity:jud-100016350"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_519cr26_NCWD",
+  "case_key": "5:19cr26_NCWD",
+  "case_lni": "5VRD-D0S1-DXDT-G31R-00000-00",
+  "case_number": "5:19cr26",
+  "case_title": "USA v. Barnes",
+  "case_info_full_case_name": "USA v. Barnes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barnes",
+  "case_date_filed": "2019-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kristopher L. Barnes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(d)(1) SELL FIREARMS TO ADDICTS, FELONS, FUGITIVES (1)"
+        },
+        {
+          "charge_disposition": "24 Months Imprisonment; 2 Years Supervised Release; $100 Special Assessment."
+        },
+        {
+          "charge_offence_description": "18:922(d)(1) SELL FIREARMS TO ADDICTS, FELONS, FUG"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Frank D. Whitney",
+          "judge_guid": "urn:entity:jud-100071610"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David S. Cayer",
+          "judge_guid": "urn:entity:jud-100018638"
+        }
+      ]
+    }
+  ]
+}

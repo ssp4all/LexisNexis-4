@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_214mj2698_NMD",
+  "case_key": "2:14mj2698_NMD",
+  "case_lni": "5CWF-8MP1-DXDT-G2XT-00000-00",
+  "case_number": "2:14mj2698",
+  "case_title": "USA v. Perez-Garcia",
+  "case_info_full_case_name": "USA v. Perez-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Garcia",
+  "case_date_filed": "2014-08-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brock Taylor",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adalberto Perez-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    }
+  ]
+}

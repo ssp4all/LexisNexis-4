@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304m2334_TXWD",
+  "case_key": "3:04m2334_TXWD",
+  "case_lni": "7WBN-RPN0-Y892-B05G-00000-00",
+  "case_number": "3:04m2334",
+  "case_title": "USA v. Ibarra-Silva",
+  "case_info_full_case_name": "USA v. Ibarra-Silva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ibarra-Silva",
+  "case_date_filed": "2004-05-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ADRIAN IBARRA-SILVA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal re-entry after deportation in violation of 8:1326(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_317po284_MND",
+  "case_key": "3:17po284_MND",
+  "case_lni": "5PN7-NFT1-DXDT-G2JT-00000-00",
+  "case_number": "3:17po284",
+  "case_title": "USA vs Moore",
+  "case_info_full_case_name": "USA vs Moore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moore",
+  "case_date_filed": "2017-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Eddie L Moore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Parking in spaces posted as reserved or in excess of a posted time limit (6411969)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Steven E. Rau",
+          "judge_guid": "urn:entity:jud-100018682"
+        }
+      ]
+    }
+  ]
+}

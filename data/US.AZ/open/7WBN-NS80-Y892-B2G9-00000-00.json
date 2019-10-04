@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_499m7152_azd",
+  "case_key": "4:99m7152_azd",
+  "case_lni": "7WBN-NS80-Y892-B2G9-00000-00",
+  "case_number": "4:99m7152",
+  "case_title": "USA, et al v. Myers",
+  "case_info_full_case_name": "USA, et al v. Myers",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Myers",
+  "case_date_filed": "1999-09-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDWARD EUGENE MYERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "CT:1 2 18:2113(a)(d) 3,4,5"
+        },
+        {
+          "charge_description": "CT:1 &; 2 18:2113(a)(d) BANK ROBBERY, ASSAULT WITH A DEADLY WEAPON; CTS: 3,4,5 VIOLENT CRIME/MACHINE GUN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

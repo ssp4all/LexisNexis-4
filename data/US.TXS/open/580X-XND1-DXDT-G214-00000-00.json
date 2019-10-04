@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_113mj311_TXSD",
+  "case_key": "1:13mj311_TXSD",
+  "case_lni": "580X-XND1-DXDT-G214-00000-00",
+  "case_number": "1:13mj311",
+  "case_title": "USA v. Figueroa-Moraga",
+  "case_info_full_case_name": "USA v. Figueroa-Moraga",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Figueroa-Moraga",
+  "case_date_filed": "2013-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Asst ",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Estuardo Erid Figueroa-Moraga",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F, 8:1326B.F; Knowingly and unlawfully was present in the United States after having been previously deported."
+        },
+        {
+          "charge_offence_description": "8:1326A.F, 8:1326B.F; Knowingly and unlawfully was"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

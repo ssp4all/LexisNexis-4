@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_316po45_CASD",
+  "case_key": "3:16po45_CASD",
+  "case_lni": "5HT2-4KY1-DXDT-G1MC-00000-00",
+  "case_number": "3:16po45",
+  "case_title": "USA vs Bosch",
+  "case_info_full_case_name": "USA vs Bosch",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bosch",
+  "case_date_filed": "2016-01-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Rachel D Bosch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Resisting an officer (2922435)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Battery on a peace officer or fireman (2922431)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Battery on a peace officer or fireman (2922432)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Battery on a peace officer or fireman (2922433)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Battery on a peace officer or fireman (2922434)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nita L. Stormes",
+          "judge_guid": "urn:entity:jud-100019878"
+        }
+      ]
+    }
+  ]
+}

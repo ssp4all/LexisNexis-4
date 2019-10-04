@@ -1,0 +1,142 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_510cr1470_TXSD",
+  "case_key": "5:10cr1470_TXSD",
+  "case_lni": "7YSK-C760-Y892-B129-00000-00",
+  "case_number": "5:10cr1470",
+  "case_title": "USA v. Rodriguez et al",
+  "case_info_full_case_name": "USA v. Rodriguez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez et al",
+  "case_date_filed": "2010-06-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Roberto F Ramirez",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-LA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Giovana Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F---BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F---BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_description": "Transporting  undocumented aliens within the U.S. Penalty: not more than 10 Yrs. And/or $250,000.00, $100 cvf, 3 Yrs TSR.(2)"
+        },
+        {
+          "charge_disposition": "3 yrs probation [the deft is placed in home dentention the first 6 months of probation]; the deft is to be gainfully employed or enrolled in a higher education program full-time; drug aftercare; mental health care; the deft is not to handle firearms and there shall be no assocation with felons; no fine [with the condition that the deft will remain in school or continue to be gainfully employed]; $100.00 Special Assessment; the deft waived the appeal as part of the written plea agreement, however, the deft is advised of her right to appeal if she believes the waiver is not valid"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Conspiracy to transport undocumented aliens within the U.S. Penalty: Not more than 5 Yrs. and/or $250,000.00, $100 cvf ea ct., 3 Yrs TSR.(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's oral motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Transporting  undocumented aliens within the U.S. Penalty: not more than 10 Yrs. And/or $250,000.00, $100 cvf, 3 Yrs TSR.(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's oral motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    },
+    {
+      "party_name": "Alejandra Bernal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F---BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F---BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_description": "Transporting  undocumented aliens within the U.S. Penalty: not more than 10 Yrs. And/or $250,000.00, $100 cvf, 3 Yrs TSR.(2)"
+        },
+        {
+          "charge_disposition": "3 yrs probation [the deft is placed in home dentention the first 6 months of probation]; the deft is to be gainfully employed or enrolled in a higher education program full-time; the deft is not to handle firearms and there shall be no assocation with felons; no fine [with the condition that the deft will remain in school or continue to be gainfully employed]; $100.00 Special Assessment; the deft waived the appeal as part of the written plea agreement, however, the deft is advised of her right to appeal if she believes the waiver is not valid."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Conspiracy to transport undocumented aliens within the U.S. Penalty: Not more than 5 Yrs. and/or $250,000.00, $100 cvf ea ct., 3 Yrs TSR.(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's oral motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Transporting  undocumented aliens within the U.S. Penalty: not more than 10 Yrs. And/or $250,000.00, $100 cvf, 3 Yrs TSR.(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's oral motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    },
+    {
+      "party_name": "Francisco Hilario-Meneses",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Violeta Santibanez-Plancarte",
+      "party_description": "Material Witness"
+    }
+  ]
+}

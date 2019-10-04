@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_417mj160_TXSD",
+  "case_key": "4:17mj160_TXSD",
+  "case_lni": "5MVH-PSN1-DXDT-G0RY-00000-00",
+  "case_number": "4:17mj160",
+  "case_title": "USA v. Showole",
+  "case_info_full_case_name": "USA v. Showole",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Showole",
+  "case_date_filed": "2017-02-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jay Hileman",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Olalekan Olaniyi Showole",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1343 Wire Fraud; 18:1546 Fraud and Misuse of Visas, Permits, and other Documents"
+        },
+        {
+          "charge_offence_description": "18:1343 Wire Fraud; 18:1546 Fraud and Misuse of Vi"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dena Hanovice Palermo",
+          "judge_guid": "urn:entity:jud-100124539"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_503m166_cand",
+  "case_key": "5:03m166_cand",
+  "case_lni": "7WBN-NVN0-Y892-B1FS-00000-00",
+  "case_number": "5:03m166",
+  "case_title": "USA v. Melgosa-Ramirez",
+  "case_info_full_case_name": "USA v. Melgosa-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Melgosa-Ramirez",
+  "case_date_filed": "2003-08-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE MELGOSA-RAMIREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Criminal complaint filed against defendant for violation of 8 USC 1326"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard Seeborg",
+          "judge_guid": "urn:entity:jud-100030578"
+        }
+      ]
+    }
+  ]
+}

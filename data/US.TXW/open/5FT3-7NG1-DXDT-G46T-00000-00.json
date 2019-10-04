@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_515mj343_TXWD",
+  "case_key": "5:15mj343_TXWD",
+  "case_lni": "5FT3-7NG1-DXDT-G46T-00000-00",
+  "case_number": "5:15mj343",
+  "case_title": "USA v. Espinosa-Trevino",
+  "case_info_full_case_name": "USA v. Espinosa-Trevino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Espinosa-Trevino",
+  "case_date_filed": "2015-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Espinosa-Trevino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.C. ยง 1326(a) &; (b)(1) - Illegal Re-Entry into the United States after removal or deportation"
+        },
+        {
+          "charge_offence_description": "8 U.S.C. &#167; 1326(a) & (b)(1) - Illegal Re-Entr"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Pamela A. Mathy",
+          "judge_guid": "urn:entity:jud-100041382"
+        }
+      ]
+    }
+  ]
+}

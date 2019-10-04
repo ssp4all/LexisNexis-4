@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_396m1158_tned",
+  "case_key": "3:96m1158_tned",
+  "case_lni": "7WBN-FNM0-Y892-B020-00000-00",
+  "case_number": "3:96m1158",
+  "case_title": "USA v. Way, et al",
+  "case_info_full_case_name": "USA v. Way, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Way, et al",
+  "case_date_filed": "1996-09-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID L WAY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Aided and abetted by each other, did take and carry away personal property of another, with intent to steal or purloin such property, within the boundaries of the Great Smoky Mountains National Park"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Robert P Murrian",
+          "judge_guid": "urn:entity:jud-100040930"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Robert P Murrian",
+          "judge_guid": "urn:entity:jud-100040930"
+        }
+      ]
+    },
+    {
+      "party_name": "SHANE N KINDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Aided and abetted by each other, did take and carry away personal property of another, with intent to steal or purloin such property, within the boundaries of the Great Smoky Mountains National Park"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Robert P Murrian",
+          "judge_guid": "urn:entity:jud-100040930"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Robert P Murrian",
+          "judge_guid": "urn:entity:jud-100040930"
+        }
+      ]
+    }
+  ]
+}

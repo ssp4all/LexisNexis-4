@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_515cr162_WVSD",
+  "case_key": "5:15cr162_WVSD",
+  "case_lni": "5GKS-XFN1-DXDT-G24K-00000-00",
+  "case_number": "5:15cr162",
+  "case_title": "United States of America v. Freeman",
+  "case_info_full_case_name": "United States of America v. Freeman",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Freeman",
+  "case_date_filed": "2015-08-05",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Justin Freeman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. Section 844(a) CONTROLLED SUBSTANCE - POSSESSION of buprenorphine, a Schedule III controlled substance, while acting in the course of his professional practice.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Clarke VanDervort",
+          "judge_guid": "urn:entity:jud-100000222"
+        }
+      ]
+    }
+  ]
+}

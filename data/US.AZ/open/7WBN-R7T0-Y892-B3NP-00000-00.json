@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_206mj143_AZD",
+  "case_key": "2:06mj143_AZD",
+  "case_lni": "7WBN-R7T0-Y892-B3NP-00000-00",
+  "case_number": "2:06mj143",
+  "case_title": "USA v. Hernandez-Ornelas",
+  "case_info_full_case_name": "USA v. Hernandez-Ornelas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Ornelas",
+  "case_date_filed": "2006-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jacki L Ireland",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jaime Hernandez-Ornelas",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Virginia A Mathis",
+          "judge_guid": "urn:entity:jud-100016298"
+        }
+      ]
+    }
+  ]
+}

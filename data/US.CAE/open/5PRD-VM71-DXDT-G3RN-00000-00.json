@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_317po589_CAED",
+  "case_key": "3:17po589_CAED",
+  "case_lni": "5PRD-VM71-DXDT-G3RN-00000-00",
+  "case_number": "3:17po589",
+  "case_title": "USA vs Stromer",
+  "case_info_full_case_name": "USA vs Stromer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stromer",
+  "case_date_filed": "2017-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Leo R Stromer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Disorderly Conduct (6281092)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Unauthorized Loitering or Assembly (6281091)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Possession of Knives Which Exceed a Blade Length or 3 Inches Switchblade Knives (6281093)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Craig M. Kellison",
+          "judge_guid": "urn:entity:jud-100037656"
+        }
+      ]
+    }
+  ]
+}

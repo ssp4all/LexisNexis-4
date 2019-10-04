@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_513cr284_TXSD",
+  "case_key": "5:13cr284_TXSD",
+  "case_lni": "5844-BBR1-DXDT-G2K7-00000-00",
+  "case_number": "5:13cr284",
+  "case_title": "USA v. Quintero",
+  "case_info_full_case_name": "USA v. Quintero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Quintero",
+  "case_date_filed": "2013-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Manuel Quintero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to transport undocumented aliens w/in the U.S. Penalty: Not more than 10 yrs and/or $250,000; $100 each count; Not more than 3 yrs SRT.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Transporting undocumented aliens w/in the U.S. Penalty: Not more than 10 yrs and/or $250,000; $100 each count; Not more than 3 yrs SRT.(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324.F ---- BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F ---- BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Diana Saldana",
+          "judge_guid": "urn:entity:jud-100059638"
+        }
+      ]
+    }
+  ]
+}

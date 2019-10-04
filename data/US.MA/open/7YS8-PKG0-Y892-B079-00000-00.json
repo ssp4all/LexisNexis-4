@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_110cr10128_MAD",
+  "case_key": "1:10cr10128_MAD",
+  "case_lni": "7YS8-PKG0-Y892-B079-00000-00",
+  "case_number": "1:10cr10128",
+  "case_title": "USA v. Sabatini",
+  "case_info_full_case_name": "USA v. Sabatini",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sabatini",
+  "case_date_filed": "2010-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Armine Sabatini",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:666(a)(1)(A), 18:2  Embezzlement(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 1 year and a day; 36 months Supervised Release; $400.00 Special Assessment; $4,000.00 Fine; $144,975.72 Restitution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:666(a)(1)(A), 18:2  Embezzlement(3)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 1 year and a day; 36 months Supervised Release; $400.00 Special Assessment; $4,000.00 Fine; $144,975.72 Restitution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343, 18:2  Wire Fraud(4-5)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 1 year and a day; 36 months Supervised Release; $400.00 Special Assessment; $4,000.00 Fine; $144,975.72 Restitution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:666(a)(1)(A), 18:2  Embezzlement(2)"
+        },
+        {
+          "charge_disposition": "Count Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mark L. Wolf",
+          "judge_guid": "urn:entity:jud-100021893"
+        }
+      ]
+    }
+  ]
+}

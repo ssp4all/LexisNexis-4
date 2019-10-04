@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_314cr10_NDD",
+  "case_key": "3:14cr10_NDD",
+  "case_lni": "5BJR-Y061-DXDT-G04M-00000-00",
+  "case_number": "3:14cr10",
+  "case_title": "USA v. Sotelo-Sotelo",
+  "case_info_full_case_name": "USA v. Sotelo-Sotelo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sotelo-Sotelo",
+  "case_date_filed": "2014-02-20",
+  "case_status": "Closed",
+  "case_status_date": "02/20/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Samuel Sotelo-Sotelo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "Time Served, with credit for time served; $100 special assessment, remad to US Marshal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F Reentry after Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326A.F Reentry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ralph R. Erickson",
+          "judge_guid": "urn:entity:jud-100056411"
+        }
+      ]
+    }
+  ]
+}

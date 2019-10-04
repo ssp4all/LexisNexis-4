@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_315po5592_WAWD",
+  "case_key": "3:15po5592_WAWD",
+  "case_lni": "5FGN-1851-DXDT-G3JF-00000-00",
+  "case_number": "3:15po5592",
+  "case_title": "USA vs Miles",
+  "case_info_full_case_name": "USA vs Miles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miles",
+  "case_date_filed": "2015-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor Joint Base Lewis-McChord",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Defective license plate lamp (4630654)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving under the influence of intoxicating liquor or drug (DWI) (4357994)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David W. Christel",
+          "judge_guid": "urn:entity:jud-100062729"
+        }
+      ]
+    }
+  ]
+}

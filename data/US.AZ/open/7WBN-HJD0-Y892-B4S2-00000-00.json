@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_403cr1782_azd",
+  "case_key": "4:03cr1782_azd",
+  "case_lni": "7WBN-HJD0-Y892-B4S2-00000-00",
+  "case_number": "4:03cr1782",
+  "case_title": "USA v. Panuco-Hermosillo",
+  "case_info_full_case_name": "USA v. Panuco-Hermosillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Panuco-Hermosillo",
+  "case_date_filed": "2003-09-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARTHA HIMELDA PANUCO-HERMOSILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-8:1326(enhanced b2)"
+        },
+        {
+          "charge_description": "count 1-8:1326(enhanced by b2) Re-entry after deportation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Bury",
+          "judge_guid": "urn:entity:jud-100063659"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

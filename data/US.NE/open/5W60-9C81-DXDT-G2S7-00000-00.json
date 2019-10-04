@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_819cr190_NED",
+  "case_key": "8:19cr190_NED",
+  "case_lni": "5W60-9C81-DXDT-G2S7-00000-00",
+  "case_number": "8:19cr190",
+  "case_title": "USA v. Julie Turek",
+  "case_info_full_case_name": "USA v. Julie Turek",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Julie Turek",
+  "case_date_filed": "2019-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Julie Turek",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY-DISTRIBUTE AND POSSESSION WITH INTENT TO DISTRIBUTE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 21:841(b)(1) DISTRIBUTE METHAMPHETAMINE ACTUAL(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 21:841(b)(1) DISTRIBUTE METHAMPHETAMINE(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 21:841(b)(1) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE ACTUAL(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 21:841(b)(1) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Laurie Smith Camp",
+          "judge_guid": "urn:entity:jud-100063438"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael D. Nelson",
+          "judge_guid": "urn:entity:jud-100129287"
+        }
+      ]
+    }
+  ]
+}

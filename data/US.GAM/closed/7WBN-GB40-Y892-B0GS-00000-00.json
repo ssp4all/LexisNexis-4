@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_109mj38_GAMD",
+  "case_key": "1:09mj38_GAMD",
+  "case_lni": "7WBN-GB40-Y892-B0GS-00000-00",
+  "case_number": "1:09mj38",
+  "case_title": "United States of America v. Ramirez-Aguilar",
+  "case_info_full_case_name": "United States of America v. Ramirez-Aguilar",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Ramirez-Aguilar",
+  "case_date_filed": "2009-07-08",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Orlando Ramirez-Aguilar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 1326(b)(2):"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b)(2): Re-entry of illegal alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "U.S. Mag. Judge",
+          "judge_name": "Richard L. Hodge",
+          "judge_guid": "urn:entity:jud-100051514"
+        }
+      ]
+    }
+  ]
+}

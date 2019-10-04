@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_219cr20239_TNWD",
+  "case_key": "2:19cr20239_TNWD",
+  "case_lni": "5WP2-B5C1-DXDT-G0BR-00000-00",
+  "case_number": "2:19cr20239",
+  "case_title": "United States of America v. Reyes",
+  "case_info_full_case_name": "United States of America v. Reyes",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Reyes",
+  "case_date_filed": "2019-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Marques T. Young",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jimmy Reyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F - UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "20 MONTHS incarceration to run concurrent with Shelby County Criminal Case No. 19-00177 and to be served consecutive to any other undischarged anticipated sentence to be followed 3 YEARS SUPERVISED RELEASE. Standard/Mandatory conditions of supervised release. Additional conditions: search provision; drug testing &; treatment; mental health &; testing and treatment; vocational training; MRT; and DNA collection. Special assessment: $100.00. The Court Recommends to the BOP: to be incarcerated as close to Memphis as possible to be near family; RDAP or any other drug abuse program defendant qualifies for."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sheryl H. Lipman",
+          "judge_guid": "urn:entity:jud-100107017"
+        }
+      ]
+    }
+  ]
+}

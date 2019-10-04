@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_301m365_prd",
+  "case_key": "3:01m365_prd",
+  "case_lni": "7WBN-RM10-Y892-B2Y9-00000-00",
+  "case_number": "3:01m365",
+  "case_title": "USA v. Reyes-Diaz",
+  "case_info_full_case_name": "USA v. Reyes-Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes-Diaz",
+  "case_date_filed": "2001-09-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE EDUARDO REYES-DIAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "24.5 21:952(a)"
+        },
+        {
+          "charge_description": "Import, possess w/intent to distribute approximately 24.5 kilograms of cocaine, a Schedule II Controlled Substance, all in violation of Title 21:952(a) &; 21:841(a)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jesus A. Castellanos",
+          "judge_guid": "urn:entity:jud-100094798"
+        }
+      ]
+    }
+  ]
+}

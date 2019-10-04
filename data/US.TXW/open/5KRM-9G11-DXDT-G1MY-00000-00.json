@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_216mj9585_TXWD",
+  "case_key": "2:16mj9585_TXWD",
+  "case_lni": "5KRM-9G11-DXDT-G1MY-00000-00",
+  "case_number": "2:16mj9585",
+  "case_title": "USA v. Zeron-Sanchez",
+  "case_info_full_case_name": "USA v. Zeron-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zeron-Sanchez",
+  "case_date_filed": "2016-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Hemerzon Fabrissio Zeron-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1326(a)(1) Illegal Re-Entry After Deportation from the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1) Illegal Re-Entry After Deportatio"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

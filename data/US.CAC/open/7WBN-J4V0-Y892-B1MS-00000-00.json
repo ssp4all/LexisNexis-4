@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_804cr52_CACD",
+  "case_key": "8:04cr52_CACD",
+  "case_lni": "7WBN-J4V0-Y892-B1MS-00000-00",
+  "case_number": "8:04cr52",
+  "case_title": "USA v. Bermudez",
+  "case_info_full_case_name": "USA v. Bermudez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bermudez",
+  "case_date_filed": "2004-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANSON HIAPO BERMUDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:472"
+        },
+        {
+          "charge_description": "18:472 POSSESSION OF COUNTERFEIT OBLIGATIONS OR SECURITIES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:474"
+        },
+        {
+          "charge_description": "18:474 COUNTERFEITING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:471, 472"
+        },
+        {
+          "charge_description": "Defendant in violation of 18:471, 472 [8:04-m-111]"
+        }
+      ]
+    }
+  ]
+}

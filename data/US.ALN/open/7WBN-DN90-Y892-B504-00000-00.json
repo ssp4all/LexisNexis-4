@@ -1,0 +1,107 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_207mj110_ALND",
+  "case_key": "2:07mj110_ALND",
+  "case_lni": "7WBN-DN90-Y892-B504-00000-00",
+  "case_number": "2:07mj110",
+  "case_title": "USA v. Cunningham et al",
+  "case_info_full_case_name": "USA v. Cunningham et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cunningham et al",
+  "case_date_filed": "2007-04-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Enid D Athanas",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adam Lynn Cunningham",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert R Armstrong",
+          "judge_guid": "urn:entity:jud-100052609"
+        }
+      ]
+    },
+    {
+      "party_name": "James Ray McElroy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert R Armstrong",
+          "judge_guid": "urn:entity:jud-100052609"
+        }
+      ]
+    },
+    {
+      "party_name": "Bonnell Hughes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert R Armstrong",
+          "judge_guid": "urn:entity:jud-100052609"
+        }
+      ]
+    },
+    {
+      "party_name": "Randall Garrett Cole",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert R Armstrong",
+          "judge_guid": "urn:entity:jud-100052609"
+        }
+      ]
+    },
+    {
+      "party_name": "Raymond Kirk Dillard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert R Armstrong",
+          "judge_guid": "urn:entity:jud-100052609"
+        }
+      ]
+    }
+  ]
+}

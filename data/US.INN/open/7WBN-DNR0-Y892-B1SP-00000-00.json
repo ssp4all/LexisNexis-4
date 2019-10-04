@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_208cr19_INND",
+  "case_key": "2:08cr19_INND",
+  "case_lni": "7WBN-DNR0-Y892-B1SP-00000-00",
+  "case_number": "2:08cr19",
+  "case_title": "United States of America v. Fields",
+  "case_info_full_case_name": "United States of America v. Fields",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Fields",
+  "case_date_filed": "2008-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Dean R Lanter - AUSA",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony L Fields Sr DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "18:2113(b)"
+        },
+        {
+          "charge_description": "18:2113(b) BANK THEFT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Philip P Simon",
+          "judge_guid": "urn:entity:jud-100026251"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul R Cherry",
+          "judge_guid": "urn:entity:jud-100049075"
+        }
+      ]
+    }
+  ]
+}

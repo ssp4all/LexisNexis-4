@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_219po60400_AZD",
+  "case_key": "2:19po60400_AZD",
+  "case_lni": "5VJY-8F01-DXDT-G3WH-00000-00",
+  "case_number": "2:19po60400",
+  "case_title": "USA v. Lagos-Pineda",
+  "case_info_full_case_name": "USA v. Lagos-Pineda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lagos-Pineda",
+  "case_date_filed": "2019-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John Andrew Ballos",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Santos Lagos-Pineda",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

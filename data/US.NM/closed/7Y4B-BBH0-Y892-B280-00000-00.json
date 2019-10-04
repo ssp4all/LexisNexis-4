@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_98CR556_NMD",
+  "case_key": "98CR556_NMD",
+  "case_lni": "7Y4B-BBH0-Y892-B280-00000-00",
+  "case_number": "98CR556",
+  "case_title": "USA v. Martinez",
+  "case_info_full_case_name": "USA v. Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez",
+  "case_date_filed": "1998-08-05",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amos Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2241(c), 2246(2)(A) and (D):"
+        },
+        {
+          "charge_description": "18:2241(c), 2246(2)(A) and (D): Sexual Abuse of A Child; 18:1153: Crime on an Indian Reservation (2s)"
+        },
+        {
+          "charge_disposition": "Cbop: 135 Months Followed by 3 Years Supervised Release Upon The Standard Conditions And The Special Conditions That Deft Participate in A Program For Sex Offenders That he Comply With All Sex Offender Registration Requirements And The he Not be in T he Company of Any Child Under The Age of Majority Without The Presence of an Adult; Spa: $100.00; Motion For Downward Departure - Denied; Release Continued"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1153:"
+        },
+        {
+          "charge_description": "18:1153: Crime on an Indian Reservation; 18:2241(C) And 2246(2)(A): Sexual Abuse of A Child (1)"
+        },
+        {
+          "charge_disposition": "Remaining Counts Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2241(c), 2246(2)(A) and (D):"
+        },
+        {
+          "charge_description": "18:2241(c), 2246(2)(A) and (D): Sexual Abuse of A Child; 18:1153: Crime on an Indian Reservation (1s)"
+        },
+        {
+          "charge_disposition": "Remaining Counts Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1153:"
+        },
+        {
+          "charge_description": "18:1153: Crime on an Indian Reservation; 18:2241(C) And 2246(2)(D): Sexual Abuse of A Child (2)"
+        },
+        {
+          "charge_disposition": "Remaining Counts Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Martha Vazquez",
+          "judge_guid": "urn:entity:jud-100000029"
+        }
+      ]
+    },
+    {
+      "party_name": "La Pasada Halfway ",
+      "party_description": "Third Party Custodian"
+    }
+  ]
+}

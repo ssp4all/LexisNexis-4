@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_206mj8147_NJD",
+  "case_key": "2:06mj8147_NJD",
+  "case_lni": "7WBN-D9M0-Y892-B08V-00000-00",
+  "case_number": "2:06mj8147",
+  "case_title": "USA v. CHRISTIE",
+  "case_info_full_case_name": "USA v. CHRISTIE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CHRISTIE",
+  "case_date_filed": "2006-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUSSELL CHRISTIE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252A.F"
+        },
+        {
+          "charge_description": "18:2252A.F possession of child pornography"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Madeline C. Arleo",
+          "judge_guid": "urn:entity:jud-100045665"
+        }
+      ]
+    }
+  ]
+}

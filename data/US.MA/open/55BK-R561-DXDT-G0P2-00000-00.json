@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_112mj6113_MAD",
+  "case_key": "1:12mj6113_MAD",
+  "case_lni": "55BK-R561-DXDT-G0P2-00000-00",
+  "case_number": "1:12mj6113",
+  "case_title": "USA v. Hussain",
+  "case_info_full_case_name": "USA v. Hussain",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hussain",
+  "case_date_filed": "2012-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Shelby D. Wright",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mohamed H. Hussain",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1001.F-FALSE"
+        },
+        {
+          "charge_description": "18:1001.F-FALSE STATEMENTS TO A FEDERAL AGENCY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Ch. Magistrate Judge",
+          "judge_name": "Leo T. Sorokin",
+          "judge_guid": "urn:entity:jud-100018103"
+        }
+      ]
+    }
+  ]
+}

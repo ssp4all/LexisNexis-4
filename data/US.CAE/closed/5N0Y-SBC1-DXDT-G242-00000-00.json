@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_217mj42_CAED",
+  "case_key": "2:17mj42_CAED",
+  "case_lni": "5N0Y-SBC1-DXDT-G242-00000-00",
+  "case_number": "2:17mj42",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2017-03-03",
+  "case_status": "Closed",
+  "case_status_date": "03/09/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Justin Lee , GOVT",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bhimasena Jones",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RULE 5(c)(3)"
+        },
+        {
+          "charge_offence_description": "RULE 5(c)(3)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Allison Claire",
+          "judge_guid": "urn:entity:jud-100102868"
+        }
+      ]
+    }
+  ]
+}

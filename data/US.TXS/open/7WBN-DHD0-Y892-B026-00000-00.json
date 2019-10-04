@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_104mj2644_TXSD",
+  "case_key": "1:04mj2644_TXSD",
+  "case_lni": "7WBN-DHD0-Y892-B026-00000-00",
+  "case_number": "1:04mj2644",
+  "case_title": "USA v. De La Cruz",
+  "case_info_full_case_name": "USA v. De La Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Cruz",
+  "case_date_filed": "2004-08-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Hector Carlos De La Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported and removed; 8 USC 1326."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

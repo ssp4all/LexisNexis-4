@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_310cr3458_CASD",
+  "case_key": "3:10cr3458_CASD",
+  "case_lni": "50WG-7TC1-DXDT-G55X-00000-00",
+  "case_number": "3:10cr3458",
+  "case_title": "USA v. Canizales-Ramirez",
+  "case_info_full_case_name": "USA v. Canizales-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Canizales-Ramirez",
+  "case_date_filed": "2010-08-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Francisco Canizales-Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of a Controlled Substance (Methamphetamine)(Felony)"
+        },
+        {
+          "charge_statute": "21:952 960-Importation (Felony)"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of Methamphetamine (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John A. Houston",
+          "judge_guid": "urn:entity:jud-100034005"
+        }
+      ]
+    }
+  ]
+}

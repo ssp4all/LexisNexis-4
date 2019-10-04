@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_206cr20238_MIED",
+  "case_key": "2:06cr20238_MIED",
+  "case_lni": "7WBN-GRK0-Y892-B0JT-00000-00",
+  "case_number": "2:06cr20238",
+  "case_title": "USA v. Brown",
+  "case_info_full_case_name": "USA v. Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown",
+  "case_date_filed": "2006-05-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kevin Brian Brown",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FALSE OR FRAUDULENT CLAIMS (1-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Patrick J Duggan",
+          "judge_guid": "urn:entity:jud-100044091"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Steven D Pepe",
+          "judge_guid": "urn:entity:jud-100024768"
+        }
+      ]
+    }
+  ]
+}

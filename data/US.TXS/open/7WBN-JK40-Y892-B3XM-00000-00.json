@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_105cr244_TXSD",
+  "case_key": "1:05cr244_TXSD",
+  "case_lni": "7WBN-JK40-Y892-B3XM-00000-00",
+  "case_number": "1:05cr244",
+  "case_title": "USA v. Enciso",
+  "case_info_full_case_name": "USA v. Enciso",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Enciso",
+  "case_date_filed": "2005-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Manuel Enciso",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 8:1326(b):"
+        },
+        {
+          "charge_description": "8:1326(a) and 8:1326(b): Illegal re-entry into the U.S. (found in) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F,"
+        },
+        {
+          "charge_description": "8:1326A.F, knowingly and unlawfully was present in the United States having been found in Kenedy County, Texas, the said defendant having not obtained the consent of the Attorney General and the Secretary of the Department of Homeland Security for reapplication by the defendant for admission into the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

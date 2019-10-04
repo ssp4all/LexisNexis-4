@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_202m6222_azd",
+  "case_key": "2:02m6222_azd",
+  "case_lni": "7WBN-GM60-Y892-B3JV-00000-00",
+  "case_number": "2:02m6222",
+  "case_title": "USA, et al v. Bellman-Mejia",
+  "case_info_full_case_name": "USA, et al v. Bellman-Mejia",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Bellman-Mejia",
+  "case_date_filed": "2002-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FAUSTINO ANGEL BELLMAN-MEJIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2),"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(2), Illegal re-entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David K Duncan",
+          "judge_guid": "urn:entity:jud-100056902"
+        }
+      ]
+    }
+  ]
+}

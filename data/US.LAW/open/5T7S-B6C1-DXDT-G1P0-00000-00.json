@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_118po702_LAWD",
+  "case_key": "1:18po702_LAWD",
+  "case_lni": "5T7S-B6C1-DXDT-G1P0-00000-00",
+  "case_number": "1:18po702",
+  "case_title": "USA vs Bolton",
+  "case_info_full_case_name": "USA vs Bolton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bolton",
+  "case_date_filed": "2018-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Rickey W Bolton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Special closure due to public health or safety (F5389742)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Illegal to possess/operate a motor vehicle on National Forest System (F5389741)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph H L Perez-Montes",
+          "judge_guid": "urn:entity:jud-100119910"
+        }
+      ]
+    }
+  ]
+}

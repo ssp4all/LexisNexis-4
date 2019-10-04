@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_198m1060_nywd",
+  "case_key": "1:98m1060_nywd",
+  "case_lni": "7WBN-D8F0-Y892-B36D-00000-00",
+  "case_number": "1:98m1060",
+  "case_title": "USA v. Edwards",
+  "case_info_full_case_name": "USA v. Edwards",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Edwards",
+  "case_date_filed": "1998-07-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WAVNEY ESLON EDWARDS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P"
+        },
+        {
+          "charge_description": "8:1325.P CONCEALMENT OF FACTS ABOUT REENTRY (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to time served. No fine imposed. Special Assessment penalty is remitted. Gov't oral motion to dismiss the felony charge in the criminal complaint is GRANTED. Defendant is returned to the custody of the Immigration &; Naturalization Service for deportation proceedings. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1326(a) 1325(a)(2)-REENTRY"
+        },
+        {
+          "charge_description": "8:1326(a) and 1325(a)(2)-REENTRY OF DEPORTED ALIENS and CONCEALMENT OF FACTS ABOUT REENTRY"
+        },
+        {
+          "charge_disposition": "8:1326(a)-DISMISSED. (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Leslie G. Foschio",
+          "judge_guid": "urn:entity:jud-100055538"
+        }
+      ]
+    }
+  ]
+}

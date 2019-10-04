@@ -1,0 +1,154 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_185cr709_nysd",
+  "case_key": "1:85cr709_nysd",
+  "case_lni": "7WBN-PTN0-Y892-B45V-00000-00",
+  "case_number": "1:85cr709",
+  "case_title": "USA v. Rodriquez, et al",
+  "case_info_full_case_name": "USA v. Rodriquez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriquez, et al",
+  "case_date_filed": "1985-07-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "OMAR RODRIQUEZ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Edelstein",
+          "judge_guid": "urn:entity:jud-100009852"
+        }
+      ]
+    },
+    {
+      "party_name": "EDWIN VILLANUERA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Edelstein",
+          "judge_guid": "urn:entity:jud-100009852"
+        }
+      ]
+    },
+    {
+      "party_name": "ABIGAIL SURGIO RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONTROLLED SUBSTANCE-POSSESSION (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONTROLLED SUBSTANCE-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 CONTROLLED SUB-SELL, DISTRIBUTE,OR DISPEN (2s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 CONTROLLED SUB-SELL, DISTRIBUTE,OR DISPEN (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Edelstein",
+          "judge_guid": "urn:entity:jud-100009852"
+        }
+      ]
+    },
+    {
+      "party_name": "JUAN ROBERTO CARRASCO/BAUTISTA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Edelstein",
+          "judge_guid": "urn:entity:jud-100009852"
+        }
+      ]
+    },
+    {
+      "party_name": "JULIO AUGUSTO ESCOTTO",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Edelstein",
+          "judge_guid": "urn:entity:jud-100009852"
+        }
+      ]
+    },
+    {
+      "party_name": "RAFAEL AMPARO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE COCAINE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 DISTRIBUTION &; POSSESSION OF COCAINE (2-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Edelstein",
+          "judge_guid": "urn:entity:jud-100009852"
+        }
+      ]
+    }
+  ]
+}

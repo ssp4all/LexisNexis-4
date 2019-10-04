@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSN_302cr30_msnd",
+  "case_key": "3:02cr30_msnd",
+  "case_lni": "7WBN-MJN0-Y892-B2N4-00000-00",
+  "case_number": "3:02cr30",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2003-02-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY L. WILLIAMS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:3146.F"
+        },
+        {
+          "charge_description": "18:3146.F FAILURE TO APPEAR-did knowingly fail to appear for sentencing (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Glen H. Davidson",
+          "judge_guid": "urn:entity:jud-100057441"
+        }
+      ]
+    }
+  ]
+}

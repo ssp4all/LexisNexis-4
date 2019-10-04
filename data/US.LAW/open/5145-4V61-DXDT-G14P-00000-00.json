@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_310cr296_LAWD",
+  "case_key": "3:10cr296_LAWD",
+  "case_lni": "5145-4V61-DXDT-G14P-00000-00",
+  "case_number": "3:10cr296",
+  "case_title": "USA v. Moore",
+  "case_info_full_case_name": "USA v. Moore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moore",
+  "case_date_filed": "2010-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Terrance L Moore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.-Felon in Possession of a Firearm, with Forfeiture Allegations (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert G James",
+          "judge_guid": "urn:entity:jud-100033432"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen L Hayes",
+          "judge_guid": "urn:entity:jud-100009089"
+        }
+      ]
+    }
+  ]
+}

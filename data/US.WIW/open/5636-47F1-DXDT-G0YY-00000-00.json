@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_312cr96_WIWD",
+  "case_key": "3:12cr96_WIWD",
+  "case_lni": "5636-47F1-DXDT-G0YY-00000-00",
+  "case_number": "3:12cr96",
+  "case_title": "United States of America v. Gomez-Maturin, Arturo",
+  "case_info_full_case_name": "United States of America v. Gomez-Maturin, Arturo",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Gomez-Maturin, Arturo",
+  "case_date_filed": "2012-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arturo Gomez-Maturin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William M. Conley",
+          "judge_guid": "urn:entity:jud-100049885"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    }
+  ]
+}

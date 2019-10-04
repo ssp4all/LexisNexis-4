@@ -1,0 +1,86 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_519cr412_TXWD",
+  "case_key": "5:19cr412_TXWD",
+  "case_lni": "5W78-3D81-DXDT-G227-00000-00",
+  "case_number": "5:19cr412",
+  "case_title": "USA v. Flores-Guzman et al",
+  "case_info_full_case_name": "USA v. Flores-Guzman et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Guzman et al",
+  "case_date_filed": "2019-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Fidel Esparza , III",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Gustavo Flores-Guzman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F - CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE Possess with intent to distribute 500 grams or more of a mixture or substance containing a detectable amount of Methamphetamine(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CD.F - CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE Possess 500 grams or more of a mixture or substance containing a detectable amount of Methamphetamine(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CD.F - Conspiracy to Possess with Intent to Distribute Methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F - Conspiracy to Possess with Intent to"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Orlando L. Garcia",
+          "judge_guid": "urn:entity:jud-100055086"
+        }
+      ]
+    },
+    {
+      "party_name": "Roberto Lomeli",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F - CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE Possess 500 grams or more of a mixture or substance containing a detectable amount of Methamphetamine(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CD.F - Conspiracy to Possess with Intent to Distribute Methamphetamine"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F - Conspiracy to Possess with Intent to"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Orlando L. Garcia",
+          "judge_guid": "urn:entity:jud-100055086"
+        }
+      ]
+    }
+  ]
+}

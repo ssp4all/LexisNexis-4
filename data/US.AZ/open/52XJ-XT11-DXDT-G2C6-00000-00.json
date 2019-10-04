@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411mj1979_AZD",
+  "case_key": "4:11mj1979_AZD",
+  "case_lni": "52XJ-XT11-DXDT-G2C6-00000-00",
+  "case_number": "4:11mj1979",
+  "case_title": "USA v. Bustamante-Espinoza",
+  "case_info_full_case_name": "USA v. Bustamante-Espinoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bustamante-Espinoza",
+  "case_date_filed": "2011-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Fernando Bustamante-Espinoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 8:1326 2 8:1325"
+        },
+        {
+          "charge_description": "CT 1 8:1326 Illegal Re-Entry After Deportation; CT 2 8:1325 Illegal Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    }
+  ]
+}

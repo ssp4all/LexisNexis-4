@@ -1,0 +1,155 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_305cr208_FLMD",
+  "case_key": "3:05cr208_FLMD",
+  "case_lni": "7WBN-RPP0-Y892-B3Y4-00000-00",
+  "case_number": "3:05cr208",
+  "case_title": "USA v. Henderson et al",
+  "case_info_full_case_name": "USA v. Henderson et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Henderson et al",
+  "case_date_filed": "2005-07-06",
+  "case_status": "Closed",
+  "case_status_date": "06/09/2006",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Devores Jorrod Henderson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion or pursuant to plea agreement"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion or pursuant to plea agreement"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(4)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion or pursuant to plea agreement"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(5)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion or pursuant to plea agreement"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(6)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's motion or pursuant to plea agreement"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(7)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 145 months; Supervised Release: 48 months; Special Assessment: $100.00. SUPERVISED RELEASE REVOKED on 3/20/2019. Imprisonment: 24 months; No supervision to follow."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Timothy J. Corrigan",
+          "judge_guid": "urn:entity:jud-100049615"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Monte C. Richardson",
+          "judge_guid": "urn:entity:jud-100016666"
+        }
+      ]
+    },
+    {
+      "party_name": "Arthur Jerome Washington, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(5)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 120 months; Supervised Release: 60 months; Special Assessment: $100.00; MODIFIED 6/27/16: Supervised Release Reinstated upon the original terms and conditions set forth in the Judgment dated 6/7/2006, with the following modifications: Defendant shall maintain employment and if he does not, he shall actively seek employment and perform 30 hours community service a week for every week he is not employed. UPDATED 12/1/16 Supervised Release revoked: Imprisonment: 60 days"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Timothy J. Corrigan",
+          "judge_guid": "urn:entity:jud-100049615"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Monte C. Richardson",
+          "judge_guid": "urn:entity:jud-100016666"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_299m170_azd",
+  "case_key": "2:99m170_azd",
+  "case_lni": "7WBN-MF70-Y892-B17J-00000-00",
+  "case_number": "2:99m170",
+  "case_title": "USA v. Mercado-Deras, et al",
+  "case_info_full_case_name": "USA v. Mercado-Deras, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mercado-Deras, et al",
+  "case_date_filed": "1999-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE MERCADO-DERAS",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Virginia A Mathis",
+          "judge_guid": "urn:entity:jud-100016298"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Virginia A Mathis",
+          "judge_guid": "urn:entity:jud-100016298"
+        }
+      ]
+    },
+    {
+      "party_name": "JOSE LUIS AMARAL-CAMPOS",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Virginia A Mathis",
+          "judge_guid": "urn:entity:jud-100016298"
+        }
+      ]
+    }
+  ]
+}

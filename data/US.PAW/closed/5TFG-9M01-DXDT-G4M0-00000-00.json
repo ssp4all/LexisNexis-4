@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_218cr268_PAWD",
+  "case_key": "2:18cr268_PAWD",
+  "case_lni": "5TFG-9M01-DXDT-G4M0-00000-00",
+  "case_number": "2:18cr268",
+  "case_title": "USA v. CAVENDER",
+  "case_info_full_case_name": "USA v. CAVENDER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CAVENDER",
+  "case_date_filed": "2018-10-09",
+  "case_status": "Closed",
+  "case_status_date": "10/11/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIMOTHY LAMON CAVENDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. 841(a)(1) and 21 U.S.C. 841(B)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE A QUANTITY OF HEROIN, A SCHEDULE I DRUG CONTROLLED SUBSTANCE.(1)"
+        },
+        {
+          "charge_disposition": "DEFENDANT COMMITED TO THE CUSTODY OF THE BOP FOR A TERM OF 46 MONTHS WITH CREDIT FOR TIME SERVED FROM 12/9/14; 3 YEARS SUPERVISED RELEASE; $100.00 SPECIAL ASSESSMENT, AND FORFEITURE OF $888.00 IN US CURRENCY. NO FINE OR RESTITUTION; 4/11/19 as to Supervised Release Violation, 24 months imprisonment with credit for time served on any federal detainer, 12 months supervised release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cathy Bissoon",
+          "judge_guid": "urn:entity:jud-100091821"
+        }
+      ]
+    }
+  ]
+}

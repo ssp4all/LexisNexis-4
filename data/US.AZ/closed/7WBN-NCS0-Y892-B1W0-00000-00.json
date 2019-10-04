@@ -1,0 +1,88 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_403m8087_azd",
+  "case_key": "4:03m8087_azd",
+  "case_lni": "7WBN-NCS0-Y892-B1W0-00000-00",
+  "case_number": "4:03m8087",
+  "case_title": "USA, et al v. Favela-Campoa, et al",
+  "case_info_full_case_name": "USA, et al v. Favela-Campoa, et al",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Favela-Campoa, et al",
+  "case_date_filed": "2003-09-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "OMAR FAVELA-CAMPOA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2 21:844(a)"
+        },
+        {
+          "charge_description": "CT 2 21:844(a) MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_disposition": "dft is committed to BOP for 18 months unsupervised probation with the condition that the dft not re-enter the United States of America without permission from the Attorney General of the United States. s/a remitted (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1 21:841(a)(1) 841(b)(1)(B)(vii) 100 1,000 2 21:844(a)"
+        },
+        {
+          "charge_description": "CT 1 21:841(a)(1) and 841(b)(1)(B)(vii) Possess with Intent to Distribute 100 kilograms or more, but less than 1,000 Kilograms of Marijuana CT 2 21:844(a) Possesion of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy F Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    },
+    {
+      "party_name": "LUIS ANTONIO MURILLO-RUIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2 21:844(a)MARIJUANA-POSSESSION"
+        },
+        {
+          "charge_description": "CT 2 21:844(a)MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_disposition": "dft is committed to BOP for 18 months unsupervised probation with the condition that the dft not re-enter the United States of America without permission from the Attorney General of the United States. s/a remitted (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1 21:841(a)(1) 841(b)(1)(B)(vii) 100 1,000 2 21:844(a)"
+        },
+        {
+          "charge_description": "CT 1 21:841(a)(1) and 841(b)(1)(B)(vii) Possess with Intent to Distribute 100 kilograms or more, but less than 1,000 Kilograms of Marijuana CT 2 21:844(a) Possesion of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy F Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    }
+  ]
+}

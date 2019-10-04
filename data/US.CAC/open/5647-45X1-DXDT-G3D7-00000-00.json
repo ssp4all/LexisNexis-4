@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_212mj1685_CACD",
+  "case_key": "2:12mj1685_CACD",
+  "case_lni": "5647-45X1-DXDT-G3D7-00000-00",
+  "case_number": "2:12mj1685",
+  "case_title": "USA v. Barrera",
+  "case_info_full_case_name": "USA v. Barrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barrera",
+  "case_date_filed": "2012-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Benjamin Avila Barrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a),(b)(2):"
+        },
+        {
+          "charge_description": "Defendant in violation of 8:1326(a),(b)(2): ILLEGAL ALIEN FOUND IN THE UNITED STATES FOLLOWING DEPORTATION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Duty Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

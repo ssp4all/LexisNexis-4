@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_299m103_vaed",
+  "case_key": "2:99m103_vaed",
+  "case_lni": "7WBN-MF70-Y892-B0B4-00000-00",
+  "case_number": "2:99m103",
+  "case_title": "USA v. Bryan",
+  "case_info_full_case_name": "USA v. Bryan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bryan",
+  "case_date_filed": "1999-02-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GARY C. BRYAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, RECKLESS DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M 46.2-852 N961127)"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER-RECKLESS DRIVING Assimilating Va. State Code 46.2-852 (Violation Notice No. N961127) (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, DRIVING WHILE LICENSE SUSPENDED (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P 46.2-301 N961126)"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER-DRIVING WHILE ON A SUSPENDED LICENSE Assimilating Va. State Code 46.2-301 (Violation Notice No. N961126) (2s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William T. Prince",
+          "judge_guid": "urn:entity:jud-100032063"
+        }
+      ]
+    }
+  ]
+}

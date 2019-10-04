@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_110cr21_OHSD",
+  "case_key": "1:10cr21_OHSD",
+  "case_lni": "7XSF-NFV0-Y892-B01N-00000-00",
+  "case_number": "1:10cr21",
+  "case_title": "USA v. Christenson",
+  "case_info_full_case_name": "USA v. Christenson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Christenson",
+  "case_date_filed": "2010-02-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kevin M Tierney",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Derek M Christenson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT/MISAPPLICATION BY BANK OFFICER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Herman J. Weber",
+          "judge_guid": "urn:entity:jud-100017650"
+        }
+      ]
+    }
+  ]
+}

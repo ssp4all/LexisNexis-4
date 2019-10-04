@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_799cr248_nynd",
+  "case_key": "7:99cr248_nynd",
+  "case_lni": "7WBN-PBW0-Y892-B3S0-00000-00",
+  "case_number": "7:99cr248",
+  "case_title": "USA v. Anderson",
+  "case_info_full_case_name": "USA v. Anderson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Anderson",
+  "case_date_filed": "1999-05-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ronald Sullivan, SAUSA",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MONDRAE ANDERSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 18,USC, 7 13 511.1"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER: Defendant did operate a motor vehicle upon a public highway knowing and having reason to know that his license and privilege of operating such motor vehicle in the State of NY was suspended, revoked, and otherwise withdrawn by the Commissioner of Motor Vehicles. All in vilolaiton of Title 18, USC, Sections 7 and 13 and Section 511.1 of the NYS Vehicle and Traffic Law. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary L. Sharpe",
+          "judge_guid": "urn:entity:jud-100026578"
+        }
+      ]
+    }
+  ]
+}

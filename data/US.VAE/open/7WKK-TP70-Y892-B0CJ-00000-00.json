@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_209cr136_VAED",
+  "case_key": "2:09cr136_VAED",
+  "case_lni": "7WKK-TP70-Y892-B0CJ-00000-00",
+  "case_number": "2:09cr136",
+  "case_title": "USA v. Thomas",
+  "case_info_full_case_name": "USA v. Thomas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomas",
+  "case_date_filed": "2009-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Thomas SR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.21USC846-Conspiracy marijuana/T.21USC853-Criminal"
+        },
+        {
+          "charge_description": "T.21 USC 846-Conspiracy to distribute and possess with intent to distribute marijuana/T.21 USC 853-Criminal Forfeiture (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Raymond A. Jackson",
+          "judge_guid": "urn:entity:jud-100033530"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_299cr580_cacd",
+  "case_key": "2:99cr580_cacd",
+  "case_lni": "7WBN-MDD0-Y892-B3TX-00000-00",
+  "case_number": "2:99cr580",
+  "case_title": "USA v. Magana",
+  "case_info_full_case_name": "USA v. Magana",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Magana",
+  "case_date_filed": "1999-06-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAYMOND CORONA MAGANA, JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE HEROIN (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE HEROIN (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "Dft in viol of 21:841(a)(1) [2:99-m-1259]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen V. Wilson",
+          "judge_guid": "urn:entity:jud-100022021"
+        }
+      ]
+    },
+    {
+      "party_name": "CHRISTINA ELIAS MAGANA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE HEROIN (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE HEROIN (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:841 846"
+        },
+        {
+          "charge_description": "Dft in viol of 18:841 &; 846 [2:99-m-1259]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen V. Wilson",
+          "judge_guid": "urn:entity:jud-100022021"
+        }
+      ]
+    },
+    {
+      "party_name": "RAUL LOPEZ MARTINEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE HEROIN (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE HEROIN (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "Dft in viol of 21:841(a)(1) [2:99-m-1259]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen V. Wilson",
+          "judge_guid": "urn:entity:jud-100022021"
+        }
+      ]
+    }
+  ]
+}

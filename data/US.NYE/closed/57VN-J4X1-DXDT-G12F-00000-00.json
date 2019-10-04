@@ -1,0 +1,98 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_113cr123_NYED",
+  "case_key": "1:13cr123_NYED",
+  "case_lni": "57VN-J4X1-DXDT-G12F-00000-00",
+  "case_number": "1:13cr123",
+  "case_title": "USA v. Ogando et al",
+  "case_info_full_case_name": "USA v. Ogando et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ogando et al",
+  "case_date_filed": "2013-02-26",
+  "case_status": "Closed",
+  "case_status_date": "12/11/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jonathan Siegel",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Brian D. Morris"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roberto Ogando",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Sentenced to 12 months and 1 day imprisonment; 3 years supervised release; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kiyo A. Matsumoto",
+          "judge_guid": "urn:entity:jud-100041368"
+        }
+      ]
+    },
+    {
+      "party_name": "Ricky Pabon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Sentenced to 60 months imprisonment with credit for time served since February 27, 2013; 4 years supervised release; $41,680 forfeiture; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kiyo A. Matsumoto",
+          "judge_guid": "urn:entity:jud-100041368"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Sentenced to 60 months imprisonment; 4 years supervised release; $14,500 forfeiture; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kiyo A. Matsumoto",
+          "judge_guid": "urn:entity:jud-100041368"
+        }
+      ]
+    }
+  ]
+}

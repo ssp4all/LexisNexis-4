@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_118cr270_ALSD",
+  "case_key": "1:18cr270_ALSD",
+  "case_lni": "5TC7-F3D1-DXDT-G1MM-00000-00",
+  "case_number": "1:18cr270",
+  "case_title": "USA v. Watts",
+  "case_info_full_case_name": "USA v. Watts",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Watts",
+  "case_date_filed": "2018-09-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brian Daniel Watts",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION OF A FIREARM BY A PROHIBITED PERSON (FELON)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Jeffrey U. Beaverstock",
+          "judge_guid": "urn:entity:jud-500000036"
+        }
+      ]
+    }
+  ]
+}

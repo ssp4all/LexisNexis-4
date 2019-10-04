@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_302m73_vawd",
+  "case_key": "3:02m73_vawd",
+  "case_lni": "7WBN-RMT0-Y892-B4HR-00000-00",
+  "case_number": "3:02m73",
+  "case_title": "USA v. Lewis",
+  "case_info_full_case_name": "USA v. Lewis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "2002-03-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOMONIC JABBAR LEWIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371-Conspiracy"
+        },
+        {
+          "charge_description": "18:371-Conspiracy to utter or possess counterfeit securities with intent to deceive another person or government (2-28-02)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Waugh Crigler",
+          "judge_guid": "urn:entity:jud-100045545"
+        }
+      ]
+    }
+  ]
+}

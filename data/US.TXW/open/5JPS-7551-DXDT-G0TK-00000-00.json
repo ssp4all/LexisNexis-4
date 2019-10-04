@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_716mj197_TXWD",
+  "case_key": "7:16mj197_TXWD",
+  "case_lni": "5JPS-7551-DXDT-G0TK-00000-00",
+  "case_number": "7:16mj197",
+  "case_title": "USA v. Galindo",
+  "case_info_full_case_name": "USA v. Galindo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galindo",
+  "case_date_filed": "2016-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alfonso Galindo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922N.F Receiving a firearm while under felony indictment"
+        },
+        {
+          "charge_offence_description": "18:922N.F Receiving a firearm while under felony i"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    }
+  ]
+}

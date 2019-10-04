@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_100m801_hid",
+  "case_key": "1:00m801_hid",
+  "case_lni": "7WBN-F170-Y892-B3CP-00000-00",
+  "case_number": "1:00m801",
+  "case_title": "USA v. Luera",
+  "case_info_full_case_name": "USA v. Luera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Luera",
+  "case_date_filed": "2000-12-04",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MANUEL OMAR LUERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) possess with intent to distribute marijuana Sched. I narcotic controlled substance 12/4/00"
+        },
+        {
+          "charge_disposition": "dismissed w/o prejudice (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Leslie E Kobayashi",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    }
+  ]
+}

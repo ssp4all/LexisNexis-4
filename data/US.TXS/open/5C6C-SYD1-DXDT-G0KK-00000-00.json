@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_514cr420_TXSD",
+  "case_key": "5:14cr420_TXSD",
+  "case_lni": "5C6C-SYD1-DXDT-G0KK-00000-00",
+  "case_number": "5:14cr420",
+  "case_title": "USA v. Lefford",
+  "case_info_full_case_name": "USA v. Lefford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lefford",
+  "case_date_filed": "2014-05-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Allen Lee Lefford",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to transport undocumented aliens within the United States. Penalty: not more than 10  yrs and/or $250,000.00; $100 CVF; not more than 3 yrs TSR(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Transport and attempt to transport undocumented aliens for financial gain. Penalty: not more than 10  yrs and/or $250,000.00; $100 CVF; not more than 3 yrs TSR(2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324.F  BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F  BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Cano-Perales",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Juan Carlos Salazar-Diaz De Leon",
+      "party_description": "Material Witness"
+    }
+  ]
+}

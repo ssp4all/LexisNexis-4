@@ -1,0 +1,97 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_411cr756_TXSD",
+  "case_key": "4:11cr756_TXSD",
+  "case_lni": "545V-F6M1-DXDT-G147-00000-00",
+  "case_number": "4:11cr756",
+  "case_title": "USA v. Lance",
+  "case_info_full_case_name": "USA v. Lance",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lance",
+  "case_date_filed": "2011-10-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shane Lance",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "10 months confinement each Ct. 1 &; 6 to run concurrently to be served 5 months in custody and 5 months in home confinment; 3 yrs SPR for each Ct 1 &; 6 to run concurrently, supervision to be transferred to North Carolina; $5,100 Restitution; $100 special assessment for each Ct. 1 &; 6 for a total of $200"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "TRAFFICKING IN COUNTERFEIT GOODS(6)"
+        },
+        {
+          "charge_disposition": "10 months confinement each Ct. 1 &; 6 to run concurrently to be served 5 months in custody and 5 months in home confinment; 3 yrs SPR for each Ct 1 &; 6 to run concurrently, supervision to be transferred to North Carolina; $5,100 Restitution; $100 special assessment for each Ct. 1 &; 6 for a total of $200"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MISBRANDED DRUG(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed on the Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "COUNTERFEIT DRUG(4-5)"
+        },
+        {
+          "charge_disposition": "Dismissed on the Government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Knowingly and intentionally traffic and attempt to traffic in courterfeit goods, namely Viagra and Cialis pharmaceutical drugs without the authorization of the registered holders of the trademarks; Introduction and causing the itnroduction in itnerstate commerce pharmaceutical drugs that were misbranded with the intent to defraud and mislead; In violation 18 USC 371 and 2320(a) &; 21 USC 331, 18:371.F"
+        },
+        {
+          "charge_offence_description": "Knowingly and intentionally traffic and attempt to"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Vanessa D Gilmore",
+          "judge_guid": "urn:entity:jud-100038144"
+        }
+      ]
+    }
+  ]
+}

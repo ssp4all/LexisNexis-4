@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_495m1536_mad",
+  "case_key": "4:95m1536_mad",
+  "case_lni": "7WBN-HR80-Y892-B2GN-00000-00",
+  "case_number": "4:95m1536",
+  "case_title": "USA v. Boyd",
+  "case_info_full_case_name": "USA v. Boyd",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Boyd",
+  "case_date_filed": "1996-01-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANNY D. BOYD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Title 18:13*"
+        },
+        {
+          "charge_disposition": "complaint dismissed. (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "C. B. Swartwood, III",
+          "judge_guid": "urn:entity:jud-100055067"
+        }
+      ]
+    }
+  ]
+}

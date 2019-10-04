@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_103mj84_mad",
+  "case_key": "1:03mj84_mad",
+  "case_lni": "7WBN-D780-Y892-B2RM-00000-00",
+  "case_number": "1:03mj84",
+  "case_title": "USA v. Doe",
+  "case_info_full_case_name": "USA v. Doe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Doe",
+  "case_date_filed": "2003-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John Doe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Willfully and knowingly making false statement in application for U.S. passport, 18 USC 1542"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lawrence P. Cohen",
+          "judge_guid": "urn:entity:jud-100062387"
+        }
+      ]
+    }
+  ]
+}

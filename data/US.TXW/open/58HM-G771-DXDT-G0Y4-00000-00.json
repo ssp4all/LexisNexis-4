@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_313mj2454_TXWD",
+  "case_key": "3:13mj2454_TXWD",
+  "case_lni": "58HM-G771-DXDT-G0Y4-00000-00",
+  "case_number": "3:13mj2454",
+  "case_title": "USA v. VALTIERRA Gonzalez",
+  "case_info_full_case_name": "USA v. VALTIERRA Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "VALTIERRA Gonzalez",
+  "case_date_filed": "2013-05-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Luis VALTIERRA Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_offence_description": "_"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

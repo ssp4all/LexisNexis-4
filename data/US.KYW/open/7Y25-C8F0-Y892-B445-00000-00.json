@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_510mj97_KYWD",
+  "case_key": "5:10mj97_KYWD",
+  "case_lni": "7Y25-C8F0-Y892-B445-00000-00",
+  "case_number": "5:10mj97",
+  "case_title": "USA v. Chase",
+  "case_info_full_case_name": "USA v. Chase",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chase",
+  "case_date_filed": "2010-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Randee M. Chase",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "W. David King",
+          "judge_guid": "urn:entity:jud-100040342"
+        }
+      ]
+    }
+  ]
+}

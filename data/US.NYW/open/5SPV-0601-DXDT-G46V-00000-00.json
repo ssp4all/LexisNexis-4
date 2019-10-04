@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_618mj588_NYWD",
+  "case_key": "6:18mj588_NYWD",
+  "case_lni": "5SPV-0601-DXDT-G46V-00000-00",
+  "case_number": "6:18mj588",
+  "case_title": "USA v. Newton et al",
+  "case_info_full_case_name": "USA v. Newton et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Newton et al",
+  "case_date_filed": "2018-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Melissa M. Marangola",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bruce Newton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1591.F SEX TRAFFICKING OF CHILDREN OR BY FORCE, FRAUD OR COERCION, 18:1594.F FORFEITURE"
+        },
+        {
+          "charge_offence_description": "18:1591.F SEX TRAFFICKING OF CHILDREN OR BY FORCE,"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    },
+    {
+      "party_name": "Cearra Campbell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1591.F SEX TRAFFICKING OF CHILDREN OR BY FORCE, FRAUD OR COERCION, 18:1594.F FORFEITURE"
+        },
+        {
+          "charge_offence_description": "18:1591.F SEX TRAFFICKING OF CHILDREN OR BY FORCE,"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    }
+  ]
+}

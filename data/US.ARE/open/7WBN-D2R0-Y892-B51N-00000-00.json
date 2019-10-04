@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_494m03014_ared",
+  "case_key": "4:94m03014_ared",
+  "case_lni": "7WBN-D2R0-Y892-B51N-00000-00",
+  "case_number": "4:94m03014",
+  "case_title": "USA v. Hopkins",
+  "case_info_full_case_name": "USA v. Hopkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hopkins",
+  "case_date_filed": "1994-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALTON HENRY HOPKINS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 846 8"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 846 Conspiracy to distribute approx 8 ounces of methamphetamine"
+        },
+        {
+          "charge_description": "ALTON HENRY HOPKINS"
+        },
+        {
+          "charge_description": "defendant"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Henry L. Jones, Jr.",
+          "judge_guid": "urn:entity:jud-100050211"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_110mj646_TXSD",
+  "case_key": "1:10mj646_TXSD",
+  "case_lni": "7YS8-YBY0-Y892-B52W-00000-00",
+  "case_number": "1:10mj646",
+  "case_title": "USA v. Escobar-Herrera",
+  "case_info_full_case_name": "USA v. Escobar-Herrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Escobar-Herrera",
+  "case_date_filed": "2010-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Escobar-Herrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F:"
+        },
+        {
+          "charge_description": "8:1326A.F: knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported and removed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

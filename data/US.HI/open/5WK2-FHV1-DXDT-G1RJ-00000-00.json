@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_119cr103_HID",
+  "case_key": "1:19cr103_HID",
+  "case_lni": "5WK2-FHV1-DXDT-G1RJ-00000-00",
+  "case_number": "1:19cr103",
+  "case_title": "USA v. Buchanan",
+  "case_info_full_case_name": "USA v. Buchanan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Buchanan",
+  "case_date_filed": "2019-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Aramis Buchanan",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "JILL A. OTAKE",
+          "judge_guid": "urn:entity:jud-500000040"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411cr2134_AZD",
+  "case_key": "4:11cr2134_AZD",
+  "case_lni": "533R-WH11-DXDT-G1JD-00000-00",
+  "case_number": "4:11cr2134",
+  "case_title": "USA v. Ramirez et al",
+  "case_info_full_case_name": "USA v. Ramirez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez et al",
+  "case_date_filed": "2011-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gordon Elliott Davenport , III",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel E Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846; 21:841(a)(1) 841(b)(1)(D)"
+        },
+        {
+          "charge_description": "21:846; 21:841(a)(1) and 841(b)(1)(D) Conspiracy to possess with intent to distribute marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(D)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D) Possession with intent to distribute marijuana (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(B)(vii) 21:846"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B)(vii) Possession With Intent to Distribute Marijuana; All in Violation of 21:846 Conspiracy to Possess With Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hector C Estrada",
+          "judge_guid": "urn:entity:jud-100056372"
+        }
+      ]
+    },
+    {
+      "party_name": "Miguel Issac Morales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846; 21:841(a)(1) 841(b)(1)(D)"
+        },
+        {
+          "charge_description": "21:846; 21:841(a)(1) and 841(b)(1)(D) Conspiracy to possess with intent to distribute marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(D)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D) Possession with intent to distribute marijuana (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(B)(vii) 21:846"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B)(vii) Possession With Intent to Distribute Marijuana; All in Violation of 21:846 Conspiracy to Possess With Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hector C Estrada",
+          "judge_guid": "urn:entity:jud-100056372"
+        }
+      ]
+    }
+  ]
+}

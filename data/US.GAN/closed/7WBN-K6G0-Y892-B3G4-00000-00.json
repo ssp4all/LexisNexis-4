@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_198cr318_gand",
+  "case_key": "1:98cr318_gand",
+  "case_lni": "7WBN-K6G0-Y892-B3G4-00000-00",
+  "case_number": "1:98cr318",
+  "case_title": "USA v. Del Rosario",
+  "case_info_full_case_name": "USA v. Del Rosario",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Del Rosario",
+  "case_date_filed": "1998-08-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey Brickman",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JULIO DEL ROSARIO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F PROVISION-21:853(p)"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE FORFEITURE PROVISION-21:853(p) (1-5)"
+        },
+        {
+          "charge_disposition": "CBOP 37 mos, followed by 5 yrs spv'd release. Dft to pay $100 special assessment. (1-5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possess with intent to distribute cocaine [1:98-m-792]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Clarence Cooper",
+          "judge_guid": "urn:entity:jud-100079722"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John E. Dougherty",
+          "judge_guid": "urn:entity:jud-100044327"
+        }
+      ]
+    }
+  ]
+}

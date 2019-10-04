@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_219mj1234_NMD",
+  "case_key": "2:19mj1234_NMD",
+  "case_lni": "5W42-6K91-J9YR-S2DF-00000-00",
+  "case_number": "2:19mj1234",
+  "case_title": "USA v. Guzman-Jimenez",
+  "case_info_full_case_name": "USA v. Guzman-Jimenez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guzman-Jimenez",
+  "case_date_filed": "2019-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Alfredo Guzman-Jimenez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephan M. Vidmar",
+          "judge_guid": "urn:entity:jud-100018913"
+        }
+      ]
+    }
+  ]
+}

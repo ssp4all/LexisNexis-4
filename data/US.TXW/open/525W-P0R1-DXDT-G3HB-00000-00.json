@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_211mj987_TXWD",
+  "case_key": "2:11mj987_TXWD",
+  "case_lni": "525W-P0R1-DXDT-G3HB-00000-00",
+  "case_number": "2:11mj987",
+  "case_title": "USA v. Ortega",
+  "case_info_full_case_name": "USA v. Ortega",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortega",
+  "case_date_filed": "2011-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Eduardo Humberto Ortega",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "_"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

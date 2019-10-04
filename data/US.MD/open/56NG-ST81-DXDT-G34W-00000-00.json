@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_812po13169_MDD",
+  "case_key": "8:12po13169_MDD",
+  "case_lni": "56NG-ST81-DXDT-G34W-00000-00",
+  "case_number": "8:12po13169",
+  "case_title": "USA vs Zhad",
+  "case_info_full_case_name": "USA vs Zhad",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zhad",
+  "case_date_filed": "2012-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Xingyi Zhad",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAIL TO DISPLAY REG. CARD ON DEMAND (3642245)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "FAILURE TO OBEY (3642244)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

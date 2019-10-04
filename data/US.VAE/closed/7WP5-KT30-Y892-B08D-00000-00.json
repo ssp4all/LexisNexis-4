@@ -1,0 +1,153 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_309cr336_VAED",
+  "case_key": "3:09cr336_VAED",
+  "case_lni": "7WP5-KT30-Y892-B08D-00000-00",
+  "case_number": "3:09cr336",
+  "case_title": "USA v. Dykes et al",
+  "case_info_full_case_name": "USA v. Dykes et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dykes et al",
+  "case_date_filed": "2009-09-22",
+  "case_status": "Closed",
+  "case_status_date": "03/19/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "James Robert Bryden , II"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Joyce Dykes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349; 18:982(a)(2); 18:981(a)(1)(C) as incorp. by 28:2461(c); Conspiracy to Commit Wire Fraud; Forfeiture Allegation of related property(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment for a term of 30 months; placed on Supervised Release for a term of 3 years; $100.00 Special Assessment, Restitution in the sum of $107,134.50"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343; 18:982(a)(2); 18:981(a)(1)(C) as incorp. by 28:2461(c); Wire Fraud; Forfeiture Allegation of Related Property(2)"
+        },
+        {
+          "charge_disposition": "Imprisonment for a term of 30 months to run concurrent with the term imposed on Count 1; placed on Supervised Release for a term of 3 years to run concurrent with the term imposed on Count 1; $100.00 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343; 18:982(a)(2); 18:981(a)(1)(C) as incorp. by 28:2461(c); Wire Fraud; Forfeiture Allegation of Related Property(3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert E. Payne",
+          "judge_guid": "urn:entity:jud-100028253"
+        }
+      ]
+    },
+    {
+      "party_name": "Roland A. Nicholson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1343; 18:982(a)(2); 18:981(a)(1)(C) as incorp. by 28:2461(c); Wire Fraud; Forfeiture Allegation of Related Property(4)"
+        },
+        {
+          "charge_disposition": "Imprisonment for a term of 12 months and 1 day; placed on Supervised Release for a term fo 3 years; $100.00 Special Assessmentj; Restitution in the sum of $56,937.50"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1349; 18:982(a)(2); 18:981(a)(1)(C) as incorp. by 28:2461(c); Conspiracy to Commit Wire Fraud; Forfeiture Allegation of related property(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343; 18:982(a)(2); 18:981(a)(1)(C) as incorp. by 28:2461(c); Wire Fraud; Forfeiture Allegation of Related Property(5)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert E. Payne",
+          "judge_guid": "urn:entity:jud-100028253"
+        }
+      ]
+    },
+    {
+      "party_name": "Kevin Croom",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Bank Theft (18:2113(b))(1s)"
+        },
+        {
+          "charge_disposition": "5 YEARS PROBATION; $100 S/A; RESTITUTION JT. &; SEVERAL WITH CO-DFT; $17,913"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1349; 18:982(a)(2); 18:981(a)(1)(C) as incorp. by 28:2461(c); Conspiracy to Commit Wire Fraud; Forfeiture Allegation of related property(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON MOTION OF THE GOVERNMENT."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343; 18:982(a)(2); 18:981(a)(1)(C) as incorp. by 28:2461(c); Wire Fraud; Forfeiture Allegation of Related Property(6-7)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON MOTION OF THE GOVERNMENT."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert E. Payne",
+          "judge_guid": "urn:entity:jud-100028253"
+        }
+      ]
+    }
+  ]
+}

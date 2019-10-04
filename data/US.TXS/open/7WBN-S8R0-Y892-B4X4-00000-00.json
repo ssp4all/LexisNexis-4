@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502cr665_txsd",
+  "case_key": "5:02cr665_txsd",
+  "case_lni": "7WBN-S8R0-Y892-B4X4-00000-00",
+  "case_number": "5:02cr665",
+  "case_title": "USA v. Flores-Martinez",
+  "case_info_full_case_name": "USA v. Flores-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Martinez",
+  "case_date_filed": "2002-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Ct.1: 8:1326A.F 10 3"
+        },
+        {
+          "charge_description": "Ct.1: 8:1326A.F Illegal entry after deportation. Penalty: imprisonment of not more than 10 Yrs, $250,000.00, 3 Yrs TSr, $100 CVF. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Knowingly and willingly re-entered the United States after having previously been arrested and deported from the United States. [5:02-m-1487]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Filemon B. Vela",
+          "judge_guid": "urn:entity:jud-100000013"
+        }
+      ]
+    }
+  ]
+}

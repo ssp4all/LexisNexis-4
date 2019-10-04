@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_107cr332_ALSD",
+  "case_key": "1:07cr332_ALSD",
+  "case_lni": "7WBN-G7V0-Y892-B48M-00000-00",
+  "case_number": "1:07cr332",
+  "case_title": "USA v. Lakes",
+  "case_info_full_case_name": "USA v. Lakes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lakes",
+  "case_date_filed": "2007-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John Lee Lakes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113A.F - charging him or her with bank robbery"
+        },
+        {
+          "charge_offence_description": "18:2113A.F - charging him or her with bank robbery"
+        },
+        {
+          "charge_description": "BANK ROBBERY BY FORCE OR VIOLENCE(1)"
+        },
+        {
+          "charge_disposition": "Defendant is hereby committed to the BOP for a term of 42 MONTHS. It is recommended that defendant be allowed to participate in residential, comprehensive substance abuse treatment while incarcerated. SRT THREE (3) YEARS. Defendant is to participate in a program of testing and treatment for drug and/or alcohol treatment as directed by the Probation Office. SA $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "William H. Steele",
+          "judge_guid": "urn:entity:jud-100020155"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bert W. Milling, Jr",
+          "judge_guid": "urn:entity:jud-100025728"
+        }
+      ]
+    }
+  ]
+}

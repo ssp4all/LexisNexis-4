@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_202m3001_azd",
+  "case_key": "2:02m3001_azd",
+  "case_lni": "7WBN-R3T0-Y892-B322-00000-00",
+  "case_number": "2:02m3001",
+  "case_title": "USA, et al v. Belt",
+  "case_info_full_case_name": "USA, et al v. Belt",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Belt",
+  "case_date_filed": "2002-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM HENRY BELT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708;"
+        },
+        {
+          "charge_description": "18:1708; Possession of stolen mail"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    }
+  ]
+}

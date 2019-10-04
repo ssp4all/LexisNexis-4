@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_497m690_gamd",
+  "case_key": "4:97m690_gamd",
+  "case_lni": "7WBN-NPJ0-Y892-B2P9-00000-00",
+  "case_number": "4:97m690",
+  "case_title": "USA v. Burroughs",
+  "case_info_full_case_name": "USA v. Burroughs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Burroughs",
+  "case_date_filed": "1997-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Signa R. Oliver",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM P. BURROUGHS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M"
+        },
+        {
+          "charge_description": "18:13-7210.M TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_disposition": "Twelve (12) months probation; $300.00 Fine. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER (2)"
+        },
+        {
+          "charge_disposition": "$50.00 Fine. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William L. Slaughter",
+          "judge_guid": "urn:entity:jud-100091357"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_208cr20287_MIED",
+  "case_key": "2:08cr20287_MIED",
+  "case_lni": "7WBN-D0N0-Y892-B2M4-00000-00",
+  "case_number": "2:08cr20287",
+  "case_title": "USA v. Vasquez et al",
+  "case_info_full_case_name": "USA v. Vasquez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasquez et al",
+  "case_date_filed": "2008-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Adrian Vasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS (4-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS (7-8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "ILLEGAL ENTRY, CONCEALMENT OF FACTS (9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    },
+    {
+      "party_name": "Alexander Melero-Rosado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS (8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "ILLEGAL ENTRY, CONCEALMENT OF FACTS (10)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    },
+    {
+      "party_name": "Jorge Carrizales-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_description": "FRAUD WITH IDENTIFICATION DOCUMENTS (5-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS (11)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    }
+  ]
+}

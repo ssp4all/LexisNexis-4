@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_300cr227_flmd",
+  "case_key": "3:00cr227_flmd",
+  "case_lni": "7WBN-MFP0-Y892-B3SY-00000-00",
+  "case_number": "3:00cr227",
+  "case_title": "USA v. Gonzalez",
+  "case_info_full_case_name": "USA v. Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez",
+  "case_date_filed": "2000-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FERNANDO GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546.F"
+        },
+        {
+          "charge_description": "18:1546.F FRAUD AND MISUSE OF VISAS/PERMITS (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A.F"
+        },
+        {
+          "charge_description": "18:1028A.F FRAUD WITH IDENTIFICATION DOCUMENTS (2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408.F"
+        },
+        {
+          "charge_description": "42:408.F MISUSE OF SOCIAL SECURITY NUMBER (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546.F"
+        },
+        {
+          "charge_description": "18:1546.F = Fraud and Misuse of Visas/Permits [3:00-m-211]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Harvey E. Schlesinger",
+          "judge_guid": "urn:entity:jud-100026867"
+        }
+      ]
+    }
+  ]
+}

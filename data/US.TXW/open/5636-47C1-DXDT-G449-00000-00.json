@@ -1,0 +1,119 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_512mj694_TXWD",
+  "case_key": "5:12mj694_TXWD",
+  "case_lni": "5636-47C1-DXDT-G449-00000-00",
+  "case_number": "5:12mj694",
+  "case_title": "USA v. Rodriguez et al",
+  "case_info_full_case_name": "USA v. Rodriguez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez et al",
+  "case_date_filed": "2012-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charlie Strauss",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Waydy Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846-Conspiracy 500"
+        },
+        {
+          "charge_description": "21:846-Conspiracy to distriubte and possess with intent to distribute 500 grams or more of Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Pamela A. Mathy",
+          "judge_guid": "urn:entity:jud-100041382"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Rios-Soto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846-Conspiracy 500"
+        },
+        {
+          "charge_description": "21:846-Conspiracy to distriubte and possess with intent to distribute 500 grams or more of Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Pamela A. Mathy",
+          "judge_guid": "urn:entity:jud-100041382"
+        }
+      ]
+    },
+    {
+      "party_name": "Oscar Trevino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846-Conspiracy 500"
+        },
+        {
+          "charge_description": "21:846-Conspiracy to distriubte and possess with intent to distribute 500 grams or more of Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Pamela A. Mathy",
+          "judge_guid": "urn:entity:jud-100041382"
+        }
+      ]
+    },
+    {
+      "party_name": "Richard Lara",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846-Conspiracy 500"
+        },
+        {
+          "charge_description": "21:846-Conspiracy to distriubte and possess with intent to distribute 500 grams or more of Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Pamela A. Mathy",
+          "judge_guid": "urn:entity:jud-100041382"
+        }
+      ]
+    },
+    {
+      "party_name": "John Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846-Conspiracy 500"
+        },
+        {
+          "charge_description": "21:846-Conspiracy to distriubte and possess with intent to distribute 500 grams or more of Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Pamela A. Mathy",
+          "judge_guid": "urn:entity:jud-100041382"
+        }
+      ]
+    }
+  ]
+}

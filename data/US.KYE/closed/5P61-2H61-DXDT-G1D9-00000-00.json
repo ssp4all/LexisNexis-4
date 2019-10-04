@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_517cr98_KYED",
+  "case_key": "5:17cr98_KYED",
+  "case_lni": "5P61-2H61-DXDT-G1D9-00000-00",
+  "case_number": "5:17cr98",
+  "case_title": "USA v. Stigall",
+  "case_info_full_case_name": "USA v. Stigall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stigall",
+  "case_date_filed": "2017-08-03",
+  "case_status": "Closed",
+  "case_status_date": "02/09/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Cynthia T. Rieker",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Karlten Raton Stigall",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) PWID CRACK COCAINE, A SCHEDULE II CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "77 MONTHS IMPRISONMENT CONCURRENT WITH COUNT 2; 4 YEARS SUPERVISED RELEASE CONCURRENT; $100 SPECIAL ASSESSMENT"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) PWID HEROIN AND ACRYLFENTANYL, A SCHEDULE I AND SCHEDULE II CONTROLLED SUBSTANCE, RESPECTIVELY(2)"
+        },
+        {
+          "charge_disposition": "77 MONTHS IMPRISONMENT CONCURRENT WITH COUNT 1; 3 YEARS SUPERVISED RELEASE CONCURRENT; $100 SPECIAL ASSESSMENT"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A) POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME(3)"
+        },
+        {
+          "charge_disposition": "60 MONTHS IMPRISONMENT CONSECUTIVE TO COUNTS 1&;2; 3 YEARS SUPERVISED RELEASE CONCURRENT; $100 SPECIAL ASSESSMENT"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) FELON IN POSSESSION OF A FIREARM(4)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON MOTION OF USA"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Karen K. Caldwell",
+          "judge_guid": "urn:entity:jud-100007775"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert E. Wier",
+          "judge_guid": "urn:entity:jud-100008212"
+        }
+      ]
+    }
+  ]
+}

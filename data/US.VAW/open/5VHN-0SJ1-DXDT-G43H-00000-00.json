@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_719mj30_VAWD",
+  "case_key": "7:19mj30_VAWD",
+  "case_lni": "5VHN-0SJ1-DXDT-G43H-00000-00",
+  "case_number": "7:19mj30",
+  "case_title": "USA v. Altizer",
+  "case_info_full_case_name": "USA v. Altizer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Altizer",
+  "case_date_filed": "2019-02-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty Assistant - Roanoke",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Travis Altizer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F--Possession of a firearm by a convicted felon--18:922(g)(1)--(2/25/2019"
+        },
+        {
+          "charge_offence_description": "18:922G.F--Possession of a firearm by a convicted "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert S. Ballou",
+          "judge_guid": "urn:entity:jud-100069807"
+        }
+      ]
+    }
+  ]
+}

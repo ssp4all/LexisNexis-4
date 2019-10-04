@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAM_119po2_PAMD",
+  "case_key": "1:19po2_PAMD",
+  "case_lni": "5W24-TVS1-J9YR-S24J-00000-00",
+  "case_number": "1:19po2",
+  "case_title": "USA v. Vaughan",
+  "case_info_full_case_name": "USA v. Vaughan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vaughan",
+  "case_date_filed": "2019-05-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher Vaughan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P"
+        },
+        {
+          "charge_disposition": "$500 Fine, $5 Special Assessment"
+        },
+        {
+          "charge_offence_description": "18:13-7220.P\t\t\t\t\t\t\t\t\t\t\t\t&#036;500 Fine, &#036;5 "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Martin C. Carlson",
+          "judge_guid": "urn:entity:jud-100080777"
+        }
+      ]
+    }
+  ]
+}

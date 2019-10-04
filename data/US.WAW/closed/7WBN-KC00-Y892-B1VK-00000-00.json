@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_200m588_wawd",
+  "case_key": "2:00m588_wawd",
+  "case_lni": "7WBN-KC00-Y892-B1VK-00000-00",
+  "case_number": "2:00m588",
+  "case_title": "USA v. Okike, et al",
+  "case_info_full_case_name": "USA v. Okike, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Okike, et al",
+  "case_date_filed": "2000-12-07",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILSON CHUCKS OKIKE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343,1341,1302,371"
+        },
+        {
+          "charge_description": "18:1343,1341,1302,371 Wire Fraud, Mail Fraud, Mailing materials related to Lotteries and Conspiracy"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ricardo S. Martinez",
+          "judge_guid": "urn:entity:jud-100009153"
+        }
+      ]
+    },
+    {
+      "party_name": "BASIL STEEVES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343,1341,1302,371"
+        },
+        {
+          "charge_description": "18:1343,1341,1302,371 Wire Fraud, Mail Fraud, Mailing materials related to Lotteries and Conspiracy"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ricardo S. Martinez",
+          "judge_guid": "urn:entity:jud-100009153"
+        }
+      ]
+    }
+  ]
+}

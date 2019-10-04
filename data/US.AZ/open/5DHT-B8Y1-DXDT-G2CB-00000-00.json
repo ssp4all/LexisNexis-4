@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po33802_AZD",
+  "case_key": "4:14po33802_AZD",
+  "case_lni": "5DHT-B8Y1-DXDT-G2CB-00000-00",
+  "case_number": "4:14po33802",
+  "case_title": "USA v. Zamano-Fuerte",
+  "case_info_full_case_name": "USA v. Zamano-Fuerte",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zamano-Fuerte",
+  "case_date_filed": "2014-11-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Filiberto Zamano-Fuerte",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

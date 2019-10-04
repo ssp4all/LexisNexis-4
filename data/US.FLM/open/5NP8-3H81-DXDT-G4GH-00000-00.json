@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_617mj1456_FLMD",
+  "case_key": "6:17mj1456_FLMD",
+  "case_lni": "5NP8-3H81-DXDT-G4GH-00000-00",
+  "case_number": "6:17mj1456",
+  "case_title": "USA v. Gentles",
+  "case_info_full_case_name": "USA v. Gentles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gentles",
+  "case_date_filed": "2017-06-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Nathan W. Hill",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Damon Gentles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Daniel C. Irick",
+          "judge_guid": "urn:entity:jud-100124773"
+        }
+      ]
+    }
+  ]
+}

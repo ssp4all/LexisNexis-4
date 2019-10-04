@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_308mj59_TXWD",
+  "case_key": "3:08mj59_TXWD",
+  "case_lni": "7WBN-HB40-Y892-B4HJ-00000-00",
+  "case_number": "3:08mj59",
+  "case_title": "USA v. Garcia-Vasquez",
+  "case_info_full_case_name": "USA v. Garcia-Vasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Vasquez",
+  "case_date_filed": "2008-01-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Garcia-Vasquez DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F-Reentry"
+        },
+        {
+          "charge_description": "8:1326A.F-Reentry of Deported Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418mj20321_AZD",
+  "case_key": "4:18mj20321_AZD",
+  "case_lni": "5RCB-F311-DXDT-G1SW-00000-00",
+  "case_number": "4:18mj20321",
+  "case_title": "USA v. Ramirez-Luna",
+  "case_info_full_case_name": "USA v. Ramirez-Luna",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Luna",
+  "case_date_filed": "2018-01-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Norberto Ramirez-Luna",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count 1, 8:1326 Illegal Re-Entry;  Count 2, 8:1325(a)(1) Illegal Entry"
+        },
+        {
+          "charge_offence_description": "Count 1, 8:1326 Illegal Re-Entry;  Count 2, 8:1325"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

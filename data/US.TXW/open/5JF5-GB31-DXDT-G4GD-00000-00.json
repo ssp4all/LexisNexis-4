@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_316mj1181_TXWD",
+  "case_key": "3:16mj1181_TXWD",
+  "case_lni": "5JF5-GB31-DXDT-G4GD-00000-00",
+  "case_number": "3:16mj1181",
+  "case_title": "USA v. De La Torre",
+  "case_info_full_case_name": "USA v. De La Torre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Torre",
+  "case_date_filed": "2016-03-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alejandro Lopez De La Torre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1544.F - MISUSE OF PASSPORT"
+        },
+        {
+          "charge_offence_description": "18:1544.F - MISUSE OF PASSPORT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert F. Castaneda",
+          "judge_guid": "urn:entity:jud-100071767"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_706mj34_NCED",
+  "case_key": "7:06mj34_NCED",
+  "case_lni": "7WBN-P980-Y892-B1FW-00000-00",
+  "case_number": "7:06mj34",
+  "case_title": "USA v. Rusciano",
+  "case_info_full_case_name": "USA v. Rusciano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rusciano",
+  "case_date_filed": "2006-02-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Vincent G. Laratta Marine Corps Base",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kristen Marie Rusciano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "15 20-141(j1)"
+        },
+        {
+          "charge_description": "SPEED IN EXCESS OF 15 MPH (NCGS 20-141(j1) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ"
+        }
+      ]
+    }
+  ]
+}

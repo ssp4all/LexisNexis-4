@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_318cr8261_AZD",
+  "case_key": "3:18cr8261_AZD",
+  "case_lni": "5SXT-N0F1-DXDT-G4MJ-00000-00",
+  "case_number": "3:18cr8261",
+  "case_title": "USA v. Yazzie",
+  "case_info_full_case_name": "USA v. Yazzie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yazzie",
+  "case_date_filed": "2018-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Frank Williams Yazzie, Sr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1153, 2241(c) and 2246  CIR-Aggravated Sexual Abuse of a Child(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John J Tuchi",
+          "judge_guid": "urn:entity:jud-100107093"
+        }
+      ]
+    }
+  ]
+}

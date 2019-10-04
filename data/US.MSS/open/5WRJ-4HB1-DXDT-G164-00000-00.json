@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_319mj239_MSSD",
+  "case_key": "3:19mj239_MSSD",
+  "case_lni": "5WRJ-4HB1-DXDT-G164-00000-00",
+  "case_number": "3:19mj239",
+  "case_title": "USA v. Jimenez-De La Cruz",
+  "case_info_full_case_name": "USA v. Jimenez-De La Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jimenez-De La Cruz",
+  "case_date_filed": "2019-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisca Jimenez-De La Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F - Illegal Reentry"
+        },
+        {
+          "charge_offence_description": "8:1326.F - Illegal Reentry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Linda R. Anderson",
+          "judge_guid": "urn:entity:jud-100052771"
+        }
+      ]
+    },
+    {
+      "party_name": "Probation Jackson",
+      "party_description": "Interested Party"
+    }
+  ]
+}

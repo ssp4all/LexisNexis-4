@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_102cr54_vawd",
+  "case_key": "1:02cr54_vawd",
+  "case_lni": "7WBN-JD20-Y892-B1GK-00000-00",
+  "case_number": "1:02cr54",
+  "case_title": "USA v. Cox",
+  "case_info_full_case_name": "USA v. Cox",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cox",
+  "case_date_filed": "2002-06-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KAREN JANEY COX",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F SUBSTANCE-21USC846-Felony-Knowingly 16, 2002)"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE-21 USC 846-Felony-Knowingly conspired to possess with intent to distribute and distribute oxycodone (May 16, 2002) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F DISPENSE-21USC841(a)(1)-Felony-Knowingly 16, 2002)"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE-21 USC 841(a)(1)-Felony-Knowingly and intentionally possess with intent to distribute and distribute oxycodone (May 16, 2002) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924C.F GUN-18USC924(c)(1)-Felony-Knowingly 16, 2002)"
+        },
+        {
+          "charge_description": "18:924C.F VIOLENT CRIME/DRUGS/MACHINE GUN-18 USC 924(c)(1)-Felony-Knowingly used and carried during an in relation to, and possessed in furtherance of a drug trafficking crime, a firearm (May 16, 2002) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F ETC.-18USC2 922(g)(3)-Felony-Knowingly 16, 2002) 5-21USC853-Forfeiture"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC.-18 USC 2 and 922(g)(3)-Felony-Knowingly possessed a firearm while being an unlawful user of a controlled substance-(May 16, 2002) and Count 5-21 USC 853-Forfeiture (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC924(d) 21USC841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "Possession of firearm during a drug trafficking offense and distribute a controlled substance in violation of 18 USC 924(d) &; 21 USC 841(a)(1) &; 841(b)(1)(C) [1:02-m-52]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James P. Jones",
+          "judge_guid": "urn:entity:jud-100033038"
+        }
+      ]
+    }
+  ]
+}

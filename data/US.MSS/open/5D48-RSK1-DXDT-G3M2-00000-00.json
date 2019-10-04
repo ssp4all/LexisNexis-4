@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_214mj25_MSSD",
+  "case_key": "2:14mj25_MSSD",
+  "case_lni": "5D48-RSK1-DXDT-G3M2-00000-00",
+  "case_number": "2:14mj25",
+  "case_title": "USA v. Gomez et al",
+  "case_info_full_case_name": "USA v. Gomez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez et al",
+  "case_date_filed": "2014-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Miguel Gomez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael T. Parker",
+          "judge_guid": "urn:entity:jud-100028403"
+        }
+      ]
+    },
+    {
+      "party_name": "Gerber Mauricio Salvaria",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael T. Parker",
+          "judge_guid": "urn:entity:jud-100028403"
+        }
+      ]
+    }
+  ]
+}

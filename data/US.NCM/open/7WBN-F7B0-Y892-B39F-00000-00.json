@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_199m597_ncmd",
+  "case_key": "1:99m597_ncmd",
+  "case_lni": "7WBN-F7B0-Y892-B39F-00000-00",
+  "case_number": "1:99m597",
+  "case_title": "USA v. ARANDA",
+  "case_info_full_case_name": "USA v. ARANDA",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ARANDA",
+  "case_date_filed": "1999-11-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GABRIEL RUIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "500 21 812"
+        },
+        {
+          "charge_description": "Did knowingly and intentionally, unlawfully distribute in excess of 500 grams of cocaine HCL, a schedule II controlled substance, within the meaning of Title 21 U.S. Code Section 812 in violation of 21:841(a)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAG/JUDGE",
+          "judge_name": "P. TREVOR SHARP",
+          "judge_guid": "urn:entity:jud-100014678"
+        }
+      ]
+    }
+  ]
+}

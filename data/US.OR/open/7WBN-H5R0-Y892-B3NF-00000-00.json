@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_303cr495_ord",
+  "case_key": "3:03cr495_ord",
+  "case_lni": "7WBN-H5R0-Y892-B3NF-00000-00",
+  "case_number": "3:03cr495",
+  "case_title": "USA v. Carter",
+  "case_info_full_case_name": "USA v. Carter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carter",
+  "case_date_filed": "2003-11-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PAUL DAVID CARTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a) 960(a)(1) (b)(3) 3,4-METHYLENEDIOXYAMPHETAMINE/MDMA,"
+        },
+        {
+          "charge_description": "21:952(a) and 960(a)(1) and (b)(3) IMPORTATION OF A QUANTITY OF 3,4-METHYLENEDIOXYAMPHETAMINE/MDMA, COMMONLY KNOWN AS\"ECSTASY\"(1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C) 3,4-METHYLENEDIOXYAMPHETAMINE,"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE A QUANTITY OF 3,4-METHYLENEDIOXYAMPHETAMINE, COMMONLY KNOWN AS\"ECSTASY\"(2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:853(p)"
+        },
+        {
+          "charge_description": "21:853(p) CRIMINAL FORFEITURES (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC952"
+        },
+        {
+          "charge_description": "Charging 21 USC 952 IMPORTATION OF MDMA-A SCHEDULE I CONTROLLED SUBSTANCE [3:03-m-587]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Garr M King",
+          "judge_guid": "urn:entity:jud-100077954"
+        }
+      ]
+    }
+  ]
+}

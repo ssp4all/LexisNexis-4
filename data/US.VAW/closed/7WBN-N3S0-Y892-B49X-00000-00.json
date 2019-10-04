@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_395cr58_vawd",
+  "case_key": "3:95cr58_vawd",
+  "case_lni": "7WBN-N3S0-Y892-B49X-00000-00",
+  "case_number": "3:95cr58",
+  "case_title": "USA v. Harris",
+  "case_info_full_case_name": "USA v. Harris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harris",
+  "case_date_filed": "1995-10-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JEREMIAH HARRIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_disposition": "CBOP: 46 Months, S/R 2 years, Deportation, S/A $50.00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Enter the US without obtaining permission having been previously arrested and deported [3:95-m-451]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James H. Michael",
+          "judge_guid": "urn:entity:jud-100036315"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_811cr399_NED",
+  "case_key": "8:11cr399_NED",
+  "case_lni": "54GP-W2C1-DXDT-G01T-00000-00",
+  "case_number": "8:11cr399",
+  "case_title": "USA v. Garcia-Castro",
+  "case_info_full_case_name": "USA v. Garcia-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Castro",
+  "case_date_filed": "2011-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jose de Jesus Garcia-Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "42:408 (a)(7)(B)"
+        },
+        {
+          "charge_description": "42:408 (a)(7)(B) Social Security Fraud (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546 (b)(1)"
+        },
+        {
+          "charge_description": "18:1546 (b)(1) Document Fraud (2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:911"
+        },
+        {
+          "charge_description": "18:911 False United States Citizenship Claim (3)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joseph F Bataillon",
+          "judge_guid": "urn:entity:jud-100069531"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas D Thalken",
+          "judge_guid": "urn:entity:jud-100007179"
+        }
+      ]
+    }
+  ]
+}

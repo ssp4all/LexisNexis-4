@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_505cr137_OKWD",
+  "case_key": "5:05cr137_OKWD",
+  "case_lni": "7WBN-NWW0-Y892-B1C9-00000-00",
+  "case_number": "5:05cr137",
+  "case_title": "United States of America v. Donahoo",
+  "case_info_full_case_name": "United States of America v. Donahoo",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Donahoo",
+  "case_date_filed": "2005-07-20",
+  "case_status": "Closed",
+  "case_status_date": "04/19/2006",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {},
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Randall D Donahoo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A(a)(5)(B) KNOWINGLY POSSESSED MATERIAL THAT CONTAINED A VIDEO OF CHILD PORNOGRAPHY(1s)"
+        },
+        {
+          "charge_disposition": "Dft sentenced to custody of Bureau of Prisons for a term of 41 months; Supervised Release for 3 years; Dft ordered to pay a fine in the amount of $10,000; S/A fee $100.00 due immediately;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2253 CRIMINAL FORFEITURE"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2253 CRIMINAL FORFEITURE(0s)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1030(a)(5)(A)(iii) and 18:1030(a)(5)(B)(i) KNOWINGLY ACCESSES A PROTECTED COMPUTER WITHOUT AUTHORIZATION AND CAUSES DAMAGE FOR LOSS OF A LEAST $5,000 IN ONE YEAR PERIOD(1)"
+        },
+        {
+          "charge_disposition": "ORDER OF DISMISSAL"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252A(a)(5)(B) KNOWINGLY POSSESSES MATERIAL THAT CONTAINS IMAGES OF CHILD PORNOGRAPHY(2-4)"
+        },
+        {
+          "charge_disposition": "ORDER OF DISMISSAL"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David L. Russell",
+          "judge_guid": "urn:entity:jud-100000717"
+        }
+      ]
+    }
+  ]
+}

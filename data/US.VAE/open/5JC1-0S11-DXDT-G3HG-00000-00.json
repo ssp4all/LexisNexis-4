@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_116cr70_VAED",
+  "case_key": "1:16cr70_VAED",
+  "case_lni": "5JC1-0S11-DXDT-G3HG-00000-00",
+  "case_number": "1:16cr70",
+  "case_title": "USA v. Salgado-Matute",
+  "case_info_full_case_name": "USA v. Salgado-Matute",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salgado-Matute",
+  "case_date_filed": "2016-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "James E. Burke",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Lauren Britsch",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elias Anaell Salgado-Matute",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)&;(b)(1) Illegal Reentry After Deportation by a Convicted Felon(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Gerald Bruce Lee",
+          "judge_guid": "urn:entity:jud-100030236"
+        }
+      ]
+    }
+  ]
+}

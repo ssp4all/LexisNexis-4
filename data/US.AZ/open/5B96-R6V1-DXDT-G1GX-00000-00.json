@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_214cr67_AZD",
+  "case_key": "2:14cr67_AZD",
+  "case_lni": "5B96-R6V1-DXDT-G1GX-00000-00",
+  "case_number": "2:14cr67",
+  "case_title": "USA v. Boston",
+  "case_info_full_case_name": "USA v. Boston",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Boston",
+  "case_date_filed": "2014-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adam Boston, IV",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) - Felon in Possession of Firearms and Ammunition"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) and 924(a)(2) - Felon in Possession o"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) Felon in Possession of Ammunition(1)"
+        },
+        {
+          "charge_disposition": "Defendant committed to custody of Bureau of Prisons for a term of 30 months, with credit for time served; to be followed by Supervised Release for a period of 3 years. Special Assessment: $100. Fine: waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) Felon in Possession of a Firearm(2)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven P Logan",
+          "judge_guid": "urn:entity:jud-100003811"
+        }
+      ]
+    }
+  ]
+}

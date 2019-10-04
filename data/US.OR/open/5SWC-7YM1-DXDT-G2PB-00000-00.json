@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_618po246_ORD",
+  "case_key": "6:18po246_ORD",
+  "case_lni": "5SWC-7YM1-DXDT-G2PB-00000-00",
+  "case_number": "6:18po246",
+  "case_title": "USA vs Isbell",
+  "case_info_full_case_name": "USA vs Isbell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Isbell",
+  "case_date_filed": "2018-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Robert B Isbell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failing to dispose of all garbage including any paper can bottle sewage was (F5163161)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jolie A. Russo",
+          "judge_guid": "urn:entity:jud-100011054"
+        }
+      ]
+    }
+  ]
+}

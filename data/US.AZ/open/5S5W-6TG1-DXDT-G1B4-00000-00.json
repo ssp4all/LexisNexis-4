@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_218cr583_AZD",
+  "case_key": "2:18cr583_AZD",
+  "case_lni": "5S5W-6TG1-DXDT-G1B4-00000-00",
+  "case_number": "2:18cr583",
+  "case_title": "USA v. Long",
+  "case_info_full_case_name": "USA v. Long",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Long",
+  "case_date_filed": "2018-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor James Long",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C), and 18:2 - Possession with Intent to Distribute Less Than 50 Grams of Methamphetamine, a Controlled Substance, and Aid and Abet(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Diane J Humetewa",
+          "judge_guid": "urn:entity:jud-100107092"
+        }
+      ]
+    }
+  ]
+}

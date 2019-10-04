@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_405m4680_AZD",
+  "case_key": "4:05m4680_AZD",
+  "case_lni": "7WBN-NF90-Y892-B16F-00000-00",
+  "case_number": "4:05m4680",
+  "case_title": "USA, et al v. Tapia-Mata",
+  "case_info_full_case_name": "USA, et al v. Tapia-Mata",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Tapia-Mata",
+  "case_date_filed": "2005-02-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS MANUEL TAPIA-MATA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844(a)"
+        },
+        {
+          "charge_description": "21:844(a) Possession of marijuana (2)"
+        },
+        {
+          "charge_disposition": "BOP 59 days w/credit for time served; sup rel 1 yr &; as a condition, dft to reside in halfway house for drug &; alcohol treatment; 36 hours of community service; fine $250; s/a $25 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "CT1: 21:841(a)(1) (b)(1)(D) CT2: 21:844(a)"
+        },
+        {
+          "charge_description": "CT1: 21:841(a)(1) &; (b)(1)(D) Possession w/intent to distribute marijuana; CT2: 21:844(a) Possession of marijuana"
+        },
+        {
+          "charge_disposition": "dismissed (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VI_300cr538_VID",
+  "case_key": "3:00cr538_VID",
+  "case_lni": "56X0-63M1-DXDT-G0C1-00000-00",
+  "case_number": "3:00cr538",
+  "case_title": "USA v. LIANG, GUI GIAN",
+  "case_info_full_case_name": "USA v. LIANG, GUI GIAN",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LIANG, GUI GIAN",
+  "case_date_filed": "2000-09-11",
+  "case_status": "Closed",
+  "case_status_date": "09/22/2000",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LIANG, GUI GIAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL ENTRY, CONCEALMENT OF FACTS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "THOMAS K. MOORE",
+          "judge_guid": "urn:entity:jud-100003926"
+        }
+      ]
+    }
+  ]
+}

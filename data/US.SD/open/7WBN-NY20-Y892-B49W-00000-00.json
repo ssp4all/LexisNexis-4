@@ -1,0 +1,139 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_507cr50006_SDD",
+  "case_key": "5:07cr50006_SDD",
+  "case_lni": "7WBN-NY20-Y892-B49W-00000-00",
+  "case_number": "5:07cr50006",
+  "case_title": "USA v. Parrish et al",
+  "case_info_full_case_name": "USA v. Parrish et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parrish et al",
+  "case_date_filed": "2007-01-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas Jake&quot Parrish",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846, 841(a)(1) 841(b)(1)(C);"
+        },
+        {
+          "charge_description": "21:846, 841(a)(1) and 841(b)(1)(C); CONSPIRACY TO DISTRIBUTE A CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a), 841(b)(1)(C) 859;"
+        },
+        {
+          "charge_description": "21:841(a), 841(b)(1)(C) and 859; CONSPIRACY TO DISTRIBUTE A CONTROLLED SUBSTANCE (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a), 841(b)(1)(D) 859;"
+        },
+        {
+          "charge_description": "21:841(a), 841(b)(1)(D) and 859; CONSPIRACY TO DISTRIBUTE A CONTROLLED SUBSTANCE (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:856(a)(2);"
+        },
+        {
+          "charge_description": "21:856(a)(2); MAINTAINING A PLACE FOR DISTRIBUTION (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1) 924(a)(2);"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2); FELON IN POSSESSION OF A FIREARM (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(3) 924(a)(2);"
+        },
+        {
+          "charge_description": "18:922(g)(3) and 924(a)(2); UNLAWFUL USER OF A CONTROLLED SUBSTANCE IN POSSESSION OF A FIREARM (7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Karen E. Schreier",
+          "judge_guid": "urn:entity:jud-100030778"
+        }
+      ]
+    },
+    {
+      "party_name": "Roman Morris",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:856(a)(2);"
+        },
+        {
+          "charge_description": "21:856(a)(2); MAINTAINING A PLACE FOR DISTRIBUTION (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1) 924(a)(2);"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2); FELON IN POSSESSION OF A FIREARM (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(3) 924(a)(2);"
+        },
+        {
+          "charge_description": "18:922(g)(3) and 924(a)(2); UNLAWFUL USER OF A CONTROLLED SUBSTANCE IN POSSESSION OF A FIREARM (7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Karen E. Schreier",
+          "judge_guid": "urn:entity:jud-100030778"
+        }
+      ]
+    }
+  ]
+}

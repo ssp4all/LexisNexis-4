@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_200cr386_wawd",
+  "case_key": "2:00cr386_wawd",
+  "case_lni": "7WBN-KB00-Y892-B411-00000-00",
+  "case_number": "2:00cr386",
+  "case_title": "USA v. Burris",
+  "case_info_full_case_name": "USA v. Burris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Burris",
+  "case_date_filed": "2000-08-11",
+  "case_status": "Closed",
+  "case_status_date": "11/14/2000",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Steffan Craig Burris",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:656 THEFT/EMBEZZLEMENT/MISAPPLICATION BY BANK OFFICER(1)"
+        },
+        {
+          "charge_disposition": "15 months jail, 5 years supervised release, $91,301.90 restitution, no fine, $100 penalty assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marsha J. Pechman",
+          "judge_guid": "urn:entity:jud-100028218"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_293m80764_mied",
+  "case_key": "2:93m80764_mied",
+  "case_lni": "7WBN-M660-Y892-B0KF-00000-00",
+  "case_number": "2:93m80764",
+  "case_title": "USA v. Parks",
+  "case_info_full_case_name": "USA v. Parks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parks",
+  "case_date_filed": "1993-07-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC aus]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VINCENT GERALD PARKS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:510"
+        },
+        {
+          "charge_description": "18:510 INTENT TO DEFRAUD AND WITHOUT AUTHORIZATION, PASS A TREASURY CHECK OF THE UNITED STATES"
+        },
+        {
+          "charge_disposition": "MOTION AND ORDER DISMISSING COMPLAINT AND WARRANT. (-1)"
+        }
+      ]
+    }
+  ]
+}

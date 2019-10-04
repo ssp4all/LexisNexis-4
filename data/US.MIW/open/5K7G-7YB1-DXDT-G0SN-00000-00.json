@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_116pt34_MIWD",
+  "case_key": "1:16pt34_MIWD",
+  "case_lni": "5K7G-7YB1-DXDT-G0SN-00000-00",
+  "case_number": "1:16pt34",
+  "case_title": "USA v. Mendez",
+  "case_info_full_case_name": "USA v. Mendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendez",
+  "case_date_filed": "2016-07-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Mario Leon Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846; 18:924; 18:924 Conspiracy to Distribute Narcotics; Violent Crime/Drugs/Machine Gun; Violent Crime/Drugs/Machine Gun"
+        },
+        {
+          "charge_offence_description": "21:846; 18:924; 18:924 Conspiracy to Distribute Na"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert J. Jonker",
+          "judge_guid": "urn:entity:jud-100050151"
+        }
+      ]
+    }
+  ]
+}

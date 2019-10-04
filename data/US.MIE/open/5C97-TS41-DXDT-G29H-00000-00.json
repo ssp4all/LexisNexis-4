@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_214cr20301_MIED",
+  "case_key": "2:14cr20301_MIED",
+  "case_lni": "5C97-TS41-DXDT-G29H-00000-00",
+  "case_number": "2:14cr20301",
+  "case_title": "United States of America v. Grimes",
+  "case_info_full_case_name": "United States of America v. Grimes",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Grimes",
+  "case_date_filed": "2014-05-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sara D. Woodward",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bennie Grimes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SELLING OR BUYING OF CHILDREN(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: Count (1&;2) 360 Months Consecutive; SUPERVISED RELEASE: 60 Months Concurrent; SPECIAL ASSESSMENT: $200"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "SELLING OR BUYING OF CHILDREN(2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: Count (1&;2) 360 Months Consecutive; SUPERVISED RELEASE: 60 Months Concurrent; SPECIAL ASSESSMENT: $200"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "SELLING OR BUYING OF CHILDREN(3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO(4)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_offence_description": "COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Nancy G. Edmunds",
+          "judge_guid": "urn:entity:jud-100043821"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David R. Grand",
+          "judge_guid": "urn:entity:jud-100070351"
+        }
+      ]
+    }
+  ]
+}

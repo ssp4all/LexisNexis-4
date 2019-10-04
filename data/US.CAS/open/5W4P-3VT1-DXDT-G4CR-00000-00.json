@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319cr1873_CASD",
+  "case_key": "3:19cr1873_CASD",
+  "case_lni": "5W4P-3VT1-DXDT-G4CR-00000-00",
+  "case_number": "3:19cr1873",
+  "case_title": "USA v. Rivera",
+  "case_info_full_case_name": "USA v. Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera",
+  "case_date_filed": "2019-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952, 960 - Importation of Methamphetamine (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:952, 960 - Importation of a Controlled Substance (Felony)"
+        },
+        {
+          "charge_offence_description": "21:952, 960 - Importation of a Controlled Substanc"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis L. Sammartino",
+          "judge_guid": "urn:entity:jud-100055061"
+        }
+      ]
+    }
+  ]
+}

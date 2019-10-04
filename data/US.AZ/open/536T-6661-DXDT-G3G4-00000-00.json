@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411cr2320_AZD",
+  "case_key": "4:11cr2320_AZD",
+  "case_lni": "536T-6661-DXDT-G3G4-00000-00",
+  "case_number": "4:11cr2320",
+  "case_title": "USA v. Xochicale",
+  "case_info_full_case_name": "USA v. Xochicale",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Xochicale",
+  "case_date_filed": "2011-06-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Arturo A Aguilar",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Julissa Lizeth Xochicale",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31:5316 31: 5332 31CFR1010.340(a), 31:5332 5317;"
+        },
+        {
+          "charge_description": "31:5316 in violation of 31: 5332 and 31 CFR 1010.340(a), Bulk Cash Smuggling, in violation of 31:5332 and 5317; Forfeiture Allegation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "31:5316 5322, 31CFR1010.340(a);"
+        },
+        {
+          "charge_description": "31:5316 and 5322, and Title 31 CFR 1010.340(a); Failure to Report Monetary Instruments (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "31:5316"
+        },
+        {
+          "charge_description": "31:5316 Bulk Cash Smuggling"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Bury",
+          "judge_guid": "urn:entity:jud-100063659"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

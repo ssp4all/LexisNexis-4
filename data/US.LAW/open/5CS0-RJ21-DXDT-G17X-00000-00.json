@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_714po799_LAWD",
+  "case_key": "7:14po799_LAWD",
+  "case_lni": "5CS0-RJ21-DXDT-G17X-00000-00",
+  "case_number": "7:14po799",
+  "case_title": "USA vs Jackson",
+  "case_info_full_case_name": "USA vs Jackson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jackson",
+  "case_date_filed": "2014-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operating vehicle with suspended license (Class D/E) (1622473)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen Kay",
+          "judge_guid": "urn:entity:jud-100037773"
+        }
+      ]
+    }
+  ]
+}

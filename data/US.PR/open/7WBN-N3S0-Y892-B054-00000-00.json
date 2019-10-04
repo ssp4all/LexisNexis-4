@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_394m54_prd",
+  "case_key": "3:94m54_prd",
+  "case_lni": "7WBN-N3S0-Y892-B054-00000-00",
+  "case_number": "3:94m54",
+  "case_title": "USA v. Lopez-Pineda",
+  "case_info_full_case_name": "USA v. Lopez-Pineda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Pineda",
+  "case_date_filed": "1994-02-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LOPEZ-PINEDA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1.049 1,500"
+        },
+        {
+          "charge_description": "Possess w/intent to distribute and import approximately 1.049 gross weight of cocaine, Schedule II NDCS &; approximately 1,500 units of unidentified pills"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jesus A. Castellanos",
+          "judge_guid": "urn:entity:jud-100094798"
+        }
+      ]
+    }
+  ]
+}

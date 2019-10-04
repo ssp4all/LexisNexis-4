@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_116po29_OHSD",
+  "case_key": "1:16po29_OHSD",
+  "case_lni": "5K30-YMX1-DXDT-G0G5-00000-00",
+  "case_number": "1:16po29",
+  "case_title": "USA vs Walker",
+  "case_info_full_case_name": "USA vs Walker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Walker",
+  "case_date_filed": "2016-06-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tameka L Walker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - POSSESSION (H5047259)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen L. Litkovitz",
+          "judge_guid": "urn:entity:jud-100075759"
+        }
+      ]
+    }
+  ]
+}

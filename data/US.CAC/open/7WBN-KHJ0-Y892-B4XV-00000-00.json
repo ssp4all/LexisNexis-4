@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_203cr886_cacd",
+  "case_key": "2:03cr886_cacd",
+  "case_lni": "7WBN-KHJ0-Y892-B4XV-00000-00",
+  "case_number": "2:03cr886",
+  "case_title": "USA v. Millan-Vasquez",
+  "case_info_full_case_name": "USA v. Millan-Vasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Millan-Vasquez",
+  "case_date_filed": "2003-09-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David A Kettel",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE MILLAN-VASQUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a)"
+        },
+        {
+          "charge_description": "8:1325(a) IMPROPER ENTRY BY ALIEN (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1325(a)"
+        },
+        {
+          "charge_description": "8:1325(a) IMPROPER ENTRY BY ALIEN (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "Dft in violation of 8:1326 [2:03-m-1759]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_300m30147_cand",
+  "case_key": "3:00m30147_cand",
+  "case_lni": "7WBN-FGK0-Y892-B3GC-00000-00",
+  "case_number": "3:00m30147",
+  "case_title": "USA v. Mendoza-Medina",
+  "case_info_full_case_name": "USA v. Mendoza-Medina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendoza-Medina",
+  "case_date_filed": "2000-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GLORIA MENDOZA-MEDINA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31:5316"
+        },
+        {
+          "charge_description": "31:5316 KNOWINGLY AND INTENTIONALLY ATTEMPT TO TRANSPORT MONETARY INSTRUMENTS OUT OF THE UNITED STATES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    }
+  ]
+}

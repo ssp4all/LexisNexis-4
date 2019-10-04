@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_717po148_VAWD",
+  "case_key": "7:17po148_VAWD",
+  "case_lni": "5PN8-RF81-DXDT-G4WY-00000-00",
+  "case_number": "7:17po148",
+  "case_title": "USA v. McDougal",
+  "case_info_full_case_name": "USA v. McDougal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McDougal",
+  "case_date_filed": "2017-09-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charlene Rene Day",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brian L McDougal",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert S. Ballou",
+          "judge_guid": "urn:entity:jud-100069807"
+        }
+      ]
+    }
+  ]
+}

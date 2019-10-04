@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_207cr108_UTD",
+  "case_key": "2:07cr108_UTD",
+  "case_lni": "7WBN-KV50-Y892-B2T6-00000-00",
+  "case_number": "2:07cr108",
+  "case_title": "USA v. Barratt",
+  "case_info_full_case_name": "USA v. Barratt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barratt",
+  "case_date_filed": "2007-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brock J. Barratt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-9999.M (43 8341.1 (d)) (43USC1701)"
+        },
+        {
+          "charge_description": "18:13-9999.M FEDERAL STATUTES, OTHER/Operating Off-Highway Vehicle in Violation of State Law (43 C.F.R. 8341.1 (d)) (43 USC 1701) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David Nuffer",
+          "judge_guid": "urn:entity:jud-100027274"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_319po277_ORD",
+  "case_key": "3:19po277_ORD",
+  "case_lni": "5VXH-9HC1-DXDT-G4RH-00000-00",
+  "case_number": "3:19po277",
+  "case_title": "USA vs Goodman",
+  "case_info_full_case_name": "USA vs Goodman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Goodman",
+  "case_date_filed": "2019-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anthony J Goodman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operating or parking a motor vehicle or trailer except in places developed or de (F5400828)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John V. Acosta",
+          "judge_guid": "urn:entity:jud-100074866"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_211cr225_ALND",
+  "case_key": "2:11cr225_ALND",
+  "case_lni": "530J-BN91-DXDT-G0N1-00000-00",
+  "case_number": "2:11cr225",
+  "case_title": "USA v. Guzman-Trejo",
+  "case_info_full_case_name": "USA v. Guzman-Trejo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guzman-Trejo",
+  "case_date_filed": "2011-06-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "USM",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Guzman-Trejo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(2) REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Karon O Bowdre",
+          "judge_guid": "urn:entity:jud-100061080"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul W Greene",
+          "judge_guid": "urn:entity:jud-100079482"
+        }
+      ]
+    }
+  ]
+}

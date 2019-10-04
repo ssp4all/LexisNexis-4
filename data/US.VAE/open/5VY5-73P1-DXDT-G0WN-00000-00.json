@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_219mj234_VAED",
+  "case_key": "2:19mj234_VAED",
+  "case_lni": "5VY5-73P1-DXDT-G0WN-00000-00",
+  "case_number": "2:19mj234",
+  "case_title": "USA v. Kenney",
+  "case_info_full_case_name": "USA v. Kenney",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kenney",
+  "case_date_filed": "2019-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "James T. Cole",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brian T. Kenney",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 930 - UNLAWFUL POSSESSION OF FIRARMS IN A FEDERAL FACILITY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "50 USC, Sections 797 and Chief of Naval Operations Instruction 5530.14E -WILLFUL VIOLATION OF DEFENSE PROPERTY SECURITY REGULATION : TRANSPORTING &; INTRODUCING FIREARMS ONBOARD U.S. NAVY INSTALLATION WITHOUT PROPER AUTHORIZATION(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "41, CODE OF FEDERAL REGULATIONS, Section 102-74.385 - FAILURE TO COMPLY WITH OFFICIAL SIGNS OF A PROHIBITORY, REGULATORY OR DIRECTORY NATURE(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

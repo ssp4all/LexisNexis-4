@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_109cr1841_NMD",
+  "case_key": "1:09cr1841_NMD",
+  "case_lni": "7WBN-JVD0-Y892-B2TB-00000-00",
+  "case_number": "1:09cr1841",
+  "case_title": "USA v. Veleta-Rubio",
+  "case_info_full_case_name": "USA v. Veleta-Rubio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Veleta-Rubio",
+  "case_date_filed": "2009-07-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Diego Veleta-Rubio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1) (2):"
+        },
+        {
+          "charge_description": "8:1326(a)(1) and (2): REENTRY OF A REMOVED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Bruce D. Black",
+          "judge_guid": "urn:entity:jud-100068850"
+        }
+      ]
+    }
+  ]
+}

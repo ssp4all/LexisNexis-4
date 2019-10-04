@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILS_313cr30040_ILSD",
+  "case_key": "3:13cr30040_ILSD",
+  "case_lni": "57VD-MM21-DXDT-G0MJ-00000-00",
+  "case_number": "3:13cr30040",
+  "case_title": "USA v. Dye",
+  "case_info_full_case_name": "USA v. Dye",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dye",
+  "case_date_filed": "2013-02-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Katherine L Lewis",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Troy Dye",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349 Mail Fraud(1-2)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the custody of the Bureau of Prisons, to be imprisoned for a term of 41 months on each of Counts 1 &; 2, to be served concurrently. Upon release, he shall be on Supervised Release for 3 years. Defendant shall pay a special assessment of $200.00 and restitution in the amount of $32,553.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William D. Stiehl",
+          "judge_guid": "urn:entity:jud-100019975"
+        }
+      ]
+    }
+  ]
+}

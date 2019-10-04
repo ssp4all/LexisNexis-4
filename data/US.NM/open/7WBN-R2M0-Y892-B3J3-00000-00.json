@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_201cr908_nmd",
+  "case_key": "2:01cr908_nmd",
+  "case_lni": "7WBN-R2M0-Y892-B3J3-00000-00",
+  "case_number": "2:01cr908",
+  "case_title": "USA v. Quintana",
+  "case_info_full_case_name": "USA v. Quintana",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Quintana",
+  "case_date_filed": "2001-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pedro Clemente Quintana",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 146.32lbs"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession w/intent to distribute 146.32lbs of marijuana [2:01-m-4469]"
+        },
+        {
+          "charge_statute": "21:841(a)(1)&;(b)(1)(C) 50 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1)&;(b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE 50 KILOGRAMS AND MORE OF MARIJUANA; 18:2 AIDING AND ABETTING (1-1)"
+        },
+        {
+          "charge_disposition": "(1-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "John E. Conway",
+          "judge_guid": "urn:entity:jud-100049792"
+        }
+      ]
+    },
+    {
+      "party_name": "Michael A Gamboa",
+      "party_description": "third-party custodian",
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "John E. Conway",
+          "judge_guid": "urn:entity:jud-100049792"
+        }
+      ]
+    }
+  ]
+}

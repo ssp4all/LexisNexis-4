@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_317cr652_PRD",
+  "case_key": "3:17cr652_PRD",
+  "case_lni": "5R8S-TX71-DXDT-G43X-00000-00",
+  "case_number": "3:17cr652",
+  "case_title": "USA v. Camacho",
+  "case_info_full_case_name": "USA v. Camacho",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Camacho",
+  "case_date_filed": "2017-12-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Omar A. Barroso",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramon Camacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113(a)(7) ASSAULT WITHIN THE MARITIME AND TERRITORIAL JURISDICTION(1)"
+        },
+        {
+          "charge_disposition": "PROBATION for one (1) year; SMA of $10.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:113 (7) Assault resulting in substantial bodily injury to a spouse or inmate partner."
+        },
+        {
+          "charge_offence_description": "18:113 (7) Assault resulting in substantial bodily"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Francisco A. Besosa",
+          "judge_guid": "urn:entity:jud-100068985"
+        },
+        {
+          "judge_name": "US Magistrate Judge Bruce J. McGiverin",
+          "judge_guid": "urn:entity:jud-100009312"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation Officer",
+      "party_description": "Interested Party"
+    }
+  ]
+}

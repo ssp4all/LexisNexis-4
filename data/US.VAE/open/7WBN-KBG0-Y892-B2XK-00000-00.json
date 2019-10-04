@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_200m189_vaed",
+  "case_key": "2:00m189_vaed",
+  "case_lni": "7WBN-KBG0-Y892-B2XK-00000-00",
+  "case_number": "2:00m189",
+  "case_title": "USA v. Amezquita",
+  "case_info_full_case_name": "USA v. Amezquita",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Amezquita",
+  "case_date_filed": "2000-05-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTONIO AMEZQUITA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.18:641 (18:641.M)-Theft N842377)"
+        },
+        {
+          "charge_description": "T.18:641 (18:641.M)-Theft of Government Property of a value not exceeding $1,000.00 (Violation No. N842377) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

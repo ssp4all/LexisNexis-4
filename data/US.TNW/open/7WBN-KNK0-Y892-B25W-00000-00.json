@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_205cr20188_TNWD",
+  "case_key": "2:05cr20188_TNWD",
+  "case_lni": "7WBN-KNK0-Y892-B25W-00000-00",
+  "case_number": "2:05cr20188",
+  "case_title": "USA v. Ivy",
+  "case_info_full_case_name": "USA v. Ivy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ivy",
+  "case_date_filed": "2005-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Ivy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 922(g) UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "Time served, effective 5/23/2016 and 3 years supervised release"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jon Phipps McCalla",
+          "judge_guid": "urn:entity:jud-100032610"
+        }
+      ]
+    }
+  ]
+}

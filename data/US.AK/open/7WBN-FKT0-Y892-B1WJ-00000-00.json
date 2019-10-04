@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AK_308cr68_AKD",
+  "case_key": "3:08cr68_AKD",
+  "case_lni": "7WBN-FKT0-Y892-B1WJ-00000-00",
+  "case_number": "3:08cr68",
+  "case_title": "USA v. Holmes",
+  "case_info_full_case_name": "USA v. Holmes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Holmes",
+  "case_date_filed": "2008-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jacob Holmes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841(b)(1)(B) 500"
+        },
+        {
+          "charge_description": "21:846 and 841(b)(1)(B) CONSPIRACY TO DISTRIBUTE CONTROLLED 500 GRAMS OF COCAINE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846, 841(b)(1) 500"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1) KNOWINGLY AND INTENTIONALLY COMBINE CONSPIRE CONFEDERATE AND AGREE WITH EACH OTHER TO DISTRIBUTE AND POSSESS WITH THE INTENT TO DISTRIBUTE 500 GRAMS OR MORE OF COCAINE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Timothy",
+          "judge_name": "M. Burgess",
+          "judge_guid": "urn:entity:jud-100060258"
+        },
+        {
+          "judge_title": "John"
+        }
+      ]
+    }
+  ]
+}

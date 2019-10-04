@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_203cr50133_azd",
+  "case_key": "2:03cr50133_azd",
+  "case_lni": "7WBN-KHJ0-Y892-B2TV-00000-00",
+  "case_number": "2:03cr50133",
+  "case_title": "USA, et al v. Amaya-Hernandez",
+  "case_info_full_case_name": "USA, et al v. Amaya-Hernandez",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Amaya-Hernandez",
+  "case_date_filed": "2003-10-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAVIER AMAYA-HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OFFENSE Importation of Marinuana/aiding and abeting"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Roslyn O Silver",
+          "judge_guid": "urn:entity:jud-100003910"
+        }
+      ]
+    }
+  ]
+}

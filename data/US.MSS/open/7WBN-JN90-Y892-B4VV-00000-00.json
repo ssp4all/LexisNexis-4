@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_106cr55_MSSD",
+  "case_key": "1:06cr55_MSSD",
+  "case_lni": "7WBN-JN90-Y892-B4VV-00000-00",
+  "case_number": "1:06cr55",
+  "case_title": "USA v. Vu",
+  "case_info_full_case_name": "USA v. Vu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vu",
+  "case_date_filed": "2006-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "H. Colby Lane",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas Vu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "PUBLIC MONEY, PROPERTY OR RECORDS (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Louis Guirola, Jr",
+          "judge_guid": "urn:entity:jud-100059275"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John M. Roper",
+          "judge_guid": "urn:entity:jud-100011748"
+        }
+      ]
+    }
+  ]
+}

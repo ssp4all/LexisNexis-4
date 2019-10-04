@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_818po468_MDD",
+  "case_key": "8:18po468_MDD",
+  "case_lni": "5RJ7-PD51-DXDT-G4GX-00000-00",
+  "case_number": "8:18po468",
+  "case_title": "USA vs Brown",
+  "case_info_full_case_name": "USA vs Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown",
+  "case_date_filed": "2018-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maurice A Brown",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OPERATING COMMERCIAL VEHICLE ON PARK ROADWAY WITHOUT A PERMIT (7211544)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

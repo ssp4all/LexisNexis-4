@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAM_314cr132_PAMD",
+  "case_key": "3:14cr132_PAMD",
+  "case_lni": "5CBR-8TK1-DXDT-G0X9-00000-00",
+  "case_number": "3:14cr132",
+  "case_title": "USA v. Martinez-Aguilar",
+  "case_info_full_case_name": "USA v. Martinez-Aguilar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Aguilar",
+  "case_date_filed": "2014-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Efrain Martinez-Aguilar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "The Defendant is placed in the custody of the Bureau of Prisons for a term of twenty-seven (27), months; no fine is imposed; the Defendant is to pay a Special Assessment Fee of $100; as the Defendant is a deportable alien who is likely to be deported after imprisonment, the Court is not imposing a term of supervised release. The Defendant shall cooperate in the collection of a DNA sample. Court advises the Defendant of his Right to Appeal.cc: USM, USP, Counsel, Financial, U.S.Atty Financial"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Conaboy",
+          "judge_guid": "urn:entity:jud-100049920"
+        }
+      ]
+    },
+    {
+      "party_name": "Joussey Olsen-INT",
+      "party_description": "Miscellaneous Party"
+    }
+  ]
+}

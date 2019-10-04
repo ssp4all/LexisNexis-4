@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_405cr1376_AZD",
+  "case_key": "4:05cr1376_AZD",
+  "case_lni": "7WBN-NDK0-Y892-B28B-00000-00",
+  "case_number": "4:05cr1376",
+  "case_title": "USA v. Zazueta-Lopez",
+  "case_info_full_case_name": "USA v. Zazueta-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zazueta-Lopez",
+  "case_date_filed": "2005-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raymundo Arturo Zazueta-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(D)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(D) Possession w/Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K. Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

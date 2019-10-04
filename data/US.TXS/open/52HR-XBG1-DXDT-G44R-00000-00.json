@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_511mj861_TXSD",
+  "case_key": "5:11mj861_TXSD",
+  "case_lni": "52HR-XBG1-DXDT-G44R-00000-00",
+  "case_number": "5:11mj861",
+  "case_title": "USA v. Gomez Mercado",
+  "case_info_full_case_name": "USA v. Gomez Mercado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez Mercado",
+  "case_date_filed": "2011-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Servando Gomez Mercado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F---REENTRY"
+        },
+        {
+          "charge_description": "8:1326.F---REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R. Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    }
+  ]
+}

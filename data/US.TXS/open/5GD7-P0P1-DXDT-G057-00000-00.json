@@ -1,0 +1,84 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_415cr368_TXSD",
+  "case_key": "4:15cr368_TXSD",
+  "case_lni": "5GD7-P0P1-DXDT-G057-00000-00",
+  "case_number": "4:15cr368",
+  "case_title": "USA v. Guzman-Sanchez",
+  "case_info_full_case_name": "USA v. Guzman-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guzman-Sanchez",
+  "case_date_filed": "2015-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Alberto Guzman-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "There were no objections to the PSR. The Court adopted the PSR. The Court heard argument on the Government's motion for upward departure. The Court granted the Government's motion. Defendant sentenced to BOP for a term of 51 months; SRT 3 years; fine waived; $100 SA. Defendant objected to the sentence. The Court overruled Defendant's objections."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ILLEGAL REENTRY AFTER DEPORTATION(1s)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to BOP for a term of 51 months; SRT 3 years; fine waived; $100 SA. Defendant objected to the sentence. The Court overruled Defendant's objections."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "AIDING OR ASSISTING SUBVERSIVE ALIEN(2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Melinda Harmon",
+          "judge_guid": "urn:entity:jud-100035234"
+        }
+      ]
+    }
+  ]
+}

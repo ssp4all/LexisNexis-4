@@ -1,0 +1,105 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_104cr75_nhd",
+  "case_key": "1:04cr75_nhd",
+  "case_lni": "7WBN-PN40-Y892-B2CN-00000-00",
+  "case_number": "1:04cr75",
+  "case_title": "USA v. Rivera et al",
+  "case_info_full_case_name": "USA v. Rivera et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera et al",
+  "case_date_filed": "2004-03-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maritza Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846"
+        },
+        {
+          "charge_description": "21 USC 846 CONSPIRACY TO DISTRIBUTE NARCOTICS-Cocaine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) Distribution of Cocaine (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1)&; 18USC2"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1)&; 18 USC 2 Aiding and abetting in the Distribution of Cocaine (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 846;"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 846; Distribution of Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joseph A. DiClerico Jr",
+          "judge_guid": "urn:entity:jud-100044600"
+        }
+      ]
+    },
+    {
+      "party_name": "FNU LNU",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846"
+        },
+        {
+          "charge_description": "21 USC 846 CONSPIRACY TO DISTRIBUTE NARCOTICS-Cocaine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1)Distribution"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1)Distribution of Cocaine (3-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joseph A. DiClerico Jr",
+          "judge_guid": "urn:entity:jud-100044600"
+        }
+      ]
+    }
+  ]
+}

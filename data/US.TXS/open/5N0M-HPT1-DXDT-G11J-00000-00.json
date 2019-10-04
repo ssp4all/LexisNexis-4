@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_717mj391_TXSD",
+  "case_key": "7:17mj391_TXSD",
+  "case_lni": "5N0M-HPT1-DXDT-G11J-00000-00",
+  "case_number": "7:17mj391",
+  "case_title": "USA v. Adame",
+  "case_info_full_case_name": "USA v. Adame",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adame",
+  "case_date_filed": "2017-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Alex Adame",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F, 21:841A=CD.F"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F, 21:841A=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dorina Ramos",
+          "judge_guid": "urn:entity:jud-100070094"
+        }
+      ]
+    }
+  ]
+}

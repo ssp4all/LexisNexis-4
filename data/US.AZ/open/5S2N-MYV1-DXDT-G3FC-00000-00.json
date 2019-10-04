@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418po24999_AZD",
+  "case_key": "4:18po24999_AZD",
+  "case_lni": "5S2N-MYV1-DXDT-G3FC-00000-00",
+  "case_number": "4:18po24999",
+  "case_title": "USA v. Gallardo-Marin",
+  "case_info_full_case_name": "USA v. Gallardo-Marin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gallardo-Marin",
+  "case_date_filed": "2018-04-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Aldair Gallardo-Marin",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lynnette C Kimmins",
+          "judge_guid": "urn:entity:jud-100126936"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_102m117_mad",
+  "case_key": "1:02m117_mad",
+  "case_lni": "7WBN-JD20-Y892-B426-00000-00",
+  "case_number": "1:02m117",
+  "case_title": "USA, et al v. Jordan",
+  "case_info_full_case_name": "USA, et al v. Jordan",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Jordan",
+  "case_date_filed": "2002-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DENNIS ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(c)(1)"
+        },
+        {
+          "charge_description": "Title 18:922(c)(1) Having been previously convicted of a crime punishable by imprisonment for a term of exceeding one year, possessed, in and affecting commerce, a firearm."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Lawrence P. Cohen",
+          "judge_guid": "urn:entity:jud-100062387"
+        }
+      ]
+    }
+  ]
+}

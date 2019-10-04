@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_308cr4558_CASD",
+  "case_key": "3:08cr4558_CASD",
+  "case_lni": "7WBN-HB40-Y892-B0GM-00000-00",
+  "case_number": "3:08cr4558",
+  "case_title": "USA v. Arreguin-Mendez",
+  "case_info_full_case_name": "USA v. Arreguin-Mendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arreguin-Mendez",
+  "case_date_filed": "2008-12-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Arreguin-Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1544-Misuse (Felony)"
+        },
+        {
+          "charge_description": "18:1544-Misuse of Passport (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1544-Misuse"
+        },
+        {
+          "charge_description": "18:1544-Misuse of Passport"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis L. Sammartino",
+          "judge_guid": "urn:entity:jud-100055061"
+        }
+      ]
+    }
+  ]
+}

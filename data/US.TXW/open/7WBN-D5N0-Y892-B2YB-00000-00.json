@@ -1,0 +1,120 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_396cr454_txwd",
+  "case_key": "3:96cr454_txwd",
+  "case_lni": "7WBN-D5N0-Y892-B2YB-00000-00",
+  "case_number": "3:96cr454",
+  "case_title": "USA v. Gonzalez, et al",
+  "case_info_full_case_name": "USA v. Gonzalez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez, et al",
+  "case_date_filed": "1996-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MAURICIO MENDOZA GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=MD.F 18:2"
+        },
+        {
+          "charge_description": "21:841B=MD.F &; 18:2 MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE-POSSESSING WITH INTENT TO DISTRIBUTE A QUANTITY OF MARIHUANA; AND AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_disposition": "72 mos. impr. and assessment of $100.00. 4 yrs. supervised release. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "100 21USC841(a)(1) 846."
+        },
+        {
+          "charge_description": "Conspiracy to possess with the intent to distribute, a quantity in excess of 100 kilograms of marijuana in violation of Title 21 USC Section 841(a)(1) &; 846. [3:96-m-1026]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    },
+    {
+      "party_name": "SOLEDAD ORTEGA-HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.F"
+        },
+        {
+          "charge_description": "21:844A=MP.F MARIJUANA-POSSESSION (1ss)"
+        },
+        {
+          "charge_disposition": "3 yrs. probation and assessment of $100.00. (1ss)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=MD.F 18:2"
+        },
+        {
+          "charge_description": "21:841B=MD.F &; 18:2 MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE-POSSESSING WITH INTENT TO DISTRIBUTE A QUANTITY OF MARIHUANA; AND AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=MD.F"
+        },
+        {
+          "charge_description": "21:841B=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE-POSSESSING WITH INTENT TO DISTRIBUTE A QUANTITY OF MARIHUANA (1s)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion (1s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA-CONSPIRING TO POSSESS WITH INTENT TO DISTRIBUTE A QUANTITY OF MARIHUANA (2s)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion (2s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "W. Royal Furgeson, Jr.",
+          "judge_guid": "urn:entity:jud-100004574"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_200cr958_nyed",
+  "case_key": "2:00cr958_nyed",
+  "case_lni": "7WBN-KBG0-Y892-B1C4-00000-00",
+  "case_number": "2:00cr958",
+  "case_title": "USA v. Bryant",
+  "case_info_full_case_name": "USA v. Bryant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bryant",
+  "case_date_filed": "2000-09-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LARRY RAY BRYANT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "10b-5 17CFR 240.10b-5)."
+        },
+        {
+          "charge_description": "Knowingly and willfully conspire to use and employ manipulative and deceptive devices and contrivances in contravention of Rule 10b-5 of the rules and regulations of the US Securties and Exchange Commission (Title 17, code of Federal Regulations, Section 240.10b-5). [9:00-m-172]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leonard D. Wexler",
+          "judge_guid": "urn:entity:jud-100022938"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_803m173_scd",
+  "case_key": "8:03m173_scd",
+  "case_lni": "7WBN-SKM0-Y892-B3WD-00000-00",
+  "case_number": "8:03m173",
+  "case_title": "USA v. Nieto",
+  "case_info_full_case_name": "USA v. Nieto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nieto",
+  "case_date_filed": "2003-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUDOLFO T NIETO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343 18:371"
+        },
+        {
+          "charge_description": "18:1343 devised scheme to defraud; 18:371 conspiracy to execute fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William M. Catoe",
+          "judge_guid": "urn:entity:jud-100063023"
+        }
+      ]
+    }
+  ]
+}

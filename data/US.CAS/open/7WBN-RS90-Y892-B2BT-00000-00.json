@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_307cr2397_CASD",
+  "case_key": "3:07cr2397_CASD",
+  "case_lni": "7WBN-RS90-Y892-B2BT-00000-00",
+  "case_number": "3:07cr2397",
+  "case_title": "USA v. Barreto-Ortiz",
+  "case_info_full_case_name": "USA v. Barreto-Ortiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barreto-Ortiz",
+  "case_date_filed": "2007-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Guillermo Barreto-Ortiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)and 846-Manufacture"
+        },
+        {
+          "charge_description": "21:841(a)(1)and 846-Manufacture and Possession of Marijuana with Intent to Distribute (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(5)and 924(a)-Illegal (Felony)"
+        },
+        {
+          "charge_description": "18:922(g)(5)and 924(a)-Illegal Alien in Possession of a Firearm (Felony) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 841(a)(1); 18:922(g)(5) 2-Conspiracy"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1); 18:922(g)(5) and 2-Conspiracy to Manufacture Marijuana; Illegal Alien in Possession of Firearm and Aiding and Abetting (Felony)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Roger T. Benitez",
+          "judge_guid": "urn:entity:jud-100061781"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_318cr590_PRD",
+  "case_key": "3:18cr590_PRD",
+  "case_lni": "5T8W-BNS1-DXDT-G3D0-00000-00",
+  "case_number": "3:18cr590",
+  "case_title": "USA v. Aponte-Lacen",
+  "case_info_full_case_name": "USA v. Aponte-Lacen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aponte-Lacen",
+  "case_date_filed": "2018-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Vanessa Elsie Bonhomme",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis H Aponte-Lacen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922 (g)(1) Prohibited Person in Possession of Ammunition (Convicted Felon)"
+        },
+        {
+          "charge_offence_description": "18:922 (g)(1) Prohibited Person in Possession of A"
+        },
+        {
+          "charge_description": "18:922(g)(1) POSSESSION OF AMMUNITION BY A PROHIBITED PERSON: A CONVICTED FELON(1)"
+        },
+        {
+          "charge_disposition": "IMPR: 18 MONTHS; SRT: 3 YEARS; SMA: $100; Forfeiture in Judgment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation Officer",
+      "party_description": "Interested Party"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_407cr318_MOED",
+  "case_key": "4:07cr318_MOED",
+  "case_lni": "7WBN-S480-Y892-B1KH-00000-00",
+  "case_number": "4:07cr318",
+  "case_title": "USA v. Bester",
+  "case_info_full_case_name": "USA v. Bester",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bester",
+  "case_date_filed": "2007-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Latarian Bester",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 (CRACK)"
+        },
+        {
+          "charge_description": "DISTRIBUTION IN EXCESS OF 5 GRAMS OF COCAINE BASE (CRACK) (1r-2r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "50 (CRACK)"
+        },
+        {
+          "charge_description": "POSSESSION WITH THE INTENT TO DISTRIBUTE IN EXCESS OF 50 GRAMS OF COCAINE BASE (CRACK) (3r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Rodney W. Sippel",
+          "judge_guid": "urn:entity:jud-100020898"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "David D. Noce",
+          "judge_guid": "urn:entity:jud-100027370"
+        }
+      ]
+    }
+  ]
+}

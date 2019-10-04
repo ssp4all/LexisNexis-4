@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_211mj6119_NJD",
+  "case_key": "2:11mj6119_NJD",
+  "case_lni": "53V9-5N71-DXDT-G554-00000-00",
+  "case_number": "2:11mj6119",
+  "case_title": "USA v. DONO",
+  "case_info_full_case_name": "USA v. DONO",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DONO",
+  "case_date_filed": "2011-09-13",
+  "case_status": "Closed",
+  "case_status_date": "12/01/2011",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN DONO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F Conspire and agree with others to distribute a mixture or substance containing oxycodone (dof 10/2007-2/2010)"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F Conspire and agree with others to dist"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. A. Shipp",
+          "judge_guid": "urn:entity:jud-100104543"
+        }
+      ]
+    }
+  ]
+}

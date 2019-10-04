@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_103mj1863_mdd",
+  "case_key": "1:03mj1863_mdd",
+  "case_lni": "7WBN-PMR0-Y892-B3F1-00000-00",
+  "case_number": "1:03mj1863",
+  "case_title": "USA v. Yates",
+  "case_info_full_case_name": "USA v. Yates",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yates",
+  "case_date_filed": "2003-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING WHILE UNDER THE INFLUENCE OF ALCOHOL (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "DRIVING ON SUSPENDED LICENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul W. Grimm",
+          "judge_guid": "urn:entity:jud-100104573"
+        }
+      ]
+    }
+  ]
+}

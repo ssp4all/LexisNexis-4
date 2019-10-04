@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_304mj21_kywd",
+  "case_key": "3:04mj21_kywd",
+  "case_lni": "7WBN-MPC0-Y892-B3MW-00000-00",
+  "case_number": "3:04mj21",
+  "case_title": "USA v. Mitchell",
+  "case_info_full_case_name": "USA v. Mitchell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mitchell",
+  "case_date_filed": "2004-01-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Barbara T. Mitchell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_disposition": "dismissed without prejudice"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James D. Moyer",
+          "judge_guid": "urn:entity:jud-100003379"
+        }
+      ]
+    }
+  ]
+}

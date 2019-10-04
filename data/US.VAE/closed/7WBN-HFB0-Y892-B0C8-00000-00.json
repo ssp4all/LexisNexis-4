@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_395m99_vaed",
+  "case_key": "3:95m99_vaed",
+  "case_lni": "7WBN-HFB0-Y892-B0C8-00000-00",
+  "case_number": "3:95m99",
+  "case_title": "USA v. Mateo",
+  "case_info_full_case_name": "USA v. Mateo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mateo",
+  "case_date_filed": "1995-03-24",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Emmett G. Wells",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS A. MATEO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 1950 18.2-266"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, assimilating the 1950 Code of VA, as amended, Sec. 18.2-266 was found operating a motor vehicle while under the influence of alcohol or other self-administered drugs (1)"
+        },
+        {
+          "charge_disposition": "COUNT ONE: $200.00 FINE; $25.00 SPECIAL ASSESSMNET; AND OPERATOR'S LICENSE SUSPENDED FOR ONE YEAR (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "G. Warthen Downs",
+          "judge_guid": "urn:entity:jud-100042085"
+        }
+      ]
+    }
+  ]
+}

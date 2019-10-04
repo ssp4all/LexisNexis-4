@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_215cr165_PAED",
+  "case_key": "2:15cr165_PAED",
+  "case_lni": "5FTV-7YJ1-DXDT-G05X-00000-00",
+  "case_number": "2:15cr165",
+  "case_title": "USA v. KONE",
+  "case_info_full_case_name": "USA v. KONE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "KONE",
+  "case_date_filed": "2015-04-20",
+  "case_status": "Closed",
+  "case_status_date": "04/20/2015",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "ABDOU KONE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349 - CONSPIRACY TO COMMIT BANK FRAUD; 18:1344 - BANK FRAUD; 18:1028(f) - CONSPIRACY TO COMMIT FRAUD IN CONNECTION WITH IDENTIFICATION"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT TIME SERVED, SUPERVISED RELEASE 5 YEARS, SPECIAL ASSESSMENT $300.00 (SOUTHERN DISTRICT OF NEW YORK)"
+        },
+        {
+          "charge_offence_description": "18:1349 - CONSPIRACY TO COMMIT BANK FRAUD; 18:1344"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "JEFFREY L. SCHMEHL",
+          "judge_guid": "urn:entity:jud-100104532"
+        }
+      ]
+    }
+  ]
+}

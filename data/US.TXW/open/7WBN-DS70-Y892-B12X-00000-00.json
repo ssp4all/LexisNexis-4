@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_303cr358_txwd",
+  "case_key": "3:03cr358_txwd",
+  "case_lni": "7WBN-DS70-Y892-B12X-00000-00",
+  "case_number": "3:03cr358",
+  "case_title": "USA v. Medrano-Mata",
+  "case_info_full_case_name": "USA v. Medrano-Mata",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Medrano-Mata",
+  "case_date_filed": "2003-02-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAIVER INGMAR MEDRANO-MATA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "59.1 21:841(a)(1),952(a)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 59.1 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(a) [3:03-m-528]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Philip R. Martinez",
+          "judge_guid": "urn:entity:jud-100041483"
+        }
+      ]
+    }
+  ]
+}

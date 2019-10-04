@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_318cr219_KYWD",
+  "case_key": "3:18cr219_KYWD",
+  "case_lni": "5V4N-NBF1-DXDT-G3DJ-00000-00",
+  "case_number": "3:18cr219",
+  "case_title": "USA v. Wolfe",
+  "case_info_full_case_name": "USA v. Wolfe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wolfe",
+  "case_date_filed": "2019-01-04",
+  "case_status": "Closed",
+  "case_status_date": "01/04/2019",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "William S. Wolfe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Supervised Release Transfer from Ohio Southern"
+        },
+        {
+          "charge_offence_description": "Supervised Release Transfer from Ohio Southern"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Greg N. Stivers",
+          "judge_guid": "urn:entity:jud-100111071"
+        }
+      ]
+    }
+  ]
+}

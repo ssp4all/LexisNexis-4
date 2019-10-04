@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_610cr10193_KSD",
+  "case_key": "6:10cr10193_KSD",
+  "case_lni": "51PX-J7G1-DXDT-G4XM-00000-00",
+  "case_number": "6:10cr10193",
+  "case_title": "USA v. Lopez-Lira",
+  "case_info_full_case_name": "USA v. Lopez-Lira",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Lira",
+  "case_date_filed": "2010-12-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Antonio Lopez-Lira",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(2) Re-entry after deportation subsequent to an aggravated felony (INDICTMENT [12/15/10]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge"
+        }
+      ]
+    }
+  ]
+}

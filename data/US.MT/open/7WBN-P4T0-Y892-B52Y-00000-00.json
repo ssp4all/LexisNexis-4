@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_602cr19_mtd",
+  "case_key": "6:02cr19_mtd",
+  "case_lni": "7WBN-P4T0-Y892-B52Y-00000-00",
+  "case_number": "6:02cr19",
+  "case_title": "USA v. Wilson",
+  "case_info_full_case_name": "USA v. Wilson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wilson",
+  "case_date_filed": "2002-10-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LYDIA ANN WILSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC641"
+        },
+        {
+          "charge_description": "Theft of government property, three counts, violations of 18 USC 641 [6:02-m-2]"
+        },
+        {
+          "charge_disposition": "One (1) year term of probation imposed on each of three counts, to run concurrently; while on probation dft shall comply with the standard conditions of probation and special conditions requiring that she provide USPO with any requested financial information and will incur no lines of credit without prior approval, shall submit to search by USPO, based on reasonable suspicion, of person, residence, place of employment or vehicle, and shall participate in mental health treatment program as may be deemed necessary by USPO; $25.00 special assessment imposed on each of three (3) counts; dft to perform twenty (20) hours of community service within the two year probationary term in lieu of a fine; mandatory drug testing requirement suspended. [6:02-m-2] (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Charles C. Lovell",
+          "judge_guid": "urn:entity:jud-100038651"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_316po474_CASD",
+  "case_key": "3:16po474_CASD",
+  "case_lni": "5J53-0RW1-DXDT-G37T-00000-00",
+  "case_number": "3:16po474",
+  "case_title": "USA vs Rhoda",
+  "case_info_full_case_name": "USA vs Rhoda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rhoda",
+  "case_date_filed": "2016-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kyle A Rhoda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operation of all-terrain vehicle without safety helmet prohibited (4293045)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

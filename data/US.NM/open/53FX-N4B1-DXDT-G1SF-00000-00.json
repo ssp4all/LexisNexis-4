@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_211cr2074_NMD",
+  "case_key": "2:11cr2074_NMD",
+  "case_lni": "53FX-N4B1-DXDT-G1SF-00000-00",
+  "case_number": "2:11cr2074",
+  "case_title": "USA v. Quinones-Macias",
+  "case_info_full_case_name": "USA v. Quinones-Macias",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Quinones-Macias",
+  "case_date_filed": "2011-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Quinones-Macias",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)and(b);Re-Entry"
+        },
+        {
+          "charge_description": "8:1326(a)and(b);Re-Entry of A Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(b)(1)"
+        },
+        {
+          "charge_description": "8:1326(b)(1) Reentry After Deportation-Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "John E. Conway",
+          "judge_guid": "urn:entity:jud-100049792"
+        }
+      ]
+    }
+  ]
+}

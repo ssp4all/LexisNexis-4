@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_393m1369_casd",
+  "case_key": "3:93m1369_casd",
+  "case_lni": "7WBN-RW50-Y892-B4JD-00000-00",
+  "case_number": "3:93m1369",
+  "case_title": "USA v. Soloman",
+  "case_info_full_case_name": "USA v. Soloman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Soloman",
+  "case_date_filed": "1993-04-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MOISES DELACRUZ SOLOMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(B); 8:1325"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(B); 8:1325 &; 18:2"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Louisa S. Porter",
+          "judge_guid": "urn:entity:jud-100024279"
+        }
+      ]
+    }
+  ]
+}

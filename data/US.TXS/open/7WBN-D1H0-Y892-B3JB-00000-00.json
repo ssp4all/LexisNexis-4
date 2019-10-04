@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_102m445_txsd",
+  "case_key": "1:02m445_txsd",
+  "case_lni": "7WBN-D1H0-Y892-B3JB-00000-00",
+  "case_number": "1:02m445",
+  "case_title": "USA v. Gomez Barrera",
+  "case_info_full_case_name": "USA v. Gomez Barrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez Barrera",
+  "case_date_filed": "2002-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE GOMEZ BARRERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1325(a)(3)"
+        },
+        {
+          "charge_description": "8 USC 1325(a)(3) Illegal entry into the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

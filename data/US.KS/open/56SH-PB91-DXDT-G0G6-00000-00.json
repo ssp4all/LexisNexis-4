@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B12po90250_KSD",
+  "case_key": "B:12po90250_KSD",
+  "case_lni": "56SH-PB91-DXDT-G0G6-00000-00",
+  "case_number": "B:12po90250",
+  "case_title": "USA v. Cisneros",
+  "case_info_full_case_name": "USA v. Cisneros",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cisneros",
+  "case_date_filed": "2012-10-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Annemarie P.E. Vazquez",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dawn D. Cisneros",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113 (K.S.A. 21-5414) - Domestic battery (Class B) INFORMATION 10/04/2012(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kenneth G. Gale",
+          "judge_guid": "urn:entity:jud-100055199"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_605mj141_CAED",
+  "case_key": "6:05mj141_CAED",
+  "case_lni": "7WBN-P600-Y892-B1KC-00000-00",
+  "case_number": "6:05mj141",
+  "case_title": "USA v. Rameriz",
+  "case_info_full_case_name": "USA v. Rameriz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rameriz",
+  "case_date_filed": "2005-08-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Agustin Rameriz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "MISCELLANEOUS GENERAL OFFENSES, OTHER (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William M. Wunderlich",
+          "judge_guid": "urn:entity:jud-100021670"
+        }
+      ]
+    }
+  ]
+}

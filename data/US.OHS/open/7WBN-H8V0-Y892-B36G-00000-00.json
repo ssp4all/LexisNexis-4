@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_307cr33_OHSD",
+  "case_key": "3:07cr33_OHSD",
+  "case_lni": "7WBN-H8V0-Y892-B36G-00000-00",
+  "case_number": "3:07cr33",
+  "case_title": "USA v. Sternquist",
+  "case_info_full_case_name": "USA v. Sternquist",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sternquist",
+  "case_date_filed": "2007-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael J Sternquist",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1028(a)(1)/(b)(1)(A)"
+        },
+        {
+          "charge_description": "18 USC 1028(a)(1)/(b)(1)(A) Knowingly and Without Lawful Authority Produced, in or Affecting Interstate Commerce, an Identification Document, Authentication Feature, or a False Identification Document that was or Appeared to be a Birth Certificate, Driver's License, or Personal Identification Card"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Walter"
+        }
+      ]
+    }
+  ]
+}

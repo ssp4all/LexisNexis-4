@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_504mj10432_TXSD",
+  "case_key": "5:04mj10432_TXSD",
+  "case_lni": "7WBN-FVR0-Y892-B0HY-00000-00",
+  "case_number": "5:04mj10432",
+  "case_title": "USA v. Costino-Ferreira",
+  "case_info_full_case_name": "USA v. Costino-Ferreira",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Costino-Ferreira",
+  "case_date_filed": "2004-11-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ercival Costino-Ferreira",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.F"
+        },
+        {
+          "charge_description": "8:1325.F ILLEGAL ENTRY, CONCEALMENT OF FACTS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

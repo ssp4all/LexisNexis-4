@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_708mj3051_TXSD",
+  "case_key": "7:08mj3051_TXSD",
+  "case_lni": "7WBN-J3K0-Y892-B20B-00000-00",
+  "case_number": "7:08mj3051",
+  "case_title": "USA v. Enriquez-Perez",
+  "case_info_full_case_name": "USA v. Enriquez-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Enriquez-Perez",
+  "case_date_filed": "2008-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Mauricio Enriquez-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_400cr517_txsd",
+  "case_key": "4:00cr517_txsd",
+  "case_lni": "7WBN-N860-Y892-B33Y-00000-00",
+  "case_number": "4:00cr517",
+  "case_title": "USA v. Felder",
+  "case_info_full_case_name": "USA v. Felder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Felder",
+  "case_date_filed": "2000-08-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Marshal - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Don J Calvert",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDDIE RICHARD FELDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F Felon in possession of a firearm (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Felon in possession of a firearm [4:00-m-770]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sim Lake",
+          "judge_guid": "urn:entity:jud-100036693"
+        }
+      ]
+    }
+  ]
+}

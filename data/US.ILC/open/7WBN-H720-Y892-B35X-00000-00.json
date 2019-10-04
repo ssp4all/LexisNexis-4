@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_304mj3065_ILCD",
+  "case_key": "3:04mj3065_ILCD",
+  "case_lni": "7WBN-H720-Y892-B35X-00000-00",
+  "case_number": "3:04mj3065",
+  "case_title": "USA v. Schutte et al",
+  "case_info_full_case_name": "USA v. Schutte et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schutte et al",
+  "case_date_filed": "2004-11-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cory R Schutte",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F-On 2003 50 5 21:841(a)(1), 841(b)(1)(B)"
+        },
+        {
+          "charge_description": "21:841A=CD.F-On or about October 2003 in Adams County, Illinois, defendant knowingly conspired to manufacture at least 50 grams of a substance containing methamphetame and knowingly possessed at least 5 grams of a substance containing methamphetamine with the intent to distribute in violation of 21:841(a)(1), 841(b)(1)(B) and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Byron G. Cudmore",
+          "judge_guid": "urn:entity:jud-100057803"
+        }
+      ]
+    },
+    {
+      "party_name": "John P Koch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F-On 2003 50 5 21:841(a)(1), 841(b)(1)(B)"
+        },
+        {
+          "charge_description": "21:841A=CD.F-On or about October 2003 in Adams County, Illinois, defendant knowingly conspired to manufacture at least 50 grams of a substance containing methamphetame and knowingly possessed at least 5 grams of a substance containing methamphetamine with the intent to distribute in violation of 21:841(a)(1), 841(b)(1)(B) and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Byron G. Cudmore",
+          "judge_guid": "urn:entity:jud-100057803"
+        }
+      ]
+    }
+  ]
+}

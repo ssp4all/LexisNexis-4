@@ -1,0 +1,123 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_400cr120_oknd",
+  "case_key": "4:00cr120_oknd",
+  "case_lni": "7WBN-N860-Y892-B0KK-00000-00",
+  "case_number": "4:00cr120",
+  "case_title": "United States of America v. Richmond",
+  "case_info_full_case_name": "United States of America v. Richmond",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Richmond",
+  "case_date_filed": "2000-09-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_name": "Phil E Pinnell",
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Barbara Louise Richmond",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1344(1): Bank Fraud.(2)"
+        },
+        {
+          "charge_disposition": "BOP - 23 mos.; 5 yrs SR; $100 SMA; rest. to be determined"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1708: Possession of stolen mail.(1)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1708: Possession of stolen mail.(3)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1344(1): Bank Fraud.(4)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1708: Possession of stolen mail.(5)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1344(1): Bank Fraud.(6)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1708: Possession of stolen mail.(7)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1344(1): Bank Fraud.(8)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Claire V Eagan",
+          "judge_guid": "urn:entity:jud-100056785"
+        }
+      ]
+    }
+  ]
+}

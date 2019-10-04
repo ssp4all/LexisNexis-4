@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_505cr1309_TXSD",
+  "case_key": "5:05cr1309_TXSD",
+  "case_lni": "7WBN-FVR0-Y892-B105-00000-00",
+  "case_number": "5:05cr1309",
+  "case_title": "USA v. Polo",
+  "case_info_full_case_name": "USA v. Polo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Polo",
+  "case_date_filed": "2005-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nicolas Polo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 &;#036;250,000 &;#036;100 3"
+        },
+        {
+          "charge_description": "Escape from custody. Penalty: Not more than 5 yrs and/or &;#036;250,000 fine; &;#036;100 cvf; 3 yrs tsr. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:751A.M"
+        },
+        {
+          "charge_description": "18:751A.M ESCAPE FROM AN INSTITUTION IN WHICH HE WAS ORDERED TO REPORT BY THE BUREAU OF PRISONS; TO WIT DISMAS CHARITIES, INC"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

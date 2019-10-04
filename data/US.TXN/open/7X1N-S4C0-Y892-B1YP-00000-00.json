@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_309mj344_TXND",
+  "case_key": "3:09mj344_TXND",
+  "case_lni": "7X1N-S4C0-Y892-B1YP-00000-00",
+  "case_number": "3:09mj344",
+  "case_title": "USA v. Espinoza et al",
+  "case_info_full_case_name": "USA v. Espinoza et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Espinoza et al",
+  "case_date_filed": "2009-10-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Espinoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "500 21USC841(a)(1) (b)(1)(A)"
+        },
+        {
+          "charge_description": "did knowingly, intentionally and unlawfully combine, conspire, confederate, and agree together, with each other and with other persons both known and unknown, to commit certain offenses against the United States, to-wit: to possess with the intent to distribute and to distribute 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers, in violation of Title 21 USC 841(a)(1) and (b)(1)(A) and 846."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul D Stickney",
+          "judge_guid": "urn:entity:jud-100013954"
+        }
+      ]
+    },
+    {
+      "party_name": "Brenda Espinoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "500 21USC841(a)(1) (b)(1)(A)"
+        },
+        {
+          "charge_description": "did knowingly, intentionally and unlawfully combine, conspire, confederate, and agree together, with each other and with other persons both known and unknown, to commit certain offenses against the United States, to-wit: to possess with the intent to distribute and to distribute 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers, in violation of Title 21 USC 841(a)(1) and (b)(1)(A) and 846."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul D Stickney",
+          "judge_guid": "urn:entity:jud-100013954"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Luis Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "500 21USC841(a)(1) (b)(1)(A)"
+        },
+        {
+          "charge_description": "did knowingly, intentionally and unlawfully combine, conspire, confederate, and agree together, with each other and with other persons both known and unknown, to commit certain offenses against the United States, to-wit: to possess with the intent to distribute and to distribute 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers, in violation of Title 21 USC 841(a)(1) and (b)(1)(A) and 846."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul D Stickney",
+          "judge_guid": "urn:entity:jud-100013954"
+        }
+      ]
+    }
+  ]
+}

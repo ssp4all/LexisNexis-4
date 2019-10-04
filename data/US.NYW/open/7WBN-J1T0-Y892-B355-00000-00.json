@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_608mj4139_NYWD",
+  "case_key": "6:08mj4139_NYWD",
+  "case_lni": "7WBN-J1T0-Y892-B355-00000-00",
+  "case_number": "6:08mj4139",
+  "case_title": "USA v. De Ara-Gomes",
+  "case_info_full_case_name": "USA v. De Ara-Gomes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De Ara-Gomes",
+  "case_date_filed": "2008-10-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Craig R. Gestring",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tomas De Ara-Gomes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028A.F-the"
+        },
+        {
+          "charge_description": "18:1028A.F-the defendant knowingly possessed false identification documents of the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Marian W. Payson",
+          "judge_guid": "urn:entity:jud-100024892"
+        }
+      ]
+    }
+  ]
+}

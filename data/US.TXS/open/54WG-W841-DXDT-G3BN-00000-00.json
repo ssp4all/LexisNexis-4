@@ -1,0 +1,96 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_212mj130_TXSD",
+  "case_key": "2:12mj130_TXSD",
+  "case_lni": "54WG-W841-DXDT-G3BN-00000-00",
+  "case_number": "2:12mj130",
+  "case_title": "USA v. Castellanos et al",
+  "case_info_full_case_name": "USA v. Castellanos et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castellanos et al",
+  "case_date_filed": "2012-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alberto Ramon Castellanos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F-BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    },
+    {
+      "party_name": "Veronica Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F-BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    },
+    {
+      "party_name": "Andrew Joseph Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F-BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

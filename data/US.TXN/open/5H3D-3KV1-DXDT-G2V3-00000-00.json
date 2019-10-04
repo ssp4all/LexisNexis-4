@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_315cr445_TXND",
+  "case_key": "3:15cr445_TXND",
+  "case_lni": "5H3D-3KV1-DXDT-G2V3-00000-00",
+  "case_number": "3:15cr445",
+  "case_title": "USA v. Torres-Padron",
+  "case_info_full_case_name": "USA v. Torres-Padron",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres-Padron",
+  "case_date_filed": "2015-10-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Douglas Burton Brasher-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Admitted/In Good Standing"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lazaro Torres-Padron",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC ยง 1326(a) and (b)(2)  Illegal  Reentry After Removal from the United  States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Godbey",
+          "judge_guid": "urn:entity:jud-100042848"
+        }
+      ]
+    }
+  ]
+}

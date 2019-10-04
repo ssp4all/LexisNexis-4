@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_103mj66_med",
+  "case_key": "1:03mj66_med",
+  "case_lni": "7WBN-JH90-Y892-B07B-00000-00",
+  "case_number": "1:03mj66",
+  "case_title": "USA v. GODAT",
+  "case_info_full_case_name": "USA v. GODAT",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "GODAT",
+  "case_date_filed": "2003-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARYANNE GODAT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=ND.F-Possession"
+        },
+        {
+          "charge_description": "21:841B=ND.F-Possession with intent to distribute cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAG. JUDGE",
+          "judge_name": "MARGARET J. KRAVCHUK",
+          "judge_guid": "urn:entity:jud-100036897"
+        }
+      ]
+    }
+  ]
+}

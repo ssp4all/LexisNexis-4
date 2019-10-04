@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIE_202m409_wied",
+  "case_key": "2:02m409_wied",
+  "case_lni": "7WBN-GM60-Y892-B31S-00000-00",
+  "case_number": "2:02m409",
+  "case_title": "USA v. Cellular Telephone",
+  "case_info_full_case_name": "USA v. Cellular Telephone",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cellular Telephone",
+  "case_date_filed": "2002-03-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CELLULAR TELEPHONE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "William E Callahan",
+          "judge_guid": "urn:entity:jud-100059907"
+        }
+      ]
+    }
+  ]
+}

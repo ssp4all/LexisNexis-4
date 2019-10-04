@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_517cr4003_IAND",
+  "case_key": "5:17cr4003_IAND",
+  "case_lni": "5MND-B001-DXDT-G27R-00000-00",
+  "case_number": "5:17cr4003",
+  "case_title": "USA v. Estrada-Martinez",
+  "case_info_full_case_name": "USA v. Estrada-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada-Martinez",
+  "case_date_filed": "2017-01-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Jose Efren Estrada-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leonard T Strand",
+          "judge_guid": "urn:entity:jud-100102111"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kelly Mahoney",
+          "judge_guid": "urn:entity:jud-100126956"
+        }
+      ]
+    }
+  ]
+}

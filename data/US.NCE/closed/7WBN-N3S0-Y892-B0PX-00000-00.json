@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_394m91_nced",
+  "case_key": "3:94m91_nced",
+  "case_lni": "7WBN-N3S0-Y892-B0PX-00000-00",
+  "case_number": "3:94m91",
+  "case_title": "USA v. Nelson",
+  "case_info_full_case_name": "USA v. Nelson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nelson",
+  "case_date_filed": "1994-01-25",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MYLES NELSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 20-140(b)"
+        },
+        {
+          "charge_description": "18:13 NCGS 20-140(b) CARELESS AND RECKLESS DRIVING (3)"
+        },
+        {
+          "charge_disposition": "$10 special assessment and $200 fine (receipt #24495) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-NCGS 20-138.1"
+        },
+        {
+          "charge_description": "18:13-NCGS 20-138.1 DRIVING WHILE IMPAIRED (1)"
+        },
+        {
+          "charge_disposition": "DISMISSED (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-NCGS 20-165.1"
+        },
+        {
+          "charge_description": "18:13-NCGS 20-165.1 DRIVING WRONG WAY ON A ONE WAY (2)"
+        },
+        {
+          "charge_disposition": "DISMISSED (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William N. Mason",
+          "judge_guid": "urn:entity:jud-100027235"
+        }
+      ]
+    }
+  ]
+}

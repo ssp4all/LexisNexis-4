@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_401m114_vaed",
+  "case_key": "4:01m114_vaed",
+  "case_lni": "7WBN-S1D0-Y892-B15P-00000-00",
+  "case_number": "4:01m114",
+  "case_title": "USA v. Baskin",
+  "case_info_full_case_name": "USA v. Baskin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baskin",
+  "case_date_filed": "2001-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VANTHONY V. BASKIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC13, 46.2-301 (R2057221)"
+        },
+        {
+          "charge_description": "Title 18 USC 13, Assim. Code of VA, Sec. 46.2-301 [18:13-7220.M]-Driving While License Suspended (R2057221) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC13, 46.2-870 (R2057220)"
+        },
+        {
+          "charge_description": "Title 18 USC 13, Assim. Code of VA, Sec. 46.2-870 [18:13-7220.P]-Speeding (R2057220) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

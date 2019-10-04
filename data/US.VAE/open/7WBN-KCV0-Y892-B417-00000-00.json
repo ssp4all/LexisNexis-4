@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_201cr56_vaed",
+  "case_key": "2:01cr56_vaed",
+  "case_lni": "7WBN-KCV0-Y892-B417-00000-00",
+  "case_number": "2:01cr56",
+  "case_title": "USA v. Mallen",
+  "case_info_full_case_name": "USA v. Mallen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mallen",
+  "case_date_filed": "2001-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VINCENT PORFIRO MALLEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.21:846 (21:846=CD.F) 9/16/00)/Criminal 21:853"
+        },
+        {
+          "charge_description": "T.21:846 (21:846=CD.F) Conspiracy to distribute and possess with intent to distribute methylenedioxy-methamphetamine and methylenedioxy-amphetamine (date offense concluded: 9/16/00)/Criminal Forfeiture 21:853 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "T.21:841(a)(1) 846-Conspire (MDA)"
+        },
+        {
+          "charge_description": "Violation of T.21:841(a)(1) &; 846-Conspire to distribute with intent to distribute Methylenedioxyamphetamine (MDA) [2:01-m-91]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Rebecca Beach Smith",
+          "judge_guid": "urn:entity:jud-100022213"
+        }
+      ]
+    }
+  ]
+}

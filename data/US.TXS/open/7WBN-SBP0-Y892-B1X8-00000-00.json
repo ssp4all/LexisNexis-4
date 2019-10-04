@@ -1,0 +1,148 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_506cr1625_TXSD",
+  "case_key": "5:06cr1625_TXSD",
+  "case_lni": "7WBN-SBP0-Y892-B1X8-00000-00",
+  "case_number": "5:06cr1625",
+  "case_title": "USA v. Arizpe-Rocha et al",
+  "case_info_full_case_name": "USA v. Arizpe-Rocha et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arizpe-Rocha et al",
+  "case_date_filed": "2006-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Jose Arizpe-Rocha",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F Bringing in and harboring aliens."
+        },
+        {
+          "charge_statute": "10 3"
+        },
+        {
+          "charge_description": "Conspiracy to Conceal, harbor and shield undocumented aliens from detection for profit. Penalty: Not more 10 yrs and/or $250,000 fine; $100 cvf; 3 yrs tsr. (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    },
+    {
+      "party_name": "Alicia Arizpe-Serna",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F Bringing in and harboring aliens."
+        },
+        {
+          "charge_statute": "10 3"
+        },
+        {
+          "charge_description": "Conspiracy to Conceal, harbor and shield undocumented aliens from detection for profit. Penalty: Not more 10 yrs and/or $250,000 fine; $100 cvf; 3 yrs tsr. (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    },
+    {
+      "party_name": "Rodrigo Arizpe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F Bringing in and harboring aliens."
+        },
+        {
+          "charge_statute": "10 3"
+        },
+        {
+          "charge_description": "Conspiracy to Conceal, harbor and shield undocumented aliens from detection for profit. Penalty: Not more 10 yrs and/or $250,000 fine; $100 cvf; 3 yrs tsr. (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    },
+    {
+      "party_name": "Ricardo Alfredo Nino-Ventura",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F Bringing in and harboring aliens."
+        },
+        {
+          "charge_statute": "10 3"
+        },
+        {
+          "charge_description": "Conspiracy to Conceal, harbor and shield undocumented aliens from detection for profit. Penalty: Not more 10 yrs and/or $250,000 fine; $100 cvf; 3 yrs tsr. (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

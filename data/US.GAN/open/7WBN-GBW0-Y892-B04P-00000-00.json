@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_189m1002_gand",
+  "case_key": "1:89m1002_gand",
+  "case_lni": "7WBN-GBW0-Y892-B04P-00000-00",
+  "case_number": "1:89m1002",
+  "case_title": "USA v. Carson",
+  "case_info_full_case_name": "USA v. Carson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carson",
+  "case_date_filed": "1989-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "F. Gentry Shelnutt, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JEFFREY CARSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "William L. Harper",
+          "judge_guid": "urn:entity:jud-100047261"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_115po1323_TXSD",
+  "case_key": "1:15po1323_TXSD",
+  "case_lni": "5GNX-WTH1-DXDT-G0J6-00000-00",
+  "case_number": "1:15po1323",
+  "case_title": "USA v. Alvarez-Hernandez",
+  "case_info_full_case_name": "USA v. Alvarez-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarez-Hernandez",
+  "case_date_filed": "2015-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {},
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Luis Alvarez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ignacio Torteya, III",
+          "judge_guid": "urn:entity:jud-100021592"
+        }
+      ]
+    }
+  ]
+}

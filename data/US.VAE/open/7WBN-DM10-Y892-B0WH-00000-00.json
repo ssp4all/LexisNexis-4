@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_200m116_vaed",
+  "case_key": "2:00m116_vaed",
+  "case_lni": "7WBN-DM10-Y892-B0WH-00000-00",
+  "case_number": "2:00m116",
+  "case_title": "USA v. Sherril",
+  "case_info_full_case_name": "USA v. Sherril",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sherril",
+  "case_date_filed": "2000-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Florencio J. Yuzon",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARLEN J. SHERRIL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.18:7 13, 46.2 894 (18:13-7220.M)-unlawfully W001935)"
+        },
+        {
+          "charge_description": "T.18:7 &; 13, assimilating Title 46.2 of the Code of Virginia, Section 894 (18:13-7220.M)-unlawfully hit an unattended motor vehicle, causing damage of some unknown amount, and did fail to report such accident either to the owner of the vehicle or to proper authorities (Violation No. W001935) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "T.18:7 13 46.2-821 (18:13-7220.P)-unlawfully W001936)"
+        },
+        {
+          "charge_description": "T.18:7 &; 13 assimilating Code of Virginia, Section 46.2-821 (18:13-7220.P)-unlawfully fail to yield the right of way, causing an accident (Violation No. W001936) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "T.18:7 13 46.2 300 (18:13-7220.P)-unlawfully W001937)"
+        },
+        {
+          "charge_description": "T.18:7 &; 13 assimilating Title 46.2 Code of Virginia, Section 300 (18:13-7220.P)-unlawfully drive &; operate a motor vehicle without a valid drivers license issued by a state (Violation No. W001937) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

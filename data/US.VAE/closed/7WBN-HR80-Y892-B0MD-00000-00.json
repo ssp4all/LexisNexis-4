@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_494m4682_vaed",
+  "case_key": "4:94m4682_vaed",
+  "case_lni": "7WBN-HR80-Y892-B0MD-00000-00",
+  "case_number": "4:94m4682",
+  "case_title": "USA v. Robertson",
+  "case_info_full_case_name": "USA v. Robertson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robertson",
+  "case_date_filed": "1994-06-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHELIA M. ROBERTSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 18.2-266 A2034682 VA19"
+        },
+        {
+          "charge_description": "18:13 &; VSC 18.2-266 TRAFFIC OFFENSES, DRUNKEN DRIVING A2034682 VA19 (1)"
+        },
+        {
+          "charge_disposition": "GUILTY; ONE YR PROB W/SUPER;;; FINE $250; S/A $25; 1 YR LIC SUSP MILITARY PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

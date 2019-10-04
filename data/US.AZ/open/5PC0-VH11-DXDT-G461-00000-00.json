@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_217mj9372_AZD",
+  "case_key": "2:17mj9372_AZD",
+  "case_lni": "5PC0-VH11-DXDT-G461-00000-00",
+  "case_number": "2:17mj9372",
+  "case_title": "USA v. Araiza-Plaza",
+  "case_info_full_case_name": "USA v. Araiza-Plaza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Araiza-Plaza",
+  "case_date_filed": "2017-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brandon Marcellus Brown",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Javier Araiza-Plaza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a), Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a), Reentry of Removed Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eileen S Willett",
+          "judge_guid": "urn:entity:jud-100017110"
+        }
+      ]
+    }
+  ]
+}

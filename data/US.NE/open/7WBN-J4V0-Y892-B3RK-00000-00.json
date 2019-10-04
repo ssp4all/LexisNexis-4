@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_807cr178_NED",
+  "case_key": "8:07cr178_NED",
+  "case_lni": "7WBN-J4V0-Y892-B3RK-00000-00",
+  "case_number": "8:07cr178",
+  "case_title": "USA v. Speed",
+  "case_info_full_case_name": "USA v. Speed",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Speed",
+  "case_date_filed": "2007-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joel Speed",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g) 18:924(a)(2)-FELON"
+        },
+        {
+          "charge_description": "18:922(g) and 18:924(a)(2)-FELON IN POSSESSION OF A FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(d) 28:2461(c)-FORFEITURE"
+        },
+        {
+          "charge_description": "18:924(d) and 28:2461(c)-FORFEITURE OF FIREARM (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Joseph F. Bataillon",
+          "judge_guid": "urn:entity:jud-100069531"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas D. Thalken",
+          "judge_guid": "urn:entity:jud-100007179"
+        }
+      ]
+    }
+  ]
+}

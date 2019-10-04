@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_102m346_miwd",
+  "case_key": "1:02m346_miwd",
+  "case_lni": "7WBN-JDY0-Y892-B2H5-00000-00",
+  "case_number": "1:02m346",
+  "case_title": "USA v. Rine",
+  "case_info_full_case_name": "USA v. Rine",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rine",
+  "case_date_filed": "2002-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BENJAMIN RINE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph G. Scoville",
+          "judge_guid": "urn:entity:jud-100026620"
+        }
+      ]
+    }
+  ]
+}

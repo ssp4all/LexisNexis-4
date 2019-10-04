@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_397m422_prd",
+  "case_key": "3:97m422_prd",
+  "case_lni": "7WBN-RXX0-Y892-B51S-00000-00",
+  "case_number": "3:97m422",
+  "case_title": "USA v. Abreu-Caceres",
+  "case_info_full_case_name": "USA v. Abreu-Caceres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Abreu-Caceres",
+  "case_date_filed": "1997-10-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ISIDRO MANUEL ABREU-CACERES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Deposited and attempted to deposit multiple stolen and counterfeit obligations/securities of the U.S. and private entities at Bco. Popular."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jesus A. Castellanos",
+          "judge_guid": "urn:entity:jud-100094798"
+        }
+      ]
+    }
+  ]
+}

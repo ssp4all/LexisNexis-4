@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_118po1723_MDD",
+  "case_key": "1:18po1723_MDD",
+  "case_lni": "5S01-GTT1-DXDT-G11Y-00000-00",
+  "case_number": "1:18po1723",
+  "case_title": "USA vs Doe",
+  "case_info_full_case_name": "USA vs Doe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Doe",
+  "case_date_filed": "2018-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jennifer R Doe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING WITHOUT A PERMIT OR PARKING IN UNAUTHORIZED LOCATIONS (S7000732)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephanie A Gallagher",
+          "judge_guid": "urn:entity:jud-100072415"
+        }
+      ]
+    }
+  ]
+}

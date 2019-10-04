@@ -1,0 +1,112 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_613mj121_TXSD",
+  "case_key": "6:13mj121_TXSD",
+  "case_lni": "5B2W-SNP1-DXDT-G505-00000-00",
+  "case_number": "6:13mj121",
+  "case_title": "USA v. Ramirez-Lemus et al",
+  "case_info_full_case_name": "USA v. Ramirez-Lemus et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Lemus et al",
+  "case_date_filed": "2013-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Erica Johana Ramirez-Lemus",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B. Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    },
+    {
+      "party_name": "Maria Martinez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B. Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    },
+    {
+      "party_name": "Jesus Natividad Gonzalez-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B. Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    },
+    {
+      "party_name": "Odilia Maribel Lopez-Sandoval",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Jose Wilfredo Urena-Genao",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Cesar Alexander Merida-Molina",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Keiryn Reyes-",
+      "party_description": "Material Witness"
+    }
+  ]
+}

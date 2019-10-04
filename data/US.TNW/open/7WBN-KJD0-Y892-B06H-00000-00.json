@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_203m109_tnwd",
+  "case_key": "2:03m109_tnwd",
+  "case_lni": "7WBN-KJD0-Y892-B06H-00000-00",
+  "case_number": "2:03m109",
+  "case_title": "USA v. York",
+  "case_info_full_case_name": "USA v. York",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "York",
+  "case_date_filed": "2003-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LARRY W. YORK",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Diane K. Vescovo",
+          "judge_guid": "urn:entity:jud-100010337"
+        }
+      ]
+    }
+  ]
+}

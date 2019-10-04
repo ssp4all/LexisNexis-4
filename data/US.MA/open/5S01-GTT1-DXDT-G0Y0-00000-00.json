@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_118mj2190_MAD",
+  "case_key": "1:18mj2190_MAD",
+  "case_lni": "5S01-GTT1-DXDT-G0Y0-00000-00",
+  "case_number": "1:18mj2190",
+  "case_title": "USA v. Suazo",
+  "case_info_full_case_name": "USA v. Suazo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Suazo",
+  "case_date_filed": "2018-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Inyemar Manuel Suazo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846- CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE ; 21:841(a)(1)."
+        },
+        {
+          "charge_offence_description": "21:846- CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marianne B. Bowler",
+          "judge_guid": "urn:entity:jud-100064595"
+        }
+      ]
+    }
+  ]
+}

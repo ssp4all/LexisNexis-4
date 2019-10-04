@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_714cr12_TXSD",
+  "case_key": "7:14cr12_TXSD",
+  "case_lni": "5B80-1GX1-DXDT-G4J1-00000-00",
+  "case_number": "7:14cr12",
+  "case_title": "USA v. Castillo",
+  "case_info_full_case_name": "USA v. Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo",
+  "case_date_filed": "2014-01-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jason C. Honeycutt",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs Mc"
+    },
+    {
+      "attorney_name": "US Probation - Mc"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Emmanuel Guadalupe Castillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE MARIJUANA(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MARIJUANA - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CP.F"
+        },
+        {
+          "charge_offence_description": "21:846=CP.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

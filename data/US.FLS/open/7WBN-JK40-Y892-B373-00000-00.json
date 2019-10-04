@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_105cr20447_FLSD",
+  "case_key": "1:05cr20447_FLSD",
+  "case_lni": "7WBN-JK40-Y892-B373-00000-00",
+  "case_number": "1:05cr20447",
+  "case_title": "USA v. Tobon",
+  "case_info_full_case_name": "USA v. Tobon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tobon",
+  "case_date_filed": "2005-05-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN TOBON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=CD.F"
+        },
+        {
+          "charge_description": "21:841B=CD.F CONTROLLED SUBST SELL/DISTR/DISPENSE marijuana plants (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:856=MM.F"
+        },
+        {
+          "charge_description": "21:856=MM.F MARIJUANA-MANUFACTURE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession with intent to distribute marihuiana [1:05-m-2655]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joan A. Lenard",
+          "judge_guid": "urn:entity:jud-100030148"
+        }
+      ]
+    }
+  ]
+}

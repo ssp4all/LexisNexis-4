@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_305cr30010_MAD",
+  "case_key": "3:05cr30010_MAD",
+  "case_lni": "7WBN-MR60-Y892-B308-00000-00",
+  "case_number": "3:05cr30010",
+  "case_title": "USA v. Henry",
+  "case_info_full_case_name": "USA v. Henry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Henry",
+  "case_date_filed": "2005-03-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lee Henry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DISTRIBUTION AND POSSESSION WITH INTENT  TO DISTRIBUTE HEROIN; 21 U.S.C. 841(a)(1)(1)"
+        },
+        {
+          "charge_disposition": "168 months imprisonment, to consist of 144 mos for the offense to be followed by a consecutive term of 24 mos per 18:3147, all to be served concurrently w/sentence imposed in U.S. District Court Dkt. no: 03-30043; Jud. Rec. Def. be permitted to participate in th 500 hour Residential Drug Abuse Program; Def. remanded to custody of U.S. Marshal; Supervised release 6 yrs; Possess no firearm; cooperate in collection of DNA as directed; Participate in pforgram for substance abuse as directed which program may include testing and contribute to costs based on ability to pay; Participate in mental health treatment program as directed and contribute to costs based on ability to pay $100 assessment fee due immediately;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael A. Ponsor",
+          "judge_guid": "urn:entity:jud-100032801"
+        }
+      ]
+    }
+  ]
+}

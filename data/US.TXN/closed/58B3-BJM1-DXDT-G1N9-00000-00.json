@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_513mj97_TXND",
+  "case_key": "5:13mj97_TXND",
+  "case_lni": "58B3-BJM1-DXDT-G1N9-00000-00",
+  "case_number": "5:13mj97",
+  "case_title": "USA v. Thomas et al",
+  "case_info_full_case_name": "USA v. Thomas et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomas et al",
+  "case_date_filed": "2013-05-02",
+  "case_status": "Closed",
+  "case_status_date": "05/15/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Admitted/In Good Standing"
+    },
+    {
+      "attorney_name": "Justin T Cunningham-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Government Attorney"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED;Bar Status: Admitted/In Good Standing"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gregory Thomas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a) &; 841(b)(1)(C)  Possession with Intent to Distribute 50 Kilograms or More, but Less then 100 Kilograms, of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a) & 841(b)(1)(C)  Possession with Intent t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nancy M Koenig",
+          "judge_guid": "urn:entity:jud-100040094"
+        }
+      ]
+    },
+    {
+      "party_name": "Dorothea Cangelosi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a) &; 841(b)(1)(C)  Possession with Intent to Distribute 50 Kilograms or More, but Less then 100 Kilograms, of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a) & 841(b)(1)(C)  Possession with Intent t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nancy M Koenig",
+          "judge_guid": "urn:entity:jud-100040094"
+        }
+      ]
+    }
+  ]
+}

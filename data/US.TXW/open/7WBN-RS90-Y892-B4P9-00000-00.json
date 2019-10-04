@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_307cr903_TXWD",
+  "case_key": "3:07cr903_TXWD",
+  "case_lni": "7WBN-RS90-Y892-B4P9-00000-00",
+  "case_number": "3:07cr903",
+  "case_title": "USA v. Tabarez-Perea",
+  "case_info_full_case_name": "USA v. Tabarez-Perea",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tabarez-Perea",
+  "case_date_filed": "2007-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Karla Iveth Tabarez-Perea",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Knowingly transporting and harboring aliens in violation of 8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

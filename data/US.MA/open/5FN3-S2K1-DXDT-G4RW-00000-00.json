@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_115po1002_MAD",
+  "case_key": "1:15po1002_MAD",
+  "case_lni": "5FN3-S2K1-DXDT-G4RW-00000-00",
+  "case_number": "1:15po1002",
+  "case_title": "USA v. Willoughby",
+  "case_info_full_case_name": "USA v. Willoughby",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Willoughby",
+  "case_date_filed": "2015-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Seth B. Orkand"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William H Willoughby",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violation Notice: 3211034, Operation of a Vehicle under the influence of alcoholic beverages in violation of 38 CFR s. 1.218(b)(15)"
+        },
+        {
+          "charge_offence_description": "Violation Notice: 3211034, Operation of a Vehicle "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Donald L. Cabell",
+          "judge_guid": "urn:entity:jud-100111957"
+        }
+      ]
+    }
+  ]
+}

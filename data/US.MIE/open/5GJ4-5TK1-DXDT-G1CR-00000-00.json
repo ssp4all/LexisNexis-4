@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_215cr20462_MIED",
+  "case_key": "2:15cr20462_MIED",
+  "case_lni": "5GJ4-5TK1-DXDT-G1CR-00000-00",
+  "case_number": "2:15cr20462",
+  "case_title": "United States of America v. Williams",
+  "case_info_full_case_name": "United States of America v. Williams",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2015-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Curtis Lee Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "COMPLAINT\t\t\t\t\t\t\t\t\t\t\t\tDISMISSED"
+        },
+        {
+          "charge_description": "BANK ROBBERY BY FORCE OR VIOLENCE(5s)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 120 MONTHS; SUPERVISED RELEASE: 36 MONTHS; SPECIAL ASSESSMENT: $100.00; RESTITUTION: $15,045.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK ROBBERY BY FORCE OR VIOLENCE(1-4)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "BANK ROBBERY BY FORCE OR VIOLENCE(1s-4s)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "David M. Lawson",
+          "judge_guid": "urn:entity:jud-100030332"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    }
+  ]
+}

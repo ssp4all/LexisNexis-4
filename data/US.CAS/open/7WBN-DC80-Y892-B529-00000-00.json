@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_398cr3829_casd",
+  "case_key": "3:98cr3829_casd",
+  "case_lni": "7WBN-DC80-Y892-B529-00000-00",
+  "case_number": "3:98cr3829",
+  "case_title": "USA v. Lopez-Cital, et al",
+  "case_info_full_case_name": "USA v. Lopez-Cital, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Cital, et al",
+  "case_date_filed": "1998-12-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERTO LOPEZ-CITAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21: 952 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21: 952 and 960-Importation of Marijuana; 18:2-Aiding and Abetting (1)"
+        },
+        {
+          "charge_disposition": "Committed to Custody BOP for 6 months, supervised release for 2 years. No fine. $100 P/A-remitted. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of Marijuana with Intent to Distribute; 18:2-Aiding and Abetting (2)"
+        },
+        {
+          "charge_disposition": "Remaining cnt dismissed on oral motion of AUSA. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Judith N. Keep",
+          "judge_guid": "urn:entity:jud-100043287"
+        }
+      ]
+    },
+    {
+      "party_name": "KARLA TORRES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21: 952 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21: 952 and 960-Importation of Marijuana; 18:2-Aiding and Abetting (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of Marijuana with Intent to Distribute; 18:2-Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1-21:963-Conspiracy"
+        },
+        {
+          "charge_description": "Cnt 1-21:963-Conspiracy to import marijuana [2:98-m-9058]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Judith N. Keep",
+          "judge_guid": "urn:entity:jud-100043287"
+        }
+      ]
+    }
+  ]
+}

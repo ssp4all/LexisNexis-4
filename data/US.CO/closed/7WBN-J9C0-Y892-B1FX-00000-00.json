@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_100m7148_cod",
+  "case_key": "1:00m7148_cod",
+  "case_lni": "7WBN-J9C0-Y892-B1FX-00000-00",
+  "case_number": "1:00m7148",
+  "case_title": "USA v. Pierce",
+  "case_info_full_case_name": "USA v. Pierce",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pierce",
+  "case_date_filed": "2000-09-30",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARK D. PIERCE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, DUR alc related (1)"
+        },
+        {
+          "charge_disposition": "$90 fine, $10 cvf due by 1/08/01; 5 days jail to surrender after 2/01/01 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7990.P"
+        },
+        {
+          "charge_description": "18:13-7990.P Possessed altered license (2)"
+        },
+        {
+          "charge_disposition": "counts dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "42-2-206(1);"
+        },
+        {
+          "charge_description": "CRS 42-2-206(1); DUR, HTO"
+        },
+        {
+          "charge_disposition": "counts dismissed (-1)"
+        },
+        {
+          "charge_statute": "42-2-136(1);"
+        },
+        {
+          "charge_description": "CRS 42-2-136(1); Poss. altered license"
+        },
+        {
+          "charge_disposition": "counts dismissed (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Boyd N. Boland",
+          "judge_guid": "urn:entity:jud-100061263"
+        }
+      ]
+    }
+  ]
+}

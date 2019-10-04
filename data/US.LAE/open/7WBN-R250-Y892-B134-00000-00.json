@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_200m1_laed",
+  "case_key": "2:00m1_laed",
+  "case_lni": "7WBN-R250-Y892-B134-00000-00",
+  "case_number": "2:00m1",
+  "case_title": "USA v. James",
+  "case_info_full_case_name": "USA v. James",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "James",
+  "case_date_filed": "2000-01-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "OSCAR JAMES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:822(g)(1) L9MM, 9MM L092798, L25,.25 216248,"
+        },
+        {
+          "charge_description": "18:822(g)(1) Did knowingly possess firearms which had previously traveled in and affecting interstate commerce, to wit: a Lorcin, Model L9MM, 9MM caliber pistol, serial number L092798, and a Lorcin, Model L25,.25 caliber pistol, serial number 216248, after having been convicted in a court of a crime punishable for a term exceeding one year."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Duty Magistrate"
+        }
+      ]
+    }
+  ]
+}

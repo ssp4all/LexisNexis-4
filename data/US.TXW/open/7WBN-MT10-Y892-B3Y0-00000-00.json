@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_306m1865_TXWD",
+  "case_key": "3:06m1865_TXWD",
+  "case_lni": "7WBN-MT10-Y892-B3Y0-00000-00",
+  "case_number": "3:06m1865",
+  "case_title": "USA v. Ramos-Hernandez",
+  "case_info_full_case_name": "USA v. Ramos-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos-Hernandez",
+  "case_date_filed": "2006-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MANUEL RAMOS-HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "6, 202(3), 202(4), 557, 8"
+        },
+        {
+          "charge_description": "An alien who had been excluded, deported and removed from the U.S. and who had not received consent to reapply for admisson from the Attorney General of the U.S. Pursuant to Title 6, of the U.S. Code, Sections 202(3), 202(4), and 557, was found in the U.S. in violation of Title 8 of the U.S. Code, Section 1326(a)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_314po1189_WYD",
+  "case_key": "3:14po1189_WYD",
+  "case_lni": "5D9K-44M1-DXDT-G2YR-00000-00",
+  "case_number": "3:14po1189",
+  "case_title": "USA vs Henderson",
+  "case_info_full_case_name": "USA vs Henderson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Henderson",
+  "case_date_filed": "2014-10-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mark Henderson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Disturbing Wildlife (P0422317)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James Lubing",
+          "judge_guid": "urn:entity:jud-100034980"
+        }
+      ]
+    }
+  ]
+}

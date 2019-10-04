@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_297cr255_laed",
+  "case_key": "2:97cr255_laed",
+  "case_lni": "7WBN-MB50-Y892-B095-00000-00",
+  "case_number": "2:97cr255",
+  "case_title": "USA v. Morgan, et al",
+  "case_info_full_case_name": "USA v. Morgan, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morgan, et al",
+  "case_date_filed": "1997-09-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Tracey N. Knight",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CECIL MORGAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:718a"
+        },
+        {
+          "charge_description": "16:718a Did take or attempt to take ducks without first having a valid migratory bird hunting stamp on his person. (1)"
+        },
+        {
+          "charge_disposition": "Sentencing held 9/16/97. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "16:718a 1"
+        },
+        {
+          "charge_description": "16:718a Did jointly exceed the field possession limit of ducks; to wit: 1 pintail each in excess. (2)"
+        },
+        {
+          "charge_disposition": "Sentencing held 9/16/97. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Louis Moore, Jr.",
+          "judge_guid": "urn:entity:jud-100016008"
+        }
+      ]
+    },
+    {
+      "party_name": "MICHAEL L FAJONI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:718a 1"
+        },
+        {
+          "charge_description": "16:718a Did jointly exceed the field possession limit of ducks; to wit: 1 pintail each in excess. (2)"
+        },
+        {
+          "charge_disposition": "Sentencing held 9/16/97. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Louis Moore, Jr.",
+          "judge_guid": "urn:entity:jud-100016008"
+        }
+      ]
+    }
+  ]
+}

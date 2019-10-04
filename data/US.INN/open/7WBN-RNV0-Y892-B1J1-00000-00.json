@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_304cr15_innd",
+  "case_key": "3:04cr15_innd",
+  "case_lni": "7WBN-RNV0-Y892-B1J1-00000-00",
+  "case_number": "3:04cr15",
+  "case_title": "United States of America v. Parisi",
+  "case_info_full_case_name": "United States of America v. Parisi",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Parisi",
+  "case_date_filed": "2004-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Roberto Parisi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "18:1001.F FALSE STATEMENTS TO SPECIAL AGENT OF THE FBI (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:912.F"
+        },
+        {
+          "charge_description": "18:912.F IMPERSONATING OFFICER OR EMPLOYEE OF U.S. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allen Sharp",
+          "judge_guid": "urn:entity:jud-100021315"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Christopher A Nuechterlein",
+          "judge_guid": "urn:entity:jud-100031317"
+        }
+      ]
+    }
+  ]
+}

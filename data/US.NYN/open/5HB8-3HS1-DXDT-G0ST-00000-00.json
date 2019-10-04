@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_115cr322_NYND",
+  "case_key": "1:15cr322_NYND",
+  "case_lni": "5HB8-3HS1-DXDT-G0ST-00000-00",
+  "case_number": "1:15cr322",
+  "case_title": "USA v. Newland",
+  "case_info_full_case_name": "USA v. Newland",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Newland",
+  "case_date_filed": "2015-11-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2250.F: Failure to Register as a Sex Offender(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2250(a)Failure to Register"
+        },
+        {
+          "charge_offence_description": "18:2250(a)Failure to Register"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gary L. Sharpe",
+          "judge_guid": "urn:entity:jud-100026578"
+        }
+      ]
+    }
+  ]
+}

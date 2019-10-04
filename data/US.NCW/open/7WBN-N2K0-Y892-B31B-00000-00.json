@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_393m210_ncwd",
+  "case_key": "3:93m210_ncwd",
+  "case_lni": "7WBN-N2K0-Y892-B31B-00000-00",
+  "case_number": "3:93m210",
+  "case_title": "USA v. Little",
+  "case_info_full_case_name": "USA v. Little",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Little",
+  "case_date_filed": "1993-09-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT RAY LITTLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "By force, violence and intimidation, take from another a sum of money in the care, custody, control of a bank, the deposits of which were then insured by the Federal Deposit Insurance Corporation (FDIC)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "H. Brent McKnight",
+          "judge_guid": "urn:entity:jud-100040704"
+        }
+      ]
+    }
+  ]
+}

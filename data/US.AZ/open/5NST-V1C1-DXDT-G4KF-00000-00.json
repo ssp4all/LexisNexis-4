@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_217cr802_AZD",
+  "case_key": "2:17cr802_AZD",
+  "case_lni": "5NST-V1C1-DXDT-G4KF-00000-00",
+  "case_number": "2:17cr802",
+  "case_title": "USA v. Gutierrez",
+  "case_info_full_case_name": "USA v. Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gutierrez",
+  "case_date_filed": "2017-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albert Jaciel Gutierrez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B) - Possession with Intent to Distribute Methamphetamine(2s)"
+        },
+        {
+          "charge_disposition": "The defendant is committed to the custody of the Bureau of Prisons for a term of THIRTY-THREE (33) MONTHS, with credit for time served. Upon release from imprisonment, the defendant shall be placed on supervised release for a term of SIXTY (60) MONTHS. Special Assessment $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:952(a), 960(a)(1), and 960(b)(1)(H) - Importation of a Controlled Substance - Methamphetamine(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A)(viii) - Possession with Intent to Distribute a Controlled Substance - Methamphetamine(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Count One - 21:952, 960(b)(1)(H) - Importation of a Controlled Substance; Count Two - 21:841(b)(1)(A)(viii) - Possession of a Controlled Substance with Intent to Distribute"
+        },
+        {
+          "charge_offence_description": "Count One - 21:952, 960(b)(1)(H) - Importation of "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven P Logan",
+          "judge_guid": "urn:entity:jud-100003811"
+        }
+      ]
+    }
+  ]
+}

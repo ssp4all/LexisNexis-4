@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_198cr242_alnd",
+  "case_key": "1:98cr242_alnd",
+  "case_lni": "7WBN-K6G0-Y892-B2TG-00000-00",
+  "case_number": "1:98cr242",
+  "case_title": "USA v. Moore",
+  "case_info_full_case_name": "USA v. Moore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moore",
+  "case_date_filed": "1998-07-29",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "G Douglas Jones, ",
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "Greg Knight",
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "J M Masterson, Captain ATZN-JA",
+      "attorney_label": "[COR]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VAUGHN D MOORE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844"
+        },
+        {
+          "charge_description": "21:844 MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_disposition": "PROB 12 mos; fine $1000.00; asmt fee $25.00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 13A-12-260"
+        },
+        {
+          "charge_description": "18:13 Assimilative Crimes Act-Possess drug paraphernalia in violation 13A-12-260 Code of AL (2)"
+        },
+        {
+          "charge_disposition": "Ct 2 dismissed with prejudice on motion of USA (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "T Michael Putnam",
+          "judge_guid": "urn:entity:jud-100027846"
+        }
+      ]
+    }
+  ]
+}

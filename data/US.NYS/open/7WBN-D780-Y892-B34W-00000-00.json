@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_104cr179_nysd",
+  "case_key": "1:04cr179_nysd",
+  "case_lni": "7WBN-D780-Y892-B34W-00000-00",
+  "case_number": "1:04cr179",
+  "case_title": "USA v. Jenkins et al",
+  "case_info_full_case_name": "USA v. Jenkins et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jenkins et al",
+  "case_date_filed": "2004-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John J. O'Connell",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Jenkins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (FELON IN POSSESSION OF FIREARM) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F-FELON"
+        },
+        {
+          "charge_description": "18:922G.F-FELON IN POSSESSION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Denny Chin",
+          "judge_guid": "urn:entity:jud-100048533"
+        }
+      ]
+    },
+    {
+      "party_name": "Derrick Luther",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (FELON IN POSSESSION OF FIREARM) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F-FELON"
+        },
+        {
+          "charge_description": "18:922G.F-FELON IN POSSESSION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Denny Chin",
+          "judge_guid": "urn:entity:jud-100048533"
+        }
+      ]
+    }
+  ]
+}

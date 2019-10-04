@@ -1,0 +1,126 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_118cr759_OHND",
+  "case_key": "1:18cr759_OHND",
+  "case_lni": "5V0W-Y191-DXDT-G0JT-00000-00",
+  "case_number": "1:18cr759",
+  "case_title": "United States of America v. Ewais et al",
+  "case_info_full_case_name": "United States of America v. Ewais et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Ewais et al",
+  "case_date_filed": "2018-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Payum Doroodian",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Khalil Ewais",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951 Extortion Under Color of Official Right(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:666(a)(1)(B) Bribery in Federally Funded Programs(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:666(a)(1)(A) Theft from a Program Receiving Federal Funds(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1343 Wire Fraud(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001(a)(2) False Statement or Representation made to a Department or Agency of the United States(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:7206(1) Making and Subscribing False Income Tax Returns(6-9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Christopher A. Boyko",
+          "judge_guid": "urn:entity:jud-100064546"
+        }
+      ]
+    },
+    {
+      "party_name": "Abdeljawad Ewais",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "26:7206(1) Making and Subscribing False Income Tax Returns(10-11)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:7206(1) Making and Subscribing False Income Tax Returns(12)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:7206(1) Making and Subscribing False Income Tax Returns(13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:7206(1) Making and Subscribing False Income Tax Returns(14)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Christopher A. Boyko",
+          "judge_guid": "urn:entity:jud-100064546"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_419po35270_AZD",
+  "case_key": "4:19po35270_AZD",
+  "case_lni": "5X40-PHR1-J9YR-S20D-00000-00",
+  "case_number": "4:19po35270",
+  "case_title": "USA v. Ramirez-Miranda",
+  "case_info_full_case_name": "USA v. Ramirez-Miranda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Miranda",
+  "case_date_filed": "2019-09-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edwin Eliseo Ramirez-Miranda",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

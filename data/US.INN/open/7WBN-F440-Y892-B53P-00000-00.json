@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_108cr63_INND",
+  "case_key": "1:08cr63_INND",
+  "case_lni": "7WBN-F440-Y892-B53P-00000-00",
+  "case_number": "1:08cr63",
+  "case_title": "United States of America v. Granger",
+  "case_info_full_case_name": "United States of America v. Granger",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Granger",
+  "case_date_filed": "2008-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher Granger",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 18:924(D) 28:2461(c)"
+        },
+        {
+          "charge_description": "18:922(g)(1) FELON IN POSSESSION and 18:924(D) AND 28:2461(c) FORFEITURE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Theresa L Springmann",
+          "judge_guid": "urn:entity:jud-100014544"
+        }
+      ]
+    }
+  ]
+}

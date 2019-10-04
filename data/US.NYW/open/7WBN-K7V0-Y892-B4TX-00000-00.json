@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_199cr180_nywd",
+  "case_key": "1:99cr180_nywd",
+  "case_lni": "7WBN-K7V0-Y892-B4TX-00000-00",
+  "case_number": "1:99cr180",
+  "case_title": "USA v. Hawley",
+  "case_info_full_case_name": "USA v. Hawley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hawley",
+  "case_date_filed": "1999-11-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRIAN HAWLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:843B=CD.F"
+        },
+        {
+          "charge_description": "21:843B=CD.F USE COMMUNICATIONS FACILITY-CONTROLLED SUBSTANCE-DISTR. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 846"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 846 knowingly, willfully and unlawfully conspire to possess with intent to distribute a quantity of cocaine, a Schedule II controlled substance and knowingly, willfully and unlawfully attempt to possess with intent to distribute a quantity of cocaine, a Schedule II controlled substance [1:99-m-2055]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USDJ",
+          "judge_name": "William M. Skretny",
+          "judge_guid": "urn:entity:jud-100020854"
+        }
+      ]
+    }
+  ]
+}

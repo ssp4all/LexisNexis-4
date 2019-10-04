@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_104m524_VAED",
+  "case_key": "1:04m524_VAED",
+  "case_lni": "7WBN-D1H0-Y892-B3WP-00000-00",
+  "case_number": "1:04m524",
+  "case_title": "USA v. Dever",
+  "case_info_full_case_name": "USA v. Dever",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dever",
+  "case_date_filed": "2004-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHANE P. DEVER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 46.2-301"
+        },
+        {
+          "charge_description": "[18:13-7220.M] 18:13 assim. VA Code Sect. 46.2-301 Operating After Suspension (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 46.2-300"
+        },
+        {
+          "charge_description": "[18:13-7220.P] 18:13 assim. VA Code Sect. 46.2-300 No Operator's License (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 18.2-204.2"
+        },
+        {
+          "charge_description": "[18:13-7990.M] 18:13 assim. VA Code Sect. 18.2-204.2 Possession of a Fictitious Identification Card (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

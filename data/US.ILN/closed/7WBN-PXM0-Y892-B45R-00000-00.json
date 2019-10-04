@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_196cr694_ilnd",
+  "case_key": "1:96cr694_ilnd",
+  "case_lni": "7WBN-PXM0-Y892-B45R-00000-00",
+  "case_number": "1:96cr694",
+  "case_title": "USA v. Moya",
+  "case_info_full_case_name": "USA v. Moya",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moya",
+  "case_date_filed": "1996-11-05",
+  "case_status": "Closed",
+  "case_status_date": "12/15/2004",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AUSA - ",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Moya",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry D. Leinenweber",
+          "judge_guid": "urn:entity:jud-100039250"
+        }
+      ]
+    }
+  ]
+}

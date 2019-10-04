@@ -1,0 +1,33 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_310mj86_PRD",
+  "case_key": "3:10mj86_PRD",
+  "case_lni": "7XSF-NFV0-Y892-B0M3-00000-00",
+  "case_number": "3:10mj86",
+  "case_title": "USA v. Search Warrant",
+  "case_info_full_case_name": "USA v. Search Warrant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Search Warrant",
+  "case_date_filed": "2010-02-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Search Warrant",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_name": "Camille L. Velez-Rive",
+          "judge_guid": "urn:entity:jud-100017923"
+        }
+      ]
+    }
+  ]
+}

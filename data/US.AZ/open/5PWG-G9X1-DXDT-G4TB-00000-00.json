@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417po29591_AZD",
+  "case_key": "4:17po29591_AZD",
+  "case_lni": "5PWG-G9X1-DXDT-G4TB-00000-00",
+  "case_number": "4:17po29591",
+  "case_title": "USA v. Velazquez-Lucas",
+  "case_info_full_case_name": "USA v. Velazquez-Lucas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Velazquez-Lucas",
+  "case_date_filed": "2017-11-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lazaro Velazquez-Lucas",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lynnette C Kimmins",
+          "judge_guid": "urn:entity:jud-100126936"
+        }
+      ]
+    }
+  ]
+}

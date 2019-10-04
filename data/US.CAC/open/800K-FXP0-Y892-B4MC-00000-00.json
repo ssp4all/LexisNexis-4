@@ -1,0 +1,107 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_810cr146_CACD",
+  "case_key": "8:10cr146_CACD",
+  "case_lni": "800K-FXP0-Y892-B4MC-00000-00",
+  "case_number": "8:10cr146",
+  "case_title": "USA v. Chung et al",
+  "case_info_full_case_name": "USA v. Chung et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chung et al",
+  "case_date_filed": "2010-07-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Po Sung Chung",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1029(b)(2)"
+        },
+        {
+          "charge_description": "18:1029(b)(2) Conspiracy (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1029(a)(1),2"
+        },
+        {
+          "charge_description": "18:1029(a)(1),2 Fraudulent Use of Counterfeit Access Device; Aiding And Abetting (2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1029(a)(1),2"
+        },
+        {
+          "charge_description": "18:1029(a)(1),2 Fraudulent Use of Counterfeit Access Device; Aiding And Abetting (4)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew J Guilford",
+          "judge_guid": "urn:entity:jud-100047769"
+        }
+      ]
+    },
+    {
+      "party_name": "John David Olson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1029(b)(2)"
+        },
+        {
+          "charge_description": "18:1029(b)(2) Conspiracy (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1029(a)(1),2"
+        },
+        {
+          "charge_description": "18:1029(a)(1),2 Fraudulent Use of Counterfeit Access Device; Aiding And Abetting (3)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1029(a)(1),2"
+        },
+        {
+          "charge_description": "18:1029(a)(1),2 Fraudulent Use of Counterfeit Access Device; Aiding And Abetting (5)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew J Guilford",
+          "judge_guid": "urn:entity:jud-100047769"
+        }
+      ]
+    }
+  ]
+}

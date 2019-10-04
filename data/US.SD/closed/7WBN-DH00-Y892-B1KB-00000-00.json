@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_103cr10019_sdd",
+  "case_key": "1:03cr10019_sdd",
+  "case_lni": "7WBN-DH00-Y892-B1KB-00000-00",
+  "case_number": "1:03cr10019",
+  "case_title": "USA v. Fisher",
+  "case_info_full_case_name": "USA v. Fisher",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fisher",
+  "case_date_filed": "2003-08-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Richard Fisher",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 18:1956(h); 100"
+        },
+        {
+          "charge_description": "21:846 and 18:1956(h); CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE IN EXCESS OF 100 KILOGRAMS OF MARIJUANA and CONSPIRACY TO LAUNDER MONETARY INSTRUMENTS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Charles"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_100m863_mad",
+  "case_key": "1:00m863_mad",
+  "case_lni": "7WBN-J9C0-Y892-B1WT-00000-00",
+  "case_number": "1:00m863",
+  "case_title": "USA v. Jimenez-Torres",
+  "case_info_full_case_name": "USA v. Jimenez-Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jimenez-Torres",
+  "case_date_filed": "2000-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HECTOR JIMENEZ-TORRES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1951(a), 924(c) 2,"
+        },
+        {
+          "charge_description": "Defendant charged with 18:1951(a), 924(c) and 2, Robbery and carrying a firearm during robbery in the District of Puerto Rico."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Marianne B. Bowler",
+          "judge_guid": "urn:entity:jud-100064595"
+        }
+      ]
+    }
+  ]
+}

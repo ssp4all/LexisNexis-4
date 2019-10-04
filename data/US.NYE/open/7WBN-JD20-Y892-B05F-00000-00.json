@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_102cr388_nyed",
+  "case_key": "1:02cr388_nyed",
+  "case_lni": "7WBN-JD20-Y892-B05F-00000-00",
+  "case_number": "1:02cr388",
+  "case_title": "USA v. Riaz",
+  "case_info_full_case_name": "USA v. Riaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Riaz",
+  "case_date_filed": "2002-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHOUDHARY MOHAMED RIAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343, 2 3551"
+        },
+        {
+          "charge_description": "18:1343, 2 and 3551 et seq.-FRAUD BY WIRE, RADIO, OR TELEVISION. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC371-dfts"
+        },
+        {
+          "charge_description": "18 USC 371-dfts did knowingly and intentionally conpsired to devise a scheme to defraud and obtain money and property by means of false and fraudulent pretenses. [1:00-m-1589]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sterling Johnson, Jr.",
+          "judge_guid": "urn:entity:jud-100050317"
+        }
+      ]
+    }
+  ]
+}

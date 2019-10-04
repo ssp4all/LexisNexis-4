@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_405cr157_TXSD",
+  "case_key": "4:05cr157_TXSD",
+  "case_lni": "7WBN-NDK0-Y892-B2H5-00000-00",
+  "case_number": "4:05cr157",
+  "case_title": "USA v. St. Julien",
+  "case_info_full_case_name": "USA v. St. Julien",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "St. Julien",
+  "case_date_filed": "2005-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Marshal - H",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - H Fax: INS_prob1",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Howard E Rose",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Danette Marie St. Julien",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8 18USC1325(c) 371, 1001, 1546;,"
+        },
+        {
+          "charge_description": "Defts knowingly and willfully falsify a material fact by a trick or scheme and did knowingly make false documents knowing the same to contain fraudulent statements and did knowingly subscribe as true, false statements with respect to material facts in applications required by the immigration laws or regulations prescribed thereunder and did knowingly present such applications which contained false statements and did knowingly enter into marriages for the purpose of evading provisions of the immigration laws and did conspire with others known and unknown to commit the aforementioned offenses; In violation of 8 &; 18 USC 1325(c) and 371, 1001, 1546;, 8:1325.F"
+        },
+        {
+          "charge_description": "ILLEGAL ENTRY, CONCEALMENT OF FACTS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy F. Atlas",
+          "judge_guid": "urn:entity:jud-100074101"
+        }
+      ]
+    }
+  ]
+}

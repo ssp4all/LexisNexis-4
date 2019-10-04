@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_004cr19_KYED",
+  "case_key": "0:04cr19_KYED",
+  "case_lni": "7WBN-PGG0-Y892-B43F-00000-00",
+  "case_number": "0:04cr19",
+  "case_title": "USA v. Blevins",
+  "case_info_full_case_name": "USA v. Blevins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blevins",
+  "case_date_filed": "2004-11-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Owen J. Blevins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(j)"
+        },
+        {
+          "charge_description": "18:922(j) POSSESSION OF STOLEN FIREARMS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1)FELON"
+        },
+        {
+          "charge_description": "18:922(g)(1)FELON IN POSSESSION OF FIREARMS (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(j)"
+        },
+        {
+          "charge_description": "18:922(j) POSSESSION OF STOLEN FIREARMS (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) FELON IN POSSESSION OF FIREARMS (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

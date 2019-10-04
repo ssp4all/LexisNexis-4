@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_209cr487_CACD",
+  "case_key": "2:09cr487_CACD",
+  "case_lni": "7WBN-M2J0-Y892-B01S-00000-00",
+  "case_number": "2:09cr487",
+  "case_title": "USA v. Yanez",
+  "case_info_full_case_name": "USA v. Yanez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yanez",
+  "case_date_filed": "2009-05-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Erika Yanez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:513(a)POSSESSION"
+        },
+        {
+          "charge_description": "18:513(a)POSSESSION AND UTTERING OF FORGED SECURITIES OF AN ORGANIZATION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708"
+        },
+        {
+          "charge_description": "18:1708 POSSESSION OF STOLEN MAIL (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Defendant in violation of 18:1708"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

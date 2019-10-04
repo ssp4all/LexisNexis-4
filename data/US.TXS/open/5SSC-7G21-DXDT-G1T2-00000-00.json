@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_218cr664_TXSD",
+  "case_key": "2:18cr664_TXSD",
+  "case_lni": "5SSC-7G21-DXDT-G1T2-00000-00",
+  "case_number": "2:18cr664",
+  "case_title": "USA v. Amaya",
+  "case_info_full_case_name": "USA v. Amaya",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Amaya",
+  "case_date_filed": "2018-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mark W Patterson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kimberly Marie Amaya",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John D Rainey",
+          "judge_guid": "urn:entity:jud-100027752"
+        }
+      ]
+    },
+    {
+      "party_name": "Ann Silva Perez-Fuentes",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Jose ",
+      "party_description": "Material Witness"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_114cr46_TXWD",
+  "case_key": "1:14cr46_TXWD",
+  "case_lni": "5BH6-WMX1-DXDT-G2BM-00000-00",
+  "case_number": "1:14cr46",
+  "case_title": "USA v. Briones-Duque",
+  "case_info_full_case_name": "USA v. Briones-Duque",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Briones-Duque",
+  "case_date_filed": "2014-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rafael Briones-Duque",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F  Illegal reentry of deported alien"
+        },
+        {
+          "charge_offence_description": "8:1326A.F  Illegal reentry of deported alien"
+        },
+        {
+          "charge_description": "8:1326B1.F IMMIGRATION, REENTRY OF REMOVED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lee Yeakel",
+          "judge_guid": "urn:entity:jud-100012994"
+        }
+      ]
+    }
+  ]
+}

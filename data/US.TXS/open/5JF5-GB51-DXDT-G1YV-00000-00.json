@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_716mj586_TXSD",
+  "case_key": "7:16mj586_TXSD",
+  "case_lni": "5JF5-GB51-DXDT-G1YV-00000-00",
+  "case_number": "7:16mj586",
+  "case_title": "USA v. Flores-Cisneros",
+  "case_info_full_case_name": "USA v. Flores-Cisneros",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Cisneros",
+  "case_date_filed": "2016-03-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ignacio Flores-Cisneros",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    },
+    {
+      "party_name": "Oscar Alfredo Cruz-Ramos",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Victor Hugo Aguilar-Calderon",
+      "party_description": "Material Witness"
+    }
+  ]
+}

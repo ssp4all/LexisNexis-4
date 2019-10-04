@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_515cr93_OHND",
+  "case_key": "5:15cr93_OHND",
+  "case_lni": "5FDY-0SX1-DXDT-G2CT-00000-00",
+  "case_number": "5:15cr93",
+  "case_title": "United States of America v. Lyons",
+  "case_info_full_case_name": "United States of America v. Lyons",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Lyons",
+  "case_date_filed": "2015-03-03",
+  "case_status": "Closed",
+  "case_status_date": "03/16/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Teresa L. Riley",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lamar Ladaire Lyons",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with Intent to Distribute and Distribution of Heroin(1)"
+        },
+        {
+          "charge_disposition": "Committed to the custody of BOP for a term of 21 months. 3 years Supervised Release with standard/special conditions. $100 Special Assessment. Fine is waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with the intent to distribute heroin"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with the intent to distrib"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Solomon Oliver, Jr",
+          "judge_guid": "urn:entity:jud-100035923"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_190cr45_ohsd",
+  "case_key": "1:90cr45_ohsd",
+  "case_lni": "7WBN-GBW0-Y892-B0V7-00000-00",
+  "case_number": "1:90cr45",
+  "case_title": "USA v. Kilgour",
+  "case_info_full_case_name": "USA v. Kilgour",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kilgour",
+  "case_date_filed": "1990-04-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT EDWIN KILGOUR, III",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "S. Arthur Spiegel",
+          "judge_guid": "urn:entity:jud-100020351"
+        }
+      ]
+    }
+  ]
+}

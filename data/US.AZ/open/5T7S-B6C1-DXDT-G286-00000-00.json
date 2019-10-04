@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418po32948_AZD",
+  "case_key": "4:18po32948_AZD",
+  "case_lni": "5T7S-B6C1-DXDT-G286-00000-00",
+  "case_number": "4:18po32948",
+  "case_title": "USA v. Perez-Escalante",
+  "case_info_full_case_name": "USA v. Perez-Escalante",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Escalante",
+  "case_date_filed": "2018-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Giovoni Perez-Escalante",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lynnette C Kimmins",
+          "judge_guid": "urn:entity:jud-100126936"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_513po523_LAWD",
+  "case_key": "5:13po523_LAWD",
+  "case_lni": "5860-HK41-DXDT-G3PB-00000-00",
+  "case_number": "5:13po523",
+  "case_title": "USA v. Hardin",
+  "case_info_full_case_name": "USA v. Hardin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hardin",
+  "case_date_filed": "2013-04-11",
+  "case_status": "Closed",
+  "case_status_date": "01/20/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_name": "Cytheria Jernigan",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Robert Joseph France",
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Take migratory game birds by aid of bait or on or over baited area (W0795839)(1)"
+        },
+        {
+          "charge_disposition": "Disposition: US Attorney Request to Dismiss(NC). Processing Fees $25.00, Special Fees $10.00, Total $35.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Take migratory game birds by aid of bait or on or over baited area (W0795838)(2)"
+        },
+        {
+          "charge_disposition": "Disposition: Dismissed w/o Prejudice(NM)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark L Hornsby",
+          "judge_guid": "urn:entity:jud-100051199"
+        }
+      ]
+    }
+  ]
+}

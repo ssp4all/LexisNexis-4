@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_311cr5133_WAWD",
+  "case_key": "3:11cr5133_WAWD",
+  "case_lni": "5288-38P1-DXDT-G0C5-00000-00",
+  "case_number": "3:11cr5133",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2011-02-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Theophilves Robert Johnson",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Benjamin H Settle",
+          "judge_guid": "urn:entity:jud-100021398"
+        }
+      ]
+    }
+  ]
+}

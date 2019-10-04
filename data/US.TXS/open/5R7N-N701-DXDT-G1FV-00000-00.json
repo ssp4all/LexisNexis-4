@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_517mj1306_TXSD",
+  "case_key": "5:17mj1306_TXSD",
+  "case_lni": "5R7N-N701-DXDT-G1FV-00000-00",
+  "case_number": "5:17mj1306",
+  "case_title": "USA v. Reyes-De La Rosa",
+  "case_info_full_case_name": "USA v. Reyes-De La Rosa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes-De La Rosa",
+  "case_date_filed": "2017-12-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Antonio Reyes-De La Rosa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    }
+  ]
+}

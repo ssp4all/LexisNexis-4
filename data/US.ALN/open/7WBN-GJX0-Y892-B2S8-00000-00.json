@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_201cr457_alnd",
+  "case_key": "2:01cr457_alnd",
+  "case_lni": "7WBN-GJX0-Y892-B2S8-00000-00",
+  "case_number": "2:01cr457",
+  "case_title": "USA v. Hibbler",
+  "case_info_full_case_name": "USA v. Hibbler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hibbler",
+  "case_date_filed": "2001-11-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BYRON CLOINE HIBBLER",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert B Propst",
+          "judge_guid": "urn:entity:jud-100024091"
+        },
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Paul W Greene",
+          "judge_guid": "urn:entity:jud-100079482"
+        }
+      ]
+    }
+  ]
+}

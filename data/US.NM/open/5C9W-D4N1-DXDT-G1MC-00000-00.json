@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_114mj1812_NMD",
+  "case_key": "1:14mj1812_NMD",
+  "case_lni": "5C9W-D4N1-DXDT-G1MC-00000-00",
+  "case_number": "1:14mj1812",
+  "case_title": "USA v. Lopez",
+  "case_info_full_case_name": "USA v. Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez",
+  "case_date_filed": "2014-05-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jerry Earnest Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1), 18:924 (c)(1)(A) &; 21:841 (A)(1) Convicted felon in possession of unlawful firearms and methamphetamine"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1), 18:924 (c)(1)(A) & 21:841 (A)(1) Con"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen B. Molzen",
+          "judge_guid": "urn:entity:jud-100016109"
+        }
+      ]
+    }
+  ]
+}

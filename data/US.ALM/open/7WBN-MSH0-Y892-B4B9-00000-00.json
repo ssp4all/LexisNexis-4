@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_306cr222_ALMD",
+  "case_key": "3:06cr222_ALMD",
+  "case_lni": "7WBN-MSH0-Y892-B4B9-00000-00",
+  "case_number": "3:06cr222",
+  "case_title": "USA v. Marshall",
+  "case_info_full_case_name": "USA v. Marshall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marshall",
+  "case_date_filed": "2006-09-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jela Shermarkie Marshall",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 20Y, 3Y"
+        },
+        {
+          "charge_description": "21:841(a)(1) CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE-NMT $1,000,000, [*]; NMT 20Y, B; NMT 3Y SUP REL; $100 AF; VWPA; G-LINES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c)(1) 5Y, 3Y"
+        },
+        {
+          "charge_description": "18:924(c)(1) VIOLENT CRIME/DRUGS/MACHINE GUN-NMT $250,000, [*]; NLT 5Y, NMT LIFE, B; NMT 3Y SUP REL; $100 AF; VWPA; G-LINES (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1) 10Y, 3Y"
+        },
+        {
+          "charge_description": "18:922(g)(1) UNLAWFUL TRANSPORT OF FIREARMS, ETC.-NMT $250,000, [*]; NMT 10Y, B; NMT 3Y SUP REL; $100 AF; VWPA; G-LINES (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William Keith Watkins",
+          "judge_guid": "urn:entity:jud-100081962"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Vanzetta P. McPherson",
+          "judge_guid": "urn:entity:jud-100075009"
+        }
+      ]
+    }
+  ]
+}

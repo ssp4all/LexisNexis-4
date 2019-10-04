@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_218mj3833_TXSD",
+  "case_key": "2:18mj3833_TXSD",
+  "case_lni": "5V0V-HCN1-DXDT-G3XT-00000-00",
+  "case_number": "2:18mj3833",
+  "case_title": "USA v. Mosquera",
+  "case_info_full_case_name": "USA v. Mosquera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mosquera",
+  "case_date_filed": "2018-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Veronica Mosquera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jason B Libby",
+          "judge_guid": "urn:entity:jud-100104117"
+        }
+      ]
+    },
+    {
+      "party_name": "Ruben Hernan Bonilla-Vilorio",
+      "party_description": "Material Witness"
+    }
+  ]
+}

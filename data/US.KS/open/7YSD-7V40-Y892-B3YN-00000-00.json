@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B09po9583_KSD",
+  "case_key": "B:09po9583_KSD",
+  "case_lni": "7YSD-7V40-Y892-B3YN-00000-00",
+  "case_number": "B:09po9583",
+  "case_title": "USA v. Walton",
+  "case_info_full_case_name": "USA v. Walton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Walton",
+  "case_date_filed": "2010-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel D. Walton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 41-727)-Minor"
+        },
+        {
+          "charge_description": "18:13 (K.S.A. 41-727)-Minor in possession (Class C) INFORMATION [04/22/2010] (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen M. Humphreys",
+          "judge_guid": "urn:entity:jud-100050935"
+        }
+      ]
+    }
+  ]
+}

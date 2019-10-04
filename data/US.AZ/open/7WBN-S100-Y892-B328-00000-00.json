@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400m6128_azd",
+  "case_key": "4:00m6128_azd",
+  "case_lni": "7WBN-S100-Y892-B328-00000-00",
+  "case_number": "4:00m6128",
+  "case_title": "USA, et al v. Paez-Avitia",
+  "case_info_full_case_name": "USA, et al v. Paez-Avitia",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Paez-Avitia",
+  "case_date_filed": "2000-02-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FELIX EMILIO PAEZ-AVITIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1--8:1326(a);"
+        },
+        {
+          "charge_description": "Ct 1--8:1326(a); Reentry of Deported Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_208mj8159_CASD",
+  "case_key": "2:08mj8159_CASD",
+  "case_lni": "7WBN-RBR0-Y892-B3GG-00000-00",
+  "case_number": "2:08mj8159",
+  "case_title": "USA v. Orozco-Aguirre",
+  "case_info_full_case_name": "USA v. Orozco-Aguirre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Orozco-Aguirre",
+  "case_date_filed": "2008-02-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Manuel Orozco-Aguirre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of a Controlled Substance with Intent to Distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

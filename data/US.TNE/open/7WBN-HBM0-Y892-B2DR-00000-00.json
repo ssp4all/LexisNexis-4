@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_309cr63_TNED",
+  "case_key": "3:09cr63_TNED",
+  "case_lni": "7WBN-HBM0-Y892-B2DR-00000-00",
+  "case_number": "3:09cr63",
+  "case_title": "USA v. Dean",
+  "case_info_full_case_name": "USA v. Dean",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dean",
+  "case_date_filed": "2009-05-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David P. Lewen",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Dean Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(5) (CRACK)"
+        },
+        {
+          "charge_description": "[21 U.S.C. 841(a)(1) and 841(b)(1)(B)] POSSESSION WITH INTENT TO DISTRIBUTE FIVE (5) GRAMS OR MORE OF COCAINE BASE (CRACK) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(5) (CRACK)"
+        },
+        {
+          "charge_description": "[21 U.S.C. 841(a)(1) and 841(b)(1)(B)] DISTRIBUTION OF FIVE (5) GRAMS OR MORE OF COCAINE BASE (CRACK) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Thomas A Varlan",
+          "judge_guid": "urn:entity:jud-100010510"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "H Bruce Guyton",
+          "judge_guid": "urn:entity:jud-100047706"
+        }
+      ]
+    }
+  ]
+}

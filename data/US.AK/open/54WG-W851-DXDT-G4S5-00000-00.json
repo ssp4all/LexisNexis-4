@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AK_312cr18_AKD",
+  "case_key": "3:12cr18_AKD",
+  "case_lni": "54WG-W851-DXDT-G4S5-00000-00",
+  "case_number": "3:12cr18",
+  "case_title": "USA v. Alexander",
+  "case_info_full_case_name": "USA v. Alexander",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alexander",
+  "case_date_filed": "2012-02-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roger Alexander",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:1372(a)(4)(B); 1375(b)"
+        },
+        {
+          "charge_description": "16:1372(a)(4)(B); 1375(b) MARINE MAMMAL PROTECTION ACT (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Deborah",
+          "judge_name": "M. Smith",
+          "judge_guid": "urn:entity:jud-100113075"
+        }
+      ]
+    }
+  ]
+}

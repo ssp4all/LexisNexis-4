@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_316mj166_CASD",
+  "case_key": "3:16mj166_CASD",
+  "case_lni": "5HWD-4GN1-DXDT-G54N-00000-00",
+  "case_number": "3:16mj166",
+  "case_title": "USA v. Perez-Villa",
+  "case_info_full_case_name": "USA v. Perez-Villa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Villa",
+  "case_date_filed": "2016-01-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Perez-Villa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 - Deported Alien Found in the United States"
+        },
+        {
+          "charge_offence_description": "8:1326 - Deported Alien Found in the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mitchell D. Dembin",
+          "judge_guid": "urn:entity:jud-100044786"
+        }
+      ]
+    }
+  ]
+}

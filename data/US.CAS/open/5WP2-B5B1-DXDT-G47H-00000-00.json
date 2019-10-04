@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319mj23384_CASD",
+  "case_key": "3:19mj23384_CASD",
+  "case_lni": "5WP2-B5B1-DXDT-G47H-00000-00",
+  "case_number": "3:19mj23384",
+  "case_title": "USA v. Toledo-Alcoser",
+  "case_info_full_case_name": "USA v. Toledo-Alcoser",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Toledo-Alcoser",
+  "case_date_filed": "2019-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Riger Humberto Toledo-Alcoser",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325(a)(1) - Improper Attempted Entry by an Alien (Misdemeanor)"
+        },
+        {
+          "charge_offence_description": "8:1325(a)(1) - Improper Attempted Entry by an Alie"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Seng",
+          "judge_guid": "urn:entity:jud-100030508"
+        }
+      ]
+    }
+  ]
+}

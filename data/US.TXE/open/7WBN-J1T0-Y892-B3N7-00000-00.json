@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_609cr49_TXED",
+  "case_key": "6:09cr49_TXED",
+  "case_lni": "7WBN-J1T0-Y892-B3N7-00000-00",
+  "case_number": "6:09cr49",
+  "case_title": "USA v. Roszell",
+  "case_info_full_case_name": "USA v. Roszell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Roszell",
+  "case_date_filed": "2009-06-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodney Ray Roszell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSIONS OF MATERIAL INVOLVING THE SEXUAL EXPLOITATION OF MINORS(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment for a term of 42 Months; $3,000 Restitution, $100 Special Assessment; Fine Waived, 5 Years Supervised Release"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael H. Schneider",
+          "judge_guid": "urn:entity:jud-100030814"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John D. Love",
+          "judge_guid": "urn:entity:jud-100053423"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_505cr136_OKWD",
+  "case_key": "5:05cr136_OKWD",
+  "case_lni": "7WBN-HVB0-Y892-B519-00000-00",
+  "case_number": "5:05cr136",
+  "case_title": "United States of America v. Schmidt",
+  "case_info_full_case_name": "United States of America v. Schmidt",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Schmidt",
+  "case_date_filed": "2005-07-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony E Schmidt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) FELON IN POSSESSION OF A FIREARM (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:844"
+        },
+        {
+          "charge_description": "21:844 POSSESSION OF METHAMPHETAMINE (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Joe Heaton",
+          "judge_guid": "urn:entity:jud-100034872"
+        }
+      ]
+    }
+  ]
+}

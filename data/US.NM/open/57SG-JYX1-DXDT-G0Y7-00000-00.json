@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_213mj486_NMD",
+  "case_key": "2:13mj486_NMD",
+  "case_lni": "57SG-JYX1-DXDT-G0Y7-00000-00",
+  "case_number": "2:13mj486",
+  "case_title": "USA v. Garcia-Reyes",
+  "case_info_full_case_name": "USA v. Garcia-Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Reyes",
+  "case_date_filed": "2013-02-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Javier Garcia-Reyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    }
+  ]
+}

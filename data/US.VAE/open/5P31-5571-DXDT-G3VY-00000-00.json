@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117mj336_VAED",
+  "case_key": "1:17mj336_VAED",
+  "case_lni": "5P31-5571-DXDT-G3VY-00000-00",
+  "case_number": "1:17mj336",
+  "case_title": "USA v. Jett et al",
+  "case_info_full_case_name": "USA v. Jett et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jett et al",
+  "case_date_filed": "2017-07-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lena Stasia Munasifi",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Alonzo Jett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 846 Conspiracy to Distribute Cocaine"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and 846 Conspiracy to Distribute Coca"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F. Anderson",
+          "judge_guid": "urn:entity:jud-100074444"
+        }
+      ]
+    },
+    {
+      "party_name": "Kimesha Nisthe Brent",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 846 Conspiracy to Distribute Cocaine"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and 846 Conspiracy to Distribute Coca"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F. Anderson",
+          "judge_guid": "urn:entity:jud-100074444"
+        }
+      ]
+    }
+  ]
+}

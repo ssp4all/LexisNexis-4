@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_311mj2089_CASD",
+  "case_key": "3:11mj2089_CASD",
+  "case_lni": "5323-TVY1-DXDT-G4PW-00000-00",
+  "case_number": "3:11mj2089",
+  "case_title": "USA v. Cervantes-Navarro",
+  "case_info_full_case_name": "USA v. Cervantes-Navarro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cervantes-Navarro",
+  "case_date_filed": "2011-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sergio Cervantes-Navarro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-Attempted"
+        },
+        {
+          "charge_description": "8:1326-Attempted Entry After Deporation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nita L. Stormes",
+          "judge_guid": "urn:entity:jud-100019878"
+        }
+      ]
+    }
+  ]
+}

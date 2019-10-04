@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_103m2888_txsd",
+  "case_key": "1:03m2888_txsd",
+  "case_lni": "7WBN-JGT0-Y892-B143-00000-00",
+  "case_number": "1:03m2888",
+  "case_title": "USA v. Sanchez Serna",
+  "case_info_full_case_name": "USA v. Sanchez Serna",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez Serna",
+  "case_date_filed": "2003-10-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "UBALDO SANCHEZ SERNA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1325(a)(1);"
+        },
+        {
+          "charge_description": "8 USC 1325(a)(1); illegal entry into the United States"
+        },
+        {
+          "charge_disposition": "30 days confinement and $10 Special Assessment (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

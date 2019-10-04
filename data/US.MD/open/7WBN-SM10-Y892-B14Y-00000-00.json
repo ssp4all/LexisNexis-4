@@ -1,0 +1,87 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_806cr88_MDD",
+  "case_key": "8:06cr88_MDD",
+  "case_lni": "7WBN-SM10-Y892-B14Y-00000-00",
+  "case_number": "8:06cr88",
+  "case_title": "USA v. Kelly",
+  "case_info_full_case_name": "USA v. Kelly",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kelly",
+  "case_date_filed": "2006-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "Daniel Fortune",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Douglas Alvin Kelly",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1028(a)(2),(b)(1)(A),18:2   Transfer of False Identification Documents, Aiding and Abetting(1)"
+        },
+        {
+          "charge_disposition": "One (1) Month Imprisonment as to Count 1 and Seventeen (17) Months as to Count 2 Consecutively, One (1) Year Supervised Release with Conditions as to Count 1 and Three (3) Years Supervised Release with Conditions as to Count 2 Concurrently, $200.00 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028A(a)(1),18:2   Aggravated Identity Theft, Aiding and Abetting(2)"
+        },
+        {
+          "charge_disposition": "One (1) Month Imprisonment as to Count 1 and Seventeen (17) Months as to Count 2 Consecutively, One (1) Year Supervised Release with Conditions as to Count 1 and Three (3) Years Supervised Release with Conditions as to Count 2 Concurrently, $200.00 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028(a)(2),(b)(1)(A),18:2   Transfer of False Identification Documents, Aiding and Abetting(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028A(a)(1),18:2   Aggravated Identity Theft, Aiding and Abetting(4)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028A.F Fraud With Identification Documents; 18:1028A.F Transfer of False Identification; 18:1028A.F Transfer a False Identification Document; 18:1028A.F Transfer a False Identification Document"
+        },
+        {
+          "charge_offence_description": "18:1028A.F Fraud With Identification Documents; 18"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Roger W Titus",
+          "judge_guid": "urn:entity:jud-100024020"
+        }
+      ]
+    }
+  ]
+}

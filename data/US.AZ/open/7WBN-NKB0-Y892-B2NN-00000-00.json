@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409mj3107_AZD",
+  "case_key": "4:09mj3107_AZD",
+  "case_lni": "7WBN-NKB0-Y892-B2NN-00000-00",
+  "case_number": "4:09mj3107",
+  "case_title": "USA v. Gonzalez-Reyes",
+  "case_info_full_case_name": "USA v. Gonzalez-Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Reyes",
+  "case_date_filed": "2009-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anayeli Gonzalez-Reyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 18:1028A 2 18:1028(a)(4) 1028(b)(6)"
+        },
+        {
+          "charge_description": "CT 1: 18:1028A Fraud and Misuse of Visas; CT 2 18:1028(a)(4) &; 1028(b)(6) Fraud w/Identification Documents"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

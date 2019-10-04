@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_719cr73_VAWD",
+  "case_key": "7:19cr73_VAWD",
+  "case_lni": "5WRJ-4HB1-DXDT-G0H1-00000-00",
+  "case_number": "7:19cr73",
+  "case_title": "USA v. Clark",
+  "case_info_full_case_name": "USA v. Clark",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clark",
+  "case_date_filed": "2019-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcus Vernell Clark, Sr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F - UNLAWFUL TRANSPORT OF FIREARMS, ETC. - 18:922(g)(1) - (1/25/2018)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F - UNLAWFUL TRANSPORT OF FIREARMS, ETC. - 18:922(g)(1) - (9/26/2018)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F - UNLAWFUL TRANSPORT OF FIREARMS, ETC. - 18:922(g)(9) - (9/26/2018)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F--Unlawful transport of firearms, etc.--18:922(g)(1)--Possess a firearm as a convicted felon--(9/26/2018)"
+        },
+        {
+          "charge_offence_description": "18:922G.F--Unlawful transport of firearms, etc.--1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Elizabeth K. Dillon",
+          "judge_guid": "urn:entity:jud-100110947"
+        }
+      ]
+    }
+  ]
+}

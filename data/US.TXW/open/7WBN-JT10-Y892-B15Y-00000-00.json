@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_108cr47_TXWD",
+  "case_key": "1:08cr47_TXWD",
+  "case_lni": "7WBN-JT10-Y892-B15Y-00000-00",
+  "case_number": "1:08cr47",
+  "case_title": "USA v. Carothers",
+  "case_info_full_case_name": "USA v. Carothers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carothers",
+  "case_date_filed": "2008-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raymond Carothers DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "21:844A=NP.F"
+        },
+        {
+          "charge_description": "21:844A=NP.F Possession of a controlled substance; cocaine base (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam Sparks",
+          "judge_guid": "urn:entity:jud-100020424"
+        }
+      ]
+    }
+  ]
+}

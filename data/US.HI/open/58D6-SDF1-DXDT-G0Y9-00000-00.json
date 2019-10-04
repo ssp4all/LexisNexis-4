@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_113cr68_HID",
+  "case_key": "1:13cr68_HID",
+  "case_lni": "58D6-SDF1-DXDT-G0Y9-00000-00",
+  "case_number": "1:13cr68",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2013-01-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lisa S. Woo",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel J. Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER - HRS 286-132; 18 USC 13 - Driving with a suspended license; 12/2/2012; Marine Corps Base Hawaii, Kaneohe Bay; 1247852/H30(1)"
+        },
+        {
+          "charge_disposition": "Fine: $100.00. Special Assessment: $5.00. Processing fee: $25.00. TOTAL AMOUNT DUE: $130.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "KEVIN S.C. CHANG",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

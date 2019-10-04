@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_408cr6308_AZD",
+  "case_key": "4:08cr6308_AZD",
+  "case_lni": "7WBN-FRS0-Y892-B48F-00000-00",
+  "case_number": "4:08cr6308",
+  "case_title": "USA v. Garcia-Mina",
+  "case_info_full_case_name": "USA v. Garcia-Mina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Mina",
+  "case_date_filed": "2008-12-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Garcia-Mina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326, 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326, enhanced by 8:1326(b)(2) Illegal Re-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    }
+  ]
+}

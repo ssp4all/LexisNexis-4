@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_316cr130_VAED",
+  "case_key": "3:16cr130_VAED",
+  "case_lni": "5KW2-BTR1-DXDT-G094-00000-00",
+  "case_number": "3:16cr130",
+  "case_title": "USA v. Challenger",
+  "case_info_full_case_name": "USA v. Challenger",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Challenger",
+  "case_date_filed": "2016-10-04",
+  "case_status": "Closed",
+  "case_status_date": "03/12/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ali Asim Challenger",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:554 AND IN ACCORDANCE WITH TITLE 18:544, INCORPORATED BY TITLE 28:2461; TITLE 18:924(d), INCORPORATED BY TITLE 28:2461(c): SMUGGLING GOODS FROM THE UNITED STATES; FORFEITURE ALLEGATION(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 6 MONTHS; SUPERVISED RELEASE 3 YEARS; S/A $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(e) AND IN ACCORDANCE WITH TITLE 18:544, INCORPORATED BY TITLE 28:2461; TITLE 18:924(d), INCORPORATED BY TITLE 28:2451(c): DELIVERING A FIREARM TO A COMMON OR CONTRACT CARRIER; FORFEITURE ALLEGATION(2)"
+        },
+        {
+          "charge_disposition": "Dismissed by Court 3/9/2018 on motion of the Gov't."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Henry E. Hudson",
+          "judge_guid": "urn:entity:jud-100033906"
+        }
+      ]
+    }
+  ]
+}

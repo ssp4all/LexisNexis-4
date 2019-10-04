@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_702cr354_txsd",
+  "case_key": "7:02cr354_txsd",
+  "case_lni": "7WBN-P820-Y892-B2VG-00000-00",
+  "case_number": "7:02cr354",
+  "case_title": "USA v. Bazan-Palma",
+  "case_info_full_case_name": "USA v. Bazan-Palma",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bazan-Palma",
+  "case_date_filed": "2002-05-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a) 1326(b); 5/4/02; 20 3"
+        },
+        {
+          "charge_description": "Unlawfully present in the U.S. after being previously excluded, deported and removed; 8 USC 1326(a) &; 1326(b); Offense date: 5/4/02; Penalty: Impris for not more than 20 yrs and/or a fine not to exceed $250,000 at least 3 yrs SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Re-entry after deportation [7:02-m-1136]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_219sw789_CAED",
+  "case_key": "2:19sw789_CAED",
+  "case_lni": "5X16-RTY1-J9YR-S4YW-00000-00",
+  "case_number": "2:19sw789",
+  "case_title": "USA v. SEALED",
+  "case_info_full_case_name": "USA v. SEALED",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SEALED",
+  "case_date_filed": "2019-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Black ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Allison Claire",
+          "judge_guid": "urn:entity:jud-100102868"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Allison Claire",
+          "judge_guid": "urn:entity:jud-100102868"
+        }
+      ]
+    },
+    {
+      "party_name": "LG MetroPC Cellular Telephone",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Allison Claire",
+          "judge_guid": "urn:entity:jud-100102868"
+        }
+      ]
+    },
+    {
+      "party_name": "Digital Video Recording Device",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Allison Claire",
+          "judge_guid": "urn:entity:jud-100102868"
+        }
+      ]
+    }
+  ]
+}

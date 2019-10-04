@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_316mj5248_OHND",
+  "case_key": "3:16mj5248_OHND",
+  "case_lni": "5KTC-KGT1-DXDT-G48H-00000-00",
+  "case_number": "3:16mj5248",
+  "case_title": "United States of America v. Ruiz-Casas",
+  "case_info_full_case_name": "United States of America v. Ruiz-Casas",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Ruiz-Casas",
+  "case_date_filed": "2016-09-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael J. Freeman",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Javier Ruiz-Casas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and (b)(2) Illegal Reentry"
+        },
+        {
+          "charge_offence_description": "8:1326(a) and (b)(2) Illegal Reentry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James R. Knepp, II",
+          "judge_guid": "urn:entity:jud-100007673"
+        }
+      ]
+    }
+  ]
+}

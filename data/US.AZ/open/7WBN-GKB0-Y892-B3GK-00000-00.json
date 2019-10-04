@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_202cr151_azd",
+  "case_key": "2:02cr151_azd",
+  "case_lni": "7WBN-GKB0-Y892-B3GK-00000-00",
+  "case_number": "2:02cr151",
+  "case_title": "USA, et al v. Pantoja-Gallardo",
+  "case_info_full_case_name": "USA, et al v. Pantoja-Gallardo",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Pantoja-Gallardo",
+  "case_date_filed": "2002-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAMON PANTOJA-GALLARDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(2) Reentry After Deportation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Roslyn O Silver",
+          "judge_guid": "urn:entity:jud-100003910"
+        }
+      ]
+    }
+  ]
+}

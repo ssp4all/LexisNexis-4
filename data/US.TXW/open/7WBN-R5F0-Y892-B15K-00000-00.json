@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_204cr574_TXWD",
+  "case_key": "2:04cr574_TXWD",
+  "case_lni": "7WBN-R5F0-Y892-B15K-00000-00",
+  "case_number": "2:04cr574",
+  "case_title": "USA v. Hernandez-Perez",
+  "case_info_full_case_name": "USA v. Hernandez-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Perez",
+  "case_date_filed": "2004-06-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert Joseph Brady, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ONECIMO HERNANDEZ-PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii) (B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) &; (B)(i) ILLEGAL ALIEN TRANSPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii) (B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) &; (B)(i) ILLEGAL ALIEN TRANSPORTATION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(1)-Transportation"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(1)-Transportation of Illegal Aliens) [2:04-m-2005]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William Wayne Justice",
+          "judge_guid": "urn:entity:jud-100017814"
+        }
+      ]
+    }
+  ]
+}

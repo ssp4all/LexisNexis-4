@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_193m1358_gand",
+  "case_key": "1:93m1358_gand",
+  "case_lni": "7WBN-K0Y0-Y892-B0KN-00000-00",
+  "case_number": "1:93m1358",
+  "case_title": "USA v. McElroy",
+  "case_info_full_case_name": "USA v. McElroy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McElroy",
+  "case_date_filed": "1993-12-15",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANISSA MCELROY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1073,"
+        },
+        {
+          "charge_description": "18:1073, unlawful flight to avoid prosecution."
+        },
+        {
+          "charge_disposition": "Dismiss mag comp on govt's mot, dtd 1/31/94, cc: by Mag. (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John E. Dougherty",
+          "judge_guid": "urn:entity:jud-100044327"
+        }
+      ]
+    }
+  ]
+}

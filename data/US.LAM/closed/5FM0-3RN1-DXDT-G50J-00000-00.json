@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAM_315mj35_LAMD",
+  "case_key": "3:15mj35_LAMD",
+  "case_lni": "5FM0-3RN1-DXDT-G50J-00000-00",
+  "case_number": "3:15mj35",
+  "case_title": "In the Matter of the Search of  Unit 723 at The Storage Center, 10555 Old Hammond Hwy., Baton Rouge, LA 70816",
+  "case_info_full_case_name": "In the Matter of the Search of  Unit 723 at The Storage Center, 10555 Old Hammond Hwy., Baton Rouge, LA 70816",
+  "case_info_short_case_name": null,
+  "case_info_party1": "the Search of  Unit 723 at The Storage Center, 10555 Old Hammond Hwy., Baton Rouge, LA 70816",
+  "case_info_party2": null,
+  "case_date_filed": "2015-03-17",
+  "case_status": "Closed",
+  "case_status_date": "03/26/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Unit 723 at The Storage Center, 10555 Old Hammond Hwy., ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F, 21:841A=CD.F"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F, 21:841A=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen C. Riedlinger",
+          "judge_guid": "urn:entity:jud-100002056"
+        }
+      ]
+    }
+  ]
+}

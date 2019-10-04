@@ -1,0 +1,103 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_113cr20847_FLSD",
+  "case_key": "1:13cr20847_FLSD",
+  "case_lni": "5B2W-SNN1-DXDT-G3YG-00000-00",
+  "case_number": "1:13cr20847",
+  "case_title": "USA v. Goldhammer et al",
+  "case_info_full_case_name": "USA v. Goldhammer et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Goldhammer et al",
+  "case_date_filed": "2013-11-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anita Gail White",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Doreene Goldhammer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F Conspiracy to possess a Controlled Substance with the Intent to Distribute(1)"
+        },
+        {
+          "charge_disposition": "Imprisoned for a term of 8 months, the defendant shall receive credit for time served as applicable by statute. Supervised Release for a term of three(3) years. Total Assessment of $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F Possession with the Intent to Distribute Methylone(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald L. Graham",
+          "judge_guid": "urn:entity:jud-100042541"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrea M. Simonton",
+          "judge_guid": "urn:entity:jud-100071294"
+        }
+      ]
+    },
+    {
+      "party_name": "Jonathan Goldhammer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F Conspiracy to possess a Controlled Substance with the Intent to Distribute(1)"
+        },
+        {
+          "charge_disposition": "Imprisoned for a term of 8 months, the defendant shall receive credit for time served as applicable by statute. Supervised Release for a term of three(3) years, Total Assessment of $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F Possession with the Intent to Distribute Methylone(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald L. Graham",
+          "judge_guid": "urn:entity:jud-100042541"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrea M. Simonton",
+          "judge_guid": "urn:entity:jud-100071294"
+        }
+      ]
+    }
+  ]
+}

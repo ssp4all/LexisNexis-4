@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_308cr5641_WAWD",
+  "case_key": "3:08cr5641_WAWD",
+  "case_lni": "7WBN-RTH0-Y892-B1F8-00000-00",
+  "case_number": "3:08cr5641",
+  "case_title": "USA v. Leaks",
+  "case_info_full_case_name": "USA v. Leaks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leaks",
+  "case_date_filed": "2008-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor Ft Lewis",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Emmanuel J Leaks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Traffic Offenses, Drunken Driving (1)"
+        },
+        {
+          "charge_offence_description": "Misdemeanor",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "Traffic Offenses, Leaving The Scene of an Accident (Attended Vehicle) (2)"
+        },
+        {
+          "charge_offence_description": "Misdemeanor",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "Miscellaneous General Offenses, Simple Assault (3)"
+        },
+        {
+          "charge_offence_description": "Misdemeanor",
+          "charge_offence_level": "3"
+        }
+      ]
+    }
+  ]
+}

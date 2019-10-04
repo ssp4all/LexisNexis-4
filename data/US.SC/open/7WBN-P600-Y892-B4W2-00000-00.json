@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_607cr540_SCD",
+  "case_key": "6:07cr540_SCD",
+  "case_lni": "7WBN-P600-Y892-B4W2-00000-00",
+  "case_number": "6:07cr540",
+  "case_title": "USA v. Cordero",
+  "case_info_full_case_name": "USA v. Cordero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cordero",
+  "case_date_filed": "2007-05-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Manuel Cordero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:911 29, 2007)"
+        },
+        {
+          "charge_description": "18:911 IMPERSONATING CITIZEN OF THE U.S. (March 29, 2007) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546(a) 29, 2007)"
+        },
+        {
+          "charge_description": "18:1546(a) FRAUD AND MISUSE OF VISAS/PERMITS (March 29, 2007) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028(a)(6) 29, 2007)"
+        },
+        {
+          "charge_description": "18:1028(a)(6) FRAUD WITH IDENTIFICATION DOCUMENTS (March 29, 2007) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:911 18:1028(a)(6)"
+        },
+        {
+          "charge_description": "18:911 falsely and wilfully represent himself to be a citizen of the United States; 18:1028(a)(6) possession of fraudulent United States identification documents"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_499cr424_txsd",
+  "case_key": "4:99cr424_txsd",
+  "case_lni": "7WBN-HSK0-Y892-B3PM-00000-00",
+  "case_number": "4:99cr424",
+  "case_title": "USA v. Bayona-Pardo",
+  "case_info_full_case_name": "USA v. Bayona-Pardo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bayona-Pardo",
+  "case_date_filed": "1999-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Marshal - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RODOLFO ANTONIO BAYONA-PARDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=CI.F 100 5-40 4"
+        },
+        {
+          "charge_description": "21:952=CI.F Importation of 100 grams or more of heroin into the U.S. MAX PENALTY: 5-40 yrs and/or $2 million plus 4 yrs SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=CD.F 100 5-40 4"
+        },
+        {
+          "charge_description": "21:841B=CD.F Possession w/intent to distribute 100 grams or more of heroin into the U.S. MAX PENALTY: 5-40 yrs and/or $2 million plus 4 yrs SRT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession w/intent to distribute heroin and import heroin into the United States [4:99-m-666]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Melinda Harmon",
+          "judge_guid": "urn:entity:jud-100035234"
+        }
+      ]
+    }
+  ]
+}

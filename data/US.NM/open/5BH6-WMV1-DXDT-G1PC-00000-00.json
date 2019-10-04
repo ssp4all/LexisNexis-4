@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_114cr414_NMD",
+  "case_key": "1:14cr414_NMD",
+  "case_lni": "5BH6-WMV1-DXDT-G1PC-00000-00",
+  "case_number": "1:14cr414",
+  "case_title": "USA v. Carrillo",
+  "case_info_full_case_name": "USA v. Carrillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carrillo",
+  "case_date_filed": "2014-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ricardo Carrillo",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William P. Johnson",
+          "judge_guid": "urn:entity:jud-100050292"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_311cr18_ORD",
+  "case_key": "3:11cr18_ORD",
+  "case_lni": "51Y0-8CX1-DXDT-G45M-00000-00",
+  "case_number": "3:11cr18",
+  "case_title": "USA v. Novak",
+  "case_info_full_case_name": "USA v. Novak",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Novak",
+  "case_date_filed": "2011-01-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tage Christopher Novak",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1), (b)(1)(C)"
+        },
+        {
+          "charge_description": "DISTRIBUTION OF CONTROLLED SUBSTANCE RESULTING IN DEATH = 21 USC 841(a)(1), (b)(1)(C) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anna J. Brown",
+          "judge_guid": "urn:entity:jud-100064137"
+        }
+      ]
+    }
+  ]
+}

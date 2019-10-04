@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416cr907_AZD",
+  "case_key": "4:16cr907_AZD",
+  "case_lni": "5JS4-B9W1-DXDT-G1D4-00000-00",
+  "case_number": "4:16cr907",
+  "case_title": "USA v. Ziga-Lujan",
+  "case_info_full_case_name": "USA v. Ziga-Lujan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ziga-Lujan",
+  "case_date_filed": "2016-05-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adolfo Ricardo Ziga-Lujan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a), enhanced by (b)(2) Illegal Re-Entry(1)"
+        },
+        {
+          "charge_disposition": "Bureau of Prisons for 24 months with credit for time served, with 3 years supervised release to follow"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Illegal Re Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(2) Illegal Re Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Frank R Zapata",
+          "judge_guid": "urn:entity:jud-100065407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

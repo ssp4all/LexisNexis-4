@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_211mj160_PAWD",
+  "case_key": "2:11mj160_PAWD",
+  "case_lni": "55YS-S4S1-DXDT-G27X-00000-00",
+  "case_number": "2:11mj160",
+  "case_title": "USA v. PATTERSON",
+  "case_info_full_case_name": "USA v. PATTERSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PATTERSON",
+  "case_date_filed": "2011-03-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHANE PATTERSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 AND 841 (a)(1)  CONSPIRACY TO DISTRIBUTE AND DISTRIBUTION OF MDMA"
+        },
+        {
+          "charge_offence_description": "21:846 AND 841 (a)(1)  CONSPIRACY TO DISTRIBUTE AN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Ervin S. Swearingen",
+          "judge_guid": "urn:entity:jud-100079267"
+        }
+      ]
+    }
+  ]
+}

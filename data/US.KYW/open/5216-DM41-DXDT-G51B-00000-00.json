@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_311mj32_KYWD",
+  "case_key": "3:11mj32_KYWD",
+  "case_lni": "5216-DM41-DXDT-G51B-00000-00",
+  "case_number": "3:11mj32",
+  "case_title": "USA v. Acosta-Vega",
+  "case_info_full_case_name": "USA v. Acosta-Vega",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acosta-Vega",
+  "case_date_filed": "2011-01-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jaime Acosta-Vega",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F"
+        },
+        {
+          "charge_description": "8:1326B.F Reentry of Deported Alien-Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James D. Moyer",
+          "judge_guid": "urn:entity:jud-100003379"
+        }
+      ]
+    }
+  ]
+}

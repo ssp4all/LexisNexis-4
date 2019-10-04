@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_005tp6013_FLSD",
+  "case_key": "0:05tp6013_FLSD",
+  "case_lni": "7WBN-J760-Y892-B25C-00000-00",
+  "case_number": "0:05tp6013",
+  "case_title": "USA v. Lawal",
+  "case_info_full_case_name": "USA v. Lawal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lawal",
+  "case_date_filed": "2005-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUKMAN A. LAWAL",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William P. Dimitrouleas",
+          "judge_guid": "urn:entity:jud-100044540"
+        }
+      ]
+    }
+  ]
+}

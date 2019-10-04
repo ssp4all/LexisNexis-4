@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_106mj590_TXSD",
+  "case_key": "1:06mj590_TXSD",
+  "case_lni": "7WBN-PRK0-Y892-B0KF-00000-00",
+  "case_number": "1:06mj590",
+  "case_title": "USA v. Bryant",
+  "case_info_full_case_name": "USA v. Bryant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bryant",
+  "case_date_filed": "2006-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Mack Daniel Bryant",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F;"
+        },
+        {
+          "charge_description": "8:1324.F; Knowingly, willfully and in reckless disregard did transport and move certain undocumented aliens within the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

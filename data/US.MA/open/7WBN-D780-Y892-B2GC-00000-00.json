@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_103m1643_mad",
+  "case_key": "1:03m1643_mad",
+  "case_lni": "7WBN-D780-Y892-B2GC-00000-00",
+  "case_number": "1:03m1643",
+  "case_title": "USA v. Seifer",
+  "case_info_full_case_name": "USA v. Seifer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Seifer",
+  "case_date_filed": "2003-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHAUN E. SEIFER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1348-Violation"
+        },
+        {
+          "charge_description": "18:1348-Violation of Conditions of Release"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "C. B. Swartwood, III",
+          "judge_guid": "urn:entity:jud-100055067"
+        }
+      ]
+    }
+  ]
+}

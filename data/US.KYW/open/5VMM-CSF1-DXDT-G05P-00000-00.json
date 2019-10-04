@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_519cr20_KYWD",
+  "case_key": "5:19cr20_KYWD",
+  "case_lni": "5VMM-CSF1-DXDT-G05P-00000-00",
+  "case_number": "5:19cr20",
+  "case_title": "USA v. Mattice",
+  "case_info_full_case_name": "USA v. Mattice",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mattice",
+  "case_date_filed": "2019-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Leigh Ann Dycus",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Maurice Mattice",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2250 - FAILURE TO REGISTER PURSUANT TO THE SEX OFFENDER REGISTRATION AND NOTIFICATION ACT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_503m118_vawd",
+  "case_key": "5:03m118_vawd",
+  "case_lni": "7WBN-NVN0-Y892-B14B-00000-00",
+  "case_number": "5:03m118",
+  "case_title": "USA v. Martin",
+  "case_info_full_case_name": "USA v. Martin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martin",
+  "case_date_filed": "2003-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DENNIS LEE MARTIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21 18USCSections 841(a)(1) 924(c)"
+        },
+        {
+          "charge_description": "Title 21 &; 18 U.S.C. Sections 841(a)(1) &; 924(c) respectively (Offense date 01/17/03)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Waugh Crigler",
+          "judge_guid": "urn:entity:jud-100045545"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_495m2394_azd",
+  "case_key": "4:95m2394_azd",
+  "case_lni": "7WBN-S6N0-Y892-B4FN-00000-00",
+  "case_number": "4:95m2394",
+  "case_title": "USA v. Chan-Jiminez",
+  "case_info_full_case_name": "USA v. Chan-Jiminez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chan-Jiminez",
+  "case_date_filed": "1995-10-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Alfred Islas",
+      "attorney_label": "[COR LD NTC cja]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "REMIGIO CHAN-JIMINEZ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    }
+  ]
+}

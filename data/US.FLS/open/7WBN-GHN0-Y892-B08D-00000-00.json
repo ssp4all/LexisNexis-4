@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_199cr781_flsd",
+  "case_key": "1:99cr781_flsd",
+  "case_lni": "7WBN-GHN0-Y892-B08D-00000-00",
+  "case_number": "1:99cr781",
+  "case_title": "USA v. Velasco-Fajardo",
+  "case_info_full_case_name": "USA v. Velasco-Fajardo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Velasco-Fajardo",
+  "case_date_filed": "1909-10-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kurt Stitcher",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUZ DARY VELASCO-FAJARDO",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_statute": "21:952=CI.F"
+        },
+        {
+          "charge_description": "21:952=CI.F CONTROLLED SUBSTANCE-IMPORT-HEROIN (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841G=CP.F"
+        },
+        {
+          "charge_description": "21:841G=CP.F CONTROLLED SUBSTANCE-POSSESSION-HEROIN (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession with intent to distribute heroin [1:99-m-3551]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James Lawrence King",
+          "judge_guid": "urn:entity:jud-100037347"
+        }
+      ]
+    }
+  ]
+}

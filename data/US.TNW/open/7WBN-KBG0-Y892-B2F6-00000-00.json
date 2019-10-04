@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_200m159_tnwd",
+  "case_key": "2:00m159_tnwd",
+  "case_lni": "7WBN-KBG0-Y892-B2F6-00000-00",
+  "case_number": "2:00m159",
+  "case_title": "USA v. Perry",
+  "case_info_full_case_name": "USA v. Perry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perry",
+  "case_date_filed": "2000-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES KEVIN PERRY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "11"
+        },
+        {
+          "charge_description": "possess and cause the possession with intent to deceive 11 counterfeit and forged securities of an organization-18:513"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Diane K. Vescovo",
+          "judge_guid": "urn:entity:jud-100010337"
+        }
+      ]
+    }
+  ]
+}

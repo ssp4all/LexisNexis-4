@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_117mj25_FLND",
+  "case_key": "1:17mj25_FLND",
+  "case_lni": "5NK7-P061-DXDT-G349-00000-00",
+  "case_number": "1:17mj25",
+  "case_title": "USA v. RIZO DIAZ",
+  "case_info_full_case_name": "USA v. RIZO DIAZ",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "RIZO DIAZ",
+  "case_date_filed": "2017-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HUGO ALBERTO RIZO DIAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F POSSESSION WITH INTENT TO DISTRIBUTE 50 GRAMS OR MORE OF A MIXTURE OR SUBSTANCE CONTAINING METHAMPHETAMINE"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F POSSESSION WITH INTENT TO DISTRIBUTE "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "GARY R JONES",
+          "judge_guid": "urn:entity:jud-100050215"
+        }
+      ]
+    }
+  ]
+}

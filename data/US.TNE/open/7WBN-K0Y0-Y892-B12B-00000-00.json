@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_193m189_tned",
+  "case_key": "1:93m189_tned",
+  "case_lni": "7WBN-K0Y0-Y892-B12B-00000-00",
+  "case_number": "1:93m189",
+  "case_title": "USA v. Biggs",
+  "case_info_full_case_name": "USA v. Biggs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Biggs",
+  "case_date_filed": "1993-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD ROY BIGGS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) HAVING PREVIOUS CONVICTIONS, POSSESSING A FIREARM, AFFECTING INTERSTATE COMMERCE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John Y Powers",
+          "judge_guid": "urn:entity:jud-100024208"
+        }
+      ]
+    }
+  ]
+}

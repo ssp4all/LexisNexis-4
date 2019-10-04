@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_613cr116_LAWD",
+  "case_key": "6:13cr116_LAWD",
+  "case_lni": "586F-HBM1-DXDT-G1KV-00000-00",
+  "case_number": "6:13cr116",
+  "case_title": "USA v. Soileau",
+  "case_info_full_case_name": "USA v. Soileau",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Soileau",
+  "case_date_filed": "2013-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Myers P Namie",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Glenn J Soileau",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD ACTIVITY CONNECTED WITH COMPUTERS-Unauthorized Access to a Protected Computer(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Elizabeth E Foote",
+          "judge_guid": "urn:entity:jud-100055628"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "C Michael Hill",
+          "judge_guid": "urn:entity:jud-100051652"
+        }
+      ]
+    }
+  ]
+}

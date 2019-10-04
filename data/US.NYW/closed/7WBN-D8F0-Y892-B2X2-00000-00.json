@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_199cr182_nywd",
+  "case_key": "1:99cr182_nywd",
+  "case_lni": "7WBN-D8F0-Y892-B2X2-00000-00",
+  "case_number": "1:99cr182",
+  "case_title": "USA v. Washington",
+  "case_info_full_case_name": "USA v. Washington",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Washington",
+  "case_date_filed": "1999-11-22",
+  "case_status": "Closed",
+  "case_status_date": "04/11/2000",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antwon Washington",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113A.F BANK ROBBERY BY FORCE OR VIOLENCE(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to the custody of the Bureau of Prisons for a term of 27 months, upon release defendant to be placed on supervise release for a term of 3 years, defendant to pay $342. restitution and $100. assessment, defendant reman ded. RJA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard J. Arcara",
+          "judge_guid": "urn:entity:jud-100074279"
+        }
+      ]
+    }
+  ]
+}

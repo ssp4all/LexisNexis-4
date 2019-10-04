@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_202cr259_nvd",
+  "case_key": "2:02cr259_nvd",
+  "case_lni": "7WBN-DM10-Y892-B40W-00000-00",
+  "case_number": "2:02cr259",
+  "case_title": "USA V ARAM KHAKALMAZYAN",
+  "case_info_full_case_name": "USA V ARAM KHAKALMAZYAN",
+  "case_info_short_case_name": "USA V ARAM KHAKALMAZYAN",
+  "case_info_party1": "USA",
+  "case_info_party2": "ARAM KHAKALMAZYAN",
+  "case_date_filed": "2002-05-14",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kimberly Frayn",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Khakalmazyan Aram",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G"
+        },
+        {
+          "charge_description": "18:922G UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_disposition": "Convicted Final Plea of Guilty"
+        },
+        {
+          "charge_statute": "28:2461C"
+        },
+        {
+          "charge_description": "28:2461C FORFEITURE (2)"
+        },
+        {
+          "charge_disposition": "Convicted Final Plea of Guilty"
+        }
+      ]
+    }
+  ]
+}

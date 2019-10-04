@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_618po6054_ARWD",
+  "case_key": "6:18po6054_ARWD",
+  "case_lni": "5SFF-7WF1-DXDT-G1G0-00000-00",
+  "case_number": "6:18po6054",
+  "case_title": "USA vs Hogarth",
+  "case_info_full_case_name": "USA vs Hogarth",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hogarth",
+  "case_date_filed": "2018-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Timothy J Hogarth",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Closure Violation (6933862)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving While Intoxicated (6933861)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Barry A. Bryant",
+          "judge_guid": "urn:entity:jud-100063931"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_199cr10003_arwd",
+  "case_key": "1:99cr10003_arwd",
+  "case_lni": "7WBN-GH60-Y892-B2JC-00000-00",
+  "case_number": "1:99cr10003",
+  "case_title": "USA v. Chatman",
+  "case_info_full_case_name": "USA v. Chatman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chatman",
+  "case_date_filed": "1999-03-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERANCE STEVE CHATMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2114.(a) 18:2"
+        },
+        {
+          "charge_description": "18:2114.(a) and 18:2 ASSAULT ON PERSON IN CHARGE OF MAIL MATTER, AND AIDING &; ABETTING (1)"
+        },
+        {
+          "charge_disposition": "87 mos impr to be srvd concurrently w/sent now srvg ADC, 5 yrs supv rel w/stndrd &; spcl conditions, $100.00 SA, $35,417.00 restitution (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c) 18:2"
+        },
+        {
+          "charge_description": "18:924(c) and 18:2 CARRYING FIREARM IN RELATION TO A CRIME OF VIOLENCE, AND AIDING &; ABETTING (2)"
+        },
+        {
+          "charge_disposition": "Dismissed by USA (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry F. Barnes",
+          "judge_guid": "urn:entity:jud-100052089"
+        }
+      ]
+    }
+  ]
+}

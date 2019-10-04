@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_505cr1405_TXSD",
+  "case_key": "5:05cr1405_TXSD",
+  "case_lni": "7WBN-NWW0-Y892-B1D3-00000-00",
+  "case_number": "5:05cr1405",
+  "case_title": "USA v. Swearingen",
+  "case_info_full_case_name": "USA v. Swearingen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Swearingen",
+  "case_date_filed": "2005-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shawn Stephen Swearingen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 3"
+        },
+        {
+          "charge_description": "Transporting undocumented aliens within the US. Penalty: Not more than 5 yrs and/or $250,000.00, $100 cvf for ea ct., 3 yrs tsr. (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F-Bringing"
+        },
+        {
+          "charge_description": "8:1324.F-Bringing in and Harboring Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

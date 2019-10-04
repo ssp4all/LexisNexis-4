@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_194m270_nyed",
+  "case_key": "1:94m270_nyed",
+  "case_lni": "7WBN-K1F0-Y892-B4XM-00000-00",
+  "case_number": "1:94m270",
+  "case_title": "USA v. Brito, et al",
+  "case_info_full_case_name": "USA v. Brito, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brito, et al",
+  "case_date_filed": "1994-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "YVO BRITO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Sealed Complaint."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Steven M. Gold",
+          "judge_guid": "urn:entity:jud-100042810"
+        }
+      ]
+    },
+    {
+      "party_name": "JESSICA PABON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SEALED COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Steven M. Gold",
+          "judge_guid": "urn:entity:jud-100042810"
+        }
+      ]
+    }
+  ]
+}

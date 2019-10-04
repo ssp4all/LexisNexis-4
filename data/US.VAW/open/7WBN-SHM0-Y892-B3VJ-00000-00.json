@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_703m330_vawd",
+  "case_key": "7:03m330_vawd",
+  "case_lni": "7WBN-SHM0-Y892-B3VJ-00000-00",
+  "case_number": "7:03m330",
+  "case_title": "USA v. McCoy",
+  "case_info_full_case_name": "USA v. McCoy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCoy",
+  "case_date_filed": "2003-09-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIMOTHY W. MCCOY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "38CFR1.218(b)(16)-Enter"
+        },
+        {
+          "charge_description": "38 CFR 1.218(b)(16)-Enter VAMC Under Influence of Alcohol"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glen E. Conrad",
+          "judge_guid": "urn:entity:jud-100049824"
+        }
+      ]
+    }
+  ]
+}

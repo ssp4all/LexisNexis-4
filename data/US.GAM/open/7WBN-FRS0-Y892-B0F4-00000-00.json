@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_406mj138_GAMD",
+  "case_key": "4:06mj138_GAMD",
+  "case_lni": "7WBN-FRS0-Y892-B0F4-00000-00",
+  "case_number": "4:06mj138",
+  "case_title": "USA v. Moody",
+  "case_info_full_case_name": "USA v. Moody",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moody",
+  "case_date_filed": "2006-10-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M-TRAFFIC"
+        },
+        {
+          "charge_description": "18:13-7210.M-TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M-TRAFFIC"
+        },
+        {
+          "charge_description": "18:13-7220.M-TRAFFIC OFFENSES, OTHER-Open Container (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7990.M"
+        },
+        {
+          "charge_description": "18:13-7990.M MISCELLANEOUS GENERAL OFFENSES, OTHER-possession of concealed weapons (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "G. Mallon Faircloth",
+          "judge_guid": "urn:entity:jud-100046843"
+        }
+      ]
+    }
+  ]
+}

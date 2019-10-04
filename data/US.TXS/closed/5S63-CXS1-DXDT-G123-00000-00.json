@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_518cr289_TXSD",
+  "case_key": "5:18cr289_TXSD",
+  "case_lni": "5S63-CXS1-DXDT-G123-00000-00",
+  "case_number": "5:18cr289",
+  "case_title": "USA v. Garza-DelaCruz",
+  "case_info_full_case_name": "USA v. Garza-DelaCruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garza-DelaCruz",
+  "case_date_filed": "2018-04-24",
+  "case_status": "Closed",
+  "case_status_date": "02/04/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Rodrigo Garza-DelaCruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Using, Carrying or Possessing a Firearm during and in relation to a Crime of Violence. Penalty: 5, 7, 10 yrs to Life, $250,000, $100 SPA, 5 yrs SRT(1)"
+        },
+        {
+          "charge_disposition": "120 mos to serve, consecutive to 180 mos in Count 2, and Consecutive to State Case (Aggravated sexual assault); 5 yrs srt, concurrent to count 2, comply with all Applicable, Standard and Mandatory conditions of Supervision, $100 s/a per count; no fine; Restitution of $40 payable to Mr Navarro; drug/alcohol aftercare treatment and while at BOP; submit to substance abuse, testing, treatment, and abstinence condition; Mental health program and Anger management at BOP; waived appeal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Carjacking. Penalty: Not more than 15 yrs, $250,000, $100 SPA(2)"
+        },
+        {
+          "charge_disposition": "180 mos to serve, consecutive to 120 mos in Count 1, and Consecutive to State Case (Aggravated sexual assault); 3 yrs srt, concurrent to count 1, comply with all Applicable, Standard and Mandatory conditions of Supervision, $100 s/a per count; no fine; Restitution of $40 payable to Mr Navarro; drug/alcohol aftercare treatment and while at BOP; submit to substance abuse, testing, treatment, and abstinence condition; Mental health program and Anger management at BOP; waived appeal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession of Firearm by convicted felon. Penalty: 0-10 yrs, $250,000, $100 SPA, 3 yrs SRT(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govts oral Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c) Carrying, using , Possessing Firearm in Connection with a Crime of Violence ;18:9119 Carjacking ; 18:922(g)(1) Possession of a Firearm by Convicted Felon."
+        },
+        {
+          "charge_offence_description": "18:924(c) Carrying, using , Possessing Firearm in "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marina Garcia Marmolejo",
+          "judge_guid": "urn:entity:jud-100005708"
+        }
+      ]
+    }
+  ]
+}

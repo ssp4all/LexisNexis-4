@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_100cr264_ncmd",
+  "case_key": "1:00cr264_ncmd",
+  "case_lni": "7WBN-PH30-Y892-B54V-00000-00",
+  "case_number": "1:00cr264",
+  "case_title": "USA v. BULLOCK",
+  "case_info_full_case_name": "USA v. BULLOCK",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "BULLOCK",
+  "case_date_filed": "2000-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM ANTHONY BULLOCK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 924(e)"
+        },
+        {
+          "charge_description": "18:922(g)(1) &; 924(e) POSSESSED FIREARM IN COMMERCE AFTER FELONY CONVICTION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_314po6193_WAWD",
+  "case_key": "3:14po6193_WAWD",
+  "case_lni": "5DXC-NSS1-DXDT-G241-00000-00",
+  "case_number": "3:14po6193",
+  "case_title": "USA vs Holley",
+  "case_info_full_case_name": "USA vs Holley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Holley",
+  "case_date_filed": "2014-12-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sarah L Holley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Theft/embezzlement of US property (3681784)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Karen L Strombom",
+          "judge_guid": "urn:entity:jud-100019792"
+        }
+      ]
+    }
+  ]
+}

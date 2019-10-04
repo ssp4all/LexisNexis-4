@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_601m546_nywd",
+  "case_key": "6:01m546_nywd",
+  "case_lni": "7WBN-J0Y0-Y892-B158-00000-00",
+  "case_number": "6:01m546",
+  "case_title": "USA v. Musleh",
+  "case_info_full_case_name": "USA v. Musleh",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Musleh",
+  "case_date_filed": "2001-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Richard Resnick",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SAMIR A. MUSLEH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b)-unlawfully, 51 7USCin"
+        },
+        {
+          "charge_description": "7:2024(b)-unlawfully, willfully and knowingly use transfer, acquire and possess coupons, authorization cards and devices issued pursuant to chapter 51 of Title 7 USC in amount in excess of $100 and in a manner not authorized by that Chapter and the regulations issued thereunder (illegal food stamp trafficking)-7:2024(b)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    }
+  ]
+}

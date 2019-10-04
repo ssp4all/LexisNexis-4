@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_299cr352_nmd",
+  "case_key": "2:99cr352_nmd",
+  "case_lni": "7WBN-MDD0-Y892-B2F3-00000-00",
+  "case_number": "2:99cr352",
+  "case_title": "USA v. Chavez-Serrano",
+  "case_info_full_case_name": "USA v. Chavez-Serrano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chavez-Serrano",
+  "case_date_filed": "1999-03-30",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hugo Chavez-Serrano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Reentry after Deportation [2:99-m-59]"
+        },
+        {
+          "charge_statute": "8:1326(a)(1)(2)&;(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1)(2)&;(b)(2) REENTRY OF DEPORTED ALIEN (1-1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 70 months; supervised release: 3 years; w/special conditions; SPA: $100.00; court recommends La Tuna; deft to remain in custody (1-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James A. Parker",
+          "judge_guid": "urn:entity:jud-100028418"
+        }
+      ]
+    }
+  ]
+}

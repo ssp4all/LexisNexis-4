@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_405cr243_AZD",
+  "case_key": "4:05cr243_AZD",
+  "case_lni": "7WBN-S330-Y892-B2YY-00000-00",
+  "case_number": "4:05cr243",
+  "case_title": "USA v. Leyva",
+  "case_info_full_case_name": "USA v. Leyva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leyva",
+  "case_date_filed": "2005-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO JAVIER LEYVA JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(B)(vii) 1000"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B)(vii) Possession with the Intent to Distribute 1000 kilograms of Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy F Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    }
+  ]
+}

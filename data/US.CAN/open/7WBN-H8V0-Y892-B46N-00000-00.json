@@ -1,0 +1,992 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_307CR645_CAND",
+  "case_key": "3:07CR645_CAND",
+  "case_lni": "7WBN-H8V0-Y892-B46N-00000-00",
+  "case_number": "3:07cr645",
+  "case_title": "USA v. Williams et al",
+  "case_info_full_case_name": "USA v. Williams et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams et al",
+  "case_date_filed": "2007-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "Claudia A. Quiroz",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "S. Waqar Hasib"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ronald Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribution of heroin(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(18-19)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Barry Lynn Samuel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribution of heroin(3)"
+        },
+        {
+          "charge_disposition": "80 months in custody, 5 years supervised release, $100 special assessment, no fine (see judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(11)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Juan Penaloza-Hilario",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_disposition": "135 months in custody, five yrs supervised release, no fine, special assess. $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribution of heroin(3)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(4)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(5-6)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(7)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(8-9)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(10)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(13)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A)(i) Possession with intent to distribute and distribute heroin(14)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(17)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(19)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i)Possession with intent to distribute and distribute heroin(20-21)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Spero",
+          "judge_guid": "urn:entity:jud-100020358"
+        }
+      ]
+    },
+    {
+      "party_name": "Eleazor Mora-Arciga",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(5-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(8-9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(10-13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(15-17)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(19)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i)Possession with intent to distribute and distribute heroin(20-21)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Spero",
+          "judge_guid": "urn:entity:jud-100020358"
+        }
+      ]
+    },
+    {
+      "party_name": "Salvador Ortega",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(4)"
+        },
+        {
+          "charge_disposition": "84 months in custody, 5 years supervised release, $100 special assessment (see judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Carlos Guerrero-Elenes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_disposition": "103 months, but not less than the time of imprisonment served as of 11/1/2015."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(4)"
+        },
+        {
+          "charge_disposition": "103 months, but not less than the time of imprisonment served as of 11/1/2015."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Miguel Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(4)"
+        },
+        {
+          "charge_disposition": "109 months in custody, 4 years supervised release, no, fine, $100 special assessment (see judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Humberto Ceja-Barajas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_disposition": "120 months in custody, 5 years supervised release, no fine, $100 special assessment, no weapons (see judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(5)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(11-13)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(15-16)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(18)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(k) Possession of firearm with obliterated serial number(23)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Spero",
+          "judge_guid": "urn:entity:jud-100020358"
+        }
+      ]
+    },
+    {
+      "party_name": "Samuel Aranada",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Ronald Lee Hines",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(6)"
+        },
+        {
+          "charge_disposition": "105 months in custody, 5 years supervised release, no fine, $100 special assessment (see judgment for additional conditions)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i)Possession with intent to distribute and distribute heroin(20)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Cesar Ramirez-Chavira",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(7)"
+        },
+        {
+          "charge_disposition": "100 months in custody, 5 years supervised release, no fine, $100 special assessment (see judgment for additional conditions)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Erika Manzo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(8)"
+        },
+        {
+          "charge_disposition": "30 months in custody, 3 years of supervised release, no fine, $100 special assessment (see judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Javier Ulises Zamora-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_disposition": "130 months custody, five yrs supervised release, special assess. $200.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(h) Conspiracy to launder money(1s)"
+        },
+        {
+          "charge_disposition": "130 months custody, five yrs supervised release, special assess. $200.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(9)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A)(i) Possession with intent to distribute and distribute heroin(14)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Spero",
+          "judge_guid": "urn:entity:jud-100020358"
+        }
+      ]
+    },
+    {
+      "party_name": "Luis Manuel Cuevas-Medina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with intent to distribute and distribute heroin(9)"
+        },
+        {
+          "charge_disposition": "76 months custody, five yrs supervised release, no fine, special assess. $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Spero",
+          "judge_guid": "urn:entity:jud-100020358"
+        }
+      ]
+    },
+    {
+      "party_name": "Michael Joseph Silva",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(10)"
+        },
+        {
+          "charge_disposition": "50 months in custody, 3 years supervised release, $100 special assessment, no fine (see judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Larry Bishop",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(12)"
+        },
+        {
+          "charge_disposition": "70 months in custody (Counts 12 &; 15 - to run concurrently), 5 years supervised release, no fine, $200 special assessment (see judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(15)"
+        },
+        {
+          "charge_disposition": "70 months in custody (Counts 12 &; 15 - to run concurrently), 5 years supervised release, no fine, $200 special assessment (see judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Edward Leroy Moore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(13)"
+        },
+        {
+          "charge_disposition": "87 months in custody, 5 years supervised release, $100 special assessment (see judgment for additional conditions)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Antonio Camacho-Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_disposition": "168 months custody, five yrs supervised release, assessment $200, no fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(h) Conspiracy to launder money(1s)"
+        },
+        {
+          "charge_disposition": "168 months custody, five yrs supervised release, assessment $200, no fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A)(i) Possession with intent to distribute and distribute heroin(14)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Spero",
+          "judge_guid": "urn:entity:jud-100020358"
+        }
+      ]
+    },
+    {
+      "party_name": "Everardo Camacho-Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Tresylian Redd",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(16)"
+        },
+        {
+          "charge_disposition": "63 months in custody, 3 years supervised release, $100 special assessment, no fine (see judgment for additional conditions)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Alfredo Gonzales Govea",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(17)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Sergio Gil Vasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Possession with intent to distribute and distribute heroin(19)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ]
+    },
+    {
+      "party_name": "Sarah Aranda Ropati",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i)Possession with intent to distribute and distribute heroin(21)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846, 841(b)(1)(A)(i) and 18:2 Conspiracy to possess with intent to distribute and distribute heroin, possession with intent to distribute and distribution of heroin(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:861 Use of person under age 18 to distribute controlled substance(22)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    }
+  ]
+}

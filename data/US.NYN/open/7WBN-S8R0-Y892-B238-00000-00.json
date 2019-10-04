@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_501cr523_nynd",
+  "case_key": "5:01cr523_nynd",
+  "case_lni": "7WBN-S8R0-Y892-B238-00000-00",
+  "case_number": "5:01cr523",
+  "case_title": "USA v. Reid",
+  "case_info_full_case_name": "USA v. Reid",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reid",
+  "case_date_filed": "2001-12-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ed J. Thompson FAX",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "YEON REID",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F 6/1/00,"
+        },
+        {
+          "charge_description": "8:1326B.F REENTRY OF DEPORTED ALIEN-FELONY: On or about 6/1/00, within the NDNY, the deft, an alien, who had been previously convicted of an aggravated felony and who was subsequently deported from the US, was found in the US, in Onondaga County, the said deft having not obtained the consent of the Atty General of the US for the readmission into the USA. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "6/1/01, 8,USC1326"
+        },
+        {
+          "charge_description": "On or about 6/1/01, in Onondaga County in the Northern District of New York, an alien who had perviously been deported following his conviction of aggravated felony drug trafficking offense, knowingly and unlawfully entered and was found in the United States, in Onondaga County, the deft. did not obtain consent of the Atty. General of the U.S. for reapplication by the Deft. for admission to the U.S., in violation of Title 8, USC 1326 [5:01-m-216]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Hurd",
+          "judge_guid": "urn:entity:jud-100050886"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_300m2248_txwd",
+  "case_key": "3:00m2248_txwd",
+  "case_lni": "7WBN-H400-Y892-B38G-00000-00",
+  "case_number": "3:00m2248",
+  "case_title": "USA v. Moreno-Esparza",
+  "case_info_full_case_name": "USA v. Moreno-Esparza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Esparza",
+  "case_date_filed": "2000-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS MANUEL MORENO-ESPARZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "Possession with the intent to distribute and importation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

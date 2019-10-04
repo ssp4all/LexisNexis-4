@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_207cr249_TXWD",
+  "case_key": "2:07cr249_TXWD",
+  "case_lni": "7WBN-FBY0-Y892-B298-00000-00",
+  "case_number": "2:07cr249",
+  "case_title": "USA v. Sanchez-Romero",
+  "case_info_full_case_name": "USA v. Sanchez-Romero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Romero",
+  "case_date_filed": "2007-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Abraham Sanchez-Romero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F-NARCOTICS-SELL, (Cocaine)"
+        },
+        {
+          "charge_description": "21:841A=ND.F-NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-Distribution of a Controlled Substance (Cocaine) (1)"
+        },
+        {
+          "charge_disposition": "24 months imprisonment, 3 years supervised release, $100 S/A"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable"
+        }
+      ]
+    }
+  ]
+}

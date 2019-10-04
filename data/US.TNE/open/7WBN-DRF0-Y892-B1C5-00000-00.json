@@ -1,0 +1,102 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_300cr156_tned",
+  "case_key": "3:00cr156_tned",
+  "case_lni": "7WBN-DRF0-Y892-B1C5-00000-00",
+  "case_number": "3:00cr156",
+  "case_title": "USA v. Ownby, et al",
+  "case_info_full_case_name": "USA v. Ownby, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ownby, et al",
+  "case_date_filed": "2000-09-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT E OWNBY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341.F"
+        },
+        {
+          "charge_description": "18:1341.F [18:1341 and 2] AIDED AND ABETTED BY EACH OTHER, DEVISED A SCHEME AND ARTIFICE TO DEFRAUD THE HARFORD MUTUAL INSURANCE COMPANY, BEL AIR, MARYLAND, FOR OBTAINING MONEY AND PROPERTY BY MEANS OF FALSE AND FRAUDULENT PRETENSES, REPRESENTATIONS AND PROMISES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "31:5324.F"
+        },
+        {
+          "charge_description": "31:5324.F [31:5324(a)(3)] FOR PURPOSES OF EVADING REPORTING REQUIREMENTS, STRUCTURED A TRANSACTION WITH A DOMESTIC FINANCIAL INSTITUTION (2-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James H Jarvis",
+          "judge_guid": "urn:entity:jud-100050532"
+        }
+      ]
+    },
+    {
+      "party_name": "FRANK A RIDDLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341.F"
+        },
+        {
+          "charge_description": "18:1341.F [18:1341 and 2] AIDED AND ABETTED BY EACH OTHER, DEVISED A SCHEME AND ARTIFICE TO DEFRAUD THE HARFORD MUTUAL INSURANCE COMPANY, BEL AIR, MARYLAND, FOR OBTAINING MONEY AND PROPERTY BY MEANS OF FALSE AND FRAUDULENT PRETENSES, REPRESENTATIONS AND PROMISES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James H Jarvis",
+          "judge_guid": "urn:entity:jud-100050532"
+        }
+      ]
+    },
+    {
+      "party_name": "DANNEY L RUTHERFORD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341.F"
+        },
+        {
+          "charge_description": "18:1341.F [18:1341 and 2] AIDED AND ABETTED BY EACH OTHER, DEVISED A SCHEME AND ARTIFICE TO DEFRAUD THE HARFORD MUTUAL INSURANCE COMPANY, BEL AIR, MARYLAND, FOR OBTAINING MONEY AND PROPERTY BY MEANS OF FALSE AND FRAUDULENT PRETENSES, REPRESENTATIONS AND PROMISES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James H Jarvis",
+          "judge_guid": "urn:entity:jud-100050532"
+        }
+      ]
+    }
+  ]
+}

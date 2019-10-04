@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_198m3550_flsd",
+  "case_key": "1:98m3550_flsd",
+  "case_lni": "7WBN-F6W0-Y892-B4Y4-00000-00",
+  "case_number": "1:98m3550",
+  "case_title": "USA v. Fernandez",
+  "case_info_full_case_name": "USA v. Fernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fernandez",
+  "case_date_filed": "1998-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAFAEL DE JESUS FERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRE/POSSESSION WITH INTENT TO DISTRIBUTE COCAINE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert L. Dube",
+          "judge_guid": "urn:entity:jud-100056983"
+        }
+      ]
+    }
+  ]
+}

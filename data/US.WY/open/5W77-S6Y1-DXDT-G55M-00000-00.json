@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_519po261_WYD",
+  "case_key": "5:19po261_WYD",
+  "case_lni": "5W77-S6Y1-DXDT-G55M-00000-00",
+  "case_number": "5:19po261",
+  "case_title": "USA vs Keller",
+  "case_info_full_case_name": "USA vs Keller",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Keller",
+  "case_date_filed": "2019-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesse R Keller",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Fail to maintain that degree of control of mot veh necessary to avoid danger (7343439)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Violating a provision of State law is prohibited / WS 31-7-134(a) Drive while license suspended/revoked (7343440)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Violating a provision of State law is prohibited / WS 31-4-103(a) No liability insurance, involved MVA (7343441)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

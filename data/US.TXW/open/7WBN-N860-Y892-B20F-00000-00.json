@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_400cr308_txwd",
+  "case_key": "4:00cr308_txwd",
+  "case_lni": "7WBN-N860-Y892-B20F-00000-00",
+  "case_number": "4:00cr308",
+  "case_title": "USA v. Perry",
+  "case_info_full_case_name": "USA v. Perry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perry",
+  "case_date_filed": "2000-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL PAUL PERRY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8USC1324(a)(1)(A)(v)(l)"
+        },
+        {
+          "charge_description": "Felony transport of illegal aliens in violation of Title 8 USC 1324(a)(1)(A)(v)(l) [4:00-m-1193]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "W. Royal Furgeson, Jr.",
+          "judge_guid": "urn:entity:jud-100004574"
+        }
+      ]
+    }
+  ]
+}

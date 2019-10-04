@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_408cr366_AZD",
+  "case_key": "4:08cr366_AZD",
+  "case_lni": "7WBN-NHC0-Y892-B274-00000-00",
+  "case_number": "4:08cr366",
+  "case_title": "USA v. Benavides-Antillon",
+  "case_info_full_case_name": "USA v. Benavides-Antillon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Benavides-Antillon",
+  "case_date_filed": "2008-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Benavides-Antillon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(2)(B)(ii)Bringing"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii)Bringing in Illegal Aliens for Profit (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(II) 1324(a)(1)(B)(i)Transporting"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(II) and 1324(a)(1)(B)(i)Transporting of Illegal Aliens for Profit"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

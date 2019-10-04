@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502m3507_txsd",
+  "case_key": "5:02m3507_txsd",
+  "case_lni": "7WBN-NV80-Y892-B28W-00000-00",
+  "case_number": "5:02m3507",
+  "case_title": "USA v. Sandoval-Santana, et al",
+  "case_info_full_case_name": "USA v. Sandoval-Santana, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval-Santana, et al",
+  "case_date_filed": "2002-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SANDRA SANDOVAL-SANTANA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1325 2(a); 8"
+        },
+        {
+          "charge_description": "8 &; 18 USC 1325 &; 2(a); Knowingly and willfully aid and abet the illegal entry of Mexican aliens by attempting to transport them to further their entry into the U. S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    },
+    {
+      "party_name": "CECILIA REYNA-SANDOVAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8 18USC1325 2(a);"
+        },
+        {
+          "charge_description": "8 &; 18 USC 1325 &; 2(a); Knowingly and willfully aid and abet the illegal entry of Mexican aliens by attempting to transport them to further their entry into the U. S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

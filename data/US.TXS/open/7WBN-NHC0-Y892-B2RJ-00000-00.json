@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_408cr480_TXSD",
+  "case_key": "4:08cr480_TXSD",
+  "case_lni": "7WBN-NHC0-Y892-B2RJ-00000-00",
+  "case_number": "4:08cr480",
+  "case_title": "USA v. Cruz-Cristobal",
+  "case_info_full_case_name": "USA v. Cruz-Cristobal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cruz-Cristobal",
+  "case_date_filed": "2008-07-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Financial Litigation"
+    },
+    {},
+    {
+      "attorney_name": "US Pretrial Svcs - H"
+    },
+    {
+      "attorney_name": "US Probation - H"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aquilino Cruz-Cristobal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Reentry of Deported Aliens (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

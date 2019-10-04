@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_190cr305_gand",
+  "case_key": "1:90cr305_gand",
+  "case_lni": "7WBN-GBW0-Y892-B0MC-00000-00",
+  "case_number": "1:90cr305",
+  "case_title": "USA v. Beckett",
+  "case_info_full_case_name": "USA v. Beckett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beckett",
+  "case_date_filed": "1990-08-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD HARLAN BECKETT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:113"
+        },
+        {
+          "charge_description": "18:113 ASSAULT, OTHER (1s)"
+        },
+        {
+          "charge_disposition": "Impr. 3 mos. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "49A:1472(j)"
+        },
+        {
+          "charge_description": "49A:1472(j) Assault flight crew members (1)"
+        },
+        {
+          "charge_disposition": "Motion for leave to file dismisal on count 1 of indictment (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "49:1472(j)."
+        },
+        {
+          "charge_description": "Assault and intimidate crew members and flight attendants so as sto interfere with the performance of their duties, inviol 49:1472(j). [1:90-m-693]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Allen L. Chancey, Jr.",
+          "judge_guid": "urn:entity:jud-100091802"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Allen L. Chancey, Jr.",
+          "judge_guid": "urn:entity:jud-100091802"
+        }
+      ]
+    }
+  ]
+}

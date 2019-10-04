@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_508mj149_OKWD",
+  "case_key": "5:08mj149_OKWD",
+  "case_lni": "7WBN-NYY0-Y892-B1PX-00000-00",
+  "case_number": "5:08mj149",
+  "case_title": "United States of America v. Lee",
+  "case_info_full_case_name": "United States of America v. Lee",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Lee",
+  "case_date_filed": "2008-08-14",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrea R LaTorre"
+    },
+    {
+      "attorney_name": "Daniel P Doyle"
+    },
+    {},
+    {
+      "attorney_name": "Thomas P Condie"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodney R Lee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Traffic Offenses, Drunken Driving (1)"
+        },
+        {
+          "charge_disposition": "Defendant is Sentenced to The Custody of The Bureau of Prisons For Imprisonment of Seven (7) Months, Consecutive to Current Term. Defendant Shall Pay A Special Assessment of $25.00 Which is Payable Immediately."
+        },
+        {
+          "charge_offence_description": "Misdemeanor",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert Bacharach",
+          "judge_guid": "urn:entity:jud-100104560"
+        }
+      ]
+    }
+  ]
+}

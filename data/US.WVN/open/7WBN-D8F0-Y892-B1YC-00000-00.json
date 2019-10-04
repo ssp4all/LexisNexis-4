@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_197m7_wvnd",
+  "case_key": "1:97m7_wvnd",
+  "case_lni": "7WBN-D8F0-Y892-B1YC-00000-00",
+  "case_number": "1:97m7",
+  "case_title": "USA v. Mike",
+  "case_info_full_case_name": "USA v. Mike",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mike",
+  "case_date_filed": "1997-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHEIA GAYLE MIKE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frederick P. Stamp, Jr.",
+          "judge_guid": "urn:entity:jud-100096337"
+        }
+      ]
+    }
+  ]
+}

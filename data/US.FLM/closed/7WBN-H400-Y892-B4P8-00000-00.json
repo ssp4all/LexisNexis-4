@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_300m63_flmd",
+  "case_key": "3:00m63_flmd",
+  "case_lni": "7WBN-H400-Y892-B4P8-00000-00",
+  "case_number": "3:00m63",
+  "case_title": "USA v. Montoya-Avila",
+  "case_info_full_case_name": "USA v. Montoya-Avila",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Montoya-Avila",
+  "case_date_filed": "2000-02-11",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERARDO MONTOYA-AVILA",
+      "party_description": "Custody",
+      "charges": [
+        {
+          "charge_statute": "18:1546(a)"
+        },
+        {
+          "charge_description": "18:1546(a) Possession of a counterfeit Alien Resident Card"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John E. Steele",
+          "judge_guid": "urn:entity:jud-100014285"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_518po1016_TXSD",
+  "case_key": "5:18po1016_TXSD",
+  "case_lni": "5RPS-6K91-DXDT-G44N-00000-00",
+  "case_number": "5:18po1016",
+  "case_title": "USA v. Ledesma-Martinez",
+  "case_info_full_case_name": "USA v. Ledesma-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ledesma-Martinez",
+  "case_date_filed": "2018-02-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David White",
+      "attorney_label": "LEAD ATTORNEY"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eliazar Ledesma-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_207cr83_FLMD",
+  "case_key": "2:07cr83_FLMD",
+  "case_lni": "7WBN-KVP0-Y892-B4T2-00000-00",
+  "case_number": "2:07cr83",
+  "case_title": "USA v. Chambrot et al",
+  "case_info_full_case_name": "USA v. Chambrot et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chambrot et al",
+  "case_date_filed": "2007-06-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javier Conde Chambrot",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marcia Morales Howard",
+          "judge_guid": "urn:entity:jud-100009661"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas N. Frazier",
+          "judge_guid": "urn:entity:jud-100046006"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Diaz Palomino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marcia Morales Howard",
+          "judge_guid": "urn:entity:jud-100009661"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas N. Frazier",
+          "judge_guid": "urn:entity:jud-100046006"
+        }
+      ]
+    },
+    {
+      "party_name": "Caridad and Luis Alfonzo THIRD PARTY",
+      "party_description": "Custodian"
+    },
+    {
+      "party_name": "Yudaimis Macia THIRD PARTY",
+      "party_description": "Custodian"
+    }
+  ]
+}

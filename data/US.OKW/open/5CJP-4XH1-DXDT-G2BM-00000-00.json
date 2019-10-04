@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_514mj239_OKWD",
+  "case_key": "5:14mj239_OKWD",
+  "case_lni": "5CJP-4XH1-DXDT-G2BM-00000-00",
+  "case_number": "5:14mj239",
+  "case_title": "United States of America v. Shriner",
+  "case_info_full_case_name": "United States of America v. Shriner",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Shriner",
+  "case_date_filed": "2014-07-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David J Shriner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY(1)"
+        },
+        {
+          "charge_disposition": "The charge was dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Shon T. Erwin",
+          "judge_guid": "urn:entity:jud-100007099"
+        }
+      ]
+    }
+  ]
+}

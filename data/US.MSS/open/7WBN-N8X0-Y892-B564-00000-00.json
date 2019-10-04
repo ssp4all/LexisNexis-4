@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_401cr29_mssd",
+  "case_key": "4:01cr29_mssd",
+  "case_lni": "7WBN-N8X0-Y892-B564-00000-00",
+  "case_number": "4:01cr29",
+  "case_title": "USA v. Tubby",
+  "case_info_full_case_name": "USA v. Tubby",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tubby",
+  "case_date_filed": "2001-12-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEVEN WAYNE TUBBY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:113A.F"
+        },
+        {
+          "charge_description": "18:113A.F ASSAULT WITH DANGEROUS WEAPON (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC113(a)(3) 1153:"
+        },
+        {
+          "charge_description": "18 USC SECTIONS 113(a)(3) and 1153: ASSAULT WITH A DANGEROUS WEAPON [3:01-m-66]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Tom S. Lee",
+          "judge_guid": "urn:entity:jud-100030215"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_211cr1071_TXSD",
+  "case_key": "2:11cr1071_TXSD",
+  "case_lni": "546M-9R81-DXDT-G1N3-00000-00",
+  "case_number": "2:11cr1071",
+  "case_title": "USA v. Palemon-Vargas",
+  "case_info_full_case_name": "USA v. Palemon-Vargas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Palemon-Vargas",
+  "case_date_filed": "2011-11-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey S Miller",
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Financial Litigation"
+    },
+    {},
+    {
+      "attorney_name": "US Pretrial Svcs-CC"
+    },
+    {
+      "attorney_name": "US Probation - CC"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Samuel Palemon-Vargas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Reentry of Deported Aliens (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F Re Entry of Deported Aliens"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John D Rainey",
+          "judge_guid": "urn:entity:jud-100027752"
+        }
+      ]
+    }
+  ]
+}

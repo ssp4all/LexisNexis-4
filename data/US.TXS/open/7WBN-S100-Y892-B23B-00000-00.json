@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_400m1458_txsd",
+  "case_key": "4:00m1458_txsd",
+  "case_lni": "7WBN-S100-Y892-B23B-00000-00",
+  "case_number": "4:00m1458",
+  "case_title": "USA v. Bustillo-Quan",
+  "case_info_full_case_name": "USA v. Bustillo-Quan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bustillo-Quan",
+  "case_date_filed": "2000-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ASDRUBAL ADONAY BUSTILLO-QUAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal reentry after deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Calvin Botley",
+          "judge_guid": "urn:entity:jud-100064651"
+        }
+      ]
+    }
+  ]
+}

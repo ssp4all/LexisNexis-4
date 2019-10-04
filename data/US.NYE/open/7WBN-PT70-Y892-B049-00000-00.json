@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_108mj461_NYED",
+  "case_key": "1:08mj461_NYED",
+  "case_lni": "7WBN-PT70-Y892-B049-00000-00",
+  "case_number": "1:08mj461",
+  "case_title": "USA v. Larsen",
+  "case_info_full_case_name": "USA v. Larsen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Larsen",
+  "case_date_filed": "2008-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Victor J. Larsen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924C.F,"
+        },
+        {
+          "charge_description": "18:924C.F, 18:2113D.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lois Bloom",
+          "judge_guid": "urn:entity:jud-100061353"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_519cr20067_MIED",
+  "case_key": "5:19cr20067_MIED",
+  "case_lni": "5VDN-KF01-DXDT-G4JK-00000-00",
+  "case_number": "5:19cr20067",
+  "case_title": "United States of America v. Vargas-Molina",
+  "case_info_full_case_name": "United States of America v. Vargas-Molina",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Vargas-Molina",
+  "case_date_filed": "2019-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Susan E. Fairchild",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leopoldo Vargas-Molina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F"
+        },
+        {
+          "charge_offence_description": "8:1326A.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Judith E. Levy",
+          "judge_guid": "urn:entity:jud-100106616"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Elizabeth A. Stafford",
+          "judge_guid": "urn:entity:jud-100114079"
+        }
+      ]
+    }
+  ]
+}

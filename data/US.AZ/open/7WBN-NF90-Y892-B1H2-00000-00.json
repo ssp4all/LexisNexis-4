@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_405m6458_AZD",
+  "case_key": "4:05m6458_AZD",
+  "case_lni": "7WBN-NF90-Y892-B1H2-00000-00",
+  "case_number": "4:05m6458",
+  "case_title": "USA, et al v. Gomez-Lopez",
+  "case_info_full_case_name": "USA, et al v. Gomez-Lopez",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Gomez-Lopez",
+  "case_date_filed": "2005-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CESAR EDMUNDO GOMEZ-LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(ii)(II)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(A)(ii)(II) Possession w/intent to Distribute Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

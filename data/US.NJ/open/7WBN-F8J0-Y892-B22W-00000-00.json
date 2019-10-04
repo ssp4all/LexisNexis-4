@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_202cr916_njd",
+  "case_key": "2:02cr916_njd",
+  "case_lni": "7WBN-F8J0-Y892-B22W-00000-00",
+  "case_number": "2:02cr916",
+  "case_title": "USA v. SWANSON",
+  "case_info_full_case_name": "USA v. SWANSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SWANSON",
+  "case_date_filed": "2002-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GREGORY SWANSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343 2 TELEVISION(dof-1996-1998)"
+        },
+        {
+          "charge_description": "18:1343 &; 2 FRAUD BY WIRE, RADIO, OR TELEVISION(dof-1996-1998) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Katharine S. Hayden",
+          "judge_guid": "urn:entity:jud-100034973"
+        }
+      ]
+    }
+  ]
+}

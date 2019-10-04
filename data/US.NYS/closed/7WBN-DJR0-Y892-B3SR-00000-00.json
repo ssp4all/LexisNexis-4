@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_195m2339_nysd",
+  "case_key": "1:95m2339_nysd",
+  "case_lni": "7WBN-DJR0-Y892-B3SR-00000-00",
+  "case_number": "1:95m2339",
+  "case_title": "USA v. Thomas",
+  "case_info_full_case_name": "USA v. Thomas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomas",
+  "case_date_filed": "1995-12-11",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SAMMY THOMAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1341,"
+        },
+        {
+          "charge_description": "18 USC 1341, 2"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_414mj73_NDD",
+  "case_key": "4:14mj73_NDD",
+  "case_lni": "5BY5-X2G1-DXDT-G0J4-00000-00",
+  "case_number": "4:14mj73",
+  "case_title": "USA v. Padilla-Perez",
+  "case_info_full_case_name": "USA v. Padilla-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Padilla-Perez",
+  "case_date_filed": "2014-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Megan A. Healy",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Samuel Padilla-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "42:408(a)(7)(B) False Social Security Number"
+        },
+        {
+          "charge_offence_description": "42:408(a)(7)(B) False Social Security Number"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen K. Klein",
+          "judge_guid": "urn:entity:jud-100037183"
+        }
+      ]
+    }
+  ]
+}

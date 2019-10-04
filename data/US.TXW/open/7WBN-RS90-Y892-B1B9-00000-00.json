@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_307cr1302_TXWD",
+  "case_key": "3:07cr1302_TXWD",
+  "case_lni": "7WBN-RS90-Y892-B1B9-00000-00",
+  "case_number": "3:07cr1302",
+  "case_title": "USA v. Contreras-Gonzalez",
+  "case_info_full_case_name": "USA v. Contreras-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Contreras-Gonzalez",
+  "case_date_filed": "2007-06-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge David Contreras-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F-MARIJUANA-SELL, 21:952=MI.F-IMPORTATION 64.05"
+        },
+        {
+          "charge_description": "21:841A=MD.F-MARIJUANA-SELL, DISTRIBUTE OR DISPENSE., 21:952=MI.F-IMPORTATION OF APPROXIMATELY 64.05 LBS OF MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

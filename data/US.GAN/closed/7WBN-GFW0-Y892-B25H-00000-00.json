@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_197cr495_gand",
+  "case_key": "1:97cr495_gand",
+  "case_lni": "7WBN-GFW0-Y892-B25H-00000-00",
+  "case_number": "1:97cr495",
+  "case_title": "USA v. Warrell",
+  "case_info_full_case_name": "USA v. Warrell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Warrell",
+  "case_date_filed": "1997-11-25",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEZCANO A. WARRELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952A=NI.F"
+        },
+        {
+          "charge_description": "21:952A=NI.F NARCOTICS-IMPORT (1s)"
+        },
+        {
+          "charge_disposition": "IMPR by CUSBP for a term of: 30 mos. The Court recommnds that the be incarcerated in an intensive Community Confinement facility. Remanded CUSMS. Spec Assmt. $100.00. Supv'd rel. 4 YRS. FINE: $6, 000.00. Fine shall be paid by the wages earned in prison. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952=NI.F"
+        },
+        {
+          "charge_description": "21:952=NI.F NARCOTICS-IMPORT (1)"
+        },
+        {
+          "charge_disposition": "dism cnts (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952"
+        },
+        {
+          "charge_description": "21:952 Importing cccaine into the U.S. [1:97-m-1190]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marvin H. Shoob",
+          "judge_guid": "urn:entity:jud-100026400"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Gerrilyn G. Brill",
+          "judge_guid": "urn:entity:jud-100064295"
+        }
+      ]
+    }
+  ]
+}

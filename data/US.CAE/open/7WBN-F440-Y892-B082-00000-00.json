@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_107cr190_CAED",
+  "case_key": "1:07cr190_CAED",
+  "case_lni": "7WBN-F440-Y892-B082-00000-00",
+  "case_number": "1:07cr190",
+  "case_title": "USA v. Rutherford",
+  "case_info_full_case_name": "USA v. Rutherford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rutherford",
+  "case_date_filed": "2007-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kimberly A. Sanchez",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeremy Scott Rutherford",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)-Felon"
+        },
+        {
+          "charge_description": "18:922(g)(1)-Felon in Possession of a Firearm (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:5861(d)-Possession"
+        },
+        {
+          "charge_description": "26:5861(d)-Possession of an Unregistered Firearm in Violation of the National Firearms Act (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Lawrence J. O'Neill",
+          "judge_guid": "urn:entity:jud-100035867"
+        }
+      ]
+    }
+  ]
+}

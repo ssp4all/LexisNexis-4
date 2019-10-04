@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GU_105cr80_GUD",
+  "case_key": "1:05cr80_GUD",
+  "case_lni": "5139-JY51-DXDT-G4DN-00000-00",
+  "case_number": "1:05cr80",
+  "case_title": "USA v. Zheng",
+  "case_info_full_case_name": "USA v. Zheng",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zheng",
+  "case_date_filed": "2005-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Xue Ming Zheng",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD AND MISUSE OF VISAS/PERMITS(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 157 days (credit for time served); 3 years supervised release; $100.00 Special Assessment Fee; all Fines waived"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "PERJURY GENERALLY&lt;br&gt;(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "2"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James L. Robart",
+          "judge_guid": "urn:entity:jud-100012332"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415mj8797_AZD",
+  "case_key": "4:15mj8797_AZD",
+  "case_lni": "5H0S-HF11-DXDT-G507-00000-00",
+  "case_number": "4:15mj8797",
+  "case_title": "USA v. Beltran-Villarreal",
+  "case_info_full_case_name": "USA v. Beltran-Villarreal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beltran-Villarreal",
+  "case_date_filed": "2015-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Javier Beltran-Villarreal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) Possession w/ Intent to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(C) Possession w/ Intent to D"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

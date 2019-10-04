@@ -1,0 +1,104 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_414cr46_OKND",
+  "case_key": "4:14cr46_OKND",
+  "case_lni": "5BNP-FVJ1-DXDT-G04N-00000-00",
+  "case_number": "4:14cr46",
+  "case_title": "USA v. Gann",
+  "case_info_full_case_name": "USA v. Gann",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gann",
+  "case_date_filed": "2014-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Catherine J Depew",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Timothy Lee Faerber",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Curtis Leon Gann",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) - FELON IN POSSESSION OF FIREARMS AND AMMUNITION;  18:924(d), 26:5872 and 28:2461(c) - FIREARMS FORFEITURE(1s)"
+        },
+        {
+          "charge_disposition": "BOP: 70 months; SR: 36 months; SMA: $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) - FELON IN POSSESSION OF FIREARMS AND AMMUNITION(1)"
+        },
+        {
+          "charge_disposition": "Dismissed at Sentencing"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) - DISTRIBUTION OF METHAMPHETAMINE; 21:853(a) - DRUG FORFEITURE(2)"
+        },
+        {
+          "charge_disposition": "Dismissed at Sentencing"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) - DISTRIBUTION OF METHAMPHETAMINE;  21:853(a) - DRUG FORFEITURE(2s)"
+        },
+        {
+          "charge_disposition": "Dismissed at Sentencing"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:5861(d) and 5871 - POSSESSION OF A SHORT-BARRELED SHOTGUN; 18:924(d), 26:5872 and 28:2461(c) - FIREARM FORFEITURE(3)"
+        },
+        {
+          "charge_disposition": "Dismissed at Sentencing"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:5861(d) and 5871 - POSSESSION OF AN UNREGISTERED WEAPON MADE FROM A SHOTGUN; 18:924(d), 26:5872 and 28:2461(c) - FIREARMS FORFEITURE(3s)"
+        },
+        {
+          "charge_disposition": "Dismissed at Sentencing"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Claire V Eagan",
+          "judge_guid": "urn:entity:jud-100056785"
+        }
+      ]
+    }
+  ]
+}

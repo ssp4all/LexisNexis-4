@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_399m1600_casd",
+  "case_key": "3:99m1600_casd",
+  "case_lni": "7WBN-HH30-Y892-B066-00000-00",
+  "case_number": "3:99m1600",
+  "case_title": "USA v. De Velasco De Nevare",
+  "case_info_full_case_name": "USA v. De Velasco De Nevare",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De Velasco De Nevare",
+  "case_date_filed": "1999-06-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BLANCA ROSALBA GUTIERREZ BLANCA ROSALBA GUTIERREZ DE VELASCO DE NEVAREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952 960-unlawful"
+        },
+        {
+          "charge_description": "21:952 and 960-unlawful importation of a controlled substance (marijuana)"
+        },
+        {
+          "charge_disposition": "Case dismissed on oral mot of govt without prejudice (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Louisa S. Porter",
+          "judge_guid": "urn:entity:jud-100024279"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_100m165_vaed",
+  "case_key": "1:00m165_vaed",
+  "case_lni": "7WBN-PHY0-Y892-B331-00000-00",
+  "case_number": "1:00m165",
+  "case_title": "USA v. Murchison",
+  "case_info_full_case_name": "USA v. Murchison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Murchison",
+  "case_date_filed": "2000-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bryan Cunningham",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GERALDINE MURCHISON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:1111.F 18:1117.F) 18:1117 1111"
+        },
+        {
+          "charge_description": "(18:1111.F &; 18:1117.F) 18:1117 and 1111 Conspiracy to commit murder in the second degree"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

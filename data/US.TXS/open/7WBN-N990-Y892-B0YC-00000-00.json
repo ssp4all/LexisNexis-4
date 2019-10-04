@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_401cr464_txsd",
+  "case_key": "4:01cr464_txsd",
+  "case_lni": "7WBN-N990-Y892-B0YC-00000-00",
+  "case_number": "4:01cr464",
+  "case_title": "USA v. Dominguez-Villarreal",
+  "case_info_full_case_name": "USA v. Dominguez-Villarreal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dominguez-Villarreal",
+  "case_date_filed": "2001-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Richard Harris",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Marshal - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE JAVIER DOMINGUEZ-VILLARREAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F 20 3"
+        },
+        {
+          "charge_description": "8:1326A.F Illegal reentry into the United States MAX PENALTY: 20 yrs and/or $250, 000 and 3 yrs SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Illegal reentry into the United States [4:01-m-619]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Vanessa D Gilmore",
+          "judge_guid": "urn:entity:jud-100038144"
+        }
+      ]
+    }
+  ]
+}

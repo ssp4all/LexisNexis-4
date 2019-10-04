@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_498m4050_azd",
+  "case_key": "4:98m4050_azd",
+  "case_lni": "7WBN-HSK0-Y892-B18V-00000-00",
+  "case_number": "4:98m4050",
+  "case_title": "USA v. Guillard, et al",
+  "case_info_full_case_name": "USA v. Guillard, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guillard, et al",
+  "case_date_filed": "1998-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GABRIEL JOSEPH GUILLARD",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        }
+      ]
+    },
+    {
+      "party_name": "ERROL ROY INGRAM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        }
+      ]
+    }
+  ]
+}

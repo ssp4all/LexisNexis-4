@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_608mj4011_NYWD",
+  "case_key": "6:08mj4011_NYWD",
+  "case_lni": "7WBN-J1T0-Y892-B348-00000-00",
+  "case_number": "6:08mj4011",
+  "case_title": "USA v. Bell",
+  "case_info_full_case_name": "USA v. Bell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bell",
+  "case_date_filed": "2008-02-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Byron Bell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924C.F, 21:841A=CD.F, 21:844A=CP.F-unlawfully"
+        },
+        {
+          "charge_description": "18:924C.F, 21:841A=CD.F, 21:844A=CP.F-unlawfully and knowingly possess a firearm in furtherance of a drug trafficking crime; unlawfully and knowingly possess with intent to distribute a controlled substance and unlawfully and knowingly possess a controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Marian W. Payson",
+          "judge_guid": "urn:entity:jud-100024892"
+        }
+      ]
+    }
+  ]
+}

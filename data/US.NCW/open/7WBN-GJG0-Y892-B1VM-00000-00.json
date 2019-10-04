@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_200m108_ncwd",
+  "case_key": "2:00m108_ncwd",
+  "case_lni": "7WBN-GJG0-Y892-B1VM-00000-00",
+  "case_number": "2:00m108",
+  "case_title": "USA v. Ward",
+  "case_info_full_case_name": "USA v. Ward",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ward",
+  "case_date_filed": "2000-11-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KRISTIE ELAINE WARD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846;841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:846;841(a)(1)-Conspiracy to poss chemicals w/intent to manufacture meth"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Max O. Cogburn, Jr.",
+          "judge_guid": "urn:entity:jud-100048133"
+        }
+      ]
+    }
+  ]
+}

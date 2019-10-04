@@ -1,0 +1,948 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_198cr533_nysd",
+  "case_key": "1:98cr533_nysd",
+  "case_lni": "7WBN-K790-Y892-B00F-00000-00",
+  "case_number": "1:98cr533",
+  "case_title": "USA v. Volpe, et al",
+  "case_info_full_case_name": "USA v. Volpe, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Volpe, et al",
+  "case_date_filed": "1998-06-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT VOLPE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (1s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby placed on probation for a term of 5 years. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_disposition": "All open counts are dismissed on the motion of the United States. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (2-21)"
+        },
+        {
+          "charge_disposition": "All open counts are dismissed on the motion of the United States. (2-21)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (2s-21s)"
+        },
+        {
+          "charge_disposition": "All open counts are dismissed on the motion of the United States. (2s-21s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (74)"
+        },
+        {
+          "charge_disposition": "All open counts are dismissed on the motion of the United States. (74)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS W/INTENT TO DISTRIBUTE MARIJUANA (74s)"
+        },
+        {
+          "charge_disposition": "All open counts are dismissed on the motion of the United States. (74s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "RALPH CABRERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (1s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 5 months. Upon release from imprisonment, the defendant shall be on supervised release for a term of 3 years.; The defendant shall pay a fine of $3,000.00. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_disposition": "Counts 2-21 and 74 of Superseding Information, all counts on original Indictment against this defendant is dismissed on the motion of the United States. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (2-21)"
+        },
+        {
+          "charge_disposition": "Counts 2-21 and 74 of Superseding Information, all counts on original Indictment against this defendant is dismissed on the motion of the United States. (2-21)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (2s-21s)"
+        },
+        {
+          "charge_disposition": "Counts 2-21 and 74 of Superseding Information, all counts on original Indictment against this defendant is dismissed on the motion of the United States. (2s-21s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (74)"
+        },
+        {
+          "charge_disposition": "Counts 2-21 and 74 of Superseding Information, all counts on original Indictment against this defendant is dismissed on the motion of the United States. (74)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS W/INTENT TO DISTRIBUTE MARIJUANA (74s)"
+        },
+        {
+          "charge_disposition": "Counts 2-21 and 74 of Superseding Information, all counts on original Indictment against this defendant is dismissed on the motion of the United States. (74s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "JOEL GALLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (22s-32s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby placed on probation for a term of 1 year. The defendant shall pay a fine of $7,420.00. (22s-32s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (22-32)"
+        },
+        {
+          "charge_disposition": "Counts on the original Indictment against this defendant is dismissed on the motion of the United States. (22-32)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (40s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby placed on probation for a term of 2 years. The defendant shall pay a fine of $15,000.00. (40s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (42s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby placed on probation for a term of 2 years. The defendant shall pay a fine of $15,000.00. (42s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (33-39)"
+        },
+        {
+          "charge_disposition": "Counts 33-39, 41, 43, 44 of Superseding Information and all counts on Original Indictment against this defendant are dismissed on the motion of the United States. (33-39)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659"
+        },
+        {
+          "charge_description": "18:659 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (33s-39s)"
+        },
+        {
+          "charge_disposition": "Counts 33-39, 41, 43, 44 of Superseding Information and all counts on Original Indictment against this defendant are dismissed on the motion of the United States. (33s-39s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (40)"
+        },
+        {
+          "charge_disposition": "Counts 33-39, 41, 43, 44 of Superseding Information and all counts on Original Indictment against this defendant are dismissed on the motion of the United States. (40)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (41)"
+        },
+        {
+          "charge_disposition": "Counts 33-39, 41, 43, 44 of Superseding Information and all counts on Original Indictment against this defendant are dismissed on the motion of the United States. (41)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (41s)"
+        },
+        {
+          "charge_disposition": "Counts 33-39, 41, 43, 44 of Superseding Information and all counts on Original Indictment against this defendant are dismissed on the motion of the United States. (41s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (42)"
+        },
+        {
+          "charge_disposition": "Counts 33-39, 41, 43, 44 of Superseding Information and all counts on Original Indictment against this defendant are dismissed on the motion of the United States. (42)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (43-44)"
+        },
+        {
+          "charge_disposition": "Counts 33-39, 41, 43, 44 of Superseding Information and all counts on Original Indictment against this defendant are dismissed on the motion of the United States. (43-44)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (43s-44s)"
+        },
+        {
+          "charge_disposition": "Counts 33-39, 41, 43, 44 of Superseding Information and all counts on Original Indictment against this defendant are dismissed on the motion of the United States. (43s-44s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "WILFREDO VASQUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:659"
+        },
+        {
+          "charge_description": "18:659 POSSESSION OF STOLEN PROPERTY (1s)"
+        },
+        {
+          "charge_disposition": "The deft. is hereby placed on probation for a term of 2 years. The deft. shall pay a fine of $800.00 which is due immediately. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (40)"
+        },
+        {
+          "charge_disposition": "Dismissed. (40)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (41)"
+        },
+        {
+          "charge_disposition": "Dismissed. (41)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "DANIEL RIVERA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (42s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby placed on probation for a term of 1 year.; The defendant shall pay a fine of $1,000.00. (42s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (42)"
+        },
+        {
+          "charge_disposition": "Counts 43, 44 of S1 and Original Indictment against this defendant are dismissed on the motion of the United States. (42)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (43-44)"
+        },
+        {
+          "charge_disposition": "Counts 43, 44 of S1 and Original Indictment against this defendant are dismissed on the motion of the United States. (43-44)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (43s-44s)"
+        },
+        {
+          "charge_disposition": "Counts 43, 44 of S1 and Original Indictment against this defendant are dismissed on the motion of the United States. (43s-44s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "MICHAEL YIANOLATES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (45s-49s)"
+        },
+        {
+          "charge_disposition": "The deft. is hereby placed on probation for a term of 1 year. The deft. shall pay a fine of $10,700.00. (45s-49s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (45-49)"
+        },
+        {
+          "charge_disposition": "Dismissed. (45-49)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "KEVIN KAY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (50s)"
+        },
+        {
+          "charge_disposition": "The deft. is hereby committed to the custody of the U.S. Bureau of Prisons to be imprisoned for a total term of 4 months. The sentence is to run concurrently on counts 50 and 57. Upon release from imprisonment, the deft. shall be on supervised release for a term of 3 years. The deft. shall pay a fine of $14,725.00. (50s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (57s)"
+        },
+        {
+          "charge_disposition": "The deft. is hereby committed to the custody of the U.S. Bureau of Prisons to be imprisoned for a total term of 4 months. The sentence is to run concurrently on counts 50 and 57. Upon release from imprisonment, the deft. shall be on supervised release for a term of 3 years. The deft. shall pay a fine of $14,725.00. (57s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (50)"
+        },
+        {
+          "charge_disposition": "Dismissed. (50)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (51-56)"
+        },
+        {
+          "charge_disposition": "Dismissed. (51-56)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (51s-56s)"
+        },
+        {
+          "charge_disposition": "Dismissed. (51s-56s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (57)"
+        },
+        {
+          "charge_disposition": "Dismissed. (57)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (58-60)"
+        },
+        {
+          "charge_disposition": "Dismissed. (58-60)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (58s-60s)"
+        },
+        {
+          "charge_disposition": "Dismissed. (58s-60s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "JAMES ALLGEIER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (50)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 12 years and a day. Upon release from imprisonment, the defendant shall be on supervised release for a term of 3 years. (50)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (51-56)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of 12 years and a day. Upon release from imprisonment, the defendant shall be on supervised release for a term of 3 years. (51-56)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "ALBERT SANDERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (57)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (57s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (58-60)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (58s-60s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "ANDRE HEMMITT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (61s-65s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby placed on probation for a term of 1 year. The defendant shall pay a fine of $5,500.00. (61s-65s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (61-65)"
+        },
+        {
+          "charge_disposition": "Counts on the Original Indictment against this defendant are dimissed on the motion of the United States. (61-65)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "MITCHELL AYERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (66)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (66s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (67-72)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (67s-72s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "JOSEPH LATSCH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES (66s)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby placed on probation for a term of 2 years. The defendant shall pay a fine of $13,500.00. (66s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (66)"
+        },
+        {
+          "charge_disposition": "Counts 67-72 of S1 and the Original Indictment against this defendant are dismissed on the motion of the United States. (66)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (67-72)"
+        },
+        {
+          "charge_disposition": "Counts 67-72 of S1 and the Original Indictment against this defendant are dismissed on the motion of the United States. (67-72)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (67s-72s)"
+        },
+        {
+          "charge_disposition": "Counts 67-72 of S1 and the Original Indictment against this defendant are dismissed on the motion of the United States. (67s-72s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    },
+    {
+      "party_name": "ENRIQUE RUIZ, JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:659,2"
+        },
+        {
+          "charge_description": "18:659,2 POSSESSION OF STOLEN PROPERTY (1s)"
+        },
+        {
+          "charge_disposition": "The deft. is hereby placed on probation a term of 3 years. The deft. shall pay a fine of $1,050.00, payable at the rate of $100.00 per month begining May 1999 until fully paid. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE OR FOREIGN SHIPMENT BY CARRIER (73)"
+        },
+        {
+          "charge_disposition": "Dismissed. (73)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John G. Koeltl",
+          "judge_guid": "urn:entity:jud-100040101"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_296cr817_cacd",
+  "case_key": "2:96cr817_cacd",
+  "case_lni": "7WBN-H0W0-Y892-B4V9-00000-00",
+  "case_number": "2:96cr817",
+  "case_title": "USA v. Tomblin-Dominguez",
+  "case_info_full_case_name": "USA v. Tomblin-Dominguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tomblin-Dominguez",
+  "case_date_filed": "1996-09-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Karen Tomblin-Dominguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371:"
+        },
+        {
+          "charge_description": "18:371: CONSPIRACY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341: 18:2:"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD; 18:2: AIDING AND ABETTING, CAUSING AN ACT TO BE DONE (2-3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dean D. Pregerson",
+          "judge_guid": "urn:entity:jud-100024184"
+        }
+      ]
+    },
+    {
+      "party_name": "Vladimir Givargis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371:"
+        },
+        {
+          "charge_description": "18:371: CONSPIRACY (1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341: 18:2:"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD; 18:2: AIDING AND ABETTING, CAUSING AN ACT TO BE DONE (2-3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dean D. Pregerson",
+          "judge_guid": "urn:entity:jud-100024184"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844"
+        },
+        {
+          "charge_description": "21:844 POSSESSION OF CODEINE (1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371:"
+        },
+        {
+          "charge_description": "18:371: CONSPIRACY (1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341: 18:2:"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD; 18:2: AIDING AND ABETTING, CAUSING AN ACT TO BE DONE (2-3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dean D. Pregerson",
+          "judge_guid": "urn:entity:jud-100024184"
+        }
+      ]
+    },
+    {
+      "party_name": "Henry Yuson Cabrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371:"
+        },
+        {
+          "charge_description": "18:371: CONSPIRACY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341: 18:2:"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD; 18:2: AIDING AND ABETTING, CAUSING AN ACT TO BE DONE (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dean D. Pregerson",
+          "judge_guid": "urn:entity:jud-100024184"
+        }
+      ]
+    },
+    {
+      "party_name": "Clementine Yuson Jaramillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371:"
+        },
+        {
+          "charge_description": "18:371: CONSPIRACY (1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341: 18:2:"
+        },
+        {
+          "charge_description": "18:1341: MAIL FRAUD; 18:2: AIDING AND ABETTING, CAUSING AN ACT TO BE DONE (2-3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dean D. Pregerson",
+          "judge_guid": "urn:entity:jud-100024184"
+        }
+      ]
+    }
+  ]
+}

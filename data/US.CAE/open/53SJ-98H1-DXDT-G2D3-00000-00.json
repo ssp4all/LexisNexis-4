@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_611mj129_CAED",
+  "case_key": "6:11mj129_CAED",
+  "case_lni": "53SJ-98H1-DXDT-G2D3-00000-00",
+  "case_number": "6:11mj129",
+  "case_title": "USA v. Yaring",
+  "case_info_full_case_name": "USA v. Yaring",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yaring",
+  "case_date_filed": "2011-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kevin Yaring",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Seng",
+          "judge_guid": "urn:entity:jud-100030508"
+        }
+      ]
+    }
+  ]
+}

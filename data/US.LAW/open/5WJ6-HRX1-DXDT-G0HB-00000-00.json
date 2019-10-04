@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_519cr230_LAWD",
+  "case_key": "5:19cr230_LAWD",
+  "case_lni": "5WJ6-HRX1-DXDT-G0HB-00000-00",
+  "case_number": "5:19cr230",
+  "case_title": "USA v. Tabora-Pineda",
+  "case_info_full_case_name": "USA v. Tabora-Pineda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tabora-Pineda",
+  "case_date_filed": "2019-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brian Christopher Flanagan",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gerardo Luis Tabora-Pineda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS - Reentry of a Removed Alien(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326.F Illegal Re-Entry into US"
+        },
+        {
+          "charge_offence_description": "8:1326.F Illegal Re-Entry into US"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald E Walter",
+          "judge_guid": "urn:entity:jud-100005466"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark L Hornsby",
+          "judge_guid": "urn:entity:jud-100051199"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_619cr63_KYED",
+  "case_key": "6:19cr63_KYED",
+  "case_lni": "5X4M-ND61-J9YR-S4VJ-00000-00",
+  "case_number": "6:19cr63",
+  "case_title": "USA v. Doane",
+  "case_info_full_case_name": "USA v. Doane",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Doane",
+  "case_date_filed": "2019-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jenna E. Reed , AUSA",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rex Doane",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2251(a)PRODUCTION OF CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252(a)(2) RECEIPT OF CHILD PORNOGRAPHY(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert E. Wier",
+          "judge_guid": "urn:entity:jud-100008212"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hanly A. Ingram",
+          "judge_guid": "urn:entity:jud-100070144"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_705cr106_VAWD",
+  "case_key": "7:05cr106_VAWD",
+  "case_lni": "7WBN-P8V0-Y892-B37M-00000-00",
+  "case_number": "7:05cr106",
+  "case_title": "United States of America v. Carl B. Hutcherson, Jr.",
+  "case_info_full_case_name": "United States of America v. Carl B. Hutcherson, Jr.",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Carl B. Hutcherson, Jr.",
+  "case_date_filed": "2005-12-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Thomas Jack Bondurant, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carl B. Hutcherson Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "42:1383.F"
+        },
+        {
+          "charge_description": "42:1383.F FRAUDULENT ACTS; PENALTIES; RESTITUTION-Social Security Fraud (4/2001)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:1383.F"
+        },
+        {
+          "charge_description": "42:1383.F FRAUDULENT ACTS; PENALTIES; RESTITUTION-Social Security Fraud (3/2005)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341.F 1346"
+        },
+        {
+          "charge_description": "18:1341.F and 1346 FRAUDS AND SWINDLES-Mail Fraud(9/2004)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341.F"
+        },
+        {
+          "charge_description": "18:1341.F FRAUDS AND SWINDLES-Mail Fraud(5/2004)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1005.F"
+        },
+        {
+          "charge_description": "18:1005.F BANK ENTRIES, REPORTS AND TRANSACTIONS (10/2004)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "18:1001.F FALSE STATEMENTS OR ENTRIES GENERALLY(1/2005)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1512C.F"
+        },
+        {
+          "charge_description": "18:1512C.F TAMPERING WITH A WITNESS, VICTIM OR INFORMANT-Obstruction of Justice (3/2005)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel G. Wilson",
+          "judge_guid": "urn:entity:jud-100016928"
+        }
+      ]
+    }
+  ]
+}

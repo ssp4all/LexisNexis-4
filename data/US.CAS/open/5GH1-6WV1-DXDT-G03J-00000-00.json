@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_315po1809_CASD",
+  "case_key": "3:15po1809_CASD",
+  "case_lni": "5GH1-6WV1-DXDT-G03J-00000-00",
+  "case_number": "3:15po1809",
+  "case_title": "USA vs Boone",
+  "case_info_full_case_name": "USA vs Boone",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Boone",
+  "case_date_filed": "2015-07-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Xavien L Boone",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violation of basic speed law (4020757)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jill L. Burkhardt",
+          "judge_guid": "urn:entity:jud-100106817"
+        }
+      ]
+    }
+  ]
+}

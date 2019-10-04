@@ -1,0 +1,186 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_315cr640_PRD",
+  "case_key": "3:15cr640_PRD",
+  "case_lni": "5H6T-X671-DXDT-G3GM-00000-00",
+  "case_number": "3:15cr640",
+  "case_title": "USA v. Guerrido et al",
+  "case_info_full_case_name": "USA v. Guerrido et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guerrido et al",
+  "case_date_filed": "2015-10-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Max J. Perez-Bouret",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Angel Guerrido",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_offence_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_description": "18:2118(b) BURGLARY OF CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "Ivan Martinez-Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_offence_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_description": "18:2118(b) BURGLARY OF CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_name": "US Magistrate Judge Silvia Carreno-Coll",
+          "judge_guid": "urn:entity:jud-100082317"
+        }
+      ]
+    },
+    {
+      "party_name": "Obrayan Hernandez-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_offence_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_description": "18:2118(b) BURGLARY OF CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "Luis R. Cotto-Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_offence_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_description": "18:2118(b) BURGLARY OF CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "IMPR: Seventy Two (72) months to be served concurrently to the imprisonment term in Cr. 16-218-7. SRT: Three (3) years. No fine. SMA: $100.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "Yaritza Mojica-Ortiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_offence_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_description": "18:2118(b) ROBBERY OF CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_name": "US Magistrate Judge Camille L. Velez-Rive",
+          "judge_guid": "urn:entity:jud-100017923"
+        }
+      ]
+    },
+    {
+      "party_name": "Enrique Perez-Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_offence_description": "18:2118B.F - Burglary of controlled substances."
+        },
+        {
+          "charge_description": "18:2118(b) ROBBERY OF CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation Office",
+      "party_description": "Interested Party"
+    }
+  ]
+}

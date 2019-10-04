@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_611cr6189_NYWD",
+  "case_key": "6:11cr6189_NYWD",
+  "case_lni": "54CH-DBT1-DXDT-G087-00000-00",
+  "case_number": "6:11cr6189",
+  "case_title": "USA v. Perez-Niz",
+  "case_info_full_case_name": "USA v. Perez-Niz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Niz",
+  "case_date_filed": "2011-11-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Craig R. Gestring",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Mario Perez-Niz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F-the"
+        },
+        {
+          "charge_description": "8:1326A.F-the defendant, a citizen and national of Guatemala who was ordered removed and then physically removed from the United States on or about [5/23/09], and [10/16/09], knowingly and unlawfully re-entered the United States without first having obtained the consent of the Attorney General, or his successor, the Secretary of The Department of Homeland Security when he was found in the WDNY on 9/3/11"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "David G. Larimer",
+          "judge_guid": "urn:entity:jud-100039574"
+        }
+      ]
+    }
+  ]
+}

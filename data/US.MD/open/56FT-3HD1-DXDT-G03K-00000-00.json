@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_112po11915_MDD",
+  "case_key": "1:12po11915_MDD",
+  "case_lni": "56FT-3HD1-DXDT-G03K-00000-00",
+  "case_number": "1:12po11915",
+  "case_title": "USA vs Gibson",
+  "case_info_full_case_name": "USA vs Gibson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gibson",
+  "case_date_filed": "2012-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Meade",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kendrick J Gibson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(3590681)"
+        },
+        {
+          "charge_description": "DRIVING VEH. ON HWY. AT SPEED EXCEEDING LIMIT (3590681) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "C."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_205mj113_TXSD",
+  "case_key": "2:05mj113_TXSD",
+  "case_lni": "7WBN-R6N0-Y892-B4H6-00000-00",
+  "case_number": "2:05mj113",
+  "case_title": "USA v. Bui",
+  "case_info_full_case_name": "USA v. Bui",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bui",
+  "case_date_filed": "2005-02-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hoa Quang Bui",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1970, 16 21USC841 (a)"
+        },
+        {
+          "charge_description": "Possession with the intent to distribute a controlled substance in Schedule II of the Controlled Substance Act of 1970, to wit: 16 kilograms of cocaine (approximate gross weight) in violation of 21 USC 841 (a) (1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

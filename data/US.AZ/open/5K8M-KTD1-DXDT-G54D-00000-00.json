@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_216cr880_AZD",
+  "case_key": "2:16cr880_AZD",
+  "case_lni": "5K8M-KTD1-DXDT-G54D-00000-00",
+  "case_number": "2:16cr880",
+  "case_title": "USA v. Padilla-Preciado",
+  "case_info_full_case_name": "USA v. Padilla-Preciado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Padilla-Preciado",
+  "case_date_filed": "2016-07-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Maria Rodriguez Gutierrez",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maria Cruz Padilla-Preciado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952, 960, 963 and 18:2 - Conspiracy to Import and Importation of a Controlled Substance; Aiding and Abetting(1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1956(h) - Money Laundering Conspiracy(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    }
+  ]
+}

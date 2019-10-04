@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_797cr58_vawd",
+  "case_key": "7:97cr58_vawd",
+  "case_lni": "7WBN-PBW0-Y892-B1KY-00000-00",
+  "case_number": "7:97cr58",
+  "case_title": "PETTY OFFENSE v. Hall",
+  "case_info_full_case_name": "PETTY OFFENSE v. Hall",
+  "case_info_short_case_name": "PETTY OFFENSE",
+  "case_info_party1": "PETTY OFFENSE",
+  "case_info_party2": "Hall",
+  "case_date_filed": "1997-05-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SANDRA RAMSEY HALL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "47:553.M (47:553(a)(1) 553(b)(1)-FINANCIAL 21, 1997)"
+        },
+        {
+          "charge_description": "47:553.M (47:553(a)(1) and 553(b)(1)-FINANCIAL GAIN FROM CABLE SERVICE (April 21, 1997) (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glen E. Conrad",
+          "judge_guid": "urn:entity:jud-100049824"
+        }
+      ]
+    }
+  ]
+}

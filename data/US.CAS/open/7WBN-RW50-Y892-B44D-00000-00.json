@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_393cr538_casd",
+  "case_key": "3:93cr538_casd",
+  "case_lni": "7WBN-RW50-Y892-B44D-00000-00",
+  "case_number": "3:93cr538",
+  "case_title": "USA v. Chavez-Ayon, et al",
+  "case_info_full_case_name": "USA v. Chavez-Ayon, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chavez-Ayon, et al",
+  "case_date_filed": "1993-04-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SANTIAGO CHAVEZ-AYON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1957, 18:371-Conspiracy"
+        },
+        {
+          "charge_description": "18:1957, 18:371-Conspiracy to launder drug trafficking proceeds (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leland C. Nielsen",
+          "judge_guid": "urn:entity:jud-100001365"
+        }
+      ]
+    },
+    {
+      "party_name": "ROBERTO CHAVEZ-AYON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1957, 18:371-Conspiracy"
+        },
+        {
+          "charge_description": "18:1957, 18:371-Conspiracy to launder drug trafficking proceeds (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leland C. Nielsen",
+          "judge_guid": "urn:entity:jud-100001365"
+        }
+      ]
+    }
+  ]
+}

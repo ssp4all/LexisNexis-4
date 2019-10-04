@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_318cr23_TXND",
+  "case_key": "3:18cr23_TXND",
+  "case_lni": "5RCP-79X1-DXDT-G3RW-00000-00",
+  "case_number": "3:18cr23",
+  "case_title": "USA v. Camacho",
+  "case_info_full_case_name": "USA v. Camacho",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Camacho",
+  "case_date_filed": "2018-01-10",
+  "case_status": "Closed",
+  "case_status_date": "01/10/2018",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Ellias Camacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transfer of Jurisdiction - COUNT 1: CONSPIRACY TO DISTRIBUTE NARCOTICS - a quantity in excess of 1 kilogram of heroin, a schedule I controlled substance; PENALTY: 10 yrs to life and/or $4 million; $100 CVF; 5 yrs of TSR. COUNT 2: Poss w/int to distr approx 4.70 kilograms of heroin; PENALTY: 10 yrs to life and/or $4 million; $100 CVF; 5 yrs TSR."
+        },
+        {
+          "charge_disposition": "Sentenced in the Southern District of Texas, Laredo Division: COUNT 1 - DISMISSED ON GVT'S ORAL MOTION. COUNT 2 - 156 months imprs; 5 yrs TSR; all usual terms apply; waived fine; drug aftercare; 150 hours of community service within 15 months; $100 CVF; advised of right to appeal; Court recommends facility near Dallas, Tx;"
+        },
+        {
+          "charge_offence_description": "Transfer of Jurisdiction - COUNT 1: CONSPIRACY TO "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Godbey",
+          "judge_guid": "urn:entity:jud-100042848"
+        }
+      ]
+    }
+  ]
+}

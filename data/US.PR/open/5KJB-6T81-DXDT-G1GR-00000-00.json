@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_316mj1335_PRD",
+  "case_key": "3:16mj1335_PRD",
+  "case_lni": "5KJB-6T81-DXDT-G1GR-00000-00",
+  "case_number": "3:16mj1335",
+  "case_title": "USA v. Moreno-Negron",
+  "case_info_full_case_name": "USA v. Moreno-Negron",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Negron",
+  "case_date_filed": "2016-08-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Edward G. Veronda",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roy Moreno-Negron",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1029. Access Device Fraud.,    18:1028A. Aggravated Identity Theft. (see attachment A)."
+        },
+        {
+          "charge_offence_description": "18:1029. Access Device Fraud.,    18:1028A. Aggrav"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Camille L. Velez-Rive",
+          "judge_guid": "urn:entity:jud-100017923"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation Office",
+      "party_description": "Interested Party"
+    }
+  ]
+}

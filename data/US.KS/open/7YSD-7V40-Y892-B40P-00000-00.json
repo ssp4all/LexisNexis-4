@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B10mj9258_KSD",
+  "case_key": "B:10mj9258_KSD",
+  "case_lni": "7YSD-7V40-Y892-B40P-00000-00",
+  "case_number": "B:10mj9258",
+  "case_title": "USA v. Castleberry",
+  "case_info_full_case_name": "USA v. Castleberry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castleberry",
+  "case_date_filed": "2010-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dave A. Castleberry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 8-262)-Driving"
+        },
+        {
+          "charge_description": "18:13 (K.S.A. 8-262)-Driving while license canceled, suspended or revoked. (CLASS A) (INFORMATION filed [6/17/2010]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Donald W. Bostwick",
+          "judge_guid": "urn:entity:jud-100064663"
+        }
+      ]
+    }
+  ]
+}

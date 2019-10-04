@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_218po60002_AZD",
+  "case_key": "2:18po60002_AZD",
+  "case_lni": "5RB3-3H61-DXDT-G271-00000-00",
+  "case_number": "2:18po60002",
+  "case_title": "USA v. Morales-Mulul",
+  "case_info_full_case_name": "USA v. Morales-Mulul",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales-Mulul",
+  "case_date_filed": "2018-01-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John Andrew Ballos",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roberto Morales-Mulul",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

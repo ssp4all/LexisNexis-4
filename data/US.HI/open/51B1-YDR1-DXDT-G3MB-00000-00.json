@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_110cr780_HID",
+  "case_key": "1:10cr780_HID",
+  "case_lni": "51B1-YDR1-DXDT-G3MB-00000-00",
+  "case_number": "1:10cr780",
+  "case_title": "USA v. Vanterpool",
+  "case_info_full_case_name": "USA v. Vanterpool",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vanterpool",
+  "case_date_filed": "2010-10-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Vincent T. Vanterpool",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.P 431-10C-104; 40:1315(c); 32CFR634.25(f); 14830302 H14"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, DRIVE WITHOUT VALID INSURANCE; HRS 431-10C-104; 40:1315(c); 32 CFR 634.25(f); Tripler Army Medical Center, HI; [9/20/2010]; 14830302 H14 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "KEVIN S.C. CHANG",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

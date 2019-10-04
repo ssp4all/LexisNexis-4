@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_712cr2_NCED",
+  "case_key": "7:12cr2_NCED",
+  "case_lni": "54RM-51V1-DXDT-G44D-00000-00",
+  "case_number": "7:12cr2",
+  "case_title": "USA v. Fisher",
+  "case_info_full_case_name": "USA v. Fisher",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fisher",
+  "case_date_filed": "2012-01-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "J. Frank Bradsher",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joy Fisher",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5-Western"
+        },
+        {
+          "charge_description": "Rule 5-Western District of New York charges"
+        },
+        {
+          "charge_description": "Theft of government money (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Malcolm J. Howard",
+          "judge_guid": "urn:entity:jud-100051104"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_318cr5041_MOWD",
+  "case_key": "3:18cr5041_MOWD",
+  "case_lni": "5TJS-39F1-DXDT-G467-00000-00",
+  "case_number": "3:18cr5041",
+  "case_title": "USA v. Helsel",
+  "case_info_full_case_name": "USA v. Helsel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Helsel",
+  "case_date_filed": "2018-10-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ami Harshad Patel Miller",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Helsel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2251.F"
+        },
+        {
+          "charge_offence_description": "18:2251.F"
+        },
+        {
+          "charge_description": "SEXUAL EXPLOITATION OF CHILDREN(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "M. Douglas Harpool",
+          "judge_guid": "urn:entity:jud-100106970"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David P. Rush",
+          "judge_guid": "urn:entity:jud-100103538"
+        }
+      ]
+    }
+  ]
+}

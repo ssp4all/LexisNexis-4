@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_113po3065_TXSD",
+  "case_key": "1:13po3065_TXSD",
+  "case_lni": "5922-BP21-DXDT-G21N-00000-00",
+  "case_number": "1:13po3065",
+  "case_title": "USA v. Martinez-Ruiz",
+  "case_info_full_case_name": "USA v. Martinez-Ruiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Ruiz",
+  "case_date_filed": "2013-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {},
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Armando Martinez-Ruiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

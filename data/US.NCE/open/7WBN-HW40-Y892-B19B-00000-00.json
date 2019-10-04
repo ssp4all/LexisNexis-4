@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_505m321_NCED",
+  "case_key": "5:05m321_NCED",
+  "case_lni": "7WBN-HW40-Y892-B19B-00000-00",
+  "case_number": "5:05m321",
+  "case_title": "USA v. Reisenbigler",
+  "case_info_full_case_name": "USA v. Reisenbigler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reisenbigler",
+  "case_date_filed": "2005-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARK E. REISENBIGLER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.M"
+        },
+        {
+          "charge_description": "18:641.M Larceny of Government Property (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-9999.P 14-223"
+        },
+        {
+          "charge_description": "18:13-9999.P NCGD 14-223 Resist, delay, or obstruct a police officer (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William A. Webb",
+          "judge_guid": "urn:entity:jud-100023194"
+        }
+      ]
+    }
+  ]
+}

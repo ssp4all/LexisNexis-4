@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_397m7037_ksd",
+  "case_key": "3:97m7037_ksd",
+  "case_lni": "7WBN-HFT0-Y892-B2NS-00000-00",
+  "case_number": "3:97m7037",
+  "case_title": "USA v. Graves",
+  "case_info_full_case_name": "USA v. Graves",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Graves",
+  "case_date_filed": "1997-06-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRIAN E GRAVES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 Theft (1)"
+        },
+        {
+          "charge_disposition": "Special Assessment $ 25.00; Fine $ 300.00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "14K 100.00,"
+        },
+        {
+          "charge_description": "did exercise unauthorized control over and remove from a AAFES mail courier van, one 14K gold wedding ring of a value less than $ 100.00, property of the Fort Leavenworth Post Exchange, with the intent to steal or purloin said property, in violation of Title 18, USC Section 641"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

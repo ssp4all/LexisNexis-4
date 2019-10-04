@@ -1,0 +1,97 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_401cr268_gasd",
+  "case_key": "4:01cr268_gasd",
+  "case_lni": "7WBN-N8X0-Y892-B53H-00000-00",
+  "case_number": "4:01cr268",
+  "case_title": "USA v. McFarland",
+  "case_info_full_case_name": "USA v. McFarland",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McFarland",
+  "case_date_filed": "2001-11-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Yosefi M. Seltzer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JASON D. MCFARLAND",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.M"
+        },
+        {
+          "charge_description": "21:844A=MP.M Possession of a Controlled Substance (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M 40-6-253;"
+        },
+        {
+          "charge_description": "18:13-7220.M and OCGA 40-6-253; Open Container (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220 40-2-8;"
+        },
+        {
+          "charge_description": "18:13-7220 and OCGA 40-2-8; Expired Tags (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220 40-6-47(b);"
+        },
+        {
+          "charge_description": "18:13-7220 and OCGA 40-6-47(b); Wrong Way on a One Way (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7210.M 40-6-391(a)(1);"
+        },
+        {
+          "charge_description": "18:13-7210.M and OCGA 40-6-391(a)(1); D.U.I. (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220 16-13-32.2;"
+        },
+        {
+          "charge_description": "18:13-7220 and OCGA 16-13-32.2; Possession of Drug Related Objects (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "G. R. Smith",
+          "judge_guid": "urn:entity:jud-100015834"
+        }
+      ]
+    }
+  ]
+}

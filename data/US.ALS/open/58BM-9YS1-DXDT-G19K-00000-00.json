@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_113cr104_ALSD",
+  "case_key": "1:13cr104_ALSD",
+  "case_lni": "58BM-9YS1-DXDT-G19K-00000-00",
+  "case_number": "1:13cr104",
+  "case_title": "USA v. Lewis",
+  "case_info_full_case_name": "USA v. Lewis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "2013-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael F. Lewis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BANK FRAUD(1-16)"
+        },
+        {
+          "charge_disposition": "Defendant was sentenced to the custody of the Bureau of Prisons for a term of 37 months, as to each of Counts 1-16; said terms to run concurrently with each other, but consecutively to the custody sentence imposed in the revocation case CR 07-00136-002 this date. SRT 5 years, as to each of Counts 1-16; said terms to run concurrently with each other. The Court imposed the following special conditions: the defendant shall make restitution in a total amount of $8,696.59. Restitution is due immediately and payable in full, and is to be paid through the Clerk, U.S. District Court; further orders that interest shall not accrue on this indebtedness. No fine was imposed. SA $1600."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kristi K. DuBose",
+          "judge_guid": "urn:entity:jud-100066256"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_203mp1601_azd",
+  "case_key": "2:03mp1601_azd",
+  "case_lni": "7WBN-R500-Y892-B37R-00000-00",
+  "case_number": "2:03mp1601",
+  "case_title": "USA, et al v. Cruz-Bautista",
+  "case_info_full_case_name": "USA, et al v. Cruz-Bautista",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Cruz-Bautista",
+  "case_date_filed": "2003-03-29",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALVARO CRUZ-BAUTISTA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

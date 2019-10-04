@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_707mj341_VAWD",
+  "case_key": "7:07mj341_VAWD",
+  "case_lni": "7WBN-J3K0-Y892-B0NM-00000-00",
+  "case_number": "7:07mj341",
+  "case_title": "USA v. Atkins",
+  "case_info_full_case_name": "USA v. Atkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Atkins",
+  "case_date_filed": "2007-07-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "James Ondrese Atkins",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028A.F (); 18:371.F"
+        },
+        {
+          "charge_description": "18:1028A.F Did knowingly possess with intent to use unlawfully or transfer unlawfully five or more identification documents, authentication features, or false identification documents ([2/23/2007]); 18:371.F Did conspire and attempt to cash counterfeit checks (2/23/2007)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael F. Urbanski",
+          "judge_guid": "urn:entity:jud-100000372"
+        }
+      ]
+    }
+  ]
+}

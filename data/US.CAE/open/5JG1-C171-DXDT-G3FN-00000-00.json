@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_616po155_CAED",
+  "case_key": "6:16po155_CAED",
+  "case_lni": "5JG1-C171-DXDT-G3FN-00000-00",
+  "case_number": "6:16po155",
+  "case_title": "USA vs Arechiga",
+  "case_info_full_case_name": "USA vs Arechiga",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arechiga",
+  "case_date_filed": "2016-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Francisco J Arechiga",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failing to Maintain That Degree of Control of a Motor Vehicle Necessary to Avoid (5123453)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "No Proof of Insurance (5123452)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Unlicensed Driver (5123451)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Seng",
+          "judge_guid": "urn:entity:jud-100030508"
+        }
+      ]
+    }
+  ]
+}

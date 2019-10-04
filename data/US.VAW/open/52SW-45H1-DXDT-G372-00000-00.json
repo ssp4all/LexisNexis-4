@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_711cr28_VAWD",
+  "case_key": "7:11cr28_VAWD",
+  "case_lni": "52SW-45H1-DXDT-G372-00000-00",
+  "case_number": "7:11cr28",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2011-04-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charlene Rene Day",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lawrence Randolph Jones",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2250.F (02/2011)"
+        },
+        {
+          "charge_description": "18:2250.F FAILURE TO REGISTER AS A SEX OFFENDER (02/2011) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel G. Wilson",
+          "judge_guid": "urn:entity:jud-100016928"
+        }
+      ]
+    }
+  ]
+}

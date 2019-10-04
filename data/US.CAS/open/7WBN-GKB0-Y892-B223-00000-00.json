@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_201m8210_casd",
+  "case_key": "2:01m8210_casd",
+  "case_lni": "7WBN-GKB0-Y892-B223-00000-00",
+  "case_number": "2:01m8210",
+  "case_title": "USA v. Vega-Vargas",
+  "case_info_full_case_name": "USA v. Vega-Vargas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vega-Vargas",
+  "case_date_filed": "2001-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUBEN VEGA-VARGAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-DEPORTED"
+        },
+        {
+          "charge_description": "8:1326-DEPORTED ALIEN FOUND IN THE UNITED STATES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leo S. Papas",
+          "judge_guid": "urn:entity:jud-100028458"
+        }
+      ]
+    }
+  ]
+}

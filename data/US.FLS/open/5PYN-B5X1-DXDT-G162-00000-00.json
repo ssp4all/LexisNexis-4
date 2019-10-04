@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_117mj3598_FLSD",
+  "case_key": "1:17mj3598_FLSD",
+  "case_lni": "5PYN-B5X1-DXDT-G162-00000-00",
+  "case_number": "1:17mj3598",
+  "case_title": "USA v. Francis",
+  "case_info_full_case_name": "USA v. Francis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Francis",
+  "case_date_filed": "2017-11-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Daniel Marcet",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Derek Francis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A  Possession of Cocaine with Intent to Distribute"
+        },
+        {
+          "charge_offence_description": "21:841A  Possession of Cocaine with Intent to Dist"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    }
+  ]
+}

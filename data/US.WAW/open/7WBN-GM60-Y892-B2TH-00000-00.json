@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_202m320_wawd",
+  "case_key": "2:02m320_wawd",
+  "case_lni": "7WBN-GM60-Y892-B2TH-00000-00",
+  "case_number": "2:02m320",
+  "case_title": "USA v. Campbell",
+  "case_info_full_case_name": "USA v. Campbell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Campbell",
+  "case_date_filed": "2002-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(C), 846"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(C), 846 Conspiracy to Distribute MDMA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John L. Weinberg",
+          "judge_guid": "urn:entity:jud-100023142"
+        }
+      ]
+    }
+  ]
+}

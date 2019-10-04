@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_512po11561_TXSD",
+  "case_key": "5:12po11561_TXSD",
+  "case_lni": "5701-9TN1-DXDT-G34H-00000-00",
+  "case_number": "5:12po11561",
+  "case_title": "USA v. Guerrero Nino",
+  "case_info_full_case_name": "USA v. Guerrero Nino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guerrero Nino",
+  "case_date_filed": "2012-11-02",
+  "case_status": "Closed",
+  "case_status_date": "11/02/2012",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Margaro ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

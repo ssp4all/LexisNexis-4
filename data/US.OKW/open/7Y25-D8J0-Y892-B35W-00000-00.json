@@ -1,0 +1,96 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_510cr75_OKWD",
+  "case_key": "5:10cr75_OKWD",
+  "case_lni": "7Y25-D8J0-Y892-B35W-00000-00",
+  "case_number": "5:10cr75",
+  "case_title": "United States of America v. Johnson",
+  "case_info_full_case_name": "United States of America v. Johnson",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2010-03-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Leslie M Maye",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donnell Demetrice Johnson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC843(b), 21USC841(a)(1), 21USC843(b),"
+        },
+        {
+          "charge_description": "21 U.S.C. 843(b), 21 U.S.C. 841(a)(1), 21 U.S.C. 843(b), 21 U.S.C. 841(a)(1)"
+        },
+        {
+          "charge_statute": "21:843(b)"
+        },
+        {
+          "charge_description": "21:843(b) USE OF A COMMUNICATION FACILITY TO FACILITATE THE ACQUISITION OF COCAINE POWDER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE COCAINE POWDER (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:843(b)"
+        },
+        {
+          "charge_description": "21:843(b) USE OF A COMMUNICATION FACILITY TO FACILITATE THE ACQUISITION OF MARIJUANA (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE COCAINE POWDER (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Tim Leonard",
+          "judge_guid": "urn:entity:jud-100030116"
+        }
+      ]
+    }
+  ]
+}

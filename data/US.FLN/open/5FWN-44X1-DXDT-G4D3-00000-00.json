@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_515po80_FLND",
+  "case_key": "5:15po80_FLND",
+  "case_lni": "5FWN-44X1-DXDT-G4D3-00000-00",
+  "case_number": "5:15po80",
+  "case_title": "USA vs SCOTT",
+  "case_info_full_case_name": "USA vs SCOTT",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SCOTT",
+  "case_date_filed": "2015-05-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JOEL ANDREW WHITE",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TROY W SCOTT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Reckless Driving (N0414534)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "LARRY BODIFORD",
+          "judge_guid": "urn:entity:jud-100068675"
+        }
+      ]
+    }
+  ]
+}

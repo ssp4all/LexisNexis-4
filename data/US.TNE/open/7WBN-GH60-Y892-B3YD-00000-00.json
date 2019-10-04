@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_199cr29_tned",
+  "case_key": "1:99cr29_tned",
+  "case_lni": "7WBN-GH60-Y892-B3YD-00000-00",
+  "case_number": "1:99cr29",
+  "case_title": "USA v. McCormick, et al",
+  "case_info_full_case_name": "USA v. McCormick, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCormick, et al",
+  "case_date_filed": "1999-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DALE MCCORMICK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CM.F 18:2"
+        },
+        {
+          "charge_description": "21:841A=CM.F MANUFACTURE AND POSSESS WITH INTENT TO DISTRIBUTE METHAMPHETAMINE and 18:2 AID &; ABET (1)"
+        },
+        {
+          "charge_disposition": "24 months on Count 1; supervised release of 3 years; special assessment of $100.00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Curtis L Collier",
+          "judge_guid": "urn:entity:jud-100062281"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "William B Carter",
+          "judge_guid": "urn:entity:jud-100063133"
+        }
+      ]
+    },
+    {
+      "party_name": "RICHARD GULLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CM.F 18:2"
+        },
+        {
+          "charge_description": "21:841A=CM.F MANUFACTURE AND POSSESS WITH INTENT TO DISTRIBUTE METHAMPHETAMINE and 18:2 AID &; ABET (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Curtis L Collier",
+          "judge_guid": "urn:entity:jud-100062281"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "William B Carter",
+          "judge_guid": "urn:entity:jud-100063133"
+        }
+      ]
+    }
+  ]
+}

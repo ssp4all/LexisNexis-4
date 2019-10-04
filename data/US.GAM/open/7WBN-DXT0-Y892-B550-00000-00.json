@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_597cr4_gamd",
+  "case_key": "5:97cr4_gamd",
+  "case_lni": "7WBN-DXT0-Y892-B550-00000-00",
+  "case_number": "5:97cr4",
+  "case_title": "USA v. Hargrove",
+  "case_info_full_case_name": "USA v. Hargrove",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hargrove",
+  "case_date_filed": "1997-01-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRUCE WAYNE HARGROVE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 18:2 NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-Possession w/intent to distr. a SCH II CRTRL NARCOTIC, cocaine base (1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT 95 months, followed by 5 yrs. supvr. release. MAF $100.00. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Wilbur D. Owens, Jr.",
+          "judge_guid": "urn:entity:jud-100007874"
+        }
+      ]
+    }
+  ]
+}

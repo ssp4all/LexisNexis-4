@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_298m363_caed",
+  "case_key": "2:98m363_caed",
+  "case_lni": "7WBN-RJ10-Y892-B3NV-00000-00",
+  "case_number": "2:98m363",
+  "case_title": "USA v. Henderson, et al",
+  "case_info_full_case_name": "USA v. Henderson, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Henderson, et al",
+  "case_date_filed": "1998-12-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEVEN RAY HENDERSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dale A Drozd",
+          "judge_guid": "urn:entity:jud-100044182"
+        }
+      ]
+    },
+    {
+      "party_name": "JOHNNY LEE BARNES",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dale A Drozd",
+          "judge_guid": "urn:entity:jud-100044182"
+        }
+      ]
+    },
+    {
+      "party_name": "PAUL ANTHONY JONES",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dale A Drozd",
+          "judge_guid": "urn:entity:jud-100044182"
+        }
+      ]
+    },
+    {
+      "party_name": "MARTIN-LOPEZ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dale A Drozd",
+          "judge_guid": "urn:entity:jud-100044182"
+        }
+      ]
+    }
+  ]
+}

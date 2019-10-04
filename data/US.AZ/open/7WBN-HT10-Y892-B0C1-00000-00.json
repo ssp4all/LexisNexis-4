@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_499m6435_azd",
+  "case_key": "4:99m6435_azd",
+  "case_lni": "7WBN-HT10-Y892-B0C1-00000-00",
+  "case_number": "4:99m6435",
+  "case_title": "USA v. Benito-Vargas, et al",
+  "case_info_full_case_name": "USA v. Benito-Vargas, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Benito-Vargas, et al",
+  "case_date_filed": "1999-03-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC pda]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROSALIO BENITO-VARGAS",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    },
+    {
+      "party_name": "ARTURO LOVATO-MORALES",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

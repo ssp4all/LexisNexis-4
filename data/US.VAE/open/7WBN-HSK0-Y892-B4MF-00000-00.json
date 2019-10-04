@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_499m153_vaed",
+  "case_key": "4:99m153_vaed",
+  "case_lni": "7WBN-HSK0-Y892-B4MF-00000-00",
+  "case_number": "4:99m153",
+  "case_title": "USA v. Im",
+  "case_info_full_case_name": "USA v. Im",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Im",
+  "case_date_filed": "1999-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC pse]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RO B. IM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=MP.M 21USC844)"
+        },
+        {
+          "charge_description": "21:841B=MP.M (title 21 USC 844) MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_disposition": "DEFERRAL OF PROSECUTION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

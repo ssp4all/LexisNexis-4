@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_215cr780_TXSD",
+  "case_key": "2:15cr780_TXSD",
+  "case_lni": "5GWN-S0F1-DXDT-G3C6-00000-00",
+  "case_number": "2:15cr780",
+  "case_title": "USA v. Mosquera",
+  "case_info_full_case_name": "USA v. Mosquera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mosquera",
+  "case_date_filed": "2015-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Armando R Mosquera, Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS(1-2)"
+        },
+        {
+          "charge_disposition": "37 mos custody as to counts 1 &; 2 concurrent; 3 yrs SRT on each count concurrent; $0 Fine; $100 special assessment as to each count for a total of $200; the Court finds that the deft. is unable to pay the $5000 additional special assessment; drug and alcohol treatment; Deft. is to obtain high school degree or equivalency; nighttime restriction: 10 pm - 6 am"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis Graham Jack",
+          "judge_guid": "urn:entity:jud-100050653"
+        }
+      ]
+    },
+    {
+      "party_name": "Eliana Maria Cardona-Ramos",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Marianela Lainez-Guardado",
+      "party_description": "Material Witness"
+    }
+  ]
+}

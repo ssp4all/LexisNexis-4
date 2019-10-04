@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_305cr282_ORD",
+  "case_key": "3:05cr282_ORD",
+  "case_lni": "7WBN-DS70-Y892-B44H-00000-00",
+  "case_number": "3:05cr282",
+  "case_title": "USA v. North et al",
+  "case_info_full_case_name": "USA v. North et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "North et al",
+  "case_date_filed": "2005-07-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "G. ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard Dale North",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC641 18USC2"
+        },
+        {
+          "charge_description": "18 USC 641 and 18 USC 2 THEFT OF GOVERNMENT PROPERTY (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 = Theft of Government Property (VA HazMat Trailer)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ancer L. Haggerty",
+          "judge_guid": "urn:entity:jud-100047643"
+        }
+      ]
+    },
+    {
+      "party_name": "Bryan Chester Drumwright",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC641 18USC2"
+        },
+        {
+          "charge_description": "18 USC 641 and 18 USC 2 THEFT OF GOVERNMENT PROPERTY (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ancer L. Haggerty",
+          "judge_guid": "urn:entity:jud-100047643"
+        }
+      ]
+    }
+  ]
+}

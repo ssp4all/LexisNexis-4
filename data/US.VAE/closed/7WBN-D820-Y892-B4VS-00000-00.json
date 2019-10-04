@@ -1,0 +1,79 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_194cr551_vaed",
+  "case_key": "1:94cr551_vaed",
+  "case_lni": "7WBN-D820-Y892-B4VS-00000-00",
+  "case_number": "1:94cr551",
+  "case_title": "USA v. Newton",
+  "case_info_full_case_name": "USA v. Newton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Newton",
+  "case_date_filed": "1994-12-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert Chesnut",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BARBARA OFFNER",
+      "party_description": "Interested Party",
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "H. CHENOWITH",
+      "party_description": "Interested Party",
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "LEONARD NEWTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 1000 2/91"
+        },
+        {
+          "charge_description": "21:846 Conpsiracy to distribute 1000 kilos or more of marijuana (Sch. I) 2/91 (1)"
+        },
+        {
+          "charge_disposition": "121 mos. w/5 year super. release term on Ct. 1 and 60 mos. w/3 year super. release term on Ct. 2 concurrent (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956(a)(1)(B)(i) (5-91)"
+        },
+        {
+          "charge_description": "18:1956(a)(1)(B)(i) Money laundering (5-91) (2)"
+        },
+        {
+          "charge_disposition": "121 mos. w/5 year super. release term on Ct. 1 and 60 mos. w/3 year super. release term on Ct. 2 concurrent (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

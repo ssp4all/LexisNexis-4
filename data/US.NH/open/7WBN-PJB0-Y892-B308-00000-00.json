@@ -1,0 +1,138 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_101cr45_nhd",
+  "case_key": "1:01cr45_nhd",
+  "case_lni": "7WBN-PJB0-Y892-B308-00000-00",
+  "case_number": "1:01cr45",
+  "case_title": "USA v. Bachkurinskaya, et al",
+  "case_info_full_case_name": "USA v. Bachkurinskaya, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bachkurinskaya, et al",
+  "case_date_filed": "2001-05-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MAYA BACHKURINSKAYA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 18:1341"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to Commit Mail Fraud in violation of 18:1341 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven J. McAuliffe",
+          "judge_guid": "urn:entity:jud-100041246"
+        }
+      ]
+    },
+    {
+      "party_name": "ANDREW BEDNARZH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 18:1341"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to Commit Mail Fraud in violation of 18:1341 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven J. McAuliffe",
+          "judge_guid": "urn:entity:jud-100041246"
+        }
+      ]
+    },
+    {
+      "party_name": "TIMOFY GRIGORYANTS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 18:1341"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to Commit Mail Fraud in violation of 18:1341 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven J. McAuliffe",
+          "judge_guid": "urn:entity:jud-100041246"
+        }
+      ]
+    },
+    {
+      "party_name": "TSEZAR KOTLYAREVESKIY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 18:1341"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to Commit Mail Fraud in violation of 18:1341 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven J. McAuliffe",
+          "judge_guid": "urn:entity:jud-100041246"
+        }
+      ]
+    },
+    {
+      "party_name": "DENNIS TKACH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 18:1341"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to Commit Mail Fraud in violation of 18:1341 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven J. McAuliffe",
+          "judge_guid": "urn:entity:jud-100041246"
+        }
+      ]
+    }
+  ]
+}

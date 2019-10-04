@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_307mj602_VAED",
+  "case_key": "3:07mj602_VAED",
+  "case_lni": "7WBN-MWM0-Y892-B1PR-00000-00",
+  "case_number": "3:07mj602",
+  "case_title": "USA v. Bowers",
+  "case_info_full_case_name": "USA v. Bowers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bowers",
+  "case_date_filed": "2007-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sara Elizabeth Chase",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel E. Bowers",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC13 1950 18.2-272-Operate"
+        },
+        {
+          "charge_description": "18 U.S.C. 13 ASSIMILATING 1950 CODE OF VIRGINIA, AS AMENDED, 18.2-272-Operate motor vehicle on highway after license suspended for driving while under the influence (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC13 1950 18.2-323.1-Operate"
+        },
+        {
+          "charge_description": "18 U.S.C. 13 ASSIMIALTING 1950 CODE OF VIRGINIA, AS AMEDNED, 18.2-323.1-Operate motor vehicle while in possession of open container of alcohol (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC13 1950 18.2-266 18.2-270-DUI"
+        },
+        {
+          "charge_description": "18 U.S.C. 13 ASSIMILATING 1950 CODE OF VIRGINIA, AS AMENDED, 18.2-266 and 18.2-270-DUI (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32 634.25(f) 1950 46.2-1242-Improper"
+        },
+        {
+          "charge_description": "32 C.F.R. Section 634.25(f) assimilating 1950 Code of Va., as amended, 46.2-1242-Improper parking (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_496cr382_moed",
+  "case_key": "4:96cr382_moed",
+  "case_lni": "7WBN-S730-Y892-B0T2-00000-00",
+  "case_number": "4:96cr382",
+  "case_title": "USA v. Brown",
+  "case_info_full_case_name": "USA v. Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown",
+  "case_date_filed": "1996-12-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GREGORY RICHARD BROWN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE SHIPMENT BY CARRIER (1)"
+        },
+        {
+          "charge_disposition": "Probation for a period of 2 Years with Standard Conditions plus controlled substance programs of testing and treatment at the direction of the probation office and to make resitution in the amount of $296.00 to Sid Boedeker within the two year probationary period. A special assessment of $l00 is due immediately. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659"
+        },
+        {
+          "charge_description": "18:659 Knowingly and willfully steal, carry away and conceal from a motortruck and vehicle, goods which were part of and which constituted an interstate shipment of property, all of which they intended to convert to their own use [4:96-m-112]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Charles A. Shaw",
+          "judge_guid": "urn:entity:jud-100087513"
+        }
+      ]
+    },
+    {
+      "party_name": "RANDY EUGENE ADAMS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:659.F"
+        },
+        {
+          "charge_description": "18:659.F INTERSTATE SHIPMENT BY CARRIER (1)"
+        },
+        {
+          "charge_disposition": "Three Months imprisonment to be followed by a Supervised Release Term of 24 Months with the lst 90 days in the drug treatment program at SEMO in Farmington Missouri with Mental health treatment; provide financial information; and no new lines of credit until restitution has been paid. Further ordered that the defendant shall pay remaining restitution of $296 to Clerk of Court for transfer to the victim. Defendant is remanded to the custody of the US Marshal. 26 Months to be followed by a Supervised Release Term of 3 Years with standard conditions plus additional condition of drug and mental health testing and treatment at the direction of the probation office. Restitution in the amount of $296.00 is to be paid not later than six months before defendant's supervised release is terminated release from imprisonment to the Clerk of the Court for Transfer to the victim, Sid Boedeker Safety Shoe Service. A $l00.00 special assessment is due immediately. The Court recommends placement in Federal Camp located in Eglin, Florida. Defendant is remanded to US Marshal. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:659"
+        },
+        {
+          "charge_description": "18:659 Knowingly and willfully steal, carry away and conceal from a motortruck and vehicle, goods which were part of and which constituted an interstate shipment of property, all of which they intended to convert to their own use [4:96-m-112]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Charles A. Shaw",
+          "judge_guid": "urn:entity:jud-100087513"
+        }
+      ]
+    }
+  ]
+}

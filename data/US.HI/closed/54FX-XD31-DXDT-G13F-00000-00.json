@@ -1,0 +1,86 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_111cr1242_HID",
+  "case_key": "1:11cr1242_HID",
+  "case_lni": "54FX-XD31-DXDT-G13F-00000-00",
+  "case_number": "1:11cr1242",
+  "case_title": "USA v. Steelman",
+  "case_info_full_case_name": "USA v. Steelman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Steelman",
+  "case_date_filed": "2011-12-09",
+  "case_status": "Closed",
+  "case_status_date": "11/14/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Darren V. Steelman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "16:3.P NATIONAL PARK/RECREATION VIOLATIONS - 36 CFR 4.2(b); HRS 286-132; Suspended License; 05/21/2011; Haleakala; P0626132/H51(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "16:3.P NATIONAL PARK/RECREATION VIOLATIONS - 36 CFR 4.2(b); HRS 286-116(a); No Valid Insurance; 05/21/2011; Haleakala; P0626133/H51(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "16:3.P NATIONAL PARK/RECREATION VIOLATIONS - 36 CFR 4.2(b); HRS 286-25; No Certificate of Inspection; 05/21/2011; Haleakala; P0626130/H51(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "16:3.P NATIONAL PARK/RECREATION VIOLATIONS - 36 CFR 4.2(b); HRS 286-47; Expired Vehicle Registration; 05/21/2011; Haleakala; P0626131/H51(4)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "16:3.P NATIONAL PARK/RECREATION VIOLATIONS - 36 CFR 2.23(b); Failing to Pay Required Entry Fee; 05/21/2011; Haleakala; P0626134/H51(5)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "KEVIN S.C. CHANG",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

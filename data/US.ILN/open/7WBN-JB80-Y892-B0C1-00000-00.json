@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_101cr318_ilnd",
+  "case_key": "1:01cr318_ilnd",
+  "case_lni": "7WBN-JB80-Y892-B0C1-00000-00",
+  "case_number": "1:01cr318",
+  "case_title": "suppressed v. suppressed",
+  "case_info_full_case_name": "suppressed v. suppressed",
+  "case_info_short_case_name": "suppressed",
+  "case_info_party1": "suppressed",
+  "case_info_party2": "suppressed",
+  "case_date_filed": "2001-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SUPPRESSED",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Martin C. Ashman",
+          "judge_guid": "urn:entity:jud-100052526"
+        }
+      ]
+    }
+  ]
+}

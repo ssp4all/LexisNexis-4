@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412po30439_AZD",
+  "case_key": "4:12po30439_AZD",
+  "case_lni": "5663-WB11-DXDT-G2D0-00000-00",
+  "case_number": "4:12po30439",
+  "case_title": "USA v. Esquer-Leon",
+  "case_info_full_case_name": "USA v. Esquer-Leon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Esquer-Leon",
+  "case_date_filed": "2012-07-24",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Said Noel Esquer-Leon",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

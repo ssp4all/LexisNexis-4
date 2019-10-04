@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_212cr1880_NMD",
+  "case_key": "2:12cr1880_NMD",
+  "case_lni": "567T-D691-DXDT-G4RX-00000-00",
+  "case_number": "2:12cr1880",
+  "case_title": "USA v. Rubio-Galindo",
+  "case_info_full_case_name": "USA v. Rubio-Galindo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rubio-Galindo",
+  "case_date_filed": "2012-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Gabriel Rubio-Galindo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1) (2)"
+        },
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_813po9983_MDD",
+  "case_key": "8:13po9983_MDD",
+  "case_lni": "59J7-48F1-DXDT-G416-00000-00",
+  "case_number": "8:13po9983",
+  "case_title": "USA vs Storm. Michael P",
+  "case_info_full_case_name": "USA vs Storm. Michael P",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Storm. Michael P",
+  "case_date_filed": "2013-10-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Storm. Michael P",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "(STANDING, PARKING) VEH. WITHIN 15 FEET FIRE HYDRANT (4091296)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

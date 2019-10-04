@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_216cr98_VAED",
+  "case_key": "2:16cr98_VAED",
+  "case_lni": "5K63-1TV1-DXDT-G058-00000-00",
+  "case_number": "2:16cr98",
+  "case_title": "USA v. Groux",
+  "case_info_full_case_name": "USA v. Groux",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Groux",
+  "case_date_filed": "2016-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Alyssa Nichol",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gabriel C. Groux",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Title 18, United States Code, Sections 7(3) and 661 - Theft within the Special Maritime and Territorial Jurisdiction(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: Five (5) Months; Supervised Release: Three (3) Years; Special Assessment: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Raymond A. Jackson",
+          "judge_guid": "urn:entity:jud-100033530"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert J. Krask",
+          "judge_guid": "urn:entity:jud-100114149"
+        }
+      ]
+    }
+  ]
+}

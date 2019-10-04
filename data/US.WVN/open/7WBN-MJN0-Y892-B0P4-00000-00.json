@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_302cr16_wvnd",
+  "case_key": "3:02cr16_wvnd",
+  "case_lni": "7WBN-MJN0-Y892-B0P4-00000-00",
+  "case_number": "3:02cr16",
+  "case_title": "USA v. Custer",
+  "case_info_full_case_name": "USA v. Custer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Custer",
+  "case_date_filed": "2002-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KEITH WAYNE CUSTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922D.F"
+        },
+        {
+          "charge_description": "18:922D.F SELL FIREARMS TO ADDICTS, FELONS, FUGITIVES (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "18:1001.F STATEMENTS OR ENTRIES GENERALLY (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "W. Craig Broadwater",
+          "judge_guid": "urn:entity:jud-100064251"
+        }
+      ]
+    }
+  ]
+}

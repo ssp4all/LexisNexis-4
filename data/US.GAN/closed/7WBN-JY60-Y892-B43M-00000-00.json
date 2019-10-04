@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_191m714_gand",
+  "case_key": "1:91m714_gand",
+  "case_lni": "7WBN-JY60-Y892-B43M-00000-00",
+  "case_number": "1:91m714",
+  "case_title": "USA v. Bradford",
+  "case_info_full_case_name": "USA v. Bradford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bradford",
+  "case_date_filed": "1991-08-02",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOY LYN BRADFORD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Devising a scheme and artifice to defraud and to obtaain money and property by false and fraudulent pretenses and using wire communications to execute said scheme, in viol 18:1343."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Joel M. Feldman",
+          "judge_guid": "urn:entity:jud-100056070"
+        }
+      ]
+    }
+  ]
+}

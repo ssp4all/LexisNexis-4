@@ -1,0 +1,158 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_594cr55_gamd",
+  "case_key": "5:94cr55_gamd",
+  "case_lni": "7WBN-D3G0-Y892-B1J4-00000-00",
+  "case_number": "5:94cr55",
+  "case_title": "USA v. Billingslea, et al",
+  "case_info_full_case_name": "USA v. Billingslea, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Billingslea, et al",
+  "case_date_filed": "1994-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROYDELL BILLINGSLEA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1072 18:2:"
+        },
+        {
+          "charge_description": "18:1072 and 18:2: Harboring and Concealing an Escaped Federal Prisoner (1ss)"
+        },
+        {
+          "charge_disposition": "10 mos impri; 1 yr supervised release (1ss)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1071 18:2:"
+        },
+        {
+          "charge_description": "18:1071 and 18:2: Harboring and Concealing an Escaped Federal Fugitive (1s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:3:"
+        },
+        {
+          "charge_description": "18:3: ESCAPE, AIDING AND HARBORING FUGITIVE (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1512(b)(3) 18:2:"
+        },
+        {
+          "charge_description": "18:1512(b)(3) and 18:2: Intimidation of Witness (2ss)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1512(b)(3) 18:2:"
+        },
+        {
+          "charge_description": "18:1512(b)(3) and 18:2: Intimidating a Witness (2s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Wilbur D. Owens, Jr.",
+          "judge_guid": "urn:entity:jud-100007874"
+        }
+      ]
+    },
+    {
+      "party_name": "ANNIE PEARL RUSSELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1072 18:2:"
+        },
+        {
+          "charge_description": "18:1072 and 18:2: Harboring and Concealing an Escaped Federal Prisoner (1ss)"
+        },
+        {
+          "charge_disposition": "3 yrs probation (1ss)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1071 18:2:"
+        },
+        {
+          "charge_description": "18:1071 and 18:2: Harboring and Concealing an Escaped Federal Fugitive (1s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:3:"
+        },
+        {
+          "charge_description": "18:3: ESCAPE, AIDING AND HARBORING FUGITIVE (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1512(b)(3) 18:2:"
+        },
+        {
+          "charge_description": "18:1512(b)(3) and 18:2: Intimidation of Witness (2ss)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt Motion (2ss)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1512(b)(3) 18:2:"
+        },
+        {
+          "charge_description": "18:1512(b)(3) and 18:2: Intimidating a Witness (2s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Wilbur D. Owens, Jr.",
+          "judge_guid": "urn:entity:jud-100007874"
+        }
+      ]
+    }
+  ]
+}

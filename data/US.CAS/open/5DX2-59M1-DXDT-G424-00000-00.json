@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_314po2508_CASD",
+  "case_key": "3:14po2508_CASD",
+  "case_lni": "5DX2-59M1-DXDT-G424-00000-00",
+  "case_number": "3:14po2508",
+  "case_title": "USA vs Meza",
+  "case_info_full_case_name": "USA vs Meza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Meza",
+  "case_date_filed": "2014-12-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Gabriela Meza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "VA property - Parking in spaces posted reserved or in excess of posted time (0778217)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David H. Bartick",
+          "judge_guid": "urn:entity:jud-100100980"
+        }
+      ]
+    }
+  ]
+}

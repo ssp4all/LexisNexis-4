@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_219cr12_WVSD",
+  "case_key": "2:19cr12_WVSD",
+  "case_lni": "5V6T-P121-DXDT-G40S-00000-00",
+  "case_number": "2:19cr12",
+  "case_title": "United States of America v. Harper",
+  "case_info_full_case_name": "United States of America v. Harper",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Harper",
+  "case_date_filed": "2019-01-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tonya Marie Harper",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE - Methamphetamine(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David A. Faber",
+          "judge_guid": "urn:entity:jud-100008327"
+        }
+      ]
+    }
+  ]
+}

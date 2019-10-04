@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_508mj1333_TXSD",
+  "case_key": "5:08mj1333_TXSD",
+  "case_lni": "7WBN-NYY0-Y892-B1GK-00000-00",
+  "case_number": "5:08mj1333",
+  "case_title": "USA v. Gonzalez",
+  "case_info_full_case_name": "USA v. Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez",
+  "case_date_filed": "2008-07-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Arturo Gabriel Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F Bringing in and harboring aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Saldana",
+          "judge_guid": "urn:entity:jud-100059638"
+        }
+      ]
+    },
+    {
+      "party_name": "Enrique Hernandez-Guerra",
+      "party_description": "material witness"
+    }
+  ]
+}

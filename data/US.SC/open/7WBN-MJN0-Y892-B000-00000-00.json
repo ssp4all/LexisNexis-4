@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_302cr1239_scd",
+  "case_key": "3:02cr1239_scd",
+  "case_lni": "7WBN-MJN0-Y892-B000-00000-00",
+  "case_number": "3:02cr1239",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2002-11-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KENNETH C SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(a)(6) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(a)(6) and 924(a)(2) IMPORTING/MANUFACTURING FIREARMS knowingly made a false and fictitious statement, had not been convicted of a misdemeanor crime of domestic violence, when in fact knew of that he had been convicted of this misdemeanor crime (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(9) 924(a)(2) 12"
+        },
+        {
+          "charge_description": "18:922(g)(9) and 924(a)(2) UNLAWFUL TRANSPORT OF FIREARMS, ETC. having been convicted of a misdemeanor crime of domestic violence did possess a New England Firearms, 12 guage shotgun shipped and transported in interstate commerce (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

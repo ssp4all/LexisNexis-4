@@ -1,0 +1,143 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_414cr40_TXSD",
+  "case_key": "4:14cr40_TXSD",
+  "case_lni": "5G6G-RW71-DXDT-G1HJ-00000-00",
+  "case_number": "4:14cr40",
+  "case_title": "USA v. Owuama et al",
+  "case_info_full_case_name": "USA v. Owuama et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Owuama et al",
+  "case_date_filed": "2014-01-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Owuama",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "60 months custody of BOP; 3 years SRT; defendant shall pay restitution to Medicare in the total amount of $3,500,000.00, jointly and severally with Marla Owuama Docket No. 4:14CR00040-002 and Florida Holiday Island Docket No. 4:14CR00040-003 Further, the defendant shall be accountable for restitution to Medicaid in the total amount of $451,019.81, jointly and severally with Marla Owuama Docket No.4:14CR00040-002; no fine. Court recommends the Defendant be placed as close to Houston as possible. Court recommends vocational training and job search assistance."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "HEALTH CARE FRAUD(2-8)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy F. Atlas",
+          "judge_guid": "urn:entity:jud-100074101"
+        }
+      ]
+    },
+    {
+      "party_name": "Marla Owuama",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MISPRISON OF A FELONY(1s)"
+        },
+        {
+          "charge_disposition": "1 day custody (has already been served) ; 1 years SRT with special condition of 6 months home confinement (to begin withing fourteen 14 days of sentencing); defendant shall pay restitution to Medicare in the total amount of $3,500,000.00, jointly and severally with Marla Owuama Docket No. 4:14CR00040-002 and Florida Holiday Island Docket No. 4:14CR00040-003 Further, the defendant shall be accountable for restitution to Medicaid in the total amount of $451,019.81, jointly and severally with Marla Owuama Docket No.4:14CR00040-002; no fine. Court recommends the Defendant be placed as close to Houston as possible."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "HEALTH CARE FRAUD(2-8)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy F. Atlas",
+          "judge_guid": "urn:entity:jud-100074101"
+        }
+      ]
+    },
+    {
+      "party_name": "Florida Holiday Island",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "1 day custody (has already been served) ; 3 years SRT with special conditions of 13 months home confinement plus 30 days custody of the United States Marshal Service from 8:00 a.m. to 4:00 p.m. for five days a week or every day that the building is open (beginning May 4, 2015); defendant shall pay restitution to Medicare in the total amount of $1,972,485.74, jointly and severally with William Owama and Marla Owama."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy F. Atlas",
+          "judge_guid": "urn:entity:jud-100074101"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_519cr637_TXWD",
+  "case_key": "5:19cr637_TXWD",
+  "case_lni": "5WX7-H791-J9YR-S3V3-00000-00",
+  "case_number": "5:19cr637",
+  "case_title": "USA v. Gordy",
+  "case_info_full_case_name": "USA v. Gordy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gordy",
+  "case_date_filed": "2019-09-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joseph E. Blackwell",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Duane Gordy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "26:7206A.F FRAUD AND FALSE STATEMENTS (Subscribing False Income Tax Return)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Xavier Rodriguez",
+          "judge_guid": "urn:entity:jud-100011961"
+        }
+      ]
+    }
+  ]
+}

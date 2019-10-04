@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_316cr398_PRD",
+  "case_key": "3:16cr398_PRD",
+  "case_lni": "5K3F-YJT1-DXDT-G4KW-00000-00",
+  "case_number": "3:16cr398",
+  "case_title": "USA v. Colon-Rosario",
+  "case_info_full_case_name": "USA v. Colon-Rosario",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Colon-Rosario",
+  "case_date_filed": "2016-06-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Maria L. Montanez-Concepcion",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christian Colon-Rosario",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841 Possession with intent to distribute (Heroin, Crack, Cocaine &; Marihuana)"
+        },
+        {
+          "charge_offence_description": "21:841 Possession with intent to distribute (Heroi"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE HEROIN(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE (CRACK)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE COCAINE(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    },
+    {
+      "party_description": "Interested Party"
+    }
+  ]
+}

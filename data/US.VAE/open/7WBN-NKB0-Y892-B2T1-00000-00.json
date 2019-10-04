@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_409mj33_VAED",
+  "case_key": "4:09mj33_VAED",
+  "case_lni": "7WBN-NKB0-Y892-B2T1-00000-00",
+  "case_number": "4:09mj33",
+  "case_title": "USA v. King",
+  "case_info_full_case_name": "USA v. King",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "King",
+  "case_date_filed": "2009-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Catherine L Brantley",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jacob L. King",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USCs 7 13, 46.2-301-Driving"
+        },
+        {
+          "charge_description": "Title 18, U.S.C., Sections 7 &; 13, Assim. Code of Virginia, Section 46.2-301-Driving on Suspended or Revoked Operator's License (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32, 634.25, 46.2-104-No"
+        },
+        {
+          "charge_description": "Title 32, C.F.R., Section 634.25, Assim. Code of Virginia, Section 46.2-104-No valid registration in possession (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32, 634.25, 46.2-613-Operate"
+        },
+        {
+          "charge_description": "Title 32, C.F.R., Section 634.25, Assim. Code of Virginia, Section 46.2-613-Operate motor vehicle with license plate from another vehicle (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

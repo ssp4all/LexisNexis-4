@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_193cr959_hid",
+  "case_key": "1:93cr959_hid",
+  "case_lni": "7WBN-K040-Y892-B542-00000-00",
+  "case_number": "1:93cr959",
+  "case_title": "USA v. Balgos",
+  "case_info_full_case_name": "USA v. Balgos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Balgos",
+  "case_date_filed": "1993-06-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Alan Ezra",
+          "judge_guid": "urn:entity:jud-100056263"
+        }
+      ]
+    }
+  ]
+}

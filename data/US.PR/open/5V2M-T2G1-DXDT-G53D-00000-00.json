@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_318cr813_PRD",
+  "case_key": "3:18cr813_PRD",
+  "case_lni": "5V2M-T2G1-DXDT-G53D-00000-00",
+  "case_number": "3:18cr813",
+  "case_title": "USA v. Johnson-Llanos",
+  "case_info_full_case_name": "USA v. Johnson-Llanos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson-Llanos",
+  "case_date_filed": "2018-12-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Camille Garcia-Jimenez",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Johnson-Llanos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:111(a)(1) ASSAULTING, INTIMIDATING, OR INTERFERING WITH AN EMPLOYEE OF THE UNITED STATES GOVERNMENT(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:111 Assault to a Federal Employee"
+        },
+        {
+          "charge_offence_description": "18:111 Assault to a Federal Employee"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Juan M. Perez-Gimenez",
+          "judge_guid": "urn:entity:jud-100028134"
+        }
+      ]
+    },
+    {
+      "party_description": "Interested Party"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_116po4840_MDD",
+  "case_key": "1:16po4840_MDD",
+  "case_lni": "5K3X-DFK1-DXDT-G4G7-00000-00",
+  "case_number": "1:16po4840",
+  "case_title": "USA vs Johnson",
+  "case_info_full_case_name": "USA vs Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2016-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Dion M Johnson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO COMPLY WITH POSTED SIGNS OF DIRECTIVE/RESTRICTIVE NATURE (4668038)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Mark Coulson",
+          "judge_guid": "urn:entity:jud-100108230"
+        }
+      ]
+    }
+  ]
+}

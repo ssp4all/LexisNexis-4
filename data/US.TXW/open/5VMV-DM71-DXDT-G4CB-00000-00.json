@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_219cr815_TXWD",
+  "case_key": "2:19cr815_TXWD",
+  "case_lni": "5VMV-DM71-DXDT-G4CB-00000-00",
+  "case_number": "2:19cr815",
+  "case_title": "USA v. Sanchez-Rubio",
+  "case_info_full_case_name": "USA v. Sanchez-Rubio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Rubio",
+  "case_date_filed": "2019-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joshua Bryan Banister",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Felipe Sanchez-Rubio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B2.F IMMIGRATION, REENTRY OF REMOVED ALIENS - 8 U.S.C.  1326(a) &; (b)(1)/(2); Illegal Re-entry into the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1)   Re-entry after deportation from the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1)   Re-entry after deportation from"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

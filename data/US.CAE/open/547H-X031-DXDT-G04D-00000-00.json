@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_211cr478_CAED",
+  "case_key": "2:11cr478_CAED",
+  "case_lni": "547H-X031-DXDT-G04D-00000-00",
+  "case_number": "2:11cr478",
+  "case_title": "USA v. Middleton",
+  "case_info_full_case_name": "USA v. Middleton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Middleton",
+  "case_date_filed": "2011-11-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Barbara Ann Middleton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MISDEMEANOR BANK LARCENY; AIDING AND ABETTING BANK LARCENY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "DID EXECUTE A SCHEME TO DEFRAUD A FEDERALLY INSURED FINANCIAL INSTITUTION TO OBTAIN MONEY BY MEANS OF MATERIALLY FALSE AND FRAUDULENT PRETENSES, REPRESENTATIONS, AND PROMISES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dale A. Drozd",
+          "judge_guid": "urn:entity:jud-100044182"
+        }
+      ]
+    }
+  ]
+}

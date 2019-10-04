@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_593m902_gamd",
+  "case_key": "5:93m902_gamd",
+  "case_lni": "7WBN-SDP0-Y892-B0GC-00000-00",
+  "case_number": "5:93m902",
+  "case_title": "USA v. Patton",
+  "case_info_full_case_name": "USA v. Patton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Patton",
+  "case_date_filed": "1993-09-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "RICHARD E. PATTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER-Driving with revoked license. (2)"
+        },
+        {
+          "charge_disposition": "Deft is to pay MAF $10; Prob 12 mths; Fine $250 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 MISC. GENERAL OFFENSES, OTHER-Fleeing after given command to halt vehicle. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed by government. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 MISC. GENERAL OFFENSES, OTHER-Damage to government property. (3)"
+        },
+        {
+          "charge_disposition": "Dismissed by government. (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Claude W. Hicks, Jr.",
+          "judge_guid": "urn:entity:jud-100051727"
+        }
+      ]
+    }
+  ]
+}

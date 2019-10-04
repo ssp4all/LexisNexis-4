@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_203m7220_ilcd",
+  "case_key": "2:03m7220_ilcd",
+  "case_lni": "7WBN-R500-Y892-B1XW-00000-00",
+  "case_number": "2:03m7220",
+  "case_title": "USA v. Ross",
+  "case_info_full_case_name": "USA v. Ross",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ross",
+  "case_date_filed": "2003-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CLEO C ROSS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "9/8/02 1"
+        },
+        {
+          "charge_description": "On or about 9/8/02 the defendant, having previously been convicted in a court of the State of IL of a crime punishable by imprisonment for a term exceeding 1 year, did knowingly possess in and affecting commerce a firearm in violation of 18 USC 922(g)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "David G. Bernthal",
+          "judge_guid": "urn:entity:jud-100061640"
+        }
+      ]
+    }
+  ]
+}

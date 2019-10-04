@@ -1,0 +1,128 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_197cr16_flsd",
+  "case_key": "1:97cr16_flsd",
+  "case_lni": "7WBN-PYB0-Y892-B3HV-00000-00",
+  "case_number": "1:97cr16",
+  "case_title": "USA v. Quintero, et al",
+  "case_info_full_case_name": "USA v. Quintero, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Quintero, et al",
+  "case_date_filed": "1997-01-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Richard E. Byrne",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE MAURICO QUINTERO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F (COCAINE)"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE SCHEDULE II (COCAINE) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald L. Graham",
+          "judge_guid": "urn:entity:jud-100042541"
+        }
+      ]
+    },
+    {
+      "party_name": "ELKIN GUTIERREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F (COCAINE)"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE SCHEDULE II (COCAINE) (1)"
+        },
+        {
+          "charge_disposition": "Imprisoned for term of 156 months and 5 years supervised release; Assessment $100 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald L. Graham",
+          "judge_guid": "urn:entity:jud-100042541"
+        }
+      ]
+    },
+    {
+      "party_name": "PERCIO URENA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F (COCAINE)"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE SCHEDULE II (COCAINE) (1)"
+        },
+        {
+          "charge_disposition": "Imprisoned for term of 87 months and 3 years supervised release; Assessment $50 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald L. Graham",
+          "judge_guid": "urn:entity:jud-100042541"
+        }
+      ]
+    },
+    {
+      "party_name": "RUBEN AROCA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F (COCAINE)"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE SCHEDULE II (COCAINE) (1)"
+        },
+        {
+          "charge_disposition": "Imprisoned for term of 70 months and 5 years supervised release; Assessment $100 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald L. Graham",
+          "judge_guid": "urn:entity:jud-100042541"
+        }
+      ]
+    }
+  ]
+}

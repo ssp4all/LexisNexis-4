@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_200m432_txsd",
+  "case_key": "2:00m432_txsd",
+  "case_lni": "7WBN-KC00-Y892-B14C-00000-00",
+  "case_number": "2:00m432",
+  "case_title": "USA v. Avila",
+  "case_info_full_case_name": "USA v. Avila",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avila",
+  "case_date_filed": "2000-10-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GILBERTO NMI AVILA JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1970, 1,451"
+        },
+        {
+          "charge_description": "Knowingly, intentionally and unlawfully possess with intent to distribute a controlled substance in Schedule I of the controlled Substance Act of 1970, to wit: 1,451 pounds (approximate gross weight) of marijuana. 21:841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    }
+  ]
+}

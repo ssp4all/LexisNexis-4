@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_198m506_vaed",
+  "case_key": "1:98m506_vaed",
+  "case_lni": "7WBN-R0Y0-Y892-B031-00000-00",
+  "case_number": "1:98m506",
+  "case_title": "USA v. Iwabuchi",
+  "case_info_full_case_name": "USA v. Iwabuchi",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Iwabuchi",
+  "case_date_filed": "1998-06-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KENSHI IWABUCHI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1543"
+        },
+        {
+          "charge_description": "8:1543 Falsely furnish counterfeit passports to three Chinese nationals and did use a counterfeit Japanese passport to enter the U.S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry R. Poretz",
+          "judge_guid": "urn:entity:jud-100032777"
+        }
+      ]
+    }
+  ]
+}

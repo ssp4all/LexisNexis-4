@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_308mj381_PRD",
+  "case_key": "3:08mj381_PRD",
+  "case_lni": "7WBN-HB40-Y892-B3HR-00000-00",
+  "case_number": "3:08mj381",
+  "case_title": "USA v. Serrata-Rodriguez",
+  "case_info_full_case_name": "USA v. Serrata-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Serrata-Rodriguez",
+  "case_date_filed": "2008-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nicolas Antonio Serrata-Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546.F--Fraud"
+        },
+        {
+          "charge_description": "18:1546.F--Fraud and Misuse of Visas/Permits"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Mag. Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    }
+  ]
+}

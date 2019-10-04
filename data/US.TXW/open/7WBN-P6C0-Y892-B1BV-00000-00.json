@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_608cr125_TXWD",
+  "case_key": "6:08cr125_TXWD",
+  "case_lni": "7WBN-P6C0-Y892-B1BV-00000-00",
+  "case_number": "6:08cr125",
+  "case_title": "USA v. Myrick",
+  "case_info_full_case_name": "USA v. Myrick",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Myrick",
+  "case_date_filed": "2008-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lisa C. Williams",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Delanor E. Myrick",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.F"
+        },
+        {
+          "charge_description": "18:13-7210.F [18:7(3); 18:13; T.P.C. 49:04; and T.P.C. 49.09(b)(2)]TRAFFIC OFFENSES, DRUNKEN DRIVING--Driving While Intoxicated/Enhanced (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Walter S. Smith",
+          "judge_guid": "urn:entity:jud-100020612"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_316cr1987_TXWD",
+  "case_key": "3:16cr1987_TXWD",
+  "case_lni": "5M61-CS11-DXDT-G3MJ-00000-00",
+  "case_number": "3:16cr1987",
+  "case_title": "USA v. Bradford",
+  "case_info_full_case_name": "USA v. Bradford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bradford",
+  "case_date_filed": "2016-11-16",
+  "case_status": "Closed",
+  "case_status_date": "01/11/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Shane Wagman Romero",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rasun Bradford",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F - POSSESSION OF A FIREARM BY A CONVICTED FELON(1)"
+        },
+        {
+          "charge_disposition": "REVOCATION: committed to the Bureau of Prisons for a term of 1 month to run concurrent plus 180 days of unserved community confinement. Sentenced to 18 months imprisonment to serve concurrently with Count 2; 3 yrs. supervised release to run concurrent with Count 2; $100 S/A; drug treatment program; abstain from drug and alcohol; forfeiture"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(2)"
+        },
+        {
+          "charge_disposition": "REVOCATION: committed to the Bureau of Prisons for a term of 1 month to run concurrent plus 180 days of unserved community confinement. Sentenced to 18 months imprisonment to serve concurrently with Count 1; 3 yrs. supervised release to run concurrent with Count 1; $100 S/A"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F- Unlawful Transport of Firearms, Etc."
+        },
+        {
+          "charge_offence_description": "18:922G.F- Unlawful Transport of Firearms, Etc."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

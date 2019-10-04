@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_515cr306_NCED",
+  "case_key": "5:15cr306_NCED",
+  "case_lni": "5H6T-X671-DXDT-G3MR-00000-00",
+  "case_number": "5:15cr306",
+  "case_title": "USA v. Bustos-Garcia",
+  "case_info_full_case_name": "USA v. Bustos-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bustos-Garcia",
+  "case_date_filed": "2015-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Omar Bustos-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Reentry of removed alien(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 U.S.C. § 1326(a)  - The defendant, an alien, was found in the United States after having previously been denied admission, excluded, deported and removed from the United States and not having obtained the express consent of the Attorney General, or his successor, the Secretary of Homeland Security, to reapply for admission thereto."
+        },
+        {
+          "charge_offence_description": "8 U.S.C. &#167; 1326(a)  - The defendant, an alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

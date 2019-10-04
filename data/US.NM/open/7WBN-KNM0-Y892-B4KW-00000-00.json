@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_205cr423_NMD",
+  "case_key": "2:05cr423_NMD",
+  "case_lni": "7WBN-KNM0-Y892-B4KW-00000-00",
+  "case_number": "2:05cr423",
+  "case_title": "USA v. Mendoza-Magana",
+  "case_info_full_case_name": "USA v. Mendoza-Magana",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendoza-Magana",
+  "case_date_filed": "2005-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Angel Mendoza-Magana",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Reentry after Deportation [2:04-m-6260] (0-0)"
+        },
+        {
+          "charge_statute": "8:1326(a)(1) (2), 8:1326(b)(2),"
+        },
+        {
+          "charge_description": "8:1326(a)(1) &; (2), 8:1326(b)(2), RE-ENTRY OF DEPORTED ALIEN PREVIOUSLY CONVICTED OF AN AGGRAVATED FELONY (1-1)"
+        },
+        {
+          "charge_statute": "18:1028A,"
+        },
+        {
+          "charge_description": "18:1028A, AGGRAVATED IDENTITY THEFT (2-2)"
+        }
+      ]
+    }
+  ]
+}

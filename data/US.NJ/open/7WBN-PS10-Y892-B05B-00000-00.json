@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_107cr97_NJD",
+  "case_key": "1:07cr97_NJD",
+  "case_lni": "7WBN-PS10-Y892-B05B-00000-00",
+  "case_number": "1:07cr97",
+  "case_title": "USA v. MCCOY",
+  "case_info_full_case_name": "USA v. MCCOY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MCCOY",
+  "case_date_filed": "2007-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SCOTT MCBRIDE",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PRINCE MCCOY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC922(g)(1)-UNLAWFUL MAX-1.45"
+        },
+        {
+          "charge_description": "18 USC 922(g)(1)-UNLAWFUL TRANSPORT OF FIREARMS NAMELY, A LOADED LLAMA MAX-1.45 CALIBER PISTOL WITH ALTERED SERIAL NUMBER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(G)(1) 18:2"
+        },
+        {
+          "charge_description": "18:922(G)(1) and 18:2 Possession of ammunition and a firearm by a convicted felon (dof 10/05)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joseph E. Irenas",
+          "judge_guid": "urn:entity:jud-100050715"
+        }
+      ]
+    }
+  ]
+}

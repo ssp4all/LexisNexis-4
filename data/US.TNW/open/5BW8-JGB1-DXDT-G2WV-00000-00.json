@@ -1,0 +1,111 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_214cr20100_TNWD",
+  "case_key": "2:14cr20100_TNWD",
+  "case_lni": "5BW8-JGB1-DXDT-G2WV-00000-00",
+  "case_number": "2:14cr20100",
+  "case_title": "USA v. Moreno et al",
+  "case_info_full_case_name": "USA v. Moreno et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno et al",
+  "case_date_filed": "2014-04-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kevin Patrick Whitmore",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Phillip Anthony Moreno",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 21:846 CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 18:2 CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sheryl H. Lipman",
+          "judge_guid": "urn:entity:jud-100107017"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Antonio Limon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 21:846 CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 18:2 CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sheryl H. Lipman",
+          "judge_guid": "urn:entity:jud-100107017"
+        }
+      ]
+    },
+    {
+      "party_name": "Raquel Trevino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 21:846 CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "24 months incarceration and 4 years supervised release as to Count 1."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 18:2 CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "Count 2 was dismissed on the Government's motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sheryl H. Lipman",
+          "judge_guid": "urn:entity:jud-100107017"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318po1245_CASD",
+  "case_key": "3:18po1245_CASD",
+  "case_lni": "5SCY-NVV1-DXDT-G4J1-00000-00",
+  "case_number": "3:18po1245",
+  "case_title": "USA vs White Iv",
+  "case_info_full_case_name": "USA vs White Iv",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "White Iv",
+  "case_date_filed": "2018-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Victor A White Iv",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving while drivers license suspended or revoked for offenses (6816145)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William V. Gallo",
+          "judge_guid": "urn:entity:jud-100045796"
+        }
+      ]
+    }
+  ]
+}

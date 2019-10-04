@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_108cr849_TXSD",
+  "case_key": "1:08cr849_TXSD",
+  "case_lni": "7WBN-JT20-Y892-B337-00000-00",
+  "case_number": "1:08cr849",
+  "case_title": "USA v. Del Angel-Aviles",
+  "case_info_full_case_name": "USA v. Del Angel-Aviles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Del Angel-Aviles",
+  "case_date_filed": "2008-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Eduardo Del Angel-Aviles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported, and removed;8USC1326(a)and1326(b)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

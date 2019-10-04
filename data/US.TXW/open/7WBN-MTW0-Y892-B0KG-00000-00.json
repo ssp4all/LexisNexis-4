@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_306mj1887_TXWD",
+  "case_key": "3:06mj1887_TXWD",
+  "case_lni": "7WBN-MTW0-Y892-B0KG-00000-00",
+  "case_number": "3:06mj1887",
+  "case_title": "USA v. Zubia",
+  "case_info_full_case_name": "USA v. Zubia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zubia",
+  "case_date_filed": "2006-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Silverio Zubia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1). 2, 253.00"
+        },
+        {
+          "charge_description": "Knowingly and intentionally possess with the intent to distribute, a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1). approx. 2, 253.00 pounds"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

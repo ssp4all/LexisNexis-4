@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_700cr2_vawd",
+  "case_key": "7:00cr2_vawd",
+  "case_lni": "7WBN-P7K0-Y892-B491-00000-00",
+  "case_number": "7:00cr2",
+  "case_title": "USA v. Huerta-Morales",
+  "case_info_full_case_name": "USA v. Huerta-Morales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Huerta-Morales",
+  "case_date_filed": "2000-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE ANGEL HUERTA-MORALES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1542.F (18:1542)-FALSE 21, 1998)"
+        },
+        {
+          "charge_description": "18:1542.F (18:1542)-FALSE STATEMENT IN APPLICATION/USE OF PASSPORT (September 21, 1998) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1542-Make"
+        },
+        {
+          "charge_description": "18:1542-Make a false statement in an application for a U.S. Passport in that he claimed to be Elias Rodriguez, Jr., when in fact he is not. [7:99-m-67]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Samuel G. Wilson",
+          "judge_guid": "urn:entity:jud-100016928"
+        }
+      ]
+    }
+  ]
+}

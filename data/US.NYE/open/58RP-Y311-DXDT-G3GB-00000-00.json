@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_113mj552_NYED",
+  "case_key": "1:13mj552_NYED",
+  "case_lni": "58RP-Y311-DXDT-G3GB-00000-00",
+  "case_number": "1:13mj552",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2013-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Corey Jones",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:111.F"
+        },
+        {
+          "charge_offence_description": "18:111.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lois Bloom",
+          "judge_guid": "urn:entity:jud-100061353"
+        }
+      ]
+    }
+  ]
+}

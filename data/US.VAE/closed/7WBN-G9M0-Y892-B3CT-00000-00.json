@@ -1,0 +1,85 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_109cr359_VAED",
+  "case_key": "1:09cr359_VAED",
+  "case_lni": "7WBN-G9M0-Y892-B3CT-00000-00",
+  "case_number": "1:09cr359",
+  "case_title": "USA v. Zanders, et al",
+  "case_info_full_case_name": "USA v. Zanders, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zanders, et al",
+  "case_date_filed": "2009-08-06",
+  "case_status": "Closed",
+  "case_status_date": "01/27/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Karen Servidea",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leonardo Darnell Zanders",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349 Conspiracy to Commit Bank Fraud"
+        },
+        {
+          "charge_offence_description": "18:1349 Conspiracy to Commit Bank Fraud"
+        },
+        {
+          "charge_description": "18:1349 Conspiracy to Commit Bank Fraud (5/09)(1)"
+        },
+        {
+          "charge_disposition": "200 mos. concurrent w/ 09-011373-01 Third Cir. Detroit Mich. undischarged term of imprisonment, and 5 yrs. SR. $100 SA. No fine. $1,414,519.80 restitution jt. and sev. Remanded."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Gerald Bruce Lee",
+          "judge_guid": "urn:entity:jud-100030236"
+        }
+      ]
+    },
+    {
+      "party_name": "Lennier McLeod",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349 Conspiracy to Commit Bank Fraud"
+        },
+        {
+          "charge_offence_description": "18:1349 Conspiracy to Commit Bank Fraud"
+        },
+        {
+          "charge_description": "18:1349 Conspiracy to Commit Bank Fraud (5/09)(1)"
+        },
+        {
+          "charge_disposition": "47 mos. BOP concurrent w/ D. Tenn. sentence; 5 yrs. SR w/ conds; $100 SA; no fine. $145,000 restitution. Remanded."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Gerald Bruce Lee",
+          "judge_guid": "urn:entity:jud-100030236"
+        }
+      ]
+    }
+  ]
+}

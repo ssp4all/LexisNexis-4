@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_113cr138_VAED",
+  "case_key": "1:13cr138_VAED",
+  "case_lni": "5836-5FJ1-DXDT-G1WY-00000-00",
+  "case_number": "1:13cr138",
+  "case_title": "USA v. Charlton",
+  "case_info_full_case_name": "USA v. Charlton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Charlton",
+  "case_date_filed": "2013-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Albert Allen Charlton, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute a Controlled Substance"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James C. Cacheris",
+          "judge_guid": "urn:entity:jud-100059998"
+        }
+      ]
+    }
+  ]
+}

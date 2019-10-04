@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_418cr220_IASD",
+  "case_key": "4:18cr220_IASD",
+  "case_lni": "5TV7-B7J1-DXDT-G006-00000-00",
+  "case_number": "4:18cr220",
+  "case_title": "USA v. Curphy",
+  "case_info_full_case_name": "USA v. Curphy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Curphy",
+  "case_date_filed": "2018-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kristin M. Herrera",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Corallee Marie Curphy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE 21:841(a)(1), 841(b)(1)(C), 846 Conspiracy to Distribute Heroin(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE 21:841(a)(1), 841(b)(1)(C) Distribution of Heroin(2-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephanie M. Rose",
+          "judge_guid": "urn:entity:jud-100104549"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Celeste F. Bremer",
+          "judge_guid": "urn:entity:jud-100060829"
+        }
+      ]
+    }
+  ]
+}

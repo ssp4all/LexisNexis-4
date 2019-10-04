@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_316cr531_CAND",
+  "case_key": "3:16cr531_CAND",
+  "case_lni": "5MF6-RHJ1-DXDT-G397-00000-00",
+  "case_number": "3:16cr531",
+  "case_title": "USA v. Kinney",
+  "case_info_full_case_name": "USA v. Kinney",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kinney",
+  "case_date_filed": "2016-12-20",
+  "case_status": "Closed",
+  "case_status_date": "07/17/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher Kinney",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252(a)(2) Receipt of child pornography(1s)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the Bureau of Prisons for a term of 97 months followed by 7 years supervised release on Count 1 of the Superseding Information. Fine waived. Special assessment fee of $100 is imposed. Restitution ordered in the amount of $3,000.00. Court recommends to Bureau of Prisons that defendant be placed in a facility close to where his family resides in Elk Grove, CA. See Judgment for special conditions."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2251(a) and (e) Conspiracy to Produce Visual Depictions of Minors Engaging in Sexually Explicit Conduct(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2251(a) and (e) Conspiracy to produce visual depictions of minors engaging in sexually explicit conduct"
+        },
+        {
+          "charge_offence_description": "18:2251(a) and (e) Conspiracy to produce visual de"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Edward M. Chen",
+          "judge_guid": "urn:entity:jud-100049097"
+        }
+      ]
+    }
+  ]
+}

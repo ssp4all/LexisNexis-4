@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_306cr20_NCWD",
+  "case_key": "3:06cr20_NCWD",
+  "case_lni": "7WBN-H8B0-Y892-B0R4-00000-00",
+  "case_number": "3:06cr20",
+  "case_title": "USA v. Gause",
+  "case_info_full_case_name": "USA v. Gause",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gause",
+  "case_date_filed": "2006-01-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AUSA Keith Michael Cave",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Jenny Grus Sugar",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Little Waddell Gause",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "71 mos. imp. + 3 yr SRT + $100 assess + CAC. Revocation judgment: Time Served + 1 yr SRT"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(3)"
+        },
+        {
+          "charge_disposition": "71 mos. imp. conc. + 3 yr SRT conc + $100 assess"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert J. Conrad, Jr",
+          "judge_guid": "urn:entity:jud-100096077"
+        }
+      ]
+    }
+  ]
+}

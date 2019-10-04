@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_196cr773_hid",
+  "case_key": "1:96cr773_hid",
+  "case_lni": "7WBN-F630-Y892-B2MB-00000-00",
+  "case_number": "1:96cr773",
+  "case_title": "USA v. Melton",
+  "case_info_full_case_name": "USA v. Melton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Melton",
+  "case_date_filed": "1996-08-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LADONNA V. MELTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 286-133 vehicle-06/25/96 1"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER-HRS 286-133 Authorize an unlicensed person to drive a motor vehicle-06/25/96 LLL CT 1 (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge"
+        }
+      ]
+    }
+  ]
+}

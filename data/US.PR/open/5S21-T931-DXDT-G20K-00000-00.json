@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_318mj506_PRD",
+  "case_key": "3:18mj506_PRD",
+  "case_lni": "5S21-T931-DXDT-G20K-00000-00",
+  "case_number": "3:18mj506",
+  "case_title": "USA v. Reyes-Pache",
+  "case_info_full_case_name": "USA v. Reyes-Pache",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes-Pache",
+  "case_date_filed": "2018-03-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sean R. Gajewski",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Angel Reyes-Pache",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) Reentry of deported aliens"
+        },
+        {
+          "charge_offence_description": "8:1326(a) Reentry of deported aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Bruce J. McGiverin",
+          "judge_guid": "urn:entity:jud-100009312"
+        }
+      ]
+    },
+    {
+      "party_description": "Interested Party"
+    }
+  ]
+}

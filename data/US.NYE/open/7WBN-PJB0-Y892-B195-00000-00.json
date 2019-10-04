@@ -1,0 +1,102 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_101cr1350_nyed",
+  "case_key": "1:01cr1350_nyed",
+  "case_lni": "7WBN-PJB0-Y892-B195-00000-00",
+  "case_number": "1:01cr1350",
+  "case_title": "USA v. Barona-Miranda",
+  "case_info_full_case_name": "USA v. Barona-Miranda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barona-Miranda",
+  "case_date_filed": "2001-12-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Caren M. Myers, Esq. Brooklyn,  11201",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROSA HELENA BARONA-MIRANDA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841 (b) (1) (B) (i); 18USCs 3551"
+        },
+        {
+          "charge_description": "21:846 and 841 (b) (1) (B) (i); Title 18, U.S.C., Sections 3551 et seq.-CONSPIRACY TO POSSESS NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 (a) (1) 841 (b) (1) (B) (i); 18USCs 2 3551"
+        },
+        {
+          "charge_description": "21:841 (a) (1) and 841 (b) (1) (B) (i); Title 18, U.S.C., Sections 2 and 3551 et seq.-NARCOTICS-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USCsec. 846-defts"
+        },
+        {
+          "charge_description": "21 U.S.C. sec. 846-defts did knowingly and intentionally conspire to distribute and possess with intent to distribute heroin. [1:01-m-1656]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David G. Trager",
+          "judge_guid": "urn:entity:jud-100023866"
+        }
+      ]
+    },
+    {
+      "party_name": "MARIA ALICIA ROSA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841 (b) (1) (B) (i); 18USCs 3551"
+        },
+        {
+          "charge_description": "21:846 and 841 (b) (1) (B) (i); Title 18, U.S.C., Sections 3551 et seq.-CONSPIRACY TO POSSESS NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841 (a) (1) 841 (b) (1) (B) (i); 18USCs 2 3551"
+        },
+        {
+          "charge_description": "21:841 (a) (1) and 841 (b) (1) (B) (i); Title 18, U.S.C., Sections 2 and 3551 et seq.-NARCOTICS-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USCsec. 846-defts"
+        },
+        {
+          "charge_description": "21 U.S.C. sec. 846-defts did knowingly and intentionally conspire to distribute and possess with intent to distribute heroin. [1:01-m-1656]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David G. Trager",
+          "judge_guid": "urn:entity:jud-100023866"
+        }
+      ]
+    }
+  ]
+}

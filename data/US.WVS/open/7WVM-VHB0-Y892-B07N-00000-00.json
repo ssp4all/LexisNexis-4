@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_509mj115_WVSD",
+  "case_key": "5:09mj115_WVSD",
+  "case_lni": "7WVM-VHB0-Y892-B07N-00000-00",
+  "case_number": "5:09mj115",
+  "case_title": "United States of America v. Hodge",
+  "case_info_full_case_name": "United States of America v. Hodge",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Hodge",
+  "case_date_filed": "2009-10-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Angela Sue Hodge",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2, 21USC841(a)(1) 21USC841(b)(a)(C)"
+        },
+        {
+          "charge_description": "18 USC Section 2, AIDING and ABETTING; 21 USC Section 841(a)(1) DISTRIBUTE of Cocaine Base, a/k/a\"Crack\", a Schedule II controlled substance; 21 USC Section 841(b)(a)(C) DISTRIBUTE of Cocaine Base, a/k/a\"Crack\", a Schedule II controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Clarke VanDervort",
+          "judge_guid": "urn:entity:jud-100000222"
+        }
+      ]
+    }
+  ]
+}

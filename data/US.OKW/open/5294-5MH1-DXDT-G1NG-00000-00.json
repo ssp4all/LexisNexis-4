@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_511mj1033_OKWD",
+  "case_key": "5:11mj1033_OKWD",
+  "case_lni": "5294-5MH1-DXDT-G1NG-00000-00",
+  "case_number": "5:11mj1033",
+  "case_title": "United States of America v. Colyer",
+  "case_info_full_case_name": "United States of America v. Colyer",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Colyer",
+  "case_date_filed": "2011-03-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Doyle W Colyer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "50CFR27.82b2"
+        },
+        {
+          "charge_description": "NATIONAL WILDLIFE REFUGE SYSTEM: Poss of MJ on NWR 50CFR 27.82b2 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Shon T. Erwin",
+          "judge_guid": "urn:entity:jud-100007099"
+        }
+      ]
+    }
+  ]
+}

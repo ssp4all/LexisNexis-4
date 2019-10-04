@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_216cr499_NJD",
+  "case_key": "2:16cr499_NJD",
+  "case_lni": "5M2G-VY51-DXDT-G2R5-00000-00",
+  "case_number": "2:16cr499",
+  "case_title": "USA v. HARRISON",
+  "case_info_full_case_name": "USA v. HARRISON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "HARRISON",
+  "case_date_filed": "2016-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMILL HARRISON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (dof 9/2015-12/2015)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F Distribution, and Possession With Intent to Distribute, Cocaine Base"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F Distribution, and Possession With Int"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Madeline C. Arleo",
+          "judge_guid": "urn:entity:jud-100045665"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_402m4214_azd",
+  "case_key": "4:02m4214_azd",
+  "case_lni": "7WBN-HJD0-Y892-B2NK-00000-00",
+  "case_number": "4:02m4214",
+  "case_title": "USA, et al v. Ayon-Lopez",
+  "case_info_full_case_name": "USA, et al v. Ayon-Lopez",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Ayon-Lopez",
+  "case_date_filed": "2002-11-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA DEL SOCORRO AYON-LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "CT1:31:5316"
+        },
+        {
+          "charge_description": "CT1:31:5316 Transported Monetary Instruments of more than ten thousand dollars at one time that is approximately $15,187.00 in United States Currency."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

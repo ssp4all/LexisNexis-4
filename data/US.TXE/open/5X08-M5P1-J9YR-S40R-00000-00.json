@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_419cr221_TXED",
+  "case_key": "4:19cr221_TXED",
+  "case_lni": "5X08-M5P1-J9YR-S40R-00000-00",
+  "case_number": "4:19cr221",
+  "case_title": "USA v. Pyles",
+  "case_info_full_case_name": "USA v. Pyles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pyles",
+  "case_date_filed": "2019-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lesley Davis Brooks",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mykal Anthony Pyles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "POSSESSION OF A FIREARM BY A PROHIBITED PERSON(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Sean D. Jordan",
+          "judge_guid": "urn:entity:jud-500006965"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kimberly C Priest Johnson",
+          "judge_guid": "urn:entity:jud-100124536"
+        }
+      ]
+    }
+  ]
+}

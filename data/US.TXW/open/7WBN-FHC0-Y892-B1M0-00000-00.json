@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_301m491_txwd",
+  "case_key": "3:01m491_txwd",
+  "case_lni": "7WBN-FHC0-Y892-B1M0-00000-00",
+  "case_number": "3:01m491",
+  "case_title": "USA v. Eseberre",
+  "case_info_full_case_name": "USA v. Eseberre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Eseberre",
+  "case_date_filed": "2001-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE FRANCISCO ESEBERRE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "59.5"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 59.5 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

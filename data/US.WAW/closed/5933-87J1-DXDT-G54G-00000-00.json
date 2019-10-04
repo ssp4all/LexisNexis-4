@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_213cr249_WAWD",
+  "case_key": "2:13cr249_WAWD",
+  "case_lni": "5933-87J1-DXDT-G54G-00000-00",
+  "case_number": "2:13cr249",
+  "case_title": "USA v. Miller",
+  "case_info_full_case_name": "USA v. Miller",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miller",
+  "case_date_filed": "2013-08-08",
+  "case_status": "Closed",
+  "case_status_date": "09/19/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "J Patterson"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jimmy Gene Miller, Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) - Felon in Possession of a Firearm"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) - Felon in Possession of a Firearm"
+        },
+        {
+          "charge_description": "Felon in Possession of a Firearm 18:922(g)(1)"
+        },
+        {
+          "charge_disposition": "89 months in custody of the Bureau of Prisons, to run consecutively to the sentence imposed under Cause No. CR09-87RAJ; 3 years of supervised release with standard and special conditions as set forth in the Judgment; $100.00 special assessment; fine waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard A Jones",
+          "judge_guid": "urn:entity:jud-100050180"
+        }
+      ]
+    }
+  ]
+}

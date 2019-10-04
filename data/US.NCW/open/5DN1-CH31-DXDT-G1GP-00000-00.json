@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_314cr234_NCWD",
+  "case_key": "3:14cr234_NCWD",
+  "case_lni": "5DN1-CH31-DXDT-G1GP-00000-00",
+  "case_number": "3:14cr234",
+  "case_title": "USA v. Locklear",
+  "case_info_full_case_name": "USA v. Locklear",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Locklear",
+  "case_date_filed": "2014-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shelton Eugene Locklear",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) - POSSESSION OF A FIREARM BY CONVICTED FELON(1)"
+        },
+        {
+          "charge_disposition": "37 mos. imp + 2 yr SRT + $100 assess"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert J. Conrad, Jr",
+          "judge_guid": "urn:entity:jud-100096077"
+        }
+      ]
+    }
+  ]
+}

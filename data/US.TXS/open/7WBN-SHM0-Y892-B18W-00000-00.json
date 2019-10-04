@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_701cr446_txsd",
+  "case_key": "7:01cr446_txsd",
+  "case_lni": "7WBN-SHM0-Y892-B18W-00000-00",
+  "case_number": "7:01cr446",
+  "case_title": "USA v. Sandoval-Reyes",
+  "case_info_full_case_name": "USA v. Sandoval-Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval-Reyes",
+  "case_date_filed": "2001-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "McAllen Interpreter",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO SANDOVAL-REYES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8,USC1326(a) 1326(b); 6/3/01; 20"
+        },
+        {
+          "charge_description": "Unlawfully attempted to enter into the U.S. after being previously deported, excluded &; removed; Title 8, USC 1326(a) &; 1326(b); Offense date: 6/3/01; Penalty: Imprisonment for not more than 20 yrs and/or a fine not to exceed $250,000 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Re-entry after deportation [7:01-m-1806]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

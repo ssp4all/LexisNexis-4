@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VI_311mj51_VID",
+  "case_key": "3:11mj51_VID",
+  "case_lni": "56X0-63M1-DXDT-G2M8-00000-00",
+  "case_number": "3:11mj51",
+  "case_title": "USA v. McCartney",
+  "case_info_full_case_name": "USA v. McCartney",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCartney",
+  "case_date_filed": "2011-09-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kevin McCartney",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Curtis V Gomez",
+          "judge_guid": "urn:entity:jud-100126983"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ruth Miller",
+          "judge_guid": "urn:entity:jud-100087402"
+        }
+      ]
+    }
+  ]
+}

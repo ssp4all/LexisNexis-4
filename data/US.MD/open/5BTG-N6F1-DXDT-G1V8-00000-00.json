@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_814po2465_MDD",
+  "case_key": "8:14po2465_MDD",
+  "case_lni": "5BTG-N6F1-DXDT-G1V8-00000-00",
+  "case_number": "8:14po2465",
+  "case_title": "USA vs Depaulo",
+  "case_info_full_case_name": "USA vs Depaulo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Depaulo",
+  "case_date_filed": "2014-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Andrews Air Force Base",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nicholes A Depaulo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVER USING HANDS TO USE HANDHELD TELEPHONE WHILEMOTOR VEHICLE IS IN MOTION (SE (4168978)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B. Day",
+          "judge_guid": "urn:entity:jud-100057310"
+        }
+      ]
+    }
+  ]
+}

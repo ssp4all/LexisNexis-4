@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_505cr833_TXSD",
+  "case_key": "5:05cr833_TXSD",
+  "case_lni": "7WBN-NWW0-Y892-B3V2-00000-00",
+  "case_number": "5:05cr833",
+  "case_title": "USA v. Cruz-Reyes",
+  "case_info_full_case_name": "USA v. Cruz-Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cruz-Reyes",
+  "case_date_filed": "2005-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fausto Cruz-Reyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "0-3 $250,000, $100 1"
+        },
+        {
+          "charge_description": "IMPERSONATING CITIZEN OF THE U.S.-False representation to be a citizen of the U.S. PENALTY: 0-3 years, $250,000, $100 CVF; 1 year TSR (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(felony) 2 $250,000, $100 1"
+        },
+        {
+          "charge_description": "ILLEGAL ENTRY, CONCEALMENT OF FACTS-Illegal entry of alien (felony) PENALTY: 2 years and/or $250,000, $100 CVF, 1 year TSR (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:911.F-Impersonating 18:1001.F-Statement"
+        },
+        {
+          "charge_description": "18:911.F-Impersonating citizen of the U.S., 18:1001.F-Statement or entries generally"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

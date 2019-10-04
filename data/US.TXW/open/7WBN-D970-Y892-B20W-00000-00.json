@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_203m87_txwd",
+  "case_key": "2:03m87_txwd",
+  "case_lni": "7WBN-D970-Y892-B20W-00000-00",
+  "case_number": "2:03m87",
+  "case_title": "USA v. Morales Rodriguez",
+  "case_info_full_case_name": "USA v. Morales Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morales Rodriguez",
+  "case_date_filed": "2003-01-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PEDRO ALONSO MORALES RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326-illegal"
+        },
+        {
+          "charge_description": "8 USC 1326-illegal entry after deportation."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_509cr69_TXSD",
+  "case_key": "5:09cr69_TXSD",
+  "case_lni": "7WBN-DF70-Y892-B2G9-00000-00",
+  "case_number": "5:09cr69",
+  "case_title": "USA v. Macias-Macias",
+  "case_info_full_case_name": "USA v. Macias-Macias",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Macias-Macias",
+  "case_date_filed": "2009-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Alfredo Macias-Macias",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2 1"
+        },
+        {
+          "charge_description": "Illegal entry after deportation. Penalty: 2 Yrs and/or $250,000.00 Fine; $100 CVF; Not More Than 1 Yr SRT. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F--Reentry"
+        },
+        {
+          "charge_description": "8:1326A.F--Reentry of deported aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

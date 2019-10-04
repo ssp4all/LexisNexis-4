@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_304mj152_FLND",
+  "case_key": "3:04mj152_FLND",
+  "case_lni": "7WBN-FJK0-Y892-B0C8-00000-00",
+  "case_number": "3:04mj152",
+  "case_title": "USA v. BRANTLEY",
+  "case_info_full_case_name": "USA v. BRANTLEY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "BRANTLEY",
+  "case_date_filed": "2004-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BARBARA C BRANTLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER (Suspended License) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE JUDGE",
+          "judge_name": "MILES DAVIS",
+          "judge_guid": "urn:entity:jud-100045021"
+        }
+      ]
+    }
+  ]
+}

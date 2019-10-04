@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_118mj313_TXSD",
+  "case_key": "1:18mj313_TXSD",
+  "case_lni": "5RXY-SCB1-DXDT-G056-00000-00",
+  "case_number": "1:18mj313",
+  "case_title": "USA v. Hernandez",
+  "case_info_full_case_name": "USA v. Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez",
+  "case_date_filed": "2018-03-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Asst ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly conspired to export or send from the United States, or attempt to export or send from the United States, or receives, conceals, buys, sells, or in any manner facilitates the transportation, concealment, or sale of such merchandise, article or object, prior to exportation, knowing the same to be intended for the exportation contrary to any law or regulation of the United States, to wit: 1,000 rounds of 7.62 caliber ammunition; 18 USC 371 &; 554"
+        },
+        {
+          "charge_offence_description": "Knowingly conspired to export or send from the Uni"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ignacio Torteya, III",
+          "judge_guid": "urn:entity:jud-100021592"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_715cr49_VAWD",
+  "case_key": "7:15cr49_VAWD",
+  "case_lni": "5G4X-8HB1-DXDT-G3NM-00000-00",
+  "case_number": "7:15cr49",
+  "case_title": "USA v. Pearson",
+  "case_info_full_case_name": "USA v. Pearson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pearson",
+  "case_date_filed": "2015-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ronald Andrew Bassford",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kwamane Diamante-Vic Pearson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F -CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE - 21:841(a)(1) and (b)(1)(C) - Heroin - (5/6/15)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F - VIOLENT CRIME/DRUGS/MACHINE GUN - 18:924(c) - Possessed Firearm in Furtherance of a Drug Trafficking Crime (5/6/15)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=NP.F-Possession with the Intent to Distribute a Measureable Quanity of Heroin-Heroin-(5/6/2015); 18:924C.F-Possess a Firearm in the Furtherance of a Drug Trafficking Crime-(5/6/2015)"
+        },
+        {
+          "charge_offence_description": "21:841A=NP.F-Possession with the Intent to Distrib"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Elizabeth K. Dillon",
+          "judge_guid": "urn:entity:jud-100110947"
+        }
+      ]
+    }
+  ]
+}

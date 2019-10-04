@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416cr2318_AZD",
+  "case_key": "4:16cr2318_AZD",
+  "case_lni": "5MD6-FC91-DXDT-G40G-00000-00",
+  "case_number": "4:16cr2318",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2016-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arthur Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:111(a)(1) and (b) Assault on a Federal Officer(1-2)"
+        },
+        {
+          "charge_disposition": "Dismissed With Prejudice"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:111(a) and (b) Assault on a Federal Officer"
+        },
+        {
+          "charge_offence_description": "18:111(a) and (b) Assault on a Federal Officer"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James A Soto",
+          "judge_guid": "urn:entity:jud-100100197"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

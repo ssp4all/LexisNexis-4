@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_303cr2300_casd",
+  "case_key": "3:03cr2300_casd",
+  "case_lni": "7WBN-RN70-Y892-B0YW-00000-00",
+  "case_number": "3:03cr2300",
+  "case_title": "USA v. Urreau-Quintana",
+  "case_info_full_case_name": "USA v. Urreau-Quintana",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Urreau-Quintana",
+  "case_date_filed": "2003-08-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LORENZO URREAU-QUINTANA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325-Illegal (Misdemeanor)"
+        },
+        {
+          "charge_description": "8:1325-Illegal Entry (Misdemeanor) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1325-Illegal (Felony)"
+        },
+        {
+          "charge_description": "8:1325-Illegal Entry (Felony) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gordon Thompson, Jr.",
+          "judge_guid": "urn:entity:jud-100019100"
+        }
+      ]
+    }
+  ]
+}

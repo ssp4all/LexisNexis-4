@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_504m332_NCED",
+  "case_key": "5:04m332_NCED",
+  "case_lni": "7WBN-S9X0-Y892-B1M1-00000-00",
+  "case_number": "5:04m332",
+  "case_title": "USA v. Baker",
+  "case_info_full_case_name": "USA v. Baker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baker",
+  "case_date_filed": "2004-05-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALANNA DENISE BAKER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.M"
+        },
+        {
+          "charge_description": "18:641.M THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_disposition": "48 Hours Custody at FDC SeaTac self surrender at 9:30 Tuesday, 7/15/03, 0 fine $25.00 S/A w/in 30 days, One year Supervised Release by Western District of Washington (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William A. Webb",
+          "judge_guid": "urn:entity:jud-100023194"
+        }
+      ]
+    }
+  ]
+}

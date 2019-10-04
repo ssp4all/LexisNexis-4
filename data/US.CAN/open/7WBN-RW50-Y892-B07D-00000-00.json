@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_391m653_cand",
+  "case_key": "3:91m653_cand",
+  "case_lni": "7WBN-RW50-Y892-B07D-00000-00",
+  "case_number": "3:91m653",
+  "case_title": "USA v. Moore",
+  "case_info_full_case_name": "USA v. Moore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moore",
+  "case_date_filed": "1991-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL MOORE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 26:5861(d)"
+        },
+        {
+          "charge_description": "Criminal Complaint: 18:922(g)(1) &; 26:5861(d) Unlawfully possess a firearm."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    }
+  ]
+}

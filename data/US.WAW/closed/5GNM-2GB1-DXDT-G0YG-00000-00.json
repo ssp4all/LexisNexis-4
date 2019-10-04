@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_315cr5364_WAWD",
+  "case_key": "3:15cr5364_WAWD",
+  "case_lni": "5GNM-2GB1-DXDT-G0YG-00000-00",
+  "case_number": "3:15cr5364",
+  "case_title": "USA v. Morariu",
+  "case_info_full_case_name": "USA v. Morariu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morariu",
+  "case_date_filed": "2015-08-11",
+  "case_status": "Closed",
+  "case_status_date": "12/21/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marius C Morariu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Securities Fraud(1)"
+        },
+        {
+          "charge_disposition": "10 Months EHM; 3 Years Probation; $100 SPA; Corrected Judgment to be presented; appeal rights advised"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ronald B. Leighton",
+          "judge_guid": "urn:entity:jud-100030169"
+        }
+      ]
+    }
+  ]
+}

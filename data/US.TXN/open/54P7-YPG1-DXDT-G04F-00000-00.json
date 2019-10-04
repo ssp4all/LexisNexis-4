@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_212mj3_TXND",
+  "case_key": "2:12mj3_TXND",
+  "case_lni": "54P7-YPG1-DXDT-G04F-00000-00",
+  "case_number": "2:12mj3",
+  "case_title": "USA v. Carrasco",
+  "case_info_full_case_name": "USA v. Carrasco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carrasco",
+  "case_date_filed": "2012-01-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Vicki Carlene Lamberson-DOJ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Veronica Tenorio Carrasco",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952-Importation"
+        },
+        {
+          "charge_description": "21:952-Importation of a controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clinton E Averitte",
+          "judge_guid": "urn:entity:jud-100052428"
+        }
+      ]
+    }
+  ]
+}

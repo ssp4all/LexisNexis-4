@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_103cr480_mdd",
+  "case_key": "1:03cr480_mdd",
+  "case_lni": "7WBN-PM00-Y892-B3KR-00000-00",
+  "case_number": "1:03cr480",
+  "case_title": "USA v. Babb",
+  "case_info_full_case_name": "USA v. Babb",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Babb",
+  "case_date_filed": "2003-10-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Montrell Babb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION of a Controlled Substance with Intent to Distribute; 18:2 Aiding &; Abetting (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1)Felon"
+        },
+        {
+          "charge_description": "18:922(g)(1)Felon in Possession of Firearm (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William D Quarles Jr.",
+          "judge_guid": "urn:entity:jud-100031943"
+        }
+      ]
+    }
+  ]
+}

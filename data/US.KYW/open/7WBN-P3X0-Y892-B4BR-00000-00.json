@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_599m109_kywd",
+  "case_key": "5:99m109_kywd",
+  "case_lni": "7WBN-P3X0-Y892-B4BR-00000-00",
+  "case_number": "5:99m109",
+  "case_title": "USA v. Wood",
+  "case_info_full_case_name": "USA v. Wood",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wood",
+  "case_date_filed": "1999-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KIMBERLY A. WOOD",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "W. David King",
+          "judge_guid": "urn:entity:jud-100040342"
+        }
+      ]
+    }
+  ]
+}

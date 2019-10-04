@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416mj10720_AZD",
+  "case_key": "4:16mj10720_AZD",
+  "case_lni": "5K85-BW01-DXDT-G2G3-00000-00",
+  "case_number": "4:16mj10720",
+  "case_title": "USA v. Moreno-Cervantes",
+  "case_info_full_case_name": "USA v. Moreno-Cervantes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Cervantes",
+  "case_date_filed": "2016-07-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Julio Moreno-Cervantes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) Illegal Re Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) Illegal Re Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_816po2015_MDD",
+  "case_key": "8:16po2015_MDD",
+  "case_lni": "5JCV-63F1-DXDT-G3GM-00000-00",
+  "case_number": "8:16po2015",
+  "case_title": "USA vs Neal",
+  "case_info_full_case_name": "USA vs Neal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Neal",
+  "case_date_filed": "2016-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charlisa L Neal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "**VEHICLE REGISTRATION PLATE VIOLATION** (5098673)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVING VEH. ON HWY. WITH SUSPENDED REGISTRATION (5098672)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "FAILING TO SECURE CHILD UNDER AGE 8 IN CHILD SAFETY SEAT WHEN TRANSPORTING IN MO (4073286)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_916tp80029_FLSD",
+  "case_key": "9:16tp80029_FLSD",
+  "case_lni": "5KMB-Y4G1-DXDT-G200-00000-00",
+  "case_number": "9:16tp80029",
+  "case_title": "USA v. Pacheco",
+  "case_info_full_case_name": "USA v. Pacheco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pacheco",
+  "case_date_filed": "2016-09-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Noticing AUSA CR TP/SR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Jennifer C. Nucci",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph Costa Pacheco",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transfer of Jurisdiction - Supervised Release from Michigan Eastern : 18:2113(a)"
+        },
+        {
+          "charge_disposition": "FINAL JUDGMENT ON REVOCATION OF SUPERVISED RELEASE. Supervised release is modified to include specifics as to restitution payments. A11 previous conditions of supervised release remain in fu11 force and effect. The Petition DE [3] is withdrawn."
+        },
+        {
+          "charge_offence_description": "Transfer of Jurisdiction - Supervised Release from"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald M. Middlebrooks",
+          "judge_guid": "urn:entity:jud-100025893"
+        }
+      ]
+    }
+  ]
+}

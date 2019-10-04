@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_206m27_FLSD",
+  "case_key": "2:06m27_FLSD",
+  "case_lni": "7WBN-R7T0-Y892-B13W-00000-00",
+  "case_number": "2:06m27",
+  "case_title": "USA v. Martinez, et al",
+  "case_info_full_case_name": "USA v. Martinez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez, et al",
+  "case_date_filed": "2006-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "OSCAR MONTIEL MARTINEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:856(a)(1); 841(a)(1); 846"
+        },
+        {
+          "charge_description": "21:856(a)(1); 841(a)(1); and 846 Conspiracy to maintain a place to manufacture or distribute marijuana plants"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Frank J. Lynch",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    },
+    {
+      "party_name": "NELSON MARTINEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:856(a)(1); 841(a)(1); 846"
+        },
+        {
+          "charge_description": "21:856(a)(1); 841(a)(1); and 846 Conspiracy to maintain a place to manufacture or distribute marijuana plants"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Frank J. Lynch",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    },
+    {
+      "party_name": "YANET HERNANDEZ-MARICHAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:856(a)(1); 841(a)(1); 846"
+        },
+        {
+          "charge_description": "21:856(a)(1); 841(a)(1); and 846 Conspiracy to maintain a place to manufacture or distribute marijuana plants"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Frank J. Lynch",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    }
+  ]
+}

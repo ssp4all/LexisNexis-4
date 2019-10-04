@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_506mj1714_TXSD",
+  "case_key": "5:06mj1714_TXSD",
+  "case_lni": "7WBN-D3G0-Y892-B0XG-00000-00",
+  "case_number": "5:06mj1714",
+  "case_title": "USA v. Tanguma",
+  "case_info_full_case_name": "USA v. Tanguma",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tanguma",
+  "case_date_filed": "2006-10-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Jaime Tanguma",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

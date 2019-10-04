@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_400m1344_txsd",
+  "case_key": "4:00m1344_txsd",
+  "case_lni": "7WBN-S100-Y892-B21M-00000-00",
+  "case_number": "4:00m1344",
+  "case_title": "USA v. Harrell",
+  "case_info_full_case_name": "USA v. Harrell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harrell",
+  "case_date_filed": "2000-11-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Use or carry a firearm during a drug trafficking crime"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mary Milloy",
+          "judge_guid": "urn:entity:jud-100036121"
+        }
+      ]
+    }
+  ]
+}

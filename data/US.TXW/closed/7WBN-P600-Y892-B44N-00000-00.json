@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_606mj698_TXWD",
+  "case_key": "6:06mj698_TXWD",
+  "case_lni": "7WBN-P600-Y892-B44N-00000-00",
+  "case_number": "6:06mj698",
+  "case_title": "USA v. Bradley",
+  "case_info_full_case_name": "USA v. Bradley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bradley",
+  "case_date_filed": "2006-09-27",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tonya Bradley",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

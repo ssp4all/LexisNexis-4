@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_500cr20275_cand",
+  "case_key": "5:00cr20275_cand",
+  "case_lni": "7WBN-NS80-Y892-B4XX-00000-00",
+  "case_number": "5:00cr20275",
+  "case_title": "USA v. Cabrera-Morales",
+  "case_info_full_case_name": "USA v. Cabrera-Morales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cabrera-Morales",
+  "case_date_filed": "2000-09-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS DAVID CABRERA-MORALES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325"
+        },
+        {
+          "charge_description": "8:1325 Improper Entry by an Alien (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1325"
+        },
+        {
+          "charge_description": "8:1325 Improper Entry by an Alien-Subsequent offense (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8USC1326(b)(1)"
+        },
+        {
+          "charge_description": "Criminal complaint filed against defendant for violation of 8 USC 1326(b)(1) [5:00-m-251]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeremy Fogel",
+          "judge_guid": "urn:entity:jud-100087758"
+        }
+      ]
+    }
+  ]
+}

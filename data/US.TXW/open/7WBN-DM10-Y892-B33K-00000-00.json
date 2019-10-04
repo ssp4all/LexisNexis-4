@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_201m3396_txwd",
+  "case_key": "2:01m3396_txwd",
+  "case_lni": "7WBN-DM10-Y892-B33K-00000-00",
+  "case_number": "2:01m3396",
+  "case_title": "USA v. Orender",
+  "case_info_full_case_name": "USA v. Orender",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Orender",
+  "case_date_filed": "2001-11-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRADLEY S. ORENDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC952-importation 4"
+        },
+        {
+          "charge_description": "21 USC 952-importation of ninety pills of valium, a Schedule 4 Controlled Substance into the United States from Mexico."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

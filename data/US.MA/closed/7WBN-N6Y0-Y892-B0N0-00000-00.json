@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_398m603_mad",
+  "case_key": "3:98m603_mad",
+  "case_lni": "7WBN-N6Y0-Y892-B0N0-00000-00",
+  "case_number": "3:98m603",
+  "case_title": "USA, et al v. Cunningham, et al",
+  "case_info_full_case_name": "USA, et al v. Cunningham, et al",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Cunningham, et al",
+  "case_date_filed": "1998-01-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846"
+        },
+        {
+          "charge_description": "21 U.S.C. 846 Conspiracy to Distribute and Possession with intent to Distribute Marijuana, a Schedule I Controlled Substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Kenneth P. Neiman",
+          "judge_guid": "urn:entity:jud-100027587"
+        }
+      ]
+    },
+    {
+      "party_name": "KURT GOLDSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846"
+        },
+        {
+          "charge_description": "21 U.S.C. 846 Conspiracy to Distribute and Possession with intent to Distribute Marijuana, a Schedule I Controlled Substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Kenneth P. Neiman",
+          "judge_guid": "urn:entity:jud-100027587"
+        }
+      ]
+    }
+  ]
+}

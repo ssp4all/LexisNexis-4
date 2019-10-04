@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_002tp6037_flsd",
+  "case_key": "0:02tp6037_flsd",
+  "case_lni": "7WBN-DG50-Y892-B00W-00000-00",
+  "case_number": "0:02tp6037",
+  "case_title": "USA v. Belizaire",
+  "case_info_full_case_name": "USA v. Belizaire",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Belizaire",
+  "case_date_filed": "2002-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALLAN BELIZAIRE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William J. Zloch",
+          "judge_guid": "urn:entity:jud-100004856"
+        }
+      ]
+    }
+  ]
+}

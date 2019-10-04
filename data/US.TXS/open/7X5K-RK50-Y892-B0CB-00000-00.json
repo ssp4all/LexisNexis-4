@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_209cr979_TXSD",
+  "case_key": "2:09cr979_TXSD",
+  "case_lni": "7X5K-RK50-Y892-B0CB-00000-00",
+  "case_number": "2:09cr979",
+  "case_title": "USA v. Ortiz",
+  "case_info_full_case_name": "USA v. Ortiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortiz",
+  "case_date_filed": "2009-11-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Marshal - CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Ortiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F-BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John D. Rainey",
+          "judge_guid": "urn:entity:jud-100027752"
+        }
+      ]
+    }
+  ]
+}

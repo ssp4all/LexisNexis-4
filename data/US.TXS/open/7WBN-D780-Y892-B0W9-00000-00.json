@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_101m1377_txsd",
+  "case_key": "1:01m1377_txsd",
+  "case_lni": "7WBN-D780-Y892-B0W9-00000-00",
+  "case_number": "1:01m1377",
+  "case_title": "USA v. Serpas Amaya",
+  "case_info_full_case_name": "USA v. Serpas Amaya",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Serpas Amaya",
+  "case_date_filed": "2001-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HUGO SERPAS AMAYA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1325(a)(1)"
+        },
+        {
+          "charge_description": "8 USC 1325(a)(1) Unlawful entry into the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

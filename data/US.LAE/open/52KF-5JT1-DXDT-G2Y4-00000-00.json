@@ -1,0 +1,93 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_211cr82_LAED",
+  "case_key": "2:11cr82_LAED",
+  "case_lni": "52KF-5JT1-DXDT-G2Y4-00000-00",
+  "case_number": "2:11cr82",
+  "case_title": "USA v. Gravolet et al",
+  "case_info_full_case_name": "USA v. Gravolet et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gravolet et al",
+  "case_date_filed": "2011-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert C. Gravolet",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:703 50CFR20.24"
+        },
+        {
+          "charge_description": "16:703 &; 50 CFR 20.24 TAKING, KILLING, OR POSSESSING MIGRATORY BIRDS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "16:703 50CFR20.37"
+        },
+        {
+          "charge_description": "16:703 50 CFR 20.37 TAKING, KILLING, OR POSSESSING MIGRATORY BIRDS (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sally Shushan",
+          "judge_guid": "urn:entity:jud-100021085"
+        }
+      ]
+    },
+    {
+      "party_name": "Milton F. Hilbert III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:703 50CFR20.24"
+        },
+        {
+          "charge_description": "16:703 &; 50 CFR 20.24 TAKING, KILLING, OR POSSESSING MIGRATORY BIRDS (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "16:703 50CFR20.36"
+        },
+        {
+          "charge_description": "16:703 &; 50 CFR 20.36 TAKING, KILLING, OR POSSESSING MIGRATORY BIRDS (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sally Shushan",
+          "judge_guid": "urn:entity:jud-100021085"
+        }
+      ]
+    },
+    {
+      "party_name": "United States Fish & Wildlife Service",
+      "party_description": "Interested Party"
+    }
+  ]
+}

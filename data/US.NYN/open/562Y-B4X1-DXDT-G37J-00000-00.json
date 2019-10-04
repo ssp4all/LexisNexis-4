@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_712mj332_NYND",
+  "case_key": "7:12mj332_NYND",
+  "case_lni": "562Y-B4X1-DXDT-G37J-00000-00",
+  "case_number": "7:12mj332",
+  "case_title": "USA v. Lewandowicz",
+  "case_info_full_case_name": "USA v. Lewandowicz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewandowicz",
+  "case_date_filed": "2012-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bozena Lewandowicz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F-reentry"
+        },
+        {
+          "charge_description": "8:1326A.F-reentry of deported alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Larry A. Kudrle",
+          "judge_guid": "urn:entity:jud-100017769"
+        }
+      ]
+    }
+  ]
+}

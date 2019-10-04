@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_109mj342_TXSD",
+  "case_key": "1:09mj342_TXSD",
+  "case_lni": "7WBN-F4J0-Y892-B491-00000-00",
+  "case_number": "1:09mj342",
+  "case_title": "USA v. Rodriguez-Flores",
+  "case_info_full_case_name": "USA v. Rodriguez-Flores",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Flores",
+  "case_date_filed": "2009-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Angel Rodriguez-Flores",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "230.90 (509.05 1970, 21USC841(a)(1); 230.90 (509.05 1970,"
+        },
+        {
+          "charge_description": "Possession with intent to distribute approximately 230.90 kilograms (509.05 pounds) of marijuana, a Schedule I Controlled Substance Act of 1970, 21USC841(a)(1); Conspiracy with intent to distribute approximately 230.90 kilograms (509.05 pounds) of marijuana a Schedule I Controlled Substance Act of 1970, 21USC846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John R Froeschner",
+          "judge_guid": "urn:entity:jud-100016343"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_305cr66_NCWD",
+  "case_key": "3:05cr66_NCWD",
+  "case_lni": "7WBN-MRP0-Y892-B030-00000-00",
+  "case_number": "3:05cr66",
+  "case_title": "USA v. Mead",
+  "case_info_full_case_name": "USA v. Mead",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mead",
+  "case_date_filed": "2005-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Matthew Theodore Martens AUSA",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mark P. Mead",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "15:78F.F and 17:240.10b-5 REGISTRATION OF NATIONAL SECURITIES EXCHANGE(1)"
+        },
+        {
+          "charge_disposition": "$5 assess"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1030A.F FRAUD ACTIVITY CONNECTED WITH COMPUTERS(2)"
+        },
+        {
+          "charge_disposition": "2 yrs. Probation + 2 mos. home detention + $25 assess"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "REGISTRATION OF NATIONAL SECURITIES EXCHANGE(1s)"
+        },
+        {
+          "charge_disposition": "Dismisssed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78 REGISTRATION OF NATIONAL SECURITIES EXCHANGE(1ss)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD ACTIVITY CONNECTED WITH COMPUTERS(2s)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1030(a)(2)(A) FRAUD ACTIVITY CONNECTED WITH COMPUTERS(2ss)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Frank D. Whitney",
+          "judge_guid": "urn:entity:jud-100071610"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carl Horn, III",
+          "judge_guid": "urn:entity:jud-100094874"
+        }
+      ]
+    },
+    {
+      "party_name": "Michael J. Ricks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES(3s)"
+        },
+        {
+          "charge_disposition": "30 cosecutive weekends of intermiten confinement in the local jail to commence every Friday @ 10pm through Sunday @ 10pm. Defendant shall also serve 4 mos Home Detention w/out EMS; $100 Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Frank D. Whitney",
+          "judge_guid": "urn:entity:jud-100071610"
+        }
+      ]
+    },
+    {
+      "party_name": "John H. Woody",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 CONSPIRACY TO DEFRAUD THE UNITED STATES(3s)"
+        },
+        {
+          "charge_disposition": "2 mos impr; 2 yrs S/R with 4 mos Home Detention w/out EMS; $100 Assessment; Amended to change designation request"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Frank D. Whitney",
+          "judge_guid": "urn:entity:jud-100071610"
+        }
+      ]
+    },
+    {
+      "party_name": "Brian G. Paquette",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1505 OBSTRUCTION OF PROCEEDING BEFORE DEPARTMENTS/AGENCIES(4)"
+        },
+        {
+          "charge_disposition": "2 yrs Probation w/4 mos Home Detention w/out EMS; $100 Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Frank D. Whitney",
+          "judge_guid": "urn:entity:jud-100071610"
+        }
+      ]
+    }
+  ]
+}

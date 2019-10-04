@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_212cr133_ALMD",
+  "case_key": "2:12cr133_ALMD",
+  "case_lni": "569R-PS21-DXDT-G2TC-00000-00",
+  "case_number": "2:12cr133",
+  "case_title": "USA v. Bruce",
+  "case_info_full_case_name": "USA v. Bruce",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bruce",
+  "case_date_filed": "2012-08-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kirby C. Bruce",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1001"
+        },
+        {
+          "charge_description": "18:1001 FALSE STATEMENTS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "William Keith Watkins",
+          "judge_guid": "urn:entity:jud-100081962"
+        },
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Wallace Capel, Jr",
+          "judge_guid": "urn:entity:jud-100063359"
+        }
+      ]
+    }
+  ]
+}

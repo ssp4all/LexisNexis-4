@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_289cr373_txsd",
+  "case_key": "2:89cr373_txsd",
+  "case_lni": "7WBN-GY40-Y892-B02M-00000-00",
+  "case_number": "2:89cr373",
+  "case_title": "USA v. Fifield",
+  "case_info_full_case_name": "USA v. Fifield",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fifield",
+  "case_date_filed": "1989-09-14",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES H FIFIELD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16USC718 18USC3571(B)(6). 6"
+        },
+        {
+          "charge_description": "Took migratory waterfowl w/o a federal migratory bird hunting stamp in possession, 16 USC 718 and 18 USC 3571(B)(6). PENALTY: 6 months impr, $500 fine. (1)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "16USC703, 707(a), 50CFR, 20.71 18USC3571(b)(6). 6"
+        },
+        {
+          "charge_description": "Did possess migratory birds and took said birds w/o federal migratory-bird hunting and conservation stamp, 16 USC 703, 707(a), 50 CFR, 20.71 and 18 USC 3571(b)(6). PENALTY: 6 mos. impr, $500 fine. (2)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eduardo E. de Ases",
+          "judge_guid": "urn:entity:jud-100097729"
+        }
+      ]
+    }
+  ]
+}

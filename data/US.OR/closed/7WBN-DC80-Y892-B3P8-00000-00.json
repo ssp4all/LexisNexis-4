@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_394cr231_ord",
+  "case_key": "3:94cr231_ord",
+  "case_lni": "7WBN-DC80-Y892-B3P8-00000-00",
+  "case_number": "3:94cr231",
+  "case_title": "USA v. Weitzel",
+  "case_info_full_case_name": "USA v. Weitzel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Weitzel",
+  "case_date_filed": "1994-07-19",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEVEN WILLIAM WEITZEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1957(a)"
+        },
+        {
+          "charge_description": "18:1957(a) MONETARY TRANSACTION/MANUFACTURE OF CONTROLLED SUBSTANCE (Manufacture and Distribution of Marijuana) (1)"
+        },
+        {
+          "charge_disposition": "SENTENCING DATE: 3/27/95, PROBATION: 5 years, SPECIAL ASSESSMENT FEE: $50 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Helen J Frye",
+          "judge_guid": "urn:entity:jud-100004700"
+        }
+      ]
+    }
+  ]
+}

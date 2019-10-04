@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_613mj880_TXWD",
+  "case_key": "6:13mj880_TXWD",
+  "case_lni": "5PGM-DXN1-DXDT-G436-00000-00",
+  "case_number": "6:13mj880",
+  "case_title": "USA v. Al Ani",
+  "case_info_full_case_name": "USA v. Al Ani",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Al Ani",
+  "case_date_filed": "2013-11-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corinne M. Foley Petersen",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Wisam Q. Al Ani",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-3800.M; LARCENY AND THEFT, MISDEMEANOR OTHER; Theft(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_115po8050_MDD",
+  "case_key": "1:15po8050_MDD",
+  "case_lni": "5GV0-5531-DXDT-G40N-00000-00",
+  "case_number": "1:15po8050",
+  "case_title": "USA vs Salinasordonez",
+  "case_info_full_case_name": "USA vs Salinasordonez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salinasordonez",
+  "case_date_filed": "2015-09-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Meade",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ruben A Salinasordonez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING VEH. ON HWY. WITH SUSPENDED REGISTRATION (4245609)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Timothy J. Sullivan",
+          "judge_guid": "urn:entity:jud-100103554"
+        }
+      ]
+    }
+  ]
+}

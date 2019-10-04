@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_107cr217_VAED",
+  "case_key": "1:07cr217_VAED",
+  "case_lni": "7WBN-JR70-Y892-B03C-00000-00",
+  "case_number": "1:07cr217",
+  "case_title": "USA v. Paguada Pineda",
+  "case_info_full_case_name": "USA v. Paguada Pineda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Paguada Pineda",
+  "case_date_filed": "2007-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jared Strauss",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Humberto Paguada Pineda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a)"
+        },
+        {
+          "charge_description": "8 USC 1326(a) Illegal re-entry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Gerald Bruce Lee",
+          "judge_guid": "urn:entity:jud-100030236"
+        }
+      ]
+    }
+  ]
+}

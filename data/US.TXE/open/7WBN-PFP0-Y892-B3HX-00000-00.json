@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_909mj3_TXED",
+  "case_key": "9:09mj3_TXED",
+  "case_lni": "7WBN-PFP0-Y892-B3HX-00000-00",
+  "case_number": "9:09mj3",
+  "case_title": "USA v. Mitre-Moreno",
+  "case_info_full_case_name": "USA v. Mitre-Moreno",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mitre-Moreno",
+  "case_date_filed": "2009-03-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F Illegal rentry of alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Keith F. Giblin",
+          "judge_guid": "urn:entity:jud-100054769"
+        }
+      ]
+    }
+  ]
+}

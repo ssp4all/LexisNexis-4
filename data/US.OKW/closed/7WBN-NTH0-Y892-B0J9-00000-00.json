@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_501m1251_okwd",
+  "case_key": "5:01m1251_okwd",
+  "case_lni": "7WBN-NTH0-Y892-B0J9-00000-00",
+  "case_number": "5:01m1251",
+  "case_title": "USA v. Engler",
+  "case_info_full_case_name": "USA v. Engler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Engler",
+  "case_date_filed": "2001-11-15",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M"
+        },
+        {
+          "charge_description": "18:13-7210.M TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_disposition": "Defendant pleads nolo contendere to the amended charge of Driving while impaired and is sentenced to six months probation and ordered to pay a fine in the amount of 400.00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Shon T. Erwin",
+          "judge_guid": "urn:entity:jud-100007099"
+        }
+      ]
+    }
+  ]
+}

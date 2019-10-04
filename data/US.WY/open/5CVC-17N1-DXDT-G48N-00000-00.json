@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_214po640_WYD",
+  "case_key": "2:14po640_WYD",
+  "case_lni": "5CVC-17N1-DXDT-G48N-00000-00",
+  "case_number": "2:14po640",
+  "case_title": "USA vs Duke",
+  "case_info_full_case_name": "USA vs Duke",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Duke",
+  "case_date_filed": "2014-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Thomas Andrew Szott",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rebekah G Duke",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operate vehicle in violation of state law (F4110479)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Kelly H Rankin",
+          "judge_guid": "urn:entity:jud-100104788"
+        }
+      ]
+    }
+  ]
+}

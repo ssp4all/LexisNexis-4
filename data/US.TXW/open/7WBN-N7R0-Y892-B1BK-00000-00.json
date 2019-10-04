@@ -1,0 +1,141 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_399cr619_txwd",
+  "case_key": "3:99cr619_txwd",
+  "case_lni": "7WBN-N7R0-Y892-B1BK-00000-00",
+  "case_number": "3:99cr619",
+  "case_title": "USA v. Diaz De Leon",
+  "case_info_full_case_name": "USA v. Diaz De Leon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diaz De Leon",
+  "case_date_filed": "1999-04-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTINA ROBLES-DELGADO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:963=MD.F"
+        },
+        {
+          "charge_description": "21:963=MD.F ATTEMPT/CONSPIRACY-MARIJUANA-SELL/DISTRIBUTE/DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 952(1)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(1) [3:99-m-1210]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    },
+    {
+      "party_name": "MARIA EUGENIA DIAZ DE LEON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:963=MD.F"
+        },
+        {
+          "charge_description": "21:963=MD.F ATTEMPT/CONSPIRACY-MARIJUANA-SELL/DISTRIBUTE/DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 952(1)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(1) [3:99-m-1210]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    }
+  ]
+}

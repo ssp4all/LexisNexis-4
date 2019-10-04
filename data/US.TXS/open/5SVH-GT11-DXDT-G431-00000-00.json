@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_418mj1168_TXSD",
+  "case_key": "4:18mj1168_TXSD",
+  "case_lni": "5SVH-GT11-DXDT-G431-00000-00",
+  "case_number": "4:18mj1168",
+  "case_title": "USA v. Ambriz-Rodriguez",
+  "case_info_full_case_name": "USA v. Ambriz-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ambriz-Rodriguez",
+  "case_date_filed": "2018-07-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Luis Ambriz-Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CPID Cocaine, PID Cocaine, 21:846"
+        },
+        {
+          "charge_offence_description": "CPID Cocaine, PID Cocaine, 21:846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Christina A Bryan",
+          "judge_guid": "urn:entity:jud-500000490"
+        }
+      ]
+    }
+  ]
+}

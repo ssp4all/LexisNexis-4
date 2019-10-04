@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416po25260_AZD",
+  "case_key": "4:16po25260_AZD",
+  "case_lni": "5JX5-X481-DXDT-G4H0-00000-00",
+  "case_number": "4:16po25260",
+  "case_title": "USA v. Silva-Vital",
+  "case_info_full_case_name": "USA v. Silva-Vital",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Silva-Vital",
+  "case_date_filed": "2016-05-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Erik Silva-Vital",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

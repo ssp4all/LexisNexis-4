@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415po21738_AZD",
+  "case_key": "4:15po21738_AZD",
+  "case_lni": "5F8P-7D31-DXDT-G20W-00000-00",
+  "case_number": "4:15po21738",
+  "case_title": "USA v. Balbuena-Ramirez",
+  "case_info_full_case_name": "USA v. Balbuena-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Balbuena-Ramirez",
+  "case_date_filed": "2015-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wilbert L Rocker",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Orfelindo Balbuena-Ramirez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_398cr1191_txwd",
+  "case_key": "3:98cr1191_txwd",
+  "case_lni": "7WBN-N640-Y892-B36D-00000-00",
+  "case_number": "3:98cr1191",
+  "case_title": "USA v. De La Fuente Garrido",
+  "case_info_full_case_name": "USA v. De La Fuente Garrido",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Fuente Garrido",
+  "case_date_filed": "1998-09-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAYMUNDO DE LA FUENTE GARRIDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_disposition": "12 mos. and 1 day impr. and assessment of $100.00. 2 yrs. non-reporting supervised release. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=MD.F"
+        },
+        {
+          "charge_description": "21:841B=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE-POSSESSING WITH INTENT TO DISTRIBUTE A QUANTITY OF MARIHUANA (2)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 952(a)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and imporation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(a) [3:98-m-2649]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    }
+  ]
+}

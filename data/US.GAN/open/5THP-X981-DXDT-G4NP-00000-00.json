@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_102mj35_GAND",
+  "case_key": "1:02mj35_GAND",
+  "case_lni": "5THP-X981-DXDT-G4NP-00000-00",
+  "case_number": "1:02mj35",
+  "case_title": "USA v. Brathwaite",
+  "case_info_full_case_name": "USA v. Brathwaite",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brathwaite",
+  "case_date_filed": "2002-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oertlys Brathwaite",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1073 - Unlawful flight to avoid prosecution"
+        },
+        {
+          "charge_offence_description": "18:1073 - Unlawful flight to avoid prosecution"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Justin S. Anand",
+          "judge_guid": "urn:entity:jud-100100979"
+        }
+      ]
+    }
+  ]
+}

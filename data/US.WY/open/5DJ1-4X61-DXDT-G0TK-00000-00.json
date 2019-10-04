@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_214cr263_WYD",
+  "case_key": "2:14cr263_WYD",
+  "case_lni": "5DJ1-4X61-DXDT-G0TK-00000-00",
+  "case_number": "2:14cr263",
+  "case_title": "USA v. De La Cruz-Nieto",
+  "case_info_full_case_name": "USA v. De La Cruz-Nieto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Cruz-Nieto",
+  "case_date_filed": "2014-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Agustin De La Cruz-Nieto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIEN - FELONY(1)"
+        },
+        {
+          "charge_disposition": "Time Served plus up to 10 days, immediate deportation, fine and special assessment remitted."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 U.S.C. 1326(a)(1) and (2) - Illegal Re-Entry of Previously Deported Alien into the United States"
+        },
+        {
+          "charge_offence_description": "8 U.S.C. 1326(a)(1) and (2) - Illegal Re-Entry of "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Scott W Skavdahl",
+          "judge_guid": "urn:entity:jud-100018284"
+        }
+      ]
+    }
+  ]
+}

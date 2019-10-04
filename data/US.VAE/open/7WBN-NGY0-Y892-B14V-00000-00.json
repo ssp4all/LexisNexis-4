@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_407mj124_VAED",
+  "case_key": "4:07mj124_VAED",
+  "case_lni": "7WBN-NGY0-Y892-B14V-00000-00",
+  "case_number": "4:07mj124",
+  "case_title": "USA v. Gates",
+  "case_info_full_case_name": "USA v. Gates",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gates",
+  "case_date_filed": "2007-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joshua D. Gates",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18,USC7 13, 266 270(a)and (b)-Driving alcohol-2nd"
+        },
+        {
+          "charge_description": "Title 18, USC Sections 7 &; 13, Assimilating Code of Va, Section 266 and 270(a)and (b)-Driving under the influence of alcohol-2nd offense (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

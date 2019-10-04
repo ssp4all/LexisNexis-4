@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_417mj727_TXSD",
+  "case_key": "4:17mj727_TXSD",
+  "case_lni": "5NH9-2H81-DXDT-G0BF-00000-00",
+  "case_number": "4:17mj727",
+  "case_title": "USA v. Sealed Search Warrant",
+  "case_info_full_case_name": "USA v. Sealed Search Warrant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sealed Search Warrant",
+  "case_date_filed": "2017-05-09",
+  "case_status": "Closed",
+  "case_status_date": "05/09/2017",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sealed Search Warrant",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mary Milloy",
+          "judge_guid": "urn:entity:jud-100036121"
+        }
+      ]
+    }
+  ]
+}

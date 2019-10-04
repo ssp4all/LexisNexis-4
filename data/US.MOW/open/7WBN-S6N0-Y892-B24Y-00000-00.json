@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_494m220_mowd",
+  "case_key": "4:94m220_mowd",
+  "case_lni": "7WBN-S6N0-Y892-B24Y-00000-00",
+  "case_number": "4:94m220",
+  "case_title": "USA v. Vallery",
+  "case_info_full_case_name": "USA v. Vallery",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vallery",
+  "case_date_filed": "1994-12-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROOSEVELT VALLERY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "50 (\"crack\"),"
+        },
+        {
+          "charge_description": "The dft did knowingly and intentionally possess with intent to distribute a mixture of substance containing a detectable amount of cocaine base (\"crack\"), a Schedule II controlled substance, in an amount of 50 grams or more"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Robert E. Larsen",
+          "judge_guid": "urn:entity:jud-100035550"
+        }
+      ]
+    }
+  ]
+}

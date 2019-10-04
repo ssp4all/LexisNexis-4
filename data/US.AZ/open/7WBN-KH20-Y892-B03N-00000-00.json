@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_202m6175_azd",
+  "case_key": "2:02m6175_azd",
+  "case_lni": "7WBN-KH20-Y892-B03N-00000-00",
+  "case_number": "2:02m6175",
+  "case_title": "USA, et al v. Raphael",
+  "case_info_full_case_name": "USA, et al v. Raphael",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Raphael",
+  "case_date_filed": "2002-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "IRIS RAPHAEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1111 1153"
+        },
+        {
+          "charge_description": "18:1111 and 1153 CIR-murder"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David K Duncan",
+          "judge_guid": "urn:entity:jud-100056902"
+        }
+      ]
+    }
+  ]
+}

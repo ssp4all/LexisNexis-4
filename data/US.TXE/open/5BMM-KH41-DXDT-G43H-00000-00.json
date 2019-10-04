@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_414cr36_TXED",
+  "case_key": "4:14cr36_TXED",
+  "case_lni": "5BMM-KH41-DXDT-G43H-00000-00",
+  "case_number": "4:14cr36",
+  "case_title": "USA v. Malaer",
+  "case_info_full_case_name": "USA v. Malaer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Malaer",
+  "case_date_filed": "2014-02-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jerry Don Malaer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A.F"
+        },
+        {
+          "charge_offence_description": "18:2252A.F"
+        },
+        {
+          "charge_description": "TRANSPORATION OF CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_disposition": "132 Months Imprisonment, 5 Years Supervised Release, Special Assessment $100, Fine $5,000, interest waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marcia A. Crone",
+          "judge_guid": "urn:entity:jud-100045517"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Don D. Bush",
+          "judge_guid": "urn:entity:jud-100060120"
+        }
+      ]
+    }
+  ]
+}

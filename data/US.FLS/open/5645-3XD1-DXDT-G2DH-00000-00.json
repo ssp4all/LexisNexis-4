@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_212cr14042_FLSD",
+  "case_key": "2:12cr14042_FLSD",
+  "case_lni": "5645-3XD1-DXDT-G2DH-00000-00",
+  "case_number": "2:12cr14042",
+  "case_title": "USA v. Vergara",
+  "case_info_full_case_name": "USA v. Vergara",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vergara",
+  "case_date_filed": "2012-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Pablo Barajas Vergara",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL REENTRY OF DEPORTED ALIEN(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F Illegal reentry of previously deported alien"
+        },
+        {
+          "charge_offence_description": "8:1326A.F Illegal reentry of previously deported a"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jose E. Martinez",
+          "judge_guid": "urn:entity:jud-100041490"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frank J. Lynch, Jr",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    }
+  ]
+}

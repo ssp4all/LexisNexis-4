@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_115po73_OHND",
+  "case_key": "1:15po73_OHND",
+  "case_lni": "5G5M-TX81-DXDT-G0BS-00000-00",
+  "case_number": "1:15po73",
+  "case_title": "United States of America vs Lewis",
+  "case_info_full_case_name": "United States of America vs Lewis",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "2015-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sherry A Lewis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RULES AND REGULATIONS FOR VA PROPERTY - PENALTIES (2274040)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Greg White",
+          "judge_guid": "urn:entity:jud-100017329"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_317po6537_WAWD",
+  "case_key": "3:17po6537_WAWD",
+  "case_lni": "5P88-7H81-DXDT-G54R-00000-00",
+  "case_number": "3:17po6537",
+  "case_title": "USA vs Brandt",
+  "case_info_full_case_name": "USA vs Brandt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brandt",
+  "case_date_filed": "2017-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kaylin N Brandt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving while license suspended or revoked - 3rd degree (7107056)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J Richard Creatura",
+          "judge_guid": "urn:entity:jud-100057943"
+        }
+      ]
+    }
+  ]
+}

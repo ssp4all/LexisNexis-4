@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_505m881_NCED",
+  "case_key": "5:05m881_NCED",
+  "case_lni": "7WBN-HW40-Y892-B1HM-00000-00",
+  "case_number": "5:05m881",
+  "case_title": "USA v. Parker",
+  "case_info_full_case_name": "USA v. Parker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parker",
+  "case_date_filed": "2005-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CLAYFORT PARKER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M 20-138.1"
+        },
+        {
+          "charge_description": "18:13-7210.M NCGS 20-138.1 DWI DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P 2: 20-146(d)(1) 3: 20-141.5(a) 4: 20-141(j)(1) 15mph"
+        },
+        {
+          "charge_description": "18:13-7220.P COUNT 2: NCGS 20-146(d)(1) Failure to maintain lane; COUNT 3: NCGS 20-141.5(a) Speeding to elude arrest; COUNT 4: NCGS 20-141(j)(1) speeding in excess of 15mph above fixed limits (2-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "CLAYFORT PARKER"
+        },
+        {
+          "charge_description": "defendant"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William T. Prince",
+          "judge_guid": "urn:entity:jud-100032063"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant"
+    }
+  ]
+}

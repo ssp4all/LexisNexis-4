@@ -1,0 +1,136 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_216cr12_MSSD",
+  "case_key": "2:16cr12_MSSD",
+  "case_lni": "5JT0-J7N1-DXDT-G51Y-00000-00",
+  "case_number": "2:16cr12",
+  "case_title": "USA v. Ziccardi et al",
+  "case_info_full_case_name": "USA v. Ziccardi et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ziccardi et al",
+  "case_date_filed": "2016-05-17",
+  "case_status": "Closed",
+  "case_status_date": "06/29/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Shundral Hobson Cole-Federal Gov",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Naomi Ziccardi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A1=MP.F"
+        },
+        {
+          "charge_offence_description": "21:841A1=MP.F"
+        },
+        {
+          "charge_description": "INTERSTATE &; FOREIGN TRAVEL OR TRANSPORTATION IN AID OF RACKETEERING ENTERPRISES(3)"
+        },
+        {
+          "charge_disposition": "60 months confinement with the Bureau of Prisons. 3 years supervised release. $3000.00 fine with interest waived. $100.00 Special Assessment. Defendant allowed to self-surrender."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE (AIDING &; ABETTING)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Keith Starrett",
+          "judge_guid": "urn:entity:jud-100071061"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John C. Gargiulo",
+          "judge_guid": "urn:entity:jud-100065284"
+        }
+      ]
+    },
+    {
+      "party_name": "Marlda Leticia Arellano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A1=MP.F"
+        },
+        {
+          "charge_offence_description": "21:841A1=MP.F"
+        },
+        {
+          "charge_description": "INTERSTATE &; FOREIGN TRAVEL OR TRANSPORTATION IN AID OF RACKETEERING ENTERPRISES(3)"
+        },
+        {
+          "charge_disposition": "60 Months confinement with the Bureau of Prisons. 3 years Supervised Release. $3000.00 Fine with Interest Waived.$100.00 Special Assessment. Defendant allowed to Self Surrender to designated facility within 72 hours of the designation but no more than 60 days from this date."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE (AIDING &; ABETTING)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Keith Starrett",
+          "judge_guid": "urn:entity:jud-100071061"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John C. Gargiulo",
+          "judge_guid": "urn:entity:jud-100065284"
+        }
+      ]
+    },
+    {
+      "party_name": "Probation ",
+      "party_description": "Interested Party"
+    }
+  ]
+}

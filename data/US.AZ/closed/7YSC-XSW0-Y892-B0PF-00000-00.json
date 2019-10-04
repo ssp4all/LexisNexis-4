@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_410po26869_AZD",
+  "case_key": "4:10po26869_AZD",
+  "case_lni": "7YSC-XSW0-Y892-B0PF-00000-00",
+  "case_number": "4:10po26869",
+  "case_title": "USA v. Cortes-Aguilar",
+  "case_info_full_case_name": "USA v. Cortes-Aguilar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cortes-Aguilar",
+  "case_date_filed": "2010-04-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wilbert L Rocker",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marco Antonio Cortes-Aguilar",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    }
+  ]
+}

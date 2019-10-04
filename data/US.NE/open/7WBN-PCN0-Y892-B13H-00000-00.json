@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_800m68_ned",
+  "case_key": "8:00m68_ned",
+  "case_lni": "7WBN-PCN0-Y892-B13H-00000-00",
+  "case_number": "8:00m68",
+  "case_title": "USA, et al v. Horne",
+  "case_info_full_case_name": "USA, et al v. Horne",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Horne",
+  "case_date_filed": "2000-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CASTER D. HORNE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:473"
+        },
+        {
+          "charge_description": "18:473 Deal in counterfeit obligations and securities"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen A. Jaudzemis",
+          "judge_guid": "urn:entity:jud-100033389"
+        }
+      ]
+    }
+  ]
+}

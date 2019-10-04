@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_706cr100_TXWD",
+  "case_key": "7:06cr100_TXWD",
+  "case_lni": "7WBN-P8V0-Y892-B55Y-00000-00",
+  "case_number": "7:06cr100",
+  "case_title": "USA v. Guerrero-Romero",
+  "case_info_full_case_name": "USA v. Guerrero-Romero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guerrero-Romero",
+  "case_date_filed": "2006-05-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jesus Guerrero-Romero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 21,USC841 (1)(1), 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE-defendant did possess with intent to distribtue 5 kilograms or more of cocaine in violation of Title 21, USC 841 (1)(1), 841(b)(1)(A) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=ND.F Five(5)"
+        },
+        {
+          "charge_description": "21:841B=ND.F Possession with intent to distribute Five(5) Kilos or more of a mixture and substance containing a detectabel amount of cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

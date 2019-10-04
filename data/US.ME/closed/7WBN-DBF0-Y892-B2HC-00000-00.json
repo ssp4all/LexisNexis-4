@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_296cr80_med",
+  "case_key": "2:96cr80_med",
+  "case_lni": "7WBN-DBF0-Y892-B2HC-00000-00",
+  "case_number": "2:96cr80",
+  "case_title": "USA v. HENSON",
+  "case_info_full_case_name": "USA v. HENSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "HENSON",
+  "case_date_filed": "1996-12-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KIRK A HENSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 924(e)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(e)(1) felon in possession of a firearm (1)"
+        },
+        {
+          "charge_disposition": "262 mos. imprisonment, 4 mos. supervised release, $100 special assessment due immediately (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "GENE CARTER",
+          "judge_guid": "urn:entity:jud-100063148"
+        }
+      ]
+    }
+  ]
+}

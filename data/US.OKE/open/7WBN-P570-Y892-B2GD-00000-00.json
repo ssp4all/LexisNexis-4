@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKE_603m126_oked",
+  "case_key": "6:03m126_oked",
+  "case_lni": "7WBN-P570-Y892-B2GD-00000-00",
+  "case_number": "6:03m126",
+  "case_title": "USA v. Gruber",
+  "case_info_full_case_name": "USA v. Gruber",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gruber",
+  "case_date_filed": "2003-12-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FREDERICK ALLEN GRUBER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 18:111(a) (b), 1114-Assault 2: 18:922(g)(1) 924(e)(1) 2-Felon 3: 18:924(c)(1)-Using"
+        },
+        {
+          "charge_description": "Count 1: 18:111(a) &; (b), and 1114-Assault of a Federal Officer Count 2: 18:922(g)(1) and 924(e)(1) &; 2-Felon in Possession of a Firearm Affecting Commerce Count 3: 18:924(c)(1)-Using and Carrying Firearm During and in Relation to, and Possession of a Firearm in Futherance of, a Crime of Violence"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Kimberly E. West",
+          "judge_guid": "urn:entity:jud-100053535"
+        }
+      ]
+    }
+  ]
+}

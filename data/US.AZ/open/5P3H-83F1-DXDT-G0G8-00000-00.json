@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417po25404_AZD",
+  "case_key": "4:17po25404_AZD",
+  "case_lni": "5P3H-83F1-DXDT-G0G8-00000-00",
+  "case_number": "4:17po25404",
+  "case_title": "USA v. Celis-Garcia",
+  "case_info_full_case_name": "USA v. Celis-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Celis-Garcia",
+  "case_date_filed": "2017-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aurelio Celis-Garcia",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

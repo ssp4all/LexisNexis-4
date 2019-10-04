@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_516po308_WYD",
+  "case_key": "5:16po308_WYD",
+  "case_lni": "5JXR-R8W1-DXDT-G1PM-00000-00",
+  "case_number": "5:16po308",
+  "case_title": "USA v. Neighbors",
+  "case_info_full_case_name": "USA v. Neighbors",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Neighbors",
+  "case_date_filed": "2016-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kelsey M. Neighbors",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Engage in fighting or threatening or in violent behavior (4660233)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

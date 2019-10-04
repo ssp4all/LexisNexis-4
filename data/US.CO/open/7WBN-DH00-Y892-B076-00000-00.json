@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_102cr447_cod",
+  "case_key": "1:02cr447_cod",
+  "case_lni": "7WBN-DH00-Y892-B076-00000-00",
+  "case_number": "1:02cr447",
+  "case_title": "USA v. Uwandu",
+  "case_info_full_case_name": "USA v. Uwandu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Uwandu",
+  "case_date_filed": "2002-09-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AUGUSTINE UWANDU",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:911.F"
+        },
+        {
+          "charge_description": "18:911.F IMPERSONATING CITIZEN OF THE U.S. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "18:1001.F STATEMENTS OR ENTRIES GENERALLY (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1621.F"
+        },
+        {
+          "charge_description": "18:1621.F PERJURY GENERALLY (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lewis T. Babcock",
+          "judge_guid": "urn:entity:jud-100070013"
+        }
+      ]
+    }
+  ]
+}

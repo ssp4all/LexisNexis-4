@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_799m2977_txsd",
+  "case_key": "7:99m2977_txsd",
+  "case_lni": "7WBN-SKM0-Y892-B16H-00000-00",
+  "case_number": "7:99m2977",
+  "case_title": "USA v. Inez-Pimentel",
+  "case_info_full_case_name": "USA v. Inez-Pimentel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Inez-Pimentel",
+  "case_date_filed": "1999-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE INEZ-PIMENTEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Unlawfully found in the U.S. after having been previously deported."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter Edward Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

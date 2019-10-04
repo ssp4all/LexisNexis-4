@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304m3683_TXWD",
+  "case_key": "3:04m3683_TXWD",
+  "case_lni": "7WBN-MPC0-Y892-B19P-00000-00",
+  "case_number": "3:04m3683",
+  "case_title": "USA v. Cruz-Rodriguez",
+  "case_info_full_case_name": "USA v. Cruz-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cruz-Rodriguez",
+  "case_date_filed": "2004-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NATALIA CRUZ-RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "117.7 21:841(a)(1)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approximately 117.7 pounds of marijuana in violation of 21:841(a)(1) and 952(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

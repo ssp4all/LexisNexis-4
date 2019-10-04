@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_215mj1041_NMD",
+  "case_key": "2:15mj1041_NMD",
+  "case_lni": "5FMP-GR51-DXDT-G4T9-00000-00",
+  "case_number": "2:15mj1041",
+  "case_title": "USA v. Mendoza-Espinoza et al",
+  "case_info_full_case_name": "USA v. Mendoza-Espinoza et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendoza-Espinoza et al",
+  "case_date_filed": "2015-03-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edwin Mendoza-Espinoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute 82.40 lbs. (37.38 Kilograms) of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Castillo-Salgado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute 82.40 lbs. (37.38 Kilograms) of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    },
+    {
+      "party_name": "Adrian Sanchez-Martin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute 82.40 lbs. (37.38 Kilograms) of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    }
+  ]
+}

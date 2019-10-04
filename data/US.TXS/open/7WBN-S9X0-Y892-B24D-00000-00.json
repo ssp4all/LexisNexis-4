@@ -1,0 +1,84 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_504m6514_TXSD",
+  "case_key": "5:04m6514_TXSD",
+  "case_lni": "7WBN-S9X0-Y892-B24D-00000-00",
+  "case_number": "5:04m6514",
+  "case_title": "USA v. Estrada-Morales, et al",
+  "case_info_full_case_name": "USA v. Estrada-Morales, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada-Morales, et al",
+  "case_date_filed": "2004-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SERGIO MORALES-MARTINEZ",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "RENE JAVIER MARTHEN-JUNCO",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "FREDDY ESTRADA-MORALES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "alien(s)"
+        },
+        {
+          "charge_description": "Knowingly did bring or attempt to bring said alien(s) for purpose of commercial advantage or private financial gain."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "PEDRO MARTINEZ-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "alien(s)"
+        },
+        {
+          "charge_description": "Knowingly did bring or attempt to bring said alien(s) for purpose of commercial advantage or private financial gain."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

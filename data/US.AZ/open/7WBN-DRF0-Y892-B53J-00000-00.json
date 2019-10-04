@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_302cr93_azd",
+  "case_key": "3:02cr93_azd",
+  "case_lni": "7WBN-DRF0-Y892-B53J-00000-00",
+  "case_number": "3:02cr93",
+  "case_title": "USA, et al v. Littlefish",
+  "case_info_full_case_name": "USA, et al v. Littlefish",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Littlefish",
+  "case_date_filed": "2002-01-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SINKA S LITTLEFISH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1152, 2241(c)-(CIR)"
+        },
+        {
+          "charge_description": "18:1152, 2241(c)-(CIR) Aggravated Sexual Abuse (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1152 2244(a)(1)-(CIR)"
+        },
+        {
+          "charge_description": "18:1152 and 2244(a)(1)-(CIR) Abusive Sexual Contact (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Paul G Rosenblatt",
+          "judge_guid": "urn:entity:jud-100001168"
+        }
+      ]
+    }
+  ]
+}

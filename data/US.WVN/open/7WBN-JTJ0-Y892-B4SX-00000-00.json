@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_108mj83_WVND",
+  "case_key": "1:08mj83_WVND",
+  "case_lni": "7WBN-JTJ0-Y892-B4SX-00000-00",
+  "case_number": "1:08mj83",
+  "case_title": "USA v. Fijardo-Fijardo",
+  "case_info_full_case_name": "USA v. Fijardo-Fijardo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fijardo-Fijardo",
+  "case_date_filed": "2008-10-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Silvio Fijardo-Fijardo",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_315mj450_CASD",
+  "case_key": "3:15mj450_CASD",
+  "case_lni": "5F8G-3NW1-DXDT-G0MG-00000-00",
+  "case_number": "3:15mj450",
+  "case_title": "USA v. Gonzalez-Baez",
+  "case_info_full_case_name": "USA v. Gonzalez-Baez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Baez",
+  "case_date_filed": "2015-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Manuel A Gonzalez-Baez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952, 960 - Importation of a Controlled Substance (Felony)"
+        },
+        {
+          "charge_offence_description": "21:952, 960 - Importation of a Controlled Substanc"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mitchell D. Dembin",
+          "judge_guid": "urn:entity:jud-100044786"
+        }
+      ]
+    }
+  ]
+}

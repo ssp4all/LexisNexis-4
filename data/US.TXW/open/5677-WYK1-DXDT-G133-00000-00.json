@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_612mj788_TXWD",
+  "case_key": "6:12mj788_TXWD",
+  "case_lni": "5677-WYK1-DXDT-G133-00000-00",
+  "case_number": "6:12mj788",
+  "case_title": "USA v. Tillman",
+  "case_info_full_case_name": "USA v. Tillman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tillman",
+  "case_date_filed": "2012-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Evan Conrad Riley Williams",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arthur Tillman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.P"
+        },
+        {
+          "charge_description": "18:13-7210.P TRAFFIC OFFENSES, DRUNKEN DRIVING--Driving Under the Influence of Alcohol by a Minor (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

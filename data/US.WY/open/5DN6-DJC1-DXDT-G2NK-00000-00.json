@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_514po1437_WYD",
+  "case_key": "5:14po1437_WYD",
+  "case_lni": "5DN6-DJC1-DXDT-G2NK-00000-00",
+  "case_number": "5:14po1437",
+  "case_title": "USA vs Gonchar",
+  "case_info_full_case_name": "USA vs Gonchar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonchar",
+  "case_date_filed": "2014-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Meita Gonchar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operate vehicle in excess of posted speed limit (4301747)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

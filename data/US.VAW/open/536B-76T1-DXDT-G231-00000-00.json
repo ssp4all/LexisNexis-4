@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_711mj206_VAWD",
+  "case_key": "7:11mj206_VAWD",
+  "case_lni": "536B-76T1-DXDT-G231-00000-00",
+  "case_number": "7:11mj206",
+  "case_title": "USA v. Berger",
+  "case_info_full_case_name": "USA v. Berger",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Berger",
+  "case_date_filed": "2011-06-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty Assistant - Roanoke",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar L. Berger",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Michael F. Urbanski",
+          "judge_guid": "urn:entity:jud-100000372"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_506mj5114_LAWD",
+  "case_key": "5:06mj5114_LAWD",
+  "case_lni": "7WBN-SBP0-Y892-B43W-00000-00",
+  "case_number": "5:06mj5114",
+  "case_title": "USA v. Turner",
+  "case_info_full_case_name": "USA v. Turner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Turner",
+  "case_date_filed": "2006-06-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roosevelt Turner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(A)(ii) 21:846-CONSPIRACY 21:841(a)(1), 846 853-CRIMINAL"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A)(ii) and 21:846-CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE-Conspiracy to distribute cocaine; 21:841(a)(1), 846 and 853-CRIMINAL FORFEITURES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark L Hornsby",
+          "judge_guid": "urn:entity:jud-100051199"
+        }
+      ]
+    }
+  ]
+}

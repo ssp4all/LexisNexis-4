@@ -1,0 +1,88 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_099m2949_flsd",
+  "case_key": "0:99m2949_flsd",
+  "case_lni": "7WBN-PH20-Y892-B396-00000-00",
+  "case_number": "0:99m2949",
+  "case_title": "USA v. Rodriguez, et al",
+  "case_info_full_case_name": "USA v. Rodriguez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez, et al",
+  "case_date_filed": "1999-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAMON RODRIGUEZ",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_description": "Possession with intent to distribute cocaine in violation of 21:841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "RENE HERRERA",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_description": "Possession with intent to distribute cocaine in violation of 21:841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "JUAN GRANADA",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_description": "Possession with intent to distribute cocaine in violation of 21:841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "RIGOBERTO CRUZ",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_description": "Possession with intent to distribute cocaine in violation of 21:841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    }
+  ]
+}

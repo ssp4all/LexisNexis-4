@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317po2302_CASD",
+  "case_key": "3:17po2302_CASD",
+  "case_lni": "5P9V-9GV1-DXDT-G0BM-00000-00",
+  "case_number": "3:17po2302",
+  "case_title": "USA vs Bueno",
+  "case_info_full_case_name": "USA vs Bueno",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bueno",
+  "case_date_filed": "2017-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "VA property - Parking in spaces posted reserved or in excess of posted time (6798285)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrew G. Schopler",
+          "judge_guid": "urn:entity:jud-100124731"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_111cr1596_NMD",
+  "case_key": "1:11cr1596_NMD",
+  "case_lni": "533B-NDJ1-DXDT-G2F1-00000-00",
+  "case_number": "1:11cr1596",
+  "case_title": "USA v. Trejo-Villalobos",
+  "case_info_full_case_name": "USA v. Trejo-Villalobos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trejo-Villalobos",
+  "case_date_filed": "2011-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Trejo-Villalobos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1) (2):"
+        },
+        {
+          "charge_description": "8:1326(a)(1) and (2): REENTRY OF A REMOVED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "John E. Conway",
+          "judge_guid": "urn:entity:jud-100049792"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_119mj17_CAED",
+  "case_key": "1:19mj17_CAED",
+  "case_lni": "5V8D-GYD1-DXDT-G03C-00000-00",
+  "case_number": "1:19mj17",
+  "case_title": "USA v. Rivera",
+  "case_info_full_case_name": "USA v. Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera",
+  "case_date_filed": "2019-01-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Pablo G Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:111(a)(1) ASSAULT ON FEDERAL OFFICER OR EMPLOYEE"
+        },
+        {
+          "charge_offence_description": "18:111(a)(1) ASSAULT ON FEDERAL OFFICER OR EMPLOYE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sheila K. Oberto",
+          "judge_guid": "urn:entity:jud-100025675"
+        }
+      ]
+    }
+  ]
+}

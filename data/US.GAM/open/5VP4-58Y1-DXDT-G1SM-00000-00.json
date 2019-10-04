@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_419po145_GAMD",
+  "case_key": "4:19po145_GAMD",
+  "case_lni": "5VP4-58Y1-DXDT-G1SM-00000-00",
+  "case_number": "4:19po145",
+  "case_title": "UNITED STATES OF AMERICA vs Thomas Jr",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA vs Thomas Jr",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "Thomas Jr",
+  "case_date_filed": "2019-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Elton C Thomas Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Speeding (7640790)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US",
+          "judge_guid": "urn:entity:geob-103081227"
+        }
+      ]
+    }
+  ]
+}

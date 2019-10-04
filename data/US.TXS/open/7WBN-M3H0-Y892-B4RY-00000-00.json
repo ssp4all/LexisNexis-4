@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_290cr270_txsd",
+  "case_key": "2:90cr270_txsd",
+  "case_lni": "7WBN-M3H0-Y892-B4RY-00000-00",
+  "case_number": "2:90cr270",
+  "case_title": "USA v. Gonzalez",
+  "case_info_full_case_name": "USA v. Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez",
+  "case_date_filed": "1990-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Mario Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC844(a). 1"
+        },
+        {
+          "charge_description": "Simple possession of l gram of cocaine, 21 USC 844(a). PENALTY: Up to 1 Yrs. and/or $100,000.00 fine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

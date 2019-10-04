@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_999cr52_mtd",
+  "case_key": "9:99cr52_mtd",
+  "case_lni": "7WBN-J5V0-Y892-B1S8-00000-00",
+  "case_number": "9:99cr52",
+  "case_title": "USA v. Kachadorian",
+  "case_info_full_case_name": "USA v. Kachadorian",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kachadorian",
+  "case_date_filed": "1999-12-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN KACHADORIAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Leif B. Erickson",
+          "judge_guid": "urn:entity:jud-100043552"
+        }
+      ]
+    }
+  ]
+}

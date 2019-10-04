@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_213sw106_CAED",
+  "case_key": "2:13sw106_CAED",
+  "case_lni": "57W9-PHS1-DXDT-G0RM-00000-00",
+  "case_number": "2:13sw106",
+  "case_title": "USA v. Compaq Computer, Model SR5610F, S/N CNX8331FCX et al",
+  "case_info_full_case_name": "USA v. Compaq Computer, Model SR5610F, S/N CNX8331FCX et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Compaq Computer, Model SR5610F, S/N CNX8331FCX et al",
+  "case_date_filed": "2013-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Compaq Computer, Model SR5610F, S/N CNX8331FCX",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carolyn K. Delaney",
+          "judge_guid": "urn:entity:jud-100009401"
+        }
+      ]
+    },
+    {
+      "party_name": "T-Mobile Alcatel Cellular Telephone, S/N CAB31C00001",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carolyn K. Delaney",
+          "judge_guid": "urn:entity:jud-100009401"
+        }
+      ]
+    },
+    {
+      "party_name": "LG Celular Telephone, Model VX9400, S/N 805KPLC0600176",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carolyn K. Delaney",
+          "judge_guid": "urn:entity:jud-100009401"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carolyn K. Delaney",
+          "judge_guid": "urn:entity:jud-100009401"
+        }
+      ]
+    },
+    {
+      "party_name": "Pirate's of the Caribbean DVD",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carolyn K. Delaney",
+          "judge_guid": "urn:entity:jud-100009401"
+        }
+      ]
+    }
+  ]
+}

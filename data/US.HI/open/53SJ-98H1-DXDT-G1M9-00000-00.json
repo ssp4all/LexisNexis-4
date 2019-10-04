@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_111cr905_HID",
+  "case_key": "1:11cr905_HID",
+  "case_lni": "53SJ-98H1-DXDT-G1M9-00000-00",
+  "case_number": "1:11cr905",
+  "case_title": "USA v. Tam",
+  "case_info_full_case_name": "USA v. Tam",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tam",
+  "case_date_filed": "2011-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Scott Tam",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:3; 36CFR2.32(a)(2), 2.35(b)(2)-Possession P0625397 H51-Marijuana"
+        },
+        {
+          "charge_description": "16:3; 36 CFR 2.32(a)(2), 2.35(b)(2)-Possession of a controlled substance, [6/12/10]; Cit.# P0625397 H51-Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "16:3; 36CFR2.32(a)(2), 2.35(b)(2)-Possession P0625697 H51-Prescription"
+        },
+        {
+          "charge_description": "16:3; 36 CFR 2.32(a)(2), 2.35(b)(2)-Possession of a controlled substance, [6/12/10]; Cit.# P0625697 H51-Prescription Rx (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "16:3; 36CFR2.32(a)(2), 2.35(b)(2)-Interfering P0625698 H51-Prescription"
+        },
+        {
+          "charge_description": "16:3; 36 CFR 2.32(a)(2), 2.35(b)(2)-Interfering with agency function, [6/12/10]; Cit.# P0625698 H51-Prescription Rx (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "KEVIN S.C. CHANG",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

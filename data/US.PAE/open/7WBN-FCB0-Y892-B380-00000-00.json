@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_208cr64_PAED",
+  "case_key": "2:08cr64_PAED",
+  "case_lni": "7WBN-FCB0-Y892-B380-00000-00",
+  "case_number": "2:08cr64",
+  "case_title": "COMMONWEALTH OF PENNA. v. BEY",
+  "case_info_full_case_name": "COMMONWEALTH OF PENNA. v. BEY",
+  "case_info_short_case_name": "COMMONWEALTH OF PENNA.",
+  "case_info_party1": "COMMONWEALTH OF PENNA.",
+  "case_info_party2": "BEY",
+  "case_date_filed": "2008-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "YAHANNA YISRAEL BEY DEFENDANT",
+      "charges": [
+        {
+          "charge_statute": "28:1442-REMOVAL"
+        },
+        {
+          "charge_description": "28:1442-REMOVAL FROM STATE COURT (PHILA. COUNTY) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "HONORABLE",
+          "judge_name": "JOHN P. FULLAM",
+          "judge_guid": "urn:entity:jud-100005828"
+        }
+      ]
+    }
+  ]
+}

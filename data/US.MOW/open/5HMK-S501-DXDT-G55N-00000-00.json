@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_415cr410_MOWD",
+  "case_key": "4:15cr410_MOWD",
+  "case_lni": "5HMK-S501-DXDT-G55N-00000-00",
+  "case_number": "4:15cr410",
+  "case_title": "USA v. Tennison",
+  "case_info_full_case_name": "USA v. Tennison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tennison",
+  "case_date_filed": "2015-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Adam Caine",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Vernon Tennison, Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "On or about November 21, 2015 in Jackson County, in the Western District of Missouri, and elsewhere, the defendant VERNON TENNISON JR. did knowingly, willfully, and unlawfully leave without permission and escape from custody at the Heartland Center for Behavioral Change, 1514 Campbell Street, Kansas City, Missouri, an institutional facility in which he was lawfully confined at the direction of the Attorney General by virtue of a judgment and commitment of the United States District Court for the Western District of Missouri, upon the conviction for the crime of Conspiracy to Distribute More than 50 Grams of Methamphetamine (Mixture and Substance) in violation of Title 21 United States Code, Sections 841(a)(1), (b)(1)(B), 846 and 851, Case no. 4:10-CR-00200-FJG-5. All in violation of Title 18, United States Code, Sections 751(a) and 4082."
+        },
+        {
+          "charge_offence_description": "On or about November 21, 2015 in Jackson County, i"
+        },
+        {
+          "charge_description": "PRISONER IN CUSTODY OF INSTITUTION OR OFFICER(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Howard F. Sachs",
+          "judge_guid": "urn:entity:jud-100031276"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sarah W. Hays",
+          "judge_guid": "urn:entity:jud-100052039"
+        }
+      ]
+    }
+  ]
+}

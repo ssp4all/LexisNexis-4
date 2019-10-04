@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_506cr113_NCED",
+  "case_key": "5:06cr113_NCED",
+  "case_lni": "7WBN-HW40-Y892-B2WJ-00000-00",
+  "case_number": "5:06cr113",
+  "case_title": "USA v. Walther",
+  "case_info_full_case_name": "USA v. Walther",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Walther",
+  "case_date_filed": "2006-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Barbara Ashley Cole",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Debra M. Walther",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:661"
+        },
+        {
+          "charge_description": "LARCENY PRIVSATE PROPERTY 18:661 (1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "15:1644"
+        },
+        {
+          "charge_description": "FRAUD 15:1644 (2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "LARCENY OF GOVERNMENT PROPERTY 18:641 (3s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:661.M"
+        },
+        {
+          "charge_description": "18:661.M LARCENY W/IN SPECIAL MARITIME JURISDICTION (1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Fox",
+          "judge_guid": "urn:entity:jud-100055471"
+        }
+      ]
+    }
+  ]
+}

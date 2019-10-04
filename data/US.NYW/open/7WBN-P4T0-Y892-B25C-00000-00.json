@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_600cr6133_nywd",
+  "case_key": "6:00cr6133_nywd",
+  "case_lni": "7WBN-P4T0-Y892-B25C-00000-00",
+  "case_number": "6:00cr6133",
+  "case_title": "USA v. Moot",
+  "case_info_full_case_name": "USA v. Moot",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moot",
+  "case_date_filed": "2000-10-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM SHAWN MOOT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:656.F"
+        },
+        {
+          "charge_description": "18:656.F THEFT/EMBEZZLEMENT/MISAPPLICA-TION BY BANK OFFICER (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior"
+        }
+      ]
+    }
+  ]
+}

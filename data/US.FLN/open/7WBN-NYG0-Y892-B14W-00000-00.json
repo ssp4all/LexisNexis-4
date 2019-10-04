@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_507mj18_FLND",
+  "case_key": "5:07mj18_FLND",
+  "case_lni": "7WBN-NYG0-Y892-B14W-00000-00",
+  "case_number": "5:07mj18",
+  "case_title": "USA v. KENNEDY",
+  "case_info_full_case_name": "USA v. KENNEDY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "KENNEDY",
+  "case_date_filed": "2007-02-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "ROSEMARY GILLIAM",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL R KENNEDY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FEDERAL STATUTES, OTHER: OPEN CONTAINER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "57/45"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER: SPEEDING 57/45 M.P.H. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE JUDGE",
+          "judge_name": "LARRY BODIFORD",
+          "judge_guid": "urn:entity:jud-100068675"
+        }
+      ]
+    }
+  ]
+}

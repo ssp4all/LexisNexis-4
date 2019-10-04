@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_215mj3789_NMD",
+  "case_key": "2:15mj3789_NMD",
+  "case_lni": "5H83-V731-DXDT-G1MP-00000-00",
+  "case_number": "2:15mj3789",
+  "case_title": "USA v. Celestino-Mendoza",
+  "case_info_full_case_name": "USA v. Celestino-Mendoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Celestino-Mendoza",
+  "case_date_filed": "2015-10-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Librado Celestino-Mendoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carmen E. Garza",
+          "judge_guid": "urn:entity:jud-100008901"
+        }
+      ]
+    }
+  ]
+}

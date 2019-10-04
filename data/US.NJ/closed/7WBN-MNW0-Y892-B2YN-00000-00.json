@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_304cr672_NJD",
+  "case_key": "3:04cr672_NJD",
+  "case_lni": "7WBN-MNW0-Y892-B2YN-00000-00",
+  "case_number": "3:04cr672",
+  "case_title": "USA v. TORRES",
+  "case_info_full_case_name": "USA v. TORRES",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "TORRES",
+  "case_date_filed": "2004-09-27",
+  "case_status": "Closed",
+  "case_status_date": "01/23/2006",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JILL S. ANDERSEN",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PRISCILLA TORRES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:963 - IMPORT/EXPORT A CONTROLLED SUBSTANCE - COCAINE(1)"
+        },
+        {
+          "charge_disposition": "Application for downward departure by goverment granted. Imprisonment: time served. Supervised Release: 5 yrs with special conditions. Fine: Waived, Special Assmt: $100. Dft advised of her right to appeal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Importation of a Controlled Substance"
+        },
+        {
+          "charge_offence_description": "Importation of a Controlled Substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anne E. Thompson",
+          "judge_guid": "urn:entity:jud-100019119"
+        }
+      ]
+    }
+  ]
+}

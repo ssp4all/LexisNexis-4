@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_315cr75_TNED",
+  "case_key": "3:15cr75_TNED",
+  "case_lni": "5G1C-P3H1-DXDT-G41P-00000-00",
+  "case_number": "3:15cr75",
+  "case_title": "USA v. Hopper (PLR2)",
+  "case_info_full_case_name": "USA v. Hopper (PLR2)",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hopper PLR2",
+  "case_date_filed": "2015-05-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jamon Dominick Hopper",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. ยง 922(g)(1)- Having previously been convicted in a  court of a crime punishable by a term of imprisonment exceeding one year, did knowingly possess, in and affecting commerce, a firearm.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Pamela L Reeves",
+          "judge_guid": "urn:entity:jud-100106604"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "H Bruce Guyton",
+          "judge_guid": "urn:entity:jud-100047706"
+        }
+      ]
+    }
+  ]
+}

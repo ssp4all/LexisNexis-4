@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_908cr753_SCD",
+  "case_key": "9:08cr753_SCD",
+  "case_lni": "7WBN-F0D0-Y892-B1TG-00000-00",
+  "case_number": "9:08cr753",
+  "case_title": "USA v. Lewis",
+  "case_info_full_case_name": "USA v. Lewis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "2008-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Stuart John Lewis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC844."
+        },
+        {
+          "charge_description": "MARIJUANA-POSSESSION: Did knowingly and unlawfully possess a controlled substance, to wit: marijuana; In violation of Title 21, United States Code, Section 844. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert S Carr",
+          "judge_guid": "urn:entity:jud-100049460"
+        }
+      ]
+    }
+  ]
+}

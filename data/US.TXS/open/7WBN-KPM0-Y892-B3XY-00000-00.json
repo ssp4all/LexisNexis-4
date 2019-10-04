@@ -1,0 +1,85 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_205mj23_TXSD",
+  "case_key": "2:05mj23_TXSD",
+  "case_lni": "7WBN-KPM0-Y892-B3XY-00000-00",
+  "case_number": "2:05mj23",
+  "case_title": "USA v. Whitley et al",
+  "case_info_full_case_name": "USA v. Whitley et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Whitley et al",
+  "case_date_filed": "2005-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Wilson Eugene Whitley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1324 (a)(1)(A)(ii) 1324(a)(1)(A)(v)(II),"
+        },
+        {
+          "charge_description": "Aiding and abetting, and assist one another, did unlawfully transport illegal undocumented migrants and move or transport said migrants within the United States in violation of 8USC 1324 (a)(1)(A)(ii) and 1324(a)(1)(A)(v)(II), 8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    },
+    {
+      "party_name": "Jesus Rodriguez-Advincula",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1324 (a)(1)(A)(ii) 1324(a)(1)(A)(v)(II),"
+        },
+        {
+          "charge_description": "Aiding and abetting, and assist one another, did unlawfully transport illegal undocumented migrants and move or transport said migrants within the United States in violation of 8USC 1324 (a)(1)(A)(ii) and 1324(a)(1)(A)(v)(II), 8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    },
+    {
+      "party_name": "Nelson Edid-Rodriguez",
+      "party_description": "material witness"
+    },
+    {
+      "party_name": "Jorge Jimenez-Gonzalez",
+      "party_description": "material witness"
+    },
+    {
+      "party_name": "Jesus Ines Bernal-Ramirez",
+      "party_description": "material witness"
+    }
+  ]
+}

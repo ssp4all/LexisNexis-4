@@ -1,0 +1,152 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_499cr291_moed",
+  "case_key": "4:99cr291_moed",
+  "case_lni": "7WBN-S880-Y892-B0R6-00000-00",
+  "case_number": "4:99cr291",
+  "case_title": "USA v. Hill, et al",
+  "case_info_full_case_name": "USA v. Hill, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hill, et al",
+  "case_date_filed": "1999-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALBERTA HILL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE COCAINE BASE (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE COCAINE BASE (1ss)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE (2s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE (2ss)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Carol E. Jackson",
+          "judge_guid": "urn:entity:jud-100033563"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "David D. Noce",
+          "judge_guid": "urn:entity:jud-100027370"
+        }
+      ]
+    },
+    {
+      "party_name": "DERRICK TERRY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE COCAINE BASE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE COCAINE BASE (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE (3s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "possess w/intent to distribut cocaine base aka crack cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Carol E. Jackson",
+          "judge_guid": "urn:entity:jud-100033563"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "David D. Noce",
+          "judge_guid": "urn:entity:jud-100027370"
+        }
+      ]
+    }
+  ]
+}

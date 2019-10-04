@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_291cr34_ohsd",
+  "case_key": "2:91cr34_ohsd",
+  "case_lni": "7WBN-M4C0-Y892-B2C9-00000-00",
+  "case_number": "2:91cr34",
+  "case_title": "USA v. Irby, et al",
+  "case_info_full_case_name": "USA v. Irby, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Irby, et al",
+  "case_date_filed": "1991-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY IRBY",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James L. Graham",
+          "judge_guid": "urn:entity:jud-100042537"
+        }
+      ]
+    },
+    {
+      "party_name": "MARVIN CAMMACK",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James L. Graham",
+          "judge_guid": "urn:entity:jud-100042537"
+        }
+      ]
+    }
+  ]
+}

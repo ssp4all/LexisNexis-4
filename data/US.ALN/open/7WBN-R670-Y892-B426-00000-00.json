@@ -1,0 +1,148 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_205cr226_ALND",
+  "case_key": "2:05cr226_ALND",
+  "case_lni": "7WBN-R670-Y892-B426-00000-00",
+  "case_number": "2:05cr226",
+  "case_title": "USA v. Crenshaw et al",
+  "case_info_full_case_name": "USA v. Crenshaw et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Crenshaw et al",
+  "case_date_filed": "2005-06-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "W Sander Callahan",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "George Arthur Crenshaw",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 81(b)(1)(B)CONSPIRACY"
+        },
+        {
+          "charge_description": "21:846 and 81(b)(1)(B)CONSPIRACY TO DISTRIBUTE NARCOTICS; Cocaine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956(a)(3)(A)and (a)(3)(B)MONEY"
+        },
+        {
+          "charge_description": "18:1956(a)(3)(A)and (a)(3)(B)MONEY LAUNDERING-CONTROLLED SUBSTANCE-SELL/DISTR/DISP (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:853(a)(1)and(a)(2)CRIMINAL"
+        },
+        {
+          "charge_description": "21:853(a)(1)and(a)(2)CRIMINAL FORFEITURES (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:982(a)(1)CRIMINAL"
+        },
+        {
+          "charge_description": "18:982(a)(1)CRIMINAL FORFEITURE (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "in violation of 21:841 and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Inge P Johnson",
+          "judge_guid": "urn:entity:jud-100050364"
+        },
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "John E Ott",
+          "judge_guid": "urn:entity:jud-100025291"
+        }
+      ]
+    },
+    {
+      "party_name": "Olvar Omar Grandes-Amador",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 81(b)(1)(B)CONSPIRACY"
+        },
+        {
+          "charge_description": "21:846 and 81(b)(1)(B)CONSPIRACY TO DISTRIBUTE NARCOTICS; Cocaine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:853(a)(1)and(a)(2)CRIMINAL"
+        },
+        {
+          "charge_description": "21:853(a)(1)and(a)(2)CRIMINAL FORFEITURES (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "in violation of 21:841 and 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Inge P Johnson",
+          "judge_guid": "urn:entity:jud-100050364"
+        },
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "John E Ott",
+          "judge_guid": "urn:entity:jud-100025291"
+        }
+      ]
+    }
+  ]
+}

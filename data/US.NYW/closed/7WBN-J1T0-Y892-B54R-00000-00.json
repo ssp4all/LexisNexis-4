@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_694cr6062_nywd",
+  "case_key": "6:94cr6062_nywd",
+  "case_lni": "7WBN-J1T0-Y892-B54R-00000-00",
+  "case_number": "6:94cr6062",
+  "case_title": "USA v. Armer",
+  "case_info_full_case_name": "USA v. Armer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Armer",
+  "case_date_filed": "1994-12-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Richard Resnick, AUSA",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES ARMER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113C.F"
+        },
+        {
+          "charge_description": "18:2113C.F ROBBERY, BANK (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to custody of Bureau of Prisons for 10 months, followed by 2 years supervised release with: standard conditions of release; defendant to commit no federal or state crimes; defendant not to possess any firearms or controlled substance; defendant to provide Probation with any requested financial information; defendant not to open any new credit lines or credit cards without court approval; defendant to participate in any drug/alcohol or mental health program if directed by Probation; defendant to maintain full time employment. Fine waived. Court imposes $50 mandatory penalty assessment. Court orders that restitution of $12,000 by completed within 5 years of defendant's release from prision, with defendant making monthly payments of $175. Court recommends that defendant be placed in correctional facility as close to Rochester, NY as possible. Defendant allowed to voluntarily surrender. All remaining counts are dismissed. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:4.F"
+        },
+        {
+          "charge_description": "18:4.F FEDERAL STATUTES, OTHER (2)"
+        },
+        {
+          "charge_disposition": "DISMISSED (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief"
+        },
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Kenneth R. Fisher",
+          "judge_guid": "urn:entity:jud-100055853"
+        }
+      ]
+    }
+  ]
+}

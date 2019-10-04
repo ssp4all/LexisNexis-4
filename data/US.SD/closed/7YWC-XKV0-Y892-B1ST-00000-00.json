@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_410cr40079_SDD",
+  "case_key": "4:10cr40079_SDD",
+  "case_lni": "7YWC-XKV0-Y892-B1ST-00000-00",
+  "case_number": "4:10cr40079",
+  "case_title": "USA v. Cordova-Bazquez",
+  "case_info_full_case_name": "USA v. Cordova-Bazquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cordova-Bazquez",
+  "case_date_filed": "2010-07-07",
+  "case_status": "Closed",
+  "case_status_date": "10/18/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aldo Cordova-Bazquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.C. § 1326(a) Illegal Reentry After Deportation(1)"
+        },
+        {
+          "charge_disposition": "five months' imprisonment; $100 special assessment remitted."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 U.S.C. § 1326(a)"
+        },
+        {
+          "charge_offence_description": "8 U.S.C. &#167; 1326(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Karen E. Schreier",
+          "judge_guid": "urn:entity:jud-100030778"
+        },
+        {
+          "judge_name": "US Magistrate Judge John E. Simko",
+          "judge_guid": "urn:entity:jud-100021002"
+        }
+      ]
+    }
+  ]
+}

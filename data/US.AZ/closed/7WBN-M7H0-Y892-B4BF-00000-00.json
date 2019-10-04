@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_295m1551_azd",
+  "case_key": "2:95m1551_azd",
+  "case_lni": "7WBN-M7H0-Y892-B4BF-00000-00",
+  "case_number": "2:95m1551",
+  "case_title": "USA v. Hernandez-Perez",
+  "case_info_full_case_name": "USA v. Hernandez-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Perez",
+  "case_date_filed": "1995-10-06",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EZEQUIEL HERNANDEZ-PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028(a)(4) (b)(3)"
+        },
+        {
+          "charge_description": "18:1028(a)(4) &; (b)(3) Poss False Documents (2)"
+        },
+        {
+          "charge_disposition": "sentenced to 25 days in jail, $25 SA (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1: 18:1546 2: 18:1028(a)(4) (b)(3)"
+        },
+        {
+          "charge_description": "Ct 1: 18:1546 Alien Attempt to Evade INS Laws by using a False ID; Ct 2: 18:1028(a)(4) &; (b)(3) Poss False ID"
+        },
+        {
+          "charge_disposition": "sentenced to 25 days in jail, $25 SA (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

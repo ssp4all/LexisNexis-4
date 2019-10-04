@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_103m57_mad",
+  "case_key": "1:03m57_mad",
+  "case_lni": "7WBN-JGT0-Y892-B32C-00000-00",
+  "case_number": "1:03m57",
+  "case_title": "USA, et al v. DeLarosa",
+  "case_info_full_case_name": "USA, et al v. DeLarosa",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "DeLarosa",
+  "case_date_filed": "2003-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BIENVENIDO DELAROSA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1542;"
+        },
+        {
+          "charge_description": "In Violation of Title 18 USC 1542; Making false statements on passport."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Lawrence P. Cohen",
+          "judge_guid": "urn:entity:jud-100062387"
+        }
+      ]
+    }
+  ]
+}

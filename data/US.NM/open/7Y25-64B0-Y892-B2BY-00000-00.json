@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_210cr670_NMD",
+  "case_key": "2:10cr670_NMD",
+  "case_lni": "7Y25-64B0-Y892-B2BY-00000-00",
+  "case_number": "2:10cr670",
+  "case_title": "USA v. Gallegos",
+  "case_info_full_case_name": "USA v. Gallegos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gallegos",
+  "case_date_filed": "2010-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Adam Gallegos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841 79 (35.9 21:952"
+        },
+        {
+          "charge_description": "21:841 Possession With Intent to Distribute 79 pounds (35.9 Kilos) of Marijuana &; 21:952 Marijuana-Import"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James A. Parker",
+          "judge_guid": "urn:entity:jud-100028418"
+        }
+      ]
+    }
+  ]
+}

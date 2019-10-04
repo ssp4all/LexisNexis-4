@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_203cr11_nyed",
+  "case_key": "2:03cr11_nyed",
+  "case_lni": "7WBN-KH20-Y892-B3KH-00000-00",
+  "case_number": "2:03cr11",
+  "case_title": "USA v. White",
+  "case_info_full_case_name": "USA v. White",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "White",
+  "case_date_filed": "2003-01-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THOMAS W. WHITE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1711.M 18:3551 2000 2002,"
+        },
+        {
+          "charge_description": "18:1711.M MISAPPROPRIATION OF POSTAL FUNDS &lt; $100 and 18:3551 et seq. In or about and between December, 2000 and May, 2002, as an employee of the United States Postal Service, converted money, used in th execution of his employment, to his own use. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC1711."
+        },
+        {
+          "charge_description": "18 USC 1711. As a Postal Service employee, Knowingly and willfully fail and refuse to account for and turn over to agents of the Postal Service, money and property, as required by law and regulations of the Postal Services, which came into his hands and was under his control under the color of his office, employment and service. [2:02-m-2181]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Arlene R. Lindsay",
+          "judge_guid": "urn:entity:jud-100080523"
+        }
+      ]
+    }
+  ]
+}

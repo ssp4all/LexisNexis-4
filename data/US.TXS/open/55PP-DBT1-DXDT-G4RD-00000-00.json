@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_512cr430_TXSD",
+  "case_key": "5:12cr430_TXSD",
+  "case_lni": "55PP-DBT1-DXDT-G4RD-00000-00",
+  "case_number": "5:12cr430",
+  "case_title": "USA v. Cervantes Vargas",
+  "case_info_full_case_name": "USA v. Cervantes Vargas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cervantes Vargas",
+  "case_date_filed": "2012-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dionicio Cervantes Vargas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "0-20 3"
+        },
+        {
+          "charge_description": "Illegal entry after deportation. Penalty: 0-20 yrs and/or $250,000.00 Fine, $100 CVF, Not more than 3 yrs SRT. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F----REENTRY"
+        },
+        {
+          "charge_description": "8:1326A.F----REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Diana Saldana",
+          "judge_guid": "urn:entity:jud-100059638"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_118po729_VAED",
+  "case_key": "1:18po729_VAED",
+  "case_lni": "5RXR-VM31-DXDT-G1X4-00000-00",
+  "case_number": "1:18po729",
+  "case_title": "USA v. Isaac",
+  "case_info_full_case_name": "USA v. Isaac",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Isaac",
+  "case_date_filed": "2018-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kierra S. Isaac",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MAIL ORDER DRUG PARAPHERNALIA (6676095)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FAILURE TO USE CHILD RESTRAINT (6676097)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

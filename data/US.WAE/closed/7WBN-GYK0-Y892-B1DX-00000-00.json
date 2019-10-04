@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_293cr247_waed",
+  "case_key": "2:93cr247_waed",
+  "case_lni": "7WBN-GYK0-Y892-B1DX-00000-00",
+  "case_number": "2:93cr247",
+  "case_title": "USA v. Christian, et al",
+  "case_info_full_case_name": "USA v. Christian, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Christian, et al",
+  "case_date_filed": "1993-09-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES FRANKLIN CHRISTIAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 80 100"
+        },
+        {
+          "charge_description": "21:841(a)(1) MANUFACTURE OF AT LEAST 80 BUT LESS THAN 100 MARIJUANA PLANTS (1s)"
+        },
+        {
+          "charge_disposition": "Impr 45 months; Supervised Release 3 yrs; Fine waived; S.A. $50.00; (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 145"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO MANUFACTURE APPROXIMATELY 145 MARIJUANA PLANTS (1)"
+        },
+        {
+          "charge_disposition": "U.S. Motion to dismiss indictment filed 9/21/93 is GRANTED; (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 18:2 145"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 18:2 MANUFACTURE OF APPROXIMATELY 145 MARIJUANA PLANTS (2)"
+        },
+        {
+          "charge_disposition": "U.S. Motion to dismiss indictment filed 9/21/93 is GRANTED; (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Wm. Fremming Nielsen",
+          "judge_guid": "urn:entity:jud-100027403"
+        }
+      ]
+    }
+  ]
+}

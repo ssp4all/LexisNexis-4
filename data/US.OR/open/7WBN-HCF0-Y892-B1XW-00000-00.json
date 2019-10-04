@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_390cr76_ord",
+  "case_key": "3:90cr76_ord",
+  "case_lni": "7WBN-HCF0-Y892-B1XW-00000-00",
+  "case_number": "3:90cr76",
+  "case_title": "USA v. Janac",
+  "case_info_full_case_name": "USA v. Janac",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Janac",
+  "case_date_filed": "1990-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charles W Stuckey",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN WALTER JANAC",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(B)(ii), 18USC2-dist 500 1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B)(ii), and 18 USC 2-dist of 500 grams or more of substance containing amt of cocaine, a sched ii controlled substance (count 1) (1)"
+        },
+        {
+          "charge_disposition": "SENTENCED 8/27/90. Dft committed to custody of Atty General or his authorized representative for confinement for minimum mandatory period of 5 yrs to be followed by a 4 yr Special Parole Term. Court views the dft as suitable for voluntary surrender. the dft is directed to rpt to an instit to be determined by the Bureau of Prisons on Oct, 29, 1990. Further ord dft shall pay a total spec assessment of $50.00 on Count 1 of the Information. sgd Re 8/29/90. m 8/31/90 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James A Redden",
+          "judge_guid": "urn:entity:jud-100015195"
+        }
+      ]
+    }
+  ]
+}

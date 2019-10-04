@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_100cr475_COD",
+  "case_key": "1:00cr475_COD",
+  "case_lni": "7WBN-PHY0-Y892-B0Y6-00000-00",
+  "case_number": "1:00cr475",
+  "case_title": "USA v. Cordova-Hernandez",
+  "case_info_full_case_name": "USA v. Cordova-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cordova-Hernandez",
+  "case_date_filed": "2000-10-31",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joseph T. Urbaniak, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mariana Cordova-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 500"
+        },
+        {
+          "charge_description": "21:841A=CD.F Possession with inent to distribute 500 grams or more of cocaine and aid and abet (1)"
+        },
+        {
+          "charge_disposition": "deft shall be impr. for 15 mos.; Court Recommends the BOP place the deft at FMC, Carswell, TX; 4 yrs. sup. rel.; $100 to CVF due immediately; deft remanded;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Walker D. Miller",
+          "judge_guid": "urn:entity:jud-100036141"
+        }
+      ]
+    }
+  ]
+}

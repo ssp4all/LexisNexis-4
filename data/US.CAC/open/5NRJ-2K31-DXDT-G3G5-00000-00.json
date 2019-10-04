@@ -1,0 +1,79 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_217cr338_CACD",
+  "case_key": "2:17cr338_CACD",
+  "case_lni": "5NRJ-2K31-DXDT-G3G5-00000-00",
+  "case_number": "2:17cr338",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2017-06-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anne Carley Palmer",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Enrique Alejandro Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1),(b)(1)(A)(viii) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1),(b)(1)(C)POSSESSION WITH INTENT TO DISTRIBUTE COCAINE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(a)(i)USING AND CARRYING A FIREARM DURING AND IN RELATION TO, AND POSSESSION OF A FIREARM IN FURTHERANCE OF, A DRUG TRAFFICKING CRIME(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) FELON IN POSSESSION OF FIREARM AND AMMUNITION(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:931(a) VIOLENT FELON IN POSSESSION OF BODY ARMOR(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Defendant in violation of 18:922(g)(1)"
+        },
+        {
+          "charge_offence_description": "Defendant in violation of 18:922(g)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

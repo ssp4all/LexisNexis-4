@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_500cr20008_cand",
+  "case_key": "5:00cr20008_cand",
+  "case_lni": "7WBN-HT10-Y892-B1N8-00000-00",
+  "case_number": "5:00cr20008",
+  "case_title": "USA v. Zepeda",
+  "case_info_full_case_name": "USA v. Zepeda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zepeda",
+  "case_date_filed": "2000-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA ZEPEDA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 Theft of Government Property (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "William L. Garrett",
+          "judge_guid": "urn:entity:jud-100055014"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_198cr292_hid",
+  "case_key": "1:98cr292_hid",
+  "case_lni": "7WBN-R0J0-Y892-B0M8-00000-00",
+  "case_number": "1:98cr292",
+  "case_title": "USA v. Malufau",
+  "case_info_full_case_name": "USA v. Malufau",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Malufau",
+  "case_date_filed": "1998-05-06",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANGELLA G. MALUFAU",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.F orders-10/08/96-07/28/97 1-7"
+        },
+        {
+          "charge_description": "18:641.F PUBLIC MONEY, PROPERTY OR RECORDS-postal money orders-10/08/96-07/28/97 CTS 1-7 (1)"
+        },
+        {
+          "charge_disposition": "ADJUDGED: 5 years probation upon the following special conditions: 1. That the deft not commit any federal, state or local; 2. That the deft not possess illegal controlled substances; 3. That the deft shall refrain from any unlawful use of a controlled substance. The deft shall submit to one drug test within 15 days of sentencing and at least two drug tests thereafter, as directed by the Probation Office (mandatory condition); 4. That the deft is prohibited from possessing a firearm as defined in 18 U.S.C. 921; 5. That the deft pay restitution of $2,185.00 to Brigham Young University-Hawaii Campus immediately and any remaining balacne on an installment basis at a rate of not less than 10 percent of her monthly gross income as directed by the Probation Office; 6. That the deft provide the Probation Office access to any requested financial information; SA: $100.00; (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Helen Gillmor",
+          "judge_guid": "urn:entity:jud-100054641"
+        }
+      ]
+    }
+  ]
+}

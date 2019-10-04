@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_410mj1023_TXWD",
+  "case_key": "4:10mj1023_TXWD",
+  "case_lni": "801D-K3N0-Y892-B4B5-00000-00",
+  "case_number": "4:10mj1023",
+  "case_title": "USA v. Parra-Medina",
+  "case_info_full_case_name": "USA v. Parra-Medina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parra-Medina",
+  "case_date_filed": "2010-07-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA Pecos",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ciro Parra-Medina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "B. Dwight Goains",
+          "judge_guid": "urn:entity:jud-100049003"
+        }
+      ]
+    }
+  ]
+}

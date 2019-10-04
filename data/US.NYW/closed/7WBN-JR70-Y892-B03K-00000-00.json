@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_107cr218_NYWD",
+  "case_key": "1:07cr218_NYWD",
+  "case_lni": "7WBN-JR70-Y892-B03K-00000-00",
+  "case_number": "1:07cr218",
+  "case_title": "USA v. Snyder",
+  "case_info_full_case_name": "USA v. Snyder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Snyder",
+  "case_date_filed": "2007-08-24",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Scott Snyder",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY TO TRAFFIC IN COUNTERFEIT CIGARETTES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "William M. Skretny",
+          "judge_guid": "urn:entity:jud-100020854"
+        }
+      ]
+    }
+  ]
+}

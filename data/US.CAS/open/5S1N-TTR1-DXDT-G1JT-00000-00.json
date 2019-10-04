@@ -1,0 +1,128 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr1721_CASD",
+  "case_key": "3:18cr1721_CASD",
+  "case_lni": "5S1N-TTR1-DXDT-G1JT-00000-00",
+  "case_number": "3:18cr1721",
+  "case_title": "USA v. Camacho Diaz et al",
+  "case_info_full_case_name": "USA v. Camacho Diaz et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Camacho Diaz et al",
+  "case_date_filed": "2018-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mark Christian Pfizenmayer",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ricardo Camacho Diaz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "46:70503; 8:1324(a)(1)(A)(i) - Possession of controlled substance with Intent to Distribute On Board a Vessel (Felony); Bringing in or Harboring Certain Aliens (Felony)"
+        },
+        {
+          "charge_offence_description": "46:70503; 8:1324(a)(1)(A)(i) - Possession of contr"
+        },
+        {
+          "charge_description": "21:955, 960 - Importation of Marijuana (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:955, 960 - Importation of Methamphetamine (Felony)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(i) - Bringing in Aliens and Aiding and Abetting(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael M. Anello",
+          "judge_guid": "urn:entity:jud-100074349"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Ramirez Medina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "46:70503; 8:1324(a)(1)(A)(i) - Possession of controlled substance with Intent to Distribute On Board a Vessel (Felony); Bringing in or Harboring Certain Aliens (Felony)"
+        },
+        {
+          "charge_offence_description": "46:70503; 8:1324(a)(1)(A)(i) - Possession of contr"
+        },
+        {
+          "charge_description": "21:955, 960 - Importation of Marijuana (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:955, 960 - Importation of Methamphetamine (Felony)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(i) - Bringing in Aliens and Aiding and Abetting(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael M. Anello",
+          "judge_guid": "urn:entity:jud-100074349"
+        }
+      ]
+    },
+    {
+      "party_name": "Brenda Perez Sandoval",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Raul Coelho Dos Santos",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Jose Aguirre Pineda",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Angel Rivera Rodriguez",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Jesus Diarte Quintero",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Ramon Coronel Felix",
+      "party_description": "Material Witness"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_211mj4023_WAED",
+  "case_key": "2:11mj4023_WAED",
+  "case_lni": "5216-DM41-DXDT-G004-00000-00",
+  "case_number": "2:11mj4023",
+  "case_title": "USA v. Melchor-Mendez",
+  "case_info_full_case_name": "USA v. Melchor-Mendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Melchor-Mendez",
+  "case_date_filed": "2011-01-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Constantino Melchor-Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1546(a)"
+        },
+        {
+          "charge_description": "18 USC 1546(a) POSSESSION OF FRAUDULENT IMMIGRATION DOCUMENT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James P. Hutton",
+          "judge_guid": "urn:entity:jud-100050822"
+        }
+      ]
+    }
+  ]
+}

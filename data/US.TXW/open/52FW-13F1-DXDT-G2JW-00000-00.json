@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_211mj2368_TXWD",
+  "case_key": "2:11mj2368_TXWD",
+  "case_lni": "52FW-13F1-DXDT-G2JW-00000-00",
+  "case_number": "2:11mj2368",
+  "case_title": "USA v. Ruiz De Julian",
+  "case_info_full_case_name": "USA v. Ruiz De Julian",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ruiz De Julian",
+  "case_date_filed": "2011-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Laura Ruiz De Julian",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31USC5332-Knowingly of$10,726"
+        },
+        {
+          "charge_description": "31 USC 5332-Knowingly attempted to export from the United States to the Republic of Mexico, a total of$10,726 U.S. currency contrary to the laws and regulations of the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Collis White",
+          "judge_guid": "urn:entity:jud-100022858"
+        }
+      ]
+    }
+  ]
+}

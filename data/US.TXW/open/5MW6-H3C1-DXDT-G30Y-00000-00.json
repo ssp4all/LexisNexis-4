@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_317mj664_TXWD",
+  "case_key": "3:17mj664_TXWD",
+  "case_lni": "5MW6-H3C1-DXDT-G30Y-00000-00",
+  "case_number": "3:17mj664",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2017-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ebelin Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A1=MP.F---Possession with Intent to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841A1=MP.F---Possession with Intent to Distribu"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Miguel A. Torres",
+          "judge_guid": "urn:entity:jud-100102919"
+        }
+      ]
+    }
+  ]
+}

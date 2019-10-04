@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_398m198_kywd",
+  "case_key": "3:98m198_kywd",
+  "case_lni": "7WBN-HGM0-Y892-B12V-00000-00",
+  "case_number": "3:98m198",
+  "case_title": "USA v. Hale",
+  "case_info_full_case_name": "USA v. Hale",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hale",
+  "case_date_filed": "1998-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DEVON HALE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 18:92(k)"
+        },
+        {
+          "charge_description": "21:846 and 18:92(k) CONSPIRE TO POSSESS W/INTENT TO DISTRIBUTE COCAINE; POSSESS FIREARM W/ALTERED SERIAL NO"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "C. Cleveland Gambill",
+          "judge_guid": "urn:entity:jud-100128638"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409mj5323_AZD",
+  "case_key": "4:09mj5323_AZD",
+  "case_lni": "7XCJ-KXT0-Y892-B03T-00000-00",
+  "case_number": "4:09mj5323",
+  "case_title": "USA v. Gallegos-Moreno et al",
+  "case_info_full_case_name": "USA v. Gallegos-Moreno et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gallegos-Moreno et al",
+  "case_date_filed": "2009-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Eduardo Gallegos-Moreno",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a), 960(a)(1) 960(b)(3)"
+        },
+        {
+          "charge_description": "21:952(a), 960(a)(1) &; 960(b)(3) Importation of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    },
+    {
+      "party_name": "Jesus Carrillo-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a), 960(a)(1) 960(b)(3)"
+        },
+        {
+          "charge_description": "21:952(a), 960(a)(1) &; 960(b)(3) Importation of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    }
+  ]
+}

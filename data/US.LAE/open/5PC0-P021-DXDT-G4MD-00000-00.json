@@ -1,0 +1,111 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_214cr69_LAED",
+  "case_key": "2:14cr69_LAED",
+  "case_lni": "5PC0-P021-DXDT-G4MD-00000-00",
+  "case_number": "2:14cr69",
+  "case_title": "USA v. Nyberg et al",
+  "case_info_full_case_name": "USA v. Nyberg et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nyberg et al",
+  "case_date_filed": "2014-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ryan Ernst Nyberg",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 KNOWINGLY AND INTENTIONALLY COMBINE CONSPIRE AND AGREE WITH EACH OTHER TO DISTRIBUTE AND POSSESS WITH THE INTENT TO DISTRIBUTE 500 GRAMS OR MORE OF A SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lance M Africk",
+          "judge_guid": "urn:entity:jud-100053116"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Daniel E. Knowles, III",
+          "judge_guid": "urn:entity:jud-100040144"
+        }
+      ]
+    },
+    {
+      "party_name": "Christopher Byron Fritchie",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846  KNOWINGLY AND INTENTIONALLY COMBINE CONSPIRE AND AGREE WITH EACH OTHER TO DISTRIBUTE AND POSSESS WITH THE INTENT TO DISTRIBUTE 50 GRAMS OR MORE OF A SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF METHAMPHETAMINE, A SCHEDULE II CONTROLLED SUBSTANCE(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 KNOWINGLY AND INTENTIONALLY COMBINE CONSPIRE AND AGREE WITH EACH OTHER TO DISTRIBUTE AND POSSESS WITH THE INTENT TO DISTRIBUTE 500 GRAMS OR MORE OF A SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lance M Africk",
+          "judge_guid": "urn:entity:jud-100053116"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Daniel E. Knowles, III",
+          "judge_guid": "urn:entity:jud-100040144"
+        }
+      ]
+    },
+    {
+      "party_name": "Naser Yousef Gheith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 KNOWINGLY AND INTENTIONALLY COMBINE, CONSPIRE AND AGREE WITH EACH OTHER TO DISTRIBUTE AND POSSESS WITH THE INTENT TO DISTRIBUTE 500 GRAMS OR MORE OF A SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_disposition": "Sentencing held 8/24/2017."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lance M Africk",
+          "judge_guid": "urn:entity:jud-100053116"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Daniel E. Knowles, III",
+          "judge_guid": "urn:entity:jud-100040144"
+        }
+      ]
+    }
+  ]
+}

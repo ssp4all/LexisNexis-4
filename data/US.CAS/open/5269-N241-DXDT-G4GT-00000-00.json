@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_311cr611_CASD",
+  "case_key": "3:11cr611_CASD",
+  "case_lni": "5269-N241-DXDT-G4GT-00000-00",
+  "case_number": "3:11cr611",
+  "case_title": "USA v. Soto",
+  "case_info_full_case_name": "USA v. Soto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Soto",
+  "case_date_filed": "2011-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mario Montana Soto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of a Controlled Substance"
+        },
+        {
+          "charge_statute": "21:952 960-Importation"
+        },
+        {
+          "charge_description": "21:952 and 960-Importation of Methamphetamine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis L. Sammartino",
+          "judge_guid": "urn:entity:jud-100055061"
+        }
+      ]
+    }
+  ]
+}

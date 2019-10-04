@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_108mj2050_OHND",
+  "case_key": "1:08mj2050_OHND",
+  "case_lni": "7WBN-G950-Y892-B3XP-00000-00",
+  "case_number": "1:08mj2050",
+  "case_title": "United States of America v. Gonzales",
+  "case_info_full_case_name": "United States of America v. Gonzales",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Gonzales",
+  "case_date_filed": "2008-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tommy Andres Gonzales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846, 841(a)(1), 841(b)(1)(A) 18 2:"
+        },
+        {
+          "charge_description": "21:846, 841(a)(1), 841(b)(1)(A) and 18 USA 2: possess with intent to distribute five kilograms or more of cocaine, a Schedule II controlled substance, and did conspire to distribute and to possess with intent to distribute five kilograms"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kenneth S. McHargh",
+          "judge_guid": "urn:entity:jud-100080519"
+        }
+      ]
+    }
+  ]
+}

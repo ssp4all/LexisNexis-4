@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_505mj541_TXSD",
+  "case_key": "5:05mj541_TXSD",
+  "case_lni": "7WBN-NX90-Y892-B1T7-00000-00",
+  "case_number": "5:05mj541",
+  "case_title": "USA v. Sosa et al",
+  "case_info_full_case_name": "USA v. Sosa et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sosa et al",
+  "case_date_filed": "2005-02-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Berta Evett Sosa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F bringing in and harboring aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    },
+    {
+      "party_name": "Clementina Aguilar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F bringing in and harboring aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    },
+    {
+      "party_name": "Marco Antonio Martinez-Martinez",
+      "party_description": "material witness"
+    }
+  ]
+}

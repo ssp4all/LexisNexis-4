@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_101m95_ncwd",
+  "case_key": "1:01m95_ncwd",
+  "case_lni": "7WBN-JCJ0-Y892-B0J9-00000-00",
+  "case_number": "1:01m95",
+  "case_title": "USA v. Hicks",
+  "case_info_full_case_name": "USA v. Hicks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hicks",
+  "case_date_filed": "2001-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THOMAS WOODHULL HICKS IV",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Manufacture"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Manufacture &; Dist marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Max O. Cogburn, Jr.",
+          "judge_guid": "urn:entity:jud-100048133"
+        }
+      ]
+    }
+  ]
+}

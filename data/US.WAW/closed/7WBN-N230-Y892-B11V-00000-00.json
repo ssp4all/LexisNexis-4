@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_392cr1771_wawd",
+  "case_key": "3:92cr1771_wawd",
+  "case_lni": "7WBN-N230-Y892-B11V-00000-00",
+  "case_number": "3:92cr1771",
+  "case_title": "USA v. Stieben",
+  "case_info_full_case_name": "USA v. Stieben",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stieben",
+  "case_date_filed": "1992-12-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Diana Lynne Fuller",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN L STIEBEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_disposition": "$250.00 fine by 5/21/93; 365 days w/364 days suspended-to serve on 2/27/93; AIS by 5/21/93; no related alcohol offenses w/in 1 yr (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER-speeding (2)"
+        },
+        {
+          "charge_disposition": "Govt moves to dismiss Ct II (speeding)-GRANTED (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Franklin D Burgess",
+          "judge_guid": "urn:entity:jud-100063796"
+        }
+      ]
+    }
+  ]
+}

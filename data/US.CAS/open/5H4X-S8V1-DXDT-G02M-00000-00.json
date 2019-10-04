@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_315cr2621_CASD",
+  "case_key": "3:15cr2621_CASD",
+  "case_lni": "5H4X-S8V1-DXDT-G02M-00000-00",
+  "case_number": "3:15cr2621",
+  "case_title": "USA v. Tadeo-Arayo",
+  "case_info_full_case_name": "USA v. Tadeo-Arayo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tadeo-Arayo",
+  "case_date_filed": "2015-10-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Tadeo-Arayo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326 - Deported Alien Found In The United States"
+        },
+        {
+          "charge_offence_description": "8:1326 - Deported Alien Found In The United States"
+        },
+        {
+          "charge_description": "8:1326(a) - Removed Alien Found in the United States (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey T. Miller",
+          "judge_guid": "urn:entity:jud-100025793"
+        }
+      ]
+    }
+  ]
+}

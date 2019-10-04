@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_413po21929_AZD",
+  "case_key": "4:13po21929_AZD",
+  "case_lni": "57RF-03H1-DXDT-G4S4-00000-00",
+  "case_number": "4:13po21929",
+  "case_title": "USA v. Leyva-Armenta",
+  "case_info_full_case_name": "USA v. Leyva-Armenta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leyva-Armenta",
+  "case_date_filed": "2013-02-12",
+  "case_status": "Closed",
+  "case_status_date": "02/12/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jairo Leyva-Armenta",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

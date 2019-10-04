@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_102m1112_vaed",
+  "case_key": "1:02m1112_vaed",
+  "case_lni": "7WBN-G440-Y892-B0G6-00000-00",
+  "case_number": "1:02m1112",
+  "case_title": "USA v. Chapins",
+  "case_info_full_case_name": "USA v. Chapins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chapins",
+  "case_date_filed": "2002-10-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Arthur L. Wiggins, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN CHAPINS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:13-7220.M) 18:13 46.2-862 69/45"
+        },
+        {
+          "charge_description": "(18:13-7220.M) 18:13 assim. VA. sec. 46.2-862 Exceeding speed limit 69/45 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.P) 32CFR634.25(f) 46.2-870 69/45"
+        },
+        {
+          "charge_description": "(18:13-7220.P) 32 CFR 634.25(f) assim. VA. sec. 46.2-870 Speeding 69/45 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_215cr118_TNED",
+  "case_key": "2:15cr118_TNED",
+  "case_lni": "5H55-DTT1-DXDT-G52Y-00000-00",
+  "case_number": "2:15cr118",
+  "case_title": "USA v. Ray",
+  "case_info_full_case_name": "USA v. Ray",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ray",
+  "case_date_filed": "2015-10-15",
+  "case_status": "Closed",
+  "case_status_date": "08/12/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "J Christian Lampe",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shane Ray",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F- CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE (METH)(4)"
+        },
+        {
+          "charge_disposition": "84 months imprisonment, 4 years supervised release, $200.00 assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F-CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE (HEROIN)(5)"
+        },
+        {
+          "charge_disposition": "84 months imprisonment, 3 years supervised release, $200.00 assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CD.F- CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (METH)(1)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion of the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=CD.F-CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (HEROIN)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion of the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F- CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE (METH)(3)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion of the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F-CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE (HEROIN)(6)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion of the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "J Ronnie Greer",
+          "judge_guid": "urn:entity:jud-100072448"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clifton L Corker",
+          "judge_guid": "urn:entity:jud-100113981"
+        }
+      ]
+    }
+  ]
+}

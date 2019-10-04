@@ -1,0 +1,100 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_714cr185_TXSD",
+  "case_key": "7:14cr185_TXSD",
+  "case_lni": "5BJH-S9C1-DXDT-G244-00000-00",
+  "case_number": "7:14cr185",
+  "case_title": "USA v. Perez et al",
+  "case_info_full_case_name": "USA v. Perez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez et al",
+  "case_date_filed": "2014-02-18",
+  "case_status": "Closed",
+  "case_status_date": "11/26/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs Mc"
+    },
+    {
+      "attorney_name": "US Probation - Mc"
+    },
+    {
+      "attorney_name": "Kimberly Ann Bulger Leo"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Paul Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=MD.F"
+        },
+        {
+          "charge_offence_description": "21:846=MD.F"
+        },
+        {
+          "charge_description": "MARIJUANA - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "30 months custody of the bureau of prisons, No Supervised Release Term imposed, $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE MARIJUANA(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    },
+    {
+      "party_name": "Patricia Contreras-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=MD.F"
+        },
+        {
+          "charge_offence_description": "21:846=MD.F"
+        },
+        {
+          "charge_description": "ACCESSORY AFTER THE FACT(3)"
+        },
+        {
+          "charge_disposition": "12 months and 1 day custody of the bureau of prisons, No Supervised Release term imposed, $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

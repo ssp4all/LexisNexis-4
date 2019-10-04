@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_318mj2810_TXWD",
+  "case_key": "3:18mj2810_TXWD",
+  "case_lni": "5S77-3CD1-DXDT-G4D5-00000-00",
+  "case_number": "3:18mj2810",
+  "case_title": "USA v. Cervantes-Munoz",
+  "case_info_full_case_name": "USA v. Cervantes-Munoz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cervantes-Munoz",
+  "case_date_filed": "2018-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jesus Antonio Cervantes-Munoz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        },
+        {
+          "charge_offence_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anne T. Berton",
+          "judge_guid": "urn:entity:jud-100102882"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_304cr14_ohsd",
+  "case_key": "3:04cr14_ohsd",
+  "case_lni": "7WBN-MNF0-Y892-B390-00000-00",
+  "case_number": "3:04cr14",
+  "case_title": "USA v. Stollings",
+  "case_info_full_case_name": "USA v. Stollings",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stollings",
+  "case_date_filed": "2004-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcus D Stollings",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 924(a)(1)(A) FALSE STATEMENT OR REPRESENTATION IN THE ACQUISITION OF A FIREARM(1)"
+        },
+        {
+          "charge_disposition": "Sentence to the B.O.P. for 15 months in count 1. No fine; No restitution; $100.00 S/A to be paid immediately; 3 years S/R with the standard conditions of probation. Defendant to voluntarily surrender as directed by the U.S. Marshal. Defendants rights explained and understood."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 924(a)(1)(A) FALSE STATEMENT OR REPRESENTATION IN THE ACQUISITION OF A FIREARM(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(a)(6) KNOWINGLY MAKE, IN CONNECTION WITH THE ACQUISITION OF A FIREARM FROM A FEDERALLY LICENSED FIREARMS DEALER, A FALSE WRITTEN STATEMENT TO SAID FIREARMS DEALER LIKELY TO DECEIVE SAID LICENSED DEALER WITH RESPECT TO A FACT MATERIAL TO THE LAWFULNESS OF THE SALE OF THE FIREARM UNDER CHAPTER 44, TITLE 18 UNITED STATES CODE"
+        },
+        {
+          "charge_offence_description": "18:922(a)(6) KNOWINGLY MAKE, IN CONNECTION WITH TH"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas M. Rose",
+          "judge_guid": "urn:entity:jud-100001258"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael R Merz",
+          "judge_guid": "urn:entity:jud-100025999"
+        }
+      ]
+    }
+  ]
+}

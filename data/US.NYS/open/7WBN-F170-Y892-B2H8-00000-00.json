@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_100m2180_nysd",
+  "case_key": "1:00m2180_nysd",
+  "case_lni": "7WBN-F170-Y892-B2H8-00000-00",
+  "case_number": "1:00m2180",
+  "case_title": "USA v. Rodriguez",
+  "case_info_full_case_name": "USA v. Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez",
+  "case_date_filed": "2000-12-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David P. Burns",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NELSON RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1) 846: 18USC924 (c)(1)(A): 18USC2:"
+        },
+        {
+          "charge_description": "21 U.S.C. 841(a)(1) &; 846: CONSPIRACY TO DISRIBUTE HEROIN, A SCHEDULE I CONTROLLED SUBSTANCE; 18 U.S.C. 924 (c)(1)(A): KNOWINGLY AND INTENTIONALLY POSSESSED TWO FIREARMS IN FURTHERANCE OF A DRUG TRAFFICKING CRIME; 18 U.S.C. 2: AIDING AND ABETTING."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

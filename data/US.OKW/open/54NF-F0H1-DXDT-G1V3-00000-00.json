@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_512mj13_OKWD",
+  "case_key": "5:12mj13_OKWD",
+  "case_lni": "54NF-F0H1-DXDT-G1V3-00000-00",
+  "case_number": "5:12mj13",
+  "case_title": "United States of America v. Burton",
+  "case_info_full_case_name": "United States of America v. Burton",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Burton",
+  "case_date_filed": "2012-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Derrick J Burton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO APPEAR (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Shon T. Erwin",
+          "judge_guid": "urn:entity:jud-100007099"
+        }
+      ]
+    }
+  ]
+}

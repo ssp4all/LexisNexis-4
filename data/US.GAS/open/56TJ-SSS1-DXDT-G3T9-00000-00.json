@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_412cr218_GASD",
+  "case_key": "4:12cr218_GASD",
+  "case_lni": "56TJ-SSS1-DXDT-G3T9-00000-00",
+  "case_number": "4:12cr218",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2012-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Shahara Tennaile Timbrook",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kiev D. Johnson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 7 and 13  OCGA 40-6-391(a)(1)  D.U.I. on a Military Reservation(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18 USC 7 and 13  OCGA 40-6-391(a)(5)  D.U.I. on a Military Reservation(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "G. R. Smith",
+          "judge_guid": "urn:entity:jud-100015834"
+        }
+      ]
+    }
+  ]
+}

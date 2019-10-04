@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_413mj5460_AZD",
+  "case_key": "4:13mj5460_AZD",
+  "case_lni": "58HM-G771-DXDT-G127-00000-00",
+  "case_number": "4:13mj5460",
+  "case_title": "USA v. Flores-Corona",
+  "case_info_full_case_name": "USA v. Flores-Corona",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Corona",
+  "case_date_filed": "2013-05-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Diego Baltazar Flores-Corona",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1 18:1028A Fraud and Misuse of Visas; CT 2 18:1028(a)(4) &; (b)(6) Fraud w/ Identification Documents"
+        },
+        {
+          "charge_offence_description": "CT 1 18:1028A Fraud and Misuse of Visas; CT 2 18:1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

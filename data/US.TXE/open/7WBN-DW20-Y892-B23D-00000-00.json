@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_407mj280_TXED",
+  "case_key": "4:07mj280_TXED",
+  "case_lni": "7WBN-DW20-Y892-B23D-00000-00",
+  "case_number": "4:07mj280",
+  "case_title": "USA v. Purvey",
+  "case_info_full_case_name": "USA v. Purvey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Purvey",
+  "case_date_filed": "2007-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Chauncey Dejon Purvey",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=NP.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Don D. Bush",
+          "judge_guid": "urn:entity:jud-100060120"
+        }
+      ]
+    }
+  ]
+}

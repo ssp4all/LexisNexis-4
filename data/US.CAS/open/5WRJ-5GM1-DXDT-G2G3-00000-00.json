@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319mj23369_CASD",
+  "case_key": "3:19mj23369_CASD",
+  "case_lni": "5WRJ-5GM1-DXDT-G2G3-00000-00",
+  "case_number": "3:19mj23369",
+  "case_title": "USA v. Bentronas-Chivas",
+  "case_info_full_case_name": "USA v. Bentronas-Chivas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bentronas-Chivas",
+  "case_date_filed": "2019-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Israel Bentronas-Chivas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325 (a)(1) - Illegal Entry (Misdemeanor)"
+        },
+        {
+          "charge_offence_description": "8:1325 (a)(1) - Illegal Entry (Misdemeanor)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Seng",
+          "judge_guid": "urn:entity:jud-100030508"
+        }
+      ]
+    }
+  ]
+}

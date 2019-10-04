@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_512mj37_KYWD",
+  "case_key": "5:12mj37_KYWD",
+  "case_lni": "54X7-6WM1-DXDT-G4GS-00000-00",
+  "case_number": "5:12mj37",
+  "case_title": "USA v. Hanks",
+  "case_info_full_case_name": "USA v. Hanks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hanks",
+  "case_date_filed": "2012-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christopher R. Morrissey",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nellie B. Hanks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 39-15-401)-CHILD"
+        },
+        {
+          "charge_description": "18:13 (TCA 39-15-401)-CHILD ABUSE AND CHILD NEGLECT OR ENDANGERMENT (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lanny King",
+          "judge_guid": "urn:entity:jud-100126946"
+        }
+      ]
+    }
+  ]
+}

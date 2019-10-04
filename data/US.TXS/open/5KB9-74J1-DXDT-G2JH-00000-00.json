@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_516po8091_TXSD",
+  "case_key": "5:16po8091_TXSD",
+  "case_lni": "5KB9-74J1-DXDT-G2JH-00000-00",
+  "case_number": "5:16po8091",
+  "case_title": "USA v. Castro-Coronado",
+  "case_info_full_case_name": "USA v. Castro-Coronado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castro-Coronado",
+  "case_date_filed": "2016-07-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Carlos Roberto Castro-Coronado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    }
+  ]
+}

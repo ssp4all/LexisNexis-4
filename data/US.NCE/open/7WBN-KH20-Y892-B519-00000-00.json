@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_203cr2_nced",
+  "case_key": "2:03cr2_nced",
+  "case_lni": "7WBN-KH20-Y892-B519-00000-00",
+  "case_number": "2:03cr2",
+  "case_title": "USA v. Russell",
+  "case_info_full_case_name": "USA v. Russell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Russell",
+  "case_date_filed": "2003-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gaston Williams",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GAYLE SANDERLIN RUSSELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:656-EMBEZZLEMENT."
+        },
+        {
+          "charge_description": "18:656-EMBEZZLEMENT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

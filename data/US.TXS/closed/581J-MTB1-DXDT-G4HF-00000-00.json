@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_513po3870_TXSD",
+  "case_key": "5:13po3870_TXSD",
+  "case_lni": "581J-MTB1-DXDT-G4HF-00000-00",
+  "case_number": "5:13po3870",
+  "case_title": "USA v. Perez-Corea",
+  "case_info_full_case_name": "USA v. Perez-Corea",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Corea",
+  "case_date_filed": "2013-03-22",
+  "case_status": "Closed",
+  "case_status_date": "03/22/2013",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Josue Jacobo Perez-Corea",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

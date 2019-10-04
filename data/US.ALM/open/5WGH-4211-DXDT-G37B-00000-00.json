@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_219po273_ALMD",
+  "case_key": "2:19po273_ALMD",
+  "case_lni": "5WGH-4211-DXDT-G37B-00000-00",
+  "case_number": "2:19po273",
+  "case_title": "USA vs Jordan",
+  "case_info_full_case_name": "USA vs Jordan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jordan",
+  "case_date_filed": "2019-07-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Eric M Counts",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel C Jordan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CRIMINAL TRESPASS - SECOND DEGREE (6976263)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Wallace Capel, Jr",
+          "judge_guid": "urn:entity:jud-100063359"
+        }
+      ]
+    }
+  ]
+}

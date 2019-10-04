@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_200cr942_cacd",
+  "case_key": "2:00cr942_cacd",
+  "case_lni": "7WBN-KBG0-Y892-B1B4-00000-00",
+  "case_number": "2:00cr942",
+  "case_title": "USA v. Burrow",
+  "case_info_full_case_name": "USA v. Burrow",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Burrow",
+  "case_date_filed": "2000-09-08",
+  "case_status": "Closed",
+  "case_status_date": "07/02/2001",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Judith Burrow",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:661 THEFT OF PROPERTY WITHIN FEDERAL JURISDICTION(1)"
+        },
+        {
+          "charge_disposition": "Probation 5 years on each of cts 1 &; 2, conc, under the T/C of USPO and GO 318. Restitution $13,362.57. Special Assessment of $200.00. Total fine of $500.00, consisting of the following: Ct 1, a fine of $250.00, and ct 2, a fine o f $250.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:662 RECEIVING STOLEN PROPERTY WITHIN FEDERAL JURISDICTION(2)"
+        },
+        {
+          "charge_disposition": "Probation 5 years on each of cts 1 &; 2, conc, under the T/C of USPO and GO 318. Restitution $13,362.57. Special Assessment of $200.00. Total fine of $500.00, consisting of the following: Ct 1, a fine of $250.00, and ct 2, a fine o f $250.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lourdes G. Baird",
+          "judge_guid": "urn:entity:jud-100052301"
+        }
+      ]
+    }
+  ]
+}

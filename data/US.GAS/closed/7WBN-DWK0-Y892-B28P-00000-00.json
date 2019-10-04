@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_496cr21_gasd",
+  "case_key": "4:96cr21_gasd",
+  "case_lni": "7WBN-DWK0-Y892-B28P-00000-00",
+  "case_number": "4:96cr21",
+  "case_title": "USA v. Sorrells",
+  "case_info_full_case_name": "USA v. Sorrells",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sorrells",
+  "case_date_filed": "1996-02-08",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mark W. Holzer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEONARD E. SORRELLS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.M"
+        },
+        {
+          "charge_description": "18:641.M THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_disposition": "Special Assessment of $25.00 due immediately; dft will pay a fine of $600 in installment commencing 30 days from date of judgment and dft will serve a periof of probation for one years and dft is prohibited from entering the PX at Fort Stewart during the term of probation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "G. R. Smith",
+          "judge_guid": "urn:entity:jud-100015834"
+        }
+      ]
+    }
+  ]
+}

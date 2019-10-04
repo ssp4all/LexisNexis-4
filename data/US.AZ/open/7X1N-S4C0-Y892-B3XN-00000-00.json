@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409mj3496_AZD",
+  "case_key": "4:09mj3496_AZD",
+  "case_lni": "7X1N-S4C0-Y892-B3XN-00000-00",
+  "case_number": "4:09mj3496",
+  "case_title": "USA v. Sanchez-Aviles",
+  "case_info_full_case_name": "USA v. Sanchez-Aviles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Aviles",
+  "case_date_filed": "2009-10-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Luis Sanchez-Aviles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Ct1 8:1326(a) 8:1326(b)(2) 8:1325"
+        },
+        {
+          "charge_description": "Ct1 8:1326(a) enhanced by 8:1326(b)(2) Re-Entry After Deportation; 8:1325 Illegal Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

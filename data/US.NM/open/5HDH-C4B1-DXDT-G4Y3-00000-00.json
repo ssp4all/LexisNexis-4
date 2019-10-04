@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_115cr4081_NMD",
+  "case_key": "1:15cr4081_NMD",
+  "case_lni": "5HDH-C4B1-DXDT-G4Y3-00000-00",
+  "case_number": "1:15cr4081",
+  "case_title": "USA v. Borja-Quintero",
+  "case_info_full_case_name": "USA v. Borja-Quintero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Borja-Quintero",
+  "case_date_filed": "2015-11-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alma Y. Borja-Quintero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846: Conspiracy(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 24 months; supervised release not imposed; ICE to begin removal during sentence; SPA $100.00; deft in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A): Possession with Intent to Distribute 1 Kilogram and More of Heroin(2)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 24 months; supervised release not imposed; ICE to begin removal during sentence; SPA $100.00; deft in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(A): Possession of More than one Kilograms of Heroin with Intent to Distribute"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(A): Possession of More than "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James O. Browning",
+          "judge_guid": "urn:entity:jud-100064003"
+        }
+      ]
+    }
+  ]
+}

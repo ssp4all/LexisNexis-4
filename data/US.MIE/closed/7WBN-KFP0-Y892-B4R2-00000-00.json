@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_202cr80626_mied",
+  "case_key": "2:02cr80626_mied",
+  "case_lni": "7WBN-KFP0-Y892-B4R2-00000-00",
+  "case_number": "2:02cr80626",
+  "case_title": "United States of America v. McLemore",
+  "case_info_full_case_name": "United States of America v. McLemore",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "McLemore",
+  "case_date_filed": "2002-08-29",
+  "case_status": "Closed",
+  "case_status_date": "06/10/2003",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Howard Jerome McLemore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g) - FELON IN POSSESSION OF FIREARMS(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) - POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE(2)"
+        },
+        {
+          "charge_disposition": "188 MONTHS IMPRISONMENT AS TO COUNT 2, AND 60 MONTHS IMPRISONMENT AS TO COUNT 3 TO RUN CONSECUTIVE TO THE SENTENCE IN COUNT 2; 4 YEARS SUPERVISED RELEASE ON EACH COUNT TO RUN CONCURRENTLY; $200.00 SPECIAL ASSESSMENT"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A) - POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME(3)"
+        },
+        {
+          "charge_disposition": "188 MONTHS IMPRISONMENT AS TO COUNT 2, AND 60 MONTHS IMPRISONMENT AS TO COUNT 3 TO RUN CONSECUTIVE TO THE SENTENCE IN COUNT 2; 4 YEARS SUPERVISED RELEASE ON EACH COUNT TO RUN CONCURRENTLY; $200.00 SPECIAL ASSESSMENT"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) - UNLAWFUL TRANSPORT OF FIREARMS, ETC. [ 2:02-m -80626 ]"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) - UNLAWFUL TRANSPORT OF FIREARMS, ETC"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert H. Cleland",
+          "judge_guid": "urn:entity:jud-100062545"
+        }
+      ]
+    }
+  ]
+}

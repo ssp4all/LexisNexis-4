@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_401cr118_vaed",
+  "case_key": "4:01cr118_vaed",
+  "case_lni": "7WBN-HHX0-Y892-B0W1-00000-00",
+  "case_number": "4:01cr118",
+  "case_title": "USA v. Bartlett",
+  "case_info_full_case_name": "USA v. Bartlett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bartlett",
+  "case_date_filed": "2001-12-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HOPE SHARNETTE BARTLETT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846 (5/98)"
+        },
+        {
+          "charge_description": "Title 21 USC 846 [21:846=ND.F] Conspiracy to Possess with Intent to Distribute and to Distribute\"crack\"cocaine (5/98) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(b)(1)(B) 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "Title 21 USC 841(a)(1) and (b)(1)(B) [21:841A=ND.F] Distribution of Crack (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1) (b)(1)(A) (8/98)"
+        },
+        {
+          "charge_description": "Title 21 USC 841(a)(1) and (b)(1)(A) [21:841A=ND.F] Distribution of crack (8/98) (3-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

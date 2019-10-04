@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_312mj138_TXND",
+  "case_key": "3:12mj138_TXND",
+  "case_lni": "558W-YKH1-DXDT-G0C3-00000-00",
+  "case_number": "3:12mj138",
+  "case_title": "USA v. Gonzeles",
+  "case_info_full_case_name": "USA v. Gonzeles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzeles",
+  "case_date_filed": "2012-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Johnny Manuel Gonzeles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CMP"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Renee Harris Toliver",
+          "judge_guid": "urn:entity:jud-100072198"
+        }
+      ]
+    }
+  ]
+}

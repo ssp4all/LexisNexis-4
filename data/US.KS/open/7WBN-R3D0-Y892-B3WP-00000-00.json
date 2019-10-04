@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_202cr20092_ksd",
+  "case_key": "2:02cr20092_ksd",
+  "case_lni": "7WBN-R3D0-Y892-B3WP-00000-00",
+  "case_number": "2:02cr20092",
+  "case_title": "USA v. Brown",
+  "case_info_full_case_name": "USA v. Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown",
+  "case_date_filed": "2002-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRADLEY S BROWN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:656 10/16/02)"
+        },
+        {
+          "charge_description": "18:656 Embezzlement by Teller (Indictment filed 10/16/02) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John W Lungstrum",
+          "judge_guid": "urn:entity:jud-100029528"
+        }
+      ]
+    }
+  ]
+}

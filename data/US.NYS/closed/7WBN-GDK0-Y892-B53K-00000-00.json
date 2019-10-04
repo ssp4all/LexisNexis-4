@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_196cr127_nysd",
+  "case_key": "1:96cr127_nysd",
+  "case_lni": "7WBN-GDK0-Y892-B53K-00000-00",
+  "case_number": "1:96cr127",
+  "case_title": "USA v. Freezer",
+  "case_info_full_case_name": "USA v. Freezer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Freezer",
+  "case_date_filed": "1996-02-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Patrick J. Smith Mary Jo White, ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ASHER FREEZER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:875C.F"
+        },
+        {
+          "charge_description": "18:875C.F EXTORTION, RACKETEERING, &; THREATS Interstate threats by wire. (1)"
+        },
+        {
+          "charge_disposition": "Case transferred to the Southern District of Florida for all purposes. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC875(c):"
+        },
+        {
+          "charge_description": "18 U.S.C. 875(c): INTERSTATE TRANSMISSION OF THREATENING COMMUNICATION. [1:95-m-1455]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_716mj349_TXSD",
+  "case_key": "7:16mj349_TXSD",
+  "case_lni": "5J68-9MX1-DXDT-G0R7-00000-00",
+  "case_number": "7:16mj349",
+  "case_title": "USA v. Salas, Jr",
+  "case_info_full_case_name": "USA v. Salas, Jr",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salas, Jr",
+  "case_date_filed": "2016-02-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Samuel Salas, Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=MD.F"
+        },
+        {
+          "charge_offence_description": "21:846=MD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

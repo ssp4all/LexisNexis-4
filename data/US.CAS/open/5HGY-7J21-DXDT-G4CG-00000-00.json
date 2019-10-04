@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_315mj3507_CASD",
+  "case_key": "3:15mj3507_CASD",
+  "case_lni": "5HGY-7J21-DXDT-G4CG-00000-00",
+  "case_number": "3:15mj3507",
+  "case_title": "USA v. Montes-Ruiz",
+  "case_info_full_case_name": "USA v. Montes-Ruiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Montes-Ruiz",
+  "case_date_filed": "2015-11-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Javier Montes-Ruiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(2)(B)(iii) - Bringing in Illegal Aliens Without Presentation"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(2)(B)(iii) - Bringing in Illegal Aliens "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernard G. Skomal",
+          "judge_guid": "urn:entity:jud-100007883"
+        }
+      ]
+    },
+    {
+      "party_name": "Gonzalo Castaneda-Mora",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Alejandro Perez-Garcia",
+      "party_description": "Material Witness"
+    }
+  ]
+}

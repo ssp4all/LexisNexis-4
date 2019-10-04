@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_318cr591_TXWD",
+  "case_key": "3:18cr591_TXWD",
+  "case_lni": "5RTH-K381-DXDT-G02N-00000-00",
+  "case_number": "3:18cr591",
+  "case_title": "USA v. Gonzalez-Rodriguez",
+  "case_info_full_case_name": "USA v. Gonzalez-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Rodriguez",
+  "case_date_filed": "2018-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Gonzalez-Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F--REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326A.F--REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

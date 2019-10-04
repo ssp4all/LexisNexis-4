@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_109mj224_TXED",
+  "case_key": "1:09mj224_TXED",
+  "case_lni": "7X2D-PP40-Y892-B02P-00000-00",
+  "case_number": "1:09mj224",
+  "case_title": "USA v. Lazo-Lopez",
+  "case_info_full_case_name": "USA v. Lazo-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lazo-Lopez",
+  "case_date_filed": "2009-11-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Saul Dario Lazo-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Petition for warrant or summons for offender under supervision"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Earl S. Hines",
+          "judge_guid": "urn:entity:jud-100034426"
+        }
+      ]
+    }
+  ]
+}

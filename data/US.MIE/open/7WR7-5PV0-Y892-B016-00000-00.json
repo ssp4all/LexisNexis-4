@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_408cr20512_MIED",
+  "case_key": "4:08cr20512_MIED",
+  "case_lni": "7WR7-5PV0-Y892-B016-00000-00",
+  "case_number": "4:08cr20512",
+  "case_title": "United States of America v. Coker",
+  "case_info_full_case_name": "United States of America v. Coker",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Coker",
+  "case_date_filed": "2009-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Louis John Coker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 120 MONTHS CONCURRENT; SUPERVISED RELEASE: 3 YEARS CONCURRENT; SPECIAL ASSESSMENT: $200.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence G. Berg",
+          "judge_guid": "urn:entity:jud-100104516"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Hluchaniuk",
+          "judge_guid": "urn:entity:jud-100051544"
+        }
+      ]
+    }
+  ]
+}

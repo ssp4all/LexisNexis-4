@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_210mj8317_NJD",
+  "case_key": "2:10mj8317_NJD",
+  "case_lni": "51HC-D6G1-DXDT-G2F6-00000-00",
+  "case_number": "2:10mj8317",
+  "case_title": "USA v. BIENKOWSKI",
+  "case_info_full_case_name": "USA v. BIENKOWSKI",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "BIENKOWSKI",
+  "case_date_filed": "2010-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANDRZEJ BIENKOWSKI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFICKING IN MOTOR VEHICLES/MOTOR VEHICLE PARTS, 18:2321.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Madeline C. Arleo",
+          "judge_guid": "urn:entity:jud-100045665"
+        }
+      ]
+    }
+  ]
+}

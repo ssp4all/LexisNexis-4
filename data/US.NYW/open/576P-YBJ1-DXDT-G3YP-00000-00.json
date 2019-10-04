@@ -1,0 +1,98 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_612cr6175_NYWD",
+  "case_key": "6:12cr6175_NYWD",
+  "case_lni": "576P-YBJ1-DXDT-G3YP-00000-00",
+  "case_number": "6:12cr6175",
+  "case_title": "USA v. Laurido",
+  "case_info_full_case_name": "USA v. Laurido",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Laurido",
+  "case_date_filed": "2012-12-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge O. Laurido",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD AND FALSE STATEMENTS 26:7206(2)(1-35)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD AND FALSE STATEMENTS 26:7206(2)(36-38)"
+        },
+        {
+          "charge_disposition": "5 years probation; $10,000 total fine imposed on all 4 counts; SPA of $100 for each count for a total of $400; no restitution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD AND FALSE STATEMENTS 26:7206(2)(39-42)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD AND FALSE STATEMENTS 26:7206(2)(43)"
+        },
+        {
+          "charge_disposition": "5 years probation to run concurrent with Counts 36-38; $10,000 total fine imposed on all four counts; SPA of $100 for each count for a total of $400; no restitution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD AND FALSE STATEMENTS 26:7206(2)(44-49)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:7206A.F - the defendant willfully aided, assisted, counseled and advised in the preparation and presentation of a tax return that was false or fraudulent as to a material matter, that is the 2010 Schedule C earnings of W1"
+        },
+        {
+          "charge_offence_description": "26:7206A.F - the defendant willfully aided, assist"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Frank P. Geraci, Jr.",
+          "judge_guid": "urn:entity:jud-100104557"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Marian W. Payson",
+          "judge_guid": "urn:entity:jud-100024892"
+        }
+      ]
+    }
+  ]
+}

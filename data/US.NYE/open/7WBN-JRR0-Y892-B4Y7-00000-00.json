@@ -1,0 +1,94 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_107mj759_NYED",
+  "case_key": "1:07mj759_NYED",
+  "case_lni": "7WBN-JRR0-Y892-B4Y7-00000-00",
+  "case_number": "1:07mj759",
+  "case_title": "USA v. Marduhaev et al",
+  "case_info_full_case_name": "USA v. Marduhaev et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marduhaev et al",
+  "case_date_filed": "2007-06-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Arkadi Marduhaev",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371"
+        },
+        {
+          "charge_description": "18USC371 conspire to buy, sell, exchange, transfer, receive or deliver any false, forged, or altered obligation or other security of the U.S. with the intent that the same be passed, published, or used as true and genuine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Marilyn D. Go",
+          "judge_guid": "urn:entity:jud-100049004"
+        }
+      ]
+    },
+    {
+      "party_name": "Abram Morduhaev",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371"
+        },
+        {
+          "charge_description": "18USC371 conspire to buy, sell, exchange, transfer, receive or deliver any false, forged, or altered obligation or other security of the U.S. with the intent that the same be passed, published, or used as true and genuine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Marilyn D. Go",
+          "judge_guid": "urn:entity:jud-100049004"
+        }
+      ]
+    },
+    {
+      "party_name": "Boris Molkandow",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371"
+        },
+        {
+          "charge_description": "18USC371 conspire to buy, sell, exchange, transfer, receive or deliver any false, forged, or altered obligation or other security of the U.S. with the intent that the same be passed, published, or used as true and genuine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Marilyn D. Go",
+          "judge_guid": "urn:entity:jud-100049004"
+        }
+      ]
+    },
+    {
+      "party_name": "63-10 108th Street Apartment 3C Forest Hills ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371"
+        },
+        {
+          "charge_description": "18USC371 conspire to buy, sell, exchange, transfer, receive or deliver any false, forged, or altered obligation or other security of the U.S. with the intent that the same be passed, published, or used as true and genuine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Marilyn D. Go",
+          "judge_guid": "urn:entity:jud-100049004"
+        }
+      ]
+    }
+  ]
+}

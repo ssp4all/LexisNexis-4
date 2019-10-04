@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_207mj531_NVD",
+  "case_key": "2:07mj531_NVD",
+  "case_lni": "7WBN-FCB0-Y892-B0B7-00000-00",
+  "case_number": "2:07mj531",
+  "case_title": "USA v. CAMACHO",
+  "case_info_full_case_name": "USA v. CAMACHO",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CAMACHO",
+  "case_date_filed": "2007-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "JOSE ANGEL CAMACHO",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert J. Johnston",
+          "judge_guid": "urn:entity:jud-100033112"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert J. Johnston",
+          "judge_guid": "urn:entity:jud-100033112"
+        }
+      ]
+    }
+  ]
+}

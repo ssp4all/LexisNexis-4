@@ -1,0 +1,134 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_307-CR-244_FLMD",
+  "case_key": "3:07-CR-244_FLMD",
+  "case_lni": "7WBN-MTW0-Y892-B4DJ-00000-00",
+  "case_number": "3:07-CR-244",
+  "case_title": "USA v. Foster et al",
+  "case_info_full_case_name": "USA v. Foster et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Foster et al",
+  "case_date_filed": "2007-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew Tysen Duva",
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Julie Hackenberry Savell",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Willie Derrick Foster",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F Conspiracy to Distribute Controlled Substance (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F Conspiracy to Distribute Narcotics (1s)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Harvey E Schlesinger",
+          "judge_guid": "urn:entity:jud-100026867"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Monte C Richardson",
+          "judge_guid": "urn:entity:jud-100016666"
+        }
+      ]
+    },
+    {
+      "party_name": "Johnny Lee Jackson, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F Conspiracy to Distribute Controlled Substance (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F Conspiracy to Distribute Narcotics (1s)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F Controlled Substance   Sell, Distribute, OR Dispense (2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F Narcotics   Sell, Distribute, OR Dispense (2s)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Harvey E Schlesinger",
+          "judge_guid": "urn:entity:jud-100026867"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Monte C Richardson",
+          "judge_guid": "urn:entity:jud-100016666"
+        }
+      ]
+    },
+    {
+      "party_name": "Ruthie Jackson: 2155 NW 98th St. ",
+      "party_description": "Third Party Custodian"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_100cr160_txsd",
+  "case_key": "1:00cr160_txsd",
+  "case_lni": "7WBN-PH30-Y892-B4J4-00000-00",
+  "case_number": "1:00cr160",
+  "case_title": "USA v. Valle-Tovar",
+  "case_info_full_case_name": "USA v. Valle-Tovar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valle-Tovar",
+  "case_date_filed": "2000-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - B",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AGUSTIN VALLE-TOVAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 1326(b) 3/16/00 20 3"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b) Illegal re-entry into the U.S. (found in) Offense date: 3/16/00 Penalty: 20 yrs and/or $250,000 plus 3 yrs SRT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)"
+        },
+        {
+          "charge_description": "8:1326(a) and (b) Unlawfully re-enter the U.S. after deportation. [1:00-m-1680]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

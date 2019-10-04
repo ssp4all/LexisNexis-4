@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_218mj2900_TXSD",
+  "case_key": "2:18mj2900_TXSD",
+  "case_lni": "5SY0-Y5F1-DXDT-G203-00000-00",
+  "case_number": "2:18mj2900",
+  "case_title": "USA v. Lardi-Lopez",
+  "case_info_full_case_name": "USA v. Lardi-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lardi-Lopez",
+  "case_date_filed": "2018-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cristian Fernando Lardi-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P --- Concealment of Facts of Reentry"
+        },
+        {
+          "charge_offence_description": "8:1325.P --- Concealment of Facts of Reentry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

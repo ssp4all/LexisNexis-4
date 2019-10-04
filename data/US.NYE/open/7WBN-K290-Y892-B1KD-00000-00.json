@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_194m999_nyed",
+  "case_key": "1:94m999_nyed",
+  "case_lni": "7WBN-K290-Y892-B1KD-00000-00",
+  "case_number": "1:94m999",
+  "case_title": "USA v. Harrigan",
+  "case_info_full_case_name": "USA v. Harrigan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harrigan",
+  "case_date_filed": "1994-06-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSEPHN HARRIGAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1029(a)(1)-Defendant"
+        },
+        {
+          "charge_description": "18:1029(a)(1)-Defendant knowingly and with intent to defraud, did use and traffic in one or more counterfeit access devices, which conduct affected interstate commerce."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Joan M. Azrack",
+          "judge_guid": "urn:entity:jud-100071588"
+        }
+      ]
+    }
+  ]
+}

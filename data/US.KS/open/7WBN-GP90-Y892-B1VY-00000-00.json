@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_205cr20005_KSD",
+  "case_key": "2:05cr20005_KSD",
+  "case_lni": "7WBN-GP90-Y892-B1VY-00000-00",
+  "case_number": "2:05cr20005",
+  "case_title": "USA v. Diesel",
+  "case_info_full_case_name": "USA v. Diesel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Diesel",
+  "case_date_filed": "2005-01-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael E. Diesel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7206(1)--Filing 01/07/05.)"
+        },
+        {
+          "charge_description": "26:7206(1)--Filing a False Income Tax Return. (Indictment Filed 01/07/05.) (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John W. Lungstrum",
+          "judge_guid": "urn:entity:jud-100029528"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James P. O'Hara",
+          "judge_guid": "urn:entity:jud-100025546"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117po1664_VAED",
+  "case_key": "1:17po1664_VAED",
+  "case_lni": "5P0Y-B2F1-DXDT-G0Y9-00000-00",
+  "case_number": "1:17po1664",
+  "case_title": "USA vs Reed",
+  "case_info_full_case_name": "USA vs Reed",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reed",
+  "case_date_filed": "2017-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Delicia M Reed",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "KNOWINGLY GIVING FALSE INFO TO AN AUTH PERSON INVEST. ACCIDENT OR VIOL. OF LAW (6701030)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "CHANGING LANE WITHOUT PROPER SIGNAL/FAILING TO GIVE ADEQUATE OR TIMLEY SIGNAL (6701029)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "KNOWINGLY GIVING FALSE INFO TO AN AUTH PERSON INVEST. ACCIDENT OR VIOL. OF LAW (6701028)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "IMPROPER STOPPING ON HIGHWAY (6701026)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "POSSESSING A WEAPON WITHOUT AUTHORIZATION (6701031)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

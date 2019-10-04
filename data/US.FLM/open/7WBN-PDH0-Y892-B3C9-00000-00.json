@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_809mj1240_FLMD",
+  "case_key": "8:09mj1240_FLMD",
+  "case_lni": "7WBN-PDH0-Y892-B3C9-00000-00",
+  "case_number": "8:09mj1240",
+  "case_title": "USA v. Thomas",
+  "case_info_full_case_name": "USA v. Thomas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomas",
+  "case_date_filed": "2009-05-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard Thomas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 Possess With Intent to Distribute Steroids"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas G Wilson",
+          "judge_guid": "urn:entity:jud-100022017"
+        }
+      ]
+    }
+  ]
+}

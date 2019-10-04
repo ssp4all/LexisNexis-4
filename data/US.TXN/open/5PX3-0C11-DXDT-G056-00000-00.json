@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_617cr61_TXND",
+  "case_key": "6:17cr61_TXND",
+  "case_lni": "5PX3-0C11-DXDT-G056-00000-00",
+  "case_number": "6:17cr61",
+  "case_title": "USA v. Pinchback",
+  "case_info_full_case_name": "USA v. Pinchback",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pinchback",
+  "case_date_filed": "2017-11-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Russell Lorfing-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Johnny Mats Pinchback",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. §§ 922(m), 924(a)(3)(B), and 2 - Making False Entry in Records by a Federal Firearms Dealer(1ss)"
+        },
+        {
+          "charge_disposition": "Defendant committed to US/BOP for 6 months; Supervised release for 12 months; $25.00 MSA."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18 U.S.C. §§ 922(a)(1)(A) and 924(a)(1)(D) - Engaging in the Business of Dealing Firearms Without a License.(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. §§ 922(a)(1)(A) and 924(a)(1)(D) Engaging in the Business of Dealing Firearms Without a License(1s)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. § 924(a)(1)(A) - False Statement During Purchase of a Firearm(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. § 924(a)(1)(A)  False Statement During Purchase of a Firearm(2s-4s)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "E. Scott Frost",
+          "judge_guid": "urn:entity:jud-100070414"
+        }
+      ]
+    }
+  ]
+}

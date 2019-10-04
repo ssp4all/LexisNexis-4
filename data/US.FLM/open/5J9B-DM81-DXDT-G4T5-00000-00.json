@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_816mj1134_FLMD",
+  "case_key": "8:16mj1134_FLMD",
+  "case_lni": "5J9B-DM81-DXDT-G4T5-00000-00",
+  "case_number": "8:16mj1134",
+  "case_title": "USA v. Jewesak",
+  "case_info_full_case_name": "USA v. Jewesak",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jewesak",
+  "case_date_filed": "2016-03-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Eric Gerard",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dana Marie Jewesak",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1343.F FRAUD BY WIRE, RADIO, OR TELEVISION, 18:1956-4700.F MONEY LAUNDERING - POSTAL, INTERSTATE WIRE, RADIO, ETC."
+        },
+        {
+          "charge_offence_description": "18:1343.F FRAUD BY WIRE, RADIO, OR TELEVISION, 18:"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Julie S. Sneed",
+          "judge_guid": "urn:entity:jud-100113186"
+        }
+      ]
+    }
+  ]
+}

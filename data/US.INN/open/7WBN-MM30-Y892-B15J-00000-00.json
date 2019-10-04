@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_303cr117_innd",
+  "case_key": "3:03cr117_innd",
+  "case_lni": "7WBN-MM30-Y892-B15J-00000-00",
+  "case_number": "3:03cr117",
+  "case_title": "United States of America v. Krickhahn",
+  "case_info_full_case_name": "United States of America v. Krickhahn",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Krickhahn",
+  "case_date_filed": "2003-11-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mark A Krickhahn",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "LYING TO THE FBI (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "THEFT FROM PROGRAM RECEIVING FEDERAL FUNDS (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert L Miller Jr",
+          "judge_guid": "urn:entity:jud-100036156"
+        }
+      ]
+    }
+  ]
+}

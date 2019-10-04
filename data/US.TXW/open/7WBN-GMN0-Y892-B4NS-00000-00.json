@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_203m2447_txwd",
+  "case_key": "2:03m2447_txwd",
+  "case_lni": "7WBN-GMN0-Y892-B4NS-00000-00",
+  "case_number": "2:03m2447",
+  "case_title": "USA v. Delgado",
+  "case_info_full_case_name": "USA v. Delgado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delgado",
+  "case_date_filed": "2003-08-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EFREN CARLOS DELGADO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31USC5332-unlawfully, (U.S.)"
+        },
+        {
+          "charge_description": "31 USC 5332-unlawfully, knowingly and willfully did with the intent to evade the reporting requirement, knowingly conceal on his person over $10,000 (U.S.) in currency or other monetary instruments and attempt to transport or transfer such currency or monetary instruments from a place within the United States to a place outside of the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_410mj3428_AZD",
+  "case_key": "4:10mj3428_AZD",
+  "case_lni": "7YSC-N7D0-Y892-B462-00000-00",
+  "case_number": "4:10mj3428",
+  "case_title": "USA v. Jimenez-Cortes",
+  "case_info_full_case_name": "USA v. Jimenez-Cortes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jimenez-Cortes",
+  "case_date_filed": "2010-05-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Lucy Guadalupe Jimenez-Cortes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Ct1 18:1028A Ct2 18:1028(a)(4) 1028(b)(6)"
+        },
+        {
+          "charge_description": "Ct1 18:1028A Fraud and Misuse of Visas; Ct2 18:1028(a)(4) and 1028(b)(6) Fraud with Identification Documents"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

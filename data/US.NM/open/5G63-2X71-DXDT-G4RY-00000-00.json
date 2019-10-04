@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_113cr3903_NMD",
+  "case_key": "1:13cr3903_NMD",
+  "case_lni": "5G63-2X71-DXDT-G4RY-00000-00",
+  "case_number": "1:13cr3903",
+  "case_title": "USA v. Acevedo",
+  "case_info_full_case_name": "USA v. Acevedo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acevedo",
+  "case_date_filed": "2013-12-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tommy Acevedo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1)and 924(a)(2): Felon in Possession of a Firearm and Ammunition(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP: 55 months; Supervised Release: 3 years, with Special Conditions; 500-Hour Drug Program; SPA: $100; Deft held in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:5861(d)and 5871: Possession of an Unregistered Firearm(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martha Vazquez",
+          "judge_guid": "urn:entity:jud-100000029"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_104m7075_cod",
+  "case_key": "1:04m7075_cod",
+  "case_lni": "7WBN-PN40-Y892-B4S2-00000-00",
+  "case_number": "1:04m7075",
+  "case_title": "USA v. Stoneburner",
+  "case_info_full_case_name": "USA v. Stoneburner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stoneburner",
+  "case_date_filed": "2004-01-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DISARAY L STONEBURNER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC641"
+        },
+        {
+          "charge_description": "18 USC 641 tHEFT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Boyd N. Boland",
+          "judge_guid": "urn:entity:jud-100061263"
+        }
+      ]
+    }
+  ]
+}

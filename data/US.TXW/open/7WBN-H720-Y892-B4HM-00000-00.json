@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_305cr1886_TXWD",
+  "case_key": "3:05cr1886_TXWD",
+  "case_lni": "7WBN-H720-Y892-B4HM-00000-00",
+  "case_number": "3:05cr1886",
+  "case_title": "USA v. Lewis",
+  "case_info_full_case_name": "USA v. Lewis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "2005-08-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LADONNA GAIL LEWIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "174.65 21:841(a)(1) 952(a)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approximately 174.65 lbs of marijuana in violation of 21:841(a)(1) and 952(a) [3:05-m-3797]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank Montalvo",
+          "judge_guid": "urn:entity:jud-100016084"
+        }
+      ]
+    }
+  ]
+}

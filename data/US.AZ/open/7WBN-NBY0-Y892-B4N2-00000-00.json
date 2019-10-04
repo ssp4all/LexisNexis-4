@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_403m1856_azd",
+  "case_key": "4:03m1856_azd",
+  "case_lni": "7WBN-NBY0-Y892-B4N2-00000-00",
+  "case_number": "4:03m1856",
+  "case_title": "USA, et al v. Quinones-Romero",
+  "case_info_full_case_name": "USA, et al v. Quinones-Romero",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Quinones-Romero",
+  "case_date_filed": "2003-05-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ELIDE QUINONES-ROMERO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 8:1324(a)(1)(A)(ii) 1324(a)(1)(A)(v)(I) 2: 8:1325 18:2"
+        },
+        {
+          "charge_description": "Ct 1: 8:1324(a)(1)(A)(ii) and 1324(a)(1)(A)(v)(I) Conspire to Transport Aliens; Ct 2: 8:1325 and 18:2 Illegal Entry and Aid and Abet"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

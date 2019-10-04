@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_504mj29_kywd",
+  "case_key": "5:04mj29_kywd",
+  "case_lni": "7WBN-NWW0-Y892-B04P-00000-00",
+  "case_number": "5:04mj29",
+  "case_title": "USA v. Funchess",
+  "case_info_full_case_name": "USA v. Funchess",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Funchess",
+  "case_date_filed": "2004-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brandon Funchess",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 516.040(1))"
+        },
+        {
+          "charge_description": "18:13 (KRS 516.040(1)) FORGERY IN THE THIRD DEGREE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 434.650(1)(b))"
+        },
+        {
+          "charge_description": "18:13 (KRS 434.650(1)(b)) FRAUDULENT USE (MILITARY STAR CARD) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "W. David King",
+          "judge_guid": "urn:entity:jud-100040342"
+        }
+      ]
+    }
+  ]
+}

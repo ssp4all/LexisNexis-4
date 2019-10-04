@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_107cr79_WVND",
+  "case_key": "1:07cr79_WVND",
+  "case_lni": "7WBN-JR80-Y892-B43G-00000-00",
+  "case_number": "1:07cr79",
+  "case_title": "USA v. Stevens",
+  "case_info_full_case_name": "USA v. Stevens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stevens",
+  "case_date_filed": "2007-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Lee Stevens",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    }
+  ]
+}

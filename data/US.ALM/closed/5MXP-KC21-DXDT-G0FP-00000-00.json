@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_217cr30_ALMD",
+  "case_key": "2:17cr30_ALMD",
+  "case_lni": "5MXP-KC21-DXDT-G0FP-00000-00",
+  "case_number": "2:17cr30",
+  "case_title": "USA v. Ureta",
+  "case_info_full_case_name": "USA v. Ureta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ureta",
+  "case_date_filed": "2017-02-15",
+  "case_status": "Closed",
+  "case_status_date": "04/18/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Kevin P Davidson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Steven Lee",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Severino Ureta",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE. Forfeiture Allegations.(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession of a controlled substance with the intent to distribute"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession of a controlled substance "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "William Keith Watkins",
+          "judge_guid": "urn:entity:jud-100081962"
+        },
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Gray M. Borden",
+          "judge_guid": "urn:entity:jud-100114006"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_718po9421_TXSD",
+  "case_key": "7:18po9421_TXSD",
+  "case_lni": "5SXT-N0G1-DXDT-G15F-00000-00",
+  "case_number": "7:18po9421",
+  "case_title": "USA v. Rosales-Rosales",
+  "case_info_full_case_name": "USA v. Rosales-Rosales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosales-Rosales",
+  "case_date_filed": "2018-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodrigo Rosales-Rosales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J Scott Hacker",
+          "judge_guid": "urn:entity:jud-100070615"
+        }
+      ]
+    }
+  ]
+}

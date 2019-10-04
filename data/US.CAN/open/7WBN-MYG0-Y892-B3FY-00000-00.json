@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_309cr109_CAND",
+  "case_key": "3:09cr109_CAND",
+  "case_lni": "7WBN-MYG0-Y892-B3FY-00000-00",
+  "case_number": "3:09cr109",
+  "case_title": "USA v. Brooks",
+  "case_info_full_case_name": "USA v. Brooks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brooks",
+  "case_date_filed": "2009-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wendy May Thomas",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leonard Wynn Brooks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844(a)"
+        },
+        {
+          "charge_description": "21:844(a) Possession of a Controlled Substance (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

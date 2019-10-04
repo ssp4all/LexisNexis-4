@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_010mj6458_FLSD",
+  "case_key": "0:10mj6458_FLSD",
+  "case_lni": "51DS-N001-DXDT-G51D-00000-00",
+  "case_number": "0:10mj6458",
+  "case_title": "USA v. Mee",
+  "case_info_full_case_name": "USA v. Mee",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mee",
+  "case_date_filed": "2010-11-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Randall D. Katz",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joshua Matthew Mee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=NP.F (50)"
+        },
+        {
+          "charge_description": "21:841A=NP.F TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE FIFTY (50) GRAMS OR MORE FO COCAINE BASE ALSON KNOWN AS\"CRACK\""
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lurana S. Snow",
+          "judge_guid": "urn:entity:jud-100020553"
+        }
+      ]
+    }
+  ]
+}

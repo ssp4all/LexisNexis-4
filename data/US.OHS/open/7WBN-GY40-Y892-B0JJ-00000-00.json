@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_290cr206_ohsd",
+  "case_key": "2:90cr206_ohsd",
+  "case_lni": "7WBN-GY40-Y892-B0JJ-00000-00",
+  "case_number": "2:90cr206",
+  "case_title": "USA v. Taylor",
+  "case_info_full_case_name": "USA v. Taylor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Taylor",
+  "case_date_filed": "1990-10-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT JAMES TAYLOR",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Joseph P Kinneary",
+          "judge_guid": "urn:entity:jud-100037299"
+        }
+      ]
+    }
+  ]
+}

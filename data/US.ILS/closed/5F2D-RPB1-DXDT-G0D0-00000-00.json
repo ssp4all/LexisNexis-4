@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILS_315mj3004_ILSD",
+  "case_key": "3:15mj3004_ILSD",
+  "case_lni": "5F2D-RPB1-DXDT-G0D0-00000-00",
+  "case_number": "3:15mj3004",
+  "case_title": "USA v. Suppressed - SW",
+  "case_info_full_case_name": "USA v. Suppressed - SW",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Suppressed - SW",
+  "case_date_filed": "2015-01-09",
+  "case_status": "Closed",
+  "case_status_date": "02/24/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Suppressed - SW",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Donald G. Wilkerson",
+          "judge_guid": "urn:entity:jud-100007943"
+        }
+      ]
+    }
+  ]
+}

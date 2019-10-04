@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_215cr180_TXSD",
+  "case_key": "2:15cr180_TXSD",
+  "case_lni": "5FCN-RX91-DXDT-G4P0-00000-00",
+  "case_number": "2:15cr180",
+  "case_title": "USA v. Acevedo",
+  "case_info_full_case_name": "USA v. Acevedo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acevedo",
+  "case_date_filed": "2015-02-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey S Miller",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "X Case Manager - McAllen",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Enrique Acevedo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARIJUANA - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "33 months CBOP; 3 years Supervised Release; $100 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=MD.F--MARIJUANA - SELL, DISTRIBUTE OR DISPENSE"
+        },
+        {
+          "charge_offence_description": "21:841A=MD.F--MARIJUANA - SELL, DISTRIBUTE OR DISP"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

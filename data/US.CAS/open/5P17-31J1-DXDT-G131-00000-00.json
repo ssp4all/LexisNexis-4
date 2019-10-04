@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317mj2363_CASD",
+  "case_key": "3:17mj2363_CASD",
+  "case_lni": "5P17-31J1-DXDT-G131-00000-00",
+  "case_number": "3:17mj2363",
+  "case_title": "USA v. Villalobos",
+  "case_info_full_case_name": "USA v. Villalobos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Villalobos",
+  "case_date_filed": "2017-07-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Melissa Villalobos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii) - Bringing in Unlawful Alien(s) for Financial Gain"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(2)(B)(ii) - Bringing in Unlawful Alien(s"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen S. Crawford",
+          "judge_guid": "urn:entity:jud-100021163"
+        }
+      ]
+    },
+    {
+      "party_name": "Bai Duan Lin",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Du Lin",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Kau Ahua He",
+      "party_description": "Material Witness"
+    }
+  ]
+}

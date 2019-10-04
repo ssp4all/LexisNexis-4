@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_409cr624_TXSD",
+  "case_key": "4:09cr624_TXSD",
+  "case_lni": "7X3P-5VP0-Y892-B01P-00000-00",
+  "case_number": "4:09cr624",
+  "case_title": "USA v. Chavez",
+  "case_info_full_case_name": "USA v. Chavez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chavez",
+  "case_date_filed": "2009-11-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Timothy Shawn Braley",
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Financial Litigation"
+    },
+    {
+      "attorney_name": "US Marshal - H"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H"
+    },
+    {
+      "attorney_name": "US Probation - H"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Pedro Antonio Segovia Chavez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal Alien in Possession of Firearm (1)"
+        },
+        {
+          "charge_disposition": "Custody of The Bureau of Prisons For A Term of 10 Months. Supervised Release For A Term of 3 Years. Special Assessment is Remitted. Fine is Waived."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Hittner",
+          "judge_guid": "urn:entity:jud-100034398"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_508cr967_TXWD",
+  "case_key": "5:08cr967_TXWD",
+  "case_lni": "7WBN-HWK0-Y892-B4RF-00000-00",
+  "case_number": "5:08cr967",
+  "case_title": "USA v. Poblano",
+  "case_info_full_case_name": "USA v. Poblano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Poblano",
+  "case_date_filed": "2008-12-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Poblano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841G=CP.F"
+        },
+        {
+          "charge_description": "21:841G=CP.F CONTROLLED SUBSTANCE-POSSESSION. (Possession with Intent to Distribute Cocaine) (1)"
+        },
+        {
+          "charge_disposition": "Sentenced to a Term of 80 Months in the BOP; Said Sentence to run Concurrently with the Sentence Imposed in case No: 02-cr-333-001. 5 Years of Supervised Release; $100.00 Special Assessment; No Fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

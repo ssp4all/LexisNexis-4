@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_999m333_nyed",
+  "case_key": "9:99m333_nyed",
+  "case_lni": "7WBN-PGG0-Y892-B1D6-00000-00",
+  "case_number": "9:99m333",
+  "case_title": "USA v. Armello",
+  "case_info_full_case_name": "USA v. Armello",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Armello",
+  "case_date_filed": "1999-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS ARMELLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC228"
+        },
+        {
+          "charge_description": "18 USC Section 228 The defendant, having been so ordered to make child support payments, has knowingly and willfully failed to do so, and those obligations have gone unpaid for more than two years, and exceed $10,000."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Viktor V. Pohorelsky",
+          "judge_guid": "urn:entity:jud-100032847"
+        }
+      ]
+    }
+  ]
+}

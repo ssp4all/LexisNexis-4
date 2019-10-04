@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_311cr77_MSSD",
+  "case_key": "3:11cr77_MSSD",
+  "case_lni": "53V9-5N91-DXDT-G467-00000-00",
+  "case_number": "3:11cr77",
+  "case_title": "USA v. Bunton",
+  "case_info_full_case_name": "USA v. Bunton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bunton",
+  "case_date_filed": "2011-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Audiamecia Bunton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FALSE OR FRAUDULENT CLAIMS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FALSE OR FRAUDULENT CLAIMS (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FALSE OR FRAUDULENT CLAIMS (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Carlton W. Reeves",
+          "judge_guid": "urn:entity:jud-100002644"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. Keith Ball",
+          "judge_guid": "urn:entity:jud-100069833"
+        }
+      ]
+    }
+  ]
+}

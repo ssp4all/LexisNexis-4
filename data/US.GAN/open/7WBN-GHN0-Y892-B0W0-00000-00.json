@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_199m1205_gand",
+  "case_key": "1:99m1205_gand",
+  "case_lni": "7WBN-GHN0-Y892-B0W0-00000-00",
+  "case_number": "1:99m1205",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "1999-10-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BIRTHAN RAY JOHNSON, JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751(a)"
+        },
+        {
+          "charge_description": "18:751(a) Escape from lawful custody"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "E. Clayton Scofield, III",
+          "judge_guid": "urn:entity:jud-100026670"
+        }
+      ]
+    }
+  ]
+}

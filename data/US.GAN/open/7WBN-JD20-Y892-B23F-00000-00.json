@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_102cr644_gand",
+  "case_key": "1:02cr644_gand",
+  "case_lni": "7WBN-JD20-Y892-B23F-00000-00",
+  "case_number": "1:02cr644",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2002-10-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bernita Malloy",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DARIUS SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2 18:513(a)"
+        },
+        {
+          "charge_description": "18:2 Aided &; Abetted 18:513(a) UTTER FORGED AND COUNTERFEIT SECURITY (1-13)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2 18:1028(a)(3)"
+        },
+        {
+          "charge_description": "18:2 Aided &; Abetted 18:1028(a)(3) FRAUD WITH IDENTIFICATION DOCUMENTS (14)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

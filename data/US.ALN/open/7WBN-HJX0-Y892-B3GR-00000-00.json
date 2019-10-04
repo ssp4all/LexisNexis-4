@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_404cr151_ALND",
+  "case_key": "4:04cr151_ALND",
+  "case_lni": "7WBN-HJX0-Y892-B3GR-00000-00",
+  "case_number": "4:04cr151",
+  "case_title": "USA v. Avila-Avila",
+  "case_info_full_case_name": "USA v. Avila-Avila",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avila-Avila",
+  "case_date_filed": "2004-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE REYNALDO AVILA-AVILA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(2) REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1326(a)"
+        },
+        {
+          "charge_description": "in violation of 18:1326(a) Illegal Reentry of Deported Alien [2:04-m-69]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "U W Clemon",
+          "judge_guid": "urn:entity:jud-100097689"
+        },
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "T Michael Putnam",
+          "judge_guid": "urn:entity:jud-100027846"
+        }
+      ]
+    }
+  ]
+}

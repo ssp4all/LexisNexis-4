@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_314mj5190_WAWD",
+  "case_key": "3:14mj5190_WAWD",
+  "case_lni": "5D43-8WX1-DXDT-G308-00000-00",
+  "case_number": "3:14mj5190",
+  "case_title": "USA v. Rivera-Hernandez",
+  "case_info_full_case_name": "USA v. Rivera-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera-Hernandez",
+  "case_date_filed": "2014-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Rivera-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F - Illegal Reentry After Deportatin"
+        },
+        {
+          "charge_offence_description": "8:1326A.F - Illegal Reentry After Deportatin"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J Richard Creatura",
+          "judge_guid": "urn:entity:jud-100057943"
+        }
+      ]
+    }
+  ]
+}

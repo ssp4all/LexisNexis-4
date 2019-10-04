@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_102cr830_ilnd",
+  "case_key": "1:02cr830_ilnd",
+  "case_lni": "7WBN-PKJ0-Y892-B1RS-00000-00",
+  "case_number": "1:02cr830",
+  "case_title": "USA v. Pierce",
+  "case_info_full_case_name": "USA v. Pierce",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pierce",
+  "case_date_filed": "2002-08-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WALTER J PIERCE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F PUBLIC MONEY, PROPERTY OR RECORDS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "James B. Zagel",
+          "judge_guid": "urn:entity:jud-100005045"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_412mj1017_NCED",
+  "case_key": "4:12mj1017_NCED",
+  "case_lni": "556T-MTV1-DXDT-G1B8-00000-00",
+  "case_number": "4:12mj1017",
+  "case_title": "USA v. Detlaf",
+  "case_info_full_case_name": "USA v. Detlaf",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Detlaf",
+  "case_date_filed": "2012-03-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Joseph Detlaf",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "20-138.7"
+        },
+        {
+          "charge_description": "Transporting an open alcoholic beverage container, in violation of NCGS 20-138.7 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "90-113.22"
+        },
+        {
+          "charge_description": "Possession of drug paraphernalia, in violation of NCGS 90-113.22 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "19 20 18B-302(b)(3)"
+        },
+        {
+          "charge_description": "Underage consumption of alcohol by a person 19 or 20 years old, in violation of NCGS 18B-302(b)(3) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David W. Daniel",
+          "judge_guid": "urn:entity:jud-100057541"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_101cr4_iand",
+  "case_key": "1:01cr4_iand",
+  "case_lni": "7WBN-PJB0-Y892-B2RN-00000-00",
+  "case_number": "1:01cr4",
+  "case_title": "United States of America v. Griffith",
+  "case_info_full_case_name": "United States of America v. Griffith",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Griffith",
+  "case_date_filed": "2001-01-12",
+  "case_status": "Closed",
+  "case_status_date": "12/18/2001",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Andre Tyrone Griffith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(j) and 924(a)(2).F RECEIVE STOLEN FIREARMS(1s)"
+        },
+        {
+          "charge_disposition": "Imprisonment, 120 months on cnt 1 and 240 months on cnt 2, with these terms to run concurrently. Supervised Release, 3 years each on cnts 1 and 2, terms to run concurrently. Assessment, $200.00. Restitution, $16,758.85."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(e)(1).F UNLAWFUL TRANSPORT OF FIREARMS, ETC.(2s)"
+        },
+        {
+          "charge_disposition": "Imprisonment, 120 months on cnt 1 and 240 months on cnt 2, with these terms to run concurrently. Supervised Release, 3 years each on cnts 1 and 2, terms to run concurrently. Assessment, $200.00. Restitution, $16,758.85."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(j) and 924(a)(2).F RECEIVE STOLEN FIREARMS(1)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2).F UNLAWFUL TRANSPORT OF FIREARMS, ETC.(2)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Linda R Reade",
+          "judge_guid": "urn:entity:jud-100015236"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "CJ Williams",
+          "judge_guid": "urn:entity:jud-100121670"
+        }
+      ]
+    }
+  ]
+}

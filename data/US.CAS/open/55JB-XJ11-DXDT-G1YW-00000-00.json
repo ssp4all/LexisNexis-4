@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_212mj8463_CASD",
+  "case_key": "2:12mj8463_CASD",
+  "case_lni": "55JB-XJ11-DXDT-G1YW-00000-00",
+  "case_number": "2:12mj8463",
+  "case_title": "USA v. Dumitru",
+  "case_info_full_case_name": "USA v. Dumitru",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dumitru",
+  "case_date_filed": "2012-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcideza Dumitru",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325-Illegal"
+        },
+        {
+          "charge_description": "8:1325-Illegal Entry (Misdemeanor)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

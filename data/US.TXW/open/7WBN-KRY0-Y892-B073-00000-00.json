@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_206cr215_TXWD",
+  "case_key": "2:06cr215_TXWD",
+  "case_lni": "7WBN-KRY0-Y892-B073-00000-00",
+  "case_number": "2:06cr215",
+  "case_title": "USA v. Ramirez-Pescador",
+  "case_info_full_case_name": "USA v. Ramirez-Pescador",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Pescador",
+  "case_date_filed": "2006-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeremy Scott Sibert",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS RAMIREZ-PESCADOR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P"
+        },
+        {
+          "charge_description": "8:1325.P CONCEALMENT OF FACTS ABOUT REENTRY-Improper Entry by Alien (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8USC1325(Felony)-illegal"
+        },
+        {
+          "charge_description": "8 USC 1325(Felony)-illegal entry. [2:06-m-1274]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

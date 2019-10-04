@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_411cr738_SCD",
+  "case_key": "4:11cr738_SCD",
+  "case_lni": "534H-XWV1-DXDT-G1RY-00000-00",
+  "case_number": "4:11cr738",
+  "case_title": "USA v. Phillips",
+  "case_info_full_case_name": "USA v. Phillips",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Phillips",
+  "case_date_filed": "2011-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Timothy C Phillips Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:3148-Defendant"
+        },
+        {
+          "charge_description": "18:3148-Defendant failed to appear for Show Cause Hearing"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas E Rogers, III",
+          "judge_guid": "urn:entity:jud-100072153"
+        }
+      ]
+    }
+  ]
+}

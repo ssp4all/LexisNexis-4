@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_301cr973_txwd",
+  "case_key": "3:01cr973_txwd",
+  "case_lni": "7WBN-MHC0-Y892-B4PN-00000-00",
+  "case_number": "3:01cr973",
+  "case_title": "USA v. Christmann",
+  "case_info_full_case_name": "USA v. Christmann",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Christmann",
+  "case_date_filed": "2001-06-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANNE CHRISTMANN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344A.F"
+        },
+        {
+          "charge_description": "18:1344A.F BANK FRAUD (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344(1)"
+        },
+        {
+          "charge_description": "Knowingly and intentionally execute and attempt to execute a scheme and artifice to defraud the following federally insured financial institutions; in that said Defendants excuted a check-kiting scheme by depositing checks in accounts held at said financial institutions, knowing said checks were not covered by sufficient funds, and withdrawing funds from the accounts of said financial institution in violation of 18:1344(1) [3:01-m-1373]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    },
+    {
+      "party_name": "BERNARD ADOLF CHRISTMANN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344(1)"
+        },
+        {
+          "charge_description": "Knowingly and intentionally execute and attempt to execute a scheme and artifice to defraud the following federally insured financial institutions; in that said Defendants excuted a check-kiting scheme by depositing checks in accounts held at said financial institutions, knowing said checks were not covered by sufficient funds, and withdrawing funds from the accounts of said financial institution in violation of 18:1344(1) [3:01-m-1373]"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344A.F"
+        },
+        {
+          "charge_description": "18:1344A.F BANK FRAUD (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_100cr66_flsd",
+  "case_key": "1:00cr66_flsd",
+  "case_lni": "7WBN-J8G0-Y892-B4WC-00000-00",
+  "case_number": "1:00cr66",
+  "case_title": "USA v. Aguirre-Castro",
+  "case_info_full_case_name": "USA v. Aguirre-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguirre-Castro",
+  "case_date_filed": "2000-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Probation Officer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANDRES MAURICIO AGUIRRE-CASTRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=CI.F (HEROIN)"
+        },
+        {
+          "charge_description": "21:952=CI.F CONTROLLED SUBSTANCE-IMPORT (HEROIN) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841G=CP.F (HEROIN)"
+        },
+        {
+          "charge_description": "21:841G=CP.F CONTROLLED SUBSTANCE-POSSESSION WITH INTENT TO DISTRIBUTE (HEROIN) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472.F"
+        },
+        {
+          "charge_description": "18:472.F PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472.F"
+        },
+        {
+          "charge_description": "18:472.F PASSES COUNTERFEIT OBLIGATIONS OR SECURITIES (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession with intent to distribute heroin, and currency counterfeiting [1:00-m-2092]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ursula Ungaro-Benages",
+          "judge_guid": "urn:entity:jud-100003211"
+        }
+      ]
+    }
+  ]
+}

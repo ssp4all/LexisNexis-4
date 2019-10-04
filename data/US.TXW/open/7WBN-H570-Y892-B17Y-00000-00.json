@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_302cr1619_txwd",
+  "case_key": "3:02cr1619_txwd",
+  "case_lni": "7WBN-H570-Y892-B17Y-00000-00",
+  "case_number": "3:02cr1619",
+  "case_title": "USA v. Rodgers",
+  "case_info_full_case_name": "USA v. Rodgers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodgers",
+  "case_date_filed": "2002-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN VICTOR RODGERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:228.F (Misdemeanor)"
+        },
+        {
+          "charge_description": "18:228.F Failure to Pay Child Support Obligation (Misdemeanor) (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to five (5) years probation, $10.00 special assessment, $45,129.32 restitution (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable"
+        }
+      ]
+    }
+  ]
+}

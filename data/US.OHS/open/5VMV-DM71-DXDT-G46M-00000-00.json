@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_319mj160_OHSD",
+  "case_key": "3:19mj160_OHSD",
+  "case_lni": "5VMV-DM71-DXDT-G46M-00000-00",
+  "case_number": "3:19mj160",
+  "case_title": "USA v. Matthews",
+  "case_info_full_case_name": "USA v. Matthews",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Matthews",
+  "case_date_filed": "2019-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SaMee Harden",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jamal Omar Matthews",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sharon L. Ovington",
+          "judge_guid": "urn:entity:jud-100018020"
+        }
+      ]
+    }
+  ]
+}

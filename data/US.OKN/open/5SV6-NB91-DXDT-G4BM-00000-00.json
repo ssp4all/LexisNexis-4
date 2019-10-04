@@ -1,0 +1,116 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_418cr105_OKND",
+  "case_key": "4:18cr105_OKND",
+  "case_lni": "5SV6-NB91-DXDT-G4BM-00000-00",
+  "case_number": "4:18cr105",
+  "case_title": "USA v. Keene et al",
+  "case_info_full_case_name": "USA v. Keene et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Keene et al",
+  "case_date_filed": "2018-05-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Dennis Allen Fries",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mitchell Lee Keene",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(b)(1)(A)(viii) - DRUG CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "BOP 120 Months running concurrently with the sentence imposed in ND/OK Case 18-CR-114-CVE; SR: 5 Years running concurrently with ND/OK Case 18-CR-114-CVE; SMA $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Claire V Eagan",
+          "judge_guid": "urn:entity:jud-100056785"
+        }
+      ]
+    },
+    {
+      "party_name": "Amber Renee Long",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(b)(1)(C) - DRUG CONSPIRACY(1s)"
+        },
+        {
+          "charge_disposition": "BOP 15 months; SR 3 years; SMA $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 and 841(b)(1)(A)(viii) - DRUG CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "Dismissed at sentencing"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Claire V Eagan",
+          "judge_guid": "urn:entity:jud-100056785"
+        }
+      ]
+    },
+    {
+      "party_name": "Steven Lee Purdy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(b)(1)(C) - DRUG CONSPIRACY(1s)"
+        },
+        {
+          "charge_disposition": "BOP 100 Months; SR 36 Months; SMA $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 and 841(b)(1)(A)(viii) - DRUG CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Claire V Eagan",
+          "judge_guid": "urn:entity:jud-100056785"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_711mj411_TXWD",
+  "case_key": "7:11mj411_TXWD",
+  "case_lni": "54DC-9WS1-DXDT-G02H-00000-00",
+  "case_number": "7:11mj411",
+  "case_title": "USA v. Sanchez-Licon",
+  "case_info_full_case_name": "USA v. Sanchez-Licon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Licon",
+  "case_date_filed": "2011-12-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "William R. Tatum",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Socorro Enrique Sanchez-Licon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F Reentry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    }
+  ]
+}

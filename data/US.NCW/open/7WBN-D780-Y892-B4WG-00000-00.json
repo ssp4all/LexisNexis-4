@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_105mj211_NCWD",
+  "case_key": "1:05mj211_NCWD",
+  "case_lni": "7WBN-D780-Y892-B4WG-00000-00",
+  "case_number": "1:05mj211",
+  "case_title": "USA v. Porta",
+  "case_info_full_case_name": "USA v. Porta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Porta",
+  "case_date_filed": "2005-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Edward Porta",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Embezzlement, 18:641.F,"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Dennis",
+          "judge_name": "Howell",
+          "judge_guid": "urn:entity:jud-100033959"
+        }
+      ]
+    }
+  ]
+}

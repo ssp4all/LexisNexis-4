@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318po491_CASD",
+  "case_key": "3:18po491_CASD",
+  "case_lni": "5RPN-8S61-DXDT-G4H7-00000-00",
+  "case_number": "3:18po491",
+  "case_title": "USA vs Clowers",
+  "case_info_full_case_name": "USA vs Clowers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clowers",
+  "case_date_filed": "2018-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Clifford T Clowers",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Petty theft (7164333)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William V. Gallo",
+          "judge_guid": "urn:entity:jud-100045796"
+        }
+      ]
+    }
+  ]
+}

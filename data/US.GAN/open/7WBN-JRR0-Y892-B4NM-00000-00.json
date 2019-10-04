@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_107mj682_GAND",
+  "case_key": "1:07mj682_GAND",
+  "case_lni": "7WBN-JRR0-Y892-B4NM-00000-00",
+  "case_number": "1:07mj682",
+  "case_title": "USA v. Jeffries",
+  "case_info_full_case_name": "USA v. Jeffries",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jeffries",
+  "case_date_filed": "2007-06-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Todd C. Alley",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marlandow Jeffries",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)"
+        },
+        {
+          "charge_description": "18:922(g) UNLAWFUL TRANSPORT OF FIREARMS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gerrilyn G. Brill",
+          "judge_guid": "urn:entity:jud-100064295"
+        }
+      ]
+    }
+  ]
+}

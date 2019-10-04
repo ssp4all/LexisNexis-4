@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_297m165_caed",
+  "case_key": "2:97m165_caed",
+  "case_lni": "7WBN-MB50-Y892-B466-00000-00",
+  "case_number": "2:97m165",
+  "case_title": "USA v. Brouillette",
+  "case_info_full_case_name": "USA v. Brouillette",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brouillette",
+  "case_date_filed": "1997-05-02",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BARRY B BROUILLETTE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F Moulds",
+          "judge_guid": "urn:entity:jud-100015709"
+        }
+      ]
+    }
+  ]
+}

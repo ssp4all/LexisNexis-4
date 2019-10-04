@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_302cr122_tnmd",
+  "case_key": "3:02cr122_tnmd",
+  "case_lni": "7WBN-RM10-Y892-B43C-00000-00",
+  "case_number": "3:02cr122",
+  "case_title": "USA v. Jackson",
+  "case_info_full_case_name": "USA v. Jackson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jackson",
+  "case_date_filed": "2002-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HOWARD G. JACKSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7/24/02: 18:922(g)"
+        },
+        {
+          "charge_description": "Indictment filed 7/24/02: 18:922(g) Convicted felon in possession of firearms (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7/24/02: 18:922(k) 18:924"
+        },
+        {
+          "charge_description": "Indictment filed 7/24/02: 18:922(k) and 18:924 Possession of firearm which had the serial number removed (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7/4/02: 21:844 18:2"
+        },
+        {
+          "charge_description": "Indictment filed 7/4/02: 21:844 and 18:2 Possession of marijuana (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John T. Nixon",
+          "judge_guid": "urn:entity:jud-100027377"
+        }
+      ]
+    }
+  ]
+}

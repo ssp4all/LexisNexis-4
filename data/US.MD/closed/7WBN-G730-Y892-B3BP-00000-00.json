@@ -1,0 +1,453 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_106cr542_MDD",
+  "case_key": "1:06cr542_MDD",
+  "case_lni": "7WBN-G730-Y892-B3BP-00000-00",
+  "case_number": "1:06cr542",
+  "case_title": "USA v. Gasca et al",
+  "case_info_full_case_name": "USA v. Gasca et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gasca et al",
+  "case_date_filed": "2006-12-05",
+  "case_status": "Closed",
+  "case_status_date": "12/18/2008",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kwame J Manley",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Humberto Gasca",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 113 MONTHS WITH CREDIT FROM DATE OF ARREST 12/5/06; SUPERVISED RELEASE FOR A TERM OF FIVE (5) YEARS; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028(f) CONSPIRACY TO TRANSFER FALSE IDENTIFICATION DOCUMENTS(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Josefina Quinonez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 120 MONTHS WITH CREDIT FROM DATE OF ARREST; SUPERVISED RELEASE FOR A TERM OF FIVE (5) YEARS; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Vanessa Ruiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 120 MONTHS WITH CREDIT FROM DATE OF ARREST 12/12/06; SUPERVISED RELEASE FOR A TERM OF FIVE (5) YEARS; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028(f) CONSPIRACY TO TRANSFER FALSE IDENTIFICATION DOCUMENTS(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Juan Arturo Vargas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 120 MONTHS WITH CREDIT FROM 12/11/06; SUPERVISED RELEASE FOR A TERM OF THREE(3) YEARS; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Frederick Motz",
+          "judge_guid": "urn:entity:jud-100003423"
+        }
+      ]
+    },
+    {
+      "party_name": "Enrique Najera Gasca",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 120 months; Supervised Release 5 years; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028(f) CONSPIRACY TO TRANSFER FALSE IDENTIFICATION DOCUMENTS(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Jonathan Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 120 MONTHS WITH CREDIT FOR TIME SERVED SINCE 5/25/07; SUPERVISED RELEASE FOR A TERM OF THREE (3) YEARS; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Javier Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 60 months with credit from date of arrest, December 12, 2006; Supervised Release 4 years; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028(f) CONSPIRACY TO TRANSFER FALSE IDENTIFICATION DOCUMENTS(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Rafael Gasca",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 37 months with credit for time in custody from the date or arrest; Supervised Release 4 years; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Angel Francisco Velasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 27 months with credit for time in custody; Supervised Release 4 years; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028(f) CONSPIRACY TO TRANSFER FALSE IDENTIFICATION DOCUMENTS(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Daniel Najera Gasca",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a total term of 60 months with credit from date of arrest December 12, 2006; SUPERVISED RELEASE for a term of 3 years; ASSESSMENT of $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Francisco Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 40 MONTHS DEFENDANT TO BE GIVEN CREDIT FOR TIME SERVED SINCE 9/5/07; SUPERVISED RELEASE FOR A TERM OF 5 YEARS; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 18 MONTHS; SUPERVISED RELEASE FOR A TERM OF THREE (3) YEARS; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Rodrigo Ramirez Rojas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1028(f) CONSPIRACY TO TRANSFER FALSE IDENTIFICATION DOCUMENTS(2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for 26 months; SR for 2 years; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Luis Diaz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 15 MONTHS WITH CREDIT FROM DECEMBER 12, 2006; SUPERVISED RELEASE FOR A TERM OF FOUR (4) YEARS. ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Patricia Lnu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE COCAINE AND COCAINE BASE(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment 18 months with credit for all time spent in custody awaiting disposition; Supervised Release 4 years; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    },
+    {
+      "party_name": "Maria Idalia Quinonez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1028(f) CONSPIRACY TO TRANSFER FALSE IDENTIFICATION DOCUMENTS(2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT FOR A TOTAL TERM OF 1 YEAR AND 1 DAY; SUPERVISED RELEASE FOR A TERM OF TWO (2) YEARS; ASSESSMENT $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andre M Davis",
+          "judge_guid": "urn:entity:jud-100057423"
+        }
+      ]
+    }
+  ]
+}

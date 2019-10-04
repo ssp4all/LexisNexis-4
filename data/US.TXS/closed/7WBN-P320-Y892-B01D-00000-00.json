@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_595cr195_txsd",
+  "case_key": "5:95cr195_txsd",
+  "case_lni": "7WBN-P320-Y892-B01D-00000-00",
+  "case_number": "5:95cr195",
+  "case_title": "USA v. Urbina-Terrazas",
+  "case_info_full_case_name": "USA v. Urbina-Terrazas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Urbina-Terrazas",
+  "case_date_filed": "1995-09-06",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS URBINA-TERRAZAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252.F 9-10-93; 5 3"
+        },
+        {
+          "charge_description": "18:2252.F Possession of child pornography material; offense date: 9-10-93; Penalty: 0 to 5 yrs and/or $250,000.00, $50 SA, not more than 3 yrs SRT (1)"
+        },
+        {
+          "charge_disposition": "4 mos impris, 3 yrs TSR, $3, 000.00 fine, $100 SA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2252.F 9-10-93; 10 3"
+        },
+        {
+          "charge_description": "18:2252.F Receiving child pornography material through the mail, Offense date: 9-10-93; Penalty: 0 to 10 yrs and/or $250,000.00, $50 SA, not more than 3 yrs SRT (2)"
+        },
+        {
+          "charge_disposition": "Dismissed on govt's motion (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

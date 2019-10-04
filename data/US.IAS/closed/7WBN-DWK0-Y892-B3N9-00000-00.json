@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_498cr130_iasd",
+  "case_key": "4:98cr130_iasd",
+  "case_lni": "7WBN-DWK0-Y892-B3N9-00000-00",
+  "case_number": "4:98cr130",
+  "case_title": "USA v. Bayliff",
+  "case_info_full_case_name": "USA v. Bayliff",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bayliff",
+  "case_date_filed": "1998-07-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANK DWAYNE BAYLIFF",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1201(a)(1)"
+        },
+        {
+          "charge_description": "18:1201(a)(1) KIDNAPPING (1)"
+        },
+        {
+          "charge_disposition": "Ct 1-impr 150 months; defendant remanded to custody of USM; supervised release-5 years; restitution ordered in the amount of $ 151.45; (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert W Pratt",
+          "judge_guid": "urn:entity:jud-100032662"
+        }
+      ]
+    }
+  ]
+}

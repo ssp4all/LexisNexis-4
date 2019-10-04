@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_394m165_ohsd",
+  "case_key": "3:94m165_ohsd",
+  "case_lni": "7WBN-RWY0-Y892-B2FP-00000-00",
+  "case_number": "3:94m165",
+  "case_title": "USA v. Express Mail Parcel",
+  "case_info_full_case_name": "USA v. Express Mail Parcel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Express Mail Parcel",
+  "case_date_filed": "1994-05-05",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "#EF 091994967 US, ADDRESSED TO CYNTHIA JEFFERSON, 220 E. BRUCE ST., DAYTON, ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Michael Merz",
+          "judge_guid": "urn:entity:jud-100025999"
+        }
+      ]
+    }
+  ]
+}

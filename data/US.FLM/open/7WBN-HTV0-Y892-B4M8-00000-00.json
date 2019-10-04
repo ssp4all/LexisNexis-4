@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_503cr58_flmd",
+  "case_key": "5:03cr58_flmd",
+  "case_lni": "7WBN-HTV0-Y892-B4M8-00000-00",
+  "case_number": "5:03cr58",
+  "case_title": "United States of America v. Sawaya",
+  "case_info_full_case_name": "United States of America v. Sawaya",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Sawaya",
+  "case_date_filed": "2003-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mary E. Sawaya",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1001.F STATEMENTS OR ENTRIES GENERALLY - Use a materially false and fraudulent document, in connection with a submission of clinical testing results.(1)"
+        },
+        {
+          "charge_disposition": "Probation: 24 months; Special Assessment: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Terrell Hodges",
+          "judge_guid": "urn:entity:jud-100071240"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary R. Jones",
+          "judge_guid": "urn:entity:jud-100050215"
+        }
+      ]
+    }
+  ]
+}

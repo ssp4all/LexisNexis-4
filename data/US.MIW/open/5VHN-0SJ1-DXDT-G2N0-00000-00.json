@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_119cr41_MIWD",
+  "case_key": "1:19cr41_MIWD",
+  "case_lni": "5VHN-0SJ1-DXDT-G2N0-00000-00",
+  "case_number": "1:19cr41",
+  "case_title": "USA v. Paauwe",
+  "case_info_full_case_name": "USA v. Paauwe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Paauwe",
+  "case_date_filed": "2019-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Philip Gordon Paauwe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2422(b) COERCION OR ENTICEMENT OF FEMALE; coercion and enticement of a minor(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2251(a), (e), 18:2256 SEXUAL EXPLOITATION OF CHILDREN; sexual exploitation of a minor(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252A(a)(2)(A) and (b)(1), 18:2256 ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO; receipt of child pornography(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2422(b) COERCION OR ENTICEMENT OF FEMALE; attempted coercion and enticement(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252A(a)(5)(B) and (b)(2), 18:2256 ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO; possession of child pornography(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Paul L. Maloney",
+          "judge_guid": "urn:entity:jud-100029144"
+        }
+      ]
+    }
+  ]
+}

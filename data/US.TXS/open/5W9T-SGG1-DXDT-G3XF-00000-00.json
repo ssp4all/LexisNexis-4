@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_419cr447_TXSD",
+  "case_key": "4:19cr447_TXSD",
+  "case_lni": "5W9T-SGG1-DXDT-G3XF-00000-00",
+  "case_number": "4:19cr447",
+  "case_title": "USA v. Clary",
+  "case_info_full_case_name": "USA v. Clary",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clary",
+  "case_date_filed": "2019-06-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adon Bryce Clary",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ROBBERY OF MONEY OF THE UNITED STATES(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gray H Miller",
+          "judge_guid": "urn:entity:jud-100036212"
+        }
+      ]
+    }
+  ]
+}

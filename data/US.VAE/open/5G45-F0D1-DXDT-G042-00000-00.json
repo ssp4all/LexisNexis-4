@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_115mj303_VAED",
+  "case_key": "1:15mj303_VAED",
+  "case_lni": "5G45-F0D1-DXDT-G042-00000-00",
+  "case_number": "1:15mj303",
+  "case_title": "USA v. Thompson",
+  "case_info_full_case_name": "USA v. Thompson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thompson",
+  "case_date_filed": "2015-06-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Amanda O'Neil",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shaquille L. Thompson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:844(a) Possession of Marijuana (Sch. I)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

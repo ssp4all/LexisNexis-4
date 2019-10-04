@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_110cr16_TXSD",
+  "case_key": "1:10cr16_TXSD",
+  "case_lni": "7XGS-5KG0-Y892-B0MP-00000-00",
+  "case_number": "1:10cr16",
+  "case_title": "USA v. Amaya-Mendez",
+  "case_info_full_case_name": "USA v. Amaya-Mendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Amaya-Mendez",
+  "case_date_filed": "2010-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Oscar Amaya-Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 8:1326(b):"
+        },
+        {
+          "charge_description": "8:1326(a) and 8:1326(b): Knowingly and unlawfully was present in the U.S. after having been previously denied admission, excluded, deported, and removed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

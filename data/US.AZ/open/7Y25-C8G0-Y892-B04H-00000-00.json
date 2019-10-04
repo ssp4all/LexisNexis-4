@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_410cr513_AZD",
+  "case_key": "4:10cr513_AZD",
+  "case_lni": "7Y25-C8G0-Y892-B04H-00000-00",
+  "case_number": "4:10cr513",
+  "case_title": "USA v. Olivarria-Lopez",
+  "case_info_full_case_name": "USA v. Olivarria-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Olivarria-Lopez",
+  "case_date_filed": "2010-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Josue Olivarria-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1)and 841(b)(1)(C)POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA(1)"
+        },
+        {
+          "charge_disposition": "BOP for a period of 21 Months with credit for time served, Supervised Release for 3 yrs, S/A $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Ct1 21:841(a)(1) and 841(b)(1)(C) Possession with Intent to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "Ct1 21:841(a)(1) and 841(b)(1)(C) Possession with "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank R Zapata",
+          "judge_guid": "urn:entity:jud-100065407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

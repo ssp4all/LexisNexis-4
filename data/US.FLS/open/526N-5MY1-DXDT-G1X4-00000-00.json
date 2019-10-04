@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_011mj6090_FLSD",
+  "case_key": "0:11mj6090_FLSD",
+  "case_lni": "526N-5MY1-DXDT-G1X4-00000-00",
+  "case_number": "0:11mj6090",
+  "case_title": "USA v. Sealed Seizure Warrant",
+  "case_info_full_case_name": "USA v. Sealed Seizure Warrant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sealed Seizure Warrant",
+  "case_date_filed": "2011-02-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sealed Seizure Warrant",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lurana S. Snow",
+          "judge_guid": "urn:entity:jud-100020553"
+        }
+      ]
+    }
+  ]
+}

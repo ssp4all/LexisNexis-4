@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_295m121_wyd",
+  "case_key": "2:95m121_wyd",
+  "case_lni": "7WBN-RG10-Y892-B146-00000-00",
+  "case_number": "2:95m121",
+  "case_title": "USA v. Stadick",
+  "case_info_full_case_name": "USA v. Stadick",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stadick",
+  "case_date_filed": "1995-11-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES F STADICK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:111A.M ASSAULT-18:111(a)(1)"
+        },
+        {
+          "charge_description": "18:111A.M SIMPLE ASSAULT-18:111(a)(1) Assault, resist, oppose, impede, and interfere with a law enforcement officer engaged in official duties (1)"
+        },
+        {
+          "charge_disposition": "One year supervised probation with special conditions, 100 hours community service, $25.00 special assessment on Count 1, $10.00 special assessment on Count 2 (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:113D.P OTHER-18:113(a)(4)"
+        },
+        {
+          "charge_description": "18:113D.P ASSAULT, OTHER-18:113(a)(4) Assault (2)"
+        },
+        {
+          "charge_disposition": "One year supervised probation with special conditions, 100 hours community service, $25.00 special assessment on Count 1, $10.00 special assessment on Count 2 (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "I-18:111(a)(1) II-18:113(a)(4)"
+        },
+        {
+          "charge_description": "Count I-18:111(a)(1) Assault, Resist, Oppose, Impede and Interfere with an officer while engaged in official duties Count II-18:113(a)(4) Assault"
+        },
+        {
+          "charge_disposition": "One year supervised probation with special conditions, 100 hours community service, $25.00 special assessment on Count 1, $10.00 special assessment on Count 2 (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William C Beaman",
+          "judge_guid": "urn:entity:jud-100062035"
+        }
+      ]
+    }
+  ]
+}

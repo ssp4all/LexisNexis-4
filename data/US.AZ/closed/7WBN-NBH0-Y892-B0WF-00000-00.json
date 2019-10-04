@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_402m1762_azd",
+  "case_key": "4:02m1762_azd",
+  "case_lni": "7WBN-NBH0-Y892-B0WF-00000-00",
+  "case_number": "4:02m1762",
+  "case_title": "USA, et al v. Martinez-Olivarria",
+  "case_info_full_case_name": "USA, et al v. Martinez-Olivarria",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Martinez-Olivarria",
+  "case_date_filed": "2002-02-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PATRICIA MARTINEZ-OLIVARRIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2: 21:844(a)"
+        },
+        {
+          "charge_description": "Count 2: 21:844(a) MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_disposition": "BOP imprisonment for a period of 60 days, with credit for time served; 12 months supervised release; $25 s/a (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1: 21:841(a)(1) 2: 21:844(a)"
+        },
+        {
+          "charge_description": "Count 1: 21:841(a)(1) Possession With Intent to Distribute Marijuana Count 2: 21:844(a) Possession of Marijuana"
+        },
+        {
+          "charge_disposition": "Count 1 dismissed (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

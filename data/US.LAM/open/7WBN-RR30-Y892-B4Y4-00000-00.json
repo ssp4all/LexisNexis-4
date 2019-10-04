@@ -1,0 +1,36 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAM_306cr145_LAMD",
+  "case_key": "3:06cr145_LAMD",
+  "case_lni": "7WBN-RR30-Y892-B4Y4-00000-00",
+  "case_number": "3:06cr145",
+  "case_title": "USA v. Spell",
+  "case_info_full_case_name": "USA v. Spell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Spell",
+  "case_date_filed": "2006-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Steven P. Spell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NATIONAL WILDLIFE REFUGE SYSTEM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ]
+    }
+  ]
+}

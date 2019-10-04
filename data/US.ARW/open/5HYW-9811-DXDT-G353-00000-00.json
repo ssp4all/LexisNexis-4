@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_616cr60001_ARWD",
+  "case_key": "6:16cr60001_ARWD",
+  "case_lni": "5HYW-9811-DXDT-G353-00000-00",
+  "case_number": "6:16cr60001",
+  "case_title": "USA v. Alvarado-Foraneli",
+  "case_info_full_case_name": "USA v. Alvarado-Foraneli",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarado-Foraneli",
+  "case_date_filed": "2016-01-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alvaro Alvarado-Foraneli",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) - ILLEGAL REENTRY BY ALIEN INTO THE UNITED STATES WITHOUT THE PERMISSION FROM THE ATTORNEY GENERAL OF THE UNITED STATES AND/OR THE SECRETARY OF THE DEPARTMENT OF HOMELAND SECURITY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a); Illegal re-entry after deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a); Illegal re-entry after deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Susan O. Hickey",
+          "judge_guid": "urn:entity:jud-100051740"
+        }
+      ]
+    }
+  ]
+}

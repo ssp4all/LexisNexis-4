@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_606mj29_TXSD",
+  "case_key": "6:06mj29_TXSD",
+  "case_lni": "7WBN-P600-Y892-B3MX-00000-00",
+  "case_number": "6:06mj29",
+  "case_title": "USA v. Allen",
+  "case_info_full_case_name": "USA v. Allen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Allen",
+  "case_date_filed": "2006-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Damon Michael Allen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRANSPORTING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    },
+    {
+      "party_name": "Eliseo Soriano",
+      "party_description": "material witness"
+    },
+    {
+      "party_name": "Edgar Giovani Mejia Benitez",
+      "party_description": "material witness"
+    }
+  ]
+}

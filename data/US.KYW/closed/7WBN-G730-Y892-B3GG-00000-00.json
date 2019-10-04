@@ -1,0 +1,175 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_106cr6_KYWD",
+  "case_key": "1:06cr6_KYWD",
+  "case_lni": "7WBN-G730-Y892-B3GG-00000-00",
+  "case_number": "1:06cr6",
+  "case_title": "USA v. Wilson et al",
+  "case_info_full_case_name": "USA v. Wilson et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wilson et al",
+  "case_date_filed": "2006-02-08",
+  "case_status": "Closed",
+  "case_status_date": "06/12/2007",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Michael Wilson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 - CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "Imprisoned 15 months as to each of Counts 1 through 6 (concurrent); Supervised release 2 years as to each of Counts 1 through 6 (concurrent); SPA $600.00; Restitution $295,023.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341 AND 2 - MAIL FRAUD; AID AND ABET(2-6)"
+        },
+        {
+          "charge_disposition": "Imprisoned 15 months as to each of Counts 1 through 6 (concurrent); Supervised release 2 years as to each of Counts 1 through 6 (concurrent); SPA $600.00; Restitution $295,023.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:981, 982, AND 28:2461 - FORFEITURE(7)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        }
+      ]
+    },
+    {
+      "party_name": "Allen V. Osborne",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 - CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "Imprisoned 15 months as to Count 1; Supervised Release 2 years; Restitution $187,523.00 (jointly and severally); SPA $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341 AND 2 - MAIL FRAUD; AID AND ABET(2)"
+        },
+        {
+          "charge_disposition": "Not Guilty - Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341 AND 2 - MAIL FRAUD; AID AND ABET(3-5)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341 AND 2 - MAIL FRAUD; AID AND ABET(6)"
+        },
+        {
+          "charge_disposition": "Not Guilty - Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:981, 982, AND 28:2461 - FORFEITURE(7)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        }
+      ]
+    },
+    {
+      "party_name": "Kevin S. Schepman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 - CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "Imprisoned 5 months as to Count 1; Supervised Release 2 years; Restitution $108,500; SPA $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341 AND 2 - MAIL FRAUD; AID AND ABET(2-6)"
+        },
+        {
+          "charge_disposition": "Not Guilty - Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:981, 982, AND 28:2461 - FORFEITURE(7)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        }
+      ]
+    }
+  ]
+}

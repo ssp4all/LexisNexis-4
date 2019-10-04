@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_299cr397_laed",
+  "case_key": "2:99cr397_laed",
+  "case_lni": "7WBN-MDD0-Y892-B2RN-00000-00",
+  "case_number": "2:99cr397",
+  "case_title": "USA v. Morrell",
+  "case_info_full_case_name": "USA v. Morrell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morrell",
+  "case_date_filed": "1999-12-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gaven T. Kammer",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VALANCE V MORRELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:287 18:2"
+        },
+        {
+          "charge_description": "18:287 FALSE CLAIMS FOR INCOME TAX REFUND; 18:2 AIDING &; ABETTING (1-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Edith Brown Clement",
+          "judge_guid": "urn:entity:jud-100048254"
+        }
+      ]
+    }
+  ]
+}

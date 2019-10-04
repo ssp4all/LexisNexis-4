@@ -1,0 +1,99 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_801cr27_mdd",
+  "case_key": "8:01cr27_mdd",
+  "case_lni": "7WBN-D1H0-Y892-B2P4-00000-00",
+  "case_number": "8:01cr27",
+  "case_title": "USA v. Crump, et al",
+  "case_info_full_case_name": "USA v. Crump, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Crump, et al",
+  "case_date_filed": "2001-01-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTONIO DENNIS CRUMP",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to Manufacture and Distribute Counterfeit Currency (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:473 2"
+        },
+        {
+          "charge_description": "18:473 and 2 Dealing in Counterfeit U.S. Currency; and Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:473 2"
+        },
+        {
+          "charge_description": "18:473 and 2 Dealing in Counterfeit U.S. Currency; Aiding and Abetting (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alexander Williams, Jr.",
+          "judge_guid": "urn:entity:jud-100022674"
+        }
+      ]
+    },
+    {
+      "party_name": "LEKITA FLEET",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:473 2"
+        },
+        {
+          "charge_description": "18:473 and 2 Dealing in Counterfeit U.S. Currency; and Aiding and Abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 Conspiracy to Manufacture and Distribute Counterfeit Currency (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alexander Williams, Jr.",
+          "judge_guid": "urn:entity:jud-100022674"
+        }
+      ]
+    }
+  ]
+}

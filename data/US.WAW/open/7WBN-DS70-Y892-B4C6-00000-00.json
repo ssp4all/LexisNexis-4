@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_305cr5859_WAWD",
+  "case_key": "3:05cr5859_WAWD",
+  "case_lni": "7WBN-DS70-Y892-B4C6-00000-00",
+  "case_number": "3:05cr5859",
+  "case_title": "USA v. Havens",
+  "case_info_full_case_name": "USA v. Havens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Havens",
+  "case_date_filed": "2005-12-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor McChord",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kristy L Havens",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "GOVERNMENT PROPERTY OR CONTRACTS"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "2ND"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER: NEGLIGENT DRIVING 2ND DEGREE"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER: FAILURE TO REPORT TRAFFIC ACCIDENT"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "J. Kelley Arnold",
+          "judge_guid": "urn:entity:jud-100074208"
+        }
+      ]
+    }
+  ]
+}

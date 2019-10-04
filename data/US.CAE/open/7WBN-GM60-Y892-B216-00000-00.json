@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_202m203_caed",
+  "case_key": "2:02m203_caed",
+  "case_lni": "7WBN-GM60-Y892-B216-00000-00",
+  "case_number": "2:02m203",
+  "case_title": "USA v. McCue",
+  "case_info_full_case_name": "USA v. McCue",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCue",
+  "case_date_filed": "2002-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS A MCCUE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.P"
+        },
+        {
+          "charge_description": "18:13-7210.P DRIVING UNDER THE INFLUENCE OF ALCOHOL (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F Moulds",
+          "judge_guid": "urn:entity:jud-100015709"
+        }
+      ]
+    }
+  ]
+}

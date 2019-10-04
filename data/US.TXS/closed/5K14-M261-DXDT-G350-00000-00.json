@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_116cr519_TXSD",
+  "case_key": "1:16cr519_TXSD",
+  "case_lni": "5K14-M261-DXDT-G350-00000-00",
+  "case_number": "1:16cr519",
+  "case_title": "USA v. Guevara-Cantu",
+  "case_info_full_case_name": "USA v. Guevara-Cantu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guevara-Cantu",
+  "case_date_filed": "2016-06-14",
+  "case_status": "Closed",
+  "case_status_date": "11/22/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ruben Alberto Guevara-Cantu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Ct. 1: Illegal re-entry into the United States (found in) 8 USC 1326(a) and (b)(1)(1)"
+        },
+        {
+          "charge_disposition": "46 months BOP. Court waives SRT and Fine. Special Assessment $100.00 remitted."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) &; 1326(b) Knowingly &; Unlawfully was present in the United States after having been previously denied admission, excluded, deported, and removed"
+        },
+        {
+          "charge_offence_description": "8:1326(a) & 1326(b) Knowingly & Unlawfully was pre"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Rolando Olvera",
+          "judge_guid": "urn:entity:jud-100035891"
+        }
+      ]
+    }
+  ]
+}

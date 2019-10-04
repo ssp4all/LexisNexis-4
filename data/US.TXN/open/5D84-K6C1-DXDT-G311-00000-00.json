@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_314mj670_TXND",
+  "case_key": "3:14mj670_TXND",
+  "case_lni": "5D84-K6C1-DXDT-G311-00000-00",
+  "case_number": "3:14mj670",
+  "case_title": "USA v. Castleberry",
+  "case_info_full_case_name": "USA v. Castleberry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castleberry",
+  "case_date_filed": "2014-09-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lara L Burns-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Not Admitted"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Larry Castleberry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113 Bank Robbery"
+        },
+        {
+          "charge_offence_description": "18:2113 Bank Robbery"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Renee Harris Toliver",
+          "judge_guid": "urn:entity:jud-100072198"
+        }
+      ]
+    }
+  ]
+}

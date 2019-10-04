@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_414cr55_VAED",
+  "case_key": "4:14cr55_VAED",
+  "case_lni": "5D3W-4071-DXDT-G0DD-00000-00",
+  "case_number": "4:14cr55",
+  "case_title": "USA v. Baigert",
+  "case_info_full_case_name": "USA v. Baigert",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baigert",
+  "case_date_filed": "2014-09-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael John Baigert, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "T.18:2251(a)- Production Child Pornography and T.18:2253 and 1467 - Forfeiture(1)"
+        },
+        {
+          "charge_disposition": "TWO HUNDRED FORTY (240) MONTHS on Count 1, to be served concurrently"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "T.18:2251(a)- Production Child Pornography and T.18:2253 and 1467 - Forfeiture(2)"
+        },
+        {
+          "charge_disposition": "TWO HUNDRED FORTY (240) MONTHS on Count 2, to be served concurrently"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "T.18:2251(a)- Production Child Pornography and T.18:2253 and 1467 - Forfeiture(3)"
+        },
+        {
+          "charge_disposition": "TWO HUNDRED FORTY (240) MONTHS on Count 3, to be served concurrently"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "T.18:2251(a)- Production Child Pornography and T.18:2253 and 1467 - Forfeiture(4)"
+        },
+        {
+          "charge_disposition": "TWO HUNDRED FORTY (240) MONTHS on Count 4, to be served concurrently"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Mark S. Davis",
+          "judge_guid": "urn:entity:jud-100057367"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

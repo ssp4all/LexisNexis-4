@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319cr678_CASD",
+  "case_key": "3:19cr678_CASD",
+  "case_lni": "5VHN-0SJ1-DXDT-G0X3-00000-00",
+  "case_number": "3:19cr678",
+  "case_title": "USA v. Alatorre-Delgadillo",
+  "case_info_full_case_name": "USA v. Alatorre-Delgadillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alatorre-Delgadillo",
+  "case_date_filed": "2019-02-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Steven Lee",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Toribio Alatorre-Delgadillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a), (b) - Removed Alien Found in the United States (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326 - Deported Alien Found in the United States (Felony)"
+        },
+        {
+          "charge_offence_description": "8:1326 - Deported Alien Found in the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cynthia Bashant",
+          "judge_guid": "urn:entity:jud-100062162"
+        }
+      ]
+    }
+  ]
+}

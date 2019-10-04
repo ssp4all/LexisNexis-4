@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_206cr20096_KSD",
+  "case_key": "2:06cr20096_KSD",
+  "case_lni": "7WBN-KRF0-Y892-B4P5-00000-00",
+  "case_number": "2:06cr20096",
+  "case_title": "USA v. Huffman",
+  "case_info_full_case_name": "USA v. Huffman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Huffman",
+  "case_date_filed": "2006-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Marietta Parker",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Randall A. Huffman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343 2--Wire"
+        },
+        {
+          "charge_description": "18:1343 and 2--Wire Fraud. (Information Filed [07/10/06].) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John W. Lungstrum",
+          "judge_guid": "urn:entity:jud-100029528"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Waxse",
+          "judge_guid": "urn:entity:jud-100023227"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_413mj2456_AZD",
+  "case_key": "4:13mj2456_AZD",
+  "case_lni": "596Y-KF61-DXDT-G16F-00000-00",
+  "case_number": "4:13mj2456",
+  "case_title": "USA v. Bojorquez-Favela et al",
+  "case_info_full_case_name": "USA v. Bojorquez-Favela et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bojorquez-Favela et al",
+  "case_date_filed": "2013-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Charlie Bojorquez-Favela",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(v)(I) and 1324(a)(1)(B)(i) Transportation of Illegal Aliens for Private Financial Gain"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(v)(I) and 1324("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    },
+    {
+      "party_name": "Jesus Valencia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(v)(I) and 1324(a)(1)(B)(i) Transportation of Illegal Aliens for Private Financial Gain"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii), 1324(a)(1)(A)(v)(I) and 1324("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    },
+    {
+      "party_description": "Material Witness"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_106m330_NMD",
+  "case_key": "1:06m330_NMD",
+  "case_lni": "7WBN-PPT0-Y892-B3J4-00000-00",
+  "case_number": "1:06m330",
+  "case_title": "USA v. Poblano",
+  "case_info_full_case_name": "USA v. Poblano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Poblano",
+  "case_date_filed": "2006-06-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Samuel Poblano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1153 18:1111"
+        },
+        {
+          "charge_description": "18:1153 CRIME ON INDIAN RESERVATION AND 18:1111 MURDER (0-0)"
+        }
+      ]
+    }
+  ]
+}

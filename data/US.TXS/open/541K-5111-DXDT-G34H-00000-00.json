@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_411cr711_TXSD",
+  "case_key": "4:11cr711_TXSD",
+  "case_lni": "541K-5111-DXDT-G34H-00000-00",
+  "case_number": "4:11cr711",
+  "case_title": "USA v. Bigelow",
+  "case_info_full_case_name": "USA v. Bigelow",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bigelow",
+  "case_date_filed": "2011-10-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jennie L Basile",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cheryl H. Bigelow",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT OF MAIL (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kenneth M. Hoyt",
+          "judge_guid": "urn:entity:jud-100033938"
+        }
+      ]
+    }
+  ]
+}

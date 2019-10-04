@@ -1,0 +1,206 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_216cr20797_MIED",
+  "case_key": "2:16cr20797_MIED",
+  "case_lni": "5M97-DR31-DXDT-G2H1-00000-00",
+  "case_number": "2:16cr20797",
+  "case_title": "United States of America v. Stone et al",
+  "case_info_full_case_name": "United States of America v. Stone et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Stone et al",
+  "case_date_filed": "2016-12-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Hank Moon",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marius Stone",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "DISPOSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1s)"
+        },
+        {
+          "charge_disposition": "DISPOSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1ss-2ss)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 97 MONTHS, CONSECUTIVE; SUPERVISED RELEASE: 36 MONTHS, CONCURRENT; SPECIAL ASSESSMENT: $500.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2s)"
+        },
+        {
+          "charge_disposition": "DISPOSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN(4s)"
+        },
+        {
+          "charge_disposition": "DISPOSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN(4ss)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(6s-7s)"
+        },
+        {
+          "charge_disposition": "DISPOSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(6ss-7ss)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F"
+        },
+        {
+          "charge_offence_description": "18:922G.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Nancy G. Edmunds",
+          "judge_guid": "urn:entity:jud-100043821"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David R. Grand",
+          "judge_guid": "urn:entity:jud-100070351"
+        }
+      ]
+    },
+    {
+      "party_name": "Dalen Cage",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1)"
+        },
+        {
+          "charge_disposition": "DISPOSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN(5s)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 60 MONTHS; SUPERVISED RELEASE: 24 MONTHS; SPECIAL ASSESSMENT: $100.00 [AMENDMENT 02/16/18 FOR CORRECTION OF CLERICAL MISTAKE]"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE(1s)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(3)"
+        },
+        {
+          "charge_disposition": "DISPOSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(3s)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN(5)"
+        },
+        {
+          "charge_disposition": "DISPOSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Nancy G. Edmunds",
+          "judge_guid": "urn:entity:jud-100043821"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David R. Grand",
+          "judge_guid": "urn:entity:jud-100070351"
+        }
+      ]
+    }
+  ]
+}

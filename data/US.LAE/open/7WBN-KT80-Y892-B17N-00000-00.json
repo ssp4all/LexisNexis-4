@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_206mj223_LAED",
+  "case_key": "2:06mj223_LAED",
+  "case_lni": "7WBN-KT80-Y892-B17N-00000-00",
+  "case_number": "2:06mj223",
+  "case_title": "USA v. Bradley",
+  "case_info_full_case_name": "USA v. Bradley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bradley",
+  "case_date_filed": "2006-11-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Douglas Davis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Travis Bradley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(A)(iii)POSSESS 50"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(A)(iii)POSSESS WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE, NAMELY, 50 GRAMS OR MORE OF A MIXTURE CONTANING A DETECTABLE AMOUNT OF COCAINE BASE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Louis Moore, Jr",
+          "judge_guid": "urn:entity:jud-100016008"
+        }
+      ]
+    }
+  ]
+}

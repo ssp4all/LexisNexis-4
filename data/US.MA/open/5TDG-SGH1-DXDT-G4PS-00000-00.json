@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_118mj6308_MAD",
+  "case_key": "1:18mj6308_MAD",
+  "case_lni": "5TDG-SGH1-DXDT-G4PS-00000-00",
+  "case_number": "1:18mj6308",
+  "case_title": "USA v. Doe",
+  "case_info_full_case_name": "USA v. Doe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Doe",
+  "case_date_filed": "2018-10-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John Doe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "42:1383a(a)(1) - False Statement in Application for Social Security Benefits; 18:1028A - Aggravated Identity Theft"
+        },
+        {
+          "charge_offence_description": "42:1383a(a)(1) - False Statement in Application fo"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. Page Kelley",
+          "judge_guid": "urn:entity:jud-100107513"
+        }
+      ]
+    }
+  ]
+}

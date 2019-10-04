@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_609mj46_TXWD",
+  "case_key": "6:09mj46_TXWD",
+  "case_lni": "7WBN-P6C0-Y892-B4DY-00000-00",
+  "case_number": "6:09mj46",
+  "case_title": "USA v. Rojas-Vallejo",
+  "case_info_full_case_name": "USA v. Rojas-Vallejo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rojas-Vallejo",
+  "case_date_filed": "2009-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Esteban Rojas-Vallejo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL REENTRY OF AN ALIEN WHO HAS BEEN DEPORTED FROM THE UNITED STATES IN VIOLATION OF 8 USC 1326."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_209cr372_AZD",
+  "case_key": "2:09cr372_AZD",
+  "case_lni": "7WBN-RC60-Y892-B24G-00000-00",
+  "case_number": "2:09cr372",
+  "case_title": "USA v. Fraser et al",
+  "case_info_full_case_name": "USA v. Fraser et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fraser et al",
+  "case_date_filed": "2009-04-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Patrick F Stokes",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Martin Gregory Fraser",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 Conspiracy(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78j(b) and 78ff; Title 17  Code of Federal Regulations, Section 240.10b-5 and Title 18:2 Security Fraud, Aid and Abet(2-7)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78m(a) and 78ff, Title 17, Code of Federal Regulations, Sections 240.12b-20, 240.13a-1 and 240.13a-13, and Title 18:2  False Filing with SEC, Aid and Abet(8-13)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341,1346 and 2  Mail Fraud, Aid and Abet(14-21)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78m(b)(2)(A), 78m(b)(5), and 78ff and Title 17, Code of Federal Regulations, Section 240.13b2-1, and 18:2 False Books and Records, Aid and Abet(22-23)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78ff and Title 17 Code of Federal Regulations Section 240.13b2-2 and 18:2 False Statements to Auditor(24-28)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78ff and Title 17, Code of Federal Regulations, Section 240.13b2-2 and Title 18:2 False Statements to Auditor, Aid and Abet(29)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_name": "Don Walter Watson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 Conspiracy(1)"
+        },
+        {
+          "charge_disposition": "Committed to BOP for a term of 24 months with credit for time served followed by supervised release for a term of 3 years. Special Assessment: $100.00; FINE: Waived; RESTITUTION: To be determined. AMENDED JUDGMENT on 11/30/2011 re Restitution in the amount of $1,016.13"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78j(b) and 78ff; Title 17 Code of Federal Regulations, Section 240.10b-5 and Title 18:2 Security Fraud, Aid and Abet(2-7)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78m(a) and 78ff, Title 17, Code of Federal Regulations, Sections 240.12b-20, 240.13a-1 and 240.13a-13, and Title 18:2  False Filing with SEC, Aid and Abet(8-13)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341,1346 and 2  Mail Fraud, Aid and Abet(14-21)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78m(b)(2)(A), 78m(b)(5), and 78ff and Title 17, Code of Federal Regulations, Section 240.13b2-1, and 18:2 False Books and Records, Aid and Abet(22-23)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "15:78ff and Title 17 Code of Federal Regulations Section 240.13b2-2 and 18:2 False Statements to Auditor(24-28)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1350(c)(2) and 2 False Certification of Financial Reports, Aid and Abet(30-31)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Honeywell International Incorporated"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Honeywell International Incorporated\t\trepresente"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Prestone Products Corporation"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Prestone Products Corporation\t\trepresented&nbsp;"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_name": "Dorcy International",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Dorcy International"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Dorcy International\t\trepresented&nbsp;byDouglas "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Cooper Bussman LLC"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Cooper Bussman LLC\t\trepresented&nbsp;byKyle     "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Exide Technologies"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Exide Technologies\t\trepresented&nbsp;byRobert   "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_name": "Diversified Brands Incorporated",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Diversified Brands Incorporated"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Diversified Brands Incorporated\t\trepresented&nbs"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_name": "O'Melveny & Myers LLP",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "O'Melveny &; Myers LLP"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "O&#039;Melveny & Myers LLP\t\trepresented&nbsp;byD"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_name": "Ernst & Young LLP",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Ernst &; Young LLP"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Ernst & Young LLP\t\trepresented&nbsp;byDiana     "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_name": "Charles Marquis",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Charles Marquis"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Charles Marquis\t\trepresented&nbsp;byDiana       "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_name": "Charles J Philippin",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Charles J Philippin"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Charles J Philippin\t\trepresented&nbsp;byDiana   "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_name": "Morton Godlas",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Morton Godlas"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Morton Godlas\t\trepresented&nbsp;byDiana         "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "CSK Auto Incorporated"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "CSK Auto Incorporated\t\trepresented&nbsp;byDavid "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    },
+    {
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Osram Sylvania Incorporated"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Osram Sylvania Incorporated\t\trepresented&nbsp;by"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    }
+  ]
+}

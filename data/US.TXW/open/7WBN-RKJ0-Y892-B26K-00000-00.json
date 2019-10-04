@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_300m506_txwd",
+  "case_key": "3:00m506_txwd",
+  "case_lni": "7WBN-RKJ0-Y892-B26K-00000-00",
+  "case_number": "3:00m506",
+  "case_title": "USA v. Martinez-Adame",
+  "case_info_full_case_name": "USA v. Martinez-Adame",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Adame",
+  "case_date_filed": "2000-02-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARMANDO MARTINEZ-ADAME",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "56.2"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 56.2 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

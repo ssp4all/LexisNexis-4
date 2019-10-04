@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_508cr1927_TXSD",
+  "case_key": "5:08cr1927_TXSD",
+  "case_lni": "7WBN-SC30-Y892-B2TS-00000-00",
+  "case_number": "5:08cr1927",
+  "case_title": "USA v. De La Rosa-Lara",
+  "case_info_full_case_name": "USA v. De La Rosa-Lara",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Rosa-Lara",
+  "case_date_filed": "2008-11-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anselmo De La Rosa-Lara",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(felony). 2 1"
+        },
+        {
+          "charge_description": "Illegal entry of alien (felony). Penalty: 2 yrs and/or $250,000.00 fine; $100 cvf; 1 yr TSR. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1325.F"
+        },
+        {
+          "charge_description": "8:1325.F Illegal Entry, Concealment of Facts"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

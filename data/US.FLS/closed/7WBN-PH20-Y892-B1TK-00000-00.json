@@ -1,0 +1,94 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_095cr6077_flsd",
+  "case_key": "0:95cr6077_flsd",
+  "case_lni": "7WBN-PH20-Y892-B1TK-00000-00",
+  "case_number": "0:95cr6077",
+  "case_title": "USA v. Desadora",
+  "case_info_full_case_name": "USA v. Desadora",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Desadora",
+  "case_date_filed": "1995-05-25",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM DESADORA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:510A.F"
+        },
+        {
+          "charge_description": "18:510A.F FORGERY, OTHER U. S. (1s)"
+        },
+        {
+          "charge_disposition": "Guilty plea 9/20/95 and sentenced 12/8/95: $100.00 assessment; 20 months imprisonment as to each Cts 1&;4 to run concurrent w/each other; 3 years supervised as to Cts 1&;4 to run concurrent w/each other w/special conditions; restitution to IRS $30,195.00; J.C. Penney $1, 127.78, etal. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:287.F"
+        },
+        {
+          "charge_description": "18:287.F FALSE CLAIMS &; STATEMENTS (4s)"
+        },
+        {
+          "charge_disposition": "Guilty plea 9/20/95 and sentenced 12/8/95: $100.00 assessment; 20 months imprisonment as to each Cts 1&;4 to run concurrent w/each other; 3 years supervised as to Cts 1&;4 to run concurrent w/each other w/special conditions; restitution to IRS $30,195.00; J.C. Penney $1, 127.78, etal. (4s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:510A.F"
+        },
+        {
+          "charge_description": "18:510A.F FORGERY, OTHER U. S. (forged Treasury Checks in excess of $500 each) (1-3)"
+        },
+        {
+          "charge_disposition": "Dismissed by government. (1-3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:510A.F"
+        },
+        {
+          "charge_description": "18:510A.F FORGERY, OTHER U. S. (2s-3s)"
+        },
+        {
+          "charge_disposition": "Dismissed by government. (2s-3s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:510(a)(1)and 2"
+        },
+        {
+          "charge_description": "18:510(a)(1)and 2 fraud involving U.S. Treasury Checks [0:95-m-4093]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William J. Zloch",
+          "judge_guid": "urn:entity:jud-100004856"
+        }
+      ]
+    }
+  ]
+}

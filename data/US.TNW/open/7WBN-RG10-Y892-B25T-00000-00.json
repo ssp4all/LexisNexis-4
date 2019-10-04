@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_295m4_tnwd",
+  "case_key": "2:95m4_tnwd",
+  "case_lni": "7WBN-RG10-Y892-B25T-00000-00",
+  "case_number": "2:95m4",
+  "case_title": "USA v. Pruitt, et al",
+  "case_info_full_case_name": "USA v. Pruitt, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pruitt, et al",
+  "case_date_filed": "1995-01-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL ANTHONY PRUITT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "distribution-21:841(a)(1), 18:924(c)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute cocaine base; use &; carry a firearm during the course of the distribution-21:841(a)(1), 18:924(c) &; 2."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "STANLEY DENELL JOHNSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "distribution-21:841(a)(1), 18:924(c)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute cocaine base; use &; carry a firearm during the course of the distribution-21:841(a)(1), 18:924(c) &; 2."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge"
+        }
+      ]
+    }
+  ]
+}

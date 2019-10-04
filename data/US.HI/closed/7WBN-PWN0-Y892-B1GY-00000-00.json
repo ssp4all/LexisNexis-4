@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_194cr1075_hid",
+  "case_key": "1:94cr1075_hid",
+  "case_lni": "7WBN-PWN0-Y892-B1GY-00000-00",
+  "case_number": "1:94cr1075",
+  "case_title": "USA v. Swain",
+  "case_info_full_case_name": "USA v. Swain",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Swain",
+  "case_date_filed": "1994-04-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rachelle M. Guyant",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GLEN A. SWAIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 286-116A 3/17/94"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER HRS 286-116A No Valid Insurance Card SB 3/17/94 (1)"
+        },
+        {
+          "charge_disposition": "proof shown, dismissed by govt. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Francis I. Yamashita",
+          "judge_guid": "urn:entity:jud-100016542"
+        }
+      ]
+    }
+  ]
+}

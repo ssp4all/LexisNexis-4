@@ -1,0 +1,128 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_514cr4_KYWD",
+  "case_key": "5:14cr4_KYWD",
+  "case_lni": "5BR1-SW31-DXDT-G110-00000-00",
+  "case_number": "5:14cr4",
+  "case_title": "USA v. Motley et al",
+  "case_info_full_case_name": "USA v. Motley et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Motley et al",
+  "case_date_filed": "2014-03-11",
+  "case_status": "Closed",
+  "case_status_date": "04/20/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charles Albert Motley, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G - FELON IN POSSESSION OF FIREARMS AND AMMUNITION(1-2)"
+        },
+        {
+          "charge_disposition": "Imprisonment 120 months concur to Counts 3,4 and 6 for a total of 151 months; Supervised Release 3 years concur to Counts 3,4 and 6 for a total of 5 years; SPA $100 each count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A - POSSESSION WITH THE INTENT TO DISTRIBUTE AND DISTRIBUTION OF COCAINE BASE AND COCAINE(3-4)"
+        },
+        {
+          "charge_disposition": "Imprisonment 151 months concur to Counts 1,2,5 and 8 for a total of 151 months; Supervised Release 5 years concur to Counts 1,2,5 and 8 for a total of 5 years; SPA $100 each count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G - FELON IN POSSESSION OF FIREARMS AND AMMUNITION(5)"
+        },
+        {
+          "charge_disposition": "Imprisonment 120 months concur to Counts 3,4 and 6 for a total of 151 months; Supervised Release 3 years concur to Counts 3,4 and 6 for a total of 5 years; SPA $100 each count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A - POSSESSION WITH THE INTENT TO DISTRIBUTE AND DISTRIBUTION OF COCAINE BASE AND COCAINE(6)"
+        },
+        {
+          "charge_disposition": "Imprisonment 151 months concur to Counts 1,2,5 and 8 for a total of 151 months; Supervised Release 5 years concur to Counts 1,2,5 and 8 for a total of 5 years; SPA $100 each count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G &; 18:2 - FELON IN POSSESSION OF FIREARMS AND AMMUNITION; AIDING &; ABETTING(8)"
+        },
+        {
+          "charge_disposition": "Imprisonment 120 months concur to Counts 3,4 and 6 for a total of 151 months; Supervised Release 3 years concur to Counts 3,4 and 6 for a total of 5 years; SPA $100 each count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lanny King",
+          "judge_guid": "urn:entity:jud-100126946"
+        }
+      ]
+    },
+    {
+      "party_name": "Demario Centel Maxie",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G - FELON IN POSSESSION OF FIREARMS AND AMMUNITION(7)"
+        },
+        {
+          "charge_disposition": "Imprisonment 180 months concur to run consec to state court sentence currently serving; Supervised Release 5 years concur; SPA $100 each count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G &; 18:2 - FELON IN POSSESSION OF FIREARMS AND AMMUNITION; AIDING &; ABETTING(8)"
+        },
+        {
+          "charge_disposition": "Imprisonment 180 months concur to run consec to state court sentence currently serving; Supervised Release 5 years concur; SPA $100 each count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        }
+      ]
+    }
+  ]
+}

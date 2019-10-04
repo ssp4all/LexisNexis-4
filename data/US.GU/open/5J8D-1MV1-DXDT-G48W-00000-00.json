@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GU_116mj38_GUD",
+  "case_key": "1:16mj38_GUD",
+  "case_lni": "5J8D-1MV1-DXDT-G48W-00000-00",
+  "case_number": "1:16mj38",
+  "case_title": "USA v. Simon",
+  "case_info_full_case_name": "USA v. Simon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Simon",
+  "case_date_filed": "2016-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Stephen Leon Guerrero",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Connie Ann Finona Simon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1029A.F"
+        },
+        {
+          "charge_offence_description": "18:1029A.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joaquin V.E. Manibusan, Jr",
+          "judge_guid": "urn:entity:jud-100041795"
+        }
+      ]
+    }
+  ]
+}

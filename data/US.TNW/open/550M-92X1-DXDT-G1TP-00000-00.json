@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_212mj7_TNWD",
+  "case_key": "2:12mj7_TNWD",
+  "case_lni": "550M-92X1-DXDT-G1TP-00000-00",
+  "case_number": "2:12mj7",
+  "case_title": "USA v. Akin",
+  "case_info_full_case_name": "USA v. Akin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Akin",
+  "case_date_filed": "2012-02-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Misty Akin",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charmiane G. Claxton",
+          "judge_guid": "urn:entity:jud-100065174"
+        }
+      ]
+    }
+  ]
+}

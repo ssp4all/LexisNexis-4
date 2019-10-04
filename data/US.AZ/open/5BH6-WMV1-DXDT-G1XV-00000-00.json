@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_214cr194_AZD",
+  "case_key": "2:14cr194_AZD",
+  "case_lni": "5BH6-WMV1-DXDT-G1XV-00000-00",
+  "case_number": "2:14cr194",
+  "case_title": "USA v. Adami",
+  "case_info_full_case_name": "USA v. Adami",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adami",
+  "case_date_filed": "2014-02-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramone Adami",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) Felon in Possession of a Firearm(1)"
+        },
+        {
+          "charge_disposition": "Defendant committed to custody of BOP for a term of 30 months to run concurrently to State sentence in CR 2014-001703-001-DT and CR 2014-105240-001-DT. Followed by 3 years of supervised release to run concurrently to supervised release in CR 2014-001703-001-DT and CR2014-105240-001-DT"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:5841, 5861(d) and 5871 Receipt or Possession of Unregistered Firearm(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David G Campbell",
+          "judge_guid": "urn:entity:jud-100059869"
+        }
+      ]
+    }
+  ]
+}

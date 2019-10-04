@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_214mj2723_NMD",
+  "case_key": "2:14mj2723_NMD",
+  "case_lni": "5CWP-5GM1-DXDT-G2J7-00000-00",
+  "case_number": "2:14mj2723",
+  "case_title": "USA v. Bohon Lau et al",
+  "case_info_full_case_name": "USA v. Bohon Lau et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bohon Lau et al",
+  "case_date_filed": "2014-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Huemac Sirahuen Bohon Lau",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952(a) Importation of 131.5 Pounds of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:952(a) Importation of 131.5 Pounds of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    },
+    {
+      "party_name": "Susana Arias Delgado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952(a) Importation of 131.5 Pounds of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:952(a) Importation of 131.5 Pounds of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    }
+  ]
+}

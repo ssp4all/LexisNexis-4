@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_119mj1272_NMD",
+  "case_key": "1:19mj1272_NMD",
+  "case_lni": "5W4M-7BG1-DXDT-G3F0-00000-00",
+  "case_number": "1:19mj1272",
+  "case_title": "USA v. Delara",
+  "case_info_full_case_name": "USA v. Delara",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delara",
+  "case_date_filed": "2019-05-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kristy A Delara",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:111: Assaulting certain officers or employees; 18:13, NMSA 30-22-1: Resisting, evading or obstructing on officer; 18:13, NMSA 30-22-3 Concealing identity"
+        },
+        {
+          "charge_offence_description": "18:111: Assaulting certain officers or employees; "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kirtan Khalsa",
+          "judge_guid": "urn:entity:jud-100108083"
+        }
+      ]
+    }
+  ]
+}

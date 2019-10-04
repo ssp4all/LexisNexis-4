@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317po3313_CASD",
+  "case_key": "3:17po3313_CASD",
+  "case_lni": "5R6F-NB71-DXDT-G045-00000-00",
+  "case_number": "3:17po3313",
+  "case_title": "USA vs Higuera",
+  "case_info_full_case_name": "USA vs Higuera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Higuera",
+  "case_date_filed": "2017-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Anthony C Higuera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violation of special regulations (off-highway vehicle) (6324087)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

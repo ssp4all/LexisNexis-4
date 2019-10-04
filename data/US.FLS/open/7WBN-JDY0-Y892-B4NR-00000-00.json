@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_102m7529_flsd",
+  "case_key": "1:02m7529_flsd",
+  "case_lni": "7WBN-JDY0-Y892-B4NR-00000-00",
+  "case_number": "1:02m7529",
+  "case_title": "USA v. Baker",
+  "case_info_full_case_name": "USA v. Baker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baker",
+  "case_date_filed": "2002-12-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RODNEY BAKER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of Firearm by Convicted Felon"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Stephen T. Brown",
+          "judge_guid": "urn:entity:jud-100064031"
+        }
+      ]
+    }
+  ]
+}

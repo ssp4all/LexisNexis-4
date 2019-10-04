@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_118po878_LAWD",
+  "case_key": "1:18po878_LAWD",
+  "case_lni": "5TR7-RR91-DXDT-G0WS-00000-00",
+  "case_number": "1:18po878",
+  "case_title": "USA vs Fairbanks",
+  "case_info_full_case_name": "USA vs Fairbanks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fairbanks",
+  "case_date_filed": "2018-11-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Clifton A Fairbanks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Parking in disabled-reserved parking space (6137733)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph H L Perez-Montes",
+          "judge_guid": "urn:entity:jud-100119910"
+        }
+      ]
+    }
+  ]
+}

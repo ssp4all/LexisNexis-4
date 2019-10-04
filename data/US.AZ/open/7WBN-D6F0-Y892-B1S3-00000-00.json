@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409mj4622_AZD",
+  "case_key": "4:09mj4622_AZD",
+  "case_lni": "7WBN-D6F0-Y892-B1S3-00000-00",
+  "case_number": "4:09mj4622",
+  "case_title": "USA v. Velasques-Chacon",
+  "case_info_full_case_name": "USA v. Velasques-Chacon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Velasques-Chacon",
+  "case_date_filed": "2009-03-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Osmin Alexander Velasques-Chacon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 8:1326(b)(2)Illegal"
+        },
+        {
+          "charge_description": "8:1326 enhanced by 8:1326(b)(2)Illegal RE-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319po817_CASD",
+  "case_key": "3:19po817_CASD",
+  "case_lni": "5VP4-58Y1-DXDT-G1HD-00000-00",
+  "case_number": "3:19po817",
+  "case_title": "USA vs Garcia",
+  "case_info_full_case_name": "USA vs Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2019-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Charly Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Fail to display evidence of financial responsibility when requested by peace off (6422200)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Registration required. (6422199)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving while drivers license suspended or revoked for offenses (6422198)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving under the influence of alcohol and/or drugs (7163046)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving under the influence of alcohol and/or drugs (7163045)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mitchell D. Dembin",
+          "judge_guid": "urn:entity:jud-100044786"
+        }
+      ]
+    }
+  ]
+}

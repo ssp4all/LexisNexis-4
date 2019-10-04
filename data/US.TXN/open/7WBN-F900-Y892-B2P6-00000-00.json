@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_203mj58_txnd",
+  "case_key": "2:03mj58_txnd",
+  "case_lni": "7WBN-F900-Y892-B2P6-00000-00",
+  "case_number": "2:03mj58",
+  "case_title": "USA v. Solis-Lopez et al",
+  "case_info_full_case_name": "USA v. Solis-Lopez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Solis-Lopez et al",
+  "case_date_filed": "2003-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcelo Solis-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)Transportation"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)Transportation of illegal aliens within the United States my means of a motor vehicle."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clinton E Averitte",
+          "judge_guid": "urn:entity:jud-100052428"
+        }
+      ]
+    },
+    {
+      "party_name": "Augustin Garcia-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)Transportation"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)Transportation of illegal aliens within the United States my means of a motor vehicle."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clinton E Averitte",
+          "judge_guid": "urn:entity:jud-100052428"
+        }
+      ]
+    },
+    {
+      "party_name": "USMS-",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "USPT-",
+      "party_description": "Interested Party"
+    }
+  ]
+}

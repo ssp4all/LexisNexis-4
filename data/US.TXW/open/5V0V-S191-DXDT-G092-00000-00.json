@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_218cr2848_TXWD",
+  "case_key": "2:18cr2848_TXWD",
+  "case_lni": "5V0V-S191-DXDT-G092-00000-00",
+  "case_number": "2:18cr2848",
+  "case_title": "USA v. Lopez-Rendon",
+  "case_info_full_case_name": "USA v. Lopez-Rendon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Rendon",
+  "case_date_filed": "2018-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Tomas Lopez-Rendon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 18:2 CONSPIRACY AND POSSESSION WITH INTENT TO DISTRIBUTE 500 GRAMS OR MORE METHAMPHETAMINE MIXTURE(1)"
+        },
+        {
+          "charge_disposition": "Defendant pleaded guilty to counts I and III of the indictment and was committed to the custody of Bureau of Prisons for 240 months on counts I and III. The defendant's previously imposed sentence is reduced to 210 months on counts I and III, to run concurrently; 5 years of supervised release on count I and 3 years of supervised release on count III to run concurrently; $200.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(2) PREVIOUS DEPORTED AGGRAVATED FELON(2)"
+        },
+        {
+          "charge_disposition": "Defendant pleaded guilty to counts I and III of the indictment and was committed to the custody of Bureau of Prisons for 240 months on counts I and III. The defendant's previously imposed sentence is reduced to 210 months on counts I and III, to run concurrently; 5 years of supervised release on count I and 3 years of supervised release on count III to run concurrently; $200.00 Special Assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

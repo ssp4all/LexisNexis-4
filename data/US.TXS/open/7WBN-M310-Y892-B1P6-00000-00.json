@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_209mj499_TXSD",
+  "case_key": "2:09mj499_TXSD",
+  "case_lni": "7WBN-M310-Y892-B1P6-00000-00",
+  "case_number": "2:09mj499",
+  "case_title": "USA v. Arellano-Hernandez",
+  "case_info_full_case_name": "USA v. Arellano-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arellano-Hernandez",
+  "case_date_filed": "2009-06-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Arellano-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F-Illegal"
+        },
+        {
+          "charge_description": "8:1326.F-Illegal Re-entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brian L Owsley",
+          "judge_guid": "urn:entity:jud-100075563"
+        }
+      ]
+    }
+  ]
+}

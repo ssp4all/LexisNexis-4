@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_519mj1577_NCED",
+  "case_key": "5:19mj1577_NCED",
+  "case_lni": "5W48-HCW1-J9YR-S3G8-00000-00",
+  "case_number": "5:19mj1577",
+  "case_title": "USA v. Lyttle",
+  "case_info_full_case_name": "USA v. Lyttle",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lyttle",
+  "case_date_filed": "2019-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katharine M Adams",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lamoy A. Lyttle",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DWI - NCGS 20-138.1(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DWI - NCGS 20-138.1(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving Left of Center - NCGS 20-146(a)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Failure to Maintain Lane - NCGS 20-146(d)(1)(2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kimberly A. Swank",
+          "judge_guid": "urn:entity:jud-100104781"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_806mj2161_MDD",
+  "case_key": "8:06mj2161_MDD",
+  "case_lni": "7WBN-PD20-Y892-B4C9-00000-00",
+  "case_number": "8:06mj2161",
+  "case_title": "USA v. Gbondo",
+  "case_info_full_case_name": "USA v. Gbondo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gbondo",
+  "case_date_filed": "2006-05-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Chan Park",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aiah Momoi Gbondo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 Bank Fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jillyn K. Schulze",
+          "judge_guid": "urn:entity:jud-100030736"
+        }
+      ]
+    }
+  ]
+}

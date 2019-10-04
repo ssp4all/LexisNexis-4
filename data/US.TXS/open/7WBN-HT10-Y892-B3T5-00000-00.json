@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_501cr183_txsd",
+  "case_key": "5:01cr183_txsd",
+  "case_lni": "7WBN-HT10-Y892-B3T5-00000-00",
+  "case_number": "5:01cr183",
+  "case_title": "USA v. Garcia-Castillo",
+  "case_info_full_case_name": "USA v. Garcia-Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Castillo",
+  "case_date_filed": "2001-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAYMUNDO GARCIA-CASTILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 632 5 40 5"
+        },
+        {
+          "charge_description": "Count 1: Possess with intent to distribute approx. 632 lbs. gross wt., of marihuana. Penalty: 5 to 40 yrs and/or $2 million, $100 spec assessment 5 yrs term of supervised release. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "286.7"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with the intent to distribute a controlled substance, to-wit: approximately 286.7 kilograms of marijuana. [5:01-m-406]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_105cr444_HID",
+  "case_key": "1:05cr444_HID",
+  "case_lni": "7WBN-F2X0-Y892-B4J2-00000-00",
+  "case_number": "1:05cr444",
+  "case_title": "USA v. Chanco",
+  "case_info_full_case_name": "USA v. Chanco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chanco",
+  "case_date_filed": "2005-10-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY ARTURO CHANCO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 21:841(a)(1) (b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE; 21:841(a)(1) and (b)(1)(A) possess with intent to distribute methamphetamine, Schedule II (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(viii)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(viii) possess with intent to distribute methamphetamine, Schedule II [1:05-m-794]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Helen Gillmor",
+          "judge_guid": "urn:entity:jud-100054641"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_114cr149_ILND",
+  "case_key": "1:14cr149_ILND",
+  "case_lni": "5BV1-VBF1-DXDT-G122-00000-00",
+  "case_number": "1:14cr149",
+  "case_title": "USA v. Morris",
+  "case_info_full_case_name": "USA v. Morris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morris",
+  "case_date_filed": "2014-03-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "AUSA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cedric Morris",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F Controlled substance-sell, distribute, or dispense"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F Controlled substance-sell, distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Daniel G. Martin",
+          "judge_guid": "urn:entity:jud-100105981"
+        }
+      ]
+    }
+  ]
+}

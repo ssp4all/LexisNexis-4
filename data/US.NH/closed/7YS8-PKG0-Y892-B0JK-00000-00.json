@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_110cr60_NHD",
+  "case_key": "1:10cr60_NHD",
+  "case_lni": "7YS8-PKG0-Y892-B0JK-00000-00",
+  "case_number": "1:10cr60",
+  "case_title": "USA v. Dekorne",
+  "case_info_full_case_name": "USA v. Dekorne",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dekorne",
+  "case_date_filed": "2010-05-07",
+  "case_status": "Closed",
+  "case_status_date": "05/07/2010",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Joseph Dekorne",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113(a) Bank Robbery; 18:2113(d) Attempted Bank Robbery;  18:371 Conspiracy"
+        },
+        {
+          "charge_disposition": "Imprisonment 66 months on Counts 1 and 2 and 60 months on Count 3, all to be served concurrently with each other. Supervised Release 3 years. Restitution $846. No Fine. Special Assessment $300."
+        },
+        {
+          "charge_offence_description": "18:2113(a) Bank Robbery; 18:2113(d) Attempted Bank"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Joseph N. Laplante",
+          "judge_guid": "urn:entity:jud-100035579"
+        }
+      ]
+    }
+  ]
+}

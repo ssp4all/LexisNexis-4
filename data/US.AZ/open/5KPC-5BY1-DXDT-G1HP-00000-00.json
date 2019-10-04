@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_216cr1125_AZD",
+  "case_key": "2:16cr1125_AZD",
+  "case_lni": "5KPC-5BY1-DXDT-G1HP-00000-00",
+  "case_number": "2:16cr1125",
+  "case_title": "USA v. Macias",
+  "case_info_full_case_name": "USA v. Macias",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Macias",
+  "case_date_filed": "2016-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Iris Liliana Nevarez Macias",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed "
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Roslyn O Silver",
+          "judge_guid": "urn:entity:jud-100003910"
+        }
+      ]
+    }
+  ]
+}

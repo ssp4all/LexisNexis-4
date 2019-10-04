@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_605cr167_TXWD",
+  "case_key": "6:05cr167_TXWD",
+  "case_lni": "7WBN-P600-Y892-B0D7-00000-00",
+  "case_number": "6:05cr167",
+  "case_title": "USA v. McCoy",
+  "case_info_full_case_name": "USA v. McCoy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCoy",
+  "case_date_filed": "2005-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DARNELL MCCOY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922G.F &; 924(a)(2) UNLAWFUL TRANSPORT OF FIREARMS, ETC. Possession of a Firearm by a Convicted Felon (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC922(g)(1)."
+        },
+        {
+          "charge_description": "Defendant did intentionally, knowingly and unlawfully possess a firearm, after having been convicted of a crime punishable by imprisonment exceeding one year in violation of 18 USC 922(g)(1). [6:05-m-142]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Walter S. Smith",
+          "judge_guid": "urn:entity:jud-100020612"
+        }
+      ]
+    }
+  ]
+}

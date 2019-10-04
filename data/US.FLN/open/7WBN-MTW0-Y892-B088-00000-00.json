@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_306mj156_FLND",
+  "case_key": "3:06mj156_FLND",
+  "case_lni": "7WBN-MTW0-Y892-B088-00000-00",
+  "case_number": "3:06mj156",
+  "case_title": "USA v. LEE",
+  "case_info_full_case_name": "USA v. LEE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LEE",
+  "case_date_filed": "2006-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SHERRY LEE BRELAND",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID A LEE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE JUDGE",
+          "judge_name": "MILES DAVIS",
+          "judge_guid": "urn:entity:jud-100045021"
+        }
+      ]
+    }
+  ]
+}

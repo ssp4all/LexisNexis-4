@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_109cr718_NMD",
+  "case_key": "1:09cr718_NMD",
+  "case_lni": "7WBN-G9M0-Y892-B43Y-00000-00",
+  "case_number": "1:09cr718",
+  "case_title": "USA v. Pineda-Alcantara",
+  "case_info_full_case_name": "USA v. Pineda-Alcantara",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pineda-Alcantara",
+  "case_date_filed": "2009-03-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sandro Pineda-Alcantara",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b):"
+        },
+        {
+          "charge_description": "8:1326(a) and (b): Re-entry of a Removed Alien (1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED CBOP: 55 days or time served, whichever is less; no supervised release imposed; SPA waived; defendant in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a)(1) (2):"
+        },
+        {
+          "charge_description": "8:1326(a)(1) and (2): REENTRY OF A REMOVED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "M. Christina Armijo",
+          "judge_guid": "urn:entity:jud-100074237"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_101cr10069_mad",
+  "case_key": "1:01cr10069_mad",
+  "case_lni": "7WBN-J9C0-Y892-B2FG-00000-00",
+  "case_number": "1:01cr10069",
+  "case_title": "USA v. Hunter",
+  "case_info_full_case_name": "USA v. Hunter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hunter",
+  "case_date_filed": "2001-02-20",
+  "case_status": "Closed",
+  "case_status_date": "05/11/2001",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:513(a).F COUNTERFEIT AND FORGE SECURITIES(1)"
+        },
+        {
+          "charge_disposition": "The dft is committed to the custody of the BOP for 24 months to be followed by a term of Supervised Release of 36 months with the following special conditions: The dft is to pay the balance of the restitution owed. The df tis prohibited from incurrin g new credit charges or opening new lines of credit without the prior permission of the probaiton office unless in compliance with the repayment schedule.The df tis to provide probaiton access to any requested financial information. The dft is to par ticipate in a program for substance abuse as directed by Probation which program may include testing to determine whether the df thas reverted to the us eof alcohol or drugs. The dft is to participate in a mental health program as directed by Probati on. The dft is not to consume any alcoholic beverages. No Fine. SPecial Assessment of $100. REstitution in the amount of $5,970. The Cour trecommends incarceratin at FOrt Devens and participation in the 500 hour drug treatment program."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William G. Young",
+          "judge_guid": "urn:entity:jud-100012835"
+        }
+      ]
+    },
+    {
+      "party_name": "Pretrial Services",
+      "party_description": "Notice",
+      "charges": [
+        {
+          "charge_description": "Pretrial ServicesTERMINATED: 05/11/2001"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Pretrial ServicesTERMINATED: 05/11/2001\t\trepres"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William G. Young",
+          "judge_guid": "urn:entity:jud-100012835"
+        }
+      ]
+    }
+  ]
+}

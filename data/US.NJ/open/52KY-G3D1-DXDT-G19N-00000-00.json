@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_211cr225_NJD",
+  "case_key": "2:11cr225_NJD",
+  "case_lni": "52KY-G3D1-DXDT-G19N-00000-00",
+  "case_number": "2:11cr225",
+  "case_title": "USA v. MUN",
+  "case_info_full_case_name": "USA v. MUN",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MUN",
+  "case_date_filed": "2011-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "MI-YOUNG MUN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1349 6/2007)"
+        },
+        {
+          "charge_description": "18:1349 CONSPIRACY TO COMMIT BANK FRAUD (dof 6/2007) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1349 5/07"
+        },
+        {
+          "charge_description": "18:1349 Bank Fraud (Date of offense 5/07 through 8/07)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Susan"
+        }
+      ]
+    }
+  ]
+}

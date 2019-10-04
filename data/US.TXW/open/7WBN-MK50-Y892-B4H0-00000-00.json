@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_302m429_txwd",
+  "case_key": "3:02m429_txwd",
+  "case_lni": "7WBN-MK50-Y892-B4H0-00000-00",
+  "case_number": "3:02m429",
+  "case_title": "USA v. Davila-Sierra",
+  "case_info_full_case_name": "USA v. Davila-Sierra",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davila-Sierra",
+  "case_date_filed": "2002-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO JAVIER DAVILA-SIERRA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "149"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 149 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(1)("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

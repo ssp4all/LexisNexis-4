@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_110cr178_NYND",
+  "case_key": "1:10cr178_NYND",
+  "case_lni": "7Y3F-2N40-Y892-B4B0-00000-00",
+  "case_number": "1:10cr178",
+  "case_title": "USA v. Toomer et al",
+  "case_info_full_case_name": "USA v. Toomer et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Toomer et al",
+  "case_date_filed": "2010-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jamie Lee Toomer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)1 841(b)(1)(A)-Possession 50"
+        },
+        {
+          "charge_description": "21 USC 841(a)1 and 841(b)(1)(A)-Possession with Intent to Distribute Cocaine and more the 50 grams of Cocaine Base (Crack)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Lawrence E. Kahn",
+          "judge_guid": "urn:entity:jud-100037968"
+        }
+      ]
+    },
+    {
+      "party_name": "Riccia Goody",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)1 841(b)(1)(A)-Possession 50"
+        },
+        {
+          "charge_description": "21 USC 841(a)1 and 841(b)(1)(A)-Possession with Intent to Distribute Cocaine and more the 50 grams of Cocaine Base (Crack)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Lawrence E. Kahn",
+          "judge_guid": "urn:entity:jud-100037968"
+        }
+      ]
+    }
+  ]
+}

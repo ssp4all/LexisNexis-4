@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_407cr256_AZD",
+  "case_key": "4:07cr256_AZD",
+  "case_lni": "7WBN-NGH0-Y892-B3ST-00000-00",
+  "case_number": "4:07cr256",
+  "case_title": "USA v. Uribe-Teran",
+  "case_info_full_case_name": "USA v. Uribe-Teran",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Uribe-Teran",
+  "case_date_filed": "2007-02-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Martin Uribe-Teran",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(v)(1), 1324(a)(1)(A)(ii), 1324(a)(1)(A)(iii), 1324(a)(1)(B)(i); 8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(ii), 1324(a)(1)(A)(iii), 1324(a)(1)(B)(i)Conspiracy"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(v)(1), 1324(a)(1)(A)(ii), 1324(a)(1)(A)(iii), and 1324(a)(1)(B)(i); 8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(ii), 1324(a)(1)(A)(iii), and 1324(a)(1)(B)(i)Conspiracy to Transport and Harbor Illegal Aliens for Profit (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii) 1324(a)(1)(A)(iii) 1324(a)(1)(A)(v)(I) 1324(a)(1)(B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) 1324(a)(1)(A)(iii) 1324(a)(1)(A)(v)(I) and 1324(a)(1)(B)(i) Bringing In And Harboring Aliens."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John M Roll",
+          "judge_guid": "urn:entity:jud-100025388"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    }
+  ]
+}

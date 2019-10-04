@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_397m24_prd",
+  "case_key": "3:97m24_prd",
+  "case_lni": "7WBN-RXX0-Y892-B4HC-00000-00",
+  "case_number": "3:97m24",
+  "case_title": "USA v. Bravo-Serrano",
+  "case_info_full_case_name": "USA v. Bravo-Serrano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bravo-Serrano",
+  "case_date_filed": "1997-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MIGUEL BRAVO-SERRANO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "97-002."
+        },
+        {
+          "charge_description": "Failed to appear in Cr. 97-002. (18:3146(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    }
+  ]
+}

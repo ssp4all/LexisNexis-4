@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317po1121_CASD",
+  "case_key": "3:17po1121_CASD",
+  "case_lni": "5N80-K3G1-DXDT-G18N-00000-00",
+  "case_number": "3:17po1121",
+  "case_title": "USA vs Naple",
+  "case_info_full_case_name": "USA vs Naple",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Naple",
+  "case_date_filed": "2017-04-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Christopher J Naple",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Assault (CVB Citation) (6982008)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barbara Lynn Major",
+          "judge_guid": "urn:entity:jud-100029199"
+        }
+      ]
+    }
+  ]
+}

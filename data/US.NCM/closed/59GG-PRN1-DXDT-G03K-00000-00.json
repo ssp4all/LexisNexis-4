@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_113cr371_NCMD",
+  "case_key": "1:13cr371_NCMD",
+  "case_lni": "59GG-PRN1-DXDT-G03K-00000-00",
+  "case_number": "1:13cr371",
+  "case_title": "USA v. KNEPFER",
+  "case_info_full_case_name": "USA v. KNEPFER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "KNEPFER",
+  "case_date_filed": "2013-09-30",
+  "case_status": "Closed",
+  "case_status_date": "08/04/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL FREDERICK KNEPFER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) Felon in possession of firearms(1)"
+        },
+        {
+          "charge_disposition": "Seventy-eight (78) months imprisonment, three (3) years supervised release, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "WILLIAM L. OSTEEN JR.",
+          "judge_guid": "urn:entity:jud-100025321"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_208cr20031_KSD",
+  "case_key": "2:08cr20031_KSD",
+  "case_lni": "7WBN-KYD0-Y892-B0SF-00000-00",
+  "case_number": "2:08cr20031",
+  "case_title": "USA v. Gonzales-Cordoba",
+  "case_info_full_case_name": "USA v. Gonzales-Cordoba",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzales-Cordoba",
+  "case_date_filed": "2008-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kim I. Martin",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aqueo Gonzales-Cordoba DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 AGGRAVATED RE-ENTRY (INDICTMENT FILED [2/27/08]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Kathryn H. Vratil",
+          "judge_guid": "urn:entity:jud-100018790"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James P. O'Hara",
+          "judge_guid": "urn:entity:jud-100025546"
+        }
+      ]
+    }
+  ]
+}

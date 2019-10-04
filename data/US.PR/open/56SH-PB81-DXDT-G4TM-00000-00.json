@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_312mj1381_PRD",
+  "case_key": "3:12mj1381_PRD",
+  "case_lni": "56SH-PB81-DXDT-G4TM-00000-00",
+  "case_number": "3:12mj1381",
+  "case_title": "USA v. Urrutia-La Llave et al",
+  "case_info_full_case_name": "USA v. Urrutia-La Llave et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Urrutia-La Llave et al",
+  "case_date_filed": "2012-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alexander Urrutia-La Llave",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952=NI.F -- Narcotics - Import, 21:960=NI.F -- Narcotics - Importation/Exportation, 21:963=ND.F -- Attempt/Conspiracy - Narcotics - Sell/Distribute/Dispense"
+        },
+        {
+          "charge_offence_description": "21:952=NI.F -- Narcotics - Import, 21:960=NI.F -- "
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Silvia Carreno-Coll",
+          "judge_guid": "urn:entity:jud-100082317"
+        }
+      ]
+    },
+    {
+      "party_name": "Dioni Rijo-Avila",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952=NI.F -- Narcotics - Import, 21:960=NI.F -- Narcotics - Importation/Exportation, 21:963=ND.F -- Attempt/Conspiracy - Narcotics - Sell/Distribute/Dispense"
+        },
+        {
+          "charge_offence_description": "21:952=NI.F -- Narcotics - Import, 21:960=NI.F -- "
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Silvia Carreno-Coll",
+          "judge_guid": "urn:entity:jud-100082317"
+        }
+      ]
+    },
+    {
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Probation Office",
+      "party_description": "Interested Party"
+    }
+  ]
+}

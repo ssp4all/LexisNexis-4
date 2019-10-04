@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_507cr105_TXWD",
+  "case_key": "5:07cr105_TXWD",
+  "case_lni": "7WBN-NY20-Y892-B2M7-00000-00",
+  "case_number": "5:07cr105",
+  "case_title": "USA v. Castro-Ventura",
+  "case_info_full_case_name": "USA v. Castro-Ventura",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castro-Ventura",
+  "case_date_filed": "2007-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Castro-Ventura",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F-REENTRY"
+        },
+        {
+          "charge_description": "8:1326A.F-REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326-Illegal"
+        },
+        {
+          "charge_description": "8:1326-Illegal re-entry into the United States after deportation/removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Fred Biery",
+          "judge_guid": "urn:entity:jud-100082198"
+        }
+      ]
+    }
+  ]
+}

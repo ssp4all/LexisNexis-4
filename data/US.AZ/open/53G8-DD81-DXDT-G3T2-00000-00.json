@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_211mj6386_AZD",
+  "case_key": "2:11mj6386_AZD",
+  "case_lni": "53G8-DD81-DXDT-G3T2-00000-00",
+  "case_number": "2:11mj6386",
+  "case_title": "USA v. Perez-Ramos",
+  "case_info_full_case_name": "USA v. Perez-Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Ramos",
+  "case_date_filed": "2011-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Theresa Cole Rassas",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Perez-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a)-Reentry of Removed Alien."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David K Duncan",
+          "judge_guid": "urn:entity:jud-100056902"
+        }
+      ]
+    }
+  ]
+}

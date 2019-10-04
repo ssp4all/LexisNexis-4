@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_206mj40_WAED",
+  "case_key": "2:06mj40_WAED",
+  "case_lni": "7WBN-GSF0-Y892-B2GX-00000-00",
+  "case_number": "2:06mj40",
+  "case_title": "USA v. Brady",
+  "case_info_full_case_name": "USA v. Brady",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brady",
+  "case_date_filed": "2006-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Aaron Brady",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1):"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1): POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cynthia Imbrogno",
+          "judge_guid": "urn:entity:jud-100050760"
+        }
+      ]
+    }
+  ]
+}

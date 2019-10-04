@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_210cr533_NMD",
+  "case_key": "2:10cr533_NMD",
+  "case_lni": "7Y25-64C0-Y892-B31N-00000-00",
+  "case_number": "2:10cr533",
+  "case_title": "USA v. Garcia-Cruz",
+  "case_info_full_case_name": "USA v. Garcia-Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Cruz",
+  "case_date_filed": "2010-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ezequiel Guadalupe Garcia-Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841-Possession 363.80 (165.40"
+        },
+        {
+          "charge_description": "21:841-Possession with Intent to Distribute 363.80 lbs (165.40 kgs) of Marijuana; 21:846-Conspiracy"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_616mj638_TXWD",
+  "case_key": "6:16mj638_TXWD",
+  "case_lni": "5J6J-J5V1-DXDT-G3SX-00000-00",
+  "case_number": "6:16mj638",
+  "case_title": "USA v. Walters",
+  "case_info_full_case_name": "USA v. Walters",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Walters",
+  "case_date_filed": "2016-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David M. A. Walters",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7210.P - TRAFFIC OFFENSES, DRUNKEN DRIVING(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

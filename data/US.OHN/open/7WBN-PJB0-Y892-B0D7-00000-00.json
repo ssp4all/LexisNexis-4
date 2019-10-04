@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_100m9020_ohnd",
+  "case_key": "1:00m9020_ohnd",
+  "case_lni": "7WBN-PJB0-Y892-B0D7-00000-00",
+  "case_number": "1:00m9020",
+  "case_title": "USA v. 20041 Beachview",
+  "case_info_full_case_name": "USA v. 20041 Beachview",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "20041 Beachview",
+  "case_date_filed": "2000-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "20041 BEACHVIEW",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William H. Baughman",
+          "judge_guid": "urn:entity:jud-100062083"
+        }
+      ]
+    }
+  ]
+}

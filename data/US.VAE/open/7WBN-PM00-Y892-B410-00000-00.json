@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_103cr563_vaed",
+  "case_key": "1:03cr563_vaed",
+  "case_lni": "7WBN-PM00-Y892-B410-00000-00",
+  "case_number": "1:03cr563",
+  "case_title": "USA v. Pedoja",
+  "case_info_full_case_name": "USA v. Pedoja",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pedoja",
+  "case_date_filed": "2003-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael Rich",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KEVIN VINCENT PEDOJA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(49:46504.F) 49:46504 (Ct.1 2 11-01-2003)"
+        },
+        {
+          "charge_description": "(49:46504.F) 49:46504 Interfering with Flight Attendant (Ct.1 &; 2 11-01-2003) (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(49:46504) 49:46504"
+        },
+        {
+          "charge_description": "(49:46504) 49:46504 Interfere with performance of duties of flight crew [1:03-m-1167]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "T. S. Ellis, III",
+          "judge_guid": "urn:entity:jud-100076266"
+        }
+      ]
+    }
+  ]
+}

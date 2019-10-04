@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_297cr26_txsd",
+  "case_key": "2:97cr26_txsd",
+  "case_lni": "7WBN-DBF0-Y892-B29B-00000-00",
+  "case_number": "2:97cr26",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "1997-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Timothy Hammer",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Manrique A. Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Did Knowingly Possess With Intent to Distrigute Approximately 22 Kilograms of Marijuana. 21:841(A)(1); (B)(1)(D). Date of Offense: 12/5/94 Penalty: Not More Than 5 Years Imprisonment, A Fine Not to Exceed $250,000, at Least Two Years Srt, And A Special Assessment of $50.00. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis Graham Jack",
+          "judge_guid": "urn:entity:jud-100050653"
+        }
+      ]
+    }
+  ]
+}

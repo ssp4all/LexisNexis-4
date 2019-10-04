@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_597m2163_okwd",
+  "case_key": "5:97m2163_okwd",
+  "case_lni": "7WBN-SFK0-Y892-B0B0-00000-00",
+  "case_number": "5:97m2163",
+  "case_title": "USA v. Catherina",
+  "case_info_full_case_name": "USA v. Catherina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Catherina",
+  "case_date_filed": "1997-10-27",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSEPH A CATHERINA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1382.P"
+        },
+        {
+          "charge_description": "18:1382.P ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY (1)"
+        },
+        {
+          "charge_disposition": "Case dismissed. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-9999.P (21 1362)"
+        },
+        {
+          "charge_description": "18:13-9999.P (21 O.S. 1362) DISTURBANCE BY LOUD OR UNUSUAL NOISE OR ABUSIVE VIOLENT, OBSCENE, PROFANE, OR THREATENING LANGUAGE (2)"
+        },
+        {
+          "charge_disposition": "Case dismissed. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:1382.P"
+        },
+        {
+          "charge_description": "18:1382.P ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY (3)"
+        },
+        {
+          "charge_disposition": "Case dismissed. (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary M. Purcell",
+          "judge_guid": "urn:entity:jud-100031980"
+        }
+      ]
+    }
+  ]
+}

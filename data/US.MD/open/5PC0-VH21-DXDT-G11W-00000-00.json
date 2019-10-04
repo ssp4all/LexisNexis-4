@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_117po7543_MDD",
+  "case_key": "1:17po7543_MDD",
+  "case_lni": "5PC0-VH21-DXDT-G11W-00000-00",
+  "case_number": "1:17po7543",
+  "case_title": "USA vs Baylor",
+  "case_info_full_case_name": "USA vs Baylor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baylor",
+  "case_date_filed": "2017-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Darrell A Baylor",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING IN EMERGENCY VEHICLE SPACES OR FIRE LANES (6909351)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephanie A Gallagher",
+          "judge_guid": "urn:entity:jud-100072415"
+        }
+      ]
+    }
+  ]
+}

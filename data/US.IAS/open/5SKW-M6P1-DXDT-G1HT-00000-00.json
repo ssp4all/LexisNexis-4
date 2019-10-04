@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_318cr60_IASD",
+  "case_key": "3:18cr60_IASD",
+  "case_lni": "5SKW-M6P1-DXDT-G1HT-00000-00",
+  "case_number": "3:18cr60",
+  "case_title": "USA v. Mota Rivera",
+  "case_info_full_case_name": "USA v. Mota Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mota Rivera",
+  "case_date_filed": "2018-06-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ashley Lynn Corkery",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar Mota Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS; 18:1326(a); Unlawful Re-Entry(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD AND MISUSE OF VISAS/PERMITS: 18:1546(a); Fraud and Misuse of Documents(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MISUSE OF SOCIAL SECURITY NUMBER; 42:408(a)(7)(B); Misuse of Social Security Number(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD AND MISUSE OF VISAS/PERMITS; 18:1546(b); Use of Immigration Identification Document Not Lawfully Issued(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326A.F: Re-entry of Deported Alien"
+        },
+        {
+          "charge_offence_description": "8:1326A.F: Re-entry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John A. Jarvey",
+          "judge_guid": "urn:entity:jud-100050534"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen B. Jackson, Jr",
+          "judge_guid": "urn:entity:jud-100100960"
+        }
+      ]
+    }
+  ]
+}

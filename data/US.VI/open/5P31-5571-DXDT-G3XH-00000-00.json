@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VI_117po18_VID",
+  "case_key": "1:17po18_VID",
+  "case_lni": "5P31-5571-DXDT-G3XH-00000-00",
+  "case_number": "1:17po18",
+  "case_title": "USA vs Boer",
+  "case_info_full_case_name": "USA vs Boer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Boer",
+  "case_date_filed": "2017-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "James M Boer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Buck Island Reef NM-Fishing Equipment violations (6635577)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge George W. Cannon",
+          "judge_guid": "urn:entity:jud-100059781"
+        }
+      ]
+    }
+  ]
+}

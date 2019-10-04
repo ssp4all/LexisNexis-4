@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_312mj1605_PRD",
+  "case_key": "3:12mj1605_PRD",
+  "case_lni": "579V-5601-DXDT-G2F2-00000-00",
+  "case_number": "3:12mj1605",
+  "case_title": "USA v. Colon-Torres",
+  "case_info_full_case_name": "USA v. Colon-Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Colon-Torres",
+  "case_date_filed": "2012-12-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Elba I. Gorbea-Padro",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nelson Gustavo Colon-Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846.F - Conspiracy to Distribute Narcotics (Cocaine)"
+        },
+        {
+          "charge_offence_description": "21:846.F - Conspiracy to Distribute Narcotics (Coc"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Bruce J. McGiverin",
+          "judge_guid": "urn:entity:jud-100009312"
+        }
+      ]
+    },
+    {
+      "party_description": "Interested Party"
+    }
+  ]
+}

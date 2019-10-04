@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_514po2387_TXSD",
+  "case_key": "5:14po2387_TXSD",
+  "case_lni": "5BN4-VW71-DXDT-G44T-00000-00",
+  "case_number": "5:14po2387",
+  "case_title": "USA v. Remigio-Nicasio",
+  "case_info_full_case_name": "USA v. Remigio-Nicasio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Remigio-Nicasio",
+  "case_date_filed": "2014-03-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Luis Alberto Remigio-Nicasio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Guillermo R. Garcia",
+          "judge_guid": "urn:entity:jud-100065344"
+        }
+      ]
+    }
+  ]
+}

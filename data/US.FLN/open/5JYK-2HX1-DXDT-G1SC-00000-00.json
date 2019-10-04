@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_116po35_FLND",
+  "case_key": "1:16po35_FLND",
+  "case_lni": "5JYK-2HX1-DXDT-G1SC-00000-00",
+  "case_number": "1:16po35",
+  "case_title": "USA vs COPE",
+  "case_info_full_case_name": "USA vs COPE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "COPE",
+  "case_date_filed": "2016-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ELERY C COPE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Entry into areas posted as closed to the public or others (trespass) (4074924)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "GARY R JONES",
+          "judge_guid": "urn:entity:jud-100050215"
+        }
+      ]
+    }
+  ]
+}

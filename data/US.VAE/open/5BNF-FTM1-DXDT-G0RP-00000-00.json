@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_114mj119_VAED",
+  "case_key": "1:14mj119_VAED",
+  "case_lni": "5BNF-FTM1-DXDT-G0RP-00000-00",
+  "case_number": "1:14mj119",
+  "case_title": "USA v. Amal",
+  "case_info_full_case_name": "USA v. Amal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Amal",
+  "case_date_filed": "2014-03-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christine Bogle",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hnia Amal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii)and(B)(i) Aiding and Abetting Alien Harboring for Commercial Advantage and Private Financial Gain"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(iii)and(B)(i) Aiding and Abetting "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

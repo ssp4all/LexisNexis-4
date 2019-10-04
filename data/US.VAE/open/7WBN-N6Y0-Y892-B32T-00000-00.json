@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_399cr187_vaed",
+  "case_key": "3:99cr187_vaed",
+  "case_lni": "7WBN-N6Y0-Y892-B32T-00000-00",
+  "case_number": "3:99cr187",
+  "case_title": "USA v. Kenney",
+  "case_info_full_case_name": "USA v. Kenney",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kenney",
+  "case_date_filed": "1999-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael Wallace",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT EUGENE KENNEY, JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Distribution 18:2-Aid (21:841A=CD.F)"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Distribution of heroin; 18:2-Aid and abet (21:841A=CD.F) (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1) 846"
+        },
+        {
+          "charge_description": "21 U.S.C. 841(a)(1) and 846 POSSESS WITH INTENT TO DISTRIBUTE; CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE [3:99-m-177]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David G. Lowe",
+          "judge_guid": "urn:entity:jud-100042057"
+        }
+      ]
+    }
+  ]
+}

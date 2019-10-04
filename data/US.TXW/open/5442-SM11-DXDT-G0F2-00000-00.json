@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_311mj5302_TXWD",
+  "case_key": "3:11mj5302_TXWD",
+  "case_lni": "5442-SM11-DXDT-G0F2-00000-00",
+  "case_number": "3:11mj5302",
+  "case_title": "USA v. Valdez Ordonez",
+  "case_info_full_case_name": "USA v. Valdez Ordonez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valdez Ordonez",
+  "case_date_filed": "2011-10-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ramon Benedicto Valdez Ordonez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546.F--Fraud"
+        },
+        {
+          "charge_description": "18:1546.F--Fraud and misuse of visas/permits"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

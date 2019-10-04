@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_112cr10070_SDD",
+  "case_key": "1:12cr10070_SDD",
+  "case_lni": "577X-65M1-DXDT-G3PC-00000-00",
+  "case_number": "1:12cr10070",
+  "case_title": "USA v. Hairy Chin",
+  "case_info_full_case_name": "USA v. Hairy Chin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hairy Chin",
+  "case_date_filed": "2012-12-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Velnita Hairy Chin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1153, 113(a)(6) and 3359(f); ASSAULT RESULTING IN SERIOUS BODILY INJURY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153 and SDCL 26-10-1; CHILD ABUSE(2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Charles B. Kornmann",
+          "judge_guid": "urn:entity:jud-100040041"
+        },
+        {
+          "judge_name": "US Magistrate Judge William Gerdes",
+          "judge_guid": "urn:entity:jud-100053394"
+        }
+      ]
+    }
+  ]
+}

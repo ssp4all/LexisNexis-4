@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_701m1090_scd",
+  "case_key": "7:01m1090_scd",
+  "case_lni": "7WBN-P820-Y892-B1HW-00000-00",
+  "case_number": "7:01m1090",
+  "case_title": "USA v. Morris",
+  "case_info_full_case_name": "USA v. Morris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morris",
+  "case_date_filed": "2001-12-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DEBRA LYNN MORRIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) possession with intent to distribute crack cocaine (12/4/01)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        }
+      ]
+    }
+  ]
+}

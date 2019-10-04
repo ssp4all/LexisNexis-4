@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_603m1073_flmd",
+  "case_key": "6:03m1073_flmd",
+  "case_lni": "7WBN-J0Y0-Y892-B2VH-00000-00",
+  "case_number": "6:03m1073",
+  "case_title": "USA v. Wee Soon Chye",
+  "case_info_full_case_name": "USA v. Wee Soon Chye",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wee Soon Chye",
+  "case_date_filed": "2003-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LAWRENCE WEE SOON CHYE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USCs 371, 545 2; 18USCs 545 2; 16USCs 3372(d)(1) 3373(d)(3)(A)(i),"
+        },
+        {
+          "charge_description": "Conspiracy to import live and protected reptiles, in violation of Title 18, United States Code, Sections 371, 545 and 2; importation of tortoises, turtles and lizards without required permits, in violation of Title 18, United States Code, Sections 545 and 2; knowingly making and submitting a false record and account for, and a false identification of wildlife, which were intended to be and which had been imported into the United States, in violation of Title 16, United States Code, Sections 3372(d)(1) and 3373(d)(3)(A)(i), and Title 18, United States Code, Section 2."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James G. Glazebrook",
+          "judge_guid": "urn:entity:jud-100038077"
+        }
+      ]
+    }
+  ]
+}

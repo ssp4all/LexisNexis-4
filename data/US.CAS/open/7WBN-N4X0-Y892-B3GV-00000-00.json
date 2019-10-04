@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_396m2235_casd",
+  "case_key": "3:96m2235_casd",
+  "case_lni": "7WBN-N4X0-Y892-B3GV-00000-00",
+  "case_number": "3:96m2235",
+  "case_title": "USA v. Sanchez",
+  "case_info_full_case_name": "USA v. Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez",
+  "case_date_filed": "1996-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERTO CARRERA-SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-18:1546-possession 2-42:408(a)(6)-false"
+        },
+        {
+          "charge_description": "Cnt 1-18:1546-possession of false document, Cnt 2-42:408(a)(6)-false application for a social security card/number"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "James F Stiven",
+          "judge_guid": "urn:entity:jud-100013897"
+        }
+      ]
+    }
+  ]
+}

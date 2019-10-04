@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_393m223_ohsd",
+  "case_key": "3:93m223_ohsd",
+  "case_lni": "7WBN-HCY0-Y892-B2XP-00000-00",
+  "case_number": "3:93m223",
+  "case_title": "USA v. Barrett",
+  "case_info_full_case_name": "USA v. Barrett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barrett",
+  "case_date_filed": "1993-06-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LAWRENCE BARRETT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC7 13: 1 4511.19(a)(1) 2 4511.25 1 6mos/$1000/SA: 2"
+        },
+        {
+          "charge_description": "18 USC 7 &; 13: Count 1 ORC 4511.19(a)(1) DUI; Count 2 ORC 4511.25 Left of Center; Count 1 6mos/$1000/SA: $10/90days-3 yrs revocation Count 2 $100/SA: $5"
+        },
+        {
+          "charge_disposition": "Prob 1 yr w/conditions; serve 3 day term of incarceration on weekend as appointed by BOP; attend min 2 AA mtgs a week w/verification; complete substance abuse treatment; pay fine within 6 mos from date placed on term of prob sup; Fine $200; SA: $10 (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Michael Merz",
+          "judge_guid": "urn:entity:jud-100025999"
+        }
+      ]
+    }
+  ]
+}

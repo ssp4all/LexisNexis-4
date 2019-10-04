@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_114mj781_TXSD",
+  "case_key": "1:14mj781_TXSD",
+  "case_lni": "5D0F-BT21-DXDT-G310-00000-00",
+  "case_number": "1:14mj781",
+  "case_title": "USA v. Luna-Trejo",
+  "case_info_full_case_name": "USA v. Luna-Trejo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Luna-Trejo",
+  "case_date_filed": "2014-08-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Asst ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rosa Luna-Trejo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 841 and 21 USC 846; Knowingly and intentionally possess with intent to distribute approximately 3.1 kilograms of heroin, a Schedule I controlled substance, and did conspire with persons known and unknown to knowingly and intentionally possess with intent to distribute approximately 3.1 kilograms of heroine, a Schedule I controlled substance."
+        },
+        {
+          "charge_offence_description": "21 USC 841 and 21 USC 846; Knowingly and intention"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

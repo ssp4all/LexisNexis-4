@@ -1,0 +1,93 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_505cr416_TXSD",
+  "case_key": "5:05cr416_TXSD",
+  "case_lni": "7WBN-NWW0-Y892-B319-00000-00",
+  "case_number": "5:05cr416",
+  "case_title": "USA v. Barrientos et al",
+  "case_info_full_case_name": "USA v. Barrientos et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barrientos et al",
+  "case_date_filed": "2005-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar Barrientos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 $250,000 $100 3"
+        },
+        {
+          "charge_description": "Transporting undocumented aliens within the US. Penalty: Not more than 5 yrs and/or $250,000 fine; $100 cvf; 3 yrs tsr. (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F (a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324.F (a)(1)(A)(ii) Bringing in and harboring aliens."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    },
+    {
+      "party_name": "Norberto Camacho Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 $250,000 $100 3"
+        },
+        {
+          "charge_description": "Transporting undocumented aliens within the US. Penalty: Not more than 5 yrs and/or $250,000 fine; $100 cvf; 3 yrs tsr. (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

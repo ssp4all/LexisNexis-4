@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_500cr296_txsd",
+  "case_key": "5:00cr296_txsd",
+  "case_lni": "7WBN-S880-Y892-B4NG-00000-00",
+  "case_number": "5:00cr296",
+  "case_title": "USA v. Lopez-Gutierrez",
+  "case_info_full_case_name": "USA v. Lopez-Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Gutierrez",
+  "case_date_filed": "2000-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 20 3"
+        },
+        {
+          "charge_description": "Ct 1: Illegal entry after deportation; Penalty: 0 to 20 yrs and/or $250,000.00, $100 Special Assessment not more than 3 yrs term of supervised release. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Knowingly and willingly re-entered the U.S. after having been previously arrested and deported. [5:00-m-943]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

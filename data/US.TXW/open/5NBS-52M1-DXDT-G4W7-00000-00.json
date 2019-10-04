@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_317cr664_TXWD",
+  "case_key": "3:17cr664_TXWD",
+  "case_lni": "5NBS-52M1-DXDT-G4W7-00000-00",
+  "case_number": "3:17cr664",
+  "case_title": "USA v. Grijeda",
+  "case_info_full_case_name": "USA v. Grijeda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grijeda",
+  "case_date_filed": "2017-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodolfo Grijeda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324 &; 18:2 - TRANSPORTATION OF ILLEGAL ALIENS FOR FINANCIAL GAIN AND AIDING &; ABETTING(1)"
+        },
+        {
+          "charge_disposition": "Sentenced to 9 months imprisonment; 3 yrs. supervised release; $100 S/A; $2000 Fine"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

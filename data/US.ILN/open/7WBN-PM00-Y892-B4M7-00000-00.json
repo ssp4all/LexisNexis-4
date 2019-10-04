@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_103cr84_ilnd",
+  "case_key": "1:03cr84_ilnd",
+  "case_lni": "7WBN-PM00-Y892-B4M7-00000-00",
+  "case_number": "1:03cr84",
+  "case_title": "USA v. Davis",
+  "case_info_full_case_name": "USA v. Davis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis",
+  "case_date_filed": "2003-01-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KIM DAVIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to possess with intent to distribute phencyclidine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Martin C. Ashman",
+          "judge_guid": "urn:entity:jud-100052526"
+        }
+      ]
+    }
+  ]
+}

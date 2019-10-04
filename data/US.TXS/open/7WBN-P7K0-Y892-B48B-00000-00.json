@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_700cr170_txsd",
+  "case_key": "7:00cr170_txsd",
+  "case_lni": "7WBN-P7K0-Y892-B48B-00000-00",
+  "case_number": "7:00cr170",
+  "case_title": "USA v. Canales-Botello",
+  "case_info_full_case_name": "USA v. Canales-Botello",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Canales-Botello",
+  "case_date_filed": "2000-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARTURO CANALES-BOTELLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "100 353 21:USC, 846, 841(a)(1) 841(b)(1)(B); 3/7/00; 5-40"
+        },
+        {
+          "charge_description": "Conspiracy to possess w/intent to dist. more than 100 kilog., that is, approx. 353 kilog. of Marijuana; 21: USC, Section 846, 841(a)(1) &; 841(b)(1)(B); Offense date: 3/7/00; Penalty: Impris. 5-40 yrs and/or a fine not to exceed $2,000,000 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Conspiracy to Possess w/intent to distribute marijuana [7:00-m-1169]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_307cr170_ORD",
+  "case_key": "3:07cr170_ORD",
+  "case_lni": "7WBN-RS90-Y892-B1RT-00000-00",
+  "case_number": "3:07cr170",
+  "case_title": "USA v. Vega",
+  "case_info_full_case_name": "USA v. Vega",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vega",
+  "case_date_filed": "2007-04-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Christopher Scott Vega",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(21USC846)"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE-METHAMPHETAMINE (21 USC 846) (DISTRICT OF MONTANA AT HELENA) (1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT = 144 MONTHS; SUPERVISED RELEASE = 5 YEARS; FEE ASSESSMENT = $50.00 (DISTRICT OF MONTANA-HELENA DIVISION)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Anna J. Brown",
+          "judge_guid": "urn:entity:jud-100064137"
+        }
+      ]
+    }
+  ]
+}

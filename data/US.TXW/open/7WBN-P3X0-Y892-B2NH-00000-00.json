@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_599cr18_txwd",
+  "case_key": "5:99cr18_txwd",
+  "case_lni": "7WBN-P3X0-Y892-B2NH-00000-00",
+  "case_number": "5:99cr18",
+  "case_title": "USA v. Hollenbeck",
+  "case_info_full_case_name": "USA v. Hollenbeck",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hollenbeck",
+  "case_date_filed": "1999-01-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TAE H. HOLLENBECK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F PUBLIC MONEY, PROPERTY OR RECORDS (Theft of Government Property) (1s-8s)"
+        },
+        {
+          "charge_disposition": "12 months imprisonment on each of Counts 1s, 2s, 3s, 4s, 5s, 6s, 7s, 8s to be served concurrently; 2 years supervised release on each of Counts 1s, 2s, 3s, 4s, 5s, 6s, 7s, 8s, to be served concurrently; $800.00 special assessment ($100.00 on each of Counts 1s through 8s); $16,352.63 restitution. (1s-8s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:641.F"
+        },
+        {
+          "charge_description": "18:641.F PUBLIC MONEY, PROPERTY OR RECORDS-Theft of government property (1-3)"
+        },
+        {
+          "charge_disposition": "Dismissed Counts on Government's Motion (1-3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC641 42USC408(a)(7)(B)"
+        },
+        {
+          "charge_description": "Steal and/or convert money and/or other property belonging to the United States, falsely represent a particular social security number was his, when in fact it was not, in violation of 18 USC 641 and 42 USC 408(a)(7)(B) [5:98-m-581]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Edward C. Prado",
+          "judge_guid": "urn:entity:jud-100032689"
+        }
+      ]
+    }
+  ]
+}

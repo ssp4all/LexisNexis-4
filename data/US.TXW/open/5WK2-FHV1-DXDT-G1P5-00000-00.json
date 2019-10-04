@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_319mj7686_TXWD",
+  "case_key": "3:19mj7686_TXWD",
+  "case_lni": "5WK2-FHV1-DXDT-G1P5-00000-00",
+  "case_number": "3:19mj7686",
+  "case_title": "USA v. Salas-Manzanarez",
+  "case_info_full_case_name": "USA v. Salas-Manzanarez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salas-Manzanarez",
+  "case_date_filed": "2019-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Said Salas-Manzanarez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1326 Re-entry of Deported Alien"
+        },
+        {
+          "charge_offence_description": "8 USC 1326 Re-entry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leon Schydlower",
+          "judge_guid": "urn:entity:jud-100123240"
+        }
+      ]
+    }
+  ]
+}

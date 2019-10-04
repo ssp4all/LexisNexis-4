@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_518cr151_NCED",
+  "case_key": "5:18cr151_NCED",
+  "case_lni": "5S63-CXS1-DXDT-G11S-00000-00",
+  "case_number": "5:18cr151",
+  "case_title": "USA v. Pulliam",
+  "case_info_full_case_name": "USA v. Pulliam",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pulliam",
+  "case_date_filed": "2018-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "S. Katherine Burnette",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Terrence Terrell Pulliam",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of a firearm and ammunition by a convicted felon(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "James C. Dever, III",
+          "judge_guid": "urn:entity:jud-100053965"
+        }
+      ]
+    }
+  ]
+}

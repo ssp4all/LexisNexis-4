@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_310cr12_GAMD",
+  "case_key": "3:10cr12_GAMD",
+  "case_lni": "7YSC-C9X0-Y892-B44W-00000-00",
+  "case_number": "3:10cr12",
+  "case_title": "United States of America v. Davenport",
+  "case_info_full_case_name": "United States of America v. Davenport",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Davenport",
+  "case_date_filed": "2010-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Davenport",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION - 18:1343 - Wire Fraud(1)"
+        },
+        {
+          "charge_disposition": "PROBATION 5 YEARS. MAF $100.00. RESTITUTION $14,172.41. (REVOCATION OF PROBATION 7/11/2012 - IMPRISONMENT FOR A TERM OF 9 MONTHS; BALANCE OF RESTITUTION IN THE AMOUNT OF $13,777.41)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "C ASHLEY ROYAL",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

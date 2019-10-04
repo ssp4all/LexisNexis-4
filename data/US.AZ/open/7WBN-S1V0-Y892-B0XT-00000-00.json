@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_402m2454_azd",
+  "case_key": "4:02m2454_azd",
+  "case_lni": "7WBN-S1V0-Y892-B0XT-00000-00",
+  "case_number": "4:02m2454",
+  "case_title": "USA, et al v. Camacho-Morfin",
+  "case_info_full_case_name": "USA, et al v. Camacho-Morfin",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Camacho-Morfin",
+  "case_date_filed": "2002-12-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE REYES CAMACHO-MORFIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 8:1326, (b)(1)"
+        },
+        {
+          "charge_description": "CT 1 8:1326, (b)(1) Illegal Reentry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_714cr260_TXWD",
+  "case_key": "7:14cr260_TXWD",
+  "case_lni": "5DF1-CRR1-DXDT-G44F-00000-00",
+  "case_number": "7:14cr260",
+  "case_title": "USA v. Marin-Manuel",
+  "case_info_full_case_name": "USA v. Marin-Manuel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marin-Manuel",
+  "case_date_filed": "2014-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eduardo Marin-Manuel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS - Defendant an alien, who had been previously excluded, deported and removed from the United States on or  about May 2012, attempted to enter, entered, and was found in the United States, without having previously received consent to reapply for admission from the Attorney General of the United States or the Secretary of Homeland Security, the successor pursuant to Title 6, United States  Code, Sections 202(3), 202(4) and 557. A violation of Title 8, United States Code, Section 1326(a).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326B.F Reentry of Deported Alien"
+        },
+        {
+          "charge_offence_description": "8:1326B.F Reentry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

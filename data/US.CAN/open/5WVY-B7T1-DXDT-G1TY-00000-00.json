@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_319cr305_CAND",
+  "case_key": "3:19cr305_CAND",
+  "case_lni": "5WVY-B7T1-DXDT-G1TY-00000-00",
+  "case_number": "3:19cr305",
+  "case_title": "USA v. Ramos et al",
+  "case_info_full_case_name": "USA v. Ramos et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos et al",
+  "case_date_filed": "2019-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eduar Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Distribution of Heroin(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C)   Possession with Intent to Distribute Controlled Substances(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard Seeborg",
+          "judge_guid": "urn:entity:jud-100030578"
+        }
+      ]
+    },
+    {
+      "party_name": "Seth Carus",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Distribution of Heroin(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C)   Possession with Intent to Distribute Controlled Substances(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard Seeborg",
+          "judge_guid": "urn:entity:jud-100030578"
+        }
+      ]
+    }
+  ]
+}

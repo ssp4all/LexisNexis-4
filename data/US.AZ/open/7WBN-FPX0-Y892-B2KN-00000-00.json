@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_402m5353_azd",
+  "case_key": "4:02m5353_azd",
+  "case_lni": "7WBN-FPX0-Y892-B2KN-00000-00",
+  "case_number": "4:02m5353",
+  "case_title": "USA, et al v. Polanco-Moreno",
+  "case_info_full_case_name": "USA, et al v. Polanco-Moreno",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Polanco-Moreno",
+  "case_date_filed": "2002-10-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LUIS POLANCO-MORENO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326 and 1326(b)(2) Re-Entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

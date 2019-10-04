@@ -1,0 +1,145 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_107cr193_VAED",
+  "case_key": "1:07cr193_VAED",
+  "case_lni": "7WBN-PRK0-Y892-B2G1-00000-00",
+  "case_number": "1:07cr193",
+  "case_title": "USA v. Banks et al",
+  "case_info_full_case_name": "USA v. Banks et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Banks et al",
+  "case_date_filed": "2007-05-22",
+  "case_status": "Closed",
+  "case_status_date": "06/27/2008",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Joseph Attias",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Katherine A. Celeste",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marshall Lee Banks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Distribute 50 or More Grams of \"Crack\" Cocaine (Sch. II) FORFEITURE (Ct. 1: 05/07)(1s)"
+        },
+        {
+          "charge_disposition": "BOP: 235 months w/credit for time served. 5 Years supervised release, $100.00 assessment. (ORDER DATED 10/22/2010 by LMB REDUCING SENTENCE to a total sentence of 62 months)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to Distribute 50 or More Grams of \"Crack\" Cocaine (Sch. II)(Ct. 1: 03/01/07)FORFEITURE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed per filing of first superseding indictmentDismissed per filing of first superseding indictment"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Leonie M. Brinkema",
+          "judge_guid": "urn:entity:jud-100060738"
+        }
+      ]
+    },
+    {
+      "party_name": "Myison Iaeene Ellis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Distribute 50 or More Grams of \"Crack\" Cocaine (Sch. II) FORFEITURE (Ct. 1: 05/07)(1)"
+        },
+        {
+          "charge_disposition": "BOP: 235 months, 5 years supervised release, $100.00 assessment. (ORDER DATED 10/22/2010 by LMB REDUCING SENTENCE to a total sentence of 84 months)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Leonie M. Brinkema",
+          "judge_guid": "urn:entity:jud-100060738"
+        }
+      ]
+    },
+    {
+      "party_name": "Tyson William Pearson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Distribute 50 or More Grams of \"Crack\" Cocaine (Sch. II) FORFEITURE (Ct. 1: 05/07)(1)"
+        },
+        {
+          "charge_disposition": "BOP: 210 months with credit for time served, 5 years supervised release, $100 assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Leonie M. Brinkema",
+          "judge_guid": "urn:entity:jud-100060738"
+        }
+      ]
+    },
+    {
+      "party_name": "George Rayfus Quinn",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Distribute 50 or More Grams of \"Crack\" Cocaine (Sch. II) FORFEITURE (Ct. 1: 05/07)(1)"
+        },
+        {
+          "charge_disposition": "BOP: 135 months, with credit for time served in Federal custody, 5 years supervised release, $100 assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Leonie M. Brinkema",
+          "judge_guid": "urn:entity:jud-100060738"
+        }
+      ]
+    }
+  ]
+}

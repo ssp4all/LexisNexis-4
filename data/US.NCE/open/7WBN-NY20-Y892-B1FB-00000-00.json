@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_506mj404_NCED",
+  "case_key": "5:06mj404_NCED",
+  "case_lni": "7WBN-NY20-Y892-B1FB-00000-00",
+  "case_number": "5:06mj404",
+  "case_title": "USA v. Fernandez-De La Cruz",
+  "case_info_full_case_name": "USA v. Fernandez-De La Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fernandez-De La Cruz",
+  "case_date_filed": "2006-07-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Fernandez-De La Cruz",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William A. Webb",
+          "judge_guid": "urn:entity:jud-100023194"
+        }
+      ]
+    }
+  ]
+}

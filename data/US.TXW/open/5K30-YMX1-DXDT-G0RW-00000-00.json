@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_316cr1117_TXWD",
+  "case_key": "3:16cr1117_TXWD",
+  "case_lni": "5K30-YMX1-DXDT-G0RW-00000-00",
+  "case_number": "3:16cr1117",
+  "case_title": "USA v. Estrada-Lopez",
+  "case_info_full_case_name": "USA v. Estrada-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada-Lopez",
+  "case_date_filed": "2016-06-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Carlos Estrada-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 1546 Fraud, and misuse of visas/permits(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1546.F - FRAUD AND MISUSE OF VISAS/PERMITS"
+        },
+        {
+          "charge_offence_description": "18:1546.F - FRAUD AND MISUSE OF VISAS/PERMITS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Guaderrama",
+          "judge_guid": "urn:entity:jud-100104570"
+        }
+      ]
+    }
+  ]
+}

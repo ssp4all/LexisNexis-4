@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_907cr80023_FLSD",
+  "case_key": "9:07cr80023_FLSD",
+  "case_lni": "7WBN-J5B0-Y892-B55Y-00000-00",
+  "case_number": "9:07cr80023",
+  "case_title": "USA v. Goldwire",
+  "case_info_full_case_name": "USA v. Goldwire",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Goldwire",
+  "case_date_filed": "2007-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andre Goldwire",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "RECEIVED FIREARM NOT REGISTERED (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald M. Middlebrooks",
+          "judge_guid": "urn:entity:jud-100025893"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_517mj1793_NCED",
+  "case_key": "5:17mj1793_NCED",
+  "case_lni": "5PC7-K141-DXDT-G3SH-00000-00",
+  "case_number": "5:17mj1793",
+  "case_title": "USA v. Calleja-Sandoval",
+  "case_info_full_case_name": "USA v. Calleja-Sandoval",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Calleja-Sandoval",
+  "case_date_filed": "2017-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Calleja-Sandoval",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.C. ยง 1326(a) &; (b)(2) - The defendant, an alien, was found in the United States after having previously been denied admission, excluded, deported and removed from the United States subsequent to an aggravated felony conviction, and not having obtained the express consent of the Attorney General, or his successor, the Secretary of Homeland Security, to reapply for admission thereto"
+        },
+        {
+          "charge_offence_description": "8 U.S.C. &#167; 1326(a) & (b)(2) - The defendant, "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert T. Numbers, II",
+          "judge_guid": "urn:entity:jud-100110710"
+        }
+      ]
+    }
+  ]
+}

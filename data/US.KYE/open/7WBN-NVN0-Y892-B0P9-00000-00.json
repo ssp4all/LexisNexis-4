@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_503cr76_kyed",
+  "case_key": "5:03cr76_kyed",
+  "case_lni": "7WBN-NVN0-Y892-B0P9-00000-00",
+  "case_number": "5:03cr76",
+  "case_title": "USA v. Clark",
+  "case_info_full_case_name": "USA v. Clark",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clark",
+  "case_date_filed": "2003-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Warren Clark",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1"
+        },
+        {
+          "charge_description": "Possession of List 1 chemical with intent to manufacture a controlled substance (1-2)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Karl"
+        }
+      ]
+    }
+  ]
+}

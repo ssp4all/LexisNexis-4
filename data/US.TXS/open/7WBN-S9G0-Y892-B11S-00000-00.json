@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502m3886_txsd",
+  "case_key": "5:02m3886_txsd",
+  "case_lni": "7WBN-S9G0-Y892-B11S-00000-00",
+  "case_number": "5:02m3886",
+  "case_title": "USA v. Martinez-De Carballo",
+  "case_info_full_case_name": "USA v. Martinez-De Carballo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-De Carballo",
+  "case_date_filed": "2002-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA DE JESUS MARTINEZ-DE CARBALLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "60"
+        },
+        {
+          "charge_description": "Knowingly, willfully and unlawfully import from a place outside the United States, the Republic of Mexico to a place in the United States, Laredo, Texas, a controlled substance, to-wit: approximately 60 pounds, gross weight of Cocaine, with the intent to distribute."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

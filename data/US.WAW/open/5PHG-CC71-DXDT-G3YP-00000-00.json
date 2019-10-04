@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_313cr5148_WAWD",
+  "case_key": "3:13cr5148_WAWD",
+  "case_lni": "5PHG-CC71-DXDT-G3YP-00000-00",
+  "case_number": "3:13cr5148",
+  "case_title": "USA v. Billups",
+  "case_info_full_case_name": "USA v. Billups",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Billups",
+  "case_date_filed": "2013-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor Joint Base Lewis-McChord",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Latasha L Billups",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "LARCENY W/IN SPECIAL MARITIME JURISDICTION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_203m6204_azd",
+  "case_key": "2:03m6204_azd",
+  "case_lni": "7WBN-KJD0-Y892-B51K-00000-00",
+  "case_number": "2:03m6204",
+  "case_title": "USA, et al v. Osife",
+  "case_info_full_case_name": "USA, et al v. Osife",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Osife",
+  "case_date_filed": "2003-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DUSHANE LLOYD OSIFE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1153, 11, 924(c) 2;"
+        },
+        {
+          "charge_description": "18:1153, 11, 924(c) and 2; Crime on an Indian Reservation, Murder, Discharge of a firearm in Commission of a Crime of Violence and Aiding and Abetting"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David K Duncan",
+          "judge_guid": "urn:entity:jud-100056902"
+        }
+      ]
+    }
+  ]
+}

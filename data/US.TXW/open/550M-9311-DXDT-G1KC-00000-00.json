@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_312mj713_TXWD",
+  "case_key": "3:12mj713_TXWD",
+  "case_lni": "550M-9311-DXDT-G1KC-00000-00",
+  "case_number": "3:12mj713",
+  "case_title": "USA v. Ruiz-Alatorre",
+  "case_info_full_case_name": "USA v. Ruiz-Alatorre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ruiz-Alatorre",
+  "case_date_filed": "2012-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rigoberto Ruiz-Alatorre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=MI.F-Marijuana-Import, 21:963=MI.F-Conspiracy 1000"
+        },
+        {
+          "charge_description": "21:952=MI.F-Marijuana-Import, 21:963=MI.F-Conspiracy to Import approximately an excess of 1000 kilograms of marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

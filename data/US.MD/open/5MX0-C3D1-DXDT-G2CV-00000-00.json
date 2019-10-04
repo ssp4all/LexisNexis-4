@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_117mj467_MDD",
+  "case_key": "1:17mj467_MDD",
+  "case_lni": "5MX0-C3D1-DXDT-G2CV-00000-00",
+  "case_number": "1:17mj467",
+  "case_title": "USA vs Carter",
+  "case_info_full_case_name": "USA vs Carter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carter",
+  "case_date_filed": "2017-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Fort Meade",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY (6123370)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "A. David Copperthite",
+          "judge_guid": "urn:entity:jud-100122711"
+        }
+      ]
+    }
+  ]
+}

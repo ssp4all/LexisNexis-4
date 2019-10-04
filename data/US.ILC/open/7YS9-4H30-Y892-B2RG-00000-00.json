@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_210mj7222_ILCD",
+  "case_key": "2:10mj7222_ILCD",
+  "case_lni": "7YS9-4H30-Y892-B2RG-00000-00",
+  "case_number": "2:10mj7222",
+  "case_title": "USA v. Kelly",
+  "case_info_full_case_name": "USA v. Kelly",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kelly",
+  "case_date_filed": "2010-05-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ronda H Coleman",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel J Kelly",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F 5 (crack) 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21:841A=ND.F On or about [4/23/10] defendant knowingly delivered 5 or more grams of a substance containing cocaine base (crack) in violation of 21 USC 841(a)(1) &; (b)(1)(B)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David G. Bernthal",
+          "judge_guid": "urn:entity:jud-100061640"
+        }
+      ]
+    }
+  ]
+}

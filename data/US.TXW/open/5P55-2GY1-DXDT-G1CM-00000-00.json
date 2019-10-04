@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_617mj116_TXWD",
+  "case_key": "6:17mj116_TXWD",
+  "case_lni": "5P55-2GY1-DXDT-G1CM-00000-00",
+  "case_number": "6:17mj116",
+  "case_title": "USA v. Galicia-Martinez",
+  "case_info_full_case_name": "USA v. Galicia-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galicia-Martinez",
+  "case_date_filed": "2017-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fernando Galicia-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL REENTRY OF AN ALIEN WHO HAS BEEN DEPORTED FROM THE UNITED STATES IN VIOLATION OF 8 USC 1326."
+        },
+        {
+          "charge_offence_description": "ILLEGAL REENTRY OF AN ALIEN WHO HAS BEEN DEPORTED "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

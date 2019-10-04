@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_816mj770_MDD",
+  "case_key": "8:16mj770_MDD",
+  "case_lni": "5JDR-G1S1-DXDT-G393-00000-00",
+  "case_number": "8:16mj770",
+  "case_title": "USA vs Hyson",
+  "case_info_full_case_name": "USA vs Hyson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hyson",
+  "case_date_filed": "2016-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lamar Hyson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "(DRIVING, ATTEMPTING TO DRIVE) VEH. WHILE UNDER THE INFLUENCE OF ALCOHOL PER SE (4886869)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "(DRIVING, ATTEMPTING TO DRIVE) VEH. WHILE UNDER THE INFLUENCE OF ALCOHOL PER SE (4886868)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "DRIVING VEH IN EXCESS OF REASONABLE AND PRUDENT SPEED ON HWY (4886871)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "(DRIVING, ATTEMPTING TO DRIVE) VEH. WHILE IMPAIRED BY ALCOHOL (4886870)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

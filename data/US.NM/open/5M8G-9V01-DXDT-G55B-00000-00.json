@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_216mj4191_NMD",
+  "case_key": "2:16mj4191_NMD",
+  "case_lni": "5M8G-9V01-DXDT-G55B-00000-00",
+  "case_number": "2:16mj4191",
+  "case_title": "USA v. Francisco-Lucas",
+  "case_info_full_case_name": "USA v. Francisco-Lucas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Francisco-Lucas",
+  "case_date_filed": "2016-11-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brenda Joanne Thomas",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Lucas-feliciano Francisco-Lucas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephan M. Vidmar",
+          "judge_guid": "urn:entity:jud-100018913"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_791m1480_nysd",
+  "case_key": "7:91m1480_nysd",
+  "case_lni": "7WBN-J410-Y892-B05C-00000-00",
+  "case_number": "7:91m1480",
+  "case_title": "USA v. Proyect",
+  "case_info_full_case_name": "USA v. Proyect",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Proyect",
+  "case_date_filed": "1991-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOEL PROYECT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841"
+        },
+        {
+          "charge_description": "21 USC 841 DISTRIBUTION OF NARC."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

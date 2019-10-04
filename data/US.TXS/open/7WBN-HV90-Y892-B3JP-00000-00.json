@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_504m5652_TXSD",
+  "case_key": "5:04m5652_TXSD",
+  "case_lni": "7WBN-HV90-Y892-B3JP-00000-00",
+  "case_number": "5:04m5652",
+  "case_title": "USA v. Moreno-Mora",
+  "case_info_full_case_name": "USA v. Moreno-Mora",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Mora",
+  "case_date_filed": "2004-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PABLO MORENO-MORA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and willingly re-entered the United States after having been previously denied admission, excluded, deported, or removed, or has departed the United States while an order of exclusion, deportation or removal is outstanding."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

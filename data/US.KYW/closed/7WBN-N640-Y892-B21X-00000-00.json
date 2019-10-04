@@ -1,0 +1,88 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_397m56_kywd",
+  "case_key": "3:97m56_kywd",
+  "case_lni": "7WBN-N640-Y892-B21X-00000-00",
+  "case_number": "3:97m56",
+  "case_title": "USA v. Kenny",
+  "case_info_full_case_name": "USA v. Kenny",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kenny",
+  "case_date_filed": "1997-02-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GEORGE D. KENNY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7950.P"
+        },
+        {
+          "charge_description": "18:13-7950.P DISORDERLY CONDUCT (1ss)"
+        },
+        {
+          "charge_disposition": "the defendant was sentenced on 10/22/97. Fine waived. SPA $15, Restitution n/a. Defendant placed on probation for 12 months as to Cts 1 and 2 of the 2nd superseding information. (1ss)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13 525.060(1)(a))"
+        },
+        {
+          "charge_description": "18:13 (KRS 525.060(1)(a)) DISORDERLY CONDUCT (1s)"
+        },
+        {
+          "charge_disposition": "the defendant was sentenced on 10/22/97. Fine waived. SPA $15, Restitution n/a. Defendant placed on probation for 12 months as to Cts 1 and 2 of the 2nd superseding information. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-9999.M"
+        },
+        {
+          "charge_description": "18:13-9999.M TERRORISTIC THREATENING (1)"
+        },
+        {
+          "charge_disposition": "the defendant was sentenced on 10/22/97. Fine waived. SPA $15, Restitution n/a. Defendant placed on probation for 12 months as to Cts 1 and 2 of the 2nd superseding information. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-9999.P-HARRASSMENT"
+        },
+        {
+          "charge_description": "18:13-9999.P-HARRASSMENT (2ss)"
+        },
+        {
+          "charge_disposition": "the defendant was sentenced on 10/22/97. Fine waived. SPA $15, Restitution n/a. Defendant placed on probation for 12 months as to Cts 1 and 2 of the 2nd superseding information. (2ss)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "C. Cleveland Gambill",
+          "judge_guid": "urn:entity:jud-100128638"
+        }
+      ]
+    }
+  ]
+}

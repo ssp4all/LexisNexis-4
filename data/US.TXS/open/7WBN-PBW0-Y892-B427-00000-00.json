@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_799cr566_txsd",
+  "case_key": "7:99cr566_txsd",
+  "case_lni": "7WBN-PBW0-Y892-B427-00000-00",
+  "case_number": "7:99cr566",
+  "case_title": "USA v. Islas-Guajardo",
+  "case_info_full_case_name": "USA v. Islas-Guajardo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Islas-Guajardo",
+  "case_date_filed": "1999-11-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARTIN JAIME ISLAS-GUAJARDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326(a) 1326(b); 10/10/99; 20yrs"
+        },
+        {
+          "charge_description": "Unlawfully attempted to enter in the US after previously havving been removed; 8 USC 1326(a) &; 1326(b); Offense Date: 10/10/99; Penalty: Imprisonment f/not more than 20yrs &;/or a fine not to exceed $250,000 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Unlawfully found in the U.S. after having been previously deported. [7:99-m-3231]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Filemon B. Vela",
+          "judge_guid": "urn:entity:jud-100000013"
+        }
+      ]
+    }
+  ]
+}

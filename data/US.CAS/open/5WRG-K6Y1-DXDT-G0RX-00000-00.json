@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319po2081_CASD",
+  "case_key": "3:19po2081_CASD",
+  "case_lni": "5WRG-K6Y1-DXDT-G0RX-00000-00",
+  "case_number": "3:19po2081",
+  "case_title": "USA vs Chagollaluna",
+  "case_info_full_case_name": "USA vs Chagollaluna",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chagollaluna",
+  "case_date_filed": "2019-08-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Brian Chagollaluna",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving with blood alcohol level of .08 or higher (6982868)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving under the influence of alcohol and/or drugs (6982867)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael S. Berg",
+          "judge_guid": "urn:entity:jud-100089576"
+        }
+      ]
+    }
+  ]
+}

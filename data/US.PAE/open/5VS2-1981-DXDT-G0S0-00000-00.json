@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_519cr186_PAED",
+  "case_key": "5:19cr186_PAED",
+  "case_lni": "5VS2-1981-DXDT-G0S0-00000-00",
+  "case_number": "5:19cr186",
+  "case_title": "USA v. RAMOS COLON",
+  "case_info_full_case_name": "USA v. RAMOS COLON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "RAMOS COLON",
+  "case_date_filed": "2019-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALIZE MERCEDES RAMOS COLON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2251(a) AND 2252(a)(4)(B) - KNOWINGLY PRODUCED AND POSSESSED CHILD PORNOGRAPHY"
+        },
+        {
+          "charge_offence_description": "18:2251(a) AND 2252(a)(4)(B) - KNOWINGLY PRODUCED "
+        },
+        {
+          "charge_description": "18:2251(a),(e) - PRODUCTION OF CHILD PORNOGRAPHY(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252(a)(2),(b)(1) - DISTRIBUTION OF CHILD PORNOGRAPHY(3-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252(a)(2),(b)(1) - RECEIPT OF CHILD PORNOGRAPHY(7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252(a)(4)(B),(b)(2) - POSSESSION OF CHILD PORNOGRAPHY(8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "JEFFREY L. SCHMEHL",
+          "judge_guid": "urn:entity:jud-100104532"
+        }
+      ]
+    }
+  ]
+}

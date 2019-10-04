@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_417mj1904_TXSD",
+  "case_key": "4:17mj1904_TXSD",
+  "case_lni": "5R6N-48N1-DXDT-G45N-00000-00",
+  "case_number": "4:17mj1904",
+  "case_title": "USA v. Love",
+  "case_info_full_case_name": "USA v. Love",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Love",
+  "case_date_filed": "2017-12-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Reginald Desean Love",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2251 Sexual Exploitation of Minors; 18:1591 Sex Trafficking of Minors"
+        },
+        {
+          "charge_offence_description": "18:2251 Sexual Exploitation of Minors; 18:1591 Sex"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dena Hanovice Palermo",
+          "judge_guid": "urn:entity:jud-100124539"
+        }
+      ]
+    }
+  ]
+}

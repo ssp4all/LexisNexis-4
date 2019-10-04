@@ -1,0 +1,141 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_305cr1821_TXWD",
+  "case_key": "3:05cr1821_TXWD",
+  "case_lni": "7WBN-H720-Y892-B4FY-00000-00",
+  "case_number": "3:05cr1821",
+  "case_title": "USA v. Sanford",
+  "case_info_full_case_name": "USA v. Sanford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanford",
+  "case_date_filed": "2005-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN MICHAEL SANFORD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 952(a). 232.3"
+        },
+        {
+          "charge_description": "Possession with the intent to distribute and importation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(a). Approx. 232.3 pounds. [3:05-m-3650]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    },
+    {
+      "party_name": "KELLY ALICIA SOBER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:963=MI.F"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY-MARIJUANA-IMPORTATION/EXPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=MD.F"
+        },
+        {
+          "charge_description": "21:846=MD.F CONSPIRACY TO DISTRIBUTE MARIJUANA (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 952(a). 232.3"
+        },
+        {
+          "charge_description": "Possession with the intent to distribute and importation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(a). Approx. 232.3 pounds. [3:05-m-3650]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

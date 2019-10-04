@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_110mj107_CAED",
+  "case_key": "1:10mj107_CAED",
+  "case_lni": "7Y3F-2N40-Y892-B334-00000-00",
+  "case_number": "1:10mj107",
+  "case_title": "USA v. Pitre",
+  "case_info_full_case_name": "USA v. Pitre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pitre",
+  "case_date_filed": "2010-05-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Derek Jerome Pitre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252(a)(2) 2252(a)(4)-Knowingly"
+        },
+        {
+          "charge_description": "18:2252(a)(2) and 2252(a)(4)-Knowingly Receive and/or Distribute Material Involving the Sexual Exploitation of Minors and Knowingly Possess Material Involving the Sexual Exploitation of Minors"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sandra M. Snyder",
+          "judge_guid": "urn:entity:jud-100080932"
+        }
+      ]
+    }
+  ]
+}

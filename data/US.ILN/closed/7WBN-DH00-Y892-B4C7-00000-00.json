@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_104cr766_ILND",
+  "case_key": "1:04cr766_ILND",
+  "case_lni": "7WBN-DH00-Y892-B4C7-00000-00",
+  "case_number": "1:04cr766",
+  "case_title": "USA v. Peco",
+  "case_info_full_case_name": "USA v. Peco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peco",
+  "case_date_filed": "2004-08-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Julie Peters Pekron",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GINA PECO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1),841(b)(1)(B) 846"
+        },
+        {
+          "charge_description": "21:841(a)(1),841(b)(1)(B) and 846 Conspiracy to possess with intent to distribute marijuana and possession with intent to distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Sidney I. Schenkier",
+          "judge_guid": "urn:entity:jud-100026905"
+        }
+      ]
+    }
+  ]
+}

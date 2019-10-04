@@ -1,0 +1,125 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_019cr130_MND",
+  "case_key": "0:19cr130_MND",
+  "case_lni": "5W2J-RFP1-J9YR-S3HD-00000-00",
+  "case_number": "0:19cr130",
+  "case_title": "USA v. Torres-Rodriguez et al",
+  "case_info_full_case_name": "USA v. Torres-Rodriguez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres-Rodriguez et al",
+  "case_date_filed": "2019-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew R Winter",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Humberto Torres-Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspired to distribute and possess with intent to distribute methamphetamine in violation of 21:841(a)(1) and (b)(1)(A), and 846"
+        },
+        {
+          "charge_offence_description": "Conspired to distribute and possess with intent to"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A) and 846 CONSPIRACY TO DISTRIBUTE METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Paul A. Magnuson",
+          "judge_guid": "urn:entity:jud-100029255"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Steven E. Rau",
+          "judge_guid": "urn:entity:jud-100018682"
+        }
+      ]
+    },
+    {
+      "party_name": "Irwin Enrique Becerra",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspired to distribute and possess with intent to distribute methamphetamine in violation of 21:841(a)(1) and (b)(1)(A), and 846"
+        },
+        {
+          "charge_offence_description": "Conspired to distribute and possess with intent to"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A) and 846 CONSPIRACY TO DISTRIBUTE METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (841(b)(1)(A) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Paul A. Magnuson",
+          "judge_guid": "urn:entity:jud-100029255"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Steven E. Rau",
+          "judge_guid": "urn:entity:jud-100018682"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Alfredo Penaloza Romero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A) and 846 CONSPIRACY TO DISTRIBUTE METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (841(b)(1)(A) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Paul A. Magnuson",
+          "judge_guid": "urn:entity:jud-100029255"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Steven E. Rau",
+          "judge_guid": "urn:entity:jud-100018682"
+        }
+      ]
+    }
+  ]
+}

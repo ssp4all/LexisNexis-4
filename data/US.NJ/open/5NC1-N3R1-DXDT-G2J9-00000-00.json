@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_217cr149_NJD",
+  "case_key": "2:17cr149_NJD",
+  "case_lni": "5NC1-N3R1-DXDT-G2J9-00000-00",
+  "case_number": "2:17cr149",
+  "case_title": "USA v. CARRILLO-IRAHETA",
+  "case_info_full_case_name": "USA v. CARRILLO-IRAHETA",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CARRILLO-IRAHETA",
+  "case_date_filed": "2017-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BALMORE CARRILLO-IRAHETA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951(a) INTERFERENCE WITH COMMERCE BY THREAT OR VIOLENCE - CONSPIRACY TO COMMIT HOBBS ACT ROBBERY (dof 12/25/15)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1951(a) INTERFERENCE WITH COMMERCE BY THREAT OR VIOLENCE - HOBBS ACT ROBBERY (dof 12/25/15)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1951.F  Interference with Commerce by Threat or Violence; et al."
+        },
+        {
+          "charge_offence_description": "18:1951.F  Interference with Commerce by Threat or"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jose L. Linares",
+          "judge_guid": "urn:entity:jud-100029909"
+        }
+      ]
+    }
+  ]
+}

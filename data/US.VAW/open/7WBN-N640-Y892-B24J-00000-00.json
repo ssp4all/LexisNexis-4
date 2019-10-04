@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_397m63_vawd",
+  "case_key": "3:97m63_vawd",
+  "case_lni": "7WBN-N640-Y892-B24J-00000-00",
+  "case_number": "3:97m63",
+  "case_title": "USA v. Hernandez-Castillo",
+  "case_info_full_case_name": "USA v. Hernandez-Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Castillo",
+  "case_date_filed": "1997-02-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALEJANDRO HERNANDEZ-CASTILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1546(a)"
+        },
+        {
+          "charge_description": "18 USC 1546(a) Fraud and misuse of alien registration card"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Waugh Crigler",
+          "judge_guid": "urn:entity:jud-100045545"
+        }
+      ]
+    }
+  ]
+}

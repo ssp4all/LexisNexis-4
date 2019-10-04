@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILS_313cr30175_ILSD",
+  "case_key": "3:13cr30175_ILSD",
+  "case_lni": "58X9-BR21-DXDT-G32T-00000-00",
+  "case_number": "3:13cr30175",
+  "case_title": "USA v. Adams",
+  "case_info_full_case_name": "USA v. Adams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adams",
+  "case_date_filed": "2013-07-17",
+  "case_status": "Closed",
+  "case_status_date": "04/02/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Christopher R. Hoell",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher A Adams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252(a)(4)(B) - Accessing With Intent to View Visual Depictions of Minors Engaged in Sexually Explicit Conduct(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to 5 years probation. Defendant shall pay assessment of $100; fine is waived; restitution to be determined."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Michael J. Reagan",
+          "judge_guid": "urn:entity:jud-100002816"
+        }
+      ]
+    }
+  ]
+}

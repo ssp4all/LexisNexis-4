@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_313mj3023_ILCD",
+  "case_key": "3:13mj3023_ILCD",
+  "case_lni": "58FN-TBR1-DXDT-G3MH-00000-00",
+  "case_number": "3:13mj3023",
+  "case_title": "USA v. Palayot-Camacho",
+  "case_info_full_case_name": "USA v. Palayot-Camacho",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Palayot-Camacho",
+  "case_date_filed": "2013-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bryan David Freres",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Benito Palayot-Camacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F -- On or about May 16, 2013, in Sangamon County, the Defendant, a previously deported alien, was found within the United States in violation of 8:1326(a)."
+        },
+        {
+          "charge_offence_description": "8:1326A.F -- On or about May 16, 2013, in Sangamon"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Byron G. Cudmore",
+          "judge_guid": "urn:entity:jud-100057803"
+        }
+      ]
+    }
+  ]
+}

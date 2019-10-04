@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_498m2313_azd",
+  "case_key": "4:98m2313_azd",
+  "case_lni": "7WBN-NR90-Y892-B365-00000-00",
+  "case_number": "4:98m2313",
+  "case_title": "USA v. Snyder",
+  "case_info_full_case_name": "USA v. Snyder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Snyder",
+  "case_date_filed": "1998-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTIAN JEREMIAH SNYDER",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    }
+  ]
+}

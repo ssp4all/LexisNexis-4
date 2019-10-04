@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_600cr60128_ord",
+  "case_key": "6:00cr60128_ord",
+  "case_lni": "7WBN-J0Y0-Y892-B005-00000-00",
+  "case_number": "6:00cr60128",
+  "case_title": "USA v. Lopez-Mukul",
+  "case_info_full_case_name": "USA v. Lopez-Mukul",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Mukul",
+  "case_date_filed": "2000-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIO ALBERTO LOPEZ-MUKUL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-REENTRY"
+        },
+        {
+          "charge_description": "8:1326-REENTRY OF DEPORTED ALIEN (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1325(a)-ELUDING"
+        },
+        {
+          "charge_description": "8:1325(a)-ELUDING EXAMINATION AND INSPECTION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1325(a)-ELUDING"
+        },
+        {
+          "charge_description": "8:1325(a)-ELUDING EXAMINATION AND INSPECTION (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1325(a) 1326(a),(b)(1) (b)(2)-Illegal"
+        },
+        {
+          "charge_description": "8:1325(a) and 1326(a),(b)(1) and (b)(2)-Illegal re-enter the United Statees after deportation/removal and Improperly entered the United States [6:00-m-2057]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ann L Aiken",
+          "judge_guid": "urn:entity:jud-100074743"
+        }
+      ]
+    }
+  ]
+}

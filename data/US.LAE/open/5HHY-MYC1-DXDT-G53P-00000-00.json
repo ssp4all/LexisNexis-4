@@ -1,0 +1,181 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_215cr289_LAED",
+  "case_key": "2:15cr289_LAED",
+  "case_lni": "5HHY-MYC1-DXDT-G53P-00000-00",
+  "case_number": "2:15cr289",
+  "case_title": "USA v. Dominick et al",
+  "case_info_full_case_name": "USA v. Dominick et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dominick et al",
+  "case_date_filed": "2015-12-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Christine M Siscaretti",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Tracey N. Knight",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andre Dominick",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:242 DEPRIVATION of RIGHTS UNDER COLOR OF LAW(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001(a)(2) FALSE STATEMENTS TO A FEDERAL AGENCY(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ivan L.R. Lemelle",
+          "judge_guid": "urn:entity:jud-100030158"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dana Douglas",
+          "judge_guid": "urn:entity:jud-500002097"
+        }
+      ]
+    },
+    {
+      "party_name": "Timothy Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:242 DEPRIVATION of RIGHTS UNDER COLOR OF LAW(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001(a)(2) FALSE STATEMENTS TO A FEDERAL AGENCY(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ivan L.R. Lemelle",
+          "judge_guid": "urn:entity:jud-100030158"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dana Douglas",
+          "judge_guid": "urn:entity:jud-500002097"
+        }
+      ]
+    },
+    {
+      "party_name": "Debra Becnel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:242 DEPRIVATION of RIGHTS UNDER COLOR OF LAW(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001(a)(2) FALSE STATEMENTS TO A FEDERAL AGENCY(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ivan L.R. Lemelle",
+          "judge_guid": "urn:entity:jud-100030158"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dana Douglas",
+          "judge_guid": "urn:entity:jud-500002097"
+        }
+      ]
+    },
+    {
+      "party_name": "Lisa Vaccarella",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:242 DEPRIVATION of RIGHTS UNDER COLOR OF LAW(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001(a)(2) FALSE STATEMENTS TO A FEDERAL AGENCY(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ivan L.R. Lemelle",
+          "judge_guid": "urn:entity:jud-100030158"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dana Douglas",
+          "judge_guid": "urn:entity:jud-500002097"
+        }
+      ]
+    },
+    {
+      "party_name": "Department of Children and Family Services",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "Department of Children and Family Services"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Department of Children and Family Services\t\trepr"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ivan L.R. Lemelle",
+          "judge_guid": "urn:entity:jud-100030158"
+        }
+      ]
+    }
+  ]
+}

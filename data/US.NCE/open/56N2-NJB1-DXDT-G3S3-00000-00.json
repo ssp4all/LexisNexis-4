@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_512cr321_NCED",
+  "case_key": "5:12cr321_NCED",
+  "case_lni": "56N2-NJB1-DXDT-G3S3-00000-00",
+  "case_number": "5:12cr321",
+  "case_title": "USA v. Glover",
+  "case_info_full_case_name": "USA v. Glover",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Glover",
+  "case_date_filed": "2012-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tifferd Pierre Glover",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession with the intent to distribute two hundred and eighty (280) grams or more of cocaine base (crack) and a quantity of cocaine(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

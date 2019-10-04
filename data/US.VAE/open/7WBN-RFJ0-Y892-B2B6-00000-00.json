@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_294m3569_vaed",
+  "case_key": "2:94m3569_vaed",
+  "case_lni": "7WBN-RFJ0-Y892-B2B6-00000-00",
+  "case_number": "2:94m3569",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "1994-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID K. SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 18.2-146 A2033569"
+        },
+        {
+          "charge_description": "18:13 MISC. GENERAL OFFENSES, OTHER (Breaking, Injuring, Defacing, Destroying or Preventing the Operation of Vehicles) assimilating Va. State Code 18.2-146 as to v.n. A2033569 (1)"
+        },
+        {
+          "charge_disposition": "$100.00 fine; $25.00 assessment; restitution in the amount of $101.00 to Corey Vincent (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_205mj626_TXSD",
+  "case_key": "2:05mj626_TXSD",
+  "case_lni": "7WBN-R730-Y892-B0MG-00000-00",
+  "case_number": "2:05mj626",
+  "case_title": "USA v. Garza",
+  "case_info_full_case_name": "USA v. Garza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garza",
+  "case_date_filed": "2005-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maria Jesus Garza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F Bringing in and Harboring Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brian L Owsley",
+          "judge_guid": "urn:entity:jud-100075563"
+        }
+      ]
+    },
+    {
+      "party_name": "Briseyda Ayala-Granados",
+      "party_description": "material witness"
+    }
+  ]
+}

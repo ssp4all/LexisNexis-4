@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_397m30486_cand",
+  "case_key": "3:97m30486_cand",
+  "case_lni": "7WBN-HFT0-Y892-B263-00000-00",
+  "case_number": "3:97m30486",
+  "case_title": "USA v. Coombes",
+  "case_info_full_case_name": "USA v. Coombes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Coombes",
+  "case_date_filed": "1997-12-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARCHIE LEE COOMBES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 Theft of US Government Property."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    }
+  ]
+}

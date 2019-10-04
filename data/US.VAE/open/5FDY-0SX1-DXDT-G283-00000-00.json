@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_415mj45_VAED",
+  "case_key": "4:15mj45_VAED",
+  "case_lni": "5FDY-0SX1-DXDT-G283-00000-00",
+  "case_number": "4:15mj45",
+  "case_title": "USA v. Loeschke",
+  "case_info_full_case_name": "USA v. Loeschke",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Loeschke",
+  "case_date_filed": "2015-03-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Angela P. Loeschke",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SIMPLE ASSAULT WITHIN MARITIME AND TERRITORIAL JURISDICTION - in violation of T. 18 USC Section 113 (a)(5)(1)"
+        },
+        {
+          "charge_disposition": "Dismissed superseding CI filed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18 USC 113(a)(4) - Assault(1s)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on Govt motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18 USC 7&;13, assim. Code of Va. 18.2-415 - Causing an Act of Violence(2s)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on Govt motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

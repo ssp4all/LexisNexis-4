@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_118mj1016_HID",
+  "case_key": "1:18mj1016_HID",
+  "case_lni": "5T87-DY81-DXDT-G0XD-00000-00",
+  "case_number": "1:18mj1016",
+  "case_title": "USA v. Parcel",
+  "case_info_full_case_name": "USA v. Parcel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parcel",
+  "case_date_filed": "2018-09-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Parcel",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "RICHARD L. PUGLISI",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    }
+  ]
+}

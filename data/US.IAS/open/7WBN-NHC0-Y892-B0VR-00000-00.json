@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_408cr146_IASD",
+  "case_key": "4:08cr146_IASD",
+  "case_lni": "7WBN-NHC0-Y892-B0VR-00000-00",
+  "case_number": "4:08cr146",
+  "case_title": "USA v. Six",
+  "case_info_full_case_name": "USA v. Six",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Six",
+  "case_date_filed": "2008-11-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Maureen McGuire"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeffrey Seldon Six",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Unlawful Transport of Firearms, Etc. 18:922(G)(1), 922(G)(3) And 924(A)(2) Prohibited Person in Possession of Firearms (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Importing/Manufacturing Firearms 18:922(A)(6) And 924(A)(2) False Statements During Purchase of A Firearm (2)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Seizure, Forfeiture And Disposition of Firearm 18:924(D) And 28:2461(C) Notice of Forfeiture (3)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert W Pratt",
+          "judge_guid": "urn:entity:jud-100032662"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ross A Walters",
+          "judge_guid": "urn:entity:jud-100005437"
+        }
+      ]
+    }
+  ]
+}

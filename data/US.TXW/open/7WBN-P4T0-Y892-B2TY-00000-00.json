@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_600m504_txwd",
+  "case_key": "6:00m504_txwd",
+  "case_lni": "7WBN-P4T0-Y892-B2TY-00000-00",
+  "case_number": "6:00m504",
+  "case_title": "USA v. Pacheco",
+  "case_info_full_case_name": "USA v. Pacheco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pacheco",
+  "case_date_filed": "2000-08-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Steven N. Walden",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NOVAS PACHECO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.M"
+        },
+        {
+          "charge_description": "18:641.M THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

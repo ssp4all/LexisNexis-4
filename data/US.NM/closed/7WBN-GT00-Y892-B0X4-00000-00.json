@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_207cr2062_NMD",
+  "case_key": "2:07cr2062_NMD",
+  "case_lni": "7WBN-GT00-Y892-B0X4-00000-00",
+  "case_number": "2:07cr2062",
+  "case_title": "USA v. Zavaleta-Rivas",
+  "case_info_full_case_name": "USA v. Zavaleta-Rivas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zavaleta-Rivas",
+  "case_date_filed": "2007-10-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Heriberto Alexander Zavaleta-Rivas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 1326(b),"
+        },
+        {
+          "charge_description": "8:1326(a) &; 1326(b), RE-ENTRY OF A REMOVED ALIEN (1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP-6 months; SPA: waived;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(b)(1)"
+        },
+        {
+          "charge_description": "8:1326(b)(1) Reentry after Deportation, Convicted Felon"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James O. Browning",
+          "judge_guid": "urn:entity:jud-100064003"
+        }
+      ]
+    }
+  ]
+}

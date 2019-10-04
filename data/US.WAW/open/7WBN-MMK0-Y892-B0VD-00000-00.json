@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_303cr5536_wawd",
+  "case_key": "3:03cr5536_wawd",
+  "case_lni": "7WBN-MMK0-Y892-B0VD-00000-00",
+  "case_number": "3:03cr5536",
+  "case_title": "USA v. Corona",
+  "case_info_full_case_name": "USA v. Corona",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Corona",
+  "case_date_filed": "2003-09-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Ye-Ting Woo",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Octavio Vasquez Corona",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Manufacturing Marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Franklin D. Burgess",
+          "judge_guid": "urn:entity:jud-100063796"
+        }
+      ]
+    }
+  ]
+}

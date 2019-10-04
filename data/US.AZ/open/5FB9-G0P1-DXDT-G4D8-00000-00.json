@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415cr332_AZD",
+  "case_key": "4:15cr332_AZD",
+  "case_lni": "5FB9-G0P1-DXDT-G4D8-00000-00",
+  "case_number": "4:15cr332",
+  "case_title": "USA v. Turner",
+  "case_info_full_case_name": "USA v. Turner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Turner",
+  "case_date_filed": "2015-02-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kenyon Lavell Turner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(ii), and 1324(a)(1)(B)(i) Conspiracy to Transport an Illegal Alien for Profit(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) and 1324(a)(1)(B)(i) Transportation of an Illegal Alien for Profit(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(ii) and 1324(a)(1)(B)(i) Conspiracy to Transport Illegal Aliens For Financial Gain"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(ii) and 1324("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    },
+    {
+      "party_description": "Material Witness"
+    }
+  ]
+}

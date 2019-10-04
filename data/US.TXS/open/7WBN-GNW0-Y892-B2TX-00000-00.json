@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_204m389_TXSD",
+  "case_key": "2:04m389_TXSD",
+  "case_lni": "7WBN-GNW0-Y892-B2TX-00000-00",
+  "case_number": "2:04m389",
+  "case_title": "USA v. Perico-Cruz",
+  "case_info_full_case_name": "USA v. Perico-Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perico-Cruz",
+  "case_date_filed": "2004-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO PERICO-CRUZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "24, 2002, 8USC1325,"
+        },
+        {
+          "charge_description": "An alien, having been convicted previously on September 24, 2002, for illegally entering the United States in violation of Title 8, United States Code, Section 1325, did knowingly and unlawfully enter the United States from Mexico, at a point near Laredo, Texas, which said time and place was other than as designated by immigration officials of the United States for the entrance of immigrants into the United States, in violation of 8 USC 1325."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    }
+  ]
+}

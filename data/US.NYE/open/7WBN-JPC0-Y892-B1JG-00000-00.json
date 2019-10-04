@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_106mj768_NYED",
+  "case_key": "1:06mj768_NYED",
+  "case_lni": "7WBN-JPC0-Y892-B1JG-00000-00",
+  "case_number": "1:06mj768",
+  "case_title": "USA v. Yamaki",
+  "case_info_full_case_name": "USA v. Yamaki",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yamaki",
+  "case_date_filed": "2006-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Yoshio Yamaki",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC, 2314-Transporting"
+        },
+        {
+          "charge_description": "18, U.S.C., 2314-Transporting interstate commerce securities and money"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "James Orenstein",
+          "judge_guid": "urn:entity:jud-100035834"
+        }
+      ]
+    }
+  ]
+}

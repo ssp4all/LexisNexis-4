@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_404m255_AZD",
+  "case_key": "4:04m255_AZD",
+  "case_lni": "7WBN-FR90-Y892-B1C8-00000-00",
+  "case_number": "4:04m255",
+  "case_title": "USA, et al v. Olivera-Torres",
+  "case_info_full_case_name": "USA, et al v. Olivera-Torres",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Olivera-Torres",
+  "case_date_filed": "2004-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAIME OLIVERA-TORRES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Ct1: 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "Ct1: 8:1326(b)(2) Re-Entry of Deported Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy F Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

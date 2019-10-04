@@ -1,0 +1,119 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_108cr1_KYWD",
+  "case_key": "1:08cr1_KYWD",
+  "case_lni": "7WBN-F440-Y892-B39T-00000-00",
+  "case_number": "1:08cr1",
+  "case_title": "USA v. Gibbs et al",
+  "case_info_full_case_name": "USA v. Gibbs et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gibbs et al",
+  "case_date_filed": "2008-01-09",
+  "case_status": "Closed",
+  "case_status_date": "08/04/2009",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David R. Weiser",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bryon Ray Gibbs",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 2113 (a)- BANK ROBBERY BY FORCE AND VIOLENCE, OR BY INTIMIDATION, MONEY BELONGING TO, OR IN CARE, CUSTODY, CONTROL, MANAGEMENT, OR POSSESSION OF A BANK WHOSE DEPOSIT ARE INSURED BY A FEDERAL DEPOSIT INSURANCE CORPORATION"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. 2113 (a)- BANK ROBBERY BY FORCE AND VIOL"
+        },
+        {
+          "charge_description": "18:2113(a) and 2 - BANK ROBBERY; AID AND ABET(1)"
+        },
+        {
+          "charge_disposition": "Imprisoned 60 months; Supervised Release 3 years; Restitution $11,933.25; SPA $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Joseph H. McKinley, Jr",
+          "judge_guid": "urn:entity:jud-100040720"
+        }
+      ]
+    },
+    {
+      "party_name": "Candice Vickers Gibbs",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 2113 (a)- BANK ROBBERY BY FORCE AND VIOLENCE, OR BY INTIMIDATION, MONEY BELONGING TO, OR IN CARE, CUSTODY, CONTROL, MANAGEMENT, OR POSSESSION OF A BANK WHOSE DEPOSIT ARE INSURED BY A FEDERAL DEPOSIT INSURANCE CORPORATION"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. 2113 (a)- BANK ROBBERY BY FORCE AND VIOL"
+        },
+        {
+          "charge_description": "18:2113(a) and 2 - BANK ROBBERY; AID AND ABET(1)"
+        },
+        {
+          "charge_disposition": "Imprisoned 18 months; Supervised Release 3 years; Restitution $11,933.25; SPA $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Joseph H. McKinley, Jr",
+          "judge_guid": "urn:entity:jud-100040720"
+        }
+      ]
+    },
+    {
+      "party_name": "Jeffery Alan Willett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 2113 (a)- BANK ROBBERY BY FORCE AND VIOLENCE, OR BY INTIMIDATION, MONEY BELONGING TO, OR IN CARE, CUSTODY, CONTROL, MANAGEMENT, OR POSSESSION OF A BANK WHOSE DEPOSIT ARE INSURED BY A FEDERAL DEPOSIT INSURANCE CORPORATION"
+        },
+        {
+          "charge_offence_description": "18 U.S.C. 2113 (a)- BANK ROBBERY BY FORCE AND VIOL"
+        },
+        {
+          "charge_description": "18:2113(a) and 2 - BANK ROBBERY; AID AND ABET(1)"
+        },
+        {
+          "charge_disposition": "Imprisoned 41 months; Supervised Release 3 years; Restitution $11,933.25; SPA $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Joseph H. McKinley, Jr",
+          "judge_guid": "urn:entity:jud-100040720"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "E. Robert Goebel",
+          "judge_guid": "urn:entity:jud-100042830"
+        }
+      ]
+    }
+  ]
+}

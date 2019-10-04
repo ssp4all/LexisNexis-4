@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_618po118_CAED",
+  "case_key": "6:18po118_CAED",
+  "case_lni": "5RMM-RR41-DXDT-G1T1-00000-00",
+  "case_number": "6:18po118",
+  "case_title": "USA v. Pardue",
+  "case_info_full_case_name": "USA v. Pardue",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pardue",
+  "case_date_filed": "2018-02-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Yosemite Legal Officer",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Matthew A Pardue",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of a Controlled Substance (6810471)(1)"
+        },
+        {
+          "charge_disposition": "Disposition: Dismissed w/o Prejudice(NM)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Operating a Motor Vehicle Off Road in Undesignated Areas (6810470)(2)"
+        },
+        {
+          "charge_disposition": "Disposition: Dismissed w/o Prejudice(NM). Processing Fees $30.00, Total $30.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Possession of a Controlled Substance (6810472)(3)"
+        },
+        {
+          "charge_disposition": "Disposition: Dismissed w/o Prejudice(NM). Processing Fees $30.00, Total $30.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Seng",
+          "judge_guid": "urn:entity:jud-100030508"
+        }
+      ]
+    }
+  ]
+}

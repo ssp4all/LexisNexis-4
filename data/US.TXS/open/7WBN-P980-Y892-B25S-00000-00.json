@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_707cr1208_TXSD",
+  "case_key": "7:07cr1208_TXSD",
+  "case_lni": "7WBN-P980-Y892-B25S-00000-00",
+  "case_number": "7:07cr1208",
+  "case_title": "USA v. Cerda",
+  "case_info_full_case_name": "USA v. Cerda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cerda",
+  "case_date_filed": "2007-11-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Mc",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - Mc",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Omar Cerda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_disposition": "4/24/00: Eighty-eight (88) months CBOP, 2 yrs SRT, $100 SA;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_214cr20382_MIED",
+  "case_key": "2:14cr20382_MIED",
+  "case_lni": "5CK1-Y661-DXDT-G093-00000-00",
+  "case_number": "2:14cr20382",
+  "case_title": "United States of America v. Tanzini",
+  "case_info_full_case_name": "United States of America v. Tanzini",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Tanzini",
+  "case_date_filed": "2014-07-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Margaret M. Smith",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nino Tanzini",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PRODUCTION OF CHILD PORNOGRAPHY(1-2)"
+        },
+        {
+          "charge_disposition": "600 MONTHS CONSECUTIVE; SUPERVISED RELEASE: 60 MONTHS; SPECIAL ASSESSMENT: $200.00; RESTITUTION: $100,000.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "POSSESSION OF CHILD PORNOGRAPHY(3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "COERCION OR ENTICEMENT OF FEMALE(4-5)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_offence_description": "COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Marianne O. Battani",
+          "judge_guid": "urn:entity:jud-100062109"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    }
+  ]
+}

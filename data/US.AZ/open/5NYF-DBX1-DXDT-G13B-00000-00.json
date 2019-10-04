@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416cr56_AZD",
+  "case_key": "4:16cr56_AZD",
+  "case_lni": "5NYF-DBX1-DXDT-G13B-00000-00",
+  "case_number": "4:16cr56",
+  "case_title": "USA v. Hendricks",
+  "case_info_full_case_name": "USA v. Hendricks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hendricks",
+  "case_date_filed": "2016-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ivina Margaret Hendricks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113(a)(3) Assault with Dangerous Weapon; 18:1153 Offenses Committed in Indian Country(2)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the Bureau of Prisons for a term of THIRTEEN (13) MONTHS and ONE (1) DAY, with credit for time served, to run concurrent with Count 3; placed on supervised release for a term of THREE (3) YEARS, to run concurrent with Count 3; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:113(a)(6) Assault Causing Serious Bodily Injury; 18:1153 Offenses Committed in Indian Country(3)"
+        },
+        {
+          "charge_disposition": "Defendant is committed to the Bureau of Prisons for a term of THIRTEEN (13) MONTHS and ONE (1) DAY, with credit for time served, to run concurrent with Count 2; placed on supervised release for a term of THREE (3) YEARS, to run concurrent with Count 2; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "A.R.S. ยง28-1381(A)(1), Driving While Under the Influence; 18:13 Assimilative Crimes Act; 18:1152 General Crimes Act(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

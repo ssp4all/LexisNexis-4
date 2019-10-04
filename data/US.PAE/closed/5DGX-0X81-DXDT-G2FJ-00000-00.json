@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_214cr589_PAED",
+  "case_key": "2:14cr589_PAED",
+  "case_lni": "5DGX-0X81-DXDT-G2FJ-00000-00",
+  "case_number": "2:14cr589",
+  "case_title": "USA v. BARNETT",
+  "case_info_full_case_name": "USA v. BARNETT",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "BARNETT",
+  "case_date_filed": "2014-10-30",
+  "case_status": "Closed",
+  "case_status_date": "10/30/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JENNIFER A. WILLIAMS",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLEN ARTHUR BARNETT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 21:841(a)(1) AND (b)(1)(B) - CONSPIRACY TO DISTRIBUTE AND POSSESSION WITH INTENT TO DISTRIBUTE HEROIN"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT TIME SERVED, SUPERVISED RELEASE 4 YEARS, SPECIAL ASSESSMENT $100.00 (DISTRICT OF NEW JERSEY)"
+        },
+        {
+          "charge_offence_description": "21:846, 21:841(a)(1) AND (b)(1)(B) - CONSPIRACY TO"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "JOEL H. SLOMSKY",
+          "judge_guid": "urn:entity:jud-100020827"
+        }
+      ]
+    }
+  ]
+}

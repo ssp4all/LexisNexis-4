@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_394cr4_vawd",
+  "case_key": "3:94cr4_vawd",
+  "case_lni": "7WBN-RWY0-Y892-B1HW-00000-00",
+  "case_number": "3:94cr4",
+  "case_title": "USA v. Walker",
+  "case_info_full_case_name": "USA v. Walker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Walker",
+  "case_date_filed": "1994-01-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CANDACE LORRELLE WALKER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343"
+        },
+        {
+          "charge_description": "18:1343 POSTAL, INTERSTATE WIRE, RADIO, ETC. (3)"
+        },
+        {
+          "charge_disposition": "CBOP 37 months on all counts to run concurrent; S/R 3 years on Ct. 3 to run concurrent w/sentence imposed in 93-136; No Fine; S/A $50.00. Restitution to Charles Jelinek in the amount of $116, 807.50.-SRRH 8/22/96-CBOP: 6 months, Restitution $208, 559.71 ($91,752.21 on 93-136-C and $116,807.50 on 94-4-C) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371"
+        },
+        {
+          "charge_description": "18:371 POSTAL, INTERSTATE WIRE, RADIO, ETC. (1)"
+        },
+        {
+          "charge_disposition": "Trf. to WD/VA, Charlottesville in error. Returned to ND/Ohio, Cleveland. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1343"
+        },
+        {
+          "charge_description": "18:1343 POSTAL, INTERSTATE WIRE, RADIO, ETC. (2)"
+        },
+        {
+          "charge_disposition": "Trf. to WD/VA, Charlottesville in error. Returned to ND/Ohio, Cleveland. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Samuel G. Wilson",
+          "judge_guid": "urn:entity:jud-100016928"
+        }
+      ]
+    }
+  ]
+}

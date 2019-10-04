@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_411cr40056_ILCD",
+  "case_key": "4:11cr40056_ILCD",
+  "case_lni": "535N-FWJ1-DXDT-G3MN-00000-00",
+  "case_number": "4:11cr40056",
+  "case_title": "USA v. Weinberg",
+  "case_info_full_case_name": "USA v. Weinberg",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Weinberg",
+  "case_date_filed": "2011-06-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mary L Fuhr Rock Island Arsenal",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 625 5/6-303(a) 18USC13."
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER On or about [6/9/2011], in the CDIL, the Dft, drove a motor vehicle while his privileges to operate a motor vehicle were suspended in Illinois, in violation of 625 ILCS 5/6-303(a) and 18 USC 13. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

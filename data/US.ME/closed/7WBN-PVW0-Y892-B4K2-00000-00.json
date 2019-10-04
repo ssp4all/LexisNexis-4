@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_193cr64_med",
+  "case_key": "1:93cr64_med",
+  "case_lni": "7WBN-PVW0-Y892-B4K2-00000-00",
+  "case_number": "1:93cr64",
+  "case_title": "USA v. FREME",
+  "case_info_full_case_name": "USA v. FREME",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "FREME",
+  "case_date_filed": "1993-12-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARK S FREME",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2"
+        },
+        {
+          "charge_description": "18:2 EMBZ: OFFICER OR EMPLOYEE OF U. S. GOVT. (1)"
+        },
+        {
+          "charge_disposition": "$50 special assessment; 13 months imprisonment; Deft self report 8/10/94 by 12:00 noon; 3 years supervised release; Restitution of $90,072.62 to Office of U. S. Trustee (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "MORTON A BRODY",
+          "judge_guid": "urn:entity:jud-100060688"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_519mj1005_NCED",
+  "case_key": "5:19mj1005_NCED",
+  "case_lni": "5VDN-KF01-DXDT-G3KJ-00000-00",
+  "case_number": "5:19mj1005",
+  "case_title": "USA v. Ouzts",
+  "case_info_full_case_name": "USA v. Ouzts",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ouzts",
+  "case_date_filed": "2019-01-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katharine M Adams",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tyrone Ouzts",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DWI - NCGS 20-138.1(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Careless and Reckless Driving NCGS 20-140(a)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Fail to Stop at Red Light - NCGS 20-158(b)(2)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Speeding in Excess of 15mph Above Fixed Limits - NCGS 20-141(j1)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Failure to Maintain Lane - NCGS 20-146(d)(1)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Resist, Delay, or Obstruct a Police Officer - NCGS 14-223(6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kimberly A. Swank",
+          "judge_guid": "urn:entity:jud-100104781"
+        }
+      ]
+    }
+  ]
+}

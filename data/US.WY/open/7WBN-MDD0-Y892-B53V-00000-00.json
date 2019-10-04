@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_299cr83_wyd",
+  "case_key": "2:99cr83_wyd",
+  "case_lni": "7WBN-MDD0-Y892-B53V-00000-00",
+  "case_number": "2:99cr83",
+  "case_title": "USA v. Newton",
+  "case_info_full_case_name": "USA v. Newton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Newton",
+  "case_date_filed": "1999-06-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOUGLAS L NEWTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:228.P (1ST"
+        },
+        {
+          "charge_description": "18:228.P FAILURE TO PAY CHILD SUPPORT (1ST OFFENSE) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William C Beaman",
+          "judge_guid": "urn:entity:jud-100062035"
+        }
+      ]
+    }
+  ]
+}

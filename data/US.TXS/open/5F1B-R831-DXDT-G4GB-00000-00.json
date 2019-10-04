@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_415cr10_TXSD",
+  "case_key": "4:15cr10_TXSD",
+  "case_lni": "5F1B-R831-DXDT-G4GB-00000-00",
+  "case_number": "4:15cr10",
+  "case_title": "USA v. Garcia-Espinoza",
+  "case_info_full_case_name": "USA v. Garcia-Espinoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Espinoza",
+  "case_date_filed": "2015-01-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Marshal - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rigoberto Garcia-Espinoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal Reentry After Deportation(1)"
+        },
+        {
+          "charge_disposition": "42 months custody (this accounts for credit for some of the time served in State custody); no SRT; no fine"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy F. Atlas",
+          "judge_guid": "urn:entity:jud-100074101"
+        }
+      ]
+    }
+  ]
+}

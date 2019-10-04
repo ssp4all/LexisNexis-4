@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_411cr40075_ILCD",
+  "case_key": "4:11cr40075_ILCD",
+  "case_lni": "53PK-NNT1-DXDT-G1N6-00000-00",
+  "case_number": "4:11cr40075",
+  "case_title": "USA v. Bak",
+  "case_info_full_case_name": "USA v. Bak",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bak",
+  "case_date_filed": "2011-09-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mary L Fuhr Rock Island Arsenal",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christina M Bak",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 625 5/6-303(a) 18USC13."
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER On or about [7/3/2011], in the CDIL, the Dft drove a motor vehicle upon the Rock Island Arsenal, while her privileges to operate a motor vehicle were suspended in Illinois, in violation of 625 ILCS 5/6-303(a) and 18 USC 13. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M 625 5/6-303(a) 18USC13."
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER On or about [7/3/2011], in the CDIL, the Dft drove a motor vehicle upon the Rock Island Arsenal, while her vehicle registration was suspended due to not having mandatory insurance coverage in Iowa, in violation of 625 ILCS 5/6-303(a) and 18 USC 13. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M 25 625 5/11-601(b) 18USC13."
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER On or about [7/3/2011], in the CDIL, the Dft drove a motor vehicle upon the Rock Island Arsenal, while traveling in excess of the posted speed limit of 25 mph, in violation of 625 ILCS 5/11-601(b) and 18 USC 13. (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

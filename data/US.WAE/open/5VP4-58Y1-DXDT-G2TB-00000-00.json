@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_419cr6016_WAED",
+  "case_key": "4:19cr6016_WAED",
+  "case_lni": "5VP4-58Y1-DXDT-G2TB-00000-00",
+  "case_number": "4:19cr6016",
+  "case_title": "USA v. Lopez-Cibrian",
+  "case_info_full_case_name": "USA v. Lopez-Cibrian",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Cibrian",
+  "case_date_filed": "2019-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Lopez-Cibrian",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 U.S.C. ยง 1326 - ALIEN IN UNITED STATES AFTER DEPORTATION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stanley A Bastian",
+          "judge_guid": "urn:entity:jud-100106990"
+        }
+      ]
+    }
+  ]
+}

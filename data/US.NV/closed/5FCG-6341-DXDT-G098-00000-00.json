@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_215cr51_NVD",
+  "case_key": "2:15cr51_NVD",
+  "case_lni": "5FCG-6341-DXDT-G098-00000-00",
+  "case_number": "2:15cr51",
+  "case_title": "USA v. Suggs",
+  "case_info_full_case_name": "USA v. Suggs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Suggs",
+  "case_date_filed": "2015-02-23",
+  "case_status": "Closed",
+  "case_status_date": "02/24/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew W Duncan",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Suggs",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), (b)(1)(D) - Conspiracy to Possess with Intent to Distribute Marijuana; 18:1956(a)(1)(B)(i) and (h) - Money Laundering"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1), (b)(1)(D) - Conspiracy to Possess wi"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Gloria M. Navarro",
+          "judge_guid": "urn:entity:jud-100065429"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carl W. Hoffman",
+          "judge_guid": "urn:entity:jud-100034350"
+        }
+      ]
+    }
+  ]
+}

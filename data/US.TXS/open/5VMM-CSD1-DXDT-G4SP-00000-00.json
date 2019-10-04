@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_119mj346_TXSD",
+  "case_key": "1:19mj346_TXSD",
+  "case_lni": "5VMM-CSD1-DXDT-G4SP-00000-00",
+  "case_number": "1:19mj346",
+  "case_title": "USA v. Jaramillo Sauceda",
+  "case_info_full_case_name": "USA v. Jaramillo Sauceda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jaramillo Sauceda",
+  "case_date_filed": "2019-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Asst ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Alberto Jaramillo Sauceda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "An alien who had previously been denied admission, excluded, deported, or removed, knowingly and unlawfully was present in the U.S., the said defendant having not obtained the consent of the Attorney General of the Secretary of the Department of Homeland Security to reapply for admission into the U.S., 8 U.S.C 1326"
+        },
+        {
+          "charge_offence_description": "An alien who had previously been denied admission,"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ignacio Torteya, III",
+          "judge_guid": "urn:entity:jud-100021592"
+        }
+      ]
+    }
+  ]
+}

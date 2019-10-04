@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_697cr162_flmd",
+  "case_key": "6:97cr162_flmd",
+  "case_lni": "7WBN-J280-Y892-B1RH-00000-00",
+  "case_number": "6:97cr162",
+  "case_title": "USA v. Adams",
+  "case_info_full_case_name": "USA v. Adams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adams",
+  "case_date_filed": "1997-08-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ana Escobar",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donlow Adams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113A.F BANK ROBBERY BY FORCE OR VIOLENCE(2)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 61 months consecutive to service of the State sentence in Case No. 23417-CFA which defendant is now serving. The Court recommends confinement where defendant may be afforded substance abuse therapy. Supervised Release: 2 years. Special Conditions of Supervised Release: Defendant shall participate in a program for treatment of narcotic addiction or drug or alcohol dependency and contribute to costs of such program; defendant shall participate in a program of mental health treatment and contribute to costs of such program. Restitution: $1,363.95. Special Assessment: $100.00. **10/5/05 ORDER entered revoking supervised release - defendant shall be incarcerated for a term of 7 months.**"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2113A.F BANK ROBBERY BY FORCE OR VIOLENCE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the U. S. Attorney"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Patricia C. Fawsett",
+          "judge_guid": "urn:entity:jud-100056118"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karla R. Spaulding",
+          "judge_guid": "urn:entity:jud-100020417"
+        }
+      ]
+    }
+  ]
+}

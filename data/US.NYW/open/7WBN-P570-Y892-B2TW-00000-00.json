@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_603m4091_nywd",
+  "case_key": "6:03m4091_nywd",
+  "case_lni": "7WBN-P570-Y892-B2TW-00000-00",
+  "case_number": "6:03m4091",
+  "case_title": "USA v. Rogers",
+  "case_info_full_case_name": "USA v. Rogers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rogers",
+  "case_date_filed": "2003-08-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John E. Kelly, Jr., Esq.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RENETHA ROGERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924(c)(1)"
+        },
+        {
+          "charge_description": "did unlawfully possess a firearm during and in relation to a drug trafficking crime and possessed a controlled substance with intent to distribute in violation of 18:924(c)(1) and 21:841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "Marian W. Payson",
+          "judge_guid": "urn:entity:jud-100024892"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_297m8236_casd",
+  "case_key": "2:97m8236_casd",
+  "case_lni": "7WBN-H260-Y892-B24W-00000-00",
+  "case_number": "2:97m8236",
+  "case_title": "USA v. Gonzalez-Aviles",
+  "case_info_full_case_name": "USA v. Gonzalez-Aviles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Aviles",
+  "case_date_filed": "1997-04-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MIGUEL GONZALEZ-AVILES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-21:952, 960 963-importation"
+        },
+        {
+          "charge_description": "Cnt 1-21:952, 960 and 963-importation of marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Louisa S. Porter",
+          "judge_guid": "urn:entity:jud-100024279"
+        }
+      ]
+    }
+  ]
+}

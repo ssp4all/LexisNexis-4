@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_111cr108_MTD",
+  "case_key": "1:11cr108_MTD",
+  "case_lni": "540D-TSF1-DXDT-G1BP-00000-00",
+  "case_number": "1:11cr108",
+  "case_title": "USA v. Ramos-Gonzalez",
+  "case_info_full_case_name": "USA v. Ramos-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramos-Gonzalez",
+  "case_date_filed": "2011-09-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Carlos Ramos-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F ILLEGAL RE-ENTRY OF DEPORTED ALIEN (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F--ILLEGAL"
+        },
+        {
+          "charge_description": "8:1326A.F--ILLEGAL RE-ENTRY OF DEPORTED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jack D Shanstrom",
+          "judge_guid": "urn:entity:jud-100021335"
+        }
+      ]
+    }
+  ]
+}

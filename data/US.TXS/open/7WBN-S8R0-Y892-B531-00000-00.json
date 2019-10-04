@@ -1,0 +1,92 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502cr966_txsd",
+  "case_key": "5:02cr966_txsd",
+  "case_lni": "7WBN-S8R0-Y892-B531-00000-00",
+  "case_number": "5:02cr966",
+  "case_title": "USA v. Martinez",
+  "case_info_full_case_name": "USA v. Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez",
+  "case_date_filed": "2002-07-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE EDUARDO MARTINEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Ct.1: 21:841A=MD.F 40 5 and/or$250,000.00, 3"
+        },
+        {
+          "charge_description": "Ct.1: 21:841A=MD.F Possession w/intent to distribute 40 pounds of marijuana. PenaltY: 0 to 5 yrs and/or$250,000.00, $100 CVF, 3 yrs TSR. DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18.2"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with the intent to distribute a controlled substance, to-wit: approximately 18.2 kilograms of marijuana. [5:02-m-2390]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    },
+    {
+      "party_name": "LIZETTE GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Ct.1: 21:841A=MD.F 40 5 and/or$250,000.00, 3"
+        },
+        {
+          "charge_description": "Ct.1: 21:841A=MD.F Possession w/intent to distribute 40 pounds of marijuana. PenaltY: 0 to 5 yrs and/or$250,000.00, $100 CVF, 3 yrs TSR. DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18.2"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with the intent to distribute a controlled substance, to-wit: approximately 18.2 kilograms of marijuana. [5:02-m-2390]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

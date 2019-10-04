@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_510cr911_TXSD",
+  "case_key": "5:10cr911_TXSD",
+  "case_lni": "7YSC-VTD0-Y892-B4ST-00000-00",
+  "case_number": "5:10cr911",
+  "case_title": "USA v. Franco Munoz",
+  "case_info_full_case_name": "USA v. Franco Munoz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Franco Munoz",
+  "case_date_filed": "2010-04-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Laredo Probation",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Carlos Franco Munoz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "0-20 3"
+        },
+        {
+          "charge_description": "Illegal entry after deportation. Penalty: 0-20 Yrs and/or $250,000.00 Fine; $100 CVF; Not More Than 3 Yrs SRT. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326.F---REENTRY"
+        },
+        {
+          "charge_description": "8:1326.F---REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

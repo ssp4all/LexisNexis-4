@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_500cr80_txwd",
+  "case_key": "5:00cr80_txwd",
+  "case_lni": "7WBN-S880-Y892-B55J-00000-00",
+  "case_number": "5:00cr80",
+  "case_title": "USA v. Davila-Esquivel",
+  "case_info_full_case_name": "USA v. Davila-Esquivel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davila-Esquivel",
+  "case_date_filed": "2000-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEONARDO DE JESUS DAVILA-ESQUIVEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F"
+        },
+        {
+          "charge_description": "8:1326B.F REENTRY OF DEPORTED ALIEN-FELONY (Illegal Re-entry into the United States) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8USC1326"
+        },
+        {
+          "charge_description": "re-entry of an illegal alien into the U. S. in violation of 8 USC 1326 [5:00-m-41]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Orlando L. Garcia",
+          "judge_guid": "urn:entity:jud-100055086"
+        }
+      ]
+    }
+  ]
+}

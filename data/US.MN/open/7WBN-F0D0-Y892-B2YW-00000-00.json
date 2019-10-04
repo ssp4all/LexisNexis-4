@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_003cr46_mnd",
+  "case_key": "0:03cr46_mnd",
+  "case_lni": "7WBN-F0D0-Y892-B2YW-00000-00",
+  "case_number": "0:03cr46",
+  "case_title": "USA v. Robinson",
+  "case_info_full_case_name": "USA v. Robinson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robinson",
+  "case_date_filed": "2003-02-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KELVIN LAMOND ROBINSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A) POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(crack) 21:846 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute cocaine base (crack) in violation of 21:846 and 841(b)(1)(A) [0:02-m-316]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John R Tunheim",
+          "judge_guid": "urn:entity:jud-100072858"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Franklin L Noel",
+          "judge_guid": "urn:entity:jud-100031426"
+        }
+      ]
+    }
+  ]
+}

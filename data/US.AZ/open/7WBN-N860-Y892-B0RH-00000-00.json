@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400cr1348_azd",
+  "case_key": "4:00cr1348_azd",
+  "case_lni": "7WBN-N860-Y892-B0RH-00000-00",
+  "case_number": "4:00cr1348",
+  "case_title": "USA v. Parada-Sombra",
+  "case_info_full_case_name": "USA v. Parada-Sombra",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parada-Sombra",
+  "case_date_filed": "2000-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE ANGEL PARADA-SOMBRA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a)(b)(1) REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank R Zapata",
+          "judge_guid": "urn:entity:jud-100065407"
+        }
+      ]
+    }
+  ]
+}

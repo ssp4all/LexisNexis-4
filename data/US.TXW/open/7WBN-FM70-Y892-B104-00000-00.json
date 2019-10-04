@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_309mj4330_TXWD",
+  "case_key": "3:09mj4330_TXWD",
+  "case_lni": "7WBN-FM70-Y892-B104-00000-00",
+  "case_number": "3:09mj4330",
+  "case_title": "USA v. Santos-Emigdio",
+  "case_info_full_case_name": "USA v. Santos-Emigdio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Santos-Emigdio",
+  "case_date_filed": "2009-07-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lorenso Santos-Emigdio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F-Reentry"
+        },
+        {
+          "charge_description": "8:1326A.F-Reentry of Deported Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

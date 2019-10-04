@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_415cr216_MOWD",
+  "case_key": "4:15cr216_MOWD",
+  "case_lni": "5GCY-7RM1-DXDT-G17Y-00000-00",
+  "case_number": "4:15cr216",
+  "case_title": "USA v. Dillon",
+  "case_info_full_case_name": "USA v. Dillon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dillon",
+  "case_date_filed": "2015-07-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kenneth J Dillon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "On or about June 17, 2015, in the Western District of Missouri, the defendant, KENNETH J. DILLON, a/k/a Kenneth J. Steinman, having been convicted of a crime punishable by imprisonment for a term exceeding one year, did knowingly possess, in and affecting interstate commerce, ammunition, to wit:   eight (8) live rounds of Federal Premium Ammunition brand, .40 caliber ammunition, contrary to the provisions of Title 18, United States Code, Sections 922(g)(1) and 924(a)(2)."
+        },
+        {
+          "charge_offence_description": "On or about June 17, 2015, in the Western District"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Gary A. Fenner",
+          "judge_guid": "urn:entity:jud-100046650"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Maughmer",
+          "judge_guid": "urn:entity:jud-100041328"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_111cr8_INSD",
+  "case_key": "1:11cr8_INSD",
+  "case_lni": "51Y0-8CX1-DXDT-G3VP-00000-00",
+  "case_number": "1:11cr8",
+  "case_title": "USA v. COOK",
+  "case_info_full_case_name": "USA v. COOK",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "COOK",
+  "case_date_filed": "2011-01-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JIMMY LEE COOK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SEXUAL EXPLOITATION OF A MINOR"
+        },
+        {
+          "charge_statute": "18:2252A.F"
+        },
+        {
+          "charge_description": "18:2252A.F &;nbsp; ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jane Magnus-Stinson",
+          "judge_guid": "urn:entity:jud-100072487"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kennard P. Foster",
+          "judge_guid": "urn:entity:jud-100055522"
+        }
+      ]
+    }
+  ]
+}

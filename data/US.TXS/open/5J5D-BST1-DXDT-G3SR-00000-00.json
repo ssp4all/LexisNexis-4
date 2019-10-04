@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_416cr81_TXSD",
+  "case_key": "4:16cr81_TXSD",
+  "case_lni": "5J5D-BST1-DXDT-G3SR-00000-00",
+  "case_number": "4:16cr81",
+  "case_title": "USA v. Carreto",
+  "case_info_full_case_name": "USA v. Carreto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carreto",
+  "case_date_filed": "2016-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Eun Kate Ae Suh",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Marshal - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Julio Carreto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL REENTRY AFTER DEPORTATION(1)"
+        },
+        {
+          "charge_disposition": "The defendant is committed to the Custody of the BOP for a term 23 months, Defense counsel's request for 1 month credit GRANTED, $100 Special Assessment is Remitted on the Government's motion. Defendant informed of rights to appeal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alfred H Bennett",
+          "judge_guid": "urn:entity:jud-100018353"
+        }
+      ]
+    }
+  ]
+}

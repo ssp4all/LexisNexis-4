@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_191cr663_ilnd",
+  "case_key": "1:91cr663_ilnd",
+  "case_lni": "7WBN-GBW0-Y892-B2FH-00000-00",
+  "case_number": "1:91cr663",
+  "case_title": "USA v. White",
+  "case_info_full_case_name": "USA v. White",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "White",
+  "case_date_filed": "1991-08-07",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "AUSA",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pre-",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT J WHITE, JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (1)"
+        },
+        {
+          "charge_disposition": "It is ordered that the defendant shall pay a special assessment of $50.00 for count one which shall be due immediately. The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a term of 28 (twenty-eight months). Pursuant to the Sentencing Reform Act of 1984, it is the judgment of the court on count 1 of the information, that the defendant is hereby committed to the custody of the Bureau of Prisons for a term of twenty-eight months. The court makes the following recommendations to the Bureau of Prisons: That the defendant be incarcerated at Oxford or Rochester. The defendant shall surrender for service of sentence at the institution designated by the Bureau of Prisons before 2:00 p.m. on 06/02/92 as notified by the United States Marshal. Upon release from imprisonment, the defendant shall be on supervised release for a term of three (3) years. The defendant shall report in person to the probation office in the district to which the defendant is released within 72 hours of release from the custody of the Bureau of Prisons. The defendant shall not possess a firearm or destructive device. The defendant is to refrain from employment with any financial institution. The defendant shall make restitution to Boulevard Bank in the amount of $215,583.52. Payments of restitution are to be made to the payee(s) in installments in a manner to be determined by the probation officer. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Brian Barnett Duff",
+          "judge_guid": "urn:entity:jud-100056968"
+        }
+      ]
+    }
+  ]
+}

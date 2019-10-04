@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_317cr792_TXWD",
+  "case_key": "3:17cr792_TXWD",
+  "case_lni": "5NG2-6M21-DXDT-G55N-00000-00",
+  "case_number": "3:17cr792",
+  "case_title": "USA v. Haddicks",
+  "case_info_full_case_name": "USA v. Haddicks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Haddicks",
+  "case_date_filed": "2017-05-03",
+  "case_status": "Closed",
+  "case_status_date": "10/05/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jober Dakota Haddicks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) - POSSESSION OF NARCOTICS WITH INTENT TO DISTRIBUTE(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 20 mos. impr., 2 years of supervised release, $100.00 special assessment, substance abuse treatment program, mental health program"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F---Cocaine - Sell, Distribute, or Dispense"
+        },
+        {
+          "charge_offence_description": "21:841A=ND.F---Cocaine - Sell, Distribute, or Disp"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

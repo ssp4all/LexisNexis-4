@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502m1829_txsd",
+  "case_key": "5:02m1829_txsd",
+  "case_lni": "7WBN-NV80-Y892-B13J-00000-00",
+  "case_number": "5:02m1829",
+  "case_title": "USA v. Avila-Martinez",
+  "case_info_full_case_name": "USA v. Avila-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avila-Martinez",
+  "case_date_filed": "2002-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MYRIAM MAGALY AVILA-MARTINEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1325(a)(3);"
+        },
+        {
+          "charge_description": "8 USC 1325(a)(3); An alien, did attempt to enter the United States by a willfully false or misleading representation or willful concealment of a material fact."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

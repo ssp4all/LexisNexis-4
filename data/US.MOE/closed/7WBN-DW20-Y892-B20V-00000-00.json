@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_407mj152_MOED",
+  "case_key": "4:07mj152_MOED",
+  "case_lni": "7WBN-DW20-Y892-B20V-00000-00",
+  "case_number": "4:07mj152",
+  "case_title": "USA v. Paulite",
+  "case_info_full_case_name": "USA v. Paulite",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Paulite",
+  "case_date_filed": "2007-08-08",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Omega Penalosa Paulite",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546.F"
+        },
+        {
+          "charge_description": "18:1546.F KNOWINGLY SELL A VISA, PERMIT OR OTHER DOCUMENT REQUIRED FOR ENTRY INTO THE UNITED STATES TO A PERSON NOT AUTHORIZED BY LAW TO RECEIVE SUCH DOCUMENT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "David D. Noce",
+          "judge_guid": "urn:entity:jud-100027370"
+        }
+      ]
+    }
+  ]
+}

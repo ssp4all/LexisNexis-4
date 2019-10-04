@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_392cr137_ord",
+  "case_key": "3:92cr137_ord",
+  "case_lni": "7WBN-HCG0-Y892-B47X-00000-00",
+  "case_number": "3:92cr137",
+  "case_title": "USA v. Brown",
+  "case_info_full_case_name": "USA v. Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown",
+  "case_date_filed": "1992-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES BROWN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) DISTRIBUTION OF COCAINE BASE (1-2)"
+        },
+        {
+          "charge_disposition": "The deft pleaded guilty to counts 1 and 2 and is hereby committed to the custody of the US Bureau of Prisons to be imprisoned for a term of 70 months. The court recommends incarceration at FCI Sheridan, Oregon. The deft is remanded to the custody of the US Marshal. Upon release from imprisonment, the deft shall be on supervised release for a term of 3 years (see judgment for conditions). It is ordered that the deft shall pay a special assessment of $100.00 for count 1 and 2 ($50.00 each count). Signed by Judge Marsh 9/29/92, sentencing date 9/21/92, microfilmed 9/30/92. (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Malcolm F Marsh",
+          "judge_guid": "urn:entity:jud-100041623"
+        }
+      ]
+    }
+  ]
+}

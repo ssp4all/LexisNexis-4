@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_216mj8069_AZD",
+  "case_key": "2:16mj8069_AZD",
+  "case_lni": "5JB9-NK31-DXDT-G075-00000-00",
+  "case_number": "2:16mj8069",
+  "case_title": "USA v. Arellano-Rodriguez",
+  "case_info_full_case_name": "USA v. Arellano-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arellano-Rodriguez",
+  "case_date_filed": "2016-03-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Matthew H Binford",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Angel Arellano-Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count One - 8:1326(a) - Reentry of Removed Alien; Count Two - 8:1325(a)(2) - Elude Examination and Inspection by an Immigration Official"
+        },
+        {
+          "charge_offence_description": "Count One - 8:1326(a) - Reentry of Removed Alien; "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John Z Boyle",
+          "judge_guid": "urn:entity:jud-100108161"
+        }
+      ]
+    }
+  ]
+}

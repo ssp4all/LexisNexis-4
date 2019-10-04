@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_101cr180_ilnd",
+  "case_key": "1:01cr180_ilnd",
+  "case_lni": "7WBN-J9C0-Y892-B44K-00000-00",
+  "case_number": "1:01cr180",
+  "case_title": "USA v. Sie",
+  "case_info_full_case_name": "USA v. Sie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sie",
+  "case_date_filed": "2001-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joseph M. Ferguson",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SIOE HA SIE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(2)(B)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii) Bringing in and harboring aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Arlander Keys",
+          "judge_guid": "urn:entity:jud-100040469"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_317po216_OHSD",
+  "case_key": "3:17po216_OHSD",
+  "case_lni": "5R2M-2DJ1-DXDT-G3XX-00000-00",
+  "case_number": "3:17po216",
+  "case_title": "USA vs Allen",
+  "case_info_full_case_name": "USA vs Allen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Allen",
+  "case_date_filed": "2017-11-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "SaMee Harden",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tierra S Allen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER (6904557)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Newman",
+          "judge_guid": "urn:entity:jud-100080589"
+        }
+      ]
+    }
+  ]
+}

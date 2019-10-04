@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_100cr294_txsd",
+  "case_key": "1:00cr294_txsd",
+  "case_lni": "7WBN-PHY0-Y892-B02J-00000-00",
+  "case_number": "1:00cr294",
+  "case_title": "USA v. Luna",
+  "case_info_full_case_name": "USA v. Luna",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Luna",
+  "case_date_filed": "2000-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS LUNA, JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1951 1/1/96-3/15/96 20 3"
+        },
+        {
+          "charge_description": "18:1951 Obstructing, delaying and affecting interstate and foreign commerce. Offense dates: 1/1/96-3/15/96 Penalty: 20 yrs and/or $250, 000 plus 3 yrs SRT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1951 4/15/96 20 3"
+        },
+        {
+          "charge_description": "18:1951 Obstructing, delaying and affecting interstate and foreign commerce. Offense date: 4/15/96 Penalty: 20 yrs and/or $250,000 plus 3 yrs SRT. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

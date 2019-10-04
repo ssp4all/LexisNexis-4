@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_203m103_wawd",
+  "case_key": "2:03m103_wawd",
+  "case_lni": "7WBN-GMN0-Y892-B3K8-00000-00",
+  "case_number": "2:03m103",
+  "case_title": "USA v. Casales-Rodriguez",
+  "case_info_full_case_name": "USA v. Casales-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Casales-Rodriguez",
+  "case_date_filed": "2003-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GEORGE CASALES-RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a)(2), 8:1302(a) 1306(a)"
+        },
+        {
+          "charge_description": "Unlawful Entry 8:1325(a)(2), Failure to Register w/INS 8:1302(a) &; 1306(a) (Misdemeanors)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ricardo S Martinez",
+          "judge_guid": "urn:entity:jud-100009153"
+        }
+      ]
+    }
+  ]
+}

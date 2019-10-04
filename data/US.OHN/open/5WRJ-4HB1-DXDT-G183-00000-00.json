@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_519cr449_OHND",
+  "case_key": "5:19cr449_OHND",
+  "case_lni": "5WRJ-4HB1-DXDT-G183-00000-00",
+  "case_number": "5:19cr449",
+  "case_title": "USA v. Rogers",
+  "case_info_full_case_name": "USA v. Rogers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rogers",
+  "case_date_filed": "2019-07-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951(a) Interference with Commerce by Robbery(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) Felon in Possession of a Firearm and Ammunition(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A)(iii) Discharging a Firearm During and in Relation to a Crime of Violence(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Patricia A. Gaughan",
+          "judge_guid": "urn:entity:jud-100054958"
+        }
+      ]
+    }
+  ]
+}

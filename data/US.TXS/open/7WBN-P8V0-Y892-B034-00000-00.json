@@ -1,0 +1,107 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_703cr803_txsd",
+  "case_key": "7:03cr803_txsd",
+  "case_lni": "7WBN-P8V0-Y892-B034-00000-00",
+  "case_number": "7:03cr803",
+  "case_title": "USA v. Hall",
+  "case_info_full_case_name": "USA v. Hall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hall",
+  "case_date_filed": "2003-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WINSTON HALL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "100 1,000 21,USC846, 841(a)(1) 841(b)(1)(B); 8/11/03; 5 40 4"
+        },
+        {
+          "charge_description": "Conspiracy to possess w/intent to dist more than 100 but less than 1,000 kilogs of marijuana; Title 21, USC 846, 841(a)(1) &; 841(b)(1)(B); Offense date: 8/11/03; Penalty: Imprisonment for 5 yrs to 40 yrs and/or a $2,000, 000 fine &; at least a 4 yr SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21,USC841(a)(1) 841(b)(1)(B); 8/11/03; 5 40 4 100 1,000 500"
+        },
+        {
+          "charge_description": "Possession w/intent to dist more than 100 but less than 1,000 kilogs of marijuana that is approx 500 kilogs of marijuana; Title 21, USC 841(a)(1) &; 841(b)(1)(B); Offense date: 8/11/03; Penalty: Imprisonment for 5 yrs to 40 yrs and/or a $2, 000,000 fine &; at least a 4 yr SRT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession w/intent to dist marijuana; conspire w/others to possess marijuana [7:03-m-3827]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    },
+    {
+      "party_name": "CORNEL D. MORGAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "100 1,000 21,USC846, 841(a)(1) 841(b)(1)(B); 8/11/03; 5 40 4"
+        },
+        {
+          "charge_description": "Conspiracy to possess w/intent to dist more than 100 but less than 1,000 kilogs of marijuana; Title 21, USC 846, 841(a)(1) &; 841(b)(1)(B); Offense date: 8/11/03; Penalty: Imprisonment for 5 yrs to 40 yrs and/or a $2,000, 000 fine &; at least a 4 yr SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "100 1,000 500 21,USC841(a)(1) 841(b)(1)(B); 8/11/03; 5 40 4"
+        },
+        {
+          "charge_description": "Possession w/intent to dist more than 100 but less than 1,000 kilogs of marijuana that is approx 500 kilogs of marijuana; Title 21, USC 841(a)(1) &; 841(b)(1)(B); Offense date: 8/11/03; Penalty: Imprisonment for 5 yrs to 40 yrs and/or a $2, 000,000 fine &; at least a 4 yr SRT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession w/intent to dist marijuana; conspire w/others to possess marijuana [7:03-m-3827]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

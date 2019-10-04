@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_704cr456_TXSD",
+  "case_key": "7:04cr456_TXSD",
+  "case_lni": "7WBN-J2S0-Y892-B2FS-00000-00",
+  "case_number": "7:04cr456",
+  "case_title": "USA v. Campos-Moya",
+  "case_info_full_case_name": "USA v. Campos-Moya",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Campos-Moya",
+  "case_date_filed": "2004-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NOEL CAMPOS-MOYA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "50 32 21USC952(a), 960(a)(1), 960(b)(4) 18USC2; 5/11/04; 5 2"
+        },
+        {
+          "charge_description": "Import into the U.S. fr the Rep of Mex less than 50 kilogs, that is, approx 32 kilogs of marijuana; 21 USC 952(a), 960(a)(1), &; 960(b)(4) &; 18 USC 2; Offense date: 5/11/04; Penalty: Impris for not more than 5 yrs and/or a $250,000 fine at least 2 yrs SRT (as to ea ct) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "50 32 21USC841(a)(1), 841(b)(1)(D) 18USC2; 5/11/04; 5 2"
+        },
+        {
+          "charge_description": "Possess w/intent to dist less than 50 kilogs, that is, approx 32 kilgos of marijuan; 21 USC 841(a)(1), 841(b)(1)(D) &; 18 USC 2; Offense date: 5/11/04; Penalty: Impris for nto more than 5 yrs and/or a $250, 000 fine at least 2 yrs SRT (as to ea ct) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession with the intent to distribute; importation [7:04-m-2236]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

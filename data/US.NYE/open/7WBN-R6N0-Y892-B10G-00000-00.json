@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_205cr80_NYED",
+  "case_key": "2:05cr80_NYED",
+  "case_lni": "7WBN-R6N0-Y892-B10G-00000-00",
+  "case_number": "2:05cr80",
+  "case_title": "USA v. Glassberg",
+  "case_info_full_case_name": "USA v. Glassberg",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Glassberg",
+  "case_date_filed": "2005-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alan S. Glassberg",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PROHIBITED ACTS, OTHER THAN MARKING OFFENSE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "16:1533.M, 16:1538.M,"
+        },
+        {
+          "charge_description": "16:1533.M, 16:1538.M, 16:3372.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior-Judge",
+          "judge_name": "Leonard D. Wexler",
+          "judge_guid": "urn:entity:jud-100022938"
+        }
+      ]
+    }
+  ]
+}

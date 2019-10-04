@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_201cr80084_mied",
+  "case_key": "2:01cr80084_mied",
+  "case_lni": "7WBN-GJX0-Y892-B3KM-00000-00",
+  "case_number": "2:01cr80084",
+  "case_title": "USA v. Rivait",
+  "case_info_full_case_name": "USA v. Rivait",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivait",
+  "case_date_filed": "2001-02-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC aus]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAMON RIVAIT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a), (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a), (b)(2) REENTRY OF ALIEN DEPORTED AFTER CONVICTION OF AGGRAVATED FELONY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8USC1326(b)(2)"
+        },
+        {
+          "charge_description": "8 USC 1326(b)(2) UNLAWFUL ENTRY IN TO THE UNITED STATES AFTER DEPORTATION [2:01-m-80084]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John Corbett O'Meara",
+          "judge_guid": "urn:entity:jud-100025458"
+        }
+      ]
+    }
+  ]
+}

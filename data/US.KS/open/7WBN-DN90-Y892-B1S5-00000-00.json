@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_206cr20113_KSD",
+  "case_key": "2:06cr20113_KSD",
+  "case_lni": "7WBN-DN90-Y892-B1S5-00000-00",
+  "case_number": "2:06cr20113",
+  "case_title": "USA v. McClanahan et al",
+  "case_info_full_case_name": "USA v. McClanahan et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McClanahan et al",
+  "case_date_filed": "2006-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas E. McClanahan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:5841, 5861(d), 5871--Unlawfully"
+        },
+        {
+          "charge_description": "26:5841, 5861(d), and 5871--Unlawfully Possessed a Firearm Not Registered to him in the National Firearms Registration and Transfer Record. (Sealed Indictment Filed [08/17/06].) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(3) 924(a)(2)--Unlawful"
+        },
+        {
+          "charge_description": "18:922(g)(3) and 924(a)(2)--Unlawful User of a Controlled Substance Unlawfully Received a Firearm Shipped in Interstate Commerce. (Sealed Indictment Filed [08/17/06].) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John W. Lungstrum",
+          "judge_guid": "urn:entity:jud-100029528"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James P. O'Hara",
+          "judge_guid": "urn:entity:jud-100025546"
+        }
+      ]
+    },
+    {
+      "party_name": "Caleb G. Rowe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:5841, 5861(d), 5871--Unlawfully"
+        },
+        {
+          "charge_description": "26:5841, 5861(d), and 5871--Unlawfully Possessed a Firearm Not Registered to him in the National Firearms Registration and Transfer Record. (Sealed Indictment Filed [08/17/06].) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John W. Lungstrum",
+          "judge_guid": "urn:entity:jud-100029528"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James P. O'Hara",
+          "judge_guid": "urn:entity:jud-100025546"
+        }
+      ]
+    }
+  ]
+}

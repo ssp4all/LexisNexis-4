@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_305mj538_TXND",
+  "case_key": "3:05mj538_TXND",
+  "case_lni": "7WBN-MSH0-Y892-B14H-00000-00",
+  "case_number": "3:05mj538",
+  "case_title": "USA v. 8081 Marvin D. Love Fwy., Apt. 111, Dallas, Texas",
+  "case_info_full_case_name": "USA v. 8081 Marvin D. Love Fwy., Apt. 111, Dallas, Texas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "8081 Marvin D. Love Fwy., Apt. 111, Dallas, Texas",
+  "case_date_filed": "2005-11-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gary C Tromblay",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "8081 Marvin D. Love Fwy. Apt. 111 ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Irma C Ramirez",
+          "judge_guid": "urn:entity:jud-100018333"
+        }
+      ]
+    }
+  ]
+}

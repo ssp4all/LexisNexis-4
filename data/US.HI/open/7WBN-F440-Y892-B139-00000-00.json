@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_107cr469_HID",
+  "case_key": "1:07cr469_HID",
+  "case_lni": "7WBN-F440-Y892-B139-00000-00",
+  "case_number": "1:07cr469",
+  "case_title": "USA v. Kitchell",
+  "case_info_full_case_name": "USA v. Kitchell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kitchell",
+  "case_date_filed": "2007-09-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Barbara A. Kitchell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.P, 291E-61(a)(1)&;(3) 0704499 H13"
+        },
+        {
+          "charge_description": "18:13-7210.P, TRAFFIC OFFENSES, DRUNKEN DRIVING, HRS 291E-61(a)(1)&;(3)[did unlawfully operate a vehicle under the influence of alcohol] Fort DeRussy, HI, [07/20/07], 0704499 H13 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-7220.P, 291-2 0704450 H13"
+        },
+        {
+          "charge_description": "18:13-7220.P, TRAFFIC OFFENSES, OTHER, HRS 291-2 [Reckless driving] Fort DeRussy, HI, [07/20/07], 0704450 H13 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "LESLIE E KOBAYASHI",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117cr136_VAED",
+  "case_key": "1:17cr136_VAED",
+  "case_lni": "5NST-V1F1-DXDT-G3GR-00000-00",
+  "case_number": "1:17cr136",
+  "case_title": "USA v. Faris",
+  "case_info_full_case_name": "USA v. Faris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Faris",
+  "case_date_filed": "2017-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Faris Amin Mohamed Faris",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "22:2778(b)(2) and 2778(c); 22:127.1(a)(1), 123.1, and 126.1; 18:2(b) Arms Export Control Act Violation(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:554 Smuggling(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Anthony J Trenga",
+          "judge_guid": "urn:entity:jud-100006263"
+        }
+      ]
+    }
+  ]
+}

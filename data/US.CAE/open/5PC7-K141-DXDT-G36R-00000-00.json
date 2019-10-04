@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_217mj151_CAED",
+  "case_key": "2:17mj151_CAED",
+  "case_lni": "5PC7-K141-DXDT-G36R-00000-00",
+  "case_number": "2:17mj151",
+  "case_title": "USA v. Geiger",
+  "case_info_full_case_name": "USA v. Geiger",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Geiger",
+  "case_date_filed": "2017-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Cody J. Geiger",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Allison Claire",
+          "judge_guid": "urn:entity:jud-100102868"
+        }
+      ]
+    }
+  ]
+}

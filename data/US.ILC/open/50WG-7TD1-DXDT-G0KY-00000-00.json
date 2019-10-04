@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_410cr40083_ILCD",
+  "case_key": "4:10cr40083_ILCD",
+  "case_lni": "50WG-7TD1-DXDT-G0KY-00000-00",
+  "case_number": "4:10cr40083",
+  "case_title": "USA v. Rodriguez-Quintero",
+  "case_info_full_case_name": "USA v. Rodriguez-Quintero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Quintero",
+  "case_date_filed": "2010-08-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mary L Fuhr Rock Island Arsenal",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leonardo Q Rodriguez-Quintero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 26, 2010 625 5/6-101(a) 18USC13."
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER On or about July 26, 2010 No valid drivers license in violation of ILCS Chapter 625 5/6-101(a) and Title 18 USC 13. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M 26, 2010 625 5/3-707(a) 18USC13."
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER. On or about July 26, 2010 Failure to maintain liability insurance in violation of ILCS Chapter 625 5/3-707(a) and Title 18 USC 13. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M 26, 2010 625 5/11-305(a) 18USC13."
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER. On or about July 26, 2010 Failed to obey an official traffic-control device in violation of ILCS Chapter 625 5/11-305(a) and Title 18 USC 13. (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

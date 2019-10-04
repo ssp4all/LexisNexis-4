@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_319po5817_WAWD",
+  "case_key": "3:19po5817_WAWD",
+  "case_lni": "5W42-6K91-J9YR-S34G-00000-00",
+  "case_number": "3:19po5817",
+  "case_title": "USA vs Meredith",
+  "case_info_full_case_name": "USA vs Meredith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Meredith",
+  "case_date_filed": "2019-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "David A Meredith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Theft/embezzlement of US property (7968156)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J Richard Creatura",
+          "judge_guid": "urn:entity:jud-100057943"
+        }
+      ]
+    }
+  ]
+}

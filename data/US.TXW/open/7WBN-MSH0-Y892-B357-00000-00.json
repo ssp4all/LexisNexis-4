@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_306cr1593_TXWD",
+  "case_key": "3:06cr1593_TXWD",
+  "case_lni": "7WBN-MSH0-Y892-B357-00000-00",
+  "case_number": "3:06cr1593",
+  "case_title": "USA v. Batres-Fernandez",
+  "case_info_full_case_name": "USA v. Batres-Fernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Batres-Fernandez",
+  "case_date_filed": "2006-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Laura Franco Gregory",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Genaro De Jesus Batres-Fernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F, 21:952A=MI.F 65.55 21USC, Section(s) 841(a)(1)"
+        },
+        {
+          "charge_description": "21:841A=MD.F, 21:952A=MI.F Knowingly and itentionally possess with intent to distribute and import into the United States approx. 65.55 pounds of marijuana, a Scheduled I Controlled Substance in violation of Title 21 USC, Section(s) 841(a)(1) and 952(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

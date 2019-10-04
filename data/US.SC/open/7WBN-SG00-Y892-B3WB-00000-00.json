@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_603m765_scd",
+  "case_key": "6:03m765_scd",
+  "case_lni": "7WBN-SG00-Y892-B3WB-00000-00",
+  "case_number": "6:03m765",
+  "case_title": "USA v. Alley",
+  "case_info_full_case_name": "USA v. Alley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alley",
+  "case_date_filed": "2003-08-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JODY BRYAN ALLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:843(a)(6) 18:922(g)(1)"
+        },
+        {
+          "charge_description": "21:843(a)(6) possession of precuror chemicals used to manufacture methamphetamine; and 18:922(g)(1) possession of firearm"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce Howe Hendricks",
+          "judge_guid": "urn:entity:jud-100018097"
+        }
+      ]
+    }
+  ]
+}

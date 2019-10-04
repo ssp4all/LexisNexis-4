@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_312mj5633_TXWD",
+  "case_key": "3:12mj5633_TXWD",
+  "case_lni": "576P-YBJ1-DXDT-G3DP-00000-00",
+  "case_number": "3:12mj5633",
+  "case_title": "USA v. Argueta Deleon",
+  "case_info_full_case_name": "USA v. Argueta Deleon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Argueta Deleon",
+  "case_date_filed": "2012-12-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roxana Argueta Deleon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_offence_description": "_"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

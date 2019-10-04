@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_117mj2012_NJD",
+  "case_key": "1:17mj2012_NJD",
+  "case_lni": "5NH9-2H71-DXDT-G54M-00000-00",
+  "case_number": "1:17mj2012",
+  "case_title": "USA v. FUENTES",
+  "case_info_full_case_name": "USA v. FUENTES",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "FUENTES",
+  "case_date_filed": "2017-05-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JACQUELINE CARLE",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "IRAIDA FUENTES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F - THAT IS CONSPIRACY TO COMMIT BANK FRAUD"
+        },
+        {
+          "charge_offence_description": "18:1349.F - THAT IS CONSPIRACY TO COMMIT BANK FRAU"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joel Schneider",
+          "judge_guid": "urn:entity:jud-100030820"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_118cr337_NCMD",
+  "case_key": "1:18cr337_NCMD",
+  "case_lni": "5T4M-4RF1-DXDT-G4FJ-00000-00",
+  "case_number": "1:18cr337",
+  "case_title": "USA v. DIXON",
+  "case_info_full_case_name": "USA v. DIXON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DIXON",
+  "case_date_filed": "2018-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JOHN M. ALSUP",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DASHAWN TYREAK DIXON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) Felon in possession of a firearm(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) Felon in possession of a firearm(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "THOMAS D. SCHROEDER",
+          "judge_guid": "urn:entity:jud-100026777"
+        }
+      ]
+    }
+  ]
+}

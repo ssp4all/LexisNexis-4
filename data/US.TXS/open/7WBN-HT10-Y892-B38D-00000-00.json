@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_500m458_txsd",
+  "case_key": "5:00m458_txsd",
+  "case_lni": "7WBN-HT10-Y892-B38D-00000-00",
+  "case_number": "5:00m458",
+  "case_title": "USA v. Barrieta",
+  "case_info_full_case_name": "USA v. Barrieta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barrieta",
+  "case_date_filed": "2000-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CECILIO GUADALUPE BARRIETA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "44.1"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with intent to distribute a Schedule I, Title II controlled substance, approximately 44.1 kilograms of marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

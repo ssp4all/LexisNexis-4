@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_100m16_innd",
+  "case_key": "1:00m16_innd",
+  "case_lni": "7WBN-J8X0-Y892-B288-00000-00",
+  "case_number": "1:00m16",
+  "case_title": "USA v. Mascorro",
+  "case_info_full_case_name": "USA v. Mascorro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mascorro",
+  "case_date_filed": "2000-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAMIRO MASCORRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844(a)-possession 5"
+        },
+        {
+          "charge_description": "21:844(a)-possession of a controlled substance, namely, more than 5 grams of a substance containing a detectable amnt of cocaine base\"crack,\"a Schedule II controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Roger B. Cosbey",
+          "judge_guid": "urn:entity:jud-100049591"
+        }
+      ]
+    }
+  ]
+}

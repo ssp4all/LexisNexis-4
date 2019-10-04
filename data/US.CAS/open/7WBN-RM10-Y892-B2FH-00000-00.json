@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_301m2787_casd",
+  "case_key": "3:01m2787_casd",
+  "case_lni": "7WBN-RM10-Y892-B2FH-00000-00",
+  "case_number": "3:01m2787",
+  "case_title": "USA v. Shutters",
+  "case_info_full_case_name": "USA v. Shutters",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shutters",
+  "case_date_filed": "2001-11-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RONALD ALLAN SHUTTERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession With Intent to Distribute a Controlled Substance (methylenedioxyamphetamine)(E-cstasy)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ruben B Brooks",
+          "judge_guid": "urn:entity:jud-100060650"
+        }
+      ]
+    }
+  ]
+}

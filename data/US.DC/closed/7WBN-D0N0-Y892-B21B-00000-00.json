@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_197m167_dcd",
+  "case_key": "1:97m167_dcd",
+  "case_lni": "7WBN-D0N0-Y892-B21B-00000-00",
+  "case_number": "1:97m167",
+  "case_title": "USA v. 4203 9TH ST, NW",
+  "case_info_full_case_name": "USA v. 4203 9TH ST, NW",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "4203 9TH ST, NW",
+  "case_date_filed": "1997-03-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "4203 9TH STREET, NW WASHINGTON, ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Patrick J. Attridge",
+          "judge_guid": "urn:entity:jud-100052481"
+        }
+      ]
+    }
+  ]
+}

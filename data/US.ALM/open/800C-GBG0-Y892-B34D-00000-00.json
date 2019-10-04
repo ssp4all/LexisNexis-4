@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_110cr97_ALMD",
+  "case_key": "1:10cr97_ALMD",
+  "case_lni": "800C-GBG0-Y892-B34D-00000-00",
+  "case_number": "1:10cr97",
+  "case_title": "USA v. Funk",
+  "case_info_full_case_name": "USA v. Funk",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Funk",
+  "case_date_filed": "2010-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jessica Brooke Colsia",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alicia P. Funk",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Terry F. Moorer",
+          "judge_guid": "urn:entity:jud-100066258"
+        }
+      ]
+    }
+  ]
+}

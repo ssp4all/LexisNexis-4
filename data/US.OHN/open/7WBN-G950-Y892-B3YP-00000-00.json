@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_108mj2080_OHND",
+  "case_key": "1:08mj2080_OHND",
+  "case_lni": "7WBN-G950-Y892-B3YP-00000-00",
+  "case_number": "1:08mj2080",
+  "case_title": "United States of America v. Campbell",
+  "case_info_full_case_name": "United States of America v. Campbell",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Campbell",
+  "case_date_filed": "2008-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Phillip J. Tripi",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leon Antonio Campbell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 being an alien and citizen of Jamacia, who has been arrested and deported from the United States on [11/12/99], did knowingly, willfully and of his own volition, reenter the United States and was found therein in the County of Cuyahoga, within the State of Ohio, in the Northern District of Ohio, and who prior to his reentry did not at a place outside of the United States make an applicaton to the Attorney General or his successor the Secretary of Homeland Security, for persmission to reapply for admission to the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kenneth S. McHargh",
+          "judge_guid": "urn:entity:jud-100080519"
+        }
+      ]
+    }
+  ]
+}

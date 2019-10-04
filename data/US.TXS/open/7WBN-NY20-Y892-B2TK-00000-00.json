@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_507cr1254_TXSD",
+  "case_key": "5:07cr1254_TXSD",
+  "case_lni": "7WBN-NY20-Y892-B2TK-00000-00",
+  "case_number": "5:07cr1254",
+  "case_title": "USA v. Leal-Marrujo",
+  "case_info_full_case_name": "USA v. Leal-Marrujo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leal-Marrujo",
+  "case_date_filed": "2007-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Guillermo Leal-Marrujo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 10 5"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute a quantity in excess of 5 kgs of Cocaine. Penalty: 10 yrs to life and/or $4 mil fine; $100 cvf; 5 yrs tsr. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 10 5"
+        },
+        {
+          "charge_description": "Possess with intent to distribute a quantity in excess of 5 kgs of Cocaine. Penalty: 10 yrs to life and/or $4 mil fine; $100 cvf; 5 yrs tsr. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F"
+        },
+        {
+          "charge_description": "21:841A=ND.F Narcotic-Sell, Distribute, or Dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

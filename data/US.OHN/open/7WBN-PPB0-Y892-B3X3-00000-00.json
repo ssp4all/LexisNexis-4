@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_105mj64_OHND",
+  "case_key": "1:05mj64_OHND",
+  "case_lni": "7WBN-PPB0-Y892-B3X3-00000-00",
+  "case_number": "1:05mj64",
+  "case_title": "United States of America v. Smith",
+  "case_info_full_case_name": "United States of America v. Smith",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2005-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charles E. Fleming",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Robert J. Becker",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MISAPPROPRIATION OF POSTAL FUNDS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David S. Perelman",
+          "judge_guid": "urn:entity:jud-100028139"
+        }
+      ]
+    }
+  ]
+}

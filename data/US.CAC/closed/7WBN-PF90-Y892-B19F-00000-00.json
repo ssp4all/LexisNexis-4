@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_896cr154_cacd",
+  "case_key": "8:96cr154_cacd",
+  "case_lni": "7WBN-PF90-Y892-B19F-00000-00",
+  "case_number": "8:96cr154",
+  "case_title": "USA v. Broughton, et al",
+  "case_info_full_case_name": "USA v. Broughton, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Broughton, et al",
+  "case_date_filed": "1996-12-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CECILIA BROUGHTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343"
+        },
+        {
+          "charge_description": "Dft in viol of 18:1343 [8:94-m-375]"
+        },
+        {
+          "charge_disposition": "Dft hld to asnwer to USDC Middle District of Tennessee at Nashville [8:94-m-375] (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen V. Wilson",
+          "judge_guid": "urn:entity:jud-100022021"
+        }
+      ]
+    },
+    {
+      "party_name": "STEPHEN OLSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stephen V. Wilson",
+          "judge_guid": "urn:entity:jud-100022021"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_116cr4222_NMD",
+  "case_key": "1:16cr4222_NMD",
+  "case_lni": "5M2T-1C11-DXDT-G2XF-00000-00",
+  "case_number": "1:16cr4222",
+  "case_title": "USA v. Francis",
+  "case_info_full_case_name": "USA v. Francis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Francis",
+  "case_date_filed": "2016-11-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Howard Francis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1153, 113(a)(8): Assault of an Intimate Partner by strangling"
+        },
+        {
+          "charge_offence_description": "18:1153, 113(a)(8): Assault of an Intimate Partner"
+        },
+        {
+          "charge_description": "18:1153, 113(a)(8): Assault of an Intimate Partner by Strangling and Suffocating(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 30 months; 3 yrs supervised release with special conditions; SPA $100; deft in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153, 113(a)(8): Attempt to Assault an Intimate Partner by Suffocating(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William P. Johnson",
+          "judge_guid": "urn:entity:jud-100050292"
+        }
+      ]
+    }
+  ]
+}

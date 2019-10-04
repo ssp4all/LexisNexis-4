@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_404cr157_MOWD",
+  "case_key": "4:04cr157_MOWD",
+  "case_lni": "7WBN-NCS0-Y892-B3NK-00000-00",
+  "case_number": "4:04cr157",
+  "case_title": "USA v. Perry",
+  "case_info_full_case_name": "USA v. Perry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perry",
+  "case_date_filed": "2004-05-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeffrey M. Perry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Gary A. Fenner",
+          "judge_guid": "urn:entity:jud-100046650"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sarah W. Hays",
+          "judge_guid": "urn:entity:jud-100052039"
+        }
+      ]
+    }
+  ]
+}

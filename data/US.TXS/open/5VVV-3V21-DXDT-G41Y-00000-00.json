@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_519mj428_TXSD",
+  "case_key": "5:19mj428_TXSD",
+  "case_lni": "5VVV-3V21-DXDT-G41Y-00000-00",
+  "case_number": "5:19mj428",
+  "case_title": "USA v. Pachicano",
+  "case_info_full_case_name": "USA v. Pachicano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pachicano",
+  "case_date_filed": "2019-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Reyes Jesus Pachicano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowing or in reckless disregard of the fact that an alien had come to, entered, and remained in the United States in violation of law, did transport and move, attempt to transport and move, and conspire to transport and move such alien within the United States, by means oftransportation or otherwise, in furtherance of such violation of law."
+        },
+        {
+          "charge_offence_description": "Knowing or in reckless disregard of the fact that "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    },
+    {
+      "party_name": "Heladio Franco-Hernandez",
+      "party_description": "Material Witness"
+    }
+  ]
+}

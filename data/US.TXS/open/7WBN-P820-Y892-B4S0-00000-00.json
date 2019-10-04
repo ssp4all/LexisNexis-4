@@ -1,0 +1,90 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_703cr210_txsd",
+  "case_key": "7:03cr210_txsd",
+  "case_lni": "7WBN-P820-Y892-B4S0-00000-00",
+  "case_number": "7:03cr210",
+  "case_title": "USA v. Vidal",
+  "case_info_full_case_name": "USA v. Vidal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vidal",
+  "case_date_filed": "2003-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Pretrial Serv",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "5 2/27/03; 10 5"
+        },
+        {
+          "charge_description": "Consp to import into the U.S. fr the Rep of Mex more than 5 kilogs of cocaine; Offense date: 2/27/03; Penalty: Impris for 10 yrs to Life* and/or a $4,000,000 fine at least 5 yrs SRT (as to ea ct) (*MANDTORY MINIMUM) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 26 21USC952(a), 960(a)(1), 960(b)(1)(B) 18USC2; 2/27/03; 10 5"
+        },
+        {
+          "charge_description": "Import into the U.S. fr the Rep of Mex more than 5 kilogs of cocaine, that is, approx 26 kilogs; 21 USC 952(a), 960(a)(1), 960(b)(1)(B) &; 18 USC 2; Offense date: 2/27/03; Penalty: Impris for 10 yrs to Life* and/or a $4,000,000 fine at least 5 yrs SRT (as to ea ct) (*MANDATORY MINIMUM) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 21USC846, 841(a)(1), 841(b)(1)(A); 2/27/03; 10 5"
+        },
+        {
+          "charge_description": "Consp to possess w/intent to dist more than 5 kilogs of cocaine; 21 USC 846, 841(a)(1), 841(b)(1)(A); Offense date: 2/27/03; Penalty: Impris for 10 yrs to Life* and/or a $4,000,000 fine at least 5 yrs SRT (as to ea ct) (*MANDATORY MINIMUM) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 26 21USC841(a)(1), 841(b)(1)(A) 18USC2; 10 5"
+        },
+        {
+          "charge_description": "Possess w/intent to dist more than 5 kilogs of cocaine, that is, approx 26 kilogs; 21 USC 841(a)(1), 841(b)(1)(A) &; 18 USC 2; Penalty: Impris for 10 yrs* to Life and/or a $4,000,000 fine at least 5 yrs SRT (as to ea ct) (*MANDATORY MINIMUM) (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession of cocaine; importation of cocaine [7:03-m-1103]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    }
+  ]
+}

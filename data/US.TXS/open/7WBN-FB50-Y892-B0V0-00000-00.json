@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_205mj708_TXSD",
+  "case_key": "2:05mj708_TXSD",
+  "case_lni": "7WBN-FB50-Y892-B0V0-00000-00",
+  "case_number": "2:05mj708",
+  "case_title": "USA v. Olabarrieta",
+  "case_info_full_case_name": "USA v. Olabarrieta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Olabarrieta",
+  "case_date_filed": "2005-11-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aaron Olabarrieta",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "wi:.002"
+        },
+        {
+          "charge_description": "Transport, move or attempt to move aliens by means of transportation; Did knowingly or intentionally possess a controlled substance to wi:.002 lbs of"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    },
+    {
+      "party_name": "Alfonso Torivio-Arzate",
+      "party_description": "material witness"
+    },
+    {
+      "party_name": "Martin Mendez-Figueroa",
+      "party_description": "material witness"
+    },
+    {
+      "party_name": "Maria Antonia Granados-Reyes",
+      "party_description": "material witness"
+    }
+  ]
+}

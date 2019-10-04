@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_212cm2460_ALMD",
+  "case_key": "2:12cm2460_ALMD",
+  "case_lni": "568Y-JMT1-DXDT-G2FF-00000-00",
+  "case_number": "2:12cm2460",
+  "case_title": "USA v. Castoire",
+  "case_info_full_case_name": "USA v. Castoire",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castoire",
+  "case_date_filed": "2012-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Arcadio Castoire",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Susan Russ Walker",
+          "judge_guid": "urn:entity:jud-100011126"
+        }
+      ]
+    }
+  ]
+}

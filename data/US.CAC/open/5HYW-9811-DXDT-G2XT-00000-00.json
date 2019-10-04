@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_216cr41_CACD",
+  "case_key": "2:16cr41_CACD",
+  "case_lni": "5HYW-9811-DXDT-G2XT-00000-00",
+  "case_number": "2:16cr41",
+  "case_title": "USA v. Mink",
+  "case_info_full_case_name": "USA v. Mink",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mink",
+  "case_date_filed": "2016-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Terry Jay Mink",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Defendant in violation of 18:1341,2"
+        },
+        {
+          "charge_offence_description": "Defendant in violation of 18:1341,2"
+        },
+        {
+          "charge_description": "18:371 CONSPIRACY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

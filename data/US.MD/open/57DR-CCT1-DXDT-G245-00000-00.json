@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_113po31_MDD",
+  "case_key": "1:13po31_MDD",
+  "case_lni": "57DR-CCT1-DXDT-G245-00000-00",
+  "case_number": "1:13po31",
+  "case_title": "USA vs Owens",
+  "case_info_full_case_name": "USA vs Owens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Owens",
+  "case_date_filed": "2013-01-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Nathaniel Owens",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING IN SPACES POSTED AS RESERVED FOR PHYSICALLY DISABLED PERSONS (3101239)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Susan K. Gauvey",
+          "judge_guid": "urn:entity:jud-100038395"
+        }
+      ]
+    }
+  ]
+}

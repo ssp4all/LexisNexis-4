@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_310mj63_CASD",
+  "case_key": "3:10mj63_CASD",
+  "case_lni": "7XHV-H980-Y892-B05S-00000-00",
+  "case_number": "3:10mj63",
+  "case_title": "USA v. Villamar-Araujo",
+  "case_info_full_case_name": "USA v. Villamar-Araujo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Villamar-Araujo",
+  "case_date_filed": "2010-01-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Villamar-Araujo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1544-Misuse"
+        },
+        {
+          "charge_description": "18:1544-Misuse of Passport (Felony)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William McCurine, Jr",
+          "judge_guid": "urn:entity:jud-100041023"
+        }
+      ]
+    }
+  ]
+}

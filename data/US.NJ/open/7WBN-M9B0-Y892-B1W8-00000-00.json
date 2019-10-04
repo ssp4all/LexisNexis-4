@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_296m7217_njd",
+  "case_key": "2:96m7217_njd",
+  "case_lni": "7WBN-M9B0-Y892-B1W8-00000-00",
+  "case_number": "2:96m7217",
+  "case_title": "USA v. BALLESTEROS",
+  "case_info_full_case_name": "USA v. BALLESTEROS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "BALLESTEROS",
+  "case_date_filed": "1996-12-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS BALLESTEROS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.21/USC952(a) 960 18/USC2-knowingly"
+        },
+        {
+          "charge_description": "T.21/USC 952(a) &; 960 and T. 18/USC 2-knowingly and intentionally did import into the customs territory of the US from a place outside thereof, namely Colombia, more than one hundred grams of cocaine."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Joel A. Pisano",
+          "judge_guid": "urn:entity:jud-100024429"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_893m49_ned",
+  "case_key": "8:93m49_ned",
+  "case_lni": "7WBN-G0H0-Y892-B492-00000-00",
+  "case_number": "8:93m49",
+  "case_title": "IRS v. Account No. 41011592, et al",
+  "case_info_full_case_name": "IRS v. Account No. 41011592, et al",
+  "case_info_short_case_name": "IRS",
+  "case_info_party1": "IRS",
+  "case_info_party2": "Account No. 41011592, et al",
+  "case_date_filed": "1993-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ACCOUNT NO. 410115928",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen A. Jaudzemis",
+          "judge_guid": "urn:entity:jud-100033389"
+        }
+      ]
+    },
+    {
+      "party_name": "PHOENIX ENTERPRISES, INC.",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen A. Jaudzemis",
+          "judge_guid": "urn:entity:jud-100033389"
+        }
+      ]
+    }
+  ]
+}

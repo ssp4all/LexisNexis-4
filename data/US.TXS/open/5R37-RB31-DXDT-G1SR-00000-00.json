@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_517mj1220_TXSD",
+  "case_key": "5:17mj1220_TXSD",
+  "case_lni": "5R37-RB31-DXDT-G1SR-00000-00",
+  "case_number": "5:17mj1220",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2017-12-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Frank K. Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F ----BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Manuel Zarate-Salgado",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Renato Medina-Zarraga",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Alejandro Contreras-Catarino",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Donaciano Pedro-Jacinto",
+      "party_description": "Material Witness"
+    }
+  ]
+}

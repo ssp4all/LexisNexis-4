@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_211cr20091_KSD",
+  "case_key": "2:11cr20091_KSD",
+  "case_lni": "540D-TSF1-DXDT-G2TY-00000-00",
+  "case_number": "2:11cr20091",
+  "case_title": "USA v. Day",
+  "case_info_full_case_name": "USA v. Day",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Day",
+  "case_date_filed": "2011-10-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jason Day",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113(a)&;(d)-Armed"
+        },
+        {
+          "charge_description": "18:2113(a)&;(d)-Armed Bank Robbery. (Indictment Filed [10/06/2011].) (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Carlos Murguia",
+          "judge_guid": "urn:entity:jud-100015503"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Waxse",
+          "judge_guid": "urn:entity:jud-100023227"
+        }
+      ]
+    }
+  ]
+}

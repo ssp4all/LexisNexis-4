@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_105mj2009_OHND",
+  "case_key": "1:05mj2009_OHND",
+  "case_lni": "7WBN-JMF0-Y892-B161-00000-00",
+  "case_number": "1:05mj2009",
+  "case_title": "United States of America v. Leal",
+  "case_info_full_case_name": "United States of America v. Leal",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Leal",
+  "case_date_filed": "2005-03-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ronald B. Bakeman",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Leal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 21:846,"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 21:846, Knowingly, intentionally, willfully, and unlawfully distribute cocaine and did conspire to distribute and possess with intent to distribute cocaine, a Schedule II controlled narcotics substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kenneth S. McHargh",
+          "judge_guid": "urn:entity:jud-100080519"
+        }
+      ]
+    }
+  ]
+}

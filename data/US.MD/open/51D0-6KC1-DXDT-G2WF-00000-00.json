@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_110mj4057_MDD",
+  "case_key": "1:10mj4057_MDD",
+  "case_lni": "51D0-6KC1-DXDT-G2WF-00000-00",
+  "case_number": "1:10mj4057",
+  "case_title": "USA v. Thompson",
+  "case_info_full_case_name": "USA v. Thompson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thompson",
+  "case_date_filed": "2010-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING ON SUSPENDED LICENSE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Beth P. Gesner",
+          "judge_guid": "urn:entity:jud-100038277"
+        }
+      ]
+    }
+  ]
+}

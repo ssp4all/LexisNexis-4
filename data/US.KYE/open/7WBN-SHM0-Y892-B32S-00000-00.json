@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_702m8_kyed",
+  "case_key": "7:02m8_kyed",
+  "case_lni": "7WBN-SHM0-Y892-B32S-00000-00",
+  "case_number": "7:02m8",
+  "case_title": "USA v. Little",
+  "case_info_full_case_name": "USA v. Little",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Little",
+  "case_date_filed": "2002-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Teresa G. Reed",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RONALD LITTLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 10/9/02 10/9/02"
+        },
+        {
+          "charge_description": "Criminal Complaint agnst dft Ronald Little 21:841(a)(1) Alleged dist Schedule II controlled substance Oxycontin signed by Mag. Judge Peggy E. Patterson Signed 10/9/02 and Warrant Issued 10/9/02 Unsealed 10/10/01"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Peggy E. Patterson",
+          "judge_guid": "urn:entity:jud-100031973"
+        }
+      ]
+    }
+  ]
+}

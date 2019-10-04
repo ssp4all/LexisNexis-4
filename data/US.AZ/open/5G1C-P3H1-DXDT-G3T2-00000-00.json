@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_215cr587_AZD",
+  "case_key": "2:15cr587_AZD",
+  "case_lni": "5G1C-P3H1-DXDT-G3T2-00000-00",
+  "case_number": "2:15cr587",
+  "case_title": "USA v. Agramon-Griegos",
+  "case_info_full_case_name": "USA v. Agramon-Griegos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Agramon-Griegos",
+  "case_date_filed": "2015-05-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Omar Wilfrido Agramon-Griegos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed "
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(1) - Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_disposition": "BOP for a term of EIGHT (8) MONTHS, with credit for time served, followed by Supervised Release for a term OF THREE (3) YEARS"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Diane J Humetewa",
+          "judge_guid": "urn:entity:jud-100107092"
+        }
+      ]
+    }
+  ]
+}

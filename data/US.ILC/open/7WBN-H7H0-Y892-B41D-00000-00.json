@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_305mj3042_ILCD",
+  "case_key": "3:05mj3042_ILCD",
+  "case_lni": "7WBN-H7H0-Y892-B41D-00000-00",
+  "case_number": "3:05mj3042",
+  "case_title": "USA v. Pulley",
+  "case_info_full_case_name": "USA v. Pulley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pulley",
+  "case_date_filed": "2005-07-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Betty Pulley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F-On 17, 2005 (&;quot;crack&;quot;)"
+        },
+        {
+          "charge_description": "21:841A=CD.F-On or about May 17, 2005 in Morgan county, the defendant knowingly and intentionally distributed cocaine base (&;quot;crack&;quot;) in violation of 21:841(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Byron G. Cudmore",
+          "judge_guid": "urn:entity:jud-100057803"
+        }
+      ]
+    }
+  ]
+}

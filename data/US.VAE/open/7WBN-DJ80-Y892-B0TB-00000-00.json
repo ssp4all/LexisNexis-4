@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_108cr294_VAED",
+  "case_key": "1:08cr294_VAED",
+  "case_lni": "7WBN-DJ80-Y892-B0TB-00000-00",
+  "case_number": "1:08cr294",
+  "case_title": "USA v. Gondal",
+  "case_info_full_case_name": "USA v. Gondal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gondal",
+  "case_date_filed": "2008-07-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeanine Linehan",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Muazzam Ali Gondal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546(a)"
+        },
+        {
+          "charge_description": "18:1546(a) Immigration Fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James C. Cacheris",
+          "judge_guid": "urn:entity:jud-100059998"
+        }
+      ]
+    }
+  ]
+}

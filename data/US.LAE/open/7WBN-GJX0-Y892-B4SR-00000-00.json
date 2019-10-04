@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_201m189_laed",
+  "case_key": "2:01m189_laed",
+  "case_lni": "7WBN-GJX0-Y892-B4SR-00000-00",
+  "case_number": "2:01m189",
+  "case_title": "USA v. Johnson, et al",
+  "case_info_full_case_name": "USA v. Johnson, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson, et al",
+  "case_date_filed": "2001-09-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Tracey N. Knight",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEPHON JOHNSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 846"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 846 CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE\"CRACK\"COCAINE, A SCHEDULE II NARCOTIC DRUG CONTROLLED SUBSTANCE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Duty Magistrate"
+        }
+      ]
+    },
+    {
+      "party_name": "GAVIN BARNES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 846"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 846 CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE\"CRACK\"COCAINE, A SCHEDULE II NARCOTIC DRUG CONTROLLED SUBSTANCE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Duty Magistrate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_897cr246_flmd",
+  "case_key": "8:97cr246_flmd",
+  "case_lni": "7WBN-SMF0-Y892-B0JY-00000-00",
+  "case_number": "8:97cr246",
+  "case_title": "USA v. Anderson, Jr.",
+  "case_info_full_case_name": "USA v. Anderson, Jr.",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Anderson, Jr.",
+  "case_date_filed": "1997-06-26",
+  "case_status": "Closed",
+  "case_status_date": "11/21/1997",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gregory Anderson, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 70 months. Supervised Release: 5 years. Fine: $12,500.00. Special Assessment: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard A. Lazzara",
+          "judge_guid": "urn:entity:jud-100030317"
+        }
+      ]
+    },
+    {
+      "party_name": "Mercedes Flukes",
+      "party_description": "Surety",
+      "charges": [
+        {
+          "charge_offence_description": "Mercedes Flukes Surety (mother) for Gregory Anders"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard A. Lazzara",
+          "judge_guid": "urn:entity:jud-100030317"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_205cr564_NJD",
+  "case_key": "2:05cr564_NJD",
+  "case_lni": "7WBN-KP30-Y892-B094-00000-00",
+  "case_number": "2:05cr564",
+  "case_title": "USA v. THOMAS",
+  "case_info_full_case_name": "USA v. THOMAS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "THOMAS",
+  "case_date_filed": "2005-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JEFFREY L. THOMAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1993 10/04"
+        },
+        {
+          "charge_description": "MURDER, SECOND DEGREE d/o/f 1993 thru 10/04 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC846-Distribution/possession/with"
+        },
+        {
+          "charge_description": "T. 21 USC 846-Distribution/possession/with intent to distribute heroin."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Katharine S. Hayden",
+          "judge_guid": "urn:entity:jud-100034973"
+        }
+      ]
+    }
+  ]
+}

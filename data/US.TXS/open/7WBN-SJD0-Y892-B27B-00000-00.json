@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_707cr285_TXSD",
+  "case_key": "7:07cr285_TXSD",
+  "case_lni": "7WBN-SJD0-Y892-B27B-00000-00",
+  "case_number": "7:07cr285",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2007-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs Mc",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - Mc",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Patricia Cook Profit",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bernardo Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 922"
+        },
+        {
+          "charge_offence_description": "18 USC 922"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's oral motion."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(2)"
+        },
+        {
+          "charge_disposition": "One-hundred twenty (120) months custody of the Bureau of Prisons, three (3) years supervised release term, $100 special assessment. 10/7/2016 Twelve (12) months custody of the Bureau of Prisons imposed, re-imposed supervised release term until the original expiration date of 2018 under all the previous conditions with additional special condition that he participate for ninety (90) days in an in-patient drug abuse treatment program unless discharged earlier with the approval of the probation officer.12/06/2017 Time served and re-imposed supervised release term until the original expiration date of 12/2018 with special conditions: defendant spend up to 90 days in a community confinement center for inpatient treatment of drug addiction, dependency and abuse to be discharged earlier with the approval of program director and probation officer; thereafter, should participate in an outpatient and/or inpatient drug treatment program as directed by his probation officer."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(3-5)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's oral motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL TO RECEIVE A FIREARM NOT REGISTERED(6-7)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's oral motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    }
+  ]
+}

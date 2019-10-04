@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_309cr807_TXWD",
+  "case_key": "3:09cr807_TXWD",
+  "case_lni": "7WBN-RV00-Y892-B3RY-00000-00",
+  "case_number": "3:09cr807",
+  "case_title": "USA v. Ordonez-Camacho",
+  "case_info_full_case_name": "USA v. Ordonez-Camacho",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ordonez-Camacho",
+  "case_date_filed": "2009-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Julio Cesar Ordonez-Camacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC, Section(s) 952(a)"
+        },
+        {
+          "charge_description": "MARIJUANA-IMPORT in violation of Title 21 USC, Section(s) 952(a) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC, Section(s) 841(a)(1)"
+        },
+        {
+          "charge_description": "MARIJUANA-POSSESSION with Intent to Distribute in violation of Title 21 USC, Section(s) 841(a)(1) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F-Marijuana-Sell, 21:952A=MI.F-Marijuana-Import 83.2"
+        },
+        {
+          "charge_description": "21:841A=MD.F-Marijuana-Sell, Distribute, or Dispense, 21:952A=MI.F-Marijuana-Import approximately 83.2 pounds."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

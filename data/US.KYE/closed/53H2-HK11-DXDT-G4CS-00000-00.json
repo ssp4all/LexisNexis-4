@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_511cr102_KYED",
+  "case_key": "5:11cr102_KYED",
+  "case_lni": "53H2-HK11-DXDT-G4CS-00000-00",
+  "case_number": "5:11cr102",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2011-08-05",
+  "case_status": "Closed",
+  "case_status_date": "11/18/2011",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew E. Smith , AUSA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Brandon Wayne Marshall , AUSA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jonathan Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 CONSPIRACY TO COMMIT MAIL FRAUD(1)"
+        },
+        {
+          "charge_disposition": "JUDGMENT ON REVOCATION 9/14/18: 18 MONTHS IMPRISONMENT WITH NO SUPERVISION TO FOLLOW; JUDGMENT ON REVOCATION 7/3/2017 - 6 MONTHS IMP, 20 MONTHS SUPERVISED RELEASE, $81,584 RESTITUTION; JUDGMENT FOR REVOCATION 12/15/2015 - 10 MONTHS IMP, 26 MONTHS, $100 SPECIAL ASSESSMENT (PAID), $81,584 RESTITUTION; JUDGMENT FOR REVOCATION 3/25/2014 - 15 MONTHS IMP, 3 YEARS SUPERVISED RELEASE, $100.00 (PAID IN FULL) SPECIAL ASSESSMENT, $81,584.00 RESTITUTION; ORIGINAL JUDGMENT - 5 YEARS PROBATION, $100 SPECIAL ASSESSMENT, $81,584 RESTITUTION"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Danny C. Reeves",
+          "judge_guid": "urn:entity:jud-100015127"
+        }
+      ]
+    }
+  ]
+}

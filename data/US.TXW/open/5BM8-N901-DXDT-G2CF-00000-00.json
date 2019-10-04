@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_714cr38_TXWD",
+  "case_key": "7:14cr38_TXWD",
+  "case_lni": "5BM8-N901-DXDT-G2CF-00000-00",
+  "case_number": "7:14cr38",
+  "case_title": "USA v. Beasley",
+  "case_info_full_case_name": "USA v. Beasley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beasley",
+  "case_date_filed": "2014-02-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robin Beasley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. - Defendant who having been convicted of a crime punishable by imprisonment for a term exceeding one year,did knowingly possess in and affecting commerce firearms, to wit: a Smith and Wesson .38 caliber revolver and a Ruger .22 caliber revolver, which both had been shipped and transported in interstate and foreign commerce, in violation of Title 18, United States Code, Section 922(g)(1).(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F Felon in possession of a firearm"
+        },
+        {
+          "charge_offence_description": "18:922G.F Felon in possession of a firearm"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

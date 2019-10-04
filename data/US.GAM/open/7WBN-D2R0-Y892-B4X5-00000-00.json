@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_493m317_gamd",
+  "case_key": "4:93m317_gamd",
+  "case_lni": "7WBN-D2R0-Y892-B4X5-00000-00",
+  "case_number": "4:93m317",
+  "case_title": "USA v. Crider",
+  "case_info_full_case_name": "USA v. Crider",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Crider",
+  "case_date_filed": "1993-04-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "W. Trierweiler",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PHILLIP R. CRIDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER-Improper backing, T/A (1)"
+        },
+        {
+          "charge_disposition": "$25.00 Fine (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William L. Slaughter",
+          "judge_guid": "urn:entity:jud-100091357"
+        }
+      ]
+    }
+  ]
+}

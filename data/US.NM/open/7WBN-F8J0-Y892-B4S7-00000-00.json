@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_203cr2044_nmd",
+  "case_key": "2:03cr2044_nmd",
+  "case_lni": "7WBN-F8J0-Y892-B4S7-00000-00",
+  "case_number": "2:03cr2044",
+  "case_title": "USA v. Madera-Martinez",
+  "case_info_full_case_name": "USA v. Madera-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Madera-Martinez",
+  "case_date_filed": "2003-10-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pedro Madera-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(b)(1)"
+        },
+        {
+          "charge_description": "8:1326(b)(1) Reentry after deportation [2:03-m-5693] (0-0)"
+        },
+        {
+          "charge_statute": "8:1326(a)(1)and(2);(b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a)(1)and(2);(b)(1) REENTRY OF DEPORTED ALIEN PREVIOUSLY CONVICTED OF A FELONY (1-1)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_212mj188_UTD",
+  "case_key": "2:12mj188_UTD",
+  "case_lni": "5636-47C1-DXDT-G3NW-00000-00",
+  "case_number": "2:12mj188",
+  "case_title": "USA v. Black",
+  "case_info_full_case_name": "USA v. Black",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Black",
+  "case_date_filed": "2012-06-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Terry Lee Black",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113A.F"
+        },
+        {
+          "charge_description": "18:2113A.F BANK ROBBERY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brooke C. Wells",
+          "judge_guid": "urn:entity:jud-100023056"
+        }
+      ]
+    }
+  ]
+}

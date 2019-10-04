@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_807mj1549_FLMD",
+  "case_key": "8:07mj1549_FLMD",
+  "case_lni": "7WBN-DFP0-Y892-B485-00000-00",
+  "case_number": "8:07mj1549",
+  "case_title": "USA v. Jimenez-Vasquez",
+  "case_info_full_case_name": "USA v. Jimenez-Vasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jimenez-Vasquez",
+  "case_date_filed": "2007-12-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Luis Jimenez-Vasquez DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) Transporting illegal aliens."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark A. Pizzo",
+          "judge_guid": "urn:entity:jud-100059133"
+        }
+      ]
+    }
+  ]
+}

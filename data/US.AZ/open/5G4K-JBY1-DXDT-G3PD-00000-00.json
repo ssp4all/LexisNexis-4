@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415mj5849_AZD",
+  "case_key": "4:15mj5849_AZD",
+  "case_lni": "5G4K-JBY1-DXDT-G3PD-00000-00",
+  "case_number": "4:15mj5849",
+  "case_title": "USA v. Quintana",
+  "case_info_full_case_name": "USA v. Quintana",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Quintana",
+  "case_date_filed": "2015-06-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Justin Kman",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Quintana",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1: ARS ยง 28-1381.A.1. Driving Under the Influence (DUI): Impaired to the Slightest Degree; CT 2: ARS ยง 28-1381.A.2. DUI: BAC of .08 or more"
+        },
+        {
+          "charge_disposition": "Bureau of Prisons for Two (2) days, $1000.00 fine, $10.00 Special Assessment"
+        },
+        {
+          "charge_offence_description": "CT 1: ARS &#167; 28-1381.A.1. Driving Under the In"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

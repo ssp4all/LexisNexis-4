@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_111mj302_TXSD",
+  "case_key": "1:11mj302_TXSD",
+  "case_lni": "527R-1YX1-DXDT-G30F-00000-00",
+  "case_number": "1:11mj302",
+  "case_title": "USA v. Beltran-Ramos",
+  "case_info_full_case_name": "USA v. Beltran-Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beltran-Ramos",
+  "case_date_filed": "2011-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adriana Beltran-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31:5332.F, 31:5316.F"
+        },
+        {
+          "charge_description": "31:5332.F, 31:5316.F Intentionally evade a currency reporting requirement and knowingly conceal more than $10,000 in currency or monetary instruments approximately $199,918 and transport or attempt to transport such currency or monetary instruments to a place outside the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

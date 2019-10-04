@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AK_307cr113_AKD",
+  "case_key": "3:07cr113_AKD",
+  "case_lni": "7WBN-MTW0-Y892-B4RF-00000-00",
+  "case_number": "3:07cr113",
+  "case_title": "USA v. Phonsavang",
+  "case_info_full_case_name": "USA v. Phonsavang",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Phonsavang",
+  "case_date_filed": "2007-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Shawn C. Fuller",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sinakone Phonsavang",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846, 841(a)(1) (b)(1)(B)"
+        },
+        {
+          "charge_description": "21:846, 841(a)(1) and (b)(1)(B) ATTEMPTED POSSESSION OF METHAMPHETAMINE WITH INTENT TO DISTRIBUTE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 841(a)(1) (b)(1)(B)ATTEMPT"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1) and (b)(1)(B)ATTEMPT TO POSSESS WITH INTENT TO DISTRIBUTE"
+        },
+        {
+          "charge_disposition": "Indicted in 3:07-cr-00113-JWSIndicted in 3:07-cr-00113-JWS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "John"
+        },
+        {
+          "judge_title": "Deborah",
+          "judge_name": "M. Smith",
+          "judge_guid": "urn:entity:jud-100113075"
+        }
+      ]
+    }
+  ]
+}

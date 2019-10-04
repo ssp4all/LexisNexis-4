@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_218cr20463_MIED",
+  "case_key": "2:18cr20463_MIED",
+  "case_lni": "5SNK-YMS1-DXDT-G025-00000-00",
+  "case_number": "2:18cr20463",
+  "case_title": "United States of America v. Knox",
+  "case_info_full_case_name": "United States of America v. Knox",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Knox",
+  "case_date_filed": "2018-06-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John Andrew Knox",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO REGISTER AS A SEX OFFENDER(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 18 MONTHS; SUPERVISED RELEASE: 60 MONTHS; SPECIAL ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2250.F"
+        },
+        {
+          "charge_offence_description": "18:2250.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence G. Berg",
+          "judge_guid": "urn:entity:jud-100104516"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Elizabeth A. Stafford",
+          "judge_guid": "urn:entity:jud-100114079"
+        }
+      ]
+    }
+  ]
+}

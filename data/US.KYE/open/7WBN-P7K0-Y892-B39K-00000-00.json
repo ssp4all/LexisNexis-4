@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_699cr71_kyed",
+  "case_key": "6:99cr71_kyed",
+  "case_lni": "7WBN-P7K0-Y892-B39K-00000-00",
+  "case_number": "6:99cr71",
+  "case_title": "USA v. Nelson",
+  "case_info_full_case_name": "USA v. Nelson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nelson",
+  "case_date_filed": "1999-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TOMMY WAYNE NELSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESS WITH INTENT TO DISTRIBUTE, AND DID DISTRIBUTE, A SCHEDULE I CONTROLLED SUBSTANCE, MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 (Marijuana)"
+        },
+        {
+          "charge_description": "21:846 Conspiring to possess with the intent to distribute and did distribute a Schedule I controlled substance (Marijuana) [6:99-m-6059]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer B. Coffman",
+          "judge_guid": "urn:entity:jud-100048139"
+        }
+      ]
+    }
+  ]
+}

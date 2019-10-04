@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_207cr223_CAED",
+  "case_key": "2:07cr223_CAED",
+  "case_lni": "7WBN-KVP0-Y892-B0KH-00000-00",
+  "case_number": "2:07cr223",
+  "case_title": "USA v. Arredondo-Becerra",
+  "case_info_full_case_name": "USA v. Arredondo-Becerra",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arredondo-Becerra",
+  "case_date_filed": "2007-05-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kyle Frederick Reardon",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Saul Arredondo-Becerra",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DEPORTED ALIEN FOUND IN THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "DEPORTED ALEN FOUND IN US"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Morrison C. England, Jr",
+          "judge_guid": "urn:entity:jud-100043591"
+        }
+      ]
+    }
+  ]
+}

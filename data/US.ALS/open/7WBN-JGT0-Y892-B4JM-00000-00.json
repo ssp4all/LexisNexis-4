@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_103mj134_alsd",
+  "case_key": "1:03mj134_alsd",
+  "case_lni": "7WBN-JGT0-Y892-B4JM-00000-00",
+  "case_number": "1:03mj134",
+  "case_title": "USA v. Brock",
+  "case_info_full_case_name": "USA v. Brock",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brock",
+  "case_date_filed": "2003-10-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Carl Brock",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 846;"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 846; Conspiracy to possess w/intent to distribute MDMA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kristi D. Lee",
+          "judge_guid": "urn:entity:jud-100127542"
+        }
+      ]
+    }
+  ]
+}

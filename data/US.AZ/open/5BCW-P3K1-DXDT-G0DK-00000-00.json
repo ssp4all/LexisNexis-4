@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414mj10093_AZD",
+  "case_key": "4:14mj10093_AZD",
+  "case_lni": "5BCW-P3K1-DXDT-G0DK-00000-00",
+  "case_number": "4:14mj10093",
+  "case_title": "USA v. Cervantes-Barrera",
+  "case_info_full_case_name": "USA v. Cervantes-Barrera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cervantes-Barrera",
+  "case_date_filed": "2014-01-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ramiro Cervantes-Barrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(b)(1) Illegal Re Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(1) Illegal Re Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

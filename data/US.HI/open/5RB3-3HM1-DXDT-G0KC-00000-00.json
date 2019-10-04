@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_118cr8_HID",
+  "case_key": "1:18cr8_HID",
+  "case_lni": "5RB3-3HM1-DXDT-G0KC-00000-00",
+  "case_number": "1:18cr8",
+  "case_title": "USA v. Lewis",
+  "case_info_full_case_name": "USA v. Lewis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "2018-01-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rashawn L. Lewis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER - HRS ยง 286-102; 18 USC 13 - Driving without a valid license; 10/26/2017; Joint Base Pearl Harbor-Hickam, Hawaii; 7020379H20(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "KENNETH J. MANSFIELD",
+          "judge_guid": "urn:entity:jud-100122713"
+        }
+      ]
+    }
+  ]
+}

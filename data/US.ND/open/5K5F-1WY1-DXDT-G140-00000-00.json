@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_116mj227_NDD",
+  "case_key": "1:16mj227_NDD",
+  "case_lni": "5K5F-1WY1-DXDT-G140-00000-00",
+  "case_number": "1:16mj227",
+  "case_title": "USA v. Perez-Molina",
+  "case_info_full_case_name": "USA v. Perez-Molina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Molina",
+  "case_date_filed": "2016-07-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Alfonso Perez-Molina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) - REENTRY OF DEPORTED ALIEN"
+        },
+        {
+          "charge_offence_description": "8:1326(a) - REENTRY OF DEPORTED ALIEN"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alice R. Senechal",
+          "judge_guid": "urn:entity:jud-100021430"
+        }
+      ]
+    }
+  ]
+}

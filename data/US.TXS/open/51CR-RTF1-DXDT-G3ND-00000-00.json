@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_410mj1048_TXSD",
+  "case_key": "4:10mj1048_TXSD",
+  "case_lni": "51CR-RTF1-DXDT-G3ND-00000-00",
+  "case_number": "4:10mj1048",
+  "case_title": "USA v. Pride",
+  "case_info_full_case_name": "USA v. Pride",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pride",
+  "case_date_filed": "2010-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Keith Pride",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen Smith",
+          "judge_guid": "urn:entity:jud-100022185"
+        }
+      ]
+    }
+  ]
+}

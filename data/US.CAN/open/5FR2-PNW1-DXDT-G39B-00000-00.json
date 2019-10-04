@@ -1,0 +1,100 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_515xr90304_CAND",
+  "case_key": "5:15xr90304_CAND",
+  "case_lni": "5FR2-PNW1-DXDT-G39B-00000-00",
+  "case_number": "5:15xr90304",
+  "case_title": "USA v. In Re: Application for Telephone Information Needed for a Criminal Investigation",
+  "case_info_full_case_name": "USA v. In Re: Application for Telephone Information Needed for a Criminal Investigation",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Application for Telephone Information Needed for a Criminal Investigation",
+  "case_date_filed": "2015-04-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey Benjamin Schenk",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "In Re: Application for Telephone Information Needed for a Criminal Investigation",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Howard R. Lloyd",
+          "judge_guid": "urn:entity:jud-100009008"
+        }
+      ]
+    },
+    {
+      "party_name": "American Civil Liberties Union Foundation",
+      "party_description": "Movant",
+      "charges": [
+        {
+          "charge_description": "American Civil Liberties Union Foundation Amicus"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "American Civil Liberties Union Foundation Amicus\t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Howard R. Lloyd",
+          "judge_guid": "urn:entity:jud-100009008"
+        }
+      ]
+    },
+    {
+      "party_description": "Amicus",
+      "charges": [
+        {
+          "charge_description": "Electronic Frontier Foundation"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Electronic Frontier Foundation\t\trepresented&nbsp"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Howard R. Lloyd",
+          "judge_guid": "urn:entity:jud-100009008"
+        }
+      ]
+    },
+    {
+      "party_name": "American Civil Liberties Union Foundation of ",
+      "party_description": "Miscellaneous",
+      "charges": [
+        {
+          "charge_description": "American Civil Liberties Union  Foundation of Northern California, Inc. Amicus"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "American Civil Liberties Union  Foundation of Nort"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Howard R. Lloyd",
+          "judge_guid": "urn:entity:jud-100009008"
+        }
+      ]
+    }
+  ]
+}

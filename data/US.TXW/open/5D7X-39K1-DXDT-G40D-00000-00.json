@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_314mj3775_TXWD",
+  "case_key": "3:14mj3775_TXWD",
+  "case_lni": "5D7X-39K1-DXDT-G40D-00000-00",
+  "case_number": "3:14mj3775",
+  "case_title": "USA v. Esparza Macias",
+  "case_info_full_case_name": "USA v. Esparza Macias",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Esparza Macias",
+  "case_date_filed": "2014-09-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Esparza Macias",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A1=MP.F---Possession with Intent to Distribute Marijuana and, 21:952=MI.F---Marijuana - Import"
+        },
+        {
+          "charge_offence_description": "21:841A1=MP.F---Possession with Intent to Distribu"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert F. Castaneda",
+          "judge_guid": "urn:entity:jud-100071767"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_299m869_paed",
+  "case_key": "2:99m869_paed",
+  "case_lni": "7WBN-H360-Y892-B3KF-00000-00",
+  "case_number": "2:99m869",
+  "case_title": "USA v. IVORY",
+  "case_info_full_case_name": "USA v. IVORY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "IVORY",
+  "case_date_filed": "1999-10-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT EDWARD IVORY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USCSECTION"
+        },
+        {
+          "charge_description": "UNLAWFUL FLIGHT TO AVOID PROSECUTION FOR CRIMINAL ROBBERY IN VIOLATION OF TITLE 18, U.S.C. SECTION 1073."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

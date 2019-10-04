@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_307cr119_PRD",
+  "case_key": "3:07cr119_PRD",
+  "case_lni": "7WBN-FK10-Y892-B21B-00000-00",
+  "case_number": "3:07cr119",
+  "case_title": "USA v. Feliciano-Colon",
+  "case_info_full_case_name": "USA v. Feliciano-Colon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Feliciano-Colon",
+  "case_date_filed": "2007-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Elba I. Gorbea-Padro",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Abimael Feliciano-Colon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) UNLAWFUL POSSESSION &; TRANSPORTATION OF FIREARM BY CONVICTED FELON (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F-Unlawful"
+        },
+        {
+          "charge_description": "18:922G.F-Unlawful Transportation of firearms, etc."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Jose A Fuste",
+          "judge_guid": "urn:entity:jud-500000321"
+        }
+      ]
+    }
+  ]
+}

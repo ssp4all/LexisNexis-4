@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_199cr1134_nyed",
+  "case_key": "1:99cr1134_nyed",
+  "case_lni": "7WBN-F7B0-Y892-B0JW-00000-00",
+  "case_number": "1:99cr1134",
+  "case_title": "USA v. 1-99-cr-1134-01",
+  "case_info_full_case_name": "USA v. 1-99-cr-1134-01",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "1-99-cr-1134-01",
+  "case_date_filed": "1999-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "1-99-CR-1134-01",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jack B. Weinstein",
+          "judge_guid": "urn:entity:jud-100017575"
+        }
+      ]
+    }
+  ]
+}

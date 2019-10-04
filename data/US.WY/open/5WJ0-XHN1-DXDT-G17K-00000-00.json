@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_519po493_WYD",
+  "case_key": "5:19po493_WYD",
+  "case_lni": "5WJ0-XHN1-DXDT-G17K-00000-00",
+  "case_number": "5:19po493",
+  "case_title": "USA v. Braun",
+  "case_info_full_case_name": "USA v. Braun",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Braun",
+  "case_date_filed": "2019-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David T Braun",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Disorderly conduct-create, maintain hazardous or physically offensive condition (7343746)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Threaten/resist/intimidate/intent interfere with a government employee/agency function (7343747)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Disorderly conduct: Engage in fighting or threatening or in violent behavior (7343748)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Presence in park area when under the influence of alcohol or controlled sub (7343749)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "18USCÂ§113(a)(5) Simple ASSAULT WITHIN SPECIAL MARITIME OR TERRITORIAL JURISDICTION (7343750)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

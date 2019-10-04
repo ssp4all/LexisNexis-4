@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_218cr1344_NMD",
+  "case_key": "2:18cr1344_NMD",
+  "case_lni": "5S5N-8M21-DXDT-G26S-00000-00",
+  "case_number": "2:18cr1344",
+  "case_title": "USA v. Cardenas-Gutierrez",
+  "case_info_full_case_name": "USA v. Cardenas-Gutierrez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cardenas-Gutierrez",
+  "case_date_filed": "2018-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Marty A. Woelfle",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Melissa Anne Cardenas-Gutierrez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "PROBATION: 3 years with special conditions; SPA $100.00; deft NOT in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846 Conspiracy with Intent to Distribute 50 kilograms of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:846 Conspiracy with Intent to Distribute 50 kil"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "William P. Johnson",
+          "judge_guid": "urn:entity:jud-100050292"
+        }
+      ]
+    }
+  ]
+}

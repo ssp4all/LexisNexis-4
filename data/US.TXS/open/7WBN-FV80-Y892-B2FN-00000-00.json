@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502m3846_txsd",
+  "case_key": "5:02m3846_txsd",
+  "case_lni": "7WBN-FV80-Y892-B2FN-00000-00",
+  "case_number": "5:02m3846",
+  "case_title": "USA v. Orneles-Hernandez",
+  "case_info_full_case_name": "USA v. Orneles-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Orneles-Hernandez",
+  "case_date_filed": "2002-10-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS ORNELES-HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1325(a)(1);"
+        },
+        {
+          "charge_description": "8 USC 1325(a)(1); Unlawfully enter the United States at a place other than as designated by Immigration Officers."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

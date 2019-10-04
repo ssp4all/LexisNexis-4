@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_511cr56_GAMD",
+  "case_key": "5:11cr56_GAMD",
+  "case_lni": "53HH-PH11-DXDT-G239-00000-00",
+  "case_number": "5:11cr56",
+  "case_title": "UNITED STATES OF AMERICA v. COOK",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. COOK",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "COOK",
+  "case_date_filed": "2011-08-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERRY BERNARD COOK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS - 21:846 i/c/w 21:841(a)(1), 841(b)(1)(C), &; 18:2 - Conspiracy to possess w/intent to distribute cocaine(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government Motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE - 21:841(a)(1), 841(b)(1)(C) &; 18:2 - Possession w/the Intentn to Distribute Cocaine(2)"
+        },
+        {
+          "charge_disposition": "11 months imprisonment concurrent with revocation sentence presently serving-federal sentence began on 09/29/11; 3 years supervised release; $100 mandatory assessment fee;"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "LESLIE J ABRAMS",
+          "judge_guid": "urn:entity:jud-100109811"
+        },
+        {
+          "judge_name": "US Magistrate Judge CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

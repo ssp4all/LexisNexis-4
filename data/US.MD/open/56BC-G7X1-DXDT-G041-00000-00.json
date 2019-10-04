@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_112po10892_MDD",
+  "case_key": "1:12po10892_MDD",
+  "case_lni": "56BC-G7X1-DXDT-G041-00000-00",
+  "case_number": "1:12po10892",
+  "case_title": "USA vs Armstrong",
+  "case_info_full_case_name": "USA vs Armstrong",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Armstrong",
+  "case_date_filed": "2012-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Aberdeen Proving Ground",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Aberdeen Proving Ground",
+      "attorney_label": "[NO LABEL]"
+    },
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Melody A Armstrong",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16) (3387167)"
+        },
+        {
+          "charge_description": "OPER. M/V WITH (OPERATOR, OCCUPANT UNDER AGE 16) NOT RESTRAINED BY (SEATBELT, CH (3387167) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "C."
+        }
+      ]
+    }
+  ]
+}

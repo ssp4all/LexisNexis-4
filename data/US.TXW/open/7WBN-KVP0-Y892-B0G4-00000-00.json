@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_207cr215_TXWD",
+  "case_key": "2:07cr215_TXWD",
+  "case_lni": "7WBN-KVP0-Y892-B0G4-00000-00",
+  "case_number": "2:07cr215",
+  "case_title": "USA v. Ponce-Hernandez",
+  "case_info_full_case_name": "USA v. Ponce-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ponce-Hernandez",
+  "case_date_filed": "2007-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert Joseph Brady, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Ponce-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:111.F"
+        },
+        {
+          "charge_description": "18:111.F ASSAULT ON A FEDERAL OFFICER (1)"
+        },
+        {
+          "charge_disposition": "Imprisoned for a term of 36 months with no CTS and to run concurrent to sentence the defendant is serving on DR:97-cr-099, 3 years supervised release, $100 special assessment, Restitution $18,170.74"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:113B.F"
+        },
+        {
+          "charge_description": "18:113B.F ASSAULT CAUSING SUBSTANTIAL BODILY INJURY (2)"
+        },
+        {
+          "charge_disposition": "Imprisoned for a term of 36 months to run concurrent to counts 1 with not CTS and to run concurrent to sentence the defendant is serving on DR:97-cr-099, 3 years supervised release to run concurrent to counts 1, $100 special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable"
+        }
+      ]
+    }
+  ]
+}

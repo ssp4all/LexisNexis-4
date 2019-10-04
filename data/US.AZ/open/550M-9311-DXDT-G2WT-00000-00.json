@@ -1,0 +1,90 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_412mj12225_AZD",
+  "case_key": "4:12mj12225_AZD",
+  "case_lni": "550M-9311-DXDT-G2WT-00000-00",
+  "case_number": "4:12mj12225",
+  "case_title": "USA v. Moreno-Pina et al",
+  "case_info_full_case_name": "USA v. Moreno-Pina et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno-Pina et al",
+  "case_date_filed": "2012-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Manuel Moreno-Pina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C) 21:846"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) Possession with Intent to Distribute Marijuana; All in violation of 21:846 Conspiracy to Possess with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Corona-Zavala",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C) 21:846"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) Possession with Intent to Distribute Marijuana; All in violation of 21:846 Conspiracy to Possess with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    },
+    {
+      "party_name": "Gustavo Cecena-Gamez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C) 21:846"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) Possession with Intent to Distribute Marijuana; All in violation of 21:846 Conspiracy to Possess with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_608mj6152_KYED",
+  "case_key": "6:08mj6152_KYED",
+  "case_lni": "7WBN-P6C0-Y892-B332-00000-00",
+  "case_number": "6:08mj6152",
+  "case_title": "USA v. Gray",
+  "case_info_full_case_name": "USA v. Gray",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gray",
+  "case_date_filed": "2008-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joe Gray",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(j)"
+        },
+        {
+          "charge_description": "18:922(j) Receive and possess stolen firearms which had been shipped in interstate commerce, knowing that the firearms were stolen"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Robert"
+        }
+      ]
+    }
+  ]
+}

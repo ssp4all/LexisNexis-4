@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_411cr74_TXED",
+  "case_key": "4:11cr74_TXED",
+  "case_lni": "52C7-S591-DXDT-G4R6-00000-00",
+  "case_number": "4:11cr74",
+  "case_title": "USA v. Shanks",
+  "case_info_full_case_name": "USA v. Shanks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shanks",
+  "case_date_filed": "2011-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Johnny Clayton Shanks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard A. Schell",
+          "judge_guid": "urn:entity:jud-100026917"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Don D. Bush",
+          "judge_guid": "urn:entity:jud-100060120"
+        }
+      ]
+    }
+  ]
+}

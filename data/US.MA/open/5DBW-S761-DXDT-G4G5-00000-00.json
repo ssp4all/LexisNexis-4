@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_114cr10301_MAD",
+  "case_key": "1:14cr10301_MAD",
+  "case_lni": "5DBW-S761-DXDT-G4G5-00000-00",
+  "case_number": "1:14cr10301",
+  "case_title": "USA v. Kim",
+  "case_info_full_case_name": "USA v. Kim",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kim",
+  "case_date_filed": "2014-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eldo Kim",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1038(a)...Bomb Hoax"
+        },
+        {
+          "charge_offence_description": "18:1038(a)...Bomb Hoax"
+        },
+        {
+          "charge_description": "18:1038(a) - BOMB HOAX(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nathaniel M. Gorton",
+          "judge_guid": "urn:entity:jud-100048779"
+        }
+      ]
+    }
+  ]
+}

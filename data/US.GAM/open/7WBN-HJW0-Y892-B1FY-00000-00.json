@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_403m220_gamd",
+  "case_key": "4:03m220_gamd",
+  "case_lni": "7WBN-HJW0-Y892-B1FY-00000-00",
+  "case_number": "4:03m220",
+  "case_title": "USA v. Felton",
+  "case_info_full_case_name": "USA v. Felton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Felton",
+  "case_date_filed": "2003-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David O. Anglin",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KENNETH O. FELTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.M"
+        },
+        {
+          "charge_description": "21:844A=MP.M MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "G. Mallon Faircloth",
+          "judge_guid": "urn:entity:jud-100046843"
+        }
+      ]
+    }
+  ]
+}

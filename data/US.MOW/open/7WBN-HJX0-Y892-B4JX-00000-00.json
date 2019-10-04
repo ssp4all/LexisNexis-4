@@ -1,0 +1,106 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_404cr422_MOWD",
+  "case_key": "4:04cr422_MOWD",
+  "case_lni": "7WBN-HJX0-Y892-B4JX-00000-00",
+  "case_number": "4:04cr422",
+  "case_title": "USA v. Ellis et al",
+  "case_info_full_case_name": "USA v. Ellis et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ellis et al",
+  "case_date_filed": "2004-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Phillip Ellis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(5) 21,USC, 841(a)(1) (b)(1)(B), 21,USC,"
+        },
+        {
+          "charge_description": "did knowingly and intentionally combine, conspire, confederate, and agree with each other and others both known and unknown, to distribute five (5) grams or more of a mixture or substance containing a detectable amount of cocaine base, a Schedule II controlled substance, contrary to the provisions of Title 21, USC, Sections 841(a)(1) and (b)(1)(B), all in violation of Title 21, USC, Section 846."
+        },
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Howard F. Sachs",
+          "judge_guid": "urn:entity:jud-100031276"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sarah W. Hays",
+          "judge_guid": "urn:entity:jud-100052039"
+        }
+      ]
+    },
+    {
+      "party_name": "Dayron T Johnson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(5) 21,USC, 841(a)(1) (b)(1)(B), 21,USC,"
+        },
+        {
+          "charge_description": "did knowingly and intentionally combine, conspire, confederate, and agree with each other and others both known and unknown, to distribute five (5) grams or more of a mixture or substance containing a detectable amount of cocaine base, a Schedule II controlled substance, contrary to the provisions of Title 21, USC, Sections 841(a)(1) and (b)(1)(B), all in violation of Title 21, USC, Section 846."
+        },
+        {
+          "charge_description": "CONSPIRACY TO MANUFACTURE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Howard F. Sachs",
+          "judge_guid": "urn:entity:jud-100031276"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sarah W. Hays",
+          "judge_guid": "urn:entity:jud-100052039"
+        }
+      ]
+    }
+  ]
+}

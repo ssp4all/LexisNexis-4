@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_298m240_tnwd",
+  "case_key": "2:98m240_tnwd",
+  "case_lni": "7WBN-MD00-Y892-B0NB-00000-00",
+  "case_number": "2:98m240",
+  "case_title": "USA v. Lopez",
+  "case_info_full_case_name": "USA v. Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez",
+  "case_date_filed": "1998-11-04",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SANTODOMINGO P. LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M"
+        },
+        {
+          "charge_description": "18:13-7210.M TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_disposition": "The Court imposed a fine of $300.00 plus an assessment of $10 as to the charge of reckless driving; a fine of $20.00 plus an assessment of $5.00 as to the violation of the open container law; and, a 3 month period of supervised probation. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER-Open Container (2)"
+        },
+        {
+          "charge_disposition": "The Court imposed a fine of $300.00 plus an assessment of $10 as to the charge of reckless driving; a fine of $20.00 plus an assessment of $5.00 as to the violation of the open container law; and, a 3 month period of supervised probation. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "J. Daniel Breen",
+          "judge_guid": "urn:entity:jud-100064379"
+        }
+      ]
+    }
+  ]
+}

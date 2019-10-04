@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_115po2026_VAED",
+  "case_key": "1:15po2026_VAED",
+  "case_lni": "5GFH-DT91-DXDT-G072-00000-00",
+  "case_number": "1:15po2026",
+  "case_title": "USA vs Raber",
+  "case_info_full_case_name": "USA vs Raber",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Raber",
+  "case_date_filed": "2015-07-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "EXCEEEDING MAXIMUM SPEED LIMIT (4793736)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

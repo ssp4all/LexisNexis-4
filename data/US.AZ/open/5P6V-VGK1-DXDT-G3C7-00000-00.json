@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417mj10691_AZD",
+  "case_key": "4:17mj10691_AZD",
+  "case_lni": "5P6V-VGK1-DXDT-G3C7-00000-00",
+  "case_number": "4:17mj10691",
+  "case_title": "USA v. Lopez-Cota",
+  "case_info_full_case_name": "USA v. Lopez-Cota",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Cota",
+  "case_date_filed": "2017-08-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Lopez-Cota",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) Illegal Re Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) Illegal Re Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leslie A Bowman",
+          "judge_guid": "urn:entity:jud-100102117"
+        }
+      ]
+    }
+  ]
+}

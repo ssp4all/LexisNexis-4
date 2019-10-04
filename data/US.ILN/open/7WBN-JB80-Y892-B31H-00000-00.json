@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_101cr678_ilnd",
+  "case_key": "1:01cr678_ilnd",
+  "case_lni": "7WBN-JB80-Y892-B31H-00000-00",
+  "case_number": "1:01cr678",
+  "case_title": "USA v. McGhee",
+  "case_info_full_case_name": "USA v. McGhee",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McGhee",
+  "case_date_filed": "2001-07-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BENNIE L MCGHEE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Attempt to possess with intent to distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Morton Denlow",
+          "judge_guid": "urn:entity:jud-100054563"
+        }
+      ]
+    }
+  ]
+}

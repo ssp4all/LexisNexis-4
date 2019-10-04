@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_216cr1486_NMD",
+  "case_key": "2:16cr1486_NMD",
+  "case_lni": "5JJ3-SY01-DXDT-G3RJ-00000-00",
+  "case_number": "2:16cr1486",
+  "case_title": "USA v. Hernandez-Portillo",
+  "case_info_full_case_name": "USA v. Hernandez-Portillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Portillo",
+  "case_date_filed": "2016-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Demetrio Hernandez-Portillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and (b) REENTRY OF A REMOVED ALIEN(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 36 days or time served, whichever is less, 1 year unsupervised release with special conditions, SPA waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Kenneth J. Gonzales",
+          "judge_guid": "urn:entity:jud-100104521"
+        }
+      ]
+    }
+  ]
+}

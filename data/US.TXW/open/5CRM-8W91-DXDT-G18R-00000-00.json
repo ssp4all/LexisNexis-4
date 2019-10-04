@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_714cr175_TXWD",
+  "case_key": "7:14cr175_TXWD",
+  "case_lni": "5CRM-8W91-DXDT-G18R-00000-00",
+  "case_number": "7:14cr175",
+  "case_title": "USA v. Madrid",
+  "case_info_full_case_name": "USA v. Madrid",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Madrid",
+  "case_date_filed": "2014-07-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gabriel Madrid",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:856=CM.F CONTROLLED SUBSTANCE - MANUFACTURE - defendant knowlingly and intentionally maintained a place at Latitude 31 48 55.026N and Longitude 102 29 06.798W for the purpose of manufacturing, distributing and using Methamphetamine and Cocaine, both Schedule II Controlled Substances, and Marijuana, a Schedule I Controlled Substance, in violation of Title 21, United States Code, Section 856(a)(1).(1)"
+        },
+        {
+          "charge_disposition": "Dismissed count 1 without prejudice on government's motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:856=CM.F On or about 6/25/2014 in the county of Ector in the Western District of Texas defendant knowingly and intentionally maintained a place for the purpose of manufacturing and distributing methamphetamine, cocaine and marijuana in violation of Title 21 USC 856(a)(1), 21:856=CM.F, 21:856=MD.F, 21:856=CM.F"
+        },
+        {
+          "charge_offence_description": "21:856=CM.F On or about 6/25/2014 in the county of"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

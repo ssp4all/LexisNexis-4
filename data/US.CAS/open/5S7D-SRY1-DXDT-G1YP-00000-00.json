@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr2186_CASD",
+  "case_key": "3:18cr2186_CASD",
+  "case_lni": "5S7D-SRY1-DXDT-G1YP-00000-00",
+  "case_number": "3:18cr2186",
+  "case_title": "USA v. Tortoledo",
+  "case_info_full_case_name": "USA v. Tortoledo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tortoledo",
+  "case_date_filed": "2018-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Alicia Phillip Williams",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alicia Tortoledo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(2)(B)(iii); 18:2 - Bringing in Aliens Without Presentation; Aiding and Abetting(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii); 18:2 - Bringing in Aliens for Financial Gain; Aiding and Abetting(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(iii) - Bringing in Unlawful Alien(s) Without Presentation"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(2)(B)(iii) - Bringing in Unlawful Alien("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael M. Anello",
+          "judge_guid": "urn:entity:jud-100074349"
+        }
+      ]
+    },
+    {
+      "party_name": "Pengfei Wang",
+      "party_description": "Material Witness"
+    }
+  ]
+}

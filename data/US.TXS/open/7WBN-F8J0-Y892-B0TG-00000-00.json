@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_202cr173_txsd",
+  "case_key": "2:02cr173_txsd",
+  "case_lni": "7WBN-F8J0-Y892-B0TG-00000-00",
+  "case_number": "2:02cr173",
+  "case_title": "USA v. Qualls",
+  "case_info_full_case_name": "USA v. Qualls",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Qualls",
+  "case_date_filed": "2002-06-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - C",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER NMI QUALLS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "commerce-18USC922(g)(1) 924(a)(2). 4, 2002. 10 3"
+        },
+        {
+          "charge_description": "Did knowingly possess a firearm while a convicted felon in and affecting commerce-18 USC 922(g)(1) and 924(a)(2). Date of Offense: February 4, 2002. PENALTY: Not more than 10 years imprisonment, a fine of $250,000, (or both), not more than 3 years SRT, and a $100 special assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis Graham Jack",
+          "judge_guid": "urn:entity:jud-100050653"
+        }
+      ]
+    }
+  ]
+}

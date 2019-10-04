@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418cr2101_AZD",
+  "case_key": "4:18cr2101_AZD",
+  "case_lni": "5THG-P891-DXDT-G3DP-00000-00",
+  "case_number": "4:18cr2101",
+  "case_title": "USA v. Delgadillo-Contreras",
+  "case_info_full_case_name": "USA v. Delgadillo-Contreras",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delgadillo-Contreras",
+  "case_date_filed": "2018-10-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adan Delgadillo-Contreras",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a), enhanced by 8:1326(b)(1) Re-Entry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a), enhanced by 8:1326(b)(1) Re-Entry of Re"
+        },
+        {
+          "charge_description": "8:1326(a),enhanced by (b)(1) Illegal Re-Entry(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer G Zipps",
+          "judge_guid": "urn:entity:jud-100047798"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

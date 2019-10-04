@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_318mj407_PRD",
+  "case_key": "3:18mj407_PRD",
+  "case_lni": "5RV8-KJH1-DXDT-G438-00000-00",
+  "case_number": "3:18mj407",
+  "case_title": "DO NOT DOCKET IN MAGISTRATE CASE - CASE MERGED WITH CRIMINAL CASE 18-187 (PAD)",
+  "case_info_full_case_name": "DO NOT DOCKET IN MAGISTRATE CASE - CASE MERGED WITH CRIMINAL CASE 18-187 (PAD)",
+  "case_info_short_case_name": "DO NOT DOCKET IN MAGISTRATE CASE - CASE MERGED WITH CRIMINAL CASE 18-187 PAD",
+  "case_info_party1": "DO NOT DOCKET IN MAGISTRATE CASE - CASE MERGED WITH CRIMINAL CASE 18-187 PAD",
+  "case_info_party2": null,
+  "case_date_filed": "2018-03-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Ramon Diaz-Marcano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(3) Unlawful user of a controlled substance in possession of a firearm and ammunition, 18:922(o) Possession of a machinegun"
+        },
+        {
+          "charge_offence_description": "18:922(g)(3) Unlawful user of a controlled substan"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Bruce J. McGiverin",
+          "judge_guid": "urn:entity:jud-100009312"
+        }
+      ]
+    },
+    {
+      "party_name": "U.S. Probation Officer",
+      "party_description": "Interested Party"
+    }
+  ]
+}

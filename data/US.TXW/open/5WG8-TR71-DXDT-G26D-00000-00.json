@@ -1,0 +1,104 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_219cr1491_TXWD",
+  "case_key": "2:19cr1491_TXWD",
+  "case_lni": "5WG8-TR71-DXDT-G26D-00000-00",
+  "case_number": "2:19cr1491",
+  "case_title": "USA v. DeLeon et al",
+  "case_info_full_case_name": "USA v. DeLeon et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DeLeon et al",
+  "case_date_filed": "2019-07-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joshua Bryan Banister",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daisy Ann DeLeon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(v)(I) &; (B)(i) -  Conspiracy to Transport Illegal Aliens(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(l)(A)(ii)&;(B)(i) - Illegal Alien Transportation(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)&;(B)(i) - Illegal   Alien Transportation(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1324 Transporting Illegal Aliens into the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1324 Transporting Illegal Aliens into the Un"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    },
+    {
+      "party_name": "Norbert Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(v)(I) &; (B)(i) -  Conspiracy to Transport Illegal Aliens(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(l)(A)(ii)&;(B)(i) - Illegal Alien Transportation(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)&;(B)(i) - Illegal   Alien Transportation(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1324 Transporting Illegal Aliens into the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1324 Transporting Illegal Aliens into the Un"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

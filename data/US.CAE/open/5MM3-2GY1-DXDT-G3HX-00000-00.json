@@ -1,0 +1,175 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_117cr10_CAED",
+  "case_key": "1:17cr10_CAED",
+  "case_lni": "5MM3-2GY1-DXDT-G3HX-00000-00",
+  "case_number": "1:17cr10",
+  "case_title": "USA v. Medina et al",
+  "case_info_full_case_name": "USA v. Medina et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Medina et al",
+  "case_date_filed": "2017-01-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fresno Forfeiture Unit",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marlene Isabel Medina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 846 &; 841(a)(1) - Conspiracy to Distribute and Possess with the Intent to Distribute Methamphetamine(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 846 &; 841(a)(1) - Conspiracy to Distribute and Possess with the Intent to Distribute Methamphetamine(1s)"
+        },
+        {
+          "charge_disposition": "PROBATION: 5 years. Special Assessment $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) - Distribution of Methamphetamine(2-3)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) - Possession with the Intent to Distribute Methamphetamine(5)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lawrence J. O'Neill",
+          "judge_guid": "urn:entity:jud-100035867"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sheila K. Oberto",
+          "judge_guid": "urn:entity:jud-100025675"
+        }
+      ]
+    },
+    {
+      "party_name": "Raymond Mireles, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 846 &; 841(a)(1) - Conspiracy to Distribute and Possess with the Intent to Distribute Methamphetamine(1)"
+        },
+        {
+          "charge_disposition": "CUSTODY: 183 Months. Special Assessment $100. Supervised Release: 60 Months."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) - Distribution of Methamphetamine(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) - Possession with the Intent to Distribute Methamphetamine(4)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) - Possession with the Intent to Distribute Methamphetamine(6)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lawrence J. O'Neill",
+          "judge_guid": "urn:entity:jud-100035867"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sheila K. Oberto",
+          "judge_guid": "urn:entity:jud-100025675"
+        }
+      ]
+    },
+    {
+      "party_name": "Curtis Andrew Baldwin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 846 &; 841(a)(1) - Conspiracy to Distribute and Possess with the Intent to Distribute Methamphetamine(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) - Distribution of Methamphetamine(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lawrence J. O'Neill",
+          "judge_guid": "urn:entity:jud-100035867"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sheila K. Oberto",
+          "judge_guid": "urn:entity:jud-100025675"
+        }
+      ]
+    }
+  ]
+}

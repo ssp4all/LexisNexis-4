@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B17mj90107_KSD",
+  "case_key": "B:17mj90107_KSD",
+  "case_lni": "5P8J-KNG1-DXDT-G24N-00000-00",
+  "case_number": "B:17mj90107",
+  "case_title": "USA v. Tilley",
+  "case_info_full_case_name": "USA v. Tilley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tilley",
+  "case_date_filed": "2017-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brandon R. Tilley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13 (KSA 8-1017(a)(4)) Circumvention of Ignition Interlock Device (CLASS A) (INFORMATION 8/17/17)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:13 (KSA 8-1599) Open Container of Alcohol (CLASS B) (INFORMATION 8/17/17)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kenneth G. Gale",
+          "judge_guid": "urn:entity:jud-100055199"
+        }
+      ]
+    }
+  ]
+}

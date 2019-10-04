@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317po1392_CASD",
+  "case_key": "3:17po1392_CASD",
+  "case_lni": "5NFW-BBV1-DXDT-G1DP-00000-00",
+  "case_number": "3:17po1392",
+  "case_title": "USA vs Cerezo",
+  "case_info_full_case_name": "USA vs Cerezo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cerezo",
+  "case_date_filed": "2017-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Herbie A Cerezo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of Controlled Substance / Marijuana / Narcotics (CVB Citation) (6982128)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving with blood alcohol level of .08 or higher (6982127)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driving under the influence of alcohol (6982126)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barbara Lynn Major",
+          "judge_guid": "urn:entity:jud-100029199"
+        }
+      ]
+    }
+  ]
+}

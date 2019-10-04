@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_315mj218_PRD",
+  "case_key": "3:15mj218_PRD",
+  "case_lni": "5F94-ND11-DXDT-G14R-00000-00",
+  "case_number": "3:15mj218",
+  "case_title": "USA v. Rivera-Ocasio",
+  "case_info_full_case_name": "USA v. Rivera-Ocasio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera-Ocasio",
+  "case_date_filed": "2015-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Rivera-Ocasio",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Silvia Carreno-Coll",
+          "judge_guid": "urn:entity:jud-100082317"
+        }
+      ]
+    },
+    {
+      "party_name": "Probation Office",
+      "party_description": "Interested Party"
+    }
+  ]
+}

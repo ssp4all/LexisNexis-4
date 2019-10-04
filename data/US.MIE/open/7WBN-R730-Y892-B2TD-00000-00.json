@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_206cr20028_MIED",
+  "case_key": "2:06cr20028_MIED",
+  "case_lni": "7WBN-R730-Y892-B2TD-00000-00",
+  "case_number": "2:06cr20028",
+  "case_title": "United States of America v. Thompson",
+  "case_info_full_case_name": "United States of America v. Thompson",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Thompson",
+  "case_date_filed": "2006-01-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tommie L. Thompson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BANK FRAUD(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 1 day SUPERVISED RELEASE: 5 years; SPECIAL ASSESSMENT: $100 RESTITUTION: $91,773.; JUDGMENT ON REVOCATION OF SUPERVISED RELEASE ENTERED 5/1/09; IMPRISONMENT: TIME SERVED; SUPERVISED RELEASE: 4 years; 10 months and 11 days; SPECIAL ASSESSMENT: $100; RESTITUTION: $91,773.00. REVOCATION OF SUPERVISED RELEASE AS OF 4/13/2011: IMPRISONMENT: 20 MONTHS; SUPERVISED RELEASE: 16 MONTHS; SPECIAL ASSESSMENT: $100; RESTITUTION: $91,723.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert H. Cleland",
+          "judge_guid": "urn:entity:jud-100062545"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    }
+  ]
+}

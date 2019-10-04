@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117mj194_VAED",
+  "case_key": "1:17mj194_VAED",
+  "case_lni": "5ND1-YVN1-DXDT-G2X0-00000-00",
+  "case_number": "1:17mj194",
+  "case_title": "USA v. Gill",
+  "case_info_full_case_name": "USA v. Gill",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gill",
+  "case_date_filed": "2017-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Raizza Ty",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rajinder Gill",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371 and 8:1325(c)  Conspiracy to Commit Marriage Fraud"
+        },
+        {
+          "charge_offence_description": "18:371 and 8:1325(c)  Conspiracy to Commit Marriag"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

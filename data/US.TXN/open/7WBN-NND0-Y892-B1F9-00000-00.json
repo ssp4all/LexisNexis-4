@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_495m235_txnd",
+  "case_key": "4:95m235_txnd",
+  "case_lni": "7WBN-NND0-Y892-B1F9-00000-00",
+  "case_number": "4:95m235",
+  "case_title": "USA v. Tolbert, et al",
+  "case_info_full_case_name": "USA v. Tolbert, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tolbert, et al",
+  "case_date_filed": "1995-12-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES WAYNE TOLBERT JR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Conspiracy to Distribute and Distribution of Cocaine Base"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "RONNIE BENNETT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Conspiracy to Distribute and Distribution of Cocaine Base"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "LEON WARREN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Conspiracy to Distribute and Distribution of Cocaine Base"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

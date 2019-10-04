@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_204cr390_CAED",
+  "case_key": "2:04cr390_CAED",
+  "case_lni": "7WBN-R5F0-Y892-B0J6-00000-00",
+  "case_number": "2:04cr390",
+  "case_title": "USA v. Greenmyer",
+  "case_info_full_case_name": "USA v. Greenmyer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Greenmyer",
+  "case_date_filed": "2004-10-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AMANDA GAYLE GREENMYER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708.F"
+        },
+        {
+          "charge_description": "18:1708.F POSSESSION OF STOLEN U.S. MAIL (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344A.F"
+        },
+        {
+          "charge_description": "18:1344A.F BANK FRAUD (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A.F"
+        },
+        {
+          "charge_description": "18:1028A.F AGGRAVATED IDENTITY THEFT (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "David F Levi",
+          "judge_guid": "urn:entity:jud-100091237"
+        }
+      ]
+    }
+  ]
+}

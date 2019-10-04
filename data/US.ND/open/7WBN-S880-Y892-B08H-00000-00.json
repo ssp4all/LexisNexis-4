@@ -1,0 +1,109 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_499cr15_ndd",
+  "case_key": "4:99cr15_ndd",
+  "case_lni": "7WBN-S880-Y892-B08H-00000-00",
+  "case_number": "4:99cr15",
+  "case_title": "USA v. Beston, et al",
+  "case_info_full_case_name": "USA v. Beston, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beston, et al",
+  "case_date_filed": "1999-03-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUSTIN ROBERT BESTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1153; 18:2; NDCC12.1-22-02 12.1-32-01-BURGLARY"
+        },
+        {
+          "charge_description": "18:1153; 18:2; NDCC 12.1-22-02 &; 12.1-32-01-BURGLARY &; AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2111 1153; 18: 2;"
+        },
+        {
+          "charge_description": "18:2111 &; 1153; 18: 2; ROBBERY &; AIDING AND ABETTING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:113(a)(6) 1153; 18:2-ASSAULT"
+        },
+        {
+          "charge_description": "18:113(a)(6) &; 1153; 18:2-ASSAULT RESULTING IN SERIOUS BODILY INJURY &; AIDING AND ABETTING (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Patrick A. Conmy",
+          "judge_guid": "urn:entity:jud-100049880"
+        }
+      ]
+    },
+    {
+      "party_name": "LARIS ANTHONY FORSCHEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1153; 18:2; NDCC12.1-22-02 12.1-32-01-BURGLARY"
+        },
+        {
+          "charge_description": "18:1153; 18:2; NDCC 12.1-22-02 &; 12.1-32-01-BURGLARY &; AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2111 1153; 18: 2;"
+        },
+        {
+          "charge_description": "18:2111 &; 1153; 18: 2; ROBBERY &; AIDING AND ABETTING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:113(a)(6) 1153; 18:2-ASSAULT"
+        },
+        {
+          "charge_description": "18:113(a)(6) &; 1153; 18:2-ASSAULT RESULTING IN SERIOUS BODILY INJURY &; AIDING AND ABETTING (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Patrick A. Conmy",
+          "judge_guid": "urn:entity:jud-100049880"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_414sw3009_ARED",
+  "case_key": "4:14sw3009_ARED",
+  "case_lni": "5BD3-M9F1-DXDT-G3NC-00000-00",
+  "case_number": "4:14sw3009",
+  "case_title": "USA v. 29 Mini Farm Road, Vilonia, Arkansas",
+  "case_info_full_case_name": "USA v. 29 Mini Farm Road, Vilonia, Arkansas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "29 Mini Farm Road, Vilonia, Arkansas",
+  "case_date_filed": "2014-01-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "29 Mini Farm Road, ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jerome T. Kearney",
+          "judge_guid": "urn:entity:jud-100071931"
+        }
+      ]
+    }
+  ]
+}

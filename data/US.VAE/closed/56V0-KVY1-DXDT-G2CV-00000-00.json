@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_312mj392_VAED",
+  "case_key": "3:12mj392_VAED",
+  "case_lni": "56V0-KVY1-DXDT-G2CV-00000-00",
+  "case_number": "3:12mj392",
+  "case_title": "USA v. Dearborn",
+  "case_info_full_case_name": "USA v. Dearborn",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dearborn",
+  "case_date_filed": "2012-10-16",
+  "case_status": "Closed",
+  "case_status_date": "06/06/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katharine M.E. Adams",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "N. George Metcalf",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Zachary C. Dearborn",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 13 assimilating 1950 Code of Va., as amended, 46.2-852 - Reckless Driving(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of government"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Novak",
+          "judge_guid": "urn:entity:jud-100031335"
+        }
+      ]
+    }
+  ]
+}

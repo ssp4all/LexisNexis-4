@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502m2336_txsd",
+  "case_key": "5:02m2336_txsd",
+  "case_lni": "7WBN-NV80-Y892-B1JT-00000-00",
+  "case_number": "5:02m2336",
+  "case_title": "USA v. Gonzalez-Garcia, et al",
+  "case_info_full_case_name": "USA v. Gonzalez-Garcia, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Garcia, et al",
+  "case_date_filed": "2002-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIO SUSTAITA-LARA",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "JUAN FRANCISCO DE LEON-HERNANDEZ",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "JESUS GONZALEZ-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transporting illegal aliens within the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_213mj169_AZD",
+  "case_key": "2:13mj169_AZD",
+  "case_lni": "589W-CV81-DXDT-G0PM-00000-00",
+  "case_number": "2:13mj169",
+  "case_title": "USA v. Magana-Sanchez",
+  "case_info_full_case_name": "USA v. Magana-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Magana-Sanchez",
+  "case_date_filed": "2013-05-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jorge Magana-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) enhanced by (b)(1) - Reentry of Removed "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michelle H Burns",
+          "judge_guid": "urn:entity:jud-100080929"
+        }
+      ]
+    }
+  ]
+}

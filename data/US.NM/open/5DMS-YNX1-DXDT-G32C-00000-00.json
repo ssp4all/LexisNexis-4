@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_114cr3919_NMD",
+  "case_key": "1:14cr3919_NMD",
+  "case_lni": "5DMS-YNX1-DXDT-G32C-00000-00",
+  "case_number": "1:14cr3919",
+  "case_title": "USA v. Venzor-Anaya",
+  "case_info_full_case_name": "USA v. Venzor-Anaya",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Venzor-Anaya",
+  "case_date_filed": "2014-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodolfo Venzor-Anaya",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(5) and 924(a)(2): Alien in Possession of Firearms and Ammunition(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(5): Possession of a Firearm and Ammunition by an Alien Illegally or Unlawfully Present in the United States"
+        },
+        {
+          "charge_offence_description": "18:922(g)(5): Possession of a Firearm and Ammuniti"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William P. Johnson",
+          "judge_guid": "urn:entity:jud-100050292"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_318po1215_WYD",
+  "case_key": "3:18po1215_WYD",
+  "case_lni": "5TSN-8191-DXDT-G2K9-00000-00",
+  "case_number": "3:18po1215",
+  "case_title": "USA v. Blount",
+  "case_info_full_case_name": "USA v. Blount",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blount",
+  "case_date_filed": "2018-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Denise D Blount",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violating a provision of State law is prohibited / WS 31-4-101(a)(i)  Operate a motor vehicle without valid registration (6396832)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Carry/store open bottle/container containing alcoholic beverage (6396843)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

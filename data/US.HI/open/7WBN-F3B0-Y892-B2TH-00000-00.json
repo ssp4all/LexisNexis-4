@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_106cr437_HID",
+  "case_key": "1:06cr437_HID",
+  "case_lni": "7WBN-F3B0-Y892-B2TH-00000-00",
+  "case_number": "1:06cr437",
+  "case_title": "USA v. Flippo",
+  "case_info_full_case_name": "USA v. Flippo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flippo",
+  "case_date_filed": "2006-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dirk N. Flippo Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "291E-61(a)(1) A2261319 H10"
+        },
+        {
+          "charge_description": "HRS 291E-61(a)(1) TRAFFIC OFFENSES, DRUNKEN DRIVING, Schofield Barracks, HI, [7/29/06], A2261319 H10 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "286-102 A2271318 H10"
+        },
+        {
+          "charge_description": "HRS 286-102 TRAFFIC OFFENSES, DRIVE WITHOUT A VALID OPERATOR'S LICENSE, Schofield Barracks, HI, [7/29/06], A2271318 H10 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "KEVIN S.C. CHANG",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

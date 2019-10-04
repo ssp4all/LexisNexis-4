@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_196cr20042_mied",
+  "case_key": "1:96cr20042_mied",
+  "case_lni": "7WBN-F630-Y892-B1R3-00000-00",
+  "case_number": "1:96cr20042",
+  "case_title": "USA v. DeGroat",
+  "case_info_full_case_name": "USA v. DeGroat",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DeGroat",
+  "case_date_filed": "1996-10-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC aus]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DENISE DEGROAT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2232B.F"
+        },
+        {
+          "charge_description": "18:2232B.F WARNING THE SUBJECT OF A SEARCH (2s)"
+        },
+        {
+          "charge_disposition": "Imprisonment of 60 months on count 2 and 192 months on count 1 of docket 97-20004, terms to run concurrently. Supervised release of four years. (2s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2232B.F"
+        },
+        {
+          "charge_description": "18:2232B.F WARNING THE SUBJECT OF A SEARCH (1s)"
+        },
+        {
+          "charge_disposition": "Defendant found not guilty on count 1 of superseding indictment, count dismissed. (1s)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2232B.F"
+        },
+        {
+          "charge_description": "18:2232B.F WARNING THE SUBJECT OF A SEARCH (1)"
+        },
+        {
+          "charge_disposition": "Dismissed (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC2232(b)-giving"
+        },
+        {
+          "charge_description": "18 USC 2232(b)-giving notice of seizure [1:96-m-20042]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert H. Cleland",
+          "judge_guid": "urn:entity:jud-100062545"
+        }
+      ]
+    }
+  ]
+}

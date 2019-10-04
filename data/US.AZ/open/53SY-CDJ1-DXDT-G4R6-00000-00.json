@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_311mj10138_AZD",
+  "case_key": "3:11mj10138_AZD",
+  "case_lni": "53SY-CDJ1-DXDT-G4R6-00000-00",
+  "case_number": "3:11mj10138",
+  "case_title": "USA v. Bravo-Narsisto",
+  "case_info_full_case_name": "USA v. Bravo-Narsisto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bravo-Narsisto",
+  "case_date_filed": "2011-09-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Maria Rodriguez Gutierrez",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Serafin Bravo-Narsisto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1) Re-entry After Removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jay R Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

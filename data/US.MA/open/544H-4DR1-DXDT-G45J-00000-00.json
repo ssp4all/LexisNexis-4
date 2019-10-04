@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_111cr10350_MAD",
+  "case_key": "1:11cr10350_MAD",
+  "case_lni": "544H-4DR1-DXDT-G45J-00000-00",
+  "case_number": "1:11cr10350",
+  "case_title": "USA v. Winn",
+  "case_info_full_case_name": "USA v. Winn",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Winn",
+  "case_date_filed": "2011-10-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arthur Winn",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "2:441f - CAMPAIGN CONTRIBUTION IN THE NAME OF ANOTHER  (MISDEMEANOR)(1-2)"
+        },
+        {
+          "charge_disposition": "Sentence Imposed on counts 1&;2. No Term of Imprisonment Imposed; $100,000 Fine, interest included; $50 Special Assessment to be paid immediately, court adjourned."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Judith G. Dein",
+          "judge_guid": "urn:entity:jud-100044880"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_102cr10156_mad",
+  "case_key": "1:02cr10156_mad",
+  "case_lni": "7WBN-JCJ0-Y892-B122-00000-00",
+  "case_number": "1:02cr10156",
+  "case_title": "USA v. Rizzuto",
+  "case_info_full_case_name": "USA v. Rizzuto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rizzuto",
+  "case_date_filed": "2002-05-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEONARD G. RIZZUTO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7201 (26:7201.F)"
+        },
+        {
+          "charge_description": "26:7201 Tax Evasion (26:7201.F) (1-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Rya W. Zobel",
+          "judge_guid": "urn:entity:jud-100004844"
+        }
+      ]
+    }
+  ]
+}

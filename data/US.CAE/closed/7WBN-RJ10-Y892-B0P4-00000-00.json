@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_298cr360_caed",
+  "case_key": "2:98cr360_caed",
+  "case_lni": "7WBN-RJ10-Y892-B0P4-00000-00",
+  "case_number": "2:98cr360",
+  "case_title": "USA v. Deutchman, et al",
+  "case_info_full_case_name": "USA v. Deutchman, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Deutchman, et al",
+  "case_date_filed": "1998-08-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "DEANN M DEUTCHMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.M (Misdemeanor)"
+        },
+        {
+          "charge_description": "18:641.M THEFT OF U. S. PROPERTY (Misdemeanor) (1)"
+        },
+        {
+          "charge_disposition": "dft was ordered placed on probation; limited supervised probation for a term of 12 months; the dft was ordered to pay a fine of $500 and statutary assessment of $25 both payable forthwith; dft to abide by the standard conditions of probation; dft was advised of her right to appeal (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter A Nowinski",
+          "judge_guid": "urn:entity:jud-100027284"
+        }
+      ]
+    }
+  ]
+}

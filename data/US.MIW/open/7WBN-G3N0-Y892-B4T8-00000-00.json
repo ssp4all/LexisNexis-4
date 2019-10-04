@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_102cr63_miwd",
+  "case_key": "1:02cr63_miwd",
+  "case_lni": "7WBN-G3N0-Y892-B4T8-00000-00",
+  "case_number": "1:02cr63",
+  "case_title": "USA v. Nass",
+  "case_info_full_case_name": "USA v. Nass",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nass",
+  "case_date_filed": "2002-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KEITH W. NASS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:5861(d); 26:5841(a); 26:5845(a)(6),(b); 26:5871;"
+        },
+        {
+          "charge_description": "26:5861(d); 26:5841(a); 26:5845(a)(6),(b); 26:5871; UNLAWFUL TO RECEIVE A FIREARM NOT REGISTERED (Possession of an Unregistered Machinegun) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(o); 18:921(a)(23); 18:924(a)(2);"
+        },
+        {
+          "charge_description": "18:922(o); 18:921(a)(23); 18:924(a)(2); VIOLENT CRIME/DRUGS/MACHINE GUN (Possession of a Machinegun) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:5861(d); 26:5841(a); 26:5845(a)(7); 26:5871;"
+        },
+        {
+          "charge_description": "26:5861(d); 26:5841(a); 26:5845(a)(7); 26:5871; UNLAWFUL TO RECEIVE A FIREARM NOT REGISTERED (Possession of an Unregistered Silencer) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gordon J. Quist",
+          "judge_guid": "urn:entity:jud-100031897"
+        }
+      ]
+    }
+  ]
+}

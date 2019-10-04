@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_899cr55_cacd",
+  "case_key": "8:99cr55_cacd",
+  "case_lni": "7WBN-PF90-Y892-B4G3-00000-00",
+  "case_number": "8:99cr55",
+  "case_title": "USA v. Dao",
+  "case_info_full_case_name": "USA v. Dao",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dao",
+  "case_date_filed": "1999-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "MEN THI DAO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2: 18:1952(a)(3):"
+        },
+        {
+          "charge_description": "18:1952(a)(3): RACKETEERING-USE OF INTERSTATE FACILITY RE CALIFORNIA PANDERING CHARGE; 18:2: AIDING AND ABETTING (2-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1962, 1952, 1503, 201, 2"
+        },
+        {
+          "charge_description": "Dft chrgd in viol of 18:1962, 1952, 1503, 201, 2 [8:98-m-346]"
+        },
+        {
+          "charge_disposition": "Court orders dft HTA to Eastern District of Louisiana [8:98-m-346] (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gary L. Taylor",
+          "judge_guid": "urn:entity:jud-100019353"
+        }
+      ]
+    }
+  ]
+}

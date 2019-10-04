@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_296m4076_njd",
+  "case_key": "2:96m4076_njd",
+  "case_lni": "7WBN-DR00-Y892-B1N1-00000-00",
+  "case_number": "2:96m4076",
+  "case_title": "USA v. WILSON",
+  "case_info_full_case_name": "USA v. WILSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "WILSON",
+  "case_date_filed": "1996-02-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TISHAWN WILSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(n) 2"
+        },
+        {
+          "charge_description": "18:922(n) &; 2 Receipt of a firearm while under Indictment"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "G. Donald Haneke",
+          "judge_guid": "urn:entity:jud-100037677"
+        }
+      ]
+    }
+  ]
+}

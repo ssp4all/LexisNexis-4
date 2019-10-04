@@ -1,0 +1,439 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_399cr520_casd",
+  "case_key": "3:99cr520_casd",
+  "case_lni": "7WBN-HGM0-Y892-B4J8-00000-00",
+  "case_number": "3:99cr520",
+  "case_title": "USA v. Mendoza-Nunez, et al",
+  "case_info_full_case_name": "USA v. Mendoza-Nunez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendoza-Nunez, et al",
+  "case_date_filed": "1999-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUCY MARIA MENDOZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960 963-Conspiracy"
+        },
+        {
+          "charge_description": "21:952, 960 and 963-Conspiracy to import marijuana (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1)-Conspiracy to distribute marijuana (8)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (13)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howard B. Turrentine",
+          "judge_guid": "urn:entity:jud-100023685"
+        }
+      ]
+    },
+    {
+      "party_name": "ANGEL MENDOZA-NUNEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960 963-Conspiracy"
+        },
+        {
+          "charge_description": "21:952, 960 and 963-Conspiracy to import marijuana (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1)-Conspiracy to distribute marijuana (8)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (15)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howard B. Turrentine",
+          "judge_guid": "urn:entity:jud-100023685"
+        }
+      ]
+    },
+    {
+      "party_name": "MARTIN MENDOZA-NUNEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960 963-Conspiracy"
+        },
+        {
+          "charge_description": "21:952, 960 and 963-Conspiracy to import marijuana (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (7)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1)-Conspiracy to distribute marijuana (8)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (9)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (10)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (11)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (12)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (13)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (14)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (15)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howard B. Turrentine",
+          "judge_guid": "urn:entity:jud-100023685"
+        }
+      ]
+    },
+    {
+      "party_name": "MARIA GUADALUPE MENDOZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960 963-Conspiracy"
+        },
+        {
+          "charge_description": "21:952, 960 and 963-Conspiracy to import marijuana (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1)-Conspiracy to distribute marijuana (8)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (11)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (12)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howard B. Turrentine",
+          "judge_guid": "urn:entity:jud-100023685"
+        }
+      ]
+    },
+    {
+      "party_name": "SIMON ARELLANO-GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952, 960 963-Conspiracy"
+        },
+        {
+          "charge_description": "21:952, 960 and 963-Conspiracy to import marijuana (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952, 960-Importation 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:952, 960-Importation of marijuana; 18:2-Aiding and abetting (7)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 841(a)(1)-Conspiracy"
+        },
+        {
+          "charge_description": "21:846 and 841(a)(1)-Conspiracy to distribute marijuana (8)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (10)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (14)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession 18:2-Aiding"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession of marijuana w/intent to distribute; 18:2-Aiding and abetting (15)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howard B. Turrentine",
+          "judge_guid": "urn:entity:jud-100023685"
+        }
+      ]
+    }
+  ]
+}

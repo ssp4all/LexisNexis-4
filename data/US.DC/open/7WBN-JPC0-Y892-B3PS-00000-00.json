@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_107cr143_DCD",
+  "case_key": "1:07cr143_DCD",
+  "case_lni": "7WBN-JPC0-Y892-B3PS-00000-00",
+  "case_number": "1:07cr143",
+  "case_title": "USA v. PETERSON",
+  "case_info_full_case_name": "USA v. PETERSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PETERSON",
+  "case_date_filed": "2007-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "NATHAN ANTOINE PETERSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(iii); 50"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(iii); NARCOTICS-POSSESSION; Unlawful Possession with Intent to Distribute 50 Grams or More of Cocaine Base. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:844(a);"
+        },
+        {
+          "charge_description": "21:844(a); CONTROLLED SUBSTANCE-POSSESSION; Simple Possession of a Controlled Substance. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "COMPLAINT filed in violation of 21:841(a)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James Robertson",
+          "judge_guid": "urn:entity:jud-100001782"
+        }
+      ]
+    }
+  ]
+}

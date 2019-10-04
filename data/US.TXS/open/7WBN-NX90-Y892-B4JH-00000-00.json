@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_506cr699_TXSD",
+  "case_key": "5:06cr699_TXSD",
+  "case_lni": "7WBN-NX90-Y892-B4JH-00000-00",
+  "case_number": "5:06cr699",
+  "case_title": "USA v. Sanchez III",
+  "case_info_full_case_name": "USA v. Sanchez III",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez III",
+  "case_date_filed": "2006-05-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert H. Sanchez III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1000 10 5"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute a quantity in excess of 1000 kilograms of marihuana PENALTY: 10 Yrs. to Life and/or $4 Million, $100 CVF, 5 Yrs. TSR (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1000 10 5"
+        },
+        {
+          "charge_description": "Possess with intent to distribute a quantity in excess of 1000 kilograms of marihuana PENALTY: 10 to Life and/or $4 Million, $100 CVF, 5 Yrs. TSR (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F Marijuana-sell,distribute, or dispense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

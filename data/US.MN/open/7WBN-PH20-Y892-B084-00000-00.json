@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_007cr199_MND",
+  "case_key": "0:07cr199_MND",
+  "case_lni": "7WBN-PH20-Y892-B084-00000-00",
+  "case_number": "0:07cr199",
+  "case_title": "USA v. Neis",
+  "case_info_full_case_name": "USA v. Neis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Neis",
+  "case_date_filed": "2007-06-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Chris Adrian Neis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donovan W. Frank",
+          "judge_guid": "urn:entity:jud-100065368"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeanne J. Graham",
+          "judge_guid": "urn:entity:jud-100072850"
+        }
+      ]
+    }
+  ]
+}

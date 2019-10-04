@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_217cr1521_TXWD",
+  "case_key": "2:17cr1521_TXWD",
+  "case_lni": "5R77-6HN1-DXDT-G3J0-00000-00",
+  "case_number": "2:17cr1521",
+  "case_title": "USA v. Gonzales-Lopez",
+  "case_info_full_case_name": "USA v. Gonzales-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzales-Lopez",
+  "case_date_filed": "2017-12-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Amy Marie Hail",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Rafael Gonzales-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B2.F IMMIGRATION, REENTRY OF REMOVED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1) Illegal Re-entry after deportation from the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1) Illegal Re-entry after deportatio"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

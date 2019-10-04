@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415mj4217_AZD",
+  "case_key": "4:15mj4217_AZD",
+  "case_lni": "5F0X-NF81-DXDT-G2GC-00000-00",
+  "case_number": "4:15mj4217",
+  "case_title": "USA v. Barron-Ruvalcaba",
+  "case_info_full_case_name": "USA v. Barron-Ruvalcaba",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barron-Ruvalcaba",
+  "case_date_filed": "2015-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Diego Barron-Ruvalcaba",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1 8:1324(a)(2)(B)(ii) Transportation of Illegal Aliens for Profit; CT 2 8:1325, 18 USC 2 Aiding and Abet to Elude Examination and Inspection of an Immigration Officer"
+        },
+        {
+          "charge_offence_description": "CT 1 8:1324(a)(2)(B)(ii) Transportation of Illegal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    },
+    {
+      "party_description": "Material Witness"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_299m78_txsd",
+  "case_key": "2:99m78_txsd",
+  "case_lni": "7WBN-MF70-Y892-B4VJ-00000-00",
+  "case_number": "2:99m78",
+  "case_title": "USA v. Hill",
+  "case_info_full_case_name": "USA v. Hill",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hill",
+  "case_date_filed": "1999-03-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JERMEKA LITERESA HILL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Did knowingly and intentionally possess a counterfeited security of an organization, Southwestern Bell Corporation with intent to deceive another organization, Frost Bank. 18:513(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jane Cooper-Hill",
+          "judge_guid": "urn:entity:jud-100049686"
+        }
+      ]
+    }
+  ]
+}

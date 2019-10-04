@@ -1,0 +1,123 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_301cr113_tnmd",
+  "case_key": "3:01cr113_tnmd",
+  "case_lni": "7WBN-MGY0-Y892-B3N8-00000-00",
+  "case_number": "3:01cr113",
+  "case_title": "USA v. Trejo-Sanchez, et al",
+  "case_info_full_case_name": "USA v. Trejo-Sanchez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trejo-Sanchez, et al",
+  "case_date_filed": "2001-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Hilliard H. Hester, III",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUCAS TREJO-SANCHEZ",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_statute": "7/25/01: 18:1546 18:2"
+        },
+        {
+          "charge_description": "Indictment filed 7/25/01: 18:1546 Possession of counterfeit\"green card\"; 18:2 Aiding and Abetting (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7/25/01: 18:1028(a)(6)"
+        },
+        {
+          "charge_description": "Indictment filed 7/25/01: 18:1028(a)(6) Possession of false social security card (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Todd J. Campbell",
+          "judge_guid": "urn:entity:jud-100063400"
+        }
+      ]
+    },
+    {
+      "party_name": "JEEANELLE VITE-ESPINOZA",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_statute": "7/25/01: 18:1546 18:2"
+        },
+        {
+          "charge_description": "Indictment filed 7/25/01: 18:1546 Possession of counterfeit\"green card\"; 18:2 Aiding and Abetting (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7/25/01: 18:1028(a)(6)"
+        },
+        {
+          "charge_description": "Indictment filed 7/25/01: 18:1028(a)(6) Possession of false social security card (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Todd J. Campbell",
+          "judge_guid": "urn:entity:jud-100063400"
+        }
+      ]
+    },
+    {
+      "party_name": "MARIA DEL CARMEN HERNANDEZ-TREVINO",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_statute": "7/25/01: 18:1546 18:2"
+        },
+        {
+          "charge_description": "Indictment filed 7/25/01: 18:1546 Possession of counterfeit\"green card\"; 18:2 Aiding and Abetting (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7/25/01: 18:1028(a)(6)"
+        },
+        {
+          "charge_description": "Indictment filed 7/25/01: 18:1028(a)(6) Possession of false social security card (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Todd J. Campbell",
+          "judge_guid": "urn:entity:jud-100063400"
+        }
+      ]
+    }
+  ]
+}

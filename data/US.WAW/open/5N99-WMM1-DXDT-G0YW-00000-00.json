@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_317po5740_WAWD",
+  "case_key": "3:17po5740_WAWD",
+  "case_lni": "5N99-WMM1-DXDT-G0YW-00000-00",
+  "case_number": "3:17po5740",
+  "case_title": "USA vs Thomas",
+  "case_info_full_case_name": "USA vs Thomas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomas",
+  "case_date_filed": "2017-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor Joint Base Lewis-McChord",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mark L Thomas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Disorderly conduct (6087658)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David W. Christel",
+          "judge_guid": "urn:entity:jud-100062729"
+        }
+      ]
+    }
+  ]
+}

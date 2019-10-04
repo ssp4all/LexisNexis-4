@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_396m4163_azd",
+  "case_key": "3:96m4163_azd",
+  "case_lni": "7WBN-D5N0-Y892-B3GC-00000-00",
+  "case_number": "3:96m4163",
+  "case_title": "USA v. Yazzie",
+  "case_info_full_case_name": "USA v. Yazzie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yazzie",
+  "case_date_filed": "1996-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DALTON YAZZIE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Stephen L Verkamp",
+          "judge_guid": "urn:entity:jud-100010361"
+        }
+      ]
+    }
+  ]
+}

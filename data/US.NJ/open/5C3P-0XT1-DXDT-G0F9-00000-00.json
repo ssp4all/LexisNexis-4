@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_214mj9069_NJD",
+  "case_key": "2:14mj9069_NJD",
+  "case_lni": "5C3P-0XT1-DXDT-G0F9-00000-00",
+  "case_number": "2:14mj9069",
+  "case_title": "USA v. MORERA-PICHARDO",
+  "case_info_full_case_name": "USA v. MORERA-PICHARDO",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MORERA-PICHARDO",
+  "case_date_filed": "2014-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CRISBERTO MORERA-PICHARDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:930 POSSESSION OF WEAPON IN A FEDERAL FACILITY (OFFENSE 6/6/13)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:930 POSSESSION OF WEAPON IN A FEDERAL FACILITY (OFFENSE 6/6/13)"
+        },
+        {
+          "charge_offence_description": "18:930 POSSESSION OF WEAPON IN A FEDERAL FACILITY "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Anthony R. Mautone",
+          "judge_guid": "urn:entity:jud-100037720"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_417cr43_NCED",
+  "case_key": "4:17cr43_NCED",
+  "case_lni": "5P9V-9GV1-DXDT-G0H0-00000-00",
+  "case_number": "4:17cr43",
+  "case_title": "USA v. Thomas",
+  "case_info_full_case_name": "USA v. Thomas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomas",
+  "case_date_filed": "2017-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christine Hicks Thomas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal renumerations(1)"
+        },
+        {
+          "charge_disposition": "Count 1 - 2 years PROBATION with standard and additional standard conditions - $100.00 special assessment - Restitution in the amount of $37,262.26 - $2,386.18 is joint and several with Reginald Saunders, case number 4:15-cr-31-1F - 100 hours community service."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

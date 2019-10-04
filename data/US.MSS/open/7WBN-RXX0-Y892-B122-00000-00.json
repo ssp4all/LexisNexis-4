@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_396m529_mssd",
+  "case_key": "3:96m529_mssd",
+  "case_lni": "7WBN-RXX0-Y892-B122-00000-00",
+  "case_number": "3:96m529",
+  "case_title": "USA v. Wilson",
+  "case_info_full_case_name": "USA v. Wilson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wilson",
+  "case_date_filed": "1996-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOANN WILSON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James C. Sumner",
+          "judge_guid": "urn:entity:jud-100019642"
+        }
+      ]
+    }
+  ]
+}

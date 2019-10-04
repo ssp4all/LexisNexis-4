@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_209cr1564_TXWD",
+  "case_key": "2:09cr1564_TXWD",
+  "case_lni": "7XBH-9RP0-Y892-B05R-00000-00",
+  "case_number": "2:09cr1564",
+  "case_title": "USA v. Perales-Garcia",
+  "case_info_full_case_name": "USA v. Perales-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perales-Garcia",
+  "case_date_filed": "2009-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alejandra Perales-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE-Methamphetamine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952A=CI.F"
+        },
+        {
+          "charge_description": "21:952A=CI.F CONTROLLED SUBSTANCES-IMPORT-Methamphetamine (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC952-Import"
+        },
+        {
+          "charge_description": "21 USC 952-Import or cause to be imported a quantity of methampetamine, a Schedule I Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_306mj5038_WAWD",
+  "case_key": "3:06mj5038_WAWD",
+  "case_lni": "7WBN-H8V0-Y892-B090-00000-00",
+  "case_number": "3:06mj5038",
+  "case_title": "USA v. Zacher",
+  "case_info_full_case_name": "USA v. Zacher",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zacher",
+  "case_date_filed": "2006-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew C Friedman",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joyanna L Zacher",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Indictment from District of Oregon-Arson"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Karen L Strombom",
+          "judge_guid": "urn:entity:jud-100019792"
+        }
+      ]
+    }
+  ]
+}

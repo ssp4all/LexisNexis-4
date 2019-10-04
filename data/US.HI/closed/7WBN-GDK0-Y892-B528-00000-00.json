@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_196cr122_hid",
+  "case_key": "1:96cr122_hid",
+  "case_lni": "7WBN-GDK0-Y892-B528-00000-00",
+  "case_number": "1:96cr122",
+  "case_title": "USA v. Harris",
+  "case_info_full_case_name": "USA v. Harris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harris",
+  "case_date_filed": "1996-02-08",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERRANCE L. HARRIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:661 7/22/96, 1"
+        },
+        {
+          "charge_description": "18:661 LARCENY W/IN SPECIAL MARITIME JURISDICTION, 7/22/96, Ct 1 (1s)"
+        },
+        {
+          "charge_disposition": "FIFTEEN (15) days Imprisonment as to Count 1 of the Amended Information, with credit for time served; ONE (01) year Supervised Release; Fine: $225.00 due within 1 year in such amounts and at such times as determined by Probation; Restitution: $765.00; SA: $25.00; MITTIMUS: Forthwith; 12/12/96-Order to Show Cause Why Supervised Release Should Not be Revoked-NINE (09) months Imprisonment with credit for time served; RECOMMENDATION: That the defendant be considered for placement in a community correction center such as Miller Hale during the last 3 months of confinement if a viable release plan is not available to him; All other terms as previously imposed (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:1382 7/22/96, 2"
+        },
+        {
+          "charge_description": "18:1382 ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY-Trespassing, 7/22/96, Ct 2 (2s)"
+        },
+        {
+          "charge_disposition": "FIFTEEN (15) days Imprisonment as to Count 1 of the Amended Information, with credit for time served; ONE (01) year Supervised Release; Fine: $225.00 due within 1 year in such amounts and at such times as determined by Probation; Restitution: $765.00; SA: $25.00; MITTIMUS: Forthwith; 12/12/96-Order to Show Cause Why Supervised Release Should Not be Revoked-NINE (09) months Imprisonment with credit for time served; RECOMMENDATION: That the defendant be considered for placement in a community correction center such as Miller Hale during the last 3 months of confinement if a viable release plan is not available to him; All other terms as previously imposed (2s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:661.M"
+        },
+        {
+          "charge_description": "18:661.M LARCENY W/IN SPECIAL MARITIME JURISDICTION (1)"
+        },
+        {
+          "charge_disposition": "Superseded. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Barry M. Kurren",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

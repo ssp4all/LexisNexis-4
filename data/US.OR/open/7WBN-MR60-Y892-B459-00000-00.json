@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_305cr474_ORD",
+  "case_key": "3:05cr474_ORD",
+  "case_lni": "7WBN-MR60-Y892-B459-00000-00",
+  "case_number": "3:05cr474",
+  "case_title": "USA v. Hargrave",
+  "case_info_full_case_name": "USA v. Hargrave",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hargrave",
+  "case_date_filed": "2005-11-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amy Grace Hargrave",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC656"
+        },
+        {
+          "charge_description": "18 USC 656 BANK EMBEZZLEMENT (Misdemeanor)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Garr M. King",
+          "judge_guid": "urn:entity:jud-100077954"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_103mj2426_nysd",
+  "case_key": "1:03mj2426_nysd",
+  "case_lni": "7WBN-JGT0-Y892-B50K-00000-00",
+  "case_number": "1:03mj2426",
+  "case_title": "USA v. Reina-Espinosa et al",
+  "case_info_full_case_name": "USA v. Reina-Espinosa et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reina-Espinosa et al",
+  "case_date_filed": "2003-12-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David John Berardinelli",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Reinaldo Reina-Espinosa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846"
+        },
+        {
+          "charge_description": "21 U.S.C. 846 (CONSPIRACY TO DISTRIBUTE A CONTROLLED SUBSTANCE)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Guillen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846"
+        },
+        {
+          "charge_description": "21 U.S.C. 846 (CONSPIRACY TO DISTRIBUTE A CONTROLLED SUBSTANCE)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

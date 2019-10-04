@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_299m95_vaed",
+  "case_key": "2:99m95_vaed",
+  "case_lni": "7WBN-MFN0-Y892-B0T1-00000-00",
+  "case_number": "2:99m95",
+  "case_title": "USA v. White",
+  "case_info_full_case_name": "USA v. White",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "White",
+  "case_date_filed": "1999-02-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER R. WHITE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 46.2-357 W000925)"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER-KNOWINGLY, WILLFULLY AND UNLAWFULLY DRIVE A MOTOR VEHICLE IN THE COMMONWEALTH OF VIRGINIA AFTER HAVING BEEN DECLARED A HABITUAL OFFENDER. Assimilating Va. State Code 46.2-357 (Violation Notice No. W000925) (1)"
+        },
+        {
+          "charge_disposition": "Nol Prossed on govt. motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William T. Prince",
+          "judge_guid": "urn:entity:jud-100032063"
+        }
+      ]
+    }
+  ]
+}

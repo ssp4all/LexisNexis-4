@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_201m145_laed",
+  "case_key": "2:01m145_laed",
+  "case_lni": "7WBN-KD90-Y892-B1N6-00000-00",
+  "case_number": "2:01m145",
+  "case_title": "USA v. Morgan",
+  "case_info_full_case_name": "USA v. Morgan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morgan",
+  "case_date_filed": "2001-07-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duane Evans",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES R MORGAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(j) (o)(1)"
+        },
+        {
+          "charge_description": "18:922(j) and (o)(1) POSSESSED AND TRANSFERRED A STOLEN MACHINE GUN WHICH HAD PREVIOUSLY TRAVELED IN AND AFFECTING INTERSTATE COMMERCE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Duty Magistrate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_502m44_txnd",
+  "case_key": "5:02m44_txnd",
+  "case_lni": "7WBN-NV80-Y892-B2R8-00000-00",
+  "case_number": "5:02m44",
+  "case_title": "USA v. Santiago-Velasco",
+  "case_info_full_case_name": "USA v. Santiago-Velasco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Santiago-Velasco",
+  "case_date_filed": "2002-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DELFINO SANTIAGO-VELASCO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325 1329"
+        },
+        {
+          "charge_description": "8:1325 &; 1329 Being an alien, found in the US after having unlawfully and knowingly entered the US at a time and place other than as designated by immigration officers and did elude examination and inspection by immigration officers."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nancy M Koenig",
+          "judge_guid": "urn:entity:jud-100040094"
+        }
+      ]
+    }
+  ]
+}

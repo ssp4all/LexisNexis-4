@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_216mj251_PAWD",
+  "case_key": "2:16mj251_PAWD",
+  "case_lni": "5JB0-7RD1-DXDT-G38C-00000-00",
+  "case_number": "2:16mj251",
+  "case_title": "USA v. PLACZEK",
+  "case_info_full_case_name": "USA v. PLACZEK",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PLACZEK",
+  "case_date_filed": "2016-03-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSEPH E. PLACZEK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1028A.F, 18:506.F, 18:701.P"
+        },
+        {
+          "charge_offence_description": "18:1028A.F, 18:506.F, 18:701.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Maureen P. Kelly",
+          "judge_guid": "urn:entity:jud-100043184"
+        }
+      ]
+    }
+  ]
+}

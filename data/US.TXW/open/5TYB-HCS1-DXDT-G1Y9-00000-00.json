@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_418cr849_TXWD",
+  "case_key": "4:18cr849_TXWD",
+  "case_lni": "5TYB-HCS1-DXDT-G1Y9-00000-00",
+  "case_number": "4:18cr849",
+  "case_title": "USA v. Acosta Leyva",
+  "case_info_full_case_name": "USA v. Acosta Leyva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acosta Leyva",
+  "case_date_filed": "2018-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Manuel Acosta-Leyva",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 1546, Possess  false immigration document; 8 USC 1326(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1546.F  Fraud and Misuse of Visas/Permits"
+        },
+        {
+          "charge_offence_description": "18:1546.F  Fraud and Misuse of Visas/Permits"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    }
+  ]
+}

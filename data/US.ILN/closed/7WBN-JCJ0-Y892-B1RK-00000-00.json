@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_102cr1215_ilnd",
+  "case_key": "1:02cr1215_ilnd",
+  "case_lni": "7WBN-JCJ0-Y892-B1RK-00000-00",
+  "case_number": "1:02cr1215",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2002-12-12",
+  "case_status": "Closed",
+  "case_status_date": "08/13/2003",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antoine Johnson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841G=CP.F CONTROLLED SUBSTANCE - POSSESSION(1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of eighty-seven (87) months. This sentence is to run concurrently withy the sentence imposed 8/13/03 by this court in case no. 0 1 CR 826 and also concurrently with the sentence defendant is now serving in case no. 2001 TR43051, imposed 10/23/01 in the Circuit COurt of Milwaukee County, Wisconsin. The defendant is remanded to the custody of the United Stataes Marshal. Upon rel ease from imprisonment the defendant shall be on supervised release for a term of four (4) years. Criminal monetary penalties. schedule of payments."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Robert W. Gettleman",
+          "judge_guid": "urn:entity:jud-100054803"
+        }
+      ]
+    }
+  ]
+}

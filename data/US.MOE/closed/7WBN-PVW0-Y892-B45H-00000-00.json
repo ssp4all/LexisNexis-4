@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_193cr45_moed",
+  "case_key": "1:93cr45_moed",
+  "case_lni": "7WBN-PVW0-Y892-B45H-00000-00",
+  "case_number": "1:93cr45",
+  "case_title": "USA v. Puterbaugh",
+  "case_info_full_case_name": "USA v. Puterbaugh",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Puterbaugh",
+  "case_date_filed": "1993-11-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael A. Price, Asst. ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES LEE PUTERBAUGH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:287"
+        },
+        {
+          "charge_description": "18:287 FALSE CLAIMS &; STATEMENTS (1-28)"
+        },
+        {
+          "charge_disposition": "Indictment dismissed due to defendant's death on 5/11/94 (1-28)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Stephen N. Limbaugh",
+          "judge_guid": "urn:entity:jud-100029913"
+        }
+      ]
+    }
+  ]
+}

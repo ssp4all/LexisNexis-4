@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_702m1219_txsd",
+  "case_key": "7:02m1219_txsd",
+  "case_lni": "7WBN-P820-Y892-B3GJ-00000-00",
+  "case_number": "7:02m1219",
+  "case_title": "USA v. Garza, et al",
+  "case_info_full_case_name": "USA v. Garza, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garza, et al",
+  "case_date_filed": "2002-05-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS DIAZ-ORTEGA",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "CELESTINA QUIROZ-PLASENCIA",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Alien smuggling (Transporting)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_403cr1433_azd",
+  "case_key": "4:03cr1433_azd",
+  "case_lni": "7WBN-NBY0-Y892-B0KH-00000-00",
+  "case_number": "4:03cr1433",
+  "case_title": "USA v. Gonzalez-Robledo",
+  "case_info_full_case_name": "USA v. Gonzalez-Robledo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Robledo",
+  "case_date_filed": "2003-07-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HEBER GONZALEZ-ROBLEDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 8:1326 (b)(1)"
+        },
+        {
+          "charge_description": "8:1326 (enhanced by 8:1326 (b)(1) Re-entry after Deportation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Bury",
+          "judge_guid": "urn:entity:jud-100063659"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        }
+      ]
+    }
+  ]
+}

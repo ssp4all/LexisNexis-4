@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr3541_CASD",
+  "case_key": "3:18cr3541_CASD",
+  "case_lni": "5T1C-WXS1-DXDT-G014-00000-00",
+  "case_number": "3:18cr3541",
+  "case_title": "USA v. Castillo-Mayoral",
+  "case_info_full_case_name": "USA v. Castillo-Mayoral",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo-Mayoral",
+  "case_date_filed": "2018-08-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Kareem A. Salem",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Carlos Goku Castillo-Mayoral",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) - Transportation of Illegal Aliens (Felony)"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii) - Transportation of Illegal Al"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii), (v)(II), (a)(1)(B)(i) - Transportation of Certain Aliens for Financial Gain and Aiding and Abetting(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Barry Ted Moskowitz",
+          "judge_guid": "urn:entity:jud-100003500"
+        }
+      ]
+    },
+    {
+      "party_name": "Susano Cavich-Cavich",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Carlos Eduardo Martinez-Romero",
+      "party_description": "Material Witness"
+    }
+  ]
+}

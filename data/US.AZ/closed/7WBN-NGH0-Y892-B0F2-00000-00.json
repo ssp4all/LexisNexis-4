@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_406mj4994_AZD",
+  "case_key": "4:06mj4994_AZD",
+  "case_lni": "7WBN-NGH0-Y892-B0F2-00000-00",
+  "case_number": "4:06mj4994",
+  "case_title": "USA v. Gastelum-Garcia",
+  "case_info_full_case_name": "USA v. Gastelum-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gastelum-Garcia",
+  "case_date_filed": "2006-07-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Munish Sharda",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roemer Gastelum-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "CT:1 8:1326(a)(b)(1) CT:2 8:1325"
+        },
+        {
+          "charge_description": "CT:1 8:1326(a)(b)(1) REENTRY OF DEPORTED ALIEN; CT:2 8:1325 CONCEALMENT OF FACTS ABOUT REENTRY"
+        },
+        {
+          "charge_disposition": "BOP 90 days w/credit for time served; s/a remitted"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

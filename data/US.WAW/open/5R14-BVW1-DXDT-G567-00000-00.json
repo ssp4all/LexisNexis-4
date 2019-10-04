@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_317po7430_WAWD",
+  "case_key": "3:17po7430_WAWD",
+  "case_lni": "5R14-BVW1-DXDT-G567-00000-00",
+  "case_number": "3:17po7430",
+  "case_title": "USA vs Crawford",
+  "case_info_full_case_name": "USA vs Crawford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Crawford",
+  "case_date_filed": "2017-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Gregory R Crawford",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving while license suspended or revoked - 3rd degree (6209619)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David W. Christel",
+          "judge_guid": "urn:entity:jud-100062729"
+        }
+      ]
+    }
+  ]
+}

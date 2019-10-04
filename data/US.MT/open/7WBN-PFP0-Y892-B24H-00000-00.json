@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_905m47_MTD",
+  "case_key": "9:05m47_MTD",
+  "case_lni": "7WBN-PFP0-Y892-B24H-00000-00",
+  "case_number": "9:05m47",
+  "case_title": "USA v. Swartz",
+  "case_info_full_case_name": "USA v. Swartz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Swartz",
+  "case_date_filed": "2005-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KRISTI DAWN SWARTZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18;752(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Leif B. Erickson",
+          "judge_guid": "urn:entity:jud-100043552"
+        }
+      ]
+    }
+  ]
+}

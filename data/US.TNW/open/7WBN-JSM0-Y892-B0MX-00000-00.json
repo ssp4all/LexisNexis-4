@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_108cr10027_TNWD",
+  "case_key": "1:08cr10027_TNWD",
+  "case_lni": "7WBN-JSM0-Y892-B0MX-00000-00",
+  "case_number": "1:08cr10027",
+  "case_title": "USA v. Goff et al",
+  "case_info_full_case_name": "USA v. Goff et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Goff et al",
+  "case_date_filed": "2008-02-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Goff DEFENDANT",
+      "party_description": "(no label)",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James D. Todd",
+          "judge_guid": "urn:entity:jud-100006586"
+        }
+      ]
+    },
+    {
+      "party_name": "Kenneth Seward DEFENDANT",
+      "party_description": "(no label)",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James D. Todd",
+          "judge_guid": "urn:entity:jud-100006586"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_199cr235_txwd",
+  "case_key": "1:99cr235_txwd",
+  "case_lni": "7WBN-DK60-Y892-B40D-00000-00",
+  "case_number": "1:99cr235",
+  "case_title": "USA v. Bahena-Diaz",
+  "case_info_full_case_name": "USA v. Bahena-Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bahena-Diaz",
+  "case_date_filed": "1999-10-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUFINO BAHENA-DIAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8,USC, 1326."
+        },
+        {
+          "charge_description": "Defendant did-illegal reentry into the United States after removal/deportation as an aggravated felon in violation of Title 8, USC, Section 1326. [1:99-m-344]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James R. Nowlin",
+          "judge_guid": "urn:entity:jud-100027282"
+        }
+      ]
+    }
+  ]
+}

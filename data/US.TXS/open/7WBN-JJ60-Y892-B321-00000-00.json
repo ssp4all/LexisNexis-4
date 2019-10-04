@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_104cr962_TXSD",
+  "case_key": "1:04cr962_TXSD",
+  "case_lni": "7WBN-JJ60-Y892-B321-00000-00",
+  "case_number": "1:04cr962",
+  "case_title": "USA v. Tello-Castro",
+  "case_info_full_case_name": "USA v. Tello-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tello-Castro",
+  "case_date_filed": "2004-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Tello-Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Alien in possession of a firearm (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922A.F, 4,900"
+        },
+        {
+          "charge_description": "18:922A.F, knowingly and unlawfully, being an alient, admitted to the United States under a nonimmigrant visa, shipped or transported in interstate or foreign commerce, or possessed in or affecting commerce 4,900 rounds of assorted ammunition."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

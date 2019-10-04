@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_212cr1497_AZD",
+  "case_key": "2:12cr1497_AZD",
+  "case_lni": "56BC-G7X1-DXDT-G064-00000-00",
+  "case_number": "2:12cr1497",
+  "case_title": "USA v. Larios",
+  "case_info_full_case_name": "USA v. Larios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Larios",
+  "case_date_filed": "2012-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Maria Rodriguez Gutierrez",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Julio Cesar Larios",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a) and (b)(1) Reentry of Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)(1)-Re-entry"
+        },
+        {
+          "charge_description": "8:1326(a) enhanced by (b)(1)-Re-entry After Removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David G Campbell",
+          "judge_guid": "urn:entity:jud-100059869"
+        }
+      ]
+    }
+  ]
+}

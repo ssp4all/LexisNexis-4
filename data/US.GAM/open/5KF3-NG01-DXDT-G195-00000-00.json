@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_516cr51_GAMD",
+  "case_key": "5:16cr51_GAMD",
+  "case_lni": "5KF3-NG01-DXDT-G195-00000-00",
+  "case_number": "5:16cr51",
+  "case_title": "UNITED STATES OF AMERICA v. MCCORMAC",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. MCCORMAC",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "MCCORMAC",
+  "case_date_filed": "2016-08-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "C SHANELLE BOOKER",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER E MCCORMAC",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE - Possession with Intent to Distribute Methamphetamine(1s)"
+        },
+        {
+          "charge_disposition": "48 months imprisonment; 3 years supervised release; $100 MAF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A)(viii) CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE - Possession with Intent to Distribute Methamphetamine(1)"
+        },
+        {
+          "charge_disposition": "Count superseded"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "MARC THOMAS TREADWELL",
+          "judge_guid": "urn:entity:jud-100006279"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

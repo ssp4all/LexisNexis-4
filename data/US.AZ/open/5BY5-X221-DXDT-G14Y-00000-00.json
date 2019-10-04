@@ -1,0 +1,112 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414cr662_AZD",
+  "case_key": "4:14cr662_AZD",
+  "case_lni": "5BY5-X221-DXDT-G14Y-00000-00",
+  "case_number": "4:14cr662",
+  "case_title": "USA v. Knox et al",
+  "case_info_full_case_name": "USA v. Knox et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Knox et al",
+  "case_date_filed": "2014-04-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ryan Philip DeJoe",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tyrone Marquis Knox",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Marijuana(1)"
+        },
+        {
+          "charge_disposition": "Defendant is placed on probation for a term of THREE (3) YEARS; Special Assessment $100.00, to be paid in full by 3/15/2015"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D) Possession with Intent to Distribute Marijuana(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CT 1: 21:841(a)(1) and (b)(1)(D) Possession with Intent to Distribute Marijuana; All in Violation of 21:846 Conspiracy to Possess with Intent to Distribute Marijuana; CT 2: 21:844(a) Simple Possession of Marijuana"
+        },
+        {
+          "charge_offence_description": "CT 1: 21:841(a)(1) and (b)(1)(D) Possession with I"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    },
+    {
+      "party_name": "Charles Joseph Tillman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 Conspiracy to Possess with Intent to Distribute Marijuana(1)"
+        },
+        {
+          "charge_disposition": "Defendant placed on probation for a term of FOUR (4) YEARS; Special Assessment $100.00, to be paid in full by 3/15/2015; 6/9/2016 REVOKING PROBATION; Defendant is committed to the Bureau of Prisons for a term of FIVE (5) MONTHS, with a term of THREE (3) YEARS supervised release to follow; REVOKED 2/12/2018 defendant is committed to the custody of the Bureau of Prisons for a term of TEN (10) MONTHS, with credit for time served, with no term of supervised release to follow"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D) Possession with Intent to Distribute Marijuana(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CT 1: 21:841(a)(1) and (b)(1)(D) Possession with Intent to Distribute Marijuana; All in Violation of 21:846 Conspiracy to Possess with Intent to Distribute Marijuana; CT 2: 21:844(a) Simple Possession of Marijuana"
+        },
+        {
+          "charge_offence_description": "CT 1: 21:841(a)(1) and (b)(1)(D) Possession with I"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

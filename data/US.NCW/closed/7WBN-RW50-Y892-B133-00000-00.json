@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_392cr298_ncwd",
+  "case_key": "3:92cr298_ncwd",
+  "case_lni": "7WBN-RW50-Y892-B133-00000-00",
+  "case_number": "3:92cr298",
+  "case_title": "USA v. Scearcy et al",
+  "case_info_full_case_name": "USA v. Scearcy et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Scearcy et al",
+  "case_date_filed": "1992-12-11",
+  "case_status": "Closed",
+  "case_status_date": "12/29/1994",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Scearcy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Original: 30 mos imprisonment on counts 1&;2 to run concurrent, 5 years supervised release, $1,500 fine, $100 assessment. 3582 Sentence Reduction: 242 months imprisonment, all provisions of the 12/5/1994 judgment remain in effect"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "Original: 30 mos imprisonment on counts 1&;2 to run concurrent, 5 years supervised release, $1,500 fine, $100 assessment. 3582 Sentence Reduction: 242 months imprisonment, all provisions of the 12/5/1994 judgment remain in effect"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Frank D. Whitney",
+          "judge_guid": "urn:entity:jud-100071610"
+        }
+      ]
+    },
+    {
+      "party_name": "Norman Timothy Williams",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Frank D. Whitney",
+          "judge_guid": "urn:entity:jud-100071610"
+        }
+      ]
+    }
+  ]
+}

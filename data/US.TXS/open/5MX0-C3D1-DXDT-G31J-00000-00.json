@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_517mj184_TXSD",
+  "case_key": "5:17mj184_TXSD",
+  "case_lni": "5MX0-C3D1-DXDT-G31J-00000-00",
+  "case_number": "5:17mj184",
+  "case_title": "USA v. Marin-Montes",
+  "case_info_full_case_name": "USA v. Marin-Montes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marin-Montes",
+  "case_date_filed": "2017-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Zacarias Marin-Montes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

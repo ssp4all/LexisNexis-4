@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_198cr360_ncmd",
+  "case_key": "1:98cr360_ncmd",
+  "case_lni": "7WBN-DK60-Y892-B2DK-00000-00",
+  "case_number": "1:98cr360",
+  "case_title": "USA v. PENA GONZALES",
+  "case_info_full_case_name": "USA v. PENA GONZALES",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PENA GONZALES",
+  "case_date_filed": "1998-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GUADALUPE PENA GONZALES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a) &; (b)(2) Reentry of deported alien felon (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) (b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a) &; (b)(2) Reentry of deported alien felon [1:98-m-627]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "N. CARLTON TILLEY, JR.",
+          "judge_guid": "urn:entity:jud-100014675"
+        }
+      ]
+    }
+  ]
+}

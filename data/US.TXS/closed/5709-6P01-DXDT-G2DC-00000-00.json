@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_512po11766_TXSD",
+  "case_key": "5:12po11766_TXSD",
+  "case_lni": "5709-6P01-DXDT-G2DC-00000-00",
+  "case_number": "5:12po11766",
+  "case_title": "USA v. Machado-Perdomo",
+  "case_info_full_case_name": "USA v. Machado-Perdomo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Machado-Perdomo",
+  "case_date_filed": "2012-11-06",
+  "case_status": "Closed",
+  "case_status_date": "11/06/2012",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jersin Alberto Machado-Perdomo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

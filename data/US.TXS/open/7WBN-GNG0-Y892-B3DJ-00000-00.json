@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_204cr188_TXSD",
+  "case_key": "2:04cr188_TXSD",
+  "case_lni": "7WBN-GNG0-Y892-B3DJ-00000-00",
+  "case_number": "2:04cr188",
+  "case_title": "USA v. Trejo",
+  "case_info_full_case_name": "USA v. Trejo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trejo",
+  "case_date_filed": "2004-04-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - C",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EMILIO TREJO JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "98.73 cocaine-21USC841(a)(1) 841(b)(1)(A) 3/3/04 10 5"
+        },
+        {
+          "charge_description": "Did knowingly and intentionally possess with intent to distribute approximately 98.73 kilograms of cocaine-21 USC 841(a)(1) and 841(b)(1)(A) DATE OF OFFENSE: 3/3/04 PENALTY: Not less than 10 years nor more than life imprisonment without probation, parole or suspended sentence, a fine of up to $4 million, at least 5 years SRT, a $100 Special Assessment, and community restitution up to the amount of any fine imposed by the court. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1970, 124.1"
+        },
+        {
+          "charge_description": "Deft. did knowingly, intentionally, and unlawfully possess with intent to distribute a controlled substance in Schedule II of the Controlled Substance Act of 1970, to wit: 124.1 kilograms (approximate gross weight) of cocaine. [2:04-m-201]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Hayden W. Head, Jr",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    }
+  ]
+}

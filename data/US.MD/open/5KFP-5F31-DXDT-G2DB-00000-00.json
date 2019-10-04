@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_816po6491_MDD",
+  "case_key": "8:16po6491_MDD",
+  "case_lni": "5KFP-5F31-DXDT-G2DB-00000-00",
+  "case_number": "8:16po6491",
+  "case_title": "USA vs Lateer",
+  "case_info_full_case_name": "USA vs Lateer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lateer",
+  "case_date_filed": "2016-08-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Andrews Air Force Base",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sharaf M Lateer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVER FAIL TO STOP AT FLASHING RED TRAFFIC SIGNAL STOP LINE (5034906)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles B. Day",
+          "judge_guid": "urn:entity:jud-100057310"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_101cr15_pawd",
+  "case_key": "1:01cr15_pawd",
+  "case_lni": "7WBN-J9C0-Y892-B3S3-00000-00",
+  "case_number": "1:01cr15",
+  "case_title": "USA v. ORR",
+  "case_info_full_case_name": "USA v. ORR",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ORR",
+  "case_date_filed": "2001-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RANDY ORR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1, 18USC2113(a)"
+        },
+        {
+          "charge_description": "Count 1, 18 U.S.C. 2113(a) Bank Robbery. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "2, 18USC2113(d),"
+        },
+        {
+          "charge_description": "Count 2, 18 U.S.C. 2113(d), Use of a dangerous weapon in connection with bank robbery. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "7395 18USCs 2113(a) 2113(d)"
+        },
+        {
+          "charge_description": "charging defendant did take from the presence of another, by force, violence and intimidation, money, namely $65,468.00, belonging to and in the care, custody, control and management of the PHB Employees Federal Credit Union, 7395 West Ridge Road, Fairview, PA., a credit union whose deposits were then insured by the National Credit Union Administration, in violation of Title 18, United States Code, Sections 2113(a) and 2113(d) [1:01-m-28]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sean J. McLaughlin",
+          "judge_guid": "urn:entity:jud-100040676"
+        }
+      ]
+    }
+  ]
+}

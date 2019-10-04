@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_107cr20748_FLSD",
+  "case_key": "1:07cr20748_FLSD",
+  "case_lni": "7WBN-JPC0-Y892-B51W-00000-00",
+  "case_number": "1:07cr20748",
+  "case_title": "USA v. Laveaux",
+  "case_info_full_case_name": "USA v. Laveaux",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Laveaux",
+  "case_date_filed": "2007-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francois Laveaux",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NARCOTICS - SELL/DISTRIBUTE/DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "400 Months with Bureau of Prisons, to run concurrent with Counts 2,8,9,10,11,12,13 of docket number 04-20233-CR-Martinez; and Count 1(s)of docket number 06-20791-CR-Martinez; followed by 5 years supervised release, all to run concurrently; $900 special assessment. AMENDED: IMPRISONMENT FOR A TOTAL TERM OF 240 MONTHS AS TO COUNT ONE OF DOCKET 06-20791-CR-MARTINEZ; COUNTS TWO,EIGHT,NINE,TEN,ELEVEN,TWELVE,THIRTEEN OF DOCKET 04-20233-CR-MARTINEZ; AND COUNT ONE OF DOCKET 07-20748-CR-MARTINEZ. TO BE SERVED CONCURRENTLY ; SUPERVISED RELEASE: 5 YEARS; ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY NARCOTICS SELL/DISTR/DISP/COCAINE(2)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jose E. Martinez",
+          "judge_guid": "urn:entity:jud-100041490"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_391m558_casd",
+  "case_key": "3:91m558_casd",
+  "case_lni": "7WBN-DTF0-Y892-B2G6-00000-00",
+  "case_number": "3:91m558",
+  "case_title": "USA v. Heras-Burgeno",
+  "case_info_full_case_name": "USA v. Heras-Burgeno",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Heras-Burgeno",
+  "case_date_filed": "1991-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAUL HERAS-BURGENO",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Harry R. McCue",
+          "judge_guid": "urn:entity:jud-100010917"
+        }
+      ]
+    }
+  ]
+}

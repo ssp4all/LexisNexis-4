@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_494m1054_gamd",
+  "case_key": "4:94m1054_gamd",
+  "case_lni": "7WBN-NMY0-Y892-B1H3-00000-00",
+  "case_number": "4:94m1054",
+  "case_title": "USA v. Carroll",
+  "case_info_full_case_name": "USA v. Carroll",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carroll",
+  "case_date_filed": "1994-08-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROY A. CARROLL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, OTHER (1)"
+        },
+        {
+          "charge_disposition": "Judgment of Acquittal (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William L. Slaughter",
+          "judge_guid": "urn:entity:jud-100091357"
+        }
+      ]
+    }
+  ]
+}

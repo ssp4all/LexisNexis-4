@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_210mj232_INND",
+  "case_key": "2:10mj232_INND",
+  "case_lni": "51MR-VC01-DXDT-G2KW-00000-00",
+  "case_number": "2:10mj232",
+  "case_title": "United States of America v. Application for Seizure Warrant",
+  "case_info_full_case_name": "United States of America v. Application for Seizure Warrant",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Application for Seizure Warrant",
+  "case_date_filed": "2010-12-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Application for Seizure Warrant",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrew P Rodovich",
+          "judge_guid": "urn:entity:jud-100001577"
+        }
+      ]
+    }
+  ]
+}

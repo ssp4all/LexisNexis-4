@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_107cr217_ALSD",
+  "case_key": "1:07cr217_ALSD",
+  "case_lni": "7WBN-F440-Y892-B0G0-00000-00",
+  "case_number": "1:07cr217",
+  "case_title": "USA v. Rueda-Betancourth",
+  "case_info_full_case_name": "USA v. Rueda-Betancourth",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rueda-Betancourth",
+  "case_date_filed": "2007-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "D. ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bernardo Rueda-Betancourth",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FALSE USE/REPRESENTATION OF A SOCIAL SECURITY NUMBER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William H. Steele",
+          "judge_guid": "urn:entity:jud-100020155"
+        }
+      ]
+    }
+  ]
+}

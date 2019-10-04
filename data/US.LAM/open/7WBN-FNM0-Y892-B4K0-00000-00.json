@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAM_398m31_lamd",
+  "case_key": "3:98m31_lamd",
+  "case_lni": "7WBN-FNM0-Y892-B4K0-00000-00",
+  "case_number": "3:98m31",
+  "case_title": "USA v. Cooper",
+  "case_info_full_case_name": "USA v. Cooper",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cooper",
+  "case_date_filed": "1998-06-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mary Patricia Jones",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES M. COOPER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2252"
+        },
+        {
+          "charge_description": "knowingly received by mail visual depictions of minors engaging in sexually explicit conduct, the producting of which involved the use of minors engaging in such conduct, and did knowingly cause obscene matters to be delivered by mail in violation of Title 18 USC 2252 and 1461."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Christine Noland",
+          "judge_guid": "urn:entity:jud-100031414"
+        }
+      ]
+    }
+  ]
+}

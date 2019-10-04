@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_109cr307_NYED",
+  "case_key": "1:09cr307_NYED",
+  "case_lni": "7WBN-JVD0-Y892-B4B7-00000-00",
+  "case_number": "1:09cr307",
+  "case_title": "USA v. Wenhardt",
+  "case_info_full_case_name": "USA v. Wenhardt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wenhardt",
+  "case_date_filed": "2009-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Wenhardt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A.F"
+        },
+        {
+          "charge_description": "ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO (1-8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Allyne R. Ross",
+          "judge_guid": "urn:entity:jud-100011580"
+        }
+      ]
+    }
+  ]
+}

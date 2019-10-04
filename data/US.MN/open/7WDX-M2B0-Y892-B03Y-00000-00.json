@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_009mj317_MND",
+  "case_key": "0:09mj317_MND",
+  "case_lni": "7WDX-M2B0-Y892-B03Y-00000-00",
+  "case_number": "0:09mj317",
+  "case_title": "USA v. Search Warrant",
+  "case_info_full_case_name": "USA v. Search Warrant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Search Warrant",
+  "case_date_filed": "2009-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Richard A Newberry , Jr",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Search Warrant",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Janie S. Mayeron",
+          "judge_guid": "urn:entity:jud-100041289"
+        }
+      ]
+    }
+  ]
+}

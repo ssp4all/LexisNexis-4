@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_312mj2066_CASD",
+  "case_key": "3:12mj2066_CASD",
+  "case_lni": "55T3-4XP1-DXDT-G25V-00000-00",
+  "case_number": "3:12mj2066",
+  "case_title": "USA v. Ocampo-Torraez",
+  "case_info_full_case_name": "USA v. Ocampo-Torraez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ocampo-Torraez",
+  "case_date_filed": "2012-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Armando Ocampo-Torraez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326-Deported"
+        },
+        {
+          "charge_description": "8:1326-Deported Alien Found in the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mitchell D. Dembin",
+          "judge_guid": "urn:entity:jud-100044786"
+        }
+      ]
+    }
+  ]
+}

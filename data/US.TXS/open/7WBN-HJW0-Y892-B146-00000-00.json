@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_403m1133_txsd",
+  "case_key": "4:03m1133_txsd",
+  "case_lni": "7WBN-HJW0-Y892-B146-00000-00",
+  "case_number": "4:03m1133",
+  "case_title": "USA v. Hayes",
+  "case_info_full_case_name": "USA v. Hayes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hayes",
+  "case_date_filed": "2003-11-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1:03-cr-62GG;"
+        },
+        {
+          "charge_description": "Indictment from the Southern District of Mississippi, Case number 1:03-cr-62GG; Biloxi Division;"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Calvin Botley",
+          "judge_guid": "urn:entity:jud-100064651"
+        }
+      ]
+    }
+  ]
+}

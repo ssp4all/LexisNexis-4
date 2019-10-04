@@ -1,0 +1,110 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_205cr742_CACD",
+  "case_key": "2:05cr742_CACD",
+  "case_lni": "7WBN-GP90-Y892-B43T-00000-00",
+  "case_number": "2:05cr742",
+  "case_title": "USA v. Lopez",
+  "case_info_full_case_name": "USA v. Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez",
+  "case_date_filed": "2005-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GILBERTO JOSE LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846."
+        },
+        {
+          "charge_description": "Defendant in violation of 21:846. [2:05-m-1522]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Spencer Letts",
+          "judge_guid": "urn:entity:jud-100039162"
+        }
+      ]
+    },
+    {
+      "party_name": "ALEXANDER WILLIAMS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846."
+        },
+        {
+          "charge_description": "Defendant in violation of 21:846. [2:05-m-1522]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Spencer Letts",
+          "judge_guid": "urn:entity:jud-100039162"
+        }
+      ]
+    },
+    {
+      "party_name": "ARTURO ROSAS SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(B)"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(B) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846."
+        },
+        {
+          "charge_description": "Defendant in violation of 21:846. [2:05-m-1522]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Spencer Letts",
+          "judge_guid": "urn:entity:jud-100039162"
+        }
+      ]
+    }
+  ]
+}

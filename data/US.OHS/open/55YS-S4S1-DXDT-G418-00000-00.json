@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_312po77_OHSD",
+  "case_key": "3:12po77_OHSD",
+  "case_lni": "55YS-S4S1-DXDT-G418-00000-00",
+  "case_number": "3:12po77",
+  "case_title": "USA v. Shaver",
+  "case_info_full_case_name": "USA v. Shaver",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shaver",
+  "case_date_filed": "2012-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Julienne McCammon",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Derrick Shaver",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael R Merz",
+          "judge_guid": "urn:entity:jud-100025999"
+        }
+      ]
+    }
+  ]
+}

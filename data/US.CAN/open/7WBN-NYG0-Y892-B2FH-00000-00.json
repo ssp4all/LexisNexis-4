@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_507mj70106_CAND",
+  "case_key": "5:07mj70106_CAND",
+  "case_lni": "7WBN-NYG0-Y892-B2FH-00000-00",
+  "case_number": "5:07mj70106",
+  "case_title": "USA v. Marrick",
+  "case_info_full_case_name": "USA v. Marrick",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marrick",
+  "case_date_filed": "2007-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Thomas M. O'Connell",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael J. Marrick",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Howard R. Lloyd",
+          "judge_guid": "urn:entity:jud-100009008"
+        }
+      ]
+    }
+  ]
+}

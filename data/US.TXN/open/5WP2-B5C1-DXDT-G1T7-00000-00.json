@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_419cr278_TXND",
+  "case_key": "4:19cr278_TXND",
+  "case_lni": "5WP2-B5C1-DXDT-G1T7-00000-00",
+  "case_number": "4:19cr278",
+  "case_title": "USA v. Stephens",
+  "case_info_full_case_name": "USA v. Stephens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stephens",
+  "case_date_filed": "2019-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Danielle Renee Jones - DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Not Admitted"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cindy Sheree Stephens",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC ยง 641 Theft of Government Funds(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "42 USC ยง 408(a)(3) False Statement to the Social Security Administration(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "John McBryde",
+          "judge_guid": "urn:entity:jud-100041223"
+        }
+      ]
+    }
+  ]
+}

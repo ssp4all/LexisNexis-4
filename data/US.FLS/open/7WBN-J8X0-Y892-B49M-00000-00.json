@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_100m3050_flsd",
+  "case_key": "1:00m3050_flsd",
+  "case_lni": "7WBN-J8X0-Y892-B49M-00000-00",
+  "case_number": "1:00m3050",
+  "case_title": "USA v. Fisher",
+  "case_info_full_case_name": "USA v. Fisher",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fisher",
+  "case_date_filed": "2000-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIE MAE FISHER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1542;"
+        },
+        {
+          "charge_description": "False Statement in the Application for a Passport; 18:1542; 1621"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Ted E. Bandstra",
+          "judge_guid": "urn:entity:jud-100052182"
+        }
+      ]
+    }
+  ]
+}

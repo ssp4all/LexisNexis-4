@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_111mj110_TXSD",
+  "case_key": "1:11mj110_TXSD",
+  "case_lni": "51VX-W3M1-DXDT-G53J-00000-00",
+  "case_number": "1:11mj110",
+  "case_title": "USA v. Pena-Castillo",
+  "case_info_full_case_name": "USA v. Pena-Castillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pena-Castillo",
+  "case_date_filed": "2011-01-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Carlos Pena-Castillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)F"
+        },
+        {
+          "charge_description": "8:1326(a)F Knowingly and unlawfully was present in the United States after having been previously denied admission, excluded, deported, and removed."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ronald G. Morgan",
+          "judge_guid": "urn:entity:jud-100015902"
+        }
+      ]
+    }
+  ]
+}

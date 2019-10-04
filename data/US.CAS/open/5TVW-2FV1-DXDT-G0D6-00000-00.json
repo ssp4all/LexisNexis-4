@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_218mj11463_CASD",
+  "case_key": "2:18mj11463_CASD",
+  "case_lni": "5TVW-2FV1-DXDT-G0D6-00000-00",
+  "case_number": "2:18mj11463",
+  "case_title": "USA v. Velasquez-Luna",
+  "case_info_full_case_name": "USA v. Velasquez-Luna",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Velasquez-Luna",
+  "case_date_filed": "2018-12-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Olbin Dagoberto Velasquez-Luna",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325(a)(2) - Illegal Entry (Misdemeanor)"
+        },
+        {
+          "charge_disposition": "Custody of the BOP for a term of TIME SERVED. No Fine. $10.00 S/A - Waived"
+        },
+        {
+          "charge_offence_description": "8:1325(a)(2) - Illegal Entry (Misdemeanor)\t\t\t\t\t\t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William Q. Hayes",
+          "judge_guid": "urn:entity:jud-100046969"
+        }
+      ]
+    }
+  ]
+}

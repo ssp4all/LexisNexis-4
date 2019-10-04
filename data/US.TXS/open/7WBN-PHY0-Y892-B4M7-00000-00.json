@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_100m4139_txsd",
+  "case_key": "1:00m4139_txsd",
+  "case_lni": "7WBN-PHY0-Y892-B4M7-00000-00",
+  "case_number": "1:00m4139",
+  "case_title": "USA v. Rosales, et al",
+  "case_info_full_case_name": "USA v. Rosales, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rosales, et al",
+  "case_date_filed": "2000-08-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 846 1"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 846 Consp. and knowingly possess w/i to dist. approx. 1 kilogram of cocaine."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 846 1"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 846 Consp. and knowingly possess w/i to dist. approx. 1 kilogram of cocaine."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

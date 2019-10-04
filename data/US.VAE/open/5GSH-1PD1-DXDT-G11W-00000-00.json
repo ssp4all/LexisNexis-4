@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_115po2709_VAED",
+  "case_key": "1:15po2709_VAED",
+  "case_lni": "5GSH-1PD1-DXDT-G11W-00000-00",
+  "case_number": "1:15po2709",
+  "case_title": "USA vs Bowers",
+  "case_info_full_case_name": "USA vs Bowers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bowers",
+  "case_date_filed": "2015-08-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Joshua A Bowers",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "EXCEEDING MAXIMUM SPEED LIMITS (4843767)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

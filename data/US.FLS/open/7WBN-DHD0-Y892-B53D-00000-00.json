@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_107mj3113_FLSD",
+  "case_key": "1:07mj3113_FLSD",
+  "case_lni": "7WBN-DHD0-Y892-B53D-00000-00",
+  "case_number": "1:07mj3113",
+  "case_title": "USA v. Dieguez",
+  "case_info_full_case_name": "USA v. Dieguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dieguez",
+  "case_date_filed": "2007-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jaime Dieguez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patrick A. White",
+          "judge_guid": "urn:entity:jud-100080700"
+        }
+      ]
+    }
+  ]
+}

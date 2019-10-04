@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VT_202m72_vtd",
+  "case_key": "2:02m72_vtd",
+  "case_lni": "7WBN-R3T0-Y892-B45G-00000-00",
+  "case_number": "2:02m72",
+  "case_title": "USA v. Bouchard, et al",
+  "case_info_full_case_name": "USA v. Bouchard, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bouchard, et al",
+  "case_date_filed": "2002-11-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PASCAL BOUCHARD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31:5332(a)-conceal"
+        },
+        {
+          "charge_description": "31:5332(a)-conceal more than $10,000 to evade currency reporting requirements"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jerome J. Niedermeier",
+          "judge_guid": "urn:entity:jud-100031501"
+        }
+      ]
+    },
+    {
+      "party_name": "SEBASTIEN RIENOUX",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31:5332(a)-conceal"
+        },
+        {
+          "charge_description": "31:5332(a)-conceal more than $10,000 to evade currency reporting requirements"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jerome J. Niedermeier",
+          "judge_guid": "urn:entity:jud-100031501"
+        }
+      ]
+    }
+  ]
+}

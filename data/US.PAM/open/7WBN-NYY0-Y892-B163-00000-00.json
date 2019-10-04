@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAM_508mj116_PAMD",
+  "case_key": "5:08mj116_PAMD",
+  "case_lni": "7WBN-NYY0-Y892-B163-00000-00",
+  "case_number": "5:08mj116",
+  "case_title": "USA v. Gunn",
+  "case_info_full_case_name": "USA v. Gunn",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gunn",
+  "case_date_filed": "2008-12-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Steven Calvin Gunn",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Malachy E. Mannion",
+          "judge_guid": "urn:entity:jud-100104569"
+        }
+      ]
+    }
+  ]
+}

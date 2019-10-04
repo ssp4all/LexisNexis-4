@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_313cr30171_SDD",
+  "case_key": "3:13cr30171_SDD",
+  "case_lni": "59G6-1BX1-DXDT-G053-00000-00",
+  "case_number": "3:13cr30171",
+  "case_title": "USA v. Serra",
+  "case_info_full_case_name": "USA v. Serra",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Serra",
+  "case_date_filed": "2013-09-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Meghan N. Dilges",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Salvadore Serra",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_name": "Roberto A. Lange",
+          "judge_guid": "urn:entity:jud-100035621"
+        },
+        {
+          "judge_name": "US Magistrate Judge Mark A. Moreno",
+          "judge_guid": "urn:entity:jud-100032290"
+        }
+      ]
+    }
+  ]
+}

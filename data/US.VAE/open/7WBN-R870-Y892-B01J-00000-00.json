@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_206mj414_VAED",
+  "case_key": "2:06mj414_VAED",
+  "case_lni": "7WBN-R870-Y892-B01J-00000-00",
+  "case_number": "2:06mj414",
+  "case_title": "USA v. Lindsey",
+  "case_info_full_case_name": "USA v. Lindsey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lindsey",
+  "case_date_filed": "2006-11-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Geoff Garner",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Freddie L. Lindsey Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:7 13,"
+        },
+        {
+          "charge_description": "18:7 &; 13, Assim. Code of VA., Driving while suspended or revoked, second offense. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

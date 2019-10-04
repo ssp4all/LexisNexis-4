@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_202m2047_arwd",
+  "case_key": "2:02m2047_arwd",
+  "case_lni": "7WBN-F8J0-Y892-B2M5-00000-00",
+  "case_number": "2:02m2047",
+  "case_title": "USA v. Atchison",
+  "case_info_full_case_name": "USA v. Atchison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Atchison",
+  "case_date_filed": "2002-10-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TOMMY-ATCHISON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC, 841(a)(1)"
+        },
+        {
+          "charge_description": "21 U.S.C., Section 841(a)(1) CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Beverly Stites Jones",
+          "judge_guid": "urn:entity:jud-100075652"
+        }
+      ]
+    }
+  ]
+}

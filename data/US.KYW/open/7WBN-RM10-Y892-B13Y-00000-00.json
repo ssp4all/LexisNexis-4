@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_301cr95_kywd",
+  "case_key": "3:01cr95_kywd",
+  "case_lni": "7WBN-RM10-Y892-B13Y-00000-00",
+  "case_number": "3:01cr95",
+  "case_title": "USA v. Zartman",
+  "case_info_full_case_name": "USA v. Zartman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zartman",
+  "case_date_filed": "2001-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "A. McKay Chauvin, AUSA",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRADLEY R. ZARTMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2113(a)"
+        },
+        {
+          "charge_description": "18:2113(a) BANK ROBBERY BY FORCE, VIOLENCE AND INTIMIDATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2113(d)"
+        },
+        {
+          "charge_description": "18:2113(d) BANK ROBBERY BY USE OF A HANDGUN (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c)"
+        },
+        {
+          "charge_description": "18:924(c) USE OF A FIREARM IN CRIME OF VIOLENCE, BANK ROBBERY (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas B. Russell",
+          "judge_guid": "urn:entity:jud-100000670"
+        }
+      ]
+    }
+  ]
+}

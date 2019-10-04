@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_616mj621_TXWD",
+  "case_key": "6:16mj621_TXWD",
+  "case_lni": "5J1K-59J1-DXDT-G095-00000-00",
+  "case_number": "6:16mj621",
+  "case_title": "USA v. Beniquez",
+  "case_info_full_case_name": "USA v. Beniquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beniquez",
+  "case_date_filed": "2016-02-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Garry Beniquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-1500.P - SIMPLE ASSAULT(1s)"
+        },
+        {
+          "charge_disposition": "6 Months Deferred Adjudication Probation, Fine $350, S/A $5"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "18:113E.M - SIMPLE ASSAULT WITHIN MARITIME AND TERRITORIAL JURISDICTION(1)"
+        },
+        {
+          "charge_disposition": "Dismissed per Governments Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

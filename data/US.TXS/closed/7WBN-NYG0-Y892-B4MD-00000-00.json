@@ -1,0 +1,101 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_508cr375_TXSD",
+  "case_key": "5:08cr375_TXSD",
+  "case_lni": "7WBN-NYG0-Y892-B4MD-00000-00",
+  "case_number": "5:08cr375",
+  "case_title": "USA v. Romero",
+  "case_info_full_case_name": "USA v. Romero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero",
+  "case_date_filed": "2008-03-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Brian G Sardelli",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "James L Turner",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Pablo Romero",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=CI.F--Controlled"
+        },
+        {
+          "charge_description": "21:952=CI.F--Controlled substance-Import"
+        },
+        {
+          "charge_disposition": "123 mos to serve concurrent to each count; 5 yrs tsr, usual terms apply, concurrent; DNA sample; $300 cvf; fine waived; deportation; advised of right to appeal."
+        },
+        {
+          "charge_statute": "approximatley.77 5 40 4"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute approximatley.77 kilograms of heroin. PENALTY: 5 yrs min to 40 yrs and/or $250,000.00, $100 cvf, 4 yrs tsr (1)"
+        },
+        {
+          "charge_disposition": "123 mos to serve concurrent to each count; 5 yrs tsr, usual terms apply, concurrent; DNA sample; $300 cvf; fine waived; deportation; advised of right to appeal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "approximately.77 5 40 4"
+        },
+        {
+          "charge_description": "Possess with intent to distribute approximately.77 kilograms of heroin. PENALTY: 5 yrs min to 40 yrs and/or $250,000.00, $100 cvf, 4 yrs tsr (2)"
+        },
+        {
+          "charge_disposition": "123 mos to serve concurrent to each count; 5 yrs tsr, usual terms apply, concurrent; DNA sample; $300 cvf; fine waived; deportation; advised of right to appeal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 40 4"
+        },
+        {
+          "charge_description": "Importation of a Schedule I controlled substance. PENALTY: 5 yrs min to 40 yrs and/or $250,000.00, $100 cvf, 4 yrs tsr (3)"
+        },
+        {
+          "charge_disposition": "123 mos to serve concurrent to each count; 5 yrs tsr, usual terms apply, concurrent; DNA sample; $300 cvf; fine waived; deportation; advised of right to appeal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Micaela Alvarez",
+          "judge_guid": "urn:entity:jud-100074526"
+        }
+      ]
+    }
+  ]
+}

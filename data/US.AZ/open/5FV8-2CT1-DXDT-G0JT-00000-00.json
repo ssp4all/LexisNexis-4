@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_215po60366_AZD",
+  "case_key": "2:15po60366_AZD",
+  "case_lni": "5FV8-2CT1-DXDT-G0JT-00000-00",
+  "case_number": "2:15po60366",
+  "case_title": "USA v. Sandoval-Ramirez",
+  "case_info_full_case_name": "USA v. Sandoval-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval-Ramirez",
+  "case_date_filed": "2015-04-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John Andrew Ballos",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Martin Alberto Sandoval-Ramirez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A Buttrick",
+          "judge_guid": "urn:entity:jud-100106722"
+        }
+      ]
+    }
+  ]
+}

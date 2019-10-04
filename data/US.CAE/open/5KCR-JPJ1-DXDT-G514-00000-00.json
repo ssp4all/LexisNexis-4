@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_116po176_CAED",
+  "case_key": "1:16po176_CAED",
+  "case_lni": "5KCR-JPJ1-DXDT-G514-00000-00",
+  "case_number": "1:16po176",
+  "case_title": "USA vs Esparza",
+  "case_info_full_case_name": "USA vs Esparza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Esparza",
+  "case_date_filed": "2016-08-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Paul Esparza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failure to Comply with the Directions of a Traffic Control Device (4698751)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stanley A. Boone",
+          "judge_guid": "urn:entity:jud-100103342"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_418po1253_WYD",
+  "case_key": "4:18po1253_WYD",
+  "case_lni": "5TVW-2FT1-DXDT-G37X-00000-00",
+  "case_number": "4:18po1253",
+  "case_title": "USA vs Hall",
+  "case_info_full_case_name": "USA vs Hall",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hall",
+  "case_date_filed": "2018-11-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David L Hall",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Any person op an off-road vehicle on trails designated as limited shall conform (7096281)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Kelly H Rankin",
+          "judge_guid": "urn:entity:jud-100104788"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_202m65_utd",
+  "case_key": "2:02m65_utd",
+  "case_lni": "7WBN-KH20-Y892-B0B9-00000-00",
+  "case_number": "2:02m65",
+  "case_title": "USA v. Rowland",
+  "case_info_full_case_name": "USA v. Rowland",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rowland",
+  "case_date_filed": "2002-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DEAN ROWLAND",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Samuel Alba",
+          "judge_guid": "urn:entity:jud-100053057"
+        }
+      ]
+    }
+  ]
+}

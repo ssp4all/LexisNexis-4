@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_199m2884_txsd",
+  "case_key": "1:99m2884_txsd",
+  "case_lni": "7WBN-F7B0-Y892-B2TT-00000-00",
+  "case_number": "1:99m2884",
+  "case_title": "USA v. Chapa Hernandez",
+  "case_info_full_case_name": "USA v. Chapa Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chapa Hernandez",
+  "case_date_filed": "1999-06-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICARDO CHAPA HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325 (2nd"
+        },
+        {
+          "charge_description": "8:1325 Unlawfully entering the U.S. (2nd Offense)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

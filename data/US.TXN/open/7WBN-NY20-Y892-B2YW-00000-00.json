@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_507cr14_TXND",
+  "case_key": "5:07cr14_TXND",
+  "case_lni": "7WBN-NY20-Y892-B2YW-00000-00",
+  "case_number": "5:07cr14",
+  "case_title": "USA v. Martinez-Guerrero",
+  "case_info_full_case_name": "USA v. Martinez-Guerrero",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Guerrero",
+  "case_date_filed": "2007-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sergio Martinez-",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL RE-ENTRY AFTER DEPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 Illega Re-entry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nancy M Koenig",
+          "judge_guid": "urn:entity:jud-100040094"
+        }
+      ]
+    }
+  ]
+}

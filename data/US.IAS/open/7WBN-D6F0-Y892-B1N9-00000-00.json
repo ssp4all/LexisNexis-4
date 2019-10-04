@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_409cr73_IASD",
+  "case_key": "4:09cr73_IASD",
+  "case_lni": "7WBN-D6F0-Y892-B1N9-00000-00",
+  "case_number": "4:09cr73",
+  "case_title": "USA v. Johnson",
+  "case_info_full_case_name": "USA v. Johnson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2009-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John David Johnson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "OFFENDER-18:2250(a)-Failure"
+        },
+        {
+          "charge_description": "FAILURE TO REGISTER AS A SEX OFFENDER-18:2250(a)-Failure to Register as a Sex Offender (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert W. Pratt",
+          "judge_guid": "urn:entity:jud-100032662"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ross A. Walters",
+          "judge_guid": "urn:entity:jud-100005437"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_209cr118_OHSD",
+  "case_key": "2:09cr118_OHSD",
+  "case_lni": "7WBN-FCT0-Y892-B2KV-00000-00",
+  "case_number": "2:09cr118",
+  "case_title": "USA v. Townsend",
+  "case_info_full_case_name": "USA v. Townsend",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Townsend",
+  "case_date_filed": "2009-05-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charles E. Townsend",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(1-3)"
+        },
+        {
+          "charge_disposition": "Dism"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD, OTHER(4)"
+        },
+        {
+          "charge_disposition": "ONE (1) DAY incarceration; THREE (3) YEARS Supr Rel; No fine imposed; $100 Spec Assmnt; Restitution ordered"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD, OTHER(5-6)"
+        },
+        {
+          "charge_disposition": "Dism"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Algenon L. Marbley",
+          "judge_guid": "urn:entity:jud-100029036"
+        }
+      ]
+    }
+  ]
+}

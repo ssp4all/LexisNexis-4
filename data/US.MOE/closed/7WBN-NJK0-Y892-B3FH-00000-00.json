@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_409cr175_MOED",
+  "case_key": "4:09cr175_MOED",
+  "case_lni": "7WBN-NJK0-Y892-B3FH-00000-00",
+  "case_number": "4:09cr175",
+  "case_title": "USA v. Webster",
+  "case_info_full_case_name": "USA v. Webster",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Webster",
+  "case_date_filed": "2009-02-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael A. Bert",
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Dean J. Sauer"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ryan Dale Webster",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:842H.F"
+        },
+        {
+          "charge_description": "18:842H.F Possession of Explosive Materials"
+        },
+        {
+          "charge_offence_level": "0"
+        },
+        {
+          "charge_description": "Possession of Stolen Explosives Materials (1s)"
+        },
+        {
+          "charge_disposition": "The Defendant is Hereby Committed to The Custody of The United States Bureau of Prisons to be Imprisoned For A Total Term of 34 Months. This Term Consists of 34 Months on Each of Counts One And Two to be Served Concurrently to Each Other. The Defendant is Remanded to The Custody of The United States Marshal. Upon Release From Imprisonment, The Defendant Shall be on Supervised Release For A Term of 3 Years. This Term Consists of 3 Years on Each of Counts One And Two, All Such Terms to Run Concurrently. The Defendant to Comply With The Standard Conditions of Supervision And With Special Conditions of Supervision. The Defendant Shall Pay to The United States A Special Assessment of $100.00 on Each of Counts 1 And 2 For A Total Amount of $200.00, That Shall be Due Immediately."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession of A Firearm Silencer (2s)"
+        },
+        {
+          "charge_disposition": "The Defendant is Hereby Committed to The Custody of The United States Bureau of Prisons to be Imprisoned For A Total Term of 34 Months. This Term Consists of 34 Months on Each of Counts One And Two to be Served Concurrently to Each Other. The Defendant is Remanded to The Custody of The United States Marshal. Upon Release From Imprisonment, The Defendant Shall be on Supervised Release For A Term of 3 Years. This Term Consists of 3 Years on Each of Counts One And Two, All Such Terms to Run Concurrently. The Defendant to Comply With The Standard Conditions of Supervision And With Special Conditions of Supervision. The Defendant Shall Pay to The United States A Special Assessment of $100.00 on Each of Counts 1 And 2 For A Total Amount of $200.00, That Shall be Due Immediately."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Possession of Stolen Explosive Materials (1r)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Charles A Shaw",
+          "judge_guid": "urn:entity:jud-100087513"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_119cr2007_WAED",
+  "case_key": "1:19cr2007_WAED",
+  "case_lni": "5VMD-DJW1-DXDT-G2N5-00000-00",
+  "case_number": "1:19cr2007",
+  "case_title": "USA v. Perez",
+  "case_info_full_case_name": "USA v. Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez",
+  "case_date_filed": "2019-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hugo Alberto Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 841(a)(1), (b)(1)(B)(viii) DISTRIBUTION OF FIVE GRAMS OR MORE OF ACTUAL (PURE) METHAMPHETAMINE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Stanley A Bastian",
+          "judge_guid": "urn:entity:jud-100106990"
+        }
+      ]
+    }
+  ]
+}

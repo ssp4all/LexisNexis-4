@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_119mj288_INSD",
+  "case_key": "1:19mj288_INSD",
+  "case_lni": "5VN2-9RX1-DXDT-G4J5-00000-00",
+  "case_number": "1:19mj288",
+  "case_title": "USA v. DAWSON",
+  "case_info_full_case_name": "USA v. DAWSON",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DAWSON",
+  "case_date_filed": "2019-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey D. Preston",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRANDON DAWSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1-POSS W/INTENT TO DIST A CONTROLLED SUBSTANCE  CT 2-POSS OF A FIREARM WHILE IN THE COMMISSION OF A DRUG TRAFFICKING OFFENSE"
+        },
+        {
+          "charge_offence_description": "CT 1-POSS W/INTENT TO DIST A CONTROLLED SUBSTANCE "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

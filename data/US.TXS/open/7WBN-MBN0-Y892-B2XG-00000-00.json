@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_297m85_txsd",
+  "case_key": "2:97m85_txsd",
+  "case_lni": "7WBN-MBN0-Y892-B2XG-00000-00",
+  "case_number": "2:97m85",
+  "case_title": "USA v. Rodriguez, et al",
+  "case_info_full_case_name": "USA v. Rodriguez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez, et al",
+  "case_date_filed": "1997-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS HUMBERTO RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1970, 23"
+        },
+        {
+          "charge_description": "Knowingly, intentionally and unlawfully possess w/intent to distribute a controlled substance in Schedule I of the Controlled Substances Act of 1970, to wit: 23 lbs. (approx. gross weight) of marijuana. 21:841(a)(l)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    },
+    {
+      "party_name": "RANDY VALDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1970, 23"
+        },
+        {
+          "charge_description": "Knowingly, intentionally and unlawfully possess w/intent to distribute a controlled substance in Schedule I of the Controlled Substances Act of 1970, to wit: 23 lbs. (approx. gross weight) of marijuana. 21:841(a)(l)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

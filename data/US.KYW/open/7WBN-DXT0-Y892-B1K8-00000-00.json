@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_508mj9_KYWD",
+  "case_key": "5:08mj9_KYWD",
+  "case_lni": "7WBN-DXT0-Y892-B1K8-00000-00",
+  "case_number": "5:08mj9",
+  "case_title": "USA v. Rappel",
+  "case_info_full_case_name": "USA v. Rappel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rappel",
+  "case_date_filed": "2008-01-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tracey D. Rappel DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "18:661-LARCENY"
+        },
+        {
+          "charge_description": "18:661-LARCENY W/IN SPECIAL MARITIME JURISDICTION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 434.580)-THEFT,"
+        },
+        {
+          "charge_description": "18:13 (KRS 434.580)-THEFT, RECEIPT OF STOLEN CREDIT OR DEBIT CARD (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 434.650)-FRAUDULENT"
+        },
+        {
+          "charge_description": "18:13 (KRS 434.650)-FRAUDULENT USE (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "W. David King",
+          "judge_guid": "urn:entity:jud-100040342"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_808mj2435_MDD",
+  "case_key": "8:08mj2435_MDD",
+  "case_lni": "7WBN-F0D0-Y892-B09Y-00000-00",
+  "case_number": "8:08mj2435",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2008-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Douglas Jones",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving While Under the Influence of Alcohol (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jillyn K Schulze",
+          "judge_guid": "urn:entity:jud-100030736"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_419mj3257_AZD",
+  "case_key": "4:19mj3257_AZD",
+  "case_lni": "5WJ0-JPG1-DXDT-G0KF-00000-00",
+  "case_number": "4:19mj3257",
+  "case_title": "USA v. Grijalva et al",
+  "case_info_full_case_name": "USA v. Grijalva et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grijalva et al",
+  "case_date_filed": "2019-07-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Bernardino Grijalva",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A), (a)(1)(A)(v)(I) and (a)(1)(B)(i) Transportation of Illegal Aliens for Profit"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A), (a)(1)(A)(v)(I) and (a)(1)(B)(i) "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    },
+    {
+      "party_name": "Hans Martinez Yee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A), (a)(1)(A)(v)(I) and (a)(1)(B)(i) Transportation of Illegal Aliens for Profit"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A), (a)(1)(A)(v)(I) and (a)(1)(B)(i) "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    },
+    {
+      "party_description": "Material Witness"
+    }
+  ]
+}

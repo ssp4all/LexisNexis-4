@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304cr2752_TXWD",
+  "case_key": "3:04cr2752_TXWD",
+  "case_lni": "7WBN-H660-Y892-B3W6-00000-00",
+  "case_number": "3:04cr2752",
+  "case_title": "USA v. Rodriguez",
+  "case_info_full_case_name": "USA v. Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez",
+  "case_date_filed": "2004-12-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HECTOR MANUEL RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952=MI.F"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841E=MD.F"
+        },
+        {
+          "charge_description": "21:841E=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "66.5 21:841(a)(1) 952(a)"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approximately 66.5 lbs of marijuana in violation of 21:841(a)(1) and 952(a) [3:04-m-5317]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_612cr153_SCD",
+  "case_key": "6:12cr153_SCD",
+  "case_lni": "550M-9311-DXDT-G284-00000-00",
+  "case_number": "6:12cr153",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2012-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carol Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Carrying Pistol Without License; Failure to Appear for Probation Showcause Hearing"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacquelyn D Austin",
+          "judge_guid": "urn:entity:jud-100071388"
+        }
+      ]
+    }
+  ]
+}

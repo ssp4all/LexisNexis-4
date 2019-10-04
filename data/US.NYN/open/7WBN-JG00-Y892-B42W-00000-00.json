@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_103m14_nynd",
+  "case_key": "1:03m14_nynd",
+  "case_lni": "7WBN-JG00-Y892-B42W-00000-00",
+  "case_number": "1:03m14",
+  "case_title": "USA v. Ausguste",
+  "case_info_full_case_name": "USA v. Ausguste",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ausguste",
+  "case_date_filed": "2003-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOUNIA AUSGUSTE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T8,USCSec. 1325(a)(1); 1/12/03,"
+        },
+        {
+          "charge_description": "Viol. of T8, USC Sec. 1325(a)(1); deft did willfully and knowingly enter the US at a time and place other than as designated by INS Officers, and eluded examination or inspection by a US INS Officer, to wit: that on or about 1/12/03, deft entered the US at a point near the Point of Entry at Mooers, NY, by walking through the woods, thereby avoiding inspection by US INS Officers."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Randolph F. Treece",
+          "judge_guid": "urn:entity:jud-100023832"
+        }
+      ]
+    }
+  ]
+}

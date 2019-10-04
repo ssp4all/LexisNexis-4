@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_216mj7353_AZD",
+  "case_key": "2:16mj7353_AZD",
+  "case_lni": "5KK8-VJ11-DXDT-G3CY-00000-00",
+  "case_number": "2:16mj7353",
+  "case_title": "USA v. Valdez-Audeves",
+  "case_info_full_case_name": "USA v. Valdez-Audeves",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valdez-Audeves",
+  "case_date_filed": "2016-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jillian Besancon",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alfredo Valdez-Audeves",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and (b)(1) - Reentry of Removed Alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) and (b)(1) - Reentry of Removed Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bridget S Bade",
+          "judge_guid": "urn:entity:jud-100102302"
+        }
+      ]
+    }
+  ]
+}

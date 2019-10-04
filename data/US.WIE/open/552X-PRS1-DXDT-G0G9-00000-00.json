@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIE_212mj415_WIED",
+  "case_key": "2:12mj415_WIED",
+  "case_lni": "552X-PRS1-DXDT-G0G9-00000-00",
+  "case_number": "2:12mj415",
+  "case_title": "USA v. Delgado",
+  "case_info_full_case_name": "USA v. Delgado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delgado",
+  "case_date_filed": "2012-02-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose M Delgado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2250(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William E Callahan, Jr",
+          "judge_guid": "urn:entity:jud-100059907"
+        }
+      ]
+    }
+  ]
+}

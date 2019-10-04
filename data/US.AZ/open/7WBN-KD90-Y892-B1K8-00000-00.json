@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_201m1406_azd",
+  "case_key": "2:01m1406_azd",
+  "case_lni": "7WBN-KD90-Y892-B1K8-00000-00",
+  "case_number": "2:01m1406",
+  "case_title": "USA, et al v. Ameelyenah",
+  "case_info_full_case_name": "USA, et al v. Ameelyenah",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Ameelyenah",
+  "case_date_filed": "2001-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "REGINO AMEELYENAH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1153 1111"
+        },
+        {
+          "charge_description": "18:1153 and 1111 CIR-Murder"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay R Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

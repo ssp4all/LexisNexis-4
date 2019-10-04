@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_614cr3086_MOWD",
+  "case_key": "6:14cr3086_MOWD",
+  "case_lni": "5DB7-HFV1-DXDT-G1WB-00000-00",
+  "case_number": "6:14cr3086",
+  "case_title": "USA v. Psaltis",
+  "case_info_full_case_name": "USA v. Psaltis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Psaltis",
+  "case_date_filed": "2014-10-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Steven M. Mohlhenrich",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Phillip Edward Psaltis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "WILLFUL FAILURE TO FILE RETURN, SUPPLY INFORMATION(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David P Rush",
+          "judge_guid": "urn:entity:jud-100103538"
+        }
+      ]
+    }
+  ]
+}

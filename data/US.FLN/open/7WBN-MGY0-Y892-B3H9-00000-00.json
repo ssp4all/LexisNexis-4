@@ -1,0 +1,144 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_301cr107_flnd",
+  "case_key": "3:01cr107_flnd",
+  "case_lni": "7WBN-MGY0-Y892-B3H9-00000-00",
+  "case_number": "3:01cr107",
+  "case_title": "USA v. MERCHANT, et al",
+  "case_info_full_case_name": "USA v. MERCHANT, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MERCHANT, et al",
+  "case_date_filed": "2001-10-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JIMMY MERCHANT SR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lacey A Collier",
+          "judge_guid": "urn:entity:jud-100071304"
+        }
+      ]
+    },
+    {
+      "party_name": "CHARLES DEWAYNE WALTHER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Conspire and possess with intent to distribute a substance containing a mixture of five hundred grams or more of methamphetamine. [3:01-m-205]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lacey A Collier",
+          "judge_guid": "urn:entity:jud-100071304"
+        }
+      ]
+    },
+    {
+      "party_name": "FREDDIE L TOLBERT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lacey A Collier",
+          "judge_guid": "urn:entity:jud-100071304"
+        }
+      ]
+    },
+    {
+      "party_name": "KEVIN WILSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lacey A Collier",
+          "judge_guid": "urn:entity:jud-100071304"
+        }
+      ]
+    },
+    {
+      "party_name": "BILLY RAY LEWIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F"
+        },
+        {
+          "charge_description": "21:846=CD.F CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lacey A Collier",
+          "judge_guid": "urn:entity:jud-100071304"
+        }
+      ]
+    }
+  ]
+}

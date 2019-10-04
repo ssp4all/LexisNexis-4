@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_810cr167_MDD",
+  "case_key": "8:10cr167_MDD",
+  "case_lni": "7YSD-7V40-Y892-B32X-00000-00",
+  "case_number": "8:10cr167",
+  "case_title": "USA v. Avelar",
+  "case_info_full_case_name": "USA v. Avelar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avelar",
+  "case_date_filed": "2010-04-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alex Concepcion Avelar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g); 18:924(d); 28:2461(c);"
+        },
+        {
+          "charge_description": "18:922(g); 18:924(d); 28:2461(c); Possession of Ammunition by a Convicted Felon; Forfeiture (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Roger W Titus",
+          "judge_guid": "urn:entity:jud-100024020"
+        }
+      ]
+    }
+  ]
+}

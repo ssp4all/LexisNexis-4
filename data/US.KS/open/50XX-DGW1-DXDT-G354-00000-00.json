@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_610cr10131_KSD",
+  "case_key": "6:10cr10131_KSD",
+  "case_lni": "50XX-DGW1-DXDT-G354-00000-00",
+  "case_number": "6:10cr10131",
+  "case_title": "USA v. Sanchez-Basurto",
+  "case_info_full_case_name": "USA v. Sanchez-Basurto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Basurto",
+  "case_date_filed": "2010-09-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mario Sanchez-Basurto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:924(c)(1)(A)-Possession"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A)-Possession of a firearm in furtherance of a drug trafficking crime (INDICTMENT [09/01/2010]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(5)(A) 924(a)(2)-Illegal"
+        },
+        {
+          "charge_description": "18:922(g)(5)(A) and 924(a)(2)-Illegal alien in possession of a firearm (INDICTMENT [09/01/2010]) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)-Possession"
+        },
+        {
+          "charge_description": "21:841(a)(1)-Possession with intent to distribute methamphetamine, a controlled substance (INDICTMENT [09/01/2010]) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c)(1)(A)-Possession 18:922(g)(5)(A) 924(a)(2)-Illegal 21:841(a)(1)-Possession"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A)-Possession of a firearm in furtherance of a drug crime; 18:922(g)(5)(A) and 924(a)(2)-Illegal alien in possession of a firearm; and 21:841(a)(1)-Possession with intent to distribute methamphetamine. (COMPLAINT 8/27/2010)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Wesley E. Brown",
+          "judge_guid": "urn:entity:jud-100064019"
+        }
+      ]
+    }
+  ]
+}

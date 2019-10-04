@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_195cr182_vaed",
+  "case_key": "1:95cr182_vaed",
+  "case_lni": "7WBN-F5N0-Y892-B438-00000-00",
+  "case_number": "1:95cr182",
+  "case_title": "USA v. Weeks",
+  "case_info_full_case_name": "USA v. Weeks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Weeks",
+  "case_date_filed": "1995-04-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GREGORY WEEKS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 846 100 1994"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 846 Conspiracy to distribute 100 kilos or more of marijuana (Schedule I) October 1994 (1)"
+        },
+        {
+          "charge_disposition": "77 months w/4 years SR w/sp. cond. that deft part. in substance abuse treat/testing which may include residential treatment w/portion of cost assessed to deft. Sentence is concurrent w/State Court sentence imposed 5/23/95. Credit for time served. SA of $50. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1) 846"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) &; 846 (Conspiracy w/Intent to Distribute Marijuana-Sch. I controlled Substance)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Cacheris",
+          "judge_guid": "urn:entity:jud-100059998"
+        }
+      ]
+    }
+  ]
+}

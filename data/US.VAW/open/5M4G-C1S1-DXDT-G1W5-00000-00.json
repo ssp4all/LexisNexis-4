@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_116mj193_VAWD",
+  "case_key": "1:16mj193_VAWD",
+  "case_lni": "5M4G-C1S1-DXDT-G1W5-00000-00",
+  "case_number": "1:16mj193",
+  "case_title": "USA v Lowe",
+  "case_info_full_case_name": "USA v Lowe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lowe",
+  "case_date_filed": "2016-11-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty Assistant - Abingdon",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Justin Michael Lowe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CD.F - Conspiracy to Distribute Methamphetamine and Oxycodone (11/8/16)"
+        },
+        {
+          "charge_offence_description": "21:846=CD.F - Conspiracy to Distribute Methampheta"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Pamela Meade Sargent",
+          "judge_guid": "urn:entity:jud-100027085"
+        }
+      ]
+    }
+  ]
+}

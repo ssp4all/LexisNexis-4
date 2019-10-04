@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_107mj53_NDD",
+  "case_key": "1:07mj53_NDD",
+  "case_lni": "7WBN-JRR0-Y892-B430-00000-00",
+  "case_number": "1:07mj53",
+  "case_title": "USA v. Ritter",
+  "case_info_full_case_name": "USA v. Ritter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ritter",
+  "case_date_filed": "2007-10-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joshua Ritter",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to possess with intent to distribute methamphetamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles S. Miller, Jr",
+          "judge_guid": "urn:entity:jud-100025831"
+        }
+      ]
+    }
+  ]
+}

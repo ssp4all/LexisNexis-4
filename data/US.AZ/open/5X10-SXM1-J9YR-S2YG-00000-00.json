@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_319cr8209_AZD",
+  "case_key": "3:19cr8209_AZD",
+  "case_lni": "5X10-SXM1-J9YR-S2YG-00000-00",
+  "case_number": "3:19cr8209",
+  "case_title": "USA v. Whitebody",
+  "case_info_full_case_name": "USA v. Whitebody",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Whitebody",
+  "case_date_filed": "2019-09-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Justina Eleanor Whitebody",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - POSSESSION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) - Possession with the Intent to Distribute Controlled Substance;  21:844(a) - Possession of Con tolled Substance"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(C) - Possession with the Int"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Camille D Bibles",
+          "judge_guid": "urn:entity:jud-500003788"
+        }
+      ]
+    }
+  ]
+}

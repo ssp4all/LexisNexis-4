@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_408cr18_MSSD",
+  "case_key": "4:08cr18_MSSD",
+  "case_lni": "7WBN-NHC0-Y892-B15J-00000-00",
+  "case_number": "4:08cr18",
+  "case_title": "USA v. Ali",
+  "case_info_full_case_name": "USA v. Ali",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ali",
+  "case_date_filed": "2008-12-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sharyan Ali",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Tom S. Lee",
+          "judge_guid": "urn:entity:jud-100030215"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Linda R. Anderson",
+          "judge_guid": "urn:entity:jud-100052771"
+        }
+      ]
+    }
+  ]
+}

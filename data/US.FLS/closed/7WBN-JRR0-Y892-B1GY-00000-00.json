@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_107mj2085_FLSD",
+  "case_key": "1:07mj2085_FLSD",
+  "case_lni": "7WBN-JRR0-Y892-B1GY-00000-00",
+  "case_number": "1:07mj2085",
+  "case_title": "USA v. Zambrana-Jimenez",
+  "case_info_full_case_name": "USA v. Zambrana-Jimenez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zambrana-Jimenez",
+  "case_date_filed": "2007-01-25",
+  "case_status": "Closed",
+  "case_status_date": "02/08/2007",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cinthia Zambrana-Jimenez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546.F Visa Fraud, 18:1543.F Passport Fraud"
+        },
+        {
+          "charge_offence_description": "18:1546.F Visa Fraud, 18:1543.F Passport Fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patrick A. White",
+          "judge_guid": "urn:entity:jud-100080700"
+        }
+      ]
+    }
+  ]
+}

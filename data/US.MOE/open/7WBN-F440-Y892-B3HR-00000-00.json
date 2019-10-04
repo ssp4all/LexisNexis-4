@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_108cr111_MOED",
+  "case_key": "1:08cr111_MOED",
+  "case_lni": "7WBN-F440-Y892-B3HR-00000-00",
+  "case_number": "1:08cr111",
+  "case_title": "USA v. Krauss",
+  "case_info_full_case_name": "USA v. Krauss",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Krauss",
+  "case_date_filed": "2008-08-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Tim J. Willis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Herbert Lee Krauss",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MANUFACTURING A SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF METHAMPHETAMINE (1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Catherine D. Perry",
+          "judge_guid": "urn:entity:jud-100028090"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Lewis M. Blanton",
+          "judge_guid": "urn:entity:jud-100061414"
+        }
+      ]
+    }
+  ]
+}

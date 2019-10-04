@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_200m4086_waed",
+  "case_key": "2:00m4086_waed",
+  "case_lni": "7WBN-KC00-Y892-B0RR-00000-00",
+  "case_number": "2:00m4086",
+  "case_title": "USA v. Guzman",
+  "case_info_full_case_name": "USA v. Guzman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guzman",
+  "case_date_filed": "2000-04-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "St Clair Frederick Winiker, III",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RUBEN GUZMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC(s) 841(a)(1)"
+        },
+        {
+          "charge_description": "21 USC Section(s) 841(a)(1) DISTRIBUTION OF A CONTROLLED SUBSTANCE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lonny R Suko",
+          "judge_guid": "urn:entity:jud-100019716"
+        }
+      ]
+    }
+  ]
+}

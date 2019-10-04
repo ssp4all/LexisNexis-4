@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_508cr1340_TXSD",
+  "case_key": "5:08cr1340_TXSD",
+  "case_lni": "7WBN-NYG0-Y892-B371-00000-00",
+  "case_number": "5:08cr1340",
+  "case_title": "USA v. Jalomo",
+  "case_info_full_case_name": "USA v. Jalomo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jalomo",
+  "case_date_filed": "2008-08-19",
+  "case_status": "Closed",
+  "case_status_date": "04/21/2009",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-La",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Brian G Sardelli",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Suntrease Williams",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rene Jalomo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Escape from custody; PENALTY: Not more than 5 yrs and/or $250,000; $100 CVF; Not more than 3 yrs SRT.(1)"
+        },
+        {
+          "charge_disposition": "Sentence: 15 mos to serve, consecutive to any undischarged term; 3 yrs tsr, concurrent to any other criminal case, usual terms apply; $100 cvf; fine waived; not commit another crime; not possess firearm; dna sample; drug/alco treatment in/out patient and in bop; 75 hours of community service within 1 yr tsr; right to appeal. SUPERVISED RELEASE HRG held 10/19/2010 - [Time Served] - The Court modifies the deft's term of supervision to include a 6 month in-patient treatment program in Mid-Valley, however, the deft will be terminated earlier if he completes a 3-month stay at the in-patient program; the deft is advised of his right to appeal (notified of 14 day deadline). SUPERVISED RELEASE HRG held on 10/21/2011 - The Court finds that the deft violated conditions 1 and 2 as listed in the Probation Form 12 for this case and in 06-CR-833; the deft's TSR is revoked and he is sentenced to 90 days imprs concurrent to 90 days imprs in Case No. L-06-CR-833; upon release the deft will be placed in an inpatient drug treatment for not more than 120 days [community confinement]; the deft is returned to conditions of supervision until expiration date of June 24, 2013; the deft is advised of his right to appeal (notified of 14 day deadline)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:751A.F---Prisoner in custody of institution or officer"
+        },
+        {
+          "charge_offence_description": "18:751A.F---Prisoner in custody of institution or "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

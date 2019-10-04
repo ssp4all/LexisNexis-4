@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_306mj4643_TXWD",
+  "case_key": "3:06mj4643_TXWD",
+  "case_lni": "7WBN-MTW0-Y892-B2W5-00000-00",
+  "case_number": "3:06mj4643",
+  "case_title": "USA v. Montellano-Chavarria",
+  "case_info_full_case_name": "USA v. Montellano-Chavarria",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Montellano-Chavarria",
+  "case_date_filed": "2006-10-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alfredo Montellano-Chavarria",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "114 21:841A=MD.F"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approximately 114 lbs of 21:841A=MD.F and 21:952=MI.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

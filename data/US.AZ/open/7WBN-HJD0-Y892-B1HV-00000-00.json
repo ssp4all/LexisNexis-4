@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_402cr74_azd",
+  "case_key": "4:02cr74_azd",
+  "case_lni": "7WBN-HJD0-Y892-B1HV-00000-00",
+  "case_number": "4:02cr74",
+  "case_title": "USA v. Allen",
+  "case_info_full_case_name": "USA v. Allen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Allen",
+  "case_date_filed": "2002-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHEILA JEAN ALLEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1:18:1708"
+        },
+        {
+          "charge_description": "Ct 1:18:1708 THEFT OR RECEIPT OF STOLEN MAIL MATTER (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank R Zapata",
+          "judge_guid": "urn:entity:jud-100065407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

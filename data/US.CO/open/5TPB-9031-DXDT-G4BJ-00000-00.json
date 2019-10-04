@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_118po7009_COD",
+  "case_key": "1:18po7009_COD",
+  "case_lni": "5TPB-9031-DXDT-G4BJ-00000-00",
+  "case_number": "1:18po7009",
+  "case_title": "USA v. Taylor",
+  "case_info_full_case_name": "USA v. Taylor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Taylor",
+  "case_date_filed": "2018-11-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Sarah Hunter Weiss",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dustin Taylor",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "16:551.P Camping within 1/4 mile of road."
+        },
+        {
+          "charge_offence_description": "16:551.P Camping within 1/4 mile of road."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

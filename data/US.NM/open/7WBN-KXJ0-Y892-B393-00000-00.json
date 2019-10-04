@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_207mj984_NMD",
+  "case_key": "2:07mj984_NMD",
+  "case_lni": "7WBN-KXJ0-Y892-B393-00000-00",
+  "case_number": "2:07mj984",
+  "case_title": "USA v. Navarrete-Simental",
+  "case_info_full_case_name": "USA v. Navarrete-Simental",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Navarrete-Simental",
+  "case_date_filed": "2007-05-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Benjamin Navarrete-Simental",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William P Lynch",
+          "judge_guid": "urn:entity:jud-100038057"
+        }
+      ]
+    }
+  ]
+}

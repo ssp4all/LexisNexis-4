@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_191m301_gand",
+  "case_key": "1:91m301_gand",
+  "case_lni": "7WBN-JY60-Y892-B40H-00000-00",
+  "case_number": "1:91m301",
+  "case_title": "USA v. Webb",
+  "case_info_full_case_name": "USA v. Webb",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Webb",
+  "case_date_filed": "1991-03-27",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "F. Gentry Shelnutt, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2114,"
+        },
+        {
+          "charge_description": "18:2114, assault on postal employee"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John E. Dougherty",
+          "judge_guid": "urn:entity:jud-100044327"
+        }
+      ]
+    }
+  ]
+}

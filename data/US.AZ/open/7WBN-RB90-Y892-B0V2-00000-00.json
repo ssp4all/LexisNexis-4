@@ -1,0 +1,87 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_208cr379_AZD",
+  "case_key": "2:08cr379_AZD",
+  "case_lni": "7WBN-RB90-Y892-B0V2-00000-00",
+  "case_number": "2:08cr379",
+  "case_title": "USA v. Duran-Salazar",
+  "case_info_full_case_name": "USA v. Duran-Salazar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Duran-Salazar",
+  "case_date_filed": "2008-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lisa Jennis Settel",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Isidro Duran-Salazar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iii) 1324(a)(1)(A)(v)(I)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii) and 1324(a)(1)(A)(v)(I) Conspiracy to Harbor Illegal Aliens (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iii) 1324(a)(1)(A)(v)(I)-Alien"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii) and 1324(a)(1)(A)(v)(I)-Alien Smuggling"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James A Teilborg",
+          "judge_guid": "urn:entity:jud-100007320"
+        }
+      ]
+    },
+    {
+      "party_name": "Adrian Medina-Loeza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iii) (a)(1)(A)(v)(I)-Conspiracty"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii) &; (a)(1)(A)(v)(I)-Conspiracty to Harbor Illegal Aliens (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iii) 1324(a)(1)(A)(v)(I)-Alien"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii) and 1324(a)(1)(A)(v)(I)-Alien Smuggling"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James A Teilborg",
+          "judge_guid": "urn:entity:jud-100007320"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    }
+  ]
+}

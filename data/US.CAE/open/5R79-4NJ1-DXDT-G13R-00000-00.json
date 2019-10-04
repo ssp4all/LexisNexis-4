@@ -1,0 +1,100 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_117cr304_CAED",
+  "case_key": "1:17cr304_CAED",
+  "case_lni": "5R79-4NJ1-DXDT-G13R-00000-00",
+  "case_number": "1:17cr304",
+  "case_title": "USA v. Carbajal",
+  "case_info_full_case_name": "USA v. Carbajal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carbajal",
+  "case_date_filed": "2017-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fresno Forfeiture Unit",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Ross Pearson , GOVT",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Jesus Carbajal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951 - Conspiracy to Commit Hobbs Act Robbery(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO COMMIT HOBBS ACT ROBBERY(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1951 - Interference with Commerce by Robbery(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "INTERFERENCE WITH COMMERCE BY ROBBERY(2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A) - Using, Carrying or Possessing a Firearm During and in Relation to a Crime of Violence(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "USING, CARRYING, OR BRANDISHING A FIREARM DURING AND IN RELATION TO A CRIME OF VIOLENCE(3s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1951 - Interference with Commerce by Threats or Violence; 17:924(c) - Possession of a Firearm and in Relation to a Crime of Violence and a Drug Trafficking Offense"
+        },
+        {
+          "charge_offence_description": "18:1951 - Interference with Commerce by Threats or"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Lawrence J. O'Neill",
+          "judge_guid": "urn:entity:jud-100035867"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sheila K. Oberto",
+          "judge_guid": "urn:entity:jud-100025675"
+        }
+      ]
+    }
+  ]
+}

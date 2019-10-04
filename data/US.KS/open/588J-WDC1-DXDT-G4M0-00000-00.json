@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_B13mj90139_KSD",
+  "case_key": "B:13mj90139_KSD",
+  "case_lni": "588J-WDC1-DXDT-G4M0-00000-00",
+  "case_number": "B:13mj90139",
+  "case_title": "USA v. Gray",
+  "case_info_full_case_name": "USA v. Gray",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gray",
+  "case_date_filed": "2013-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Annemarie P.E. Vazquez",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Curtis J. Gray",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113(a)(5) - Assault on a child under the age of 16 (Class A) INFORMATION 04/18/2013(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:661 - Theft (Class A) INFORMATION 04/18/2013(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kenneth G. Gale",
+          "judge_guid": "urn:entity:jud-100055199"
+        }
+      ]
+    }
+  ]
+}

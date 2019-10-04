@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_215mj3097_NMD",
+  "case_key": "2:15mj3097_NMD",
+  "case_lni": "5GV6-W1R1-DXDT-G3RV-00000-00",
+  "case_number": "2:15mj3097",
+  "case_title": "USA v. Lujan-Chavez",
+  "case_info_full_case_name": "USA v. Lujan-Chavez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lujan-Chavez",
+  "case_date_filed": "2015-09-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leopoldo Ernesto Lujan-Chavez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(b)(2) Reentry After Deportation - Aggravated Felony"
+        },
+        {
+          "charge_offence_description": "8:1326(b)(2) Reentry After Deportation - Aggravate"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carmen E. Garza",
+          "judge_guid": "urn:entity:jud-100008901"
+        }
+      ]
+    }
+  ]
+}

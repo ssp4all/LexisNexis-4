@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304m4587_TXWD",
+  "case_key": "3:04m4587_TXWD",
+  "case_lni": "7WBN-MPC0-Y892-B21K-00000-00",
+  "case_number": "3:04m4587",
+  "case_title": "USA v. Calderon",
+  "case_info_full_case_name": "USA v. Calderon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Calderon",
+  "case_date_filed": "2004-10-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA ISABEL CALDERON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and intentionally, kirectly and indireclty corruptly give, offer, and pormisea a thing of value that is U.S. courency to apublic official to induce such public official to do an act in violation of hsi lawful duty in violation 18:201"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_303cr5752_wawd",
+  "case_key": "3:03cr5752_wawd",
+  "case_lni": "7WBN-H5R0-Y892-B40F-00000-00",
+  "case_number": "3:03cr5752",
+  "case_title": "USA v. Beacom",
+  "case_info_full_case_name": "USA v. Beacom",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beacom",
+  "case_date_filed": "2003-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael B Beacom",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "MISCELLANEOUS GENERAL OFFENSES, OTHER: POSSESSION OF DRUG PARAPHERNALIA (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER: DWLS (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER: SPEEDING (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Ricardo S. Martinez",
+          "judge_guid": "urn:entity:jud-100009153"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_102cr337_nyed",
+  "case_key": "1:02cr337_nyed",
+  "case_lni": "7WBN-DH00-Y892-B04R-00000-00",
+  "case_number": "1:02cr337",
+  "case_title": "USA v. Adianu",
+  "case_info_full_case_name": "USA v. Adianu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adianu",
+  "case_date_filed": "2002-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC cja]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SOLOMON ADIANU",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a), 960(a)(1) 960(b)(2)(A); 18:3551 100"
+        },
+        {
+          "charge_description": "21:952(a), 960(a)(1) and 960(b)(2)(A); 18:3551 et seq-Importation of a substance containing heroin, a Schedule I controlled substance, in an amount of 100 grams or more. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(B)(i); 18:3551 100"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B)(i); 18:3551 et seq-Possession with the intent to distribute a substance containing heroin, a Schedule I controlled substance, in an amount of 100 grams or more. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC952-dft"
+        },
+        {
+          "charge_description": "21 USC 952-dft did knowingly and intentionally import heroin into the US. [1:02-m-288]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John Gleeson",
+          "judge_guid": "urn:entity:jud-100042886"
+        }
+      ]
+    }
+  ]
+}

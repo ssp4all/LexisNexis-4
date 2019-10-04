@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_319cr30011_MAD",
+  "case_key": "3:19cr30011_MAD",
+  "case_lni": "5VH7-3F21-DXDT-G1F2-00000-00",
+  "case_number": "3:19cr30011",
+  "case_title": "USA v. Pereira",
+  "case_info_full_case_name": "USA v. Pereira",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pereira",
+  "case_date_filed": "2019-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John Americo Pereira",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. § 841(a)(1) and (b)(1)(B)(vii) - Possession with Intent to Distribute 100 or More Kilograms of Marijuana(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21 U.S.C. § 841(a)(1).F - Possession with the Intent to Distribute a Controlled Substance, to wit Marijuana"
+        },
+        {
+          "charge_offence_description": "21 U.S.C. &#167; 841(a)(1).F - Possession with the"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mark G. Mastroianni",
+          "judge_guid": "urn:entity:jud-100107322"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Katherine A. Robertson",
+          "judge_guid": "urn:entity:jud-100111390"
+        }
+      ]
+    }
+  ]
+}

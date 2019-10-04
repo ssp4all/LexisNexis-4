@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_308cr39_TNED",
+  "case_key": "3:08cr39_TNED",
+  "case_lni": "7WBN-MX40-Y892-B2NH-00000-00",
+  "case_number": "3:08cr39",
+  "case_title": "USA v. Young",
+  "case_info_full_case_name": "USA v. Young",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Young",
+  "case_date_filed": "2008-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Chadwick Wilson Young",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD BY WIRE COMMUNICATION IN INTERSTATE COMMERCE (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Thomas W Phillips",
+          "judge_guid": "urn:entity:jud-100024548"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "H Bruce Guyton",
+          "judge_guid": "urn:entity:jud-100047706"
+        }
+      ]
+    }
+  ]
+}

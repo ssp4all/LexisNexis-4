@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_307cr5367_WAWD",
+  "case_key": "3:07cr5367_WAWD",
+  "case_lni": "7WBN-RS90-Y892-B418-00000-00",
+  "case_number": "3:07cr5367",
+  "case_title": "USA v. Reyes",
+  "case_info_full_case_name": "USA v. Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes",
+  "case_date_filed": "2007-06-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Sedigo Reyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1001"
+        },
+        {
+          "charge_description": "Felony False Statement 18:1001 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Franklin D. Burgess",
+          "judge_guid": "urn:entity:jud-100063796"
+        }
+      ]
+    }
+  ]
+}

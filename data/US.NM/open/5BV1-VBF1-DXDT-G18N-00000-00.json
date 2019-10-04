@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_114cr937_NMD",
+  "case_key": "1:14cr937_NMD",
+  "case_lni": "5BV1-VBF1-DXDT-G18N-00000-00",
+  "case_number": "1:14cr937",
+  "case_title": "USA v. Looney",
+  "case_info_full_case_name": "USA v. Looney",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Looney",
+  "case_date_filed": "2014-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Ray Looney",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 1152, 2243(a) and 2246(2)(C): SEXUAL ABUSE OF A MINOR(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1152 Crime on an Indian Reservation; 18:2241(c) Aggravated Child Abuse and 18:2246(2)(a) Sexual Act"
+        },
+        {
+          "charge_offence_description": "18:1152 Crime on an Indian Reservation; 18:2241(c)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William P. Johnson",
+          "judge_guid": "urn:entity:jud-100050292"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_198m1701_mad",
+  "case_key": "1:98m1701_mad",
+  "case_lni": "7WBN-K790-Y892-B35H-00000-00",
+  "case_number": "1:98m1701",
+  "case_title": "USA, et al v. Ferreras",
+  "case_info_full_case_name": "USA, et al v. Ferreras",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Ferreras",
+  "case_date_filed": "1998-06-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOMINGO FERRERAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8 1326-BEING"
+        },
+        {
+          "charge_description": "IN VIOLATION OF TITLE 8 US CODE, SECTION 1326-BEING AN ALIEN AND HAVING BEEN ARRESTED AND DEPORTED FROM THE UNITED STATES."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "C. B. Swartwood, III",
+          "judge_guid": "urn:entity:jud-100055067"
+        }
+      ]
+    }
+  ]
+}

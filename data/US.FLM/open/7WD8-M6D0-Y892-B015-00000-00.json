@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_309mj1198_FLMD",
+  "case_key": "3:09mj1198_FLMD",
+  "case_lni": "7WD8-M6D0-Y892-B015-00000-00",
+  "case_number": "3:09mj1198",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2009-08-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Sales Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1001.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Howard T. Snyder",
+          "judge_guid": "urn:entity:jud-100020552"
+        }
+      ]
+    }
+  ]
+}

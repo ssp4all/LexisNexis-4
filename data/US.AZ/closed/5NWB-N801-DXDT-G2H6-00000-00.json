@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_217mj9243_AZD",
+  "case_key": "2:17mj9243_AZD",
+  "case_lni": "5NWB-N801-DXDT-G2H6-00000-00",
+  "case_number": "2:17mj9243",
+  "case_title": "USA v. Mendiola-Castaneda",
+  "case_info_full_case_name": "USA v. Mendiola-Castaneda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendiola-Castaneda",
+  "case_date_filed": "2017-06-27",
+  "case_status": "Closed",
+  "case_status_date": "08/15/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Natalie Blair Huddleston",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fernando Mendiola-Castaneda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Information - 8:1325(a)(2), Alien Eluding the Examination and Inspection of Immigration OfficersComplaint - 8:1326(a) enhanced by (b)(1), Reentry of Removed Alien"
+        },
+        {
+          "charge_disposition": "Information - Defendant committed to the custody of the Bureau of Prisons for a term of ONE HUNDRED AND EIGHTY (180) DAYS, with credit for time served. Special Assessment: REMITTED. Fine: WAIVED.Complaint - Dismissed with prejudice on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Information - 8:1325(a)(2), Alien Eluding the Exam"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eileen S Willett",
+          "judge_guid": "urn:entity:jud-100017110"
+        }
+      ]
+    }
+  ]
+}

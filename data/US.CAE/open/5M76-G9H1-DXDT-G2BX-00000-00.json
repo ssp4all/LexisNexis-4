@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_216po452_CAED",
+  "case_key": "2:16po452_CAED",
+  "case_lni": "5M76-G9H1-DXDT-G2BX-00000-00",
+  "case_number": "2:16po452",
+  "case_title": "USA vs Schlager",
+  "case_info_full_case_name": "USA vs Schlager",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Schlager",
+  "case_date_filed": "2016-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Goterit Schlager",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Entering Upon the Property, Under the Influence of or Using or Possessing Any Na (6746137)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Allison Claire",
+          "judge_guid": "urn:entity:jud-100102868"
+        }
+      ]
+    }
+  ]
+}

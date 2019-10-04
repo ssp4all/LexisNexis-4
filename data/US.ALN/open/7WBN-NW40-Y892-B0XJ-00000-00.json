@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_504cr363_ALND",
+  "case_key": "5:04cr363_ALND",
+  "case_lni": "7WBN-NW40-Y892-B0XJ-00000-00",
+  "case_number": "5:04cr363",
+  "case_title": "USA v. Graham",
+  "case_info_full_case_name": "USA v. Graham",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Graham",
+  "case_date_filed": "2004-09-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "Russell E Penfield",
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 32-5A-191(a)(1) (2)"
+        },
+        {
+          "charge_description": "18:13 TRAFFIC OFFENSES, DRUNKEN DRIVING (Code of Alabama Section 32-5A-191(a)(1) &; (2) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag-Judge",
+          "judge_name": "Harwell G Davis, III",
+          "judge_guid": "urn:entity:jud-100057396"
+        }
+      ]
+    }
+  ]
+}

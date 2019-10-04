@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_493m583_txsd",
+  "case_key": "4:93m583_txsd",
+  "case_lni": "7WBN-HPT0-Y892-B3TW-00000-00",
+  "case_number": "4:93m583",
+  "case_title": "USA v. Plummer Investments",
+  "case_info_full_case_name": "USA v. Plummer Investments",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Plummer Investments",
+  "case_date_filed": "1993-06-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PLUMMER INVESTMENTS",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Nancy K. Johnson",
+          "judge_guid": "urn:entity:jud-100079622"
+        }
+      ]
+    }
+  ]
+}

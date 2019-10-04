@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_404m241_VAED",
+  "case_key": "4:04m241_VAED",
+  "case_lni": "7WBN-ND50-Y892-B2KY-00000-00",
+  "case_number": "4:04m241",
+  "case_title": "USA v. Melvin",
+  "case_info_full_case_name": "USA v. Melvin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Melvin",
+  "case_date_filed": "2004-07-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANKLIN G. MELVIN JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC7 13, 18.2, 266"
+        },
+        {
+          "charge_description": "Title 18 USC 7 &; 13, Assim. Title 18.2, Code of VA, Section 266 [18:13-7210.M]-Operate a Motor Vehicle While Under the Influence of Alcohol (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "F. Bradford Stillman",
+          "judge_guid": "urn:entity:jud-100051654"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400cr866_azd",
+  "case_key": "4:00cr866_azd",
+  "case_lni": "7WBN-DD20-Y892-B0XC-00000-00",
+  "case_number": "4:00cr866",
+  "case_title": "USA v. Barriga-Cervantes",
+  "case_info_full_case_name": "USA v. Barriga-Cervantes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barriga-Cervantes",
+  "case_date_filed": "2000-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE EMMANUEL BARRIGA-CERVANTES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(b)(2) RE-ENTRY AFTER DEPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a)(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(b)(2) Illegal Re-Entry [4:00-m-4716]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        }
+      ]
+    }
+  ]
+}

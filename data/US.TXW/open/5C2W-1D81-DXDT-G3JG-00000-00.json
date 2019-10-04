@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_614mj86_TXWD",
+  "case_key": "6:14mj86_TXWD",
+  "case_lni": "5C2W-1D81-DXDT-G3JG-00000-00",
+  "case_number": "6:14mj86",
+  "case_title": "USA v. Escandon-Rodriguez",
+  "case_info_full_case_name": "USA v. Escandon-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Escandon-Rodriguez",
+  "case_date_filed": "2014-04-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ivan Escandon-Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL REENTRY OF AN ALIEN WHO HAS BEEN DEPORTED FROM THE UNITED STATES IN VIOLATION OF 8 USC 1326."
+        },
+        {
+          "charge_offence_description": "ILLEGAL REENTRY OF AN ALIEN WHO HAS BEEN DEPORTED "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

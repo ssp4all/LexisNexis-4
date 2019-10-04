@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_199cr269_vaed",
+  "case_key": "1:99cr269_vaed",
+  "case_lni": "7WBN-R0Y0-Y892-B2HV-00000-00",
+  "case_number": "1:99cr269",
+  "case_title": "USA v. Lemert",
+  "case_info_full_case_name": "USA v. Lemert",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lemert",
+  "case_date_filed": "1999-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David Hackney",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRUCE LEMERT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:2252A.F) 18:2252A(a)(2)(A) (01/02/99)"
+        },
+        {
+          "charge_description": "(18:2252A.F) 18:2252A(a)(2)(A) DISTRIBUTION of Child Pornography (01/02/99) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(18:2252A.F) 18:2252A(a)(2)(A) (02/21/99)"
+        },
+        {
+          "charge_description": "(18:2252A.F) 18:2252A(a)(2)(A) RECEIPT of Child Pornography (02/21/99) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "(18:2252A.F) 18:2252A(a)(5)(B) (04/02/99)"
+        },
+        {
+          "charge_description": "(18:2252A.F) 18:2252A(a)(5)(B) POSSESSION of Child Pornography (04/02/99) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Claude M. Hilton",
+          "judge_guid": "urn:entity:jud-100034442"
+        }
+      ]
+    }
+  ]
+}

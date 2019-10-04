@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_103cr882_nysd",
+  "case_key": "1:03cr882_nysd",
+  "case_lni": "7WBN-PM00-Y892-B4PS-00000-00",
+  "case_number": "1:03cr882",
+  "case_title": "USA v. Omran",
+  "case_info_full_case_name": "USA v. Omran",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Omran",
+  "case_date_filed": "2003-07-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AHMED OMRAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:669.M"
+        },
+        {
+          "charge_description": "18:669.M THEFT OR EMBEZZLEMENT IN CONNECTION WITH HEALTH CARE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC371-Conspiracy"
+        },
+        {
+          "charge_description": "Complaint in violation of 18 USC 371-Conspiracy [1:02-m-2261]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

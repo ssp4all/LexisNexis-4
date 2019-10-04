@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_698m393_txwd",
+  "case_key": "6:98m393_txwd",
+  "case_lni": "7WBN-SH50-Y892-B4BD-00000-00",
+  "case_number": "6:98m393",
+  "case_title": "USA v. Berry",
+  "case_info_full_case_name": "USA v. Berry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Berry",
+  "case_date_filed": "1998-08-31",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LEONARD B. BERRY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641.M"
+        },
+        {
+          "charge_description": "18:641.M THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_disposition": "Count 1: Probation with supervision for a term of ONE (1) YEAR. Fine of $300. and special assessment of $25. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

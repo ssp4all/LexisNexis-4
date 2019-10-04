@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_308mj5806_TXWD",
+  "case_key": "3:08mj5806_TXWD",
+  "case_lni": "7WBN-HB40-Y892-B4GG-00000-00",
+  "case_number": "3:08mj5806",
+  "case_title": "USA v. Montanez-Saenz",
+  "case_info_full_case_name": "USA v. Montanez-Saenz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Montanez-Saenz",
+  "case_date_filed": "2008-10-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joel Arturo Montanez-Saenz",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

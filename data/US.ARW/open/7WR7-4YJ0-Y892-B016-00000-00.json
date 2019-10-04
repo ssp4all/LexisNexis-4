@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_509mj5062_ARWD",
+  "case_key": "5:09mj5062_ARWD",
+  "case_lni": "7WR7-4YJ0-Y892-B016-00000-00",
+  "case_number": "5:09mj5062",
+  "case_title": "USA v. Martinez",
+  "case_info_full_case_name": "USA v. Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez",
+  "case_date_filed": "2009-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Felipe Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "31:5324(a)(2)-KNOWINGLY"
+        },
+        {
+          "charge_description": "31:5324(a)(2)-KNOWINGLY CAUSE A DOMESTIC FINANCIAL INSTITUTION TO FILE A CURRENCY TRANSACTION REPORT THAT CONTAINS A MATERIAL OMISSION OR MISREPRESENTATION OF FACT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James R. Marschewski",
+          "judge_guid": "urn:entity:jud-100028910"
+        }
+      ]
+    }
+  ]
+}

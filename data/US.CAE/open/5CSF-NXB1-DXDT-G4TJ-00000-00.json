@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_214sw440_CAED",
+  "case_key": "2:14sw440_CAED",
+  "case_lni": "5CSF-NXB1-DXDT-G4TJ-00000-00",
+  "case_number": "2:14sw440",
+  "case_title": "USA v. Samsung Model SGH-T189N Device ID 356881051728056",
+  "case_info_full_case_name": "USA v. Samsung Model SGH-T189N Device ID 356881051728056",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Samsung Model SGH-T189N Device ID 356881051728056",
+  "case_date_filed": "2014-07-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Olusere Olowoyeye , GOVT",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Samsung Model SGH-T189N Device ID 356881051728056",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kendall J. Newman",
+          "judge_guid": "urn:entity:jud-100027477"
+        }
+      ]
+    }
+  ]
+}

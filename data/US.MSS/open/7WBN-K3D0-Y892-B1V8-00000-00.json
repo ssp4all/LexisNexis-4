@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSS_195m88_mssd",
+  "case_key": "1:95m88_mssd",
+  "case_lni": "7WBN-K3D0-Y892-B1V8-00000-00",
+  "case_number": "1:95m88",
+  "case_title": "USA v. Owens",
+  "case_info_full_case_name": "USA v. Owens",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Owens",
+  "case_date_filed": "1995-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES MICHAEL OWENS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Knowingly and willingly made oral and threatening statements that he was going to kill the President of the United States; in violation of 18 USC 871"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John M. Roper",
+          "judge_guid": "urn:entity:jud-100011748"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_610cr6005_NYWD",
+  "case_key": "6:10cr6005_NYWD",
+  "case_lni": "7XJG-CB30-Y892-B1JT-00000-00",
+  "case_number": "6:10cr6005",
+  "case_title": "USA v. Lara-Garcia",
+  "case_info_full_case_name": "USA v. Lara-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lara-Garcia",
+  "case_date_filed": "2010-01-14",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Vidal Lara-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Reentry of Deported Aliens 8:1326(A) (1)"
+        },
+        {
+          "charge_disposition": "Defendant is Sentenced to Time Served; no Fine; $100 Special Assessment; One Year Supervised Release, Unsupervised if Deported; And Other Conditions as Set Forth."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F   the defendant, a citizen of"
+        },
+        {
+          "charge_description": "8:1326A.F   the defendant, a citizen of Mexico, Was Found After Having Been Removed From The United States in The Years 2004 And 2005, And That The Defendant Knowingly And Unlawfully Re-Entered The United States Without The Permission of The Attorney General of The United States or The Secretary For Homeland Securitydismissed."
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Charles J Siragusa",
+          "judge_guid": "urn:entity:jud-100065634"
+        }
+      ]
+    }
+  ]
+}

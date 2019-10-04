@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_309mj27_NDD",
+  "case_key": "3:09mj27_NDD",
+  "case_lni": "7WBN-HBM0-Y892-B40V-00000-00",
+  "case_number": "3:09mj27",
+  "case_title": "USA v. Chilel-Lopez",
+  "case_info_full_case_name": "USA v. Chilel-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chilel-Lopez",
+  "case_date_filed": "2009-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Santos Chilel-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)"
+        },
+        {
+          "charge_description": "8:1326(a) found to be in the U.S. after having been deported; 8:1326A.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen K. Klein",
+          "judge_guid": "urn:entity:jud-100037183"
+        }
+      ]
+    }
+  ]
+}

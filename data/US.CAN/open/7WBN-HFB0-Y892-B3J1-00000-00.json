@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_396m30250_cand",
+  "case_key": "3:96m30250_cand",
+  "case_lni": "7WBN-HFB0-Y892-B3J1-00000-00",
+  "case_number": "3:96m30250",
+  "case_title": "USA v. Aguilar-Bautista",
+  "case_info_full_case_name": "USA v. Aguilar-Bautista",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguilar-Bautista",
+  "case_date_filed": "1996-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALFONSO AGUILAR-BAUTISTA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(b)(2) Reentry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE"
+        }
+      ]
+    }
+  ]
+}

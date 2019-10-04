@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_195cr951_nyed",
+  "case_key": "1:95cr951_nyed",
+  "case_lni": "7WBN-K2V0-Y892-B2BM-00000-00",
+  "case_number": "1:95cr951",
+  "case_title": "USA v. Wright",
+  "case_info_full_case_name": "USA v. Wright",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wright",
+  "case_date_filed": "1995-10-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDWARD WRIGHT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "29:439B.M"
+        },
+        {
+          "charge_description": "29:439B.M FAIR LABOR STANDARDS ACT-DEFENDANT DID KNOWINGLY AND INTENTIONALLY CONSPIRE WITH OTHERS TO MAKE FALSE STATEMENTS AND REPRESENTATIONS TO BE FALSE, IN REPORTS REQUIRED TO BE FILED WITH THE SECRETARY OF LABOR. (1)"
+        },
+        {
+          "charge_disposition": "DEFENDANT IS SENTENCED TO A TERM OF ONE (1) YEAR PROBATION WITH A SPECIAL CONDITION THAT HE SERVE 6 MONTHS OF THIS PROBATION TERM IN HOME DETENTION. THE COURT RECOMMENDS THAT HOME DETENTION BE SUPERVISED WITHOUT ELECTRONIC MONITORING. THE DEFENDANT IS REQUIRED TO BE IN HIS PLACE OF RESIDENCE AT ALL TIMES EXCEPT FOR APPROVED ABSENCES FOR GAINFUL EMPLOYMENT, COMMUNITY SERVICE, RELIGIOUS SERVICE, MEDICAL CARE FOR HIMSELF &; HIS DAUGHTER, EDUCATION OR TRAINING PROGRAM. DEFENDANT IS SENTENCED TO 100 HOURS OF COMMUNITY SERVICE AS DIRECTED BY THE PROBATION OFFICER. DEFENDANT MUST PAY A SPECIAL ASSESSMENT OF $25.00 TO THE UNITED STATES, WHICH SHALL BE DUE IMMEDIATELY. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Marilyn Dolan Go",
+          "judge_guid": "urn:entity:jud-100049004"
+        }
+      ]
+    }
+  ]
+}

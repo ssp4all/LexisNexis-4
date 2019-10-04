@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_208cr199_INND",
+  "case_key": "2:08cr199_INND",
+  "case_lni": "7WBN-KYD0-Y892-B0MP-00000-00",
+  "case_number": "2:08cr199",
+  "case_title": "United States of America v. Robles",
+  "case_info_full_case_name": "United States of America v. Robles",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Robles",
+  "case_date_filed": "2008-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Blas Robles Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 (500)"
+        },
+        {
+          "charge_description": "21:846 CONSPIRACY TO DISTRIBUTE FIVE (500) HUNDRED GRAMS OR MORE OF A MIXTURE AND SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF COCAINE, A SCHEDULE II CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Philip P Simon",
+          "judge_guid": "urn:entity:jud-100026251"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrew P Rodovich",
+          "judge_guid": "urn:entity:jud-100001577"
+        }
+      ]
+    }
+  ]
+}

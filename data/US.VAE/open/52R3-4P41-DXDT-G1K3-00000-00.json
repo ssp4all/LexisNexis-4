@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_311cr111_VAED",
+  "case_key": "3:11cr111_VAED",
+  "case_lni": "52R3-4P41-DXDT-G1K3-00000-00",
+  "case_number": "3:11cr111",
+  "case_title": "USA v. Mohamed",
+  "case_info_full_case_name": "USA v. Mohamed",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mohamed",
+  "case_date_filed": "2011-04-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mohamed K. Mohamed",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7206(1)"
+        },
+        {
+          "charge_description": "26:7206(1) TAX FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Henry E. Hudson",
+          "judge_guid": "urn:entity:jud-100033906"
+        }
+      ]
+    }
+  ]
+}

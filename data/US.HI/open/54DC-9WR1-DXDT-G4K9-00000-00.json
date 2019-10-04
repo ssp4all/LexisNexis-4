@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_111cr1147_HID",
+  "case_key": "1:11cr1147_HID",
+  "case_lni": "54DC-9WR1-DXDT-G4K9-00000-00",
+  "case_number": "1:11cr1147",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2011-11-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David M. Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "40:1315.P 431:10C-104; 32CFR634.25(f); 3271221/H14"
+        },
+        {
+          "charge_description": "40:1315.P VIOLATION OF REGULATIONS ON GOVERNMENT PROPERTY-HRS 431:10C-104; 32 CFR 634.25(f); no valid insurance; [09/21/2011]; TAMC; 3271221/H14 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "RICHARD L. PUGLISI",
+          "judge_guid": "urn:entity:jud-100031997"
+        }
+      ]
+    }
+  ]
+}

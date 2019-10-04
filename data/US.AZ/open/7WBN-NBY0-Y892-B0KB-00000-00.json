@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_403cr1428_azd",
+  "case_key": "4:03cr1428_azd",
+  "case_lni": "7WBN-NBY0-Y892-B0KB-00000-00",
+  "case_number": "4:03cr1428",
+  "case_title": "USA v. Castro",
+  "case_info_full_case_name": "USA v. Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castro",
+  "case_date_filed": "2003-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ERNESTO CASTRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "CT 1 8:1324(a)(1)(A)(ii) Transportation of Illegal Aliens (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

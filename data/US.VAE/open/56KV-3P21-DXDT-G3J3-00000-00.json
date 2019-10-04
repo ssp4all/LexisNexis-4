@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_312mj366_VAED",
+  "case_key": "3:12mj366_VAED",
+  "case_lni": "56KV-3P21-DXDT-G3J3-00000-00",
+  "case_number": "3:12mj366",
+  "case_title": "USA v. Garnes",
+  "case_info_full_case_name": "USA v. Garnes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garnes",
+  "case_date_filed": "2012-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katharine M.E. Adams",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "N. George Metcalf",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shanice T. Garnes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 13 assimilating 1950 Code of Va., as amended, 18.2-266ii and 18.2-270 - DUI (BAC .11)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "32 C.F.R. Section 634.25(f) assimilating 1950 Code of Va., as amended, 46.2-1003 - Defective equipment(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Novak",
+          "judge_guid": "urn:entity:jud-100031335"
+        }
+      ]
+    }
+  ]
+}

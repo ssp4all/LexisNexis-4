@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_500cr860_txsd",
+  "case_key": "5:00cr860_txsd",
+  "case_lni": "7WBN-HT10-Y892-B2CW-00000-00",
+  "case_number": "5:00cr860",
+  "case_title": "USA v. Perez-Segura",
+  "case_info_full_case_name": "USA v. Perez-Segura",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Segura",
+  "case_date_filed": "2000-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HILARIO PEREZ-SEGURA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 20 3"
+        },
+        {
+          "charge_description": "Ct 1: Illegal entry after deportation; Penalty: imprisonment of not more than 20 yrs, fine of not more than $250,000.00, Supervised release of not more than 3 yrs, Special Assessment of $100.00. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Knowingly and willingly re-entered the United States after having been previously denied admission, excluded, deported, or removed, or has departed the United States while an order of exclusion, deportation or removal is outstanding. [5:00-m-2570]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

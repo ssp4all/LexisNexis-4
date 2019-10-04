@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_210mj182_PAWD",
+  "case_key": "2:10mj182_PAWD",
+  "case_lni": "5856-95T1-DXDT-G1K4-00000-00",
+  "case_number": "2:10mj182",
+  "case_title": "USA v. SUPER 8 MOTEL, 929 SHERATON DRIVE, MARS, PA 16046, ROOM 223",
+  "case_info_full_case_name": "USA v. SUPER 8 MOTEL, 929 SHERATON DRIVE, MARS, PA 16046, ROOM 223",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SUPER 8 MOTEL, 929 SHERATON DRIVE, MARS, PA 16046, ROOM 223",
+  "case_date_filed": "2010-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SUPER 8 MOTEL, 929 SHERATON DRIVE, MARS, PA 16046, ROOM 223",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cathy Bissoon",
+          "judge_guid": "urn:entity:jud-100091821"
+        }
+      ]
+    }
+  ]
+}

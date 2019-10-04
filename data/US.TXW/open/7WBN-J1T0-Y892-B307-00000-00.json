@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_608mj159_TXWD",
+  "case_key": "6:08mj159_TXWD",
+  "case_lni": "7WBN-J1T0-Y892-B307-00000-00",
+  "case_number": "6:08mj159",
+  "case_title": "USA v. Brinkley",
+  "case_info_full_case_name": "USA v. Brinkley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brinkley",
+  "case_date_filed": "2008-10-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher Jerome Brinkley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "605"
+        },
+        {
+          "charge_description": "DID BY FORCE AND VIOLENCE AND BY INTIMIDATION, TAKE PROPERTY BELONGING TO ANOTHER, IN THE CARE, CUSTODY AND CONTROL OF FIRST UNIVERSITY CREDIT UNION, LOCATED AT 605 SOUTH UNIVERSITY PARKS DRIVE, WACO, TEXAS, THE DEPOSITS OF WHICH WERE THEN INSURED BY THE NATIONAL CREDIT UNION ADMINISTRATION IN VIOLATION OF 18 USC 2113(a)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

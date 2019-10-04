@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_409cr40017_ARWD",
+  "case_key": "4:09cr40017_ARWD",
+  "case_lni": "7WSY-JF40-Y892-B00M-00000-00",
+  "case_number": "4:09cr40017",
+  "case_title": "USA v. Perez-Cruz",
+  "case_info_full_case_name": "USA v. Perez-Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-Cruz",
+  "case_date_filed": "2009-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fernando Perez-Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546(b)-FALSE 274A(b)"
+        },
+        {
+          "charge_description": "18:1546(b)-FALSE ATTESTATION FOR THE PURPOSE OF SATISFYING A REQUIREMENT OF SECTION 274A(b) OF THE IMMIGRATION AND NATURALIZATION ACT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1546.F"
+        },
+        {
+          "charge_description": "18:1546.F knowingly using the identity and Social Security number of another person"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry F. Barnes",
+          "judge_guid": "urn:entity:jud-100052089"
+        }
+      ]
+    }
+  ]
+}

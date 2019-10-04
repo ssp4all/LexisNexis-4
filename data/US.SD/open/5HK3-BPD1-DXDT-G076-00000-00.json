@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_415cr40136_SDD",
+  "case_key": "4:15cr40136_SDD",
+  "case_lni": "5HK3-BPD1-DXDT-G076-00000-00",
+  "case_number": "4:15cr40136",
+  "case_title": "USA v. Utterback",
+  "case_info_full_case_name": "USA v. Utterback",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Utterback",
+  "case_date_filed": "2015-12-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Collin James Utterback",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. §§ 2252A(a)(2)(A) and 2252A(b)(1) DISTRIBUTION AND RECEIPT OF MATERIAL INVOLVING THE SEXUAL EXPLOITATION OF MINORS(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. §§ 2251(a) AND 2251(e) SEXUAL EXPLOITATION OF A CHILD(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Karen E. Schreier",
+          "judge_guid": "urn:entity:jud-100030778"
+        },
+        {
+          "judge_name": "US Magistrate Judge Veronica L. Duffy",
+          "judge_guid": "urn:entity:jud-100008272"
+        }
+      ]
+    }
+  ]
+}

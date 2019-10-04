@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_804cr225_FLMD",
+  "case_key": "8:04cr225_FLMD",
+  "case_lni": "7WBN-PD20-Y892-B0C9-00000-00",
+  "case_number": "8:04cr225",
+  "case_title": "USA v. Haynes",
+  "case_info_full_case_name": "USA v. Haynes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Haynes",
+  "case_date_filed": "2004-05-12",
+  "case_status": "Closed",
+  "case_status_date": "06/27/2006",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Adelaide G. Few",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph Haynes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2422(b) use a computer in interstate commerce to attempt to persuade, induce, or entice an individual under the age of 18 to engage in sexual activity [ 8:04-m -217 ]"
+        },
+        {
+          "charge_offence_description": "18:2422(b) use a computer in interstate commerce t"
+        },
+        {
+          "charge_description": "18:2422.F COERCION OR ENTICEMENT OF FEMALE(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 78 Months; Supervised Release: 60 months; Fine: Waived; Special Assessment:100.00; Defendant remanded into custody of US Marshal."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan C Bucklew",
+          "judge_guid": "urn:entity:jud-100063877"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark A. Pizzo",
+          "judge_guid": "urn:entity:jud-100059133"
+        }
+      ]
+    }
+  ]
+}

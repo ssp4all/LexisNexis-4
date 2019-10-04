@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304m2139_TXWD",
+  "case_key": "3:04m2139_TXWD",
+  "case_lni": "7WBN-RPN0-Y892-B027-00000-00",
+  "case_number": "3:04m2139",
+  "case_title": "USA v. Garcia-Martinez",
+  "case_info_full_case_name": "USA v. Garcia-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Martinez",
+  "case_date_filed": "2004-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GENARO GARCIA-MARTINEZ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

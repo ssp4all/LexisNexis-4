@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_318cr3008_TXWD",
+  "case_key": "3:18cr3008_TXWD",
+  "case_lni": "5TGD-X7G1-DXDT-G222-00000-00",
+  "case_number": "3:18cr3008",
+  "case_title": "USA v. Martinez-Campos",
+  "case_info_full_case_name": "USA v. Martinez-Campos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Campos",
+  "case_date_filed": "2018-10-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eloy Martinez-Campos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324.F-BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F-BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank Montalvo",
+          "judge_guid": "urn:entity:jud-100016084"
+        }
+      ]
+    }
+  ]
+}

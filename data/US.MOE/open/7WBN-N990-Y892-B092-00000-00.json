@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_401cr358_moed",
+  "case_key": "4:01cr358_moed",
+  "case_lni": "7WBN-N990-Y892-B092-00000-00",
+  "case_number": "4:01cr358",
+  "case_title": "USA v. Hargrove",
+  "case_info_full_case_name": "USA v. Hargrove",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hargrove",
+  "case_date_filed": "2001-08-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIMOTHY EARL HARGROVE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=ND.F (CRACK)"
+        },
+        {
+          "charge_description": "21:841B=ND.F NARCOTICS-POSSESS W/INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE: COCAINE BASE (CRACK) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "E. Richard Webber",
+          "judge_guid": "urn:entity:jud-100002390"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "David D. Noce",
+          "judge_guid": "urn:entity:jud-100027370"
+        }
+      ]
+    }
+  ]
+}

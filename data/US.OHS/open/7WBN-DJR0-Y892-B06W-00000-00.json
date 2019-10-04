@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_192cr17_ohsd",
+  "case_key": "1:92cr17_ohsd",
+  "case_lni": "7WBN-DJR0-Y892-B06W-00000-00",
+  "case_number": "1:92cr17",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "1992-02-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "William Edward Hunt",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAYSHAWN WILLIAMS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 21:841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 21:841(b)(1)(A) NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (1)"
+        },
+        {
+          "charge_disposition": "Case called for sentencing before J. Spiegel. SENT: custody 183 mos. followed by 5 yrs. supervised release. Assessed $50. Dft remanded to custody. Court reporter: Mary Ann Ranz (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "S. Arthur Spiegel",
+          "judge_guid": "urn:entity:jud-100020351"
+        }
+      ]
+    }
+  ]
+}

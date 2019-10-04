@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_104mj1037_nywd",
+  "case_key": "1:04mj1037_nywd",
+  "case_lni": "7WBN-JJM0-Y892-B231-00000-00",
+  "case_number": "1:04mj1037",
+  "case_title": "USA v. Nguyen et al",
+  "case_info_full_case_name": "USA v. Nguyen et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nguyen et al",
+  "case_date_filed": "2004-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gia Huan Nguyen",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Leslie G. Foschio",
+          "judge_guid": "urn:entity:jud-100055538"
+        }
+      ]
+    },
+    {
+      "party_name": "Hotaru J. Ichinose",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Leslie G. Foschio",
+          "judge_guid": "urn:entity:jud-100055538"
+        }
+      ]
+    },
+    {
+      "party_name": "Thinh Tan Le",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Leslie G. Foschio",
+          "judge_guid": "urn:entity:jud-100055538"
+        }
+      ]
+    }
+  ]
+}

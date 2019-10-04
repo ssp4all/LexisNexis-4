@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_216po134_CAED",
+  "case_key": "2:16po134_CAED",
+  "case_lni": "5JK0-W8X1-DXDT-G2HM-00000-00",
+  "case_number": "2:16po134",
+  "case_title": "USA vs Valerio",
+  "case_info_full_case_name": "USA vs Valerio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valerio",
+  "case_date_filed": "2016-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Richard P Valerio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failed To Stop at A Posted Stop Sign (4077113)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Allison Claire",
+          "judge_guid": "urn:entity:jud-100102868"
+        }
+      ]
+    }
+  ]
+}

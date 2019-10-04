@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_314mj2348_TXWD",
+  "case_key": "3:14mj2348_TXWD",
+  "case_lni": "5CBH-MWC1-DXDT-G1CY-00000-00",
+  "case_number": "3:14mj2348",
+  "case_title": "USA v. Aguilar-Rodriguez",
+  "case_info_full_case_name": "USA v. Aguilar-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguilar-Rodriguez",
+  "case_date_filed": "2014-06-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Magdaleno Aguilar-Rodriguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        },
+        {
+          "charge_offence_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Miguel A. Torres",
+          "judge_guid": "urn:entity:jud-100102919"
+        }
+      ]
+    }
+  ]
+}

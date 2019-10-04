@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_210mj555_NVD",
+  "case_key": "2:10mj555_NVD",
+  "case_lni": "803N-J1X0-Y892-B0SM-00000-00",
+  "case_number": "2:10mj555",
+  "case_title": "USA v. Halawen",
+  "case_info_full_case_name": "USA v. Halawen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Halawen",
+  "case_date_filed": "2010-08-05",
+  "case_status": "Closed",
+  "case_status_date": "08/23/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mohammed Adel Halawen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RULE 5 - Mail Fraud/Trafficking"
+        },
+        {
+          "charge_disposition": "TRANSMITTED to Central District of California 8/23/10"
+        },
+        {
+          "charge_offence_description": "RULE 5 - Mail Fraud/Trafficking\t\t\t\t\t\t\t\t\t\t\t\tTRANS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peggy A. Leen",
+          "judge_guid": "urn:entity:jud-100030202"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peggy A. Leen",
+          "judge_guid": "urn:entity:jud-100030202"
+        }
+      ]
+    }
+  ]
+}

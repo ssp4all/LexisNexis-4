@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_309cr5406_WAWD",
+  "case_key": "3:09cr5406_WAWD",
+  "case_lni": "7WBN-MYX0-Y892-B1V6-00000-00",
+  "case_number": "3:09cr5406",
+  "case_title": "USA v. Sims",
+  "case_info_full_case_name": "USA v. Sims",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sims",
+  "case_date_filed": "2009-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor Ft Lewis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brent L Sims",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "LARCENY W/IN SPECIAL MARITIME JURISDICTION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "CVB Judge"
+        }
+      ]
+    }
+  ]
+}

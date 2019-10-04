@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_191m70_gand",
+  "case_key": "1:91m70_gand",
+  "case_lni": "7WBN-JY60-Y892-B43H-00000-00",
+  "case_number": "1:91m70",
+  "case_title": "USA v. Browne",
+  "case_info_full_case_name": "USA v. Browne",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Browne",
+  "case_date_filed": "1991-01-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES E. BROWNE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2244"
+        },
+        {
+          "charge_description": "18:2244 SEXUAL ABUSE; Public Ineceny (1)"
+        },
+        {
+          "charge_disposition": "1 yr. unsupervised probation with special conditions that he pay a fine in the amount of $1,000.00 and special assessment of $25.00 and do not enter Chattahoochee National Park during probation. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John E. Dougherty",
+          "judge_guid": "urn:entity:jud-100044327"
+        }
+      ]
+    }
+  ]
+}

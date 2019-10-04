@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_707mj42_TXWD",
+  "case_key": "7:07mj42_TXWD",
+  "case_lni": "7WBN-SJD0-Y892-B2YY-00000-00",
+  "case_number": "7:07mj42",
+  "case_title": "USA v. Belloc",
+  "case_info_full_case_name": "USA v. Belloc",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Belloc",
+  "case_date_filed": "2007-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Benjamin Hernandez Belloc",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "L. Stuart Platt",
+          "judge_guid": "urn:entity:jud-100024402"
+        }
+      ]
+    }
+  ]
+}

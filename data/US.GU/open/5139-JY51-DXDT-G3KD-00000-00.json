@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GU_105mj20_GUD",
+  "case_key": "1:05mj20_GUD",
+  "case_lni": "5139-JY51-DXDT-G3KD-00000-00",
+  "case_number": "1:05mj20",
+  "case_title": "USA v. Jaimes",
+  "case_info_full_case_name": "USA v. Jaimes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jaimes",
+  "case_date_filed": "2005-05-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard Jaimes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, DRUNKEN DRIVING(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 2 years Probation; $1,000.00 Fine; $25.00 Special Assessment Fee"
+        },
+        {
+          "charge_offence_description": "Misdemeanor",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "TRAFFIC OFFENSES, DRUNKEN DRIVING&lt;br&gt;(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Misdemeanor",
+          "charge_offence_level": "2"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joaquin V.E. Manibusan",
+          "judge_guid": "urn:entity:jud-100041795"
+        }
+      ]
+    }
+  ]
+}

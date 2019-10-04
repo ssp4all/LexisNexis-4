@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_316po7813_WAWD",
+  "case_key": "3:16po7813_WAWD",
+  "case_lni": "5M7G-S581-DXDT-G4FX-00000-00",
+  "case_number": "3:16po7813",
+  "case_title": "USA vs Custer",
+  "case_info_full_case_name": "USA vs Custer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Custer",
+  "case_date_filed": "2016-11-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jesse C Custer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Creating a disturbance (6286929)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Karen L Strombom",
+          "judge_guid": "urn:entity:jud-100019792"
+        }
+      ]
+    }
+  ]
+}

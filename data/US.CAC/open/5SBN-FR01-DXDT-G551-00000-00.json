@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_818cr97_CACD",
+  "case_key": "8:18cr97_CACD",
+  "case_lni": "5SBN-FR01-DXDT-G551-00000-00",
+  "case_number": "8:18cr97",
+  "case_title": "USA v. Ortiz",
+  "case_info_full_case_name": "USA v. Ortiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortiz",
+  "case_date_filed": "2018-05-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradley Edward Marrett",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Arturo Pacheco Ortiz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a),(b)(1) ILLEGAL ALIEN FOUND IN THE UNITED STATES FOLLOWING DEPORTATION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Defendant in violation of 8:1326(a),(b)(1)"
+        },
+        {
+          "charge_offence_description": "Defendant in violation of 8:1326(a),(b)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Josephine L. Staton",
+          "judge_guid": "urn:entity:jud-100023761"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_202m51_waed",
+  "case_key": "2:02m51_waed",
+  "case_lni": "7WBN-KG60-Y892-B4X0-00000-00",
+  "case_number": "2:02m51",
+  "case_title": "USA v. Finnie",
+  "case_info_full_case_name": "USA v. Finnie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Finnie",
+  "case_date_filed": "2002-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MAYA A FINNIE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1) 18USC2 21USC846--CONSPIRACY 50"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1) and 18 USC 2 all in violation of 21 USC 846--CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE AND DISTRIBUTE MORE THAN 50 GRAMS OF A SUBSTANCE CONTAINING COCAINE BASE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cynthia Imbrogno",
+          "judge_guid": "urn:entity:jud-100050760"
+        }
+      ]
+    }
+  ]
+}

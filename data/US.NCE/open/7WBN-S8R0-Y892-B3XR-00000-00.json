@@ -1,0 +1,174 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_502cr115_nced",
+  "case_key": "5:02cr115_nced",
+  "case_lni": "7WBN-S8R0-Y892-B3XR-00000-00",
+  "case_number": "5:02cr115",
+  "case_title": "USA v. Reed, et al",
+  "case_info_full_case_name": "USA v. Reed, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reed, et al",
+  "case_date_filed": "2002-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRIS REED",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751-ESCAPE"
+        },
+        {
+          "charge_description": "18:751-ESCAPE FROM CUSTODY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:751-ESCAPE"
+        },
+        {
+          "charge_description": "18:751-ESCAPE FROM CUSTODY &; AIDING AND ABETTING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC751"
+        },
+        {
+          "charge_description": "Escape from federal custody, in violation of 18 USC 751 [5:02-m-149]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    },
+    {
+      "party_name": "ANTRAIL LAMONT LINEBERGER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751-ESCAPE"
+        },
+        {
+          "charge_description": "18:751-ESCAPE FROM CUSTODY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:751-ESCAPE"
+        },
+        {
+          "charge_description": "18:751-ESCAPE FROM CUSTODY &; AIDING AND ABETTING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    },
+    {
+      "party_name": "JEFFREY BERNARD MOORE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751-ESCAPE"
+        },
+        {
+          "charge_description": "18:751-ESCAPE FROM CUSTODY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    },
+    {
+      "party_name": "DAVID JARROD THREATT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751-ESCAPE"
+        },
+        {
+          "charge_description": "18:751-ESCAPE FROM CUSTODY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    },
+    {
+      "party_name": "MONICA ROCHA DAVIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:752-AIDING"
+        },
+        {
+          "charge_description": "18:752-AIDING AND ASSISTING AN ESCAPE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:4-MISPRISION"
+        },
+        {
+          "charge_description": "18:4-MISPRISION OF FELONY (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

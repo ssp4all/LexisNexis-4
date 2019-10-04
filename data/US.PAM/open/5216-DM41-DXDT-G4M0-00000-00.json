@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAM_111mj12_PAMD",
+  "case_key": "1:11mj12_PAMD",
+  "case_lni": "5216-DM41-DXDT-G4M0-00000-00",
+  "case_number": "1:11mj12",
+  "case_title": "USA v. Plumey",
+  "case_info_full_case_name": "USA v. Plumey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Plumey",
+  "case_date_filed": "2011-01-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Luis Roman Plumey",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUDS AND SWINDLES (199)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "FRAUDS AND SWINDLES (511)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Andrew Smyser",
+          "judge_guid": "urn:entity:jud-100020580"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_416mj11232_AZD",
+  "case_key": "4:16mj11232_AZD",
+  "case_lni": "5MD1-0R21-DXDT-G1C7-00000-00",
+  "case_number": "4:16mj11232",
+  "case_title": "USA v. Alcantar-Vazquez",
+  "case_info_full_case_name": "USA v. Alcantar-Vazquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alcantar-Vazquez",
+  "case_date_filed": "2016-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sergio David Alcantar-Vazquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1 8:1326(a)(1) Illegal Re Entry; CT 2 8:1325 Illegal Entry"
+        },
+        {
+          "charge_offence_description": "CT 1 8:1326(a)(1) Illegal Re Entry; CT 2 8:1325 Il"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_106cr503_HID",
+  "case_key": "1:06cr503_HID",
+  "case_lni": "7WBN-F3B0-Y892-B2XF-00000-00",
+  "case_number": "1:06cr503",
+  "case_title": "USA v. Nichollsmeneses",
+  "case_info_full_case_name": "USA v. Nichollsmeneses",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nichollsmeneses",
+  "case_date_filed": "2006-09-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Julio C. Nichollsmeneses",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13, 291E-61(a)(1) (a)(3)TRAFFIC A2245607 H19"
+        },
+        {
+          "charge_description": "18:13, HRS 291E-61(a)(1) and (a)(3)TRAFFIC OFFENSES, DRUNKEN DRIVING, Wheeler Army Air Field, HI, [9/3/06], A2245607 H19 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "BARRY M. KURREN",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

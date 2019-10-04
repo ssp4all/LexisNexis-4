@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_314po35_CASD",
+  "case_key": "3:14po35_CASD",
+  "case_lni": "5BS8-1P71-DXDT-G4DJ-00000-00",
+  "case_number": "3:14po35",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2014-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ashley I Smith",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driving Under the Influence of Alcohol or Drugs (N0467836)(1)"
+        },
+        {
+          "charge_disposition": "500 dollars due by 7/23/14, AA Meetings, First Conviction Program, 3 Years Unsupervised Probation to the Court"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Maintain financial responsibility and carry evidence in vehicle (N0467839)(2)"
+        },
+        {
+          "charge_disposition": "DismissedDisposition: Dismissed/Acquitted - Plea Agreement(PD)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Driver's License, to be in possession (N0467837)(3)"
+        },
+        {
+          "charge_disposition": "DismissedDisposition: Dismissed/Acquitted - Plea Agreement(PD)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Registration card in vehicle (N0467838)(4)"
+        },
+        {
+          "charge_disposition": "DismissedDisposition: Dismissed/Acquitted - Plea Agreement(PD)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karen S. Crawford",
+          "judge_guid": "urn:entity:jud-100021163"
+        }
+      ]
+    }
+  ]
+}

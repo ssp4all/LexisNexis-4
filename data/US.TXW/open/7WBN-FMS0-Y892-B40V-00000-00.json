@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_395m755_txwd",
+  "case_key": "3:95m755_txwd",
+  "case_lni": "7WBN-FMS0-Y892-B40V-00000-00",
+  "case_number": "3:95m755",
+  "case_title": "USA v. Peters",
+  "case_info_full_case_name": "USA v. Peters",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peters",
+  "case_date_filed": "1995-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JERRY DALE PETERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "escape from custody in violation of 18 USC 751(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

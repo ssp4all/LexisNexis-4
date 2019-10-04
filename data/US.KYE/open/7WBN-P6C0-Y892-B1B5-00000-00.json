@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_608cr117_KYED",
+  "case_key": "6:08cr117_KYED",
+  "case_lni": "7WBN-P6C0-Y892-B1B5-00000-00",
+  "case_number": "6:08cr117",
+  "case_title": "USA v. Peace et al",
+  "case_info_full_case_name": "USA v. Peace et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peace et al",
+  "case_date_filed": "2008-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Vincent Peace",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:471 2"
+        },
+        {
+          "charge_description": "18:471 and 2 MANUFACTURING COUNTERFEIT CURRENCY &; AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472"
+        },
+        {
+          "charge_description": "18:472 PASSING COUNTERFEIT CURRENCY (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Gregory"
+        },
+        {
+          "judge_title": "Robert"
+        }
+      ]
+    },
+    {
+      "party_name": "Amanda Jo Lowrance",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:471 2"
+        },
+        {
+          "charge_description": "18:471 and 2 MANUFACTURING COUNTERFEIT CURRENCY &; AIDING AND ABETTING (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Gregory"
+        },
+        {
+          "judge_title": "Robert"
+        }
+      ]
+    }
+  ]
+}

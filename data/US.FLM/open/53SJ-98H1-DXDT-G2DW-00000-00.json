@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_811cr472_FLMD",
+  "case_key": "8:11cr472_FLMD",
+  "case_lni": "53SJ-98H1-DXDT-G2DW-00000-00",
+  "case_number": "8:11cr472",
+  "case_title": "USA v. Nieves",
+  "case_info_full_case_name": "USA v. Nieves",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nieves",
+  "case_date_filed": "2011-09-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard Nieves",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:371.F  CONSPIRACY TO DEFRAUD THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 6 months; Supervised release: 36 months; Restitution: $1,418,736.83; Special assessment: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:641.F  PUBLIC MONEY, PROPERTY OR RECORDS(2)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 6 months to run concurrently with count 1; Supervised release: 36 months to run concurrently with count 1; Special assessment: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan C. Bucklew",
+          "judge_guid": "urn:entity:jud-100063877"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas G. Wilson",
+          "judge_guid": "urn:entity:jud-100022017"
+        }
+      ]
+    }
+  ]
+}

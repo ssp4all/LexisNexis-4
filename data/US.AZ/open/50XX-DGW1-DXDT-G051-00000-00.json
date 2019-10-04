@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_210cr1277_AZD",
+  "case_key": "2:10cr1277_AZD",
+  "case_lni": "50XX-DGW1-DXDT-G051-00000-00",
+  "case_number": "2:10cr1277",
+  "case_title": "USA v. Soto-Mendoza",
+  "case_info_full_case_name": "USA v. Soto-Mendoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Soto-Mendoza",
+  "case_date_filed": "2010-09-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Arturo A Aguilar",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marcos Soto-Mendoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) Reentry of deported alien"
+        },
+        {
+          "charge_offence_description": "8:1326(a) Reentry of deported alien"
+        },
+        {
+          "charge_description": "8:1326(a); Reentry of Removed Alien(1)"
+        },
+        {
+          "charge_disposition": "Dft is committed to BOP for FIVE (5) MONTHS, with credit for time served, followed by supervised release for ONE (1) YEAR - on 4/28/2014 Supervised release revoked. Defendant committed to the Bureau of Prisons for a term of 14 months with no supervised release to follow to run consecutive to the sentence imposed in CR11-02628-TUC-CKJ(BPV)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

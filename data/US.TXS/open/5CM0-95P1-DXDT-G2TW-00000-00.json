@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_714mj1291_TXSD",
+  "case_key": "7:14mj1291_TXSD",
+  "case_lni": "5CM0-95P1-DXDT-G2TW-00000-00",
+  "case_number": "7:14mj1291",
+  "case_title": "USA v. Lopez-Martinez",
+  "case_info_full_case_name": "USA v. Lopez-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Martinez",
+  "case_date_filed": "2014-07-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Emigdio Lopez-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F"
+        },
+        {
+          "charge_offence_description": "8:1326.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dorina Ramos",
+          "judge_guid": "urn:entity:jud-100070094"
+        }
+      ]
+    }
+  ]
+}

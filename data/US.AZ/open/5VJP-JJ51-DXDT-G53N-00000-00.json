@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_419mj1679_AZD",
+  "case_key": "4:19mj1679_AZD",
+  "case_lni": "5VJP-JJ51-DXDT-G53N-00000-00",
+  "case_number": "4:19mj1679",
+  "case_title": "USA v. Leon-Mendez",
+  "case_info_full_case_name": "USA v. Leon-Mendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leon-Mendez",
+  "case_date_filed": "2019-03-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Ricardo Leon-Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1 8:1326(a) enhanced by 8:1326(b)(1) Re-Entry of Removed Alien; CT 2 8:1325(a)(1) Illegal Entry"
+        },
+        {
+          "charge_offence_description": "CT 1 8:1326(a) enhanced by 8:1326(b)(1) Re-Entry o"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

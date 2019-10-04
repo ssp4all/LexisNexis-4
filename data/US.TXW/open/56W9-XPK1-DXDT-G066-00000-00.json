@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_312cr2325_TXWD",
+  "case_key": "3:12cr2325_TXWD",
+  "case_lni": "56W9-XPK1-DXDT-G066-00000-00",
+  "case_number": "3:12cr2325",
+  "case_title": "USA v. Castellano-Angulo",
+  "case_info_full_case_name": "USA v. Castellano-Angulo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castellano-Angulo",
+  "case_date_filed": "2012-10-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pedro Castellano-Angulo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1)POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA(1)"
+        },
+        {
+          "charge_disposition": "BOP 24 months, with credit for time served; 15 months in CR-06-1990-TUC-JMR to be served consecutively; 3 years sup rel; $100 S/A"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Guaderrama",
+          "judge_guid": "urn:entity:jud-100104570"
+        }
+      ]
+    }
+  ]
+}

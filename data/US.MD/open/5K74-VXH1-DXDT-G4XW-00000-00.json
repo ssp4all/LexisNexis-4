@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_816po5510_MDD",
+  "case_key": "8:16po5510_MDD",
+  "case_lni": "5K74-VXH1-DXDT-G4XW-00000-00",
+  "case_number": "8:16po5510",
+  "case_title": "USA vs Clever",
+  "case_info_full_case_name": "USA vs Clever",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clever",
+  "case_date_filed": "2016-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dale Clever",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO DISPLAY A CURRENT/VALID PARKING PERMIT AS REQUIRED (4904996)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

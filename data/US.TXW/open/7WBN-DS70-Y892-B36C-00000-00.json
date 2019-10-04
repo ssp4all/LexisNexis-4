@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_304m3335_TXWD",
+  "case_key": "3:04m3335_TXWD",
+  "case_lni": "7WBN-DS70-Y892-B36C-00000-00",
+  "case_number": "3:04m3335",
+  "case_title": "USA v. Aceves-Burgos",
+  "case_info_full_case_name": "USA v. Aceves-Burgos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aceves-Burgos",
+  "case_date_filed": "2004-08-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE ARTURO ACEVES-BURGOS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Illegal re-entry after deportation in violation of 8:1326(a)(1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_413cr11_GAMD",
+  "case_key": "4:13cr11_GAMD",
+  "case_lni": "585H-X391-DXDT-G2P3-00000-00",
+  "case_number": "4:13cr11",
+  "case_title": "UNITED STATES OF AMERICA v. CARVER et al",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. CARVER et al",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "CARVER et al",
+  "case_date_filed": "2013-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "LINDSAY BOZICEVICH FEINBERG",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KEITH B CARVER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F - Possession of methamphetamine with intent to distribute(1)"
+        },
+        {
+          "charge_disposition": "168 months imprisonment, 4 years supervised release, $100 MAF per count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F - Possession of a Firearm in Furtherance of a Drug Trafficking Crime(2)"
+        },
+        {
+          "charge_disposition": "60 months mandatory consecutive imprisonment to Count 1, 4 years supervised release concurrent to Count 1, $100 MAF per count"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924G.F - - Possession of a Firearm by a Convicted Felon(3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "CLAY D LAND",
+          "judge_guid": "urn:entity:jud-100036627"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "TONI S MCGRIFF",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F - Possession of Methamphetamine with Intent to Distribute(1s)"
+        },
+        {
+          "charge_disposition": "46 months imprisonment, 3 years supervised release, $100 MAF. Pursuant to 18 U.S.C. 3582(c)(2), imprisonment reduced to 37 months"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F - Possession of methamphetamine with intent to distribute(1)"
+        },
+        {
+          "charge_disposition": "Count Superseded"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F - Possession of a Firearm in Furtherance of a Drug Trafficking Crime(2)"
+        },
+        {
+          "charge_disposition": "Count Superseded"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "CLAY D LAND",
+          "judge_guid": "urn:entity:jud-100036627"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

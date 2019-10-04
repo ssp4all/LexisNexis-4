@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_318cr1626_TXWD",
+  "case_key": "3:18cr1626_TXWD",
+  "case_lni": "5SH4-V5N1-DXDT-G4X8-00000-00",
+  "case_number": "3:18cr1626",
+  "case_title": "USA v. Vergara-Digurnay",
+  "case_info_full_case_name": "USA v. Vergara-Digurnay",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vergara-Digurnay",
+  "case_date_filed": "2018-06-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Mallory Josephine Rasmussen",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Humberto Vergara-Digurnay",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546.F---Fraud and Misuse of Visas/Permits"
+        },
+        {
+          "charge_offence_description": "18:1546.F---Fraud and Misuse of Visas/Permits"
+        },
+        {
+          "charge_description": "8:1326A.F---REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1546.F---FRAUD AND MISUSE OF VISAS/PERMITS(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Philip R. Martinez",
+          "judge_guid": "urn:entity:jud-100041483"
+        }
+      ]
+    }
+  ]
+}

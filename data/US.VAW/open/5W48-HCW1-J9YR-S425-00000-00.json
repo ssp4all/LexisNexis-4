@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_719mj51_VAWD",
+  "case_key": "7:19mj51_VAWD",
+  "case_lni": "5W48-HCW1-J9YR-S425-00000-00",
+  "case_number": "7:19mj51",
+  "case_title": "USA v. Kovacic",
+  "case_info_full_case_name": "USA v. Kovacic",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kovacic",
+  "case_date_filed": "2019-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Daniel P. Bubar",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Kovacic",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:3184.F--Fugitives from foreign country to United States--18:3184--(9/19/1995 offense date) (6/6/2014 warrant issued from Cantonal Court in Novi Travnik, BiH)"
+        },
+        {
+          "charge_offence_description": "18:3184.F--Fugitives from foreign country to Unite"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert S. Ballou",
+          "judge_guid": "urn:entity:jud-100069807"
+        }
+      ]
+    }
+  ]
+}

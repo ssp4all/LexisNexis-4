@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_217po182_WYD",
+  "case_key": "2:17po182_WYD",
+  "case_lni": "5ND1-YVN1-DXDT-G35J-00000-00",
+  "case_number": "2:17po182",
+  "case_title": "USA vs Morgan",
+  "case_info_full_case_name": "USA vs Morgan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morgan",
+  "case_date_filed": "2017-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Keith A Morgan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Driver's license required (6604869)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Kelly H Rankin",
+          "judge_guid": "urn:entity:jud-100104788"
+        }
+      ]
+    }
+  ]
+}

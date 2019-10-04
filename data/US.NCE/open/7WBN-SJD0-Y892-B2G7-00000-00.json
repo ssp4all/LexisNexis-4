@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_707cr74_NCED",
+  "case_key": "7:07cr74_NCED",
+  "case_lni": "7WBN-SJD0-Y892-B2G7-00000-00",
+  "case_number": "7:07cr74",
+  "case_title": "USA v. Tracy",
+  "case_info_full_case_name": "USA v. Tracy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tracy",
+  "case_date_filed": "2007-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amber Marie Tracy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "100"
+        },
+        {
+          "charge_description": "Conspiracy to distribute more than 100 grams of heroin. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_209cr14020_FLSD",
+  "case_key": "2:09cr14020_FLSD",
+  "case_lni": "7WBN-FCT0-Y892-B2P6-00000-00",
+  "case_number": "2:09cr14020",
+  "case_title": "USA v. DeLuca et al",
+  "case_info_full_case_name": "USA v. DeLuca et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DeLuca et al",
+  "case_date_filed": "2009-04-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Della Danika DeLuca",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Incarceration for 84 Months, followed by 4 Years supervised release"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "NARCOTICS - POSSESSION(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government's Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frank J. Lynch, Jr",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    },
+    {
+      "party_name": "Tiffany James Brown",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Incarceration for 78 months, followed by 4 years supervised release"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "NARCOTICS - POSSESSION(2)"
+        },
+        {
+          "charge_disposition": "Incarceration for 78 months, followed by 4 years supervised release"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frank J. Lynch, Jr",
+          "judge_guid": "urn:entity:jud-100038073"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_900cr293_nyed",
+  "case_key": "9:00cr293_nyed",
+  "case_lni": "7WBN-SMF0-Y892-B27D-00000-00",
+  "case_number": "9:00cr293",
+  "case_title": "USA v. Greene",
+  "case_info_full_case_name": "USA v. Greene",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Greene",
+  "case_date_filed": "2000-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DELDRICK GREENE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F 841(b)(1)(A)(iii); 18:3551"
+        },
+        {
+          "charge_description": "21:846=ND.F and 841(b)(1)(A)(iii); 18:3551 et seq. CONSPIRACY TO DISTRIBUTE NARCOTICS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846 8/99 12/1/99,"
+        },
+        {
+          "charge_description": "21:846 On or about 8/99 and 12/1/99, dft did knowingly and intentionally conspire to distribute and possess with intent to distribute cocaine [9:99-m-1934]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joanna Seybert",
+          "judge_guid": "urn:entity:jud-100030476"
+        }
+      ]
+    }
+  ]
+}

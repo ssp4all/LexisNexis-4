@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_005cr81_MND",
+  "case_key": "0:05cr81_MND",
+  "case_lni": "7WBN-DG50-Y892-B097-00000-00",
+  "case_number": "0:05cr81",
+  "case_title": "USA v. Pillado",
+  "case_info_full_case_name": "USA v. Pillado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pillado",
+  "case_date_filed": "2005-03-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fernando Pillado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A) POSSESSION WITH INTENT TO DISTRIBUTE ACTUAL METHAMPHETAMINE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a) 1326(b)(1), 6:202(3), 202(4) 557"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b)(1), and 6:202(3), 202(4) and 557 ILLEGAL RE-ENTRY AFTER DEPORTATION (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "Possess with intent to distribute a mixture and substance containing methamphetamine in violation of 21:841(a)(1) and (b)(1)(B)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael J Davis",
+          "judge_guid": "urn:entity:jud-100071501"
+        },
+        {
+          "judge_title": "Chief Mag. Judge",
+          "judge_name": "Jonathan G Lebedoff",
+          "judge_guid": "urn:entity:jud-100030274"
+        }
+      ]
+    }
+  ]
+}

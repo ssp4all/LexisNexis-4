@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_410cr2858_AZD",
+  "case_key": "4:10cr2858_AZD",
+  "case_lni": "5195-63T1-DXDT-G0GN-00000-00",
+  "case_number": "4:10cr2858",
+  "case_title": "USA v. Romero-Sanchez",
+  "case_info_full_case_name": "USA v. Romero-Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero-Sanchez",
+  "case_date_filed": "2010-10-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Felix Romero-Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a), enhanced by 8:1326(b)(2) Illegal Re-Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(a), enhanced by 8:1326(b)(2) Illegal Re-Ent"
+        },
+        {
+          "charge_description": "8:1326 enhanced by (b)(2), Re-Entry After Deportation(1)"
+        },
+        {
+          "charge_disposition": "Defendant BOP 46 months, with credit for time served. Supervised release for a term of 36 months."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jacqueline M Rateau",
+          "judge_guid": "urn:entity:jud-100103338"
+        }
+      ]
+    }
+  ]
+}

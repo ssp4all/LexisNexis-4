@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_402cr73_mowd",
+  "case_key": "4:02cr73_mowd",
+  "case_lni": "7WBN-S1V0-Y892-B06C-00000-00",
+  "case_number": "4:02cr73",
+  "case_title": "USA v. Wardlow",
+  "case_info_full_case_name": "USA v. Wardlow",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wardlow",
+  "case_date_filed": "2002-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tony E. Wardlow",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "Defendant is sentenced to 46 months on Count 1 of the Indictment; defendant is ordered to 3 years of supervised release on Count 1; See J&;C for Special Conditions of Release; fine is waived; defendant is assessed a Special Assessment Fee of $100.00 which is due immediately; defendant is allowed to surrender to the instutition on Monday, May 26, 2003 before 2:00 p.m."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "did knowingly possess, in and affecting commerce, approximately 17 firearms, including a Beretta 12-gauge, semi-automatic shotgun, Model Number A303, Serial Number N05767E, and an American Arms Inc., 20-gauge over-under shotgun, Model Silver I, Serial Number X4656, which had been transported in interstate commerce [ 4:02-m -36 ]"
+        },
+        {
+          "charge_disposition": "Dismissed upon order of Judge Maughmer as the grand jury has returned an indictment against this dft."
+        },
+        {
+          "charge_offence_description": "did knowingly possess, in and affecting commerce, "
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Fernando J. Gaitan, Jr",
+          "judge_guid": "urn:entity:jud-100045855"
+        }
+      ]
+    }
+  ]
+}

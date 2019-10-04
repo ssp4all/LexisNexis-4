@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_419cr359_TXWD",
+  "case_key": "4:19cr359_TXWD",
+  "case_lni": "5W3V-K0T1-J9YR-S041-00000-00",
+  "case_number": "4:19cr359",
+  "case_title": "USA v. Villegas-Anchondo",
+  "case_info_full_case_name": "USA v. Villegas-Anchondo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Villegas-Anchondo",
+  "case_date_filed": "2019-05-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Manuel Villegas-Anchondo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F---REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1326 Re-entry of Deported Aliens"
+        },
+        {
+          "charge_offence_description": "8 USC 1326 Re-entry of Deported Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417cr158_AZD",
+  "case_key": "4:17cr158_AZD",
+  "case_lni": "5MSM-TD61-DXDT-G3WV-00000-00",
+  "case_number": "4:17cr158",
+  "case_title": "USA v. Figueroa-Cervantes",
+  "case_info_full_case_name": "USA v. Figueroa-Cervantes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Figueroa-Cervantes",
+  "case_date_filed": "2017-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pedro Alejandro Figueroa-Cervantes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(5)(A) and 924(a) Illegal Alien in Possession of Firearms(1)"
+        },
+        {
+          "charge_disposition": "The defendant is committed to the custody of the Bureau of Prisons for a term of SIXTY (60) MONTHS, with credit for time served, to run concurrent with Counts 3 and 4 of the Indictment; placed on supervised release for a term of THREE (3) YEARS, to run concurrent with Counts 3 and 4 of the Indictment; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)(i) Possession with Intent to Distribute Heroin(3)"
+        },
+        {
+          "charge_disposition": "The defendant is committed to the custody of the Bureau of Prisons for a term of SIXTY (60) MONTHS, with credit for time served, to run concurrent with Counts 1 and 4 of the Indictment; placed on supervised release for a term of THREE (3) YEARS, to run concurrent with Counts 1 and 4 of the Indictment; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(5)(A) and 924(a) Illegal Alien in Possession of Firearms(4)"
+        },
+        {
+          "charge_disposition": "The defendant is committed to the custody of the Bureau of Prisons for a term of SIXTY (60) MONTHS, with credit for time served, to run concurrent with Counts 1 and 3 of the Indictment; placed on supervised release for a term of THREE (3) YEARS, to run concurrent with Counts 1 and 3 of the Indictment; Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(j) and 924(a)(2) Possession of Stolen Firearms(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(j) and 924(a)(2) Possession of Stolen Firearms(5)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(j) and 924(a)(2); Transportation of firearm from another state or country with reasonable cause to believe firearm was stolen"
+        },
+        {
+          "charge_offence_description": "18:922(j) and 924(a)(2); Transportation of firearm"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_109mj2669_FLSD",
+  "case_key": "1:09mj2669_FLSD",
+  "case_lni": "7WBN-JVX0-Y892-B38R-00000-00",
+  "case_number": "1:09mj2669",
+  "case_title": "USA v. Garrido",
+  "case_info_full_case_name": "USA v. Garrido",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garrido",
+  "case_date_filed": "2009-05-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Garrido",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "42:7413.F FEDERAL ENFORCEMENT PROCEDURES, PENALTY, 18:542.F ENTRY OF GOODS BY FALSE STATEMENTS, 18:545.F SMUGGLING GOODS INTO THE US EXCEPT NARCO/LIQUOR"
+        },
+        {
+          "charge_offence_description": "42:7413.F FEDERAL ENFORCEMENT PROCEDURES, PENALTY,"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ted E. Bandstra",
+          "judge_guid": "urn:entity:jud-100052182"
+        }
+      ]
+    }
+  ]
+}

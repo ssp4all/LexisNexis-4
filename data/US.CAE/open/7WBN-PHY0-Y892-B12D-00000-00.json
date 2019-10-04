@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_100cr5025_caed",
+  "case_key": "1:00cr5025_caed",
+  "case_lni": "7WBN-PHY0-Y892-B12D-00000-00",
+  "case_number": "1:00cr5025",
+  "case_title": "USA v. Rodriguez",
+  "case_info_full_case_name": "USA v. Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez",
+  "case_date_filed": "2000-01-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "William L Sims",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "HERIBERTO RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a)(1)-ILLEGAL"
+        },
+        {
+          "charge_description": "8:1325(a)(1)-ILLEGAL ENTRY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1325(a)(1)-ILLEGAL"
+        },
+        {
+          "charge_description": "8:1325(a)(1)-ILLEGAL ENTRY (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "8:1326-DEPORTED"
+        },
+        {
+          "charge_description": "8:1326-DEPORTED ALIEN FOUND IN THE UNITED STATES (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anthony W Ishii",
+          "judge_guid": "urn:entity:jud-100033609"
+        }
+      ]
+    }
+  ]
+}

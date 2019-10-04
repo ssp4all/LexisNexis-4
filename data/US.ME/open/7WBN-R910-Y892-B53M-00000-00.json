@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ME_207mj38_MED",
+  "case_key": "2:07mj38_MED",
+  "case_lni": "7WBN-R910-Y892-B53M-00000-00",
+  "case_number": "2:07mj38",
+  "case_title": "USA v. PORTLAND, 723 RIVERSIDE STREET, APT 517, BUILDING 5 et al",
+  "case_info_full_case_name": "USA v. PORTLAND, 723 RIVERSIDE STREET, APT 517, BUILDING 5 et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PORTLAND, 723 RIVERSIDE STREET, APT 517, BUILDING 5 et al",
+  "case_date_filed": "2007-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "MAG. JUDGE",
+          "judge_name": "DAVID M. COHEN",
+          "judge_guid": "urn:entity:jud-100062400"
+        }
+      ]
+    },
+    {
+      "party_name": "MERCEDES BLACK 2006 C20 MODEL",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "MAG. JUDGE",
+          "judge_name": "DAVID M. COHEN",
+          "judge_guid": "urn:entity:jud-100062400"
+        }
+      ]
+    }
+  ]
+}

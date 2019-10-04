@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_208mj340_VAED",
+  "case_key": "2:08mj340_VAED",
+  "case_lni": "7WBN-GVY0-Y892-B24V-00000-00",
+  "case_number": "2:08mj340",
+  "case_title": "USA v. Babb",
+  "case_info_full_case_name": "USA v. Babb",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Babb",
+  "case_date_filed": "2008-07-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Erin R Haefner",
+      "attorney_label": "LEAD ATTORNEY;PRO HAC VICE;ATTORNEY TO BE NOTICED;"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jilisa R. Babb",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 641 Theft of Government Property(1)"
+        },
+        {
+          "charge_disposition": "Dismissed without prejudice on government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Douglas E. Miller",
+          "judge_guid": "urn:entity:jud-100053564"
+        }
+      ]
+    }
+  ]
+}

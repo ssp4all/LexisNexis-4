@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_405cr452_MOWD",
+  "case_key": "4:05cr452_MOWD",
+  "case_lni": "7WBN-DV80-Y892-B50F-00000-00",
+  "case_number": "4:05cr452",
+  "case_title": "USA v. Garner",
+  "case_info_full_case_name": "USA v. Garner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garner",
+  "case_date_filed": "2005-12-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "William L. Meiners",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amber D. Garner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OBSTRUCTION OF MAILS GENERALLY"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sarah W. Hays",
+          "judge_guid": "urn:entity:jud-100052039"
+        }
+      ]
+    }
+  ]
+}

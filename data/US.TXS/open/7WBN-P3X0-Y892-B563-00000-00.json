@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_599m2815_txsd",
+  "case_key": "5:99m2815_txsd",
+  "case_lni": "7WBN-P3X0-Y892-B563-00000-00",
+  "case_number": "5:99m2815",
+  "case_title": "USA v. Garcia-Ortiz",
+  "case_info_full_case_name": "USA v. Garcia-Ortiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia-Ortiz",
+  "case_date_filed": "1999-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "20"
+        },
+        {
+          "charge_description": "Unlawfully import from a place outisde the U. S., Republic of Mexico, to a place in the U. S., Laredo, Tx., approximately 20 pds of marijuana, with intent to distribute"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

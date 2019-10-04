@@ -1,0 +1,98 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_103cr328_txsd",
+  "case_key": "1:03cr328_txsd",
+  "case_lni": "7WBN-JFF0-Y892-B4GR-00000-00",
+  "case_number": "1:03cr328",
+  "case_title": "USA v. Delgado-Rodriguez",
+  "case_info_full_case_name": "USA v. Delgado-Rodriguez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Delgado-Rodriguez",
+  "case_date_filed": "2003-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - B",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE JUAN DELGADO-RODRIGUEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a) 960(b)(4) 18:2 50 (26.6) (58.5 4/12/03 5 3"
+        },
+        {
+          "charge_description": "21:952(a) &; 960(b)(4) and 18:2 Importation of less than 50 kilograms, that is, approx. (26.6) kilograms (58.5 lbs) gross weight, of marihuana. Offense date: 4/12/03 Penalty: 5 yrs max. and/or $250,000 plus 3 yrs SRT. (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26.6. 26.6. 21USC841;21USC846"
+        },
+        {
+          "charge_description": "Possession with Intent to Distribute Approximately 26.6. kilograms of marihuana. Conspiracy to Possess with Intent to distribute approximately 26.6. kilograms of marihuana; 21 USC 841;21 USC846 [1:03-m-1135]"
+        },
+        {
+          "charge_statute": "21:846, 841(a)(1) 841(b)(1)(D) 50 4/12/03 5 3"
+        },
+        {
+          "charge_description": "21:846, 841(a)(1) and 841(b)(1)(D) Consp. to possess w/i to dist. less than 50 kilograms, gross weight, of marihuana. Offense date: 4/12/03 Penalty: 5 yrs max. and/or $250,000 plus 3 yrs SRT. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "5 3 21:841(a)(1) 841(b)(1)(D) 18:2 50 (26.6 (58.5 4/12/03"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(D) and 18:2 Possession w/i to dist. less than 50 kilograms, that is, approx. (26.6 kilograms (58.5 lbs) gross weight, of marihuana. Offense date: 4/12/03 Penalty: 5 yrs max. and/or $250,000 plus 3 yrs SRT. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:963, 952(a) 960(b)(4) 50 4/12/03 5 3"
+        },
+        {
+          "charge_description": "21:963, 952(a) and 960(b)(4) Consp. to import less than 50 kilograms, gross weight, of marihuana. Offense date: 4/12/03 Penalty: 5 yrs max. and/or $250,000 plus 3 yrs SRT. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        }
+      ]
+    }
+  ]
+}

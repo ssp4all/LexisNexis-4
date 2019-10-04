@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_517mj57_OKWD",
+  "case_key": "5:17mj57_OKWD",
+  "case_lni": "5MPY-DF81-DXDT-G46Y-00000-00",
+  "case_number": "5:17mj57",
+  "case_title": "United States of America v. McLane",
+  "case_info_full_case_name": "United States of America v. McLane",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "McLane",
+  "case_date_filed": "2017-01-25",
+  "case_status": "Closed",
+  "case_status_date": "08/23/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jessica L Cardenas",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Mark R Stoneman",
+      "attorney_label": "LEAD ATTORNEY"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amanda L McLane",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - POSSESSION(1)"
+        },
+        {
+          "charge_disposition": "After plea of guilty, dft is sentenced to 24 months probation with substance abuse aftercare and drug testing. A Search condition is imposed as a part of probation. Dft. is fined $1000 plus $25 SA. By order dated 4/1/19, previously imposed fines are waived."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Shon T. Erwin",
+          "judge_guid": "urn:entity:jud-100007099"
+        }
+      ]
+    }
+  ]
+}

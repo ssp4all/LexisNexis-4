@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_118mj126_VAWD",
+  "case_key": "1:18mj126_VAWD",
+  "case_lni": "5T7H-SS11-DXDT-G28G-00000-00",
+  "case_number": "1:18mj126",
+  "case_title": "USA v. Wilson",
+  "case_info_full_case_name": "USA v. Wilson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wilson",
+  "case_date_filed": "2018-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty Assistant - Abingdon",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Anthony Wilson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951.F - INTERFERENCE WITH COMMERCE BY THREAT OR VIOLENCE - (05/18)"
+        },
+        {
+          "charge_offence_description": "18:1951.F - INTERFERENCE WITH COMMERCE BY THREAT O"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James P. Jones",
+          "judge_guid": "urn:entity:jud-100033038"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Pamela Meade Sargent",
+          "judge_guid": "urn:entity:jud-100027085"
+        }
+      ]
+    }
+  ]
+}

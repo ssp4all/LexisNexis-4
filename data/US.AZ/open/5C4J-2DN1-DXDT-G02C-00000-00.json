@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po26100_AZD",
+  "case_key": "4:14po26100_AZD",
+  "case_lni": "5C4J-2DN1-DXDT-G02C-00000-00",
+  "case_number": "4:14po26100",
+  "case_title": "USA v. Vasquez-Diaz",
+  "case_info_full_case_name": "USA v. Vasquez-Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasquez-Diaz",
+  "case_date_filed": "2014-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Elvin Giovanni Vasquez-Diaz",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

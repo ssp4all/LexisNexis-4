@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_701cr676_txsd",
+  "case_key": "7:01cr676_txsd",
+  "case_lni": "7WBN-J280-Y892-B52W-00000-00",
+  "case_number": "7:01cr676",
+  "case_title": "USA v. Gonzalez-Ayala",
+  "case_info_full_case_name": "USA v. Gonzalez-Ayala",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzalez-Ayala",
+  "case_date_filed": "2001-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JORGE LUIS GONZALEZ-AYALA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(Haboring)"
+        },
+        {
+          "charge_description": "Alien smuggling (Haboring) [7:01-m-2905]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo H. Hinojosa",
+          "judge_guid": "urn:entity:jud-100034408"
+        }
+      ]
+    }
+  ]
+}

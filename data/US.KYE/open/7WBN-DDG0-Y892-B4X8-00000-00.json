@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_501cr101_kyed",
+  "case_key": "5:01cr101_kyed",
+  "case_lni": "7WBN-DDG0-Y892-B4X8-00000-00",
+  "case_number": "5:01cr101",
+  "case_title": "USA v. Prather",
+  "case_info_full_case_name": "USA v. Prather",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Prather",
+  "case_date_filed": "2001-11-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MILDRED PRATHER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:844(e)"
+        },
+        {
+          "charge_description": "18:844(e) TELEPHONIC THREAT TO DAMAGE &; DESTROY IRS BUILDING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:111(a)(1) (b)"
+        },
+        {
+          "charge_description": "18:111(a)(1) &; (b) ASSAULTING SPECIAL AGENTS W/TAX ADMINISTRATION WHILE PERFORMING OFFICIAL DUTIES (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:111(a)(1)"
+        },
+        {
+          "charge_description": "18:111(a)(1) ASSAULTING SPECIAL AGENT W/THE TAX ADMINISTRATION WHILE PERFORMING OFFICIAL DUTIES (3-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:844(e)"
+        },
+        {
+          "charge_description": "18:844(e) BY USE OF INTRUMENT OF INTERSTATE COMMERCE, TELEPHONE, WILLFULLY THREATEN TO UNLAWFULLY DAMAGE &; DESTROY BUILDINGS AND REAL PROPERTY OF IRS BY MEANS OF FIRE AND EXPLOSIVES [5:01-m-5170]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Karl S. Forester",
+          "judge_guid": "urn:entity:jud-100055574"
+        }
+      ]
+    }
+  ]
+}

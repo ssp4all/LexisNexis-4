@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_410mj129_MOWD",
+  "case_key": "4:10mj129_MOWD",
+  "case_lni": "50VF-BYS1-DXDT-G11D-00000-00",
+  "case_number": "4:10mj129",
+  "case_title": "USA v. Material Witness Case",
+  "case_info_full_case_name": "USA v. Material Witness Case",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Material Witness Case",
+  "case_date_filed": "2010-08-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Material Witness Case",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Maughmer",
+          "judge_guid": "urn:entity:jud-100041328"
+        }
+      ]
+    },
+    {
+      "party_description": "material witness"
+    }
+  ]
+}

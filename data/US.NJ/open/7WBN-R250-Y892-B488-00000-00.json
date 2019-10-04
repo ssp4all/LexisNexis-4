@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_200m7129_njd",
+  "case_key": "2:00m7129_njd",
+  "case_lni": "7WBN-R250-Y892-B488-00000-00",
+  "case_number": "2:00m7129",
+  "case_title": "USA v. MCLAUREN",
+  "case_info_full_case_name": "USA v. MCLAUREN",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MCLAUREN",
+  "case_date_filed": "2000-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICKY MCLAUREN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC1073-UNLAWFUL"
+        },
+        {
+          "charge_description": "T. 18 USC 1073-UNLAWFUL FLIGHT TO AVOID PROSECUTION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_903cr80033_flsd",
+  "case_key": "9:03cr80033_flsd",
+  "case_lni": "7WBN-PFP0-Y892-B193-00000-00",
+  "case_number": "9:03cr80033",
+  "case_title": "USA v. Rodriguez-Tovar",
+  "case_info_full_case_name": "USA v. Rodriguez-Tovar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Tovar",
+  "case_date_filed": "2003-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Stephen Carlton",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS RODRIGUEZ-TOVAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326(a)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(2) [9:03-m-5094]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Paine",
+          "judge_guid": "urn:entity:jud-100025165"
+        }
+      ]
+    }
+  ]
+}

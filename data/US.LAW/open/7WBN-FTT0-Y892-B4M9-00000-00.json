@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_500cr50061_lawd",
+  "case_key": "5:00cr50061_lawd",
+  "case_lni": "7WBN-FTT0-Y892-B4M9-00000-00",
+  "case_number": "5:00cr50061",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2000-08-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KIM INEZ SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:513"
+        },
+        {
+          "charge_description": "18:513 UTTER FORGED AND COUNTERFEIT SECURITY-did knowingly make, utter and possess counterfeited and forged securities, specifically a check purporting to be drawn on the account of Jackson Hewitt Tax Service, with the intent to deceive (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Donald E Walter",
+          "judge_guid": "urn:entity:jud-100005466"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Roy S Payne",
+          "judge_guid": "urn:entity:jud-100012196"
+        }
+      ]
+    }
+  ]
+}

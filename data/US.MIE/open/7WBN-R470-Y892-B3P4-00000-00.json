@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_203cr80308_mied",
+  "case_key": "2:03cr80308_mied",
+  "case_lni": "7WBN-R470-Y892-B3P4-00000-00",
+  "case_number": "2:03cr80308",
+  "case_title": "USA v. Issac",
+  "case_info_full_case_name": "USA v. Issac",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Issac",
+  "case_date_filed": "2003-03-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC aus]"
+    },
+    {
+      "attorney_label": "[COR LD NTC aus]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EVAN ISSAC",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) TRANSPORTING ILLEGAL ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy G. Edmunds",
+          "judge_guid": "urn:entity:jud-100043821"
+        }
+      ]
+    }
+  ]
+}

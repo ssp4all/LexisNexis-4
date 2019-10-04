@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_394m281_prd",
+  "case_key": "3:94m281_prd",
+  "case_lni": "7WBN-N320-Y892-B437-00000-00",
+  "case_number": "3:94m281",
+  "case_title": "USA v. Kevelier-Lara",
+  "case_info_full_case_name": "USA v. Kevelier-Lara",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kevelier-Lara",
+  "case_date_filed": "1994-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ISAIAS KEVELIER-LARA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Falsely and willfully represented himself to be a citizen of the United States, whereas in truth and in fact, used an altered U. S. passport while attempting to board a flight to the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jesus A. Castellanos",
+          "judge_guid": "urn:entity:jud-100094798"
+        }
+      ]
+    }
+  ]
+}

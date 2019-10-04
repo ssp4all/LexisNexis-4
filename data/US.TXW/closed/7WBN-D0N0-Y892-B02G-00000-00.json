@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_308cr142_TXWD",
+  "case_key": "3:08cr142_TXWD",
+  "case_lni": "7WBN-D0N0-Y892-B02G-00000-00",
+  "case_number": "3:08cr142",
+  "case_title": "USA v. Torres-Molinar",
+  "case_info_full_case_name": "USA v. Torres-Molinar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres-Molinar",
+  "case_date_filed": "2008-01-16",
+  "case_status": "Closed",
+  "case_status_date": "03/17/2008",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Beatriz Torres-Molinar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F-Reentry of Deported Aliens"
+        },
+        {
+          "charge_offence_description": "8:1326A.F-Reentry of Deported Aliens"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Time Served to be followed by 1 yr. sup rel and 100.00 special assessment (remitted)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen Cardone",
+          "judge_guid": "urn:entity:jud-100063311"
+        }
+      ]
+    }
+  ]
+}

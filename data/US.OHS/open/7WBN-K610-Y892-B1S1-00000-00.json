@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_197m206_ohsd",
+  "case_key": "1:97m206_ohsd",
+  "case_lni": "7WBN-K610-Y892-B1S1-00000-00",
+  "case_number": "1:97m206",
+  "case_title": "USA v. Billups",
+  "case_info_full_case_name": "USA v. Billups",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Billups",
+  "case_date_filed": "1997-08-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KURT Q BILLUPS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "481"
+        },
+        {
+          "charge_description": "unlawfully, knowingly and intentionally distribute a contorolled substance, that is, approximately 481 gross grams of cocaine base, a Schedule II controlled substance as set forth in Title 21, USC Section 812"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Timothy S. Hogan",
+          "judge_guid": "urn:entity:jud-100051416"
+        }
+      ]
+    }
+  ]
+}

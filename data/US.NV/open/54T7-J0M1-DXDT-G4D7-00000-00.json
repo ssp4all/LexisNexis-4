@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_212cr17_NVD",
+  "case_key": "2:12cr17_NVD",
+  "case_lni": "54T7-J0M1-DXDT-G4D7-00000-00",
+  "case_number": "2:12cr17",
+  "case_title": "USA v. Dovel",
+  "case_info_full_case_name": "USA v. Dovel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dovel",
+  "case_date_filed": "2012-01-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Matthew Steven Dovel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1705-Destruction"
+        },
+        {
+          "charge_description": "18:1705-Destruction of a Letter Box (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1704-Possession"
+        },
+        {
+          "charge_description": "18:1704-Possession of a Counterfeit Postal Key (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708-Possession"
+        },
+        {
+          "charge_description": "18:1708-Possession of Stolen Mail (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James C. Mahan",
+          "judge_guid": "urn:entity:jud-100042976"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Carl W. Hoffman",
+          "judge_guid": "urn:entity:jud-100034350"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_300cr1350_casd",
+  "case_key": "3:00cr1350_casd",
+  "case_lni": "7WBN-MFN0-Y892-B24N-00000-00",
+  "case_number": "3:00cr1350",
+  "case_title": "USA v. Rivera-Segoviano",
+  "case_info_full_case_name": "USA v. Rivera-Segoviano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera-Segoviano",
+  "case_date_filed": "2000-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "AGUSTIN RIVERA-SEGOVIANO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325-Illegal (Misdemeanor)"
+        },
+        {
+          "charge_description": "8:1325-Illegal Entry (Misdemeanor) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "8:1325-ILLEGAL (Felony)"
+        },
+        {
+          "charge_description": "8:1325-ILLEGAL ENTRY (Felony) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas J. Whelan",
+          "judge_guid": "urn:entity:jud-100017364"
+        }
+      ]
+    }
+  ]
+}

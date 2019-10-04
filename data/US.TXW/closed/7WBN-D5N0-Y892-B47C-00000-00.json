@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_399cr79_txwd",
+  "case_key": "3:99cr79_txwd",
+  "case_lni": "7WBN-D5N0-Y892-B47C-00000-00",
+  "case_number": "3:99cr79",
+  "case_title": "USA v. Rodriguez-Salgado",
+  "case_info_full_case_name": "USA v. Rodriguez-Salgado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Salgado",
+  "case_date_filed": "1999-01-20",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TOMAS RODRIGUEZ-SALGADO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F 50"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE IN EXCESS OF 50 KILOGRAMS. (2)"
+        },
+        {
+          "charge_disposition": "Ct.2-15mos impr and 2yrs non-reporting release. Assessment of $100.00 pre sent report sealed in vault. Court recommends LEC Reeves County. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952=MI.F 50"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA-IMPORT IN EXCESS OF 50 KILOGRAMS (1)"
+        },
+        {
+          "charge_disposition": "count 1 is dismissed by the govt. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 952"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of a quantity of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952 [3:99-m-12]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Edward C. Prado",
+          "judge_guid": "urn:entity:jud-100032689"
+        }
+      ]
+    }
+  ]
+}

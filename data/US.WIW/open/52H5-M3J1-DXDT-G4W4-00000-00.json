@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_306cr39_WIWD",
+  "case_key": "3:06cr39_WIWD",
+  "case_lni": "52H5-M3J1-DXDT-G4W4-00000-00",
+  "case_number": "3:06cr39",
+  "case_title": "USA v. TRAN, HAI VAN",
+  "case_info_full_case_name": "USA v. TRAN, HAI VAN",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "TRAN, HAI VAN",
+  "case_date_filed": "2006-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "JEFFREY ANDERSON For:",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TRAN HAI VAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F 1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "B. Crabb",
+          "judge_guid": "urn:entity:jud-100045645"
+        }
+      ]
+    }
+  ]
+}

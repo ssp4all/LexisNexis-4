@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_199cr16_alsd",
+  "case_key": "1:99cr16_alsd",
+  "case_lni": "7WBN-GH60-Y892-B39D-00000-00",
+  "case_number": "1:99cr16",
+  "case_title": "USA v. Ellis",
+  "case_info_full_case_name": "USA v. Ellis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ellis",
+  "case_date_filed": "1999-01-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gina S. Vann",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CARLOS MITCHELL ELLIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344A.F"
+        },
+        {
+          "charge_description": "18:1344A.F BANK FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "W. B. Hand",
+          "judge_guid": "urn:entity:jud-100067520"
+        },
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    }
+  ]
+}

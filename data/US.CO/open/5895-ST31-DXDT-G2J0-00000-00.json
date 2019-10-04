@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_113mj25_COD",
+  "case_key": "1:13mj25_COD",
+  "case_lni": "5895-ST31-DXDT-G2J0-00000-00",
+  "case_number": "1:13mj25",
+  "case_title": "USA v. Reed",
+  "case_info_full_case_name": "USA v. Reed",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reed",
+  "case_date_filed": "2013-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jason Nathaniel Reed",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349.F CONSPIRACY TO COMMIT MAIL AND WIRE FRAUD , 18:1341.F MAIL FRAUD , 18:1341.F MAIL FRAUD , 18:1341.F MAIL FRAUD"
+        },
+        {
+          "charge_offence_description": "18:1349.F CONSPIRACY TO COMMIT MAIL AND WIRE FRAUD"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gordon P. Gallagher",
+          "judge_guid": "urn:entity:jud-100102888"
+        }
+      ]
+    }
+  ]
+}

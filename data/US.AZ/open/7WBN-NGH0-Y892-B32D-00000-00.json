@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_407cr1744_AZD",
+  "case_key": "4:07cr1744_AZD",
+  "case_lni": "7WBN-NGH0-Y892-B32D-00000-00",
+  "case_number": "4:07cr1744",
+  "case_title": "USA v. Gonzales",
+  "case_info_full_case_name": "USA v. Gonzales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gonzales",
+  "case_date_filed": "2007-10-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Adrian Gonzales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), (b)(1)(B)(vii) Possession w/ intent to distribute marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1), (b)(1)(B)(vii) Possession w/ intent "
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B)(vii) Possession with Intent to Distribute 100 to 1000 kilograms of Marijuana(1)"
+        },
+        {
+          "charge_disposition": "BOP for 60 months w/ credit for time served; Sup Rel 48 months"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

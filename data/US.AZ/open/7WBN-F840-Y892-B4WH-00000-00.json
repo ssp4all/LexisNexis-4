@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_201m5159_azd",
+  "case_key": "2:01m5159_azd",
+  "case_lni": "7WBN-F840-Y892-B4WH-00000-00",
+  "case_number": "2:01m5159",
+  "case_title": "USA, et al v. Brown, et al",
+  "case_info_full_case_name": "USA, et al v. Brown, et al",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Brown, et al",
+  "case_date_filed": "2001-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID ANTHONY BROWN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1153, 113(a)(6); 18:924(c);"
+        },
+        {
+          "charge_description": "18:1153, 113(a)(6); Assault with Intent to Murder 18:924(c); Violent Crime/Drugs/Machine Gun"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Morton Sitver",
+          "judge_guid": "urn:entity:jud-100022488"
+        }
+      ]
+    }
+  ]
+}

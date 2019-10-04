@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_300cr223_ctd",
+  "case_key": "3:00cr223_ctd",
+  "case_lni": "7WBN-FGK0-Y892-B1KW-00000-00",
+  "case_number": "3:00cr223",
+  "case_title": "USA v. Vuolo, et al",
+  "case_info_full_case_name": "USA v. Vuolo, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vuolo, et al",
+  "case_date_filed": "2000-10-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Stephen C. Robinson",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SEALED SEARCH WARRANT",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dominic J. Squatrito",
+          "judge_guid": "urn:entity:jud-100014517"
+        }
+      ]
+    },
+    {
+      "party_name": "THOMAS J. VUOLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252.F A(a)(1) 2252A(b)(1)"
+        },
+        {
+          "charge_description": "18:2252.F A(a)(1) &; 2252A(b)(1) SEXUAL EXPLOITATION OF MINORS-Transportation of Child Pornography (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2252.F A(a)(5)(B) 2252A (b)(2)"
+        },
+        {
+          "charge_description": "18:2252.F A(a)(5)(B) &; 2252A (b)(2) SEXUAL EXPLOITATION OF MINORS-Possession of Child Pornography (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dominic J. Squatrito",
+          "judge_guid": "urn:entity:jud-100014517"
+        }
+      ]
+    }
+  ]
+}

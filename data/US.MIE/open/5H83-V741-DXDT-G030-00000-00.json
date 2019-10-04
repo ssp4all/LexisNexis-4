@@ -1,0 +1,163 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_215cr20505_MIED",
+  "case_key": "2:15cr20505_MIED",
+  "case_lni": "5H83-V741-DXDT-G030-00000-00",
+  "case_number": "2:15cr20505",
+  "case_title": "United States of America v. Grice et al",
+  "case_info_full_case_name": "United States of America v. Grice et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Grice et al",
+  "case_date_filed": "2015-08-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Susan E. Fairchild",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Grice",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1-5)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 70 Months; SUPERVISED RELEASE: 3 Years; ASSESSMENT: $500"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mona K. Majzoub",
+          "judge_guid": "urn:entity:jud-100042922"
+        }
+      ]
+    },
+    {
+      "party_name": "James Albert Harrison",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "USE COMMUNICATIONS FACILITY - CONTROLLED SUBSTANCE - DISTR.(1s)"
+        },
+        {
+          "charge_disposition": "PROBATION: 2 Years; ASSESSMENT: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1-3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mona K. Majzoub",
+          "judge_guid": "urn:entity:jud-100042922"
+        }
+      ]
+    },
+    {
+      "party_name": "James Shamily",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(4)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 24 MONTHS; SUPERVISED RELEASE: 24 MONTHS; SPECIAL ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mona K. Majzoub",
+          "judge_guid": "urn:entity:jud-100042922"
+        }
+      ]
+    },
+    {
+      "party_name": "Jason Manning",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(5)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mona K. Majzoub",
+          "judge_guid": "urn:entity:jud-100042922"
+        }
+      ]
+    }
+  ]
+}

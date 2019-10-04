@@ -1,0 +1,70 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_510cr379_NCED",
+  "case_key": "5:10cr379_NCED",
+  "case_lni": "51KP-1GB1-DXDT-G4Y7-00000-00",
+  "case_number": "5:10cr379",
+  "case_title": "USA v. Covington",
+  "case_info_full_case_name": "USA v. Covington",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Covington",
+  "case_date_filed": "2010-11-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Donald R. Pender",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joel Matthew Covington",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Robbery of a business engaged in interstate commerce(1)"
+        },
+        {
+          "charge_disposition": "57 months"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession of a firearm in furtherance of a crime of violence(2)"
+        },
+        {
+          "charge_disposition": "84 months consecutive to Count 1 - Supervised Release - Count 1 - 3 years - Count 2 - 5 years concurrent with Count 1- Special Assessment - $200.00 - Restitution - $389 joint and several with co-defendants - Recommendation from the Court"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Robbery of a business engaged in interstate commerce(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

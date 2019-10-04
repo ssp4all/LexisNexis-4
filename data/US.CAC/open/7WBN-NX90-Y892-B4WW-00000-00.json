@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_506cr97_CACD",
+  "case_key": "5:06cr97_CACD",
+  "case_lni": "7WBN-NX90-Y892-B4WW-00000-00",
+  "case_number": "5:06cr97",
+  "case_title": "USA v. Scribner",
+  "case_info_full_case_name": "USA v. Scribner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Scribner",
+  "case_date_filed": "2006-11-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charles J Kovats, Jr",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Franklin Scribner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1791 (a)(2)(b)(3):"
+        },
+        {
+          "charge_description": "18:1791 (a)(2)(b)(3): POSSESSING CONTRABAND IN PRISON (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Virginia A. Phillips",
+          "judge_guid": "urn:entity:jud-100046942"
+        }
+      ]
+    }
+  ]
+}

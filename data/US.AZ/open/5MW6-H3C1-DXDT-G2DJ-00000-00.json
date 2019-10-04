@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_417mj8470_AZD",
+  "case_key": "4:17mj8470_AZD",
+  "case_lni": "5MW6-H3C1-DXDT-G2DJ-00000-00",
+  "case_number": "4:17mj8470",
+  "case_title": "USA v. Hernandez-Figueroa",
+  "case_info_full_case_name": "USA v. Hernandez-Figueroa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Figueroa",
+  "case_date_filed": "2017-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Tomas Hernandez-Figueroa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1 18:1028A Fraud and Misuse of Visas; CT 2 18:1028(a)(4) &; (b)(6) Fraud w/ Identification Documents"
+        },
+        {
+          "charge_offence_description": "CT 1 18:1028A Fraud and Misuse of Visas; CT 2 18:1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

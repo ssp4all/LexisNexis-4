@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414mj1523_AZD",
+  "case_key": "4:14mj1523_AZD",
+  "case_lni": "5BKK-FJK1-DXDT-G29S-00000-00",
+  "case_number": "4:14mj1523",
+  "case_title": "USA v. Cazares-Montes",
+  "case_info_full_case_name": "USA v. Cazares-Montes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cazares-Montes",
+  "case_date_filed": "2014-02-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jesus Cazares-Montes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) Possession w/Intent to Distribute Marijuana, all in violation of 21:846 Conspiracy to Possess w/Intent to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) and 841(b)(1)(C) Possession w/Intent "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

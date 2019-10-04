@@ -1,0 +1,36 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAM_306cr121_LAMD",
+  "case_key": "3:06cr121_LAMD",
+  "case_lni": "7WBN-H7H0-Y892-B54N-00000-00",
+  "case_number": "3:06cr121",
+  "case_title": "USA v. Gauthreau",
+  "case_info_full_case_name": "USA v. Gauthreau",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gauthreau",
+  "case_date_filed": "2006-06-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Douglas C. Gauthreau",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NATIONAL WILDLIFE REFUGE SYSTEM (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ]
+    }
+  ]
+}

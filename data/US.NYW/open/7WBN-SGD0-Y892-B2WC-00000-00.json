@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_607mj4143_NYWD",
+  "case_key": "6:07mj4143_NYWD",
+  "case_lni": "7WBN-SGD0-Y892-B2WC-00000-00",
+  "case_number": "6:07mj4143",
+  "case_title": "USA v. Howard",
+  "case_info_full_case_name": "USA v. Howard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Howard",
+  "case_date_filed": "2007-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gary Howard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028A.F-the 2d"
+        },
+        {
+          "charge_description": "18:1028A.F-the defendant knowingly possessed, used and transferred without lawful authority, means of identification, of other persons, without lawful authority, with intent to commit or aid and abet unlawful activity that constitutes Identity Theft 2d Degree"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Marian W. Payson",
+          "judge_guid": "urn:entity:jud-100024892"
+        }
+      ]
+    }
+  ]
+}

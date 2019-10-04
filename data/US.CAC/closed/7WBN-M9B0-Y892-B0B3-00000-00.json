@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_296m3217_cacd",
+  "case_key": "2:96m3217_cacd",
+  "case_lni": "7WBN-M9B0-Y892-B0B3-00000-00",
+  "case_number": "2:96m3217",
+  "case_title": "USA v. Tovar",
+  "case_info_full_case_name": "USA v. Tovar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tovar",
+  "case_date_filed": "1996-07-31",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VICTOR TOVAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1701"
+        },
+        {
+          "charge_description": "18:1701 OBSTRUCTION OF US MAIL (1)"
+        },
+        {
+          "charge_disposition": "CT: 1 Dft pay a fine in the amt of $100; Restitution in the amt of $1,147; plus s/a of $50; all payable at $50 per month commencing 9/1/96. Three year summary probation-violate no laws. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "Dft in viol of 18:1701"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "George L. Martin",
+          "judge_guid": "urn:entity:jud-100041562"
+        }
+      ]
+    }
+  ]
+}

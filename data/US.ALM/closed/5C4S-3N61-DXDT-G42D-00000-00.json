@@ -1,0 +1,104 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_112cr237_ALMD",
+  "case_key": "1:12cr237_ALMD",
+  "case_lni": "5C4S-3N61-DXDT-G42D-00000-00",
+  "case_number": "1:12cr237",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2012-12-19",
+  "case_status": "Closed",
+  "case_status_date": "04/22/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Kevin P Davidson",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Vernon Wayne Smith, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1470 TRANSFER OF OBSCENE MATERIALS TO MINORS(2s)"
+        },
+        {
+          "charge_disposition": "24 Mos Imp; 3 Yrs Sup Rel; $100 SA"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252(a)(5)(B) ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO; FORFEITURE ALLEGATION 1(1-2)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOVERNMENT'S ORAL MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252A(a)(5)(B) ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO(1s)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOVERNMENT'S ORAL MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1470 TRANSFER OF OBSCENE MATERIALS TO MINORS; FORFEITURE ALLEGATION 2(3-5)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOVERNMENT'S ORAL MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1470 TRANSFER OF OBSCENE MATERIALS TO MINORS(3s-4s)"
+        },
+        {
+          "charge_disposition": "DISMISSED ON GOVERNMENT'S ORAL MOTION"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Myron H. Thompson",
+          "judge_guid": "urn:entity:jud-100019071"
+        },
+        {
+          "judge_title": "Honorable Judge",
+          "judge_name": "Terry F. Moorer",
+          "judge_guid": "urn:entity:jud-100066258"
+        }
+      ]
+    }
+  ]
+}

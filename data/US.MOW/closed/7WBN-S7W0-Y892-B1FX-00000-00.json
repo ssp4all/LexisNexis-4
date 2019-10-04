@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_498cr204_mowd",
+  "case_key": "4:98cr204_mowd",
+  "case_lni": "7WBN-S7W0-Y892-B1FX-00000-00",
+  "case_number": "4:98cr204",
+  "case_title": "USA v. Ek",
+  "case_info_full_case_name": "USA v. Ek",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ek",
+  "case_date_filed": "1998-10-01",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIMOTHY R EK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:856=NM.F"
+        },
+        {
+          "charge_description": "21:856=NM.F NARCOTICS-MANUFACTURE (1)"
+        },
+        {
+          "charge_disposition": "Date of imposition 1/21/99. The dft pleaded guilty to count 1. The dft is hereby committed to the custody of the US Bureau of Prisons to be imprisoned for a term of time served. Upon release from imprisonment, the dft shall be on supervised release for a term of 3 years. Special conditions of supervision: 1) Personally report to the PO w/in 72 hours of release 2) Reside for a period of four months at a halfway house and observe the rules of that facility 3) Successfully participate in any substance abuse counseling program, which may include chemical or breathalyzer testing, as directed by the PO, and pay any associated costs, as directed by the PO 4) Successfully participate in any mental health counseling program, as directed by the PO, and pay any associated costs, as directed by the PO. 5) The dft shall submit his person, residence, office or vehicle to a search conducted by a US Probation Officer at a reasonable time and in a reasonable manner, based upon reasonable suspicion of contraband or evidence of a violation of a condition of release; failure to submit to a search may be grounds for revocation; the dft shall warn any other residents that the premises may be subject to searches pursuant to this condition. The dft shall pay the following total criminal monetary penalties, MSA $100.00 for assessment (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "100 21,USC, 841(a)(1) (b)(1)(A), 21,USC, 846"
+        },
+        {
+          "charge_description": "knowingly and intentionally combine, conspire, confederate and agree, w/each other and others, to manufacture more than 100 grams of methamphetamine, a schedule II controlled substance, contrary to the provisions of title 21, USC, section 841(a)(1) and (b)(1)(A), all in violation of title 21, USC, section 846 [4:98-m-130]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nanette K Laughrey",
+          "judge_guid": "urn:entity:jud-100030394"
+        }
+      ]
+    }
+  ]
+}

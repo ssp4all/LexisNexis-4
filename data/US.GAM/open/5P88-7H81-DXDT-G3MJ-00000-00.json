@@ -1,0 +1,95 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_317cr33_GAMD",
+  "case_key": "3:17cr33_GAMD",
+  "case_lni": "5P88-7H81-DXDT-G3MJ-00000-00",
+  "case_number": "3:17cr33",
+  "case_title": "UNITED STATES OF AMERICA v. DURDEN et al",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. DURDEN et al",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "DURDEN et al",
+  "case_date_filed": "2017-08-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DEVONTAE DURDEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(a)(1), 924(c), and 18:2 PENALTIES FOR FIREARMS - Possession of a Firearm in Furtherance of a Drug Trafficking Crime(2)"
+        },
+        {
+          "charge_disposition": "60 months imprisonment to be served consecutively to any sentence imposed in the State case; 3 years supervised release; $100 MAF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1), (b)(1)(C), and 18:2 NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE - Distribution of Crack Cocaine(1)"
+        },
+        {
+          "charge_disposition": "Dismissed upon government's motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "C ASHLEY ROYAL",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    },
+    {
+      "party_name": "DARIUS O VINSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), (b)(1)(C), and 18:2 NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE - Distribution of Crack Cocaine(1)"
+        },
+        {
+          "charge_disposition": "Pretrial Diversion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(a)(1), 924(c), and 18:2 PENALTIES FOR FIREARMS - Possession of a Firearm in Furtherance of a Drug Trafficking Crime(2)"
+        },
+        {
+          "charge_disposition": "Pretrial Diversion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "C ASHLEY ROYAL",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

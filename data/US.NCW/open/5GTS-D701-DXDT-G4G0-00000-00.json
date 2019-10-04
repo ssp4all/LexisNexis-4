@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_315cr202_NCWD",
+  "case_key": "3:15cr202_NCWD",
+  "case_lni": "5GTS-D701-DXDT-G4G0-00000-00",
+  "case_number": "3:15cr202",
+  "case_title": "USA v. Sparks",
+  "case_info_full_case_name": "USA v. Sparks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sparks",
+  "case_date_filed": "2015-08-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Benjamin Bain-Creed",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Corey Sparks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1029(a)(2) and (c)(1)(a)(i) - PRODUCES/TRAFFICS IN COUNTERFEIT DEVICE(1)"
+        },
+        {
+          "charge_disposition": "24 mos. imp conc + 2 yr SRT conc. + $100 assess + $13,973.00 rest"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) - UNLAWFUL TRANSPORT OF FIREARMS, ETC.(2)"
+        },
+        {
+          "charge_disposition": "24 mos. imp conc + 2 yr SRT conc. + $100 assess"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert J. Conrad, Jr",
+          "judge_guid": "urn:entity:jud-100096077"
+        }
+      ]
+    }
+  ]
+}

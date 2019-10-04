@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_812po16997_MDD",
+  "case_key": "8:12po16997_MDD",
+  "case_lni": "57CY-RPC1-DXDT-G551-00000-00",
+  "case_number": "8:12po16997",
+  "case_title": "USA vs Mejia",
+  "case_info_full_case_name": "USA vs Mejia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mejia",
+  "case_date_filed": "2012-12-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christian R Mejia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "WILLFULLY DISOBEYING LAWFUL ORDER AND DIRECTION OF POLICE OFFICER (0897226)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "(DRIVING, ATTEMPTING TO DRIVE) VEH. WHILE IMPAIRED BY ALCOHOL (0896825)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

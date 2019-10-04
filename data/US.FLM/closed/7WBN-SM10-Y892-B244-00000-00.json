@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_807mj1468_FLMD",
+  "case_key": "8:07mj1468_FLMD",
+  "case_lni": "7WBN-SM10-Y892-B244-00000-00",
+  "case_number": "8:07mj1468",
+  "case_title": "USA v. Ramirez-Roa et al",
+  "case_info_full_case_name": "USA v. Ramirez-Roa et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Roa et al",
+  "case_date_filed": "2007-10-16",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Arthur Lee Bentley, III",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ariel Gustavo Ramirez-Roa DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_statute": "21:846, 841b1Aii"
+        },
+        {
+          "charge_description": "21:846, 841b1Aii Conspiracy to possess with intent to distribute cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas G. Wilson",
+          "judge_guid": "urn:entity:jud-100022017"
+        }
+      ]
+    }
+  ]
+}

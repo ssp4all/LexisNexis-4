@@ -1,0 +1,138 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_117cr60286_FLSD",
+  "case_key": "1:17cr60286_FLSD",
+  "case_lni": "5R14-BVW1-DXDT-G3KJ-00000-00",
+  "case_number": "1:17cr60286",
+  "case_title": "USA v. Touizer et al",
+  "case_info_full_case_name": "USA v. Touizer et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Touizer et al",
+  "case_date_filed": "2017-11-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Joseph Touizer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1341.F, 18:1343.F, 18:1349.F"
+        },
+        {
+          "charge_offence_description": "18:1341.F, 18:1343.F, 18:1349.F"
+        },
+        {
+          "charge_description": "CONSPIRACY TO COMMIT MAIL AND WIRE FRAUD(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MAIL FRAUD(2-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION(8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO COMMIT MONEY LAUDERING(9)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MONEY LAUNDERING(10-11)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Beth Bloom",
+          "judge_guid": "urn:entity:jud-100061360"
+        }
+      ]
+    },
+    {
+      "party_name": "Saul Daniel Suster",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO COMMIT MAIL AND WIRE FRAUD(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MAIL FRAUD(5-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Beth Bloom",
+          "judge_guid": "urn:entity:jud-100061360"
+        }
+      ]
+    },
+    {
+      "party_name": "John Kevin Reech",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO COMMIT MAIL AND WIRE FRAUD(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MAIL FRAUD(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MAIL FRAUD(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Beth Bloom",
+          "judge_guid": "urn:entity:jud-100061360"
+        }
+      ]
+    }
+  ]
+}

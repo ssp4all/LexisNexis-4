@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_102cr10042_tnwd",
+  "case_key": "1:02cr10042_tnwd",
+  "case_lni": "7WBN-JCJ0-Y892-B0WY-00000-00",
+  "case_number": "1:02cr10042",
+  "case_title": "USA v. Young, et al",
+  "case_info_full_case_name": "USA v. Young, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Young, et al",
+  "case_date_filed": "2002-07-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID JOHN YOUNG",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751A.F"
+        },
+        {
+          "charge_description": "18:751A.F PRISONER IN CUSTODY OF INSTITUTION OR OFFICER-knowingly escape from custody in the McNairy County Jail, in wh he was confined by virtue of process issued under the laws of the United States by a magistrate judge; to wit an Order of Detention pending trial (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "James D. Todd",
+          "judge_guid": "urn:entity:jud-100006586"
+        }
+      ]
+    }
+  ]
+}

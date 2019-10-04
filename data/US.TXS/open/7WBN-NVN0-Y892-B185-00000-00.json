@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_503m1341_txsd",
+  "case_key": "5:03m1341_txsd",
+  "case_lni": "7WBN-NVN0-Y892-B185-00000-00",
+  "case_number": "5:03m1341",
+  "case_title": "USA v. Valenzuela",
+  "case_info_full_case_name": "USA v. Valenzuela",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valenzuela",
+  "case_date_filed": "2003-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "37.88"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with the intent to distribute a controlled substance, to-wit: approximately 37.88 kilograms of Cocaine."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

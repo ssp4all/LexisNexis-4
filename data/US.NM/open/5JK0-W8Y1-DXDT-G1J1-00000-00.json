@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_216mj1688_NMD",
+  "case_key": "2:16mj1688_NMD",
+  "case_lni": "5JK0-W8Y1-DXDT-G1J1-00000-00",
+  "case_number": "2:16mj1688",
+  "case_title": "USA v. Arroyo-Perez",
+  "case_info_full_case_name": "USA v. Arroyo-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arroyo-Perez",
+  "case_date_filed": "2016-04-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Luis Alberto Arroyo-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gregory B. Wormuth",
+          "judge_guid": "urn:entity:jud-100011110"
+        }
+      ]
+    }
+  ]
+}

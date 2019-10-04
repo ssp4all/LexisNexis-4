@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_207mj744_VAED",
+  "case_key": "2:07mj744_VAED",
+  "case_lni": "7WBN-R9J0-Y892-B1WN-00000-00",
+  "case_number": "2:07mj744",
+  "case_title": "USA v. Carattini",
+  "case_info_full_case_name": "USA v. Carattini",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carattini",
+  "case_date_filed": "2007-10-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Yamil L. Carattini",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:7&;13, 18.2-266 18.2-270-TRAFFIC"
+        },
+        {
+          "charge_description": "T. 18:7&;13, assim. State Code of Va. 18.2-266 and 18.2-270-TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:7&;13, 4.1-305-MISCELLANEOUS (21)"
+        },
+        {
+          "charge_description": "T. 18:7&;13, assim. State Code of Va. 4.1-305-MISCELLANEOUS GENERAL OFFENSES, OTHER-A PERSON UNDER THE AGE OF TWENTY-ONE (21) YEARS, DID KNOWINGLY AND UNLAWFULLY POSSESS AND CONSUME AN ALCOHOLIC BEVERAGE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

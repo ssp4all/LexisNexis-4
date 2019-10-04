@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_119cr10366_MAD",
+  "case_key": "1:19cr10366_MAD",
+  "case_lni": "5X40-PHR1-J9YR-S1MK-00000-00",
+  "case_number": "1:19cr10366",
+  "case_title": "USA v. Saulnier",
+  "case_info_full_case_name": "USA v. Saulnier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Saulnier",
+  "case_date_filed": "2019-09-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Lindsey E. Weinstein",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sasha A. Saulnier",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1343 Having devised and intending to devise any scheme and artifice to defraud, and for obtaining money and property by means of false and fraudulent pretenses and representations, did transmit and cause to be transmitted by means of wire communication in interstate and foreign commerce, writings, signs, and signals for the purpose of executing such scheme and artifice. (18:1343.F)"
+        },
+        {
+          "charge_offence_description": "18:1343 Having devised and intending to devise any"
+        },
+        {
+          "charge_description": "18:1343- WIRE FRAUD(1-6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nathaniel M. Gorton",
+          "judge_guid": "urn:entity:jud-100048779"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marianne B. Bowler",
+          "judge_guid": "urn:entity:jud-100064595"
+        }
+      ]
+    }
+  ]
+}

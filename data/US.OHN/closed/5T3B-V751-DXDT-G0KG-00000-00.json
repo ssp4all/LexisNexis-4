@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_318mj5278_OHND",
+  "case_key": "3:18mj5278_OHND",
+  "case_lni": "5T3B-V751-DXDT-G0KG-00000-00",
+  "case_number": "3:18mj5278",
+  "case_title": "United States of America v. Eaton",
+  "case_info_full_case_name": "United States of America v. Eaton",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Eaton",
+  "case_date_filed": "2018-08-22",
+  "case_status": "Closed",
+  "case_status_date": "08/22/2018",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shane Giles Eaton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1001(a)(2) Making false and fraudulent statements"
+        },
+        {
+          "charge_offence_description": "18:1001(a)(2) Making false and fraudulent statemen"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James R. Knepp, II",
+          "judge_guid": "urn:entity:jud-100007673"
+        }
+      ]
+    }
+  ]
+}

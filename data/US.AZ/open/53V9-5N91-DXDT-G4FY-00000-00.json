@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411cr3270_AZD",
+  "case_key": "4:11cr3270_AZD",
+  "case_lni": "53V9-5N91-DXDT-G4FY-00000-00",
+  "case_number": "4:11cr3270",
+  "case_title": "USA v. Chino-Bernal",
+  "case_info_full_case_name": "USA v. Chino-Bernal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chino-Bernal",
+  "case_date_filed": "2011-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fredy Chino-Bernal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii) and 1324(a)(1)(B)(i); Transportation of Illegal Aliens for Profit(1s)"
+        },
+        {
+          "charge_disposition": "BOP for 24 months w/credit for time served; Supervised release for 2 years"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii) Bringing In Illegal Alien for Profit(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii) Bringing In Illegal Alien for Profit(2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii)  Transportation of Illegal Aliens"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(2)(B)(ii)  Transportation of Illegal Ali"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jennifer G Zipps",
+          "judge_guid": "urn:entity:jud-100047798"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

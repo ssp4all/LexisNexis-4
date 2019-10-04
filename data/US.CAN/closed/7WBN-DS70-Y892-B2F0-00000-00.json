@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_304cr263_CAND",
+  "case_key": "3:04cr263_CAND",
+  "case_lni": "7WBN-DS70-Y892-B2F0-00000-00",
+  "case_number": "3:04cr263",
+  "case_title": "USA v. Louie",
+  "case_info_full_case_name": "USA v. Louie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Louie",
+  "case_date_filed": "2004-08-19",
+  "case_status": "Closed",
+  "case_status_date": "05/05/2006",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Erika Louie",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:656 Theft, Embezzlement, or Misapplication by Bank Officer or Employee(1)"
+        },
+        {
+          "charge_disposition": "dismissed on Government's motion"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Joseph C. Spero",
+          "judge_guid": "urn:entity:jud-100020358"
+        }
+      ]
+    }
+  ]
+}

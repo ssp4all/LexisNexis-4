@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_200cr126_wvsd",
+  "case_key": "2:00cr126_wvsd",
+  "case_lni": "7WBN-KB00-Y892-B177-00000-00",
+  "case_number": "2:00cr126",
+  "case_title": "USA v. McClaskie",
+  "case_info_full_case_name": "USA v. McClaskie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McClaskie",
+  "case_date_filed": "2000-06-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRENT MCCLASKIE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846-knowingly"
+        },
+        {
+          "charge_description": "21:846-knowingly and intentionally conspired to distribute heroin, a Sched. I, CS. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1) 21USC846."
+        },
+        {
+          "charge_description": "Knowingly and intentionally conspired to distribute and possessed with intent to distribute heroin, a Sched. I, CS, in violation of 21 U.S.C. 841(a)(1) and 21 U.S.C. 846. [2:00-m-77]"
+        }
+      ]
+    }
+  ]
+}

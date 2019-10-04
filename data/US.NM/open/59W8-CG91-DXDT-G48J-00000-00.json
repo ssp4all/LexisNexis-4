@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_213cr3768_NMD",
+  "case_key": "2:13cr3768_NMD",
+  "case_lni": "59W8-CG91-DXDT-G48J-00000-00",
+  "case_number": "2:13cr3768",
+  "case_title": "USA v. Avila-Munoz",
+  "case_info_full_case_name": "USA v. Avila-Munoz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avila-Munoz",
+  "case_date_filed": "2013-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Angel Avila-Munoz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(1) &; (2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Kenneth J. Gonzales",
+          "judge_guid": "urn:entity:jud-100104521"
+        }
+      ]
+    }
+  ]
+}

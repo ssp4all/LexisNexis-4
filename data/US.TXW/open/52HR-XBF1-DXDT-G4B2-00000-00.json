@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_311mj1585_TXWD",
+  "case_key": "3:11mj1585_TXWD",
+  "case_lni": "52HR-XBF1-DXDT-G4B2-00000-00",
+  "case_number": "3:11mj1585",
+  "case_title": "USA v. Valencia Valencia",
+  "case_info_full_case_name": "USA v. Valencia Valencia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valencia Valencia",
+  "case_date_filed": "2011-03-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Maria Valencia Valencia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:911.F-IMPERSONATING"
+        },
+        {
+          "charge_description": "18:911.F-IMPERSONATING CITIZEN OF THE UNITED STATES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

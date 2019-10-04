@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_410po30403_AZD",
+  "case_key": "4:10po30403_AZD",
+  "case_lni": "7YSN-04B0-Y892-B0C9-00000-00",
+  "case_number": "4:10po30403",
+  "case_title": "USA v. Hernandez-Ramirez",
+  "case_info_full_case_name": "USA v. Hernandez-Ramirez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez-Ramirez",
+  "case_date_filed": "2010-06-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juventino Hernandez-Ramirez",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_212mj7382_AZD",
+  "case_key": "2:12mj7382_AZD",
+  "case_lni": "561V-Y1J1-DXDT-G53X-00000-00",
+  "case_number": "2:12mj7382",
+  "case_title": "USA v. Pacheco-Quiroa",
+  "case_info_full_case_name": "USA v. Pacheco-Quiroa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pacheco-Quiroa",
+  "case_date_filed": "2012-07-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christina Covault",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rosario Pacheco-Quiroa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-8:1326(a)-Reentry 2-8:1325(a)(2)-Elude"
+        },
+        {
+          "charge_description": "Count 1-8:1326(a)-Reentry of Removed Alien; Count 2-8:1325(a)(2)-Elude Examination and Inspection by an Immigration Official"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edward C Voss",
+          "judge_guid": "urn:entity:jud-100018796"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_103cr10216_mad",
+  "case_key": "1:03cr10216_mad",
+  "case_lni": "7WBN-PM00-Y892-B11R-00000-00",
+  "case_number": "1:03cr10216",
+  "case_title": "USA v. Nascimento",
+  "case_info_full_case_name": "USA v. Nascimento",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nascimento",
+  "case_date_filed": "2003-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Patti"
+        },
+        {
+          "judge_title": "Joyce",
+          "judge_name": "L. Alexander",
+          "judge_guid": "urn:entity:jud-100129812"
+        }
+      ]
+    }
+  ]
+}

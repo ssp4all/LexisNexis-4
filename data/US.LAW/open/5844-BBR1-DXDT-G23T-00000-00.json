@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_113po414_LAWD",
+  "case_key": "1:13po414_LAWD",
+  "case_lni": "5844-BBR1-DXDT-G23T-00000-00",
+  "case_number": "1:13po414",
+  "case_title": "USA vs Tillman",
+  "case_info_full_case_name": "USA vs Tillman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tillman",
+  "case_date_filed": "2013-04-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Dustin W Tillman",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Take or attempt to take migratory game birds more than daily bag limit (W0795908)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James D Kirk",
+          "judge_guid": "urn:entity:jud-100037267"
+        }
+      ]
+    }
+  ]
+}

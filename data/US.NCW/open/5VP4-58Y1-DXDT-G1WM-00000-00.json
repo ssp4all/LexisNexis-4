@@ -1,0 +1,95 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_319cr85_NCWD",
+  "case_key": "3:19cr85_NCWD",
+  "case_lni": "5VP4-58Y1-DXDT-G1WM-00000-00",
+  "case_number": "3:19cr85",
+  "case_title": "USA v. Hyatt",
+  "case_info_full_case_name": "USA v. Hyatt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hyatt",
+  "case_date_filed": "2019-03-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Darius Cortez Hyatt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) - CONVICTED FELON IN POSSESSION OF A FIREARM(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) - POSSESS WITH INTENT TO DISTRIBUTE METHAMPHETAMINE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) - POSSESS WITH INTENT TO DISTRIBUTE COCAINE BASE(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D) - POSSESS WITH INTENT TO DISTRIBUTE MARIJUANA(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A) - POSSESS  A FIREARM IN RELATION TO DRUG TRAFFICKING CRIME(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) - CONVICTED FELON IN POSSESSION OF A FIREARM(6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D) - POSSESS WITH INTENT TO DISTRIBUTE MARIJUANA(7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A) - POSSESS  A FIREARM IN RELATION TO DRUG TRAFFICKING CRIME(8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Max O. Cogburn, Jr",
+          "judge_guid": "urn:entity:jud-100048133"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

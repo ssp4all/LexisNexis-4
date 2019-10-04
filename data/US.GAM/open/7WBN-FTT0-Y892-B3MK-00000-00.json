@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_499m541_gamd",
+  "case_key": "4:99m541_gamd",
+  "case_lni": "7WBN-FTT0-Y892-B3MK-00000-00",
+  "case_number": "4:99m541",
+  "case_title": "USA v. Nevels",
+  "case_info_full_case_name": "USA v. Nevels",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nevels",
+  "case_date_filed": "1999-04-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David Barrett",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERESA F. NEVELS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=CP.M"
+        },
+        {
+          "charge_description": "21:844A=CP.M CONTROLLED SUBSTANCE-POSSESSION (1)"
+        },
+        {
+          "charge_disposition": "Twelve months probation and $500.00 Fine. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:641.M"
+        },
+        {
+          "charge_description": "18:641.M THEFT/EMBEZZLEMENT OF U. S. PROPERTY (2)"
+        },
+        {
+          "charge_disposition": "$25.00 assessment. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William L. Slaughter",
+          "judge_guid": "urn:entity:jud-100091357"
+        }
+      ]
+    }
+  ]
+}

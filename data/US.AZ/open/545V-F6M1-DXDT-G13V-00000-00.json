@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_311mj734_AZD",
+  "case_key": "3:11mj734_AZD",
+  "case_lni": "545V-F6M1-DXDT-G13V-00000-00",
+  "case_number": "3:11mj734",
+  "case_title": "USA v. Martinez-Penuelas",
+  "case_info_full_case_name": "USA v. Martinez-Penuelas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Penuelas",
+  "case_date_filed": "2011-11-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ian Robert Simons",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Abel Martinez-Penuelas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a)-Reentry of Removed Alien."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michelle H Burns",
+          "judge_guid": "urn:entity:jud-100080929"
+        }
+      ]
+    }
+  ]
+}

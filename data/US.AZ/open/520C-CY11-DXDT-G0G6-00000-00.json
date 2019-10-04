@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411cr244_AZD",
+  "case_key": "4:11cr244_AZD",
+  "case_lni": "520C-CY11-DXDT-G0G6-00000-00",
+  "case_number": "4:11cr244",
+  "case_title": "USA v. Aguirre",
+  "case_info_full_case_name": "USA v. Aguirre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguirre",
+  "case_date_filed": "2011-01-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brian G Sardelli - Inactive",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lorenda Aguirre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "31: 5332, 31 CFR 103.23, Bulk Cash Smuggling, in violation of 31:5332 and 5317; Forfeiture Allegation(1)"
+        },
+        {
+          "charge_disposition": "Placed on Probation for term of TWO (2) YRS"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "31:5316 and 5322, 31 CFR 103.23; Failure to Report Monetary Instruments(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on government's oral motion at sentencing"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "31:5316 and 5322 Bulk Cash Smuggling"
+        },
+        {
+          "charge_offence_description": "31:5316 and 5322 Bulk Cash Smuggling"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_205cr39_ALMD",
+  "case_key": "2:05cr39_ALMD",
+  "case_lni": "7WBN-GP90-Y892-B322-00000-00",
+  "case_number": "2:05cr39",
+  "case_title": "USA v. Ford",
+  "case_info_full_case_name": "USA v. Ford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ford",
+  "case_date_filed": "2005-02-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William R. Ford",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1); $1,000,000 20 3 $100"
+        },
+        {
+          "charge_description": "21:841(a)(1); CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE; NMT $1,000,000 [*]; NMT 20 Yrs or B; NLT 3 Yrs Sup Rel; No Probation; $100 SA; G-LINES; VWPA (1-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1); $2,000,000 5 40 4 $100"
+        },
+        {
+          "charge_description": "21:841(a)(1); CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE; NMT $2,000,000 [*]; NLT 5 Yrs, NMT 40 Yrs or B; NLT 4 Yrs Sup Rel; No Probation; $100 SA; G-LINES; VWPA (5-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon. Chief Judge",
+          "judge_name": "Mark E. Fuller",
+          "judge_guid": "urn:entity:jud-100004623"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Charles S. Coody",
+          "judge_guid": "urn:entity:jud-100049784"
+        }
+      ]
+    }
+  ]
+}

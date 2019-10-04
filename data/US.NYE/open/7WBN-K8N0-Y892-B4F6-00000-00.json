@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_199cr92_nyed",
+  "case_key": "1:99cr92_nyed",
+  "case_lni": "7WBN-K8N0-Y892-B4F6-00000-00",
+  "case_number": "1:99cr92",
+  "case_title": "USA v. Terrible",
+  "case_info_full_case_name": "USA v. Terrible",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Terrible",
+  "case_date_filed": "1999-01-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kenneth B. Breen, Esq.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERRILUS TERRIBLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a) 1326(b)(2); 18:3551"
+        },
+        {
+          "charge_description": "8:1326(a) &; 1326(b)(2); 18:3551 et seq-REENTRY OF DEPORTED ALIEN-FELONY. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 An alien who had been arrested &; convicted of a felony offense &; deported fro the US, attempted to enter the US illegally. [1:99-m-76]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raymond J. Dearie",
+          "judge_guid": "urn:entity:jud-100096559"
+        }
+      ]
+    }
+  ]
+}

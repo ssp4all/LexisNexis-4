@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_698m3166_flmd",
+  "case_key": "6:98m3166_flmd",
+  "case_lni": "7WBN-P7K0-Y892-B28G-00000-00",
+  "case_number": "6:98m3166",
+  "case_title": "USA v. Avila-Frausto",
+  "case_info_full_case_name": "USA v. Avila-Frausto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Avila-Frausto",
+  "case_date_filed": "1998-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LUIS AVILA-FRAUSTO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18: 911 1546(b)(1). (2)"
+        },
+        {
+          "charge_description": "18: Sections 911 and 1546(b)(1). falsely and willfully represent himself to be a citizen of the U.S. and (2) use an identification document knowing (or having reason to know) that the document was not issued lawfully for the use of the possessor."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Karla R. Spaulding",
+          "judge_guid": "urn:entity:jud-100020417"
+        }
+      ]
+    }
+  ]
+}

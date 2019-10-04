@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_406cr121_OKND",
+  "case_key": "4:06cr121_OKND",
+  "case_lni": "7WBN-NF90-Y892-B51R-00000-00",
+  "case_number": "4:06cr121",
+  "case_title": "USA v. Lee",
+  "case_info_full_case_name": "USA v. Lee",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lee",
+  "case_date_filed": "2006-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Melody Lynn Lee",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1343-WIRE"
+        },
+        {
+          "charge_description": "18:1343-WIRE FRAUD (1-11)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341-MAIL"
+        },
+        {
+          "charge_description": "18:1341-MAIL FRAUD (12-13)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A(a)(1) (c)(5)-AGGRAVATED"
+        },
+        {
+          "charge_description": "18:1028A(a)(1) and (c)(5)-AGGRAVATED IDENTITY THEFT (14-20)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Claire V Eagan",
+          "judge_guid": "urn:entity:jud-100056785"
+        }
+      ]
+    }
+  ]
+}

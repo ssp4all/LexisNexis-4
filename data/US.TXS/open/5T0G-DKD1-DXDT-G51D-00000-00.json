@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_518po63143_TXSD",
+  "case_key": "5:18po63143_TXSD",
+  "case_lni": "5T0G-DKD1-DXDT-G51D-00000-00",
+  "case_number": "5:18po63143",
+  "case_title": "USA v. Romero-Cordova",
+  "case_info_full_case_name": "USA v. Romero-Cordova",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero-Cordova",
+  "case_date_filed": "2018-08-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Geysi Janeth Romero-Cordova",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Song Quiroga",
+          "judge_guid": "urn:entity:jud-100014277"
+        }
+      ]
+    }
+  ]
+}

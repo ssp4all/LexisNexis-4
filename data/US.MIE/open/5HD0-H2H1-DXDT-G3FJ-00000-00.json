@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_215cr20728_MIED",
+  "case_key": "2:15cr20728_MIED",
+  "case_lni": "5HD0-H2H1-DXDT-G3FJ-00000-00",
+  "case_number": "2:15cr20728",
+  "case_title": "United States of America v. Jackson",
+  "case_info_full_case_name": "United States of America v. Jackson",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Jackson",
+  "case_date_filed": "2015-11-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marlion Jackson, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PUBLIC MONEY, PROPERTY OR RECORDS(1)"
+        },
+        {
+          "charge_disposition": "PROBATION: 24 Months; ASSESSMENT: $100; RESTITUTION: $59,831.63"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Marianne O. Battani",
+          "judge_guid": "urn:entity:jud-100062109"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Anthony P. Patti",
+          "judge_guid": "urn:entity:jud-100114078"
+        }
+      ]
+    }
+  ]
+}

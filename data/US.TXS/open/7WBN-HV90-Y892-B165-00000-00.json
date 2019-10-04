@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_503m806_txsd",
+  "case_key": "5:03m806_txsd",
+  "case_lni": "7WBN-HV90-Y892-B165-00000-00",
+  "case_number": "5:03m806",
+  "case_title": "USA v. Astorga-Perez",
+  "case_info_full_case_name": "USA v. Astorga-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Astorga-Perez",
+  "case_date_filed": "2003-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN JOSE ASTORGA-PEREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "129.91"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with the intent to distribute a controlled substance, to-wit: approximately 129.91 kilograms of marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marcel C. Notzon",
+          "judge_guid": "urn:entity:jud-100027294"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_201cr18_caed",
+  "case_key": "2:01cr18_caed",
+  "case_lni": "7WBN-F840-Y892-B2FV-00000-00",
+  "case_number": "2:01cr18",
+  "case_title": "USA v. Doan, et al",
+  "case_info_full_case_name": "USA v. Doan, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Doan, et al",
+  "case_date_filed": "2001-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SUSAN DOAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:152.F"
+        },
+        {
+          "charge_description": "18:152.F BANKRUPTCY FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "31:5324.F"
+        },
+        {
+          "charge_description": "31:5324.F STRUCTURING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:982.F"
+        },
+        {
+          "charge_description": "18:982.F CRIMINAL FORFEITURE (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David F Levi",
+          "judge_guid": "urn:entity:jud-100091237"
+        }
+      ]
+    },
+    {
+      "party_name": "ALBERT DOAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "18:1001.F FALSE STATEMENT (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:982.F"
+        },
+        {
+          "charge_description": "18:982.F CRIMINAL FORFEITURE (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David F Levi",
+          "judge_guid": "urn:entity:jud-100091237"
+        }
+      ]
+    },
+    {
+      "party_name": "ANDREW DOAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341.F"
+        },
+        {
+          "charge_description": "18:1341.F MAIL FRAUD (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David F Levi",
+          "judge_guid": "urn:entity:jud-100091237"
+        }
+      ]
+    }
+  ]
+}

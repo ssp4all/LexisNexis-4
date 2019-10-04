@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_116po840_VAED",
+  "case_key": "1:16po840_VAED",
+  "case_lni": "5JCV-63F1-DXDT-G330-00000-00",
+  "case_number": "1:16po840",
+  "case_title": "USA vs Holley",
+  "case_info_full_case_name": "USA vs Holley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Holley",
+  "case_date_filed": "2016-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Bryan N Holley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING WHILE SUSPENDED OR REVOKED (4537536)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DISREGARDING AUTHORIZED ROAD SIGN/TRAFFIC SIGNAL/MARKING OR LIGHT/STOP SIGN (4537535)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

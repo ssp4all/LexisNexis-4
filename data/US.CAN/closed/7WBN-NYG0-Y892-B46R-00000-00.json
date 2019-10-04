@@ -1,0 +1,99 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_508cr252_CAND",
+  "case_key": "5:08cr252_CAND",
+  "case_lni": "7WBN-NYG0-Y892-B46R-00000-00",
+  "case_number": "5:08cr252",
+  "case_title": "USA v. Abrams",
+  "case_info_full_case_name": "USA v. Abrams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Abrams",
+  "case_date_filed": "2008-04-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_name": "Thomas Moore"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sharlene P. Abrams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7201"
+        },
+        {
+          "charge_description": "26:7201 Tax Fraud"
+        },
+        {
+          "charge_offence_level": "0"
+        },
+        {
+          "charge_statute": "26: 7212"
+        },
+        {
+          "charge_description": "26: 7212 Obstruction (1s)"
+        },
+        {
+          "charge_disposition": "4 Months Bop Custody, 1 Year Supervised Release, $371,499.00 in Restitution to Irs, $3,000 in Fine Due Immediately, $100.00 Special Assessment Due Immediately"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7201"
+        },
+        {
+          "charge_description": "26:7201 Income Tax Evasion (1)"
+        },
+        {
+          "charge_disposition": "Dismissed by Way of Superseding Information"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7206(2)"
+        },
+        {
+          "charge_description": "26:7206(2) Aiding And Assisting in The Preparation of False Tax Returns (2-3)"
+        },
+        {
+          "charge_disposition": "Dismissed by Way of Superseding Information"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ronald M Whyte",
+          "judge_guid": "urn:entity:jud-100017243"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul Singh Grewal",
+          "judge_guid": "urn:entity:jud-100059385"
+        }
+      ]
+    },
+    {
+      "party_name": "Karen Mar",
+      "party_description": "Probation Officer"
+    }
+  ]
+}

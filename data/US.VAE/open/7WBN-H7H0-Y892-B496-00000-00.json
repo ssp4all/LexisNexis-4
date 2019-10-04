@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_305mj447_VAED",
+  "case_key": "3:05mj447_VAED",
+  "case_lni": "7WBN-H7H0-Y892-B496-00000-00",
+  "case_number": "3:05mj447",
+  "case_title": "USA v. Little",
+  "case_info_full_case_name": "USA v. Little",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Little",
+  "case_date_filed": "2005-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Andrew Thomas Little",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Magistrate",
+          "judge_name": "Dennis W. Dohnal",
+          "judge_guid": "urn:entity:jud-100044444"
+        }
+      ]
+    }
+  ]
+}

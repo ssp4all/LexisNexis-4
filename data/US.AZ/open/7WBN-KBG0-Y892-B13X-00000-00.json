@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_200cr856_azd",
+  "case_key": "2:00cr856_azd",
+  "case_lni": "7WBN-KBG0-Y892-B13X-00000-00",
+  "case_number": "2:00cr856",
+  "case_title": "USA, et al v. Simpson",
+  "case_info_full_case_name": "USA, et al v. Simpson",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Simpson",
+  "case_date_filed": "2000-09-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROGER C SIMPSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:228(a)(3)"
+        },
+        {
+          "charge_description": "18:228(a)(3) Failure to Pay Child Support Obligation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert C Broomfield",
+          "judge_guid": "urn:entity:jud-100060648"
+        }
+      ]
+    }
+  ]
+}

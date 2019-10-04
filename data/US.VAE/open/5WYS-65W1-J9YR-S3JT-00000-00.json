@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_119po1837_VAED",
+  "case_key": "1:19po1837_VAED",
+  "case_lni": "5WYS-65W1-J9YR-S3JT-00000-00",
+  "case_number": "1:19po1837",
+  "case_title": "USA vs Robinson",
+  "case_info_full_case_name": "USA vs Robinson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robinson",
+  "case_date_filed": "2019-09-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "William L Robinson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OPERATING VEHICLE AT SPEED IN EXCESS OF SPEED LIMIT (7881291)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "RECKLESS DRIVING BY SPEED (7881290)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael S. Nachmanoff",
+          "judge_guid": "urn:entity:jud-100112063"
+        }
+      ]
+    }
+  ]
+}

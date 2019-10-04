@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_299cr369_paed",
+  "case_key": "2:99cr369_paed",
+  "case_lni": "7WBN-H2N0-Y892-B4M6-00000-00",
+  "case_number": "2:99cr369",
+  "case_title": "USA v. REDDING",
+  "case_info_full_case_name": "USA v. REDDING",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "REDDING",
+  "case_date_filed": "1999-07-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "WILLIAM. REDDING",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "RONALD L. BUCKWALTER",
+          "judge_guid": "urn:entity:jud-100063859"
+        }
+      ]
+    }
+  ]
+}

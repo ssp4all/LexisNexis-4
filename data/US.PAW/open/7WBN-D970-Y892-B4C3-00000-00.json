@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_206cr156_PAWD",
+  "case_key": "2:06cr156_PAWD",
+  "case_lni": "7WBN-D970-Y892-B4C3-00000-00",
+  "case_number": "2:06cr156",
+  "case_title": "USA v. MORA-DIAZ",
+  "case_info_full_case_name": "USA v. MORA-DIAZ",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MORA-DIAZ",
+  "case_date_filed": "2006-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VINCENTE MORA-DIAZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 (a)"
+        },
+        {
+          "charge_description": "8:1326 (a) RE-ENTRY OF A REMOVED ALIEN (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Donetta"
+        }
+      ]
+    }
+  ]
+}

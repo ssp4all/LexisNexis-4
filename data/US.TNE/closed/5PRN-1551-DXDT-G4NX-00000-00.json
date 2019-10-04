@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_217cr108_TNED",
+  "case_key": "2:17cr108_TNED",
+  "case_lni": "5PRN-1551-DXDT-G4NX-00000-00",
+  "case_number": "2:17cr108",
+  "case_title": "USA v. Gregory",
+  "case_info_full_case_name": "USA v. Gregory",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gregory",
+  "case_date_filed": "2017-10-19",
+  "case_status": "Closed",
+  "case_status_date": "10/19/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Vincent Lawrence Gregory",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A.F--RECEIPT OF ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO; 18:2252.F--POSSESSION OF SEXUAL MATERIAL INVOLVING THE SEXUAL EXPLOITATION OF MINORS"
+        },
+        {
+          "charge_offence_description": "18:2252A.F--RECEIPT OF ACTIVITIES RE MATERIAL CONS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "J Ronnie Greer",
+          "judge_guid": "urn:entity:jud-100072448"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clifton L Corker",
+          "judge_guid": "urn:entity:jud-100113981"
+        }
+      ]
+    }
+  ]
+}

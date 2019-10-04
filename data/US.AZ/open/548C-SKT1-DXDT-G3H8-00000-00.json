@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_211cr2239_AZD",
+  "case_key": "2:11cr2239_AZD",
+  "case_lni": "548C-SKT1-DXDT-G3H8-00000-00",
+  "case_number": "2:11cr2239",
+  "case_title": "USA v. Davis",
+  "case_info_full_case_name": "USA v. Davis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis",
+  "case_date_filed": "2011-11-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Heather H Belt",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andrew Noland Davis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 924(a)(2) 18:924(d), 28:2461"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) Felon in Possession of Firearm, and Forfeiture Allegation 18:924(d), 28:2461 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Roslyn O Silver",
+          "judge_guid": "urn:entity:jud-100003910"
+        }
+      ]
+    }
+  ]
+}

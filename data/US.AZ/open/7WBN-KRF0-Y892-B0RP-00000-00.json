@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_205mj7166_AZD",
+  "case_key": "2:05mj7166_AZD",
+  "case_lni": "7WBN-KRF0-Y892-B0RP-00000-00",
+  "case_number": "2:05mj7166",
+  "case_title": "USA v. Kisto",
+  "case_info_full_case_name": "USA v. Kisto",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kisto",
+  "case_date_filed": "2005-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Monica Ann Kisto",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F Bringing In and Harboring Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edward C. Voss",
+          "judge_guid": "urn:entity:jud-100018796"
+        }
+      ]
+    },
+    {
+      "party_description": "material witness"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_499cr119_txnd",
+  "case_key": "4:99cr119_txnd",
+  "case_lni": "7WBN-NRP0-Y892-B1BS-00000-00",
+  "case_number": "4:99cr119",
+  "case_title": "USA v. Morgan",
+  "case_info_full_case_name": "USA v. Morgan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Morgan",
+  "case_date_filed": "1999-07-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Terri Marshelle Moore, Attorney at Law",
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MONICA MORGAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)-FELON"
+        },
+        {
+          "charge_description": "18:922(g)(1)-FELON IN POSSESSION OF A FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terry R Means",
+          "judge_guid": "urn:entity:jud-100026144"
+        }
+      ]
+    }
+  ]
+}

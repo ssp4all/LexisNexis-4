@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_311cr250_CASD",
+  "case_key": "3:11cr250_CASD",
+  "case_lni": "5216-DM41-DXDT-G02H-00000-00",
+  "case_number": "3:11cr250",
+  "case_title": "USA v. Romero-Castro",
+  "case_info_full_case_name": "USA v. Romero-Castro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero-Castro",
+  "case_date_filed": "2011-01-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Romero-Castro",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 846-Conspiracy (Felony)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 846-Conspiracy to Distribute Methamphetamine and Heroin (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21: 841(a)(1), 846-Conspiracy"
+        },
+        {
+          "charge_description": "21: 841(a)(1), 846-Conspiracy to Distribute Methamphetamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Irma E. Gonzalez",
+          "judge_guid": "urn:entity:jud-100042724"
+        }
+      ]
+    }
+  ]
+}

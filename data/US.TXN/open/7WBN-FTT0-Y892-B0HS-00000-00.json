@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_498cr204_txnd",
+  "case_key": "4:98cr204_txnd",
+  "case_lni": "7WBN-FTT0-Y892-B0HS-00000-00",
+  "case_number": "4:98cr204",
+  "case_title": "USA v. Osegura",
+  "case_info_full_case_name": "USA v. Osegura",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Osegura",
+  "case_date_filed": "2001-03-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN OSEGURA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 841(a)(1)-CONSPIRACY"
+        },
+        {
+          "charge_description": "21:846 &; 841(a)(1)-CONSPIRACY TO POSSES WITH INTENT TO DISTRIBUTE COAINE AND AMPHETAMINE (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C) 18:2-POSSESS"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(C) &; 18:2-POSSESS WITH INTENT TO DISTRIBUTE AMPHETAMINE AND AIDING AND ABETTING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A) 18:2-POSSESS"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(A) &; 18:2-POSSESS WITH INTENT TO DISTRIBUTE COCAINE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terry R Means",
+          "judge_guid": "urn:entity:jud-100026144"
+        }
+      ]
+    }
+  ]
+}

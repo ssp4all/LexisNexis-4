@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_201cr314_txsd",
+  "case_key": "2:01cr314_txsd",
+  "case_lni": "7WBN-KCV0-Y892-B2D8-00000-00",
+  "case_number": "2:01cr314",
+  "case_title": "USA v. Vargas-Gonzalez",
+  "case_info_full_case_name": "USA v. Vargas-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vargas-Gonzalez",
+  "case_date_filed": "2001-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - C",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ELEASAR NMI VARGAS-GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii) 1324(a)(1)(B)(ii). 20, 2001. 5 3"
+        },
+        {
+          "charge_description": "Did transport undocumented aliens within the United States. 8:1324(a)(1)(A)(ii) and 1324(a)(1)(B)(ii). Date of Offense: Setpember 20, 2001. Penalty: (each count) Not more than 5 years imprisonment, a fine of up to $250,000, up to 3 years SRT and a $100 special assessment. (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "28 8USC1324(a)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "Did unlawfully transport Mexican aliens, David Carrizalez-Gaitan and Alvaro Garcia-Galvan and 28 other aliens by means of a motor vehicle within the Southern District of Texas knowingly or in reckless disregard of the fact that said aliens had come to, entered or were to remain in the United States in violation of law, and transported or moved said aliens within the United States by means of transportation or otherwise, in furtherance of such violation of law 8 USC 1324(a)(1)(A)(ii) [2:01-m-336]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hayden W. Head, Jr",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    }
+  ]
+}

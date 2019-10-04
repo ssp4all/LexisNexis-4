@@ -1,0 +1,79 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_218cr20213_TNWD",
+  "case_key": "2:18cr20213_TNWD",
+  "case_lni": "5SS6-H2T1-DXDT-G3N4-00000-00",
+  "case_number": "2:18cr20213",
+  "case_title": "United States of America v. Benson",
+  "case_info_full_case_name": "United States of America v. Benson",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Benson",
+  "case_date_filed": "2018-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Raney L. Irwin",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Benson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F - CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1s-2s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:856=CM.F - CONTROLLED SUBSTANCE - MANUFACTURE(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:856(a)(1) CONTROLLED SUBSTANCE - MANUFACTURE(3s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F - UNLAWFUL TRANSPORT OF FIREARMS, ETC.(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) UNLAWFUL TRANSPORT OF FIREARMS, ETC.(4s-6s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mark S. Norris",
+          "judge_guid": "urn:entity:jud-500002686"
+        }
+      ]
+    }
+  ]
+}

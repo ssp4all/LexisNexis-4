@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_116cr25_ILND",
+  "case_key": "1:16cr25_ILND",
+  "case_lni": "5HVF-K1F1-DXDT-G19T-00000-00",
+  "case_number": "1:16cr25",
+  "case_title": "USA v. Blake",
+  "case_info_full_case_name": "USA v. Blake",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blake",
+  "case_date_filed": "2016-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "AUSA - Chicago",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Matthew J. McCrobie",
+      "attorney_label": "PRO HAC VICE;"
+    },
+    {},
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard A Blake , Jr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ANTITRUST VIOLATIONS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "John J. Tharp, Jr",
+          "judge_guid": "urn:entity:jud-100104550"
+        }
+      ]
+    }
+  ]
+}

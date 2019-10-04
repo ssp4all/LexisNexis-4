@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_116cr705_NYSD",
+  "case_key": "1:16cr705_NYSD",
+  "case_lni": "5M1R-J6V1-DXDT-G05N-00000-00",
+  "case_number": "1:16cr705",
+  "case_title": "USA v. Williams",
+  "case_info_full_case_name": "USA v. Williams",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Williams",
+  "case_date_filed": "2016-10-27",
+  "case_status": "Closed",
+  "case_status_date": "10/27/2016",
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Rudyard C Williams",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841B=MD.F MARIJUANA - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "In District of Arizona, defendant is sentenced to sixty (16) months imprisonment on Counts 1 &; 2, to run consecutively, followed by supervised release of 48 months on Counts 1 &; 2, to fun concurrently."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F VIOLENT CRIME/DRUGS/MACHINE GUN (POSSESSION OF FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME)(2)"
+        },
+        {
+          "charge_disposition": "In District of Arizona, defendant is sentenced to sixty (16) months imprisonment on Counts 1 &; 2, to run consecutively, followed by supervised release of 48 months on Counts 1 &; 2, to fun concurrently."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J. Paul Oetken",
+          "judge_guid": "urn:entity:jud-100053306"
+        }
+      ]
+    }
+  ]
+}

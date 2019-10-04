@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_106cr1189_NYSD",
+  "case_key": "1:06cr1189_NYSD",
+  "case_lni": "7WBN-D3Y0-Y892-B0NV-00000-00",
+  "case_number": "1:06cr1189",
+  "case_title": "USA v. Adam",
+  "case_info_full_case_name": "USA v. Adam",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adam",
+  "case_date_filed": "2006-12-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher Adam",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (FELON IN POSSESSION OF FIREARM) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC922 (g) (1)"
+        },
+        {
+          "charge_description": "18 U.S.C. 922 (g) (1) (FELON IN POSSESSION OF A FIREARM)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kenneth M. Karas",
+          "judge_guid": "urn:entity:jud-100017811"
+        }
+      ]
+    }
+  ]
+}

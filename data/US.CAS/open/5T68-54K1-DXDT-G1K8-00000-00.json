@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr3937_CASD",
+  "case_key": "3:18cr3937_CASD",
+  "case_lni": "5T68-54K1-DXDT-G1K8-00000-00",
+  "case_number": "3:18cr3937",
+  "case_title": "USA v. Urbina-Vallesillo",
+  "case_info_full_case_name": "USA v. Urbina-Vallesillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Urbina-Vallesillo",
+  "case_date_filed": "2018-09-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Urbina-Vallesillo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325(a)(2) - Unlawful Entry by an Alien (Misdemeanor)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) - Attempted Reentry of Removed Alien(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1325 - Illegal Entry (misdemeanor)"
+        },
+        {
+          "charge_offence_description": "8:1325 - Illegal Entry (misdemeanor)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anthony J. Battaglia",
+          "judge_guid": "urn:entity:jud-100062115"
+        }
+      ]
+    }
+  ]
+}

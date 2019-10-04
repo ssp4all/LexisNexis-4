@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_212cr603_CACD",
+  "case_key": "2:12cr603_CACD",
+  "case_lni": "5604-57B1-DXDT-G3M0-00000-00",
+  "case_number": "2:12cr603",
+  "case_title": "USA v. Nys",
+  "case_info_full_case_name": "USA v. Nys",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nys",
+  "case_date_filed": "2012-06-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas R Nys",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641:"
+        },
+        {
+          "charge_description": "18:641: THEFT OF GOVERNMENT PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

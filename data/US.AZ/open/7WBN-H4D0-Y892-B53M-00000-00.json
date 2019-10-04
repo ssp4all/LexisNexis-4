@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_301m4190_azd",
+  "case_key": "3:01m4190_azd",
+  "case_lni": "7WBN-H4D0-Y892-B53M-00000-00",
+  "case_number": "3:01m4190",
+  "case_title": "USA, et al v. Johnson",
+  "case_info_full_case_name": "USA, et al v. Johnson",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Johnson",
+  "case_date_filed": "2001-08-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAY JOHNSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1154(a)"
+        },
+        {
+          "charge_description": "18:1154(a) Unlawful dispensing of alcoholic beverages"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Stephen L Verkamp",
+          "judge_guid": "urn:entity:jud-100010361"
+        }
+      ]
+    }
+  ]
+}

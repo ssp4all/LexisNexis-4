@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_106cr10070_ILCD",
+  "case_key": "1:06cr10070_ILCD",
+  "case_lni": "7WBN-PPB0-Y892-B4HF-00000-00",
+  "case_number": "1:06cr10070",
+  "case_title": "USA v. Hood",
+  "case_info_full_case_name": "USA v. Hood",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hood",
+  "case_date_filed": "2006-08-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Bradley W Murphy",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Allen J Hood",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 5 (crack), 21,USC841(a)(1) (b)(1)(B)"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE-On or about [7/28/06], in Peoria County, within the CDIL, the Dft did knowingly possess 5 grams or more of a substance containing cocaine base (crack), a Schedule II controlled substance, with intent to distribute in violation of Title 21, USC Section 841(a)(1) and (b)(1)(B) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924C.F-VIOLENT 9mm 18,USC924(c)"
+        },
+        {
+          "charge_description": "18:924C.F-VIOLENT CRIME/DRUGS/MACHINE GUN-On or about [7/28/06], in Peoria County, within the CDIL, Dft did knowingly possess a firearm, a 9mm Smith &; Wesson pistol, in furtherance of a drug trafficking crime which may be prosecuted in a court of the U.S. in violation of Title 18, USC Section 924(c) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841B=ND.F 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "21:841B=ND.F From on or about [7/28/06] in Peoria County in the CDIL, Dft did knowingly possess with the intent to distribute more than five grams of a mixture and substance containing cocaine base, crack, in violation of 21 USC 841(a)(1) and (b)(1)(B)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael M. Mihm",
+          "judge_guid": "urn:entity:jud-100025878"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

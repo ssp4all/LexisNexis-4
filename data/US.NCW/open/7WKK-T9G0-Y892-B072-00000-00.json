@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_309cr162_NCWD",
+  "case_key": "3:09cr162_NCWD",
+  "case_lni": "7WKK-T9G0-Y892-B072-00000-00",
+  "case_number": "3:09cr162",
+  "case_title": "USA v. Norwood",
+  "case_info_full_case_name": "USA v. Norwood",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Norwood",
+  "case_date_filed": "2009-09-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kelli A. Norwood",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "12:2607(b) SPLITTING CHARGES(1-2)"
+        },
+        {
+          "charge_disposition": "Counts 1 &; 2: 2 mos. Prob conc + $50 assess + $250 fine"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Max O. Cogburn, Jr",
+          "judge_guid": "urn:entity:jud-100048133"
+        }
+      ]
+    }
+  ]
+}

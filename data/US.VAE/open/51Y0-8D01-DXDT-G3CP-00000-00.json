@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_111mj34_VAED",
+  "case_key": "1:11mj34_VAED",
+  "case_lni": "51Y0-8D01-DXDT-G3CP-00000-00",
+  "case_number": "1:11mj34",
+  "case_title": "USA v. Konda",
+  "case_info_full_case_name": "USA v. Konda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Konda",
+  "case_date_filed": "2011-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeanine Linehan",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kishore Konda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 1546(a)"
+        },
+        {
+          "charge_description": "18:371 and 1546(a) Conspiracy to Commit Immigration Fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

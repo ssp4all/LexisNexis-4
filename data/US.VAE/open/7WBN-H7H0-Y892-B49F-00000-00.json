@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_305mj453_VAED",
+  "case_key": "3:05mj453_VAED",
+  "case_lni": "7WBN-H7H0-Y892-B49F-00000-00",
+  "case_number": "3:05mj453",
+  "case_title": "USA v. Tawes",
+  "case_info_full_case_name": "USA v. Tawes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tawes",
+  "case_date_filed": "2005-07-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joseph W. Tawes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC13 1950 18.2-266-Operate"
+        },
+        {
+          "charge_description": "18 U.S.C. 13 ASSIMILATING 1950 CODE OF VIRGINIA, AS AMENDED, 18.2-266-Operate motor vehicle while under the influence of alcohol (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18USC3118-Refuse"
+        },
+        {
+          "charge_description": "18 U.S.C. 3118-Refuse to submit to teat of blood, breath or urine (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "32 634.25(f) 1950 46.2-804-Fail"
+        },
+        {
+          "charge_description": "32 C.F.R. Section 634.25(f) assimilating 1950 Code of Virginia, as amended, 46.2-804-Fail to maintain single lane of traffic (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Magistrate",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    }
+  ]
+}

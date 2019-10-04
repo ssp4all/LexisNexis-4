@@ -1,0 +1,73 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_511cr99_OKWD",
+  "case_key": "5:11cr99_OKWD",
+  "case_lni": "52NF-MBM1-DXDT-G4C2-00000-00",
+  "case_number": "5:11cr99",
+  "case_title": "United States of America v. Washington",
+  "case_info_full_case_name": "United States of America v. Washington",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Washington",
+  "case_date_filed": "2011-03-16",
+  "case_status": "Closed",
+  "case_status_date": "12/13/2011",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cory Devon Washington",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1) FELON IN POSSESSION OF A FIREARM(1)"
+        },
+        {
+          "charge_disposition": "Dft sentenced to the custody of the Bureau of Prisons for a term of 180 months; Supervised Release 3; S/A fee $200.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "26:5861(d) &; 26:5845(f) POSSESSION OF AN UNREGISTERED FIREARM(2)"
+        },
+        {
+          "charge_disposition": "Dft sentenced to the custody of the Bureau of Prisons for a term of 180 months; Supervised Release 3; S/A fee $200.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(d), 26:5872 &; 28:2461(c) CRIMINAL FORFEITURE"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:844(h)(2) CARRYING AN EXPLOSIVE DURING THE COMMISSION OF A FELONY(3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Joe Heaton",
+          "judge_guid": "urn:entity:jud-100034872"
+        }
+      ]
+    }
+  ]
+}

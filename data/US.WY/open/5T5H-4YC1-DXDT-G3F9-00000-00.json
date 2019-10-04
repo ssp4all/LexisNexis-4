@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_518po777_WYD",
+  "case_key": "5:18po777_WYD",
+  "case_lni": "5T5H-4YC1-DXDT-G3F9-00000-00",
+  "case_number": "5:18po777",
+  "case_title": "USA vs Mercer",
+  "case_info_full_case_name": "USA vs Mercer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mercer",
+  "case_date_filed": "2018-09-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Garry C Mercer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Fail to pay recreation fee (7344535)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

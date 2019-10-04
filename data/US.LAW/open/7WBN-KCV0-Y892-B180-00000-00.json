@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_201cr20089_lawd",
+  "case_key": "2:01cr20089_lawd",
+  "case_lni": "7WBN-KCV0-Y892-B180-00000-00",
+  "case_number": "2:01cr20089",
+  "case_title": "USA v. Sandell",
+  "case_info_full_case_name": "USA v. Sandell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandell",
+  "case_date_filed": "2001-07-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Stacey R Simcox",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TAMMY A SANDELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:661"
+        },
+        {
+          "charge_description": "18:661 LARCENY W/IN SPECIAL MARITIME JURISDICTION-did take and carry away with the intent to steal, property (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alonzo P Wilson",
+          "judge_guid": "urn:entity:jud-100067221"
+        }
+      ]
+    }
+  ]
+}

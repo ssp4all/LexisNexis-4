@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_309CR33_NDD",
+  "case_key": "3:09CR33_NDD",
+  "case_lni": "52H5-M3K1-DXDT-G004-00000-00",
+  "case_number": "3:09cr33",
+  "case_title": "USA v. Zejdlik et al",
+  "case_info_full_case_name": "USA v. Zejdlik et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zejdlik et al",
+  "case_date_filed": "2009-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ryan Joel Zejdlik",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(a)(1) CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE AND DISTRIBUTE A CONTROLLED SUBSTANCE and 18:2 AIDING AND ABETTING(1)"
+        },
+        {
+          "charge_disposition": "228 months imprisonment, 5 years supervised release, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ralph R. Erickson",
+          "judge_guid": "urn:entity:jud-100056411"
+        }
+      ]
+    },
+    {
+      "party_name": "Matthew Ray Andel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846, 841(a)(1) CONSPIRACY TO POSSESS WITH INTENT TO DISTRIBUTE AND DISTRIBUTE A CONTROLLED SUBSTANCE and 18:2 AIDING AND ABETTING(1)"
+        },
+        {
+          "charge_disposition": "70 months imprisonment, 5 years supervised release with standard and special conditions, $100 special assessment, voluntary surrender: 10/18/10"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Ralph R. Erickson",
+          "judge_guid": "urn:entity:jud-100056411"
+        }
+      ]
+    }
+  ]
+}

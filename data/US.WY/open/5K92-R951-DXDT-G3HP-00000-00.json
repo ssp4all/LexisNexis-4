@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_516po554_WYD",
+  "case_key": "5:16po554_WYD",
+  "case_lni": "5K92-R951-DXDT-G3HP-00000-00",
+  "case_number": "5:16po554",
+  "case_title": "USA vs Reinbold",
+  "case_info_full_case_name": "USA vs Reinbold",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reinbold",
+  "case_date_filed": "2016-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Douglas J Reinbold",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operate vehicle in excess of posted speed limit (6024030)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_309cr5686_WAWD",
+  "case_key": "3:09cr5686_WAWD",
+  "case_lni": "7WSY-JF40-Y892-B05M-00000-00",
+  "case_number": "3:09cr5686",
+  "case_title": "USA v. Hadley",
+  "case_info_full_case_name": "USA v. Hadley",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hadley",
+  "case_date_filed": "2009-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Magistrate Prosecutor Ft Lewis",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John M Hadley",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "THEFT/EMBEZZLEMENT OF U. S. PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY W/O PASS OR PERMIT (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "CVB Judge"
+        }
+      ]
+    }
+  ]
+}

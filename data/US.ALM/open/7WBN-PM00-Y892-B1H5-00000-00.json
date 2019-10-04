@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_103cr137_almd",
+  "case_key": "1:03cr137_almd",
+  "case_lni": "7WBN-PM00-Y892-B1H5-00000-00",
+  "case_number": "1:03cr137",
+  "case_title": "USA v. Henriques",
+  "case_info_full_case_name": "USA v. Henriques",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Henriques",
+  "case_date_filed": "2003-06-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANTHONY W. HENRIQUES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 5 90"
+        },
+        {
+          "charge_description": "18:13 RECKLESS DRIVING-NLT 5 DAYS; NMT 90 DAYS; NLT $25.00; NMT $500.00; B; $10.00 SA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13 1 5 30 100.00; 1"
+        },
+        {
+          "charge_description": "18:13 DUI-NMT 1 YR; NLT 5 DAYS; NLT 30 DAYS COMMUNITY SERVICE; NLT $1,100.00; NMT $5, 100.00; B; MAND 1 YR SUSP; VWPA; $25.00 SA (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 POSS OPEN CONTAINER IN VEHICLE-NMT $25.00 FINE; $5.00 SA (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Susan Russ Walker",
+          "judge_guid": "urn:entity:jud-100011126"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_511mj1152_TXSD",
+  "case_key": "5:11mj1152_TXSD",
+  "case_lni": "53C5-F9V1-DXDT-G48X-00000-00",
+  "case_number": "5:11mj1152",
+  "case_title": "USA v. Cervantes",
+  "case_info_full_case_name": "USA v. Cervantes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cervantes",
+  "case_date_filed": "2011-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Faustino Cervantes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F-----MARIJUANA-SELL, 21:846=MD.F-----CONSPIRACY"
+        },
+        {
+          "charge_description": "21:841A=MD.F-----MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE, 21:846=MD.F-----CONSPIRACY TO DISTRIBUTE MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Scott Hacker",
+          "judge_guid": "urn:entity:jud-100070615"
+        }
+      ]
+    }
+  ]
+}

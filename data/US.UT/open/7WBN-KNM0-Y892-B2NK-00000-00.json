@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_205cr218_UTD",
+  "case_key": "2:05cr218_UTD",
+  "case_lni": "7WBN-KNM0-Y892-B2NK-00000-00",
+  "case_number": "2:05cr218",
+  "case_title": "USA v. Clair",
+  "case_info_full_case_name": "USA v. Clair",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clair",
+  "case_date_filed": "2005-04-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SEAN A. CLAIR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.P Container-36CFR4.14(b)"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER/Open Container-36 CFR 4.14(b) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-7220.P 21-36CFR2.35(a)(1)(ii)"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER/Possession of Alcohol while under 21-36 CFR 2.35(a)(1)(ii) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-7210.M DRIVING/DUI-36CFR4.23"
+        },
+        {
+          "charge_description": "18:13-7210.M TRAFFIC OFFENSES, DRUNKEN DRIVING/DUI-36 CFR 4.23 (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert T. Braithwaite",
+          "judge_guid": "urn:entity:jud-100060921"
+        }
+      ]
+    }
+  ]
+}

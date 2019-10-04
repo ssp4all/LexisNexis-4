@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_206cr132_WAWD",
+  "case_key": "2:06cr132_WAWD",
+  "case_lni": "7WBN-KRF0-Y892-B3DW-00000-00",
+  "case_number": "2:06cr132",
+  "case_title": "USA v. Lopez",
+  "case_info_full_case_name": "USA v. Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez",
+  "case_date_filed": "2006-04-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raul Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1542"
+        },
+        {
+          "charge_description": "18:1542 Passport Fraud"
+        },
+        {
+          "charge_description": "Misprision of Felony (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "James"
+        }
+      ]
+    }
+  ]
+}

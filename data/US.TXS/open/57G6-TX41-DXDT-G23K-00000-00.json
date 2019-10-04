@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_413cr17_TXSD",
+  "case_key": "4:13cr17_TXSD",
+  "case_lni": "57G6-TX41-DXDT-G23K-00000-00",
+  "case_number": "4:13cr17",
+  "case_title": "USA v. Agustin Cera",
+  "case_info_full_case_name": "USA v. Agustin Cera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Agustin Cera",
+  "case_date_filed": "2013-01-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jason B Smith",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Marshal - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cesar Agustin Cera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL REENTRY INTO THE UNITED STATES(1)"
+        },
+        {
+          "charge_disposition": "13 months custody BOP; no term of SRT imposed; no fine; $100 SA."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Vanessa D Gilmore",
+          "judge_guid": "urn:entity:jud-100038144"
+        }
+      ]
+    }
+  ]
+}

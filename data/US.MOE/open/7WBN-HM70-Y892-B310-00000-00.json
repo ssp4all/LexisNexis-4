@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_406cr583_MOED",
+  "case_key": "4:06cr583_MOED",
+  "case_lni": "7WBN-HM70-Y892-B310-00000-00",
+  "case_number": "4:06cr583",
+  "case_title": "USA v. Hamilton",
+  "case_info_full_case_name": "USA v. Hamilton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hamilton",
+  "case_date_filed": "2006-09-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric K. Hamilton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM (1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Henry E. Autrey",
+          "judge_guid": "urn:entity:jud-100070063"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Thomas C. Mummert, III",
+          "judge_guid": "urn:entity:jud-100003227"
+        }
+      ]
+    }
+  ]
+}

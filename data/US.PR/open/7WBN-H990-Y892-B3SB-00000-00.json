@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_308cr193_PRD",
+  "case_key": "3:08cr193_PRD",
+  "case_lni": "7WBN-H990-Y892-B3SB-00000-00",
+  "case_number": "3:08cr193",
+  "case_title": "USA v. Esteras-Rosado",
+  "case_info_full_case_name": "USA v. Esteras-Rosado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Esteras-Rosado",
+  "case_date_filed": "2008-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eduardo Esteras-Rosado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1956(a)(1)(B)(i) 2"
+        },
+        {
+          "charge_description": "18:1956(a)(1)(B)(i) and 2 A/A CONDUCT FINANCIAL TRANSACTION AFFECTING INTERSTATE COMMERCE-NARCOTICS-SELL, DISTRIBUTE OR DISPENSE (1-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:982(a)(1)"
+        },
+        {
+          "charge_description": "18:982(a)(1) CRIMINAL FORFEITURE (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Aida M. Delgado-Colon",
+          "judge_guid": "urn:entity:jud-100080940"
+        }
+      ]
+    }
+  ]
+}

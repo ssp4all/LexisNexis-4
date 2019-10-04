@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VI_309mj12_VID",
+  "case_key": "3:09mj12_VID",
+  "case_lni": "56X0-63M1-DXDT-G2D1-00000-00",
+  "case_number": "3:09mj12",
+  "case_title": "USA v. Rivera",
+  "case_info_full_case_name": "USA v. Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera",
+  "case_date_filed": "2009-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andres Jimenes Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546.F"
+        },
+        {
+          "charge_offence_description": "18:1546.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Curtis V Gomez",
+          "judge_guid": "urn:entity:jud-100126983"
+        },
+        {
+          "judge_name": "US Magistrate Judge Geoffrey W. Barnard",
+          "judge_guid": "urn:entity:jud-100052101"
+        }
+      ]
+    }
+  ]
+}

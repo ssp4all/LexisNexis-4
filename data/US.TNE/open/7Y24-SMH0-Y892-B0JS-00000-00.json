@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_110cr41_TNED",
+  "case_key": "1:10cr41_TNED",
+  "case_lni": "7Y24-SMH0-Y892-B0JS-00000-00",
+  "case_number": "1:10cr41",
+  "case_title": "USA v. Decker",
+  "case_info_full_case_name": "USA v. Decker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Decker",
+  "case_date_filed": "2010-03-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dannie L Decker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922"
+        },
+        {
+          "charge_description": "18:922 G.F"
+        },
+        {
+          "charge_offence_level": "0"
+        },
+        {
+          "charge_description": "Unlawful Transport of Firearms, Etc. (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Harry S Mattice, Jr",
+          "judge_guid": "urn:entity:jud-100028701"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Susan K Lee",
+          "judge_guid": "urn:entity:jud-100030219"
+        }
+      ]
+    }
+  ]
+}

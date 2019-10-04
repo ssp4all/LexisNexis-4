@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_816po2013_MDD",
+  "case_key": "8:16po2013_MDD",
+  "case_lni": "5JCV-63F1-DXDT-G3GJ-00000-00",
+  "case_number": "8:16po2013",
+  "case_title": "USA vs Montiel",
+  "case_info_full_case_name": "USA vs Montiel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Montiel",
+  "case_date_filed": "2016-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Clifford R Montiel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PERSON DRIVING MOTOR VEH. ON (HWY., PUBLIC USE PROPERTY) ON REVOKED OUT OF STATE (5099042)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATING UNREGISTERED MOTOR VEHICLE (5099045)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "FAILURE TO OBEY TRAFFIC CONTROL DEVICES AND POSTED SIGNS (5099044)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATING COMMERCIAL VEHICLE ON PARK ROADWAY WITHOUT A PERMIT (5099043)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

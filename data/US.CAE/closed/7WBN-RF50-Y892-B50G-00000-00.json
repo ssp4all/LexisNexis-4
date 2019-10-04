@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_294cr182_caed",
+  "case_key": "2:94cr182_caed",
+  "case_lni": "7WBN-RF50-Y892-B50G-00000-00",
+  "case_number": "2:94cr182",
+  "case_title": "USA v. Farias",
+  "case_info_full_case_name": "USA v. Farias",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Farias",
+  "case_date_filed": "1994-05-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JACQUELINE MARIE FARIAS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341"
+        },
+        {
+          "charge_description": "18:1341 POSTAL, INTERSTATE WIRE, RADIO, ETC. (MAIL FRAUD) (1-7)"
+        },
+        {
+          "charge_disposition": "Judgment: Imprisonment 12 months; supervised release 36 months; fine waived; $50 penalty assessed; sentence stayed to 8/16/95 (1-7)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341"
+        },
+        {
+          "charge_description": "18:1341 POSTAL, INTERSTATE WIRE, RADIO, ETC. (MAIL FRAUD) (8)"
+        },
+        {
+          "charge_disposition": "Judgment: Imprisonment 12 months; supervised release 36 months; fine waived; $50 penalty assessed; sentence stayed to 8/16/95 (8)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1341"
+        },
+        {
+          "charge_description": "18:1341 POSTAL, INTERSTATE WIRE, RADIO, ETC. (MAIL FRAUD) (9-12)"
+        },
+        {
+          "charge_disposition": "Judgment: Imprisonment 12 months; supervised release 36 months; fine waived; $50 penalty assessed; sentence stayed to 8/16/95 (9-12)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "William B Shubb",
+          "judge_guid": "urn:entity:jud-100021097"
+        }
+      ]
+    }
+  ]
+}

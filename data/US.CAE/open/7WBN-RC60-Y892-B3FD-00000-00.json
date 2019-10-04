@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_209mj102_CAED",
+  "case_key": "2:09mj102_CAED",
+  "case_lni": "7WBN-RC60-Y892-B3FD-00000-00",
+  "case_number": "2:09mj102",
+  "case_title": "USA v. Arrellano-Martinez",
+  "case_info_full_case_name": "USA v. Arrellano-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arrellano-Martinez",
+  "case_date_filed": "2009-03-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael Dwight Anderson",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Arrellano-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F KNOWINGLY RE-ENTERED THE UNITED STATES WITHOUT FIRST HAVING SECURED THE EXPRESS CONSENT OF THE ATTORNEY GENERAL OR THE SECRETARY OF THE DEPARTMENT OF HOMELAND SECURITY TO RE-APPLY FOR ADMISSION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edmund F. Brennan",
+          "judge_guid": "urn:entity:jud-100060822"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_300cr294_txnd",
+  "case_key": "3:00cr294_txnd",
+  "case_lni": "7WBN-MFP0-Y892-B4JJ-00000-00",
+  "case_number": "3:00cr294",
+  "case_title": "USA v. Cook",
+  "case_info_full_case_name": "USA v. Cook",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cook",
+  "case_date_filed": "2000-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BENJAMIN FRANKLIN COOK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:401(3)"
+        },
+        {
+          "charge_description": "18:401(3) CONTEMPT OF COURT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:401(3)"
+        },
+        {
+          "charge_description": "18:401(3) CONTEMPT OF COURT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Jerry Buchmeyer",
+          "judge_guid": "urn:entity:jud-100063889"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_202cr43_innd",
+  "case_key": "2:02cr43_innd",
+  "case_lni": "7WBN-GKB0-Y892-B4XR-00000-00",
+  "case_number": "2:02cr43",
+  "case_title": "USA v. Lytle",
+  "case_info_full_case_name": "USA v. Lytle",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lytle",
+  "case_date_filed": "2002-06-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHN LYTLE III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) DISTRIBUTION OF CRACK COCAINE (1-5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c)(1)"
+        },
+        {
+          "charge_description": "18:924(c)(1) POSSESSION OF A FIREARM IN FURTHERANCE OF DRUG TRAFFICKING (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 18:924(c) 2."
+        },
+        {
+          "charge_description": "21:841(a)(1) and 18:924(c) and 2. Possess with the intent to distribute a Controlled Substance, to wit, Cocaine Base, commonly known as crack cocaine and Possess a firearm in furtherance of drug trafficking crime [2:02-m-1040]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Rudy Lozano",
+          "judge_guid": "urn:entity:jud-100038613"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Andrew P Rodovich",
+          "judge_guid": "urn:entity:jud-100001577"
+        }
+      ]
+    }
+  ]
+}

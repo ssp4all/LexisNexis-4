@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_194cr466_dcd",
+  "case_key": "1:94cr466_dcd",
+  "case_lni": "7WBN-GD40-Y892-B1D1-00000-00",
+  "case_number": "1:94cr466",
+  "case_title": "USA v. BOYKIN, et al",
+  "case_info_full_case_name": "USA v. BOYKIN, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "BOYKIN, et al",
+  "case_date_filed": "1994-12-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GREGORY ANTHONY BOYKIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(iii) 18:2; 50"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(iii) and 18:2; NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE; Unlawful Possession with Intent to Distribute 50 Grams or More of Cocaine Base and Aiding and Abetting (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to Ninety Seven (97) months incarceration; followed by Five (5) years supervised release; special assessment of $50.00 imposed. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James Robertson",
+          "judge_guid": "urn:entity:jud-100001782"
+        }
+      ]
+    },
+    {
+      "party_name": "DARVIS ORLANDO DINGLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(iii) 18:2; 50"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(iii) and 18:2; NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE; Unlawful Possession with Intent to Distribute 50 Grams or More of Cocaine Base and Aiding and Abetting (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to One Hundred (100) months incarceration; followed by Five (5) years supervised release; special assessment of $50.00 imposed. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James Robertson",
+          "judge_guid": "urn:entity:jud-100001782"
+        }
+      ]
+    }
+  ]
+}

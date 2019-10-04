@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_113cr98_WVND",
+  "case_key": "1:13cr98_WVND",
+  "case_lni": "5B22-2941-DXDT-G0KS-00000-00",
+  "case_number": "1:13cr98",
+  "case_title": "USA v. Tamm",
+  "case_info_full_case_name": "USA v. Tamm",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tamm",
+  "case_date_filed": "2013-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "David A. Tamm",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONVERTS TO OWN USE PROPERTY OF ANOTHER(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 46 months custody of the BOP to be served concurrently with Count 2; 3 years supervised release; no fine; $100.00 special assessment; Restitution $1,548,950.04, money and property forfeiture."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD AND FALSE STATEMENTS(2)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 36 months custody of the BOP to be served concurrently with Count 1; 1 year supervised release to be served concurrently with Count 1; no fine; $100.00 special assessment; Restitution $1,548,950.04, money and property forfeiture."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Seibert",
+          "judge_guid": "urn:entity:jud-100021471"
+        }
+      ]
+    }
+  ]
+}

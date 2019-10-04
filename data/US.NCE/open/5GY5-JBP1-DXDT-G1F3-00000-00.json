@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_415mj1084_NCED",
+  "case_key": "4:15mj1084_NCED",
+  "case_lni": "5GY5-JBP1-DXDT-G1F3-00000-00",
+  "case_number": "4:15mj1084",
+  "case_title": "USA v. Phillips",
+  "case_info_full_case_name": "USA v. Phillips",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Phillips",
+  "case_date_filed": "2015-09-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donnie Lee Phillips, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Health Care Fraud"
+        },
+        {
+          "charge_offence_description": "Health Care Fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kimberly A. Swank",
+          "judge_guid": "urn:entity:jud-100104781"
+        }
+      ]
+    }
+  ]
+}

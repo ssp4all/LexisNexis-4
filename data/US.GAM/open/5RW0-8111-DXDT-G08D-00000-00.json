@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_718cr16_GAMD",
+  "case_key": "7:18cr16_GAMD",
+  "case_lni": "5RW0-8111-DXDT-G08D-00000-00",
+  "case_number": "7:18cr16",
+  "case_title": "UNITED STATES OF AMERICA v. RAMIREZ-GARCIA",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. RAMIREZ-GARCIA",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "RAMIREZ-GARCIA",
+  "case_date_filed": "2018-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAFAEL RAMIREZ-GARCIA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) - ILLEGAL REENTRY(1)"
+        },
+        {
+          "charge_disposition": "TIME SERVED; $100 MAF"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "HUGH LAWSON",
+          "judge_guid": "urn:entity:jud-100030330"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE THOMAS Q LANGSTAFF",
+          "judge_guid": "urn:entity:jud-100011558"
+        }
+      ]
+    }
+  ]
+}

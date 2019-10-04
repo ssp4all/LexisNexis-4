@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_213mj1021_AZD",
+  "case_key": "2:13mj1021_AZD",
+  "case_lni": "57FG-45W1-DXDT-G2Y4-00000-00",
+  "case_number": "2:13mj1021",
+  "case_title": "USA v. Borunda-Munoz",
+  "case_info_full_case_name": "USA v. Borunda-Munoz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Borunda-Munoz",
+  "case_date_filed": "2013-01-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fredrick Allen Cocio",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maria Isabel Borunda-Munoz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count I - 8:1326(a) Attempted Re-entry After Removal; Count II - 8:1325 Attempted Illegal Entry"
+        },
+        {
+          "charge_offence_description": "Count I - 8:1326(a) Attempted Re-entry After Remov"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

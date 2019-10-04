@@ -1,0 +1,115 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_110cr174_GASD",
+  "case_key": "1:10cr174_GASD",
+  "case_lni": "7YXW-N5S0-Y892-B2RC-00000-00",
+  "case_number": "1:10cr174",
+  "case_title": "USA v. Saxon",
+  "case_info_full_case_name": "USA v. Saxon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Saxon",
+  "case_date_filed": "2010-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony Todd Saxon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "IMPERSONATING A SOLDIER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "THEFT OF GOVERNMENT PROPERTY (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF FIREARM BY A CONVICTED FELON (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF AN UNREGISTERED SILENCER (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF UNREGISTERED SHORT-BARRELED RIFLE (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF EXPLOSIVES BY A CONVICTED FELON (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "THEFT OF A FIREARM FROM A FEDERALLY LICENSED FIREARMS DEALER (7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:912.F 18:641Theft"
+        },
+        {
+          "charge_description": "18:912.F Impersonating an Officer and 18:641Theft of Government Property"
+        },
+        {
+          "charge_statute": "18:922G.F 26:5841F 18:842F"
+        },
+        {
+          "charge_description": "18:922G.F Possession of firearm by convicted felon; 26:5841F Possession of silencer not registered; 18:842F possession of explosives by convicted felon"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dudley H. Bowen",
+          "judge_guid": "urn:entity:jud-100064624"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

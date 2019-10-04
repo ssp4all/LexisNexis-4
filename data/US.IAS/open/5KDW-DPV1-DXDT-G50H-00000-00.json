@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_316mj56_IASD",
+  "case_key": "3:16mj56_IASD",
+  "case_lni": "5KDW-DPV1-DXDT-G50H-00000-00",
+  "case_number": "3:16mj56",
+  "case_title": "USA v. Rotter",
+  "case_info_full_case_name": "USA v. Rotter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rotter",
+  "case_date_filed": "2016-08-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ashley Lynn Corkery",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Nicholas Rotter",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=CM.F - Conspiracy to Manufacture Methamphetamine - 21:846 &; 841(a)(1)"
+        },
+        {
+          "charge_offence_description": "21:846=CM.F - Conspiracy to Manufacture Methamphet"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen B. Jackson, Jr",
+          "judge_guid": "urn:entity:jud-100100960"
+        }
+      ]
+    }
+  ]
+}

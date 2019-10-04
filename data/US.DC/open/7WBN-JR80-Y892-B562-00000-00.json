@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_107mj11_DCD",
+  "case_key": "1:07mj11_DCD",
+  "case_lni": "7WBN-JR80-Y892-B562-00000-00",
+  "case_number": "1:07mj11",
+  "case_title": "USA v. RIGGINS",
+  "case_info_full_case_name": "USA v. RIGGINS",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "RIGGINS",
+  "case_date_filed": "2007-01-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "WAYNE P. RIGGINS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT filed in violation of Operating After Suspension."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Deborah A. Robinson",
+          "judge_guid": "urn:entity:jud-100001722"
+        }
+      ]
+    }
+  ]
+}

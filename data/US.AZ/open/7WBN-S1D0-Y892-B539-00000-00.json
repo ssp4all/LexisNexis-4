@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_402cr5_azd",
+  "case_key": "4:02cr5_azd",
+  "case_lni": "7WBN-S1D0-Y892-B539-00000-00",
+  "case_number": "4:02cr5",
+  "case_title": "USA v. Ozuna-Gonzalez",
+  "case_info_full_case_name": "USA v. Ozuna-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ozuna-Gonzalez",
+  "case_date_filed": "2002-01-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FLAVIO FRANCISCO OZUNA-GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1:8:1326(b)(2)"
+        },
+        {
+          "charge_description": "Ct 1:8:1326(b)(2) Re-Entry After Deportation (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Frank R Zapata",
+          "judge_guid": "urn:entity:jud-100065407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

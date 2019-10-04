@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_105mj190_NYSD",
+  "case_key": "1:05mj190_NYSD",
+  "case_lni": "7WBN-PPB0-Y892-B2R7-00000-00",
+  "case_number": "1:05mj190",
+  "case_title": "USA v. Patel",
+  "case_info_full_case_name": "USA v. Patel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Patel",
+  "case_date_filed": "2005-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Wilson Leung",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Naresh Patel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F-Conspiracy"
+        },
+        {
+          "charge_description": "18:371.F-Conspiracy to smuggle aliens into the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

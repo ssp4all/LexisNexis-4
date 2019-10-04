@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_397cr199_ord",
+  "case_key": "3:97cr199_ord",
+  "case_lni": "7WBN-HFB0-Y892-B50K-00000-00",
+  "case_number": "3:97cr199",
+  "case_title": "USA v. Drost",
+  "case_info_full_case_name": "USA v. Drost",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Drost",
+  "case_date_filed": "1997-05-29",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARK JOSEPH DROST",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:875(d)"
+        },
+        {
+          "charge_description": "18:875(d) THREATENING TELEPHONE COMMUNICATIONS TO EXTORT MONEY (1s)"
+        },
+        {
+          "charge_disposition": "SENTENCING DATE: 1/5/98. PROBATION: 5 YEARS. SPECIAL ASSESSMENT: $100. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC2113(a)"
+        },
+        {
+          "charge_description": "18 USC 2113(a) BANK EXTORTION [3:97-m-484]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James A Redden",
+          "judge_guid": "urn:entity:jud-100015195"
+        }
+      ]
+    }
+  ]
+}

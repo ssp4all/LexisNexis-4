@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAS_414cr226_GASD",
+  "case_key": "4:14cr226_GASD",
+  "case_lni": "5CGC-JTD1-DXDT-G307-00000-00",
+  "case_number": "4:14cr226",
+  "case_title": "USA v. Hill",
+  "case_info_full_case_name": "USA v. Hill",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hill",
+  "case_date_filed": "2014-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Elizabeth A. Dorsch",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gaylord A. Hill",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 7 and 13: O.C.G.A. 40-5-121- Driving with Suspended License(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18 U.S.C. 7 and 13: O.C.G.A. 40-6-72(b)- Failure to Stop at Stop Sign(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "G. R. Smith",
+          "judge_guid": "urn:entity:jud-100015834"
+        }
+      ]
+    }
+  ]
+}

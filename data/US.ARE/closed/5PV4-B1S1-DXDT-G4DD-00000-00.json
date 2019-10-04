@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_417sw245_ARED",
+  "case_key": "4:17sw245_ARED",
+  "case_lni": "5PV4-B1S1-DXDT-G4DD-00000-00",
+  "case_number": "4:17sw245",
+  "case_title": "USA v. Residence",
+  "case_info_full_case_name": "USA v. Residence",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Residence",
+  "case_date_filed": "2017-10-27",
+  "case_status": "Closed",
+  "case_status_date": "10/27/2017",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kristin Huntington Bryant",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Residence",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patricia S. Harris",
+          "judge_guid": "urn:entity:jud-100113338"
+        }
+      ]
+    }
+  ]
+}

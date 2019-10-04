@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARE_419sw37_ARED",
+  "case_key": "4:19sw37_ARED",
+  "case_lni": "5VGC-8DY1-DXDT-G08T-00000-00",
+  "case_number": "4:19sw37",
+  "case_title": "USA v. Gaggle Account",
+  "case_info_full_case_name": "USA v. Gaggle Account",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gaggle Account",
+  "case_date_filed": "2019-02-21",
+  "case_status": "Closed",
+  "case_status_date": "02/21/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kristin Huntington Bryant",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gaggle Account",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patricia S. Harris",
+          "judge_guid": "urn:entity:jud-100113338"
+        }
+      ]
+    }
+  ]
+}

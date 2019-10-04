@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_391m270_casd",
+  "case_key": "3:91m270_casd",
+  "case_lni": "7WBN-RVS0-Y892-B4TX-00000-00",
+  "case_number": "3:91m270",
+  "case_title": "USA, et al v. Murillo-Aguilar",
+  "case_info_full_case_name": "USA, et al v. Murillo-Aguilar",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Murillo-Aguilar",
+  "case_date_filed": "1991-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALBERTO MURILLO-AGUILAR",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Roger C. McKee",
+          "judge_guid": "urn:entity:jud-100098041"
+        }
+      ]
+    }
+  ]
+}

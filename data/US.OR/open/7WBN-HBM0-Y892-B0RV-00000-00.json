@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_309cr146_ORD",
+  "case_key": "3:09cr146_ORD",
+  "case_lni": "7WBN-HBM0-Y892-B0RV-00000-00",
+  "case_number": "3:09cr146",
+  "case_title": "USA v. Moreland",
+  "case_info_full_case_name": "USA v. Moreland",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreland",
+  "case_date_filed": "2009-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DeAndre DeLawn Moreland",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) FELON IN POSSESSION OF FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James A. Redden",
+          "judge_guid": "urn:entity:jud-100015195"
+        }
+      ]
+    }
+  ]
+}

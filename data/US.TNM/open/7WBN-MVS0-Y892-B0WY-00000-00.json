@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_307cr8_TNMD",
+  "case_key": "3:07cr8_TNMD",
+  "case_lni": "7WBN-MVS0-Y892-B0WY-00000-00",
+  "case_number": "3:07cr8",
+  "case_title": "USA v. Carter",
+  "case_info_full_case_name": "USA v. Carter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carter",
+  "case_date_filed": "2007-01-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charles Tyrone Carter",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 18:924"
+        },
+        {
+          "charge_description": "Indictment [1/10/07]: 18:922(g)(1) and 18:924 Convicted felon in possession of firearm (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert Echols",
+          "judge_guid": "urn:entity:jud-100095374"
+        }
+      ]
+    }
+  ]
+}

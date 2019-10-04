@@ -1,0 +1,111 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_194cr43_tned",
+  "case_key": "1:94cr43_tned",
+  "case_lni": "7WBN-GD40-Y892-B193-00000-00",
+  "case_number": "1:94cr43",
+  "case_title": "USA v. Moore",
+  "case_info_full_case_name": "USA v. Moore",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moore",
+  "case_date_filed": "1994-05-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMES C MOORE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2119 18:2"
+        },
+        {
+          "charge_description": "18:2119 MOTOR VEHICLE THEFT-CARJACKING 18:2 AID AND ABET (1)"
+        },
+        {
+          "charge_disposition": "Deft committed to imprisonment for 138 mos total; 3 yrs supv rls. Pay restitution in amt of $4,579.62; $100 special assessment fee. No fine imposed. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c) 18:2"
+        },
+        {
+          "charge_description": "18:924(c) FIREARMS-USE OF FIREARM DURING CARJACKING 18:2 AID AND ABET (2)"
+        },
+        {
+          "charge_disposition": "Deft committed to imprisonment for 138 mos total; 3 yrs supv rls. Pay restitution in amt of $4,579.62; $100 special assessment fee. No fine imposed. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "R Allan Edgar",
+          "judge_guid": "urn:entity:jud-100043848"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John Y Powers",
+          "judge_guid": "urn:entity:jud-100024208"
+        }
+      ]
+    },
+    {
+      "party_name": "GABRIEL VAUGHN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2119 18:2"
+        },
+        {
+          "charge_description": "18:2119 MOTOR VEHICLE THEFT-CARJACKING 18:2 AID AND ABET (1)"
+        },
+        {
+          "charge_disposition": "Deft committed to imprisonment for 157 mos total; 3 yrs supv rls; Pay restitution to $4, 579.62. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c) 18:2"
+        },
+        {
+          "charge_description": "18:924(c) FIREARMS-USE OF FIREARM DURING CARJACKING 18:2 AID AND ABET (2)"
+        },
+        {
+          "charge_disposition": "Deft committed to imprisonment for 157 mos total; 3 yrs supv rls; Pay restitution to $4, 579.62. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "R Allan Edgar",
+          "judge_guid": "urn:entity:jud-100043848"
+        },
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "John Y Powers",
+          "judge_guid": "urn:entity:jud-100024208"
+        }
+      ]
+    }
+  ]
+}

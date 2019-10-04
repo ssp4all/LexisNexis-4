@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_809cr508_NYND",
+  "case_key": "8:09cr508_NYND",
+  "case_lni": "7WPK-DRC0-Y892-B02G-00000-00",
+  "case_number": "8:09cr508",
+  "case_title": "USA v. Gebala",
+  "case_info_full_case_name": "USA v. Gebala",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gebala",
+  "case_date_filed": "2009-09-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dariusz Gebala",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "IMPERSONATING CITIZEN OF THE U.S. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gary L. Sharpe",
+          "judge_guid": "urn:entity:jud-100026578"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_206cr279_CAED",
+  "case_key": "2:06cr279_CAED",
+  "case_lni": "7WBN-FB50-Y892-B26V-00000-00",
+  "case_number": "2:06cr279",
+  "case_title": "USA v. Baxter",
+  "case_info_full_case_name": "USA v. Baxter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baxter",
+  "case_date_filed": "2006-07-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "S. Robert Tice-Raskin",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Josanne Baxter",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ACCESS DEVICE FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Lawrence K. Karlton",
+          "judge_guid": "urn:entity:jud-100043383"
+        }
+      ]
+    }
+  ]
+}

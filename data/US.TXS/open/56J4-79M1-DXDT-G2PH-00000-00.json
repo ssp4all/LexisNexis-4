@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_112mj889_TXSD",
+  "case_key": "1:12mj889_TXSD",
+  "case_lni": "56J4-79M1-DXDT-G2PH-00000-00",
+  "case_number": "1:12mj889",
+  "case_title": "USA v. Escalantez-Lopez",
+  "case_info_full_case_name": "USA v. Escalantez-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Escalantez-Lopez",
+  "case_date_filed": "2012-09-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Asst ",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Martin Antonio Escalantez-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F; Knowingly and unlawfully was present in the United States after having been previously deported."
+        },
+        {
+          "charge_offence_description": "8:1326.F; Knowingly and unlawfully was present in "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

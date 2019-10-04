@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_301m387_txnd",
+  "case_key": "3:01m387_txnd",
+  "case_lni": "7WBN-MJ60-Y892-B32S-00000-00",
+  "case_number": "3:01m387",
+  "case_title": "USA v. Rogers",
+  "case_info_full_case_name": "USA v. Rogers",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rogers",
+  "case_date_filed": "2001-12-07",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Warrant issued in the Eastern District of Tennessee, Chattanooga, charging dft with violation of conditions of pretrial release"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul D Stickney",
+          "judge_guid": "urn:entity:jud-100013954"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ARW_114cr10001_ARWD",
+  "case_key": "1:14cr10001_ARWD",
+  "case_lni": "5BSP-7H21-DXDT-G2RW-00000-00",
+  "case_number": "1:14cr10001",
+  "case_title": "USA v. Cendejas-Vargas",
+  "case_info_full_case_name": "USA v. Cendejas-Vargas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cendejas-Vargas",
+  "case_date_filed": "2014-03-19",
+  "case_status": "Closed",
+  "case_status_date": "12/02/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leobardo Cendejas-Vargas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1326(a)&;(b)(1) ILLEGAL REENTRY BY ALIEN INTO THE UNITED STATES WITHOUT THE PERMISSION FROM THE ATTORNEY GENERAL OF THE UNITED STATES AND/OR THE SECRETARY OF THE DEPARTMENT OF HOMELAND SECURITY(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to time served in federal custody plus 10 days; No supervised release - deportation anticipated following terms of imprisonment; $100.00 special assessment (remitted on motion of USA)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) Illegal re-entry of a convicted felon after deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a) Illegal re-entry of a convicted felon af"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Susan O. Hickey",
+          "judge_guid": "urn:entity:jud-100051740"
+        }
+      ]
+    }
+  ]
+}

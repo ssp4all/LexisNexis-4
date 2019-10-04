@@ -1,0 +1,117 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_515cr1060_TXSD",
+  "case_key": "5:15cr1060_TXSD",
+  "case_lni": "5GXS-3901-DXDT-G0BG-00000-00",
+  "case_number": "5:15cr1060",
+  "case_title": "USA v. Villarreal-Gomez et al",
+  "case_info_full_case_name": "USA v. Villarreal-Gomez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Villarreal-Gomez et al",
+  "case_date_filed": "2015-09-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-LA",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - L",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alma Delia Villarreal-Gomez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to Import 50 Grams or more of methamphetamine or 500 grams or more of a mixture and substance containing a detectable amount of Methamphetamine .  PENALTY  :  10 Years to Life and/or $ 10 Million , $ 100.00 Special Assessment . At least a 5 Year Term of Supervised Release .(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Importation of 50 Grams or more of methamphetamine of 500 grams or more of a mixture and substance containing a detectable amount of Mehtamphetamine .    PENALTY  :  10 Years to Life and / or $ 10 Million , $100.00 Special Assessment . At least a 5 year Term of Supervised Release .(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Knowingly , willfully, and unlawfully import from a place outside the United States to wit the Republic of Mexico to a place in the U.S. to wit a controlled substance approximately 18.64  kilograms of liquid methamphetamine .  Knowingly ,intentionally possess with the intent to distribute the above mentioned controlled substance . Furthermore, conspire to posses with intent to distribute ."
+        },
+        {
+          "charge_offence_description": "Knowingly , willfully, and unlawfully import from "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marina Garcia Marmolejo",
+          "judge_guid": "urn:entity:jud-100005708"
+        }
+      ]
+    },
+    {
+      "party_name": "Cindy Lozano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to smuggle bulk cash into the United States.   PENALTY :  Not more than 5 years, and / or $ 250,000.00 , $ 100.00 Special Assessment . Not more than a 3 year Term of Supervised Release .(1s)"
+        },
+        {
+          "charge_disposition": "Time served; 3 yrs srt, with 3 mos home confinement, comply with all standard and mandatory conditions; $100 s/a; fine waived; 75 hrs com/svs w/in 2 yrs of srt; mental health program; waived appeal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Conspiracy to Import 50 Grams or more of methamphetamine or 500 grams or more of a mixture and substance containing a detectable amount of Methamphetamine .  PENALTY  :  10 Years to Life and/or $ 10 Million , $ 100.00 Special Assessment . At least a 5 Year Term of Supervised Release .(1)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govts oral Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Importation of 50 Grams or more of methamphetamine of 500 grams or more of a mixture and substance containing a detectable amount of Mehtamphetamine .    PENALTY  :  10 Years to Life and / or $ 10 Million , $100.00 Special Assessment . At least a 5 year Term of Supervised Release .(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govts oral Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Knowingly , willfully, and unlawfully import from a place outside the United States to wit the Republic of Mexico to a place in the U.S. to wit a controlled substance approximately 18.64  kilograms of liquid methamphetamine .  Knowingly ,intentionally possess with the intent to distribute the above mentioned controlled substance . Furthermore, conspire to posses with intent to distribute ."
+        },
+        {
+          "charge_offence_description": "Knowingly , willfully, and unlawfully import from "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marina Garcia Marmolejo",
+          "judge_guid": "urn:entity:jud-100005708"
+        }
+      ]
+    }
+  ]
+}

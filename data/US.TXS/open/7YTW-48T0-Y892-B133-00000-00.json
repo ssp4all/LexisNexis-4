@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_210mj10636_TXSD",
+  "case_key": "2:10mj10636_TXSD",
+  "case_lni": "7YTW-48T0-Y892-B133-00000-00",
+  "case_number": "2:10mj10636",
+  "case_title": "USA v. Corpus",
+  "case_info_full_case_name": "USA v. Corpus",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Corpus",
+  "case_date_filed": "2010-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Test One Corpus",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

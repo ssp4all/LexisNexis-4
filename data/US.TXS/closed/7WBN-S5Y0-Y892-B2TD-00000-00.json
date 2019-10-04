@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_491cr43_txsd",
+  "case_key": "4:91cr43_txsd",
+  "case_lni": "7WBN-S5Y0-Y892-B2TD-00000-00",
+  "case_number": "4:91cr43",
+  "case_title": "USA v. Hodges",
+  "case_info_full_case_name": "USA v. Hodges",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hodges",
+  "case_date_filed": "1991-03-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GRIFFIN L HODGES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "84,85 86) 5"
+        },
+        {
+          "charge_description": "Willful attempt to evade and efeat the income taxes due and owing. (Offense Dates: C.Y. 84,85 &; 86) Max Penalty: 5 years and/or $250,000.00. (1-3)"
+        },
+        {
+          "charge_disposition": "Case Transferred by Rule 20 to ND Mississippi, Oxford. (1-3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lee H Rosenthal",
+          "judge_guid": "urn:entity:jud-100011616"
+        }
+      ]
+    }
+  ]
+}

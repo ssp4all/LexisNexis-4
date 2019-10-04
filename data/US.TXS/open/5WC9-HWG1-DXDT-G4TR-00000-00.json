@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_219mj2410_TXSD",
+  "case_key": "2:19mj2410_TXSD",
+  "case_lni": "5WC9-HWG1-DXDT-G4TR-00000-00",
+  "case_number": "2:19mj2410",
+  "case_title": "USA v. Rodriguez-De Rivera",
+  "case_info_full_case_name": "USA v. Rodriguez-De Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-De Rivera",
+  "case_date_filed": "2019-06-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sonia Del Carmen Rodriguez-De ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P --- Concealment of Facts of Reentry"
+        },
+        {
+          "charge_offence_description": "8:1325.P --- Concealment of Facts of Reentry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

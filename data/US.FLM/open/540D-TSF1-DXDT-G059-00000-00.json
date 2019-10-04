@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_311mj1211_FLMD",
+  "case_key": "3:11mj1211_FLMD",
+  "case_lni": "540D-TSF1-DXDT-G059-00000-00",
+  "case_number": "3:11mj1211",
+  "case_title": "USA v. Taylor",
+  "case_info_full_case_name": "USA v. Taylor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Taylor",
+  "case_date_filed": "2011-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Diidri Robinson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Haven Taylor",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1038.F FALSE INFORMATION AND HOAXES"
+        },
+        {
+          "charge_offence_description": "18:1038.F FALSE INFORMATION AND HOAXES"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James R. Klindt",
+          "judge_guid": "urn:entity:jud-100071242"
+        }
+      ]
+    }
+  ]
+}

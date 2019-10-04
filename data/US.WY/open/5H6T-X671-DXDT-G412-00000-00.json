@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_515po1307_WYD",
+  "case_key": "5:15po1307_WYD",
+  "case_lni": "5H6T-X671-DXDT-G412-00000-00",
+  "case_number": "5:15po1307",
+  "case_title": "USA v. Coral Flor",
+  "case_info_full_case_name": "USA v. Coral Flor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Coral Flor",
+  "case_date_filed": "2015-10-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maria A Coral Flor",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Possession of a controlled substance (3814759)(1)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Carry/store open bottle/container containing alcoholic beverage (3814760)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed with prejudice on motion of the United States."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

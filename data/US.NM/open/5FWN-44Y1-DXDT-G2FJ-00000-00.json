@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_115mj1539_NMD",
+  "case_key": "1:15mj1539_NMD",
+  "case_lni": "5FWN-44Y1-DXDT-G2FJ-00000-00",
+  "case_number": "1:15mj1539",
+  "case_title": "USA v. Armendariz",
+  "case_info_full_case_name": "USA v. Armendariz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Armendariz",
+  "case_date_filed": "2015-05-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Marquez Armendariz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841 (a)(1), (b)(1)(A): Possession of more than 500 grams of a mixture or substance containing a detectable amount of methamphetamine with intent to distribute."
+        },
+        {
+          "charge_offence_description": "21:841 (a)(1), (b)(1)(A): Possession of more than "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Steven C. Yarbrough",
+          "judge_guid": "urn:entity:jud-100107181"
+        }
+      ]
+    }
+  ]
+}

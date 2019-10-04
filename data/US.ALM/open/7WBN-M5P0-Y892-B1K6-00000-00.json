@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_293cr334_almd",
+  "case_key": "2:93cr334_almd",
+  "case_lni": "7WBN-M5P0-Y892-B1K6-00000-00",
+  "case_number": "2:93cr334",
+  "case_title": "USA v. Bowe",
+  "case_info_full_case_name": "USA v. Bowe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bowe",
+  "case_date_filed": "1993-10-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRYANT BOWE",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Myron H. Thompson",
+          "judge_guid": "urn:entity:jud-100019071"
+        }
+      ]
+    }
+  ]
+}

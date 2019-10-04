@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_011cr60067_FLSD",
+  "case_key": "0:11cr60067_FLSD",
+  "case_lni": "52HR-XBF1-DXDT-G3YD-00000-00",
+  "case_number": "0:11cr60067",
+  "case_title": "USA v. Gomez Gachuz",
+  "case_info_full_case_name": "USA v. Gomez Gachuz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez Gachuz",
+  "case_date_filed": "2011-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Eduardo Gomez Gachuz: 96532-004",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1542.F"
+        },
+        {
+          "charge_description": "18:1542.F False Stmt Application Passport (1)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1542.F"
+        },
+        {
+          "charge_description": "18:1542.F False Statement For Application on A Passport"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James I Cohn",
+          "judge_guid": "urn:entity:jud-100062368"
+        }
+      ]
+    }
+  ]
+}

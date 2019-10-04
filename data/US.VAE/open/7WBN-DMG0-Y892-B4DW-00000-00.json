@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_205cr105_VAED",
+  "case_key": "2:05cr105_VAED",
+  "case_lni": "7WBN-DMG0-Y892-B4DW-00000-00",
+  "case_number": "2:05cr105",
+  "case_title": "USA v. Agnor",
+  "case_info_full_case_name": "USA v. Agnor",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Agnor",
+  "case_date_filed": "2005-08-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert James Agnor",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.21:846, 841(a)(1) (b)(1)(A)(viii)-Conspiracy"
+        },
+        {
+          "charge_description": "T.21:846, 841(a)(1) &; (b)(1)(A)(viii)-Conspiracy to manufacture, distribute and possess with intent to distribute methamphetamine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Conspire to manufacture, possess with intent to distribute and distribute methamphetamine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Walter D. Kelley, Jr",
+          "judge_guid": "urn:entity:jud-100008026"
+        },
+        {
+          "judge_title": "Honorable Magistrate",
+          "judge_name": "F. Bradford Stillman",
+          "judge_guid": "urn:entity:jud-100051654"
+        }
+      ]
+    }
+  ]
+}

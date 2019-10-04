@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414po24436_AZD",
+  "case_key": "4:14po24436_AZD",
+  "case_lni": "5BW8-JGB1-DXDT-G3BH-00000-00",
+  "case_number": "4:14po24436",
+  "case_title": "USA v. Alonso-Torralba",
+  "case_info_full_case_name": "USA v. Alonso-Torralba",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alonso-Torralba",
+  "case_date_filed": "2014-04-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marbin Alonso-Torralba",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

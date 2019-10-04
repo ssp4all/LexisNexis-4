@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_317cr34_NVD",
+  "case_key": "3:17cr34_NVD",
+  "case_lni": "5N7S-F801-DXDT-G4YW-00000-00",
+  "case_number": "3:17cr34",
+  "case_title": "USA v. Cannel",
+  "case_info_full_case_name": "USA v. Cannel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cannel",
+  "case_date_filed": "2017-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Nicolas Cannel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 2250(a) - Failure to Register as a Sex Offender(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Howard D. McKibben",
+          "judge_guid": "urn:entity:jud-100040727"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Valerie P. Cooke",
+          "judge_guid": "urn:entity:jud-100020874"
+        }
+      ]
+    }
+  ]
+}

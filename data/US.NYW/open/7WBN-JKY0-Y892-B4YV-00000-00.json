@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_105mj1023_NYWD",
+  "case_key": "1:05mj1023_NYWD",
+  "case_lni": "7WBN-JKY0-Y892-B4YV-00000-00",
+  "case_number": "1:05mj1023",
+  "case_title": "USA v. Phillips",
+  "case_info_full_case_name": "USA v. Phillips",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Phillips",
+  "case_date_filed": "2005-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Terrance J. Phillips",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(b)(1)(A) 841(b)(1)(A)--Defendant"
+        },
+        {
+          "charge_description": "21:841(b)(1)(A) and 841(b)(1)(A)--Defendant knowingly, willfululy and unlawfully possessed with intent to distribute and to distribute cocaine, a Schedule II controlled substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Leslie G. Foschio",
+          "judge_guid": "urn:entity:jud-100055538"
+        }
+      ]
+    }
+  ]
+}

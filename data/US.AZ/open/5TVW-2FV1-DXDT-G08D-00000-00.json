@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418mj6251_AZD",
+  "case_key": "4:18mj6251_AZD",
+  "case_lni": "5TVW-2FV1-DXDT-G08D-00000-00",
+  "case_number": "4:18mj6251",
+  "case_title": "USA v. Pablo-Lopez",
+  "case_info_full_case_name": "USA v. Pablo-Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pablo-Lopez",
+  "case_date_filed": "2018-12-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Marvin Alberto Pablo-Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1 8:1326 Illegal Re-Entry of Removed Alien; CT 2 8:1325(a)(1) Illegal Entry"
+        },
+        {
+          "charge_offence_description": "CT 1 8:1326 Illegal Re-Entry of Removed Alien; CT "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAW_301cr20_vawd",
+  "case_key": "3:01cr20_vawd",
+  "case_lni": "7WBN-MHC0-Y892-B04R-00000-00",
+  "case_number": "3:01cr20",
+  "case_title": "USA v. Lee, et al",
+  "case_info_full_case_name": "USA v. Lee, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lee, et al",
+  "case_date_filed": "2001-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SUSANNA KUKCHA LEE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:3373.F 2/9/00"
+        },
+        {
+          "charge_description": "16:3373.F IMPORTS/EXPORTS FISH, WILDLIFE OR PLANTS Offense Date: 2/9/00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F 2/9/00"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES Offense Date: 2/9/00 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Samuel G. Wilson",
+          "judge_guid": "urn:entity:jud-100016928"
+        }
+      ]
+    },
+    {
+      "party_name": "MI RAN KIM",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "16:3373.F 2/9/00"
+        },
+        {
+          "charge_description": "16:3373.F IMPORTS/EXPORTS FISH, WILDLIFE OR PLANTS Offense Date: 2/9/00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F 2/9/00"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES Offense Date: 2/9/00 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Samuel G. Wilson",
+          "judge_guid": "urn:entity:jud-100016928"
+        }
+      ]
+    }
+  ]
+}

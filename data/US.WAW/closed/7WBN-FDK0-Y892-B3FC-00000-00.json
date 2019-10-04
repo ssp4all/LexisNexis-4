@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_292cr165_wawd",
+  "case_key": "2:92cr165_wawd",
+  "case_lni": "7WBN-FDK0-Y892-B3FC-00000-00",
+  "case_number": "2:92cr165",
+  "case_title": "USA v. Rutherford",
+  "case_info_full_case_name": "USA v. Rutherford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rutherford",
+  "case_date_filed": "1992-04-08",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FOREST W RUTHERFORD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 MISC. GENERAL OFFENSES, MINOR IN POSSESSION OF ALCOHOLIC BEVERAGE (1)"
+        },
+        {
+          "charge_disposition": "$10 fine &; $10 special assessment to be paid immediately (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David E. Wilson",
+          "judge_guid": "urn:entity:jud-100035993"
+        }
+      ]
+    }
+  ]
+}

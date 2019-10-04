@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_501cr50038_lawd",
+  "case_key": "5:01cr50038_lawd",
+  "case_lni": "7WBN-HT10-Y892-B47W-00000-00",
+  "case_number": "5:01cr50038",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2001-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "APRIL JONES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641"
+        },
+        {
+          "charge_description": "18:641 THEFT/EMBEZZLEMENT OF U. S. PROPERTY-Did willfully and wrongfully steal and purloin goods and property of the United States (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Roy S Payne",
+          "judge_guid": "urn:entity:jud-100012196"
+        }
+      ]
+    }
+  ]
+}

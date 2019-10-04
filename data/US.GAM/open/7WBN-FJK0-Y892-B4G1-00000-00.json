@@ -1,0 +1,106 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_306cr21_GAMD",
+  "case_key": "3:06cr21_GAMD",
+  "case_lni": "7WBN-FJK0-Y892-B4G1-00000-00",
+  "case_number": "3:06cr21",
+  "case_title": "USA v. Maxey et al",
+  "case_info_full_case_name": "USA v. Maxey et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maxey et al",
+  "case_date_filed": "2006-04-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodney Maxey",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 21:841(a)(1), (b)(1)(A)(ii), 18:2: 50"
+        },
+        {
+          "charge_description": "21:846 i/c/w 21:841(a)(1), (b)(1)(A)(ii), &; 18:2: CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE: Conspiracy to possess with intent to distribute more than 50 grams of cocaine base: SCH II CTRL SUB (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "C. Ashley Royal",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_name": "Claude W. Hicks, Jr",
+          "judge_guid": "urn:entity:jud-100051727"
+        }
+      ]
+    },
+    {
+      "party_name": "Barbara Regina Kitchens",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 21:841(a)(1), (b)(1)(A)(ii), 18:2: 50"
+        },
+        {
+          "charge_description": "21:846 i/c/w 21:841(a)(1), (b)(1)(A)(ii), &; 18:2: CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE: Conspiracy to possess with intent to distribute more than 50 grams of cocaine base: SCH II CTRL SUB (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "C. Ashley Royal",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_title": "U.S. Mag. Judge",
+          "judge_name": "Claude W. Hicks, Jr",
+          "judge_guid": "urn:entity:jud-100051727"
+        }
+      ]
+    },
+    {
+      "party_name": "Gregory Thomas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846 21:841(a)(1), (b)(1)(A)(ii), 18:2: 50"
+        },
+        {
+          "charge_description": "21:846 i/c/w 21:841(a)(1), (b)(1)(A)(ii), &; 18:2: CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE: Conspiracy to possess with intent to distribute more than 50 grams of cocaine base: SCH II CTRL SUB (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "C. Ashley Royal",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_title": "U.S. Mag. Judge",
+          "judge_name": "Claude W. Hicks, Jr",
+          "judge_guid": "urn:entity:jud-100051727"
+        }
+      ]
+    }
+  ]
+}

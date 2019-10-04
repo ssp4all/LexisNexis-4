@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_377cr539_casd",
+  "case_key": "3:77cr539_casd",
+  "case_lni": "7WBN-D5N0-Y892-B27V-00000-00",
+  "case_number": "3:77cr539",
+  "case_title": "USA v. Wencke",
+  "case_info_full_case_name": "USA v. Wencke",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wencke",
+  "case_date_filed": "1977-07-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "WALTER C WENCKE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:4205(b)(2)"
+        },
+        {
+          "charge_description": "18:4205(b)(2) POSTAL, INTERSTATE WIRE, RADIO, ETC. (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:4205(b)(2)"
+        },
+        {
+          "charge_description": "18:4205(b)(2) POSTAL, INTERSTATE WIRE, RADIO, ETC. (5-6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:4205(b)(2)"
+        },
+        {
+          "charge_description": "18:4205(b)(2) POSTAL, INTERSTATE WIRE, RADIO, ETC. (8-10)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:4205(b)(2)"
+        },
+        {
+          "charge_description": "18:4205(b)(2) POSTAL, INTERSTATE WIRE, RADIO, ETC. (12-13)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:4205(b)(2)"
+        },
+        {
+          "charge_description": "18:4205(b)(2) POSTAL, INTERSTATE WIRE, RADIO, ETC. (15)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Leland C. Nielsen",
+          "judge_guid": "urn:entity:jud-100001365"
+        }
+      ]
+    }
+  ]
+}

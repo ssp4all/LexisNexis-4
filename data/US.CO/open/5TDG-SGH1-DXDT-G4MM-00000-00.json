@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_118cr459_COD",
+  "case_key": "1:18cr459_COD",
+  "case_lni": "5TDG-SGH1-DXDT-G4MM-00000-00",
+  "case_number": "1:18cr459",
+  "case_title": "USA v. Deer",
+  "case_info_full_case_name": "USA v. Deer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Deer",
+  "case_date_filed": "2018-10-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shirley Ann Deer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 ยง666 Embezzlement, Conversion or Misapplication of Property from an Indian Tribal government receiving federal funds(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 ยง1956(a)(1)(B)(I) Money Laundering(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David L. West",
+          "judge_guid": "urn:entity:jud-100017452"
+        }
+      ]
+    }
+  ]
+}

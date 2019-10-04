@@ -1,0 +1,87 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_719cr1653_TXSD",
+  "case_key": "7:19cr1653_TXSD",
+  "case_lni": "5WWC-8MH1-DXDT-G39G-00000-00",
+  "case_number": "7:19cr1653",
+  "case_title": "USA v. Del Angel-Del Angel et al",
+  "case_info_full_case_name": "USA v. Del Angel-Del Angel et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Del Angel-Del Angel et al",
+  "case_date_filed": "2019-08-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kristina Marie Pekkala",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gary Edgar Del Angel-Del Angel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS(1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    },
+    {
+      "party_name": "Carlos Cantu-Villareal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        },
+        {
+          "charge_offence_description": "8:1324.F"
+        },
+        {
+          "charge_description": "BRINGING IN AND HARBORING ALIENS(1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    },
+    {
+      "party_name": "Camerino Serafin-Alejo",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Cristian Ponce-Castro",
+      "party_description": "Material Witness"
+    }
+  ]
+}

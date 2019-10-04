@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_106cr33_NYND",
+  "case_key": "1:06cr33_NYND",
+  "case_lni": "7WBN-JN90-Y892-B342-00000-00",
+  "case_number": "1:06cr33",
+  "case_title": "USA v. Lambert",
+  "case_info_full_case_name": "USA v. Lambert",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lambert",
+  "case_date_filed": "2006-02-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Glen Lambert",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FALSE STATEMENT IN APPLICATION/USE OF PASSPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas J. McAvoy",
+          "judge_guid": "urn:entity:jud-100028568"
+        }
+      ]
+    }
+  ]
+}

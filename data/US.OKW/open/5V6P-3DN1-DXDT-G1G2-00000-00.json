@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_518cr297_OKWD",
+  "case_key": "5:18cr297_OKWD",
+  "case_lni": "5V6P-3DN1-DXDT-G1G2-00000-00",
+  "case_number": "5:18cr297",
+  "case_title": "United States of America v. Kaspereit",
+  "case_info_full_case_name": "United States of America v. Kaspereit",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Kaspereit",
+  "case_date_filed": "2018-12-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "K McKenzie Anderson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Chad Wayne Kaspereit",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(d) &; 28:2461(c) CRIMINAL FORFEITURE"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(d) &; 28:2461(c) CRIMINAL FORFEITURE(0s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(a)(6) FALSE STATEMENT IN CONNECTION WITH FIREARM PURCHASE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(a)(6) FALSE STATEMENT DURING PURCHASE OF FIREARM(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(8) PROHIBITED PERSON IN POSSESSION OF A FIREARM(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(8) PROHIBITED PERSON IN POSSESSION OF A FIREARM(2s-3s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(8) PROHIBITED PERSON IN POSSESSION OF A FIREARM(3)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David L. Russell",
+          "judge_guid": "urn:entity:jud-100000717"
+        }
+      ]
+    }
+  ]
+}

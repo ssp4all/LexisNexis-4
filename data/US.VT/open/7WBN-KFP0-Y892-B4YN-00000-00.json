@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VT_202cr82_vtd",
+  "case_key": "2:02cr82_vtd",
+  "case_lni": "7WBN-KFP0-Y892-B4YN-00000-00",
+  "case_number": "2:02cr82",
+  "case_title": "USA v. Baker",
+  "case_info_full_case_name": "USA v. Baker",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baker",
+  "case_date_filed": "2002-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOREEN BAKER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028(a)(7).F"
+        },
+        {
+          "charge_description": "18:1028(a)(7).F FRAUD WITH IDENTIFICATION DOCUMENTS-provided another individual's name, social security number, date of birth and official State of Vermont issued driver's license, w/intent to obtain items of value over $1, 000 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "18:1001.F STATEMENTS OR ENTRIES GENERALLY-obtained a post office box at the Bomoseen Post Office by identifying herself as someone she was not (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:408(a)(7)(b).F"
+        },
+        {
+          "charge_description": "42:408(a)(7)(b).F MISUSE OF SOCIAL SECURITY NUMBER-completed a State of Vermont, Agency of Transportation, Department of Motor Vehicles\"Application for Duplicate Operator License\"using a social security number not assigned to her by the Commissioner of Social Security (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344A.F"
+        },
+        {
+          "charge_description": "18:1344A.F BANK FRAUD-assumed identity of another person with the intent to obtain monies to which she was not entitled to (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William K. Sessions, III",
+          "judge_guid": "urn:entity:jud-100021402"
+        }
+      ]
+    }
+  ]
+}

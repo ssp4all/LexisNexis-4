@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_306cr5330_WAWD",
+  "case_key": "3:06cr5330_WAWD",
+  "case_lni": "7WBN-H8B0-Y892-B26T-00000-00",
+  "case_number": "3:06cr5330",
+  "case_title": "USA v. Marquez-Garduza",
+  "case_info_full_case_name": "USA v. Marquez-Garduza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marquez-Garduza",
+  "case_date_filed": "2006-05-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pablo Marquez-Garduza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F Illegal Reentry After Deportation"
+        },
+        {
+          "charge_statute": "8:1326(a)"
+        },
+        {
+          "charge_description": "Illegal Reentry After Deportation 8:1326(a) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Ronald B. Leighton",
+          "judge_guid": "urn:entity:jud-100030169"
+        }
+      ]
+    }
+  ]
+}

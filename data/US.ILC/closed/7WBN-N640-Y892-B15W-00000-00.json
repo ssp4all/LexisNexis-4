@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_397m3013_ilcd",
+  "case_key": "3:97m3013_ilcd",
+  "case_lni": "7WBN-N640-Y892-B15W-00000-00",
+  "case_number": "3:97m3013",
+  "case_title": "USA v. Robinson",
+  "case_info_full_case_name": "USA v. Robinson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robinson",
+  "case_date_filed": "1997-05-01",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gregory M Gilmore",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES R ROBINSON, IV",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "10/27/96-11/12/96"
+        },
+        {
+          "charge_description": "On or about 10/27/96-11/12/96 in Sangamon County, Illinois, defendant did possess controlled substances with the intent to distribute them in violation of 21:841(a)(1)."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Charles H. Evans",
+          "judge_guid": "urn:entity:jud-100056337"
+        }
+      ]
+    }
+  ]
+}

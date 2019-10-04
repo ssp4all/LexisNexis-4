@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SD_408mj30_SDD",
+  "case_key": "4:08mj30_SDD",
+  "case_lni": "7WBN-S4R0-Y892-B3K7-00000-00",
+  "case_number": "4:08mj30",
+  "case_title": "USA v. Mejia-Ramos",
+  "case_info_full_case_name": "USA v. Mejia-Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mejia-Ramos",
+  "case_date_filed": "2008-08-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rosmery Elizabeth Mejia-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:911, 18:1546(b)(1), 42:408(a)(7)(B)-FALSE"
+        },
+        {
+          "charge_description": "18:911, 18:1546(b)(1), and 42:408(a)(7)(B)-FALSE CLAIM TO CITIZENSHIP; USE OF FRAUDULENT IDENTIFICATION DOCUMENT; USE OF FRAUDULENT SOCIAL SECURITY CARD"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "John E. Simko",
+          "judge_guid": "urn:entity:jud-100021002"
+        }
+      ]
+    }
+  ]
+}

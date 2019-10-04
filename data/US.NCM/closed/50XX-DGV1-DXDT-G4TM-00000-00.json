@@ -1,0 +1,135 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_110cr328_NCMD",
+  "case_key": "1:10cr328_NCMD",
+  "case_lni": "50XX-DGV1-DXDT-G4TM-00000-00",
+  "case_number": "1:10cr328",
+  "case_title": "USA v. QUICK et al",
+  "case_info_full_case_name": "USA v. QUICK et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "QUICK et al",
+  "case_date_filed": "2010-08-30",
+  "case_status": "Closed",
+  "case_status_date": "08/18/2011",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VALENTE TYRONE QUICK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(b)(1)(A) Conspiracy to distribute cocaine base(1)"
+        },
+        {
+          "charge_disposition": "Seventy (70) months imprisonment, Five (5) years supervised release, $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) Distribution of cocaine base (crack)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841 (a)(1) and (b)(1)(C) Distribution of cocaine base (crack)(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B)  Distribution of cocaine base (crack)(4)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841 (a)(1) and (b)(1)(B) Distribution of cocaine base (crack)(5-6)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "THOMAS D. SCHROEDER",
+          "judge_guid": "urn:entity:jud-100026777"
+        }
+      ]
+    },
+    {
+      "party_name": "MARGARET DAVIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 and 841(b)(1)(A) Conspiracy to distribute cocaine base(1)"
+        },
+        {
+          "charge_disposition": "Order of Dismissal"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841 (a)(1) and (b)(1)(C) Distribution of cocaine base (crack)(3)"
+        },
+        {
+          "charge_disposition": "Order of Dismissal"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841 (a)(1) and (b)(1)(B) Distribution of cocaine base (crack)(5-6)"
+        },
+        {
+          "charge_disposition": "Order of Dismissal"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "THOMAS D. SCHROEDER",
+          "judge_guid": "urn:entity:jud-100026777"
+        }
+      ]
+    }
+  ]
+}

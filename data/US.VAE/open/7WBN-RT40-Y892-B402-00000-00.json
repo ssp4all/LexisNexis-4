@@ -1,0 +1,109 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_308cr180_VAED",
+  "case_key": "3:08cr180_VAED",
+  "case_lni": "7WBN-RT40-Y892-B402-00000-00",
+  "case_number": "3:08cr180",
+  "case_title": "USA v. Cheek et al",
+  "case_info_full_case_name": "USA v. Cheek et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cheek et al",
+  "case_date_filed": "2008-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Patricia Ann Cheek",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1349 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), 21:853(p)."
+        },
+        {
+          "charge_description": "18:1349 AND IN ACCORDANCE WITH 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), and 21:853(p). CONSPIRACY TO COMMIT BANK FRAUD; FORFEITURE ALLEGATION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), 21:853(p)."
+        },
+        {
+          "charge_description": "18:1344 AND IN ACCORDANCE WITH 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), and 21:853(p). BANK FRAUD; FORFEITURE ALLEGATION (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1957(a) 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), 21:853(p)."
+        },
+        {
+          "charge_description": "18:1957(a) AND IN ACCORDANCE WITH 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), and 21:853(p). ENGAGING IN UNLAWFUL MONETARY TRANSACTIONS; FORFEITURE ALLEGATION (3-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Henry E. Hudson",
+          "judge_guid": "urn:entity:jud-100033906"
+        }
+      ]
+    },
+    {
+      "party_name": "Darryl Parks Cheek",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1349 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), 21:853(p)."
+        },
+        {
+          "charge_description": "18:1349 AND IN ACCORDANCE WITH 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), and 21:853(p). CONSPIRACY TO COMMIT BANK FRAUD; FORFEITURE ALLEGATION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), 21:853(p)."
+        },
+        {
+          "charge_description": "18:1344 AND IN ACCORDANCE WITH 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), and 21:853(p). BANK FRAUD; FORFEITURE ALLEGATION (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1957(a) 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), 21:853(p)."
+        },
+        {
+          "charge_description": "18:1957(a) AND IN ACCORDANCE WITH 18:981(a)(1)(C), 28:2461(c), 18:982(a)(1)&;(b), and 21:853(p). ENGAGING IN UNLAWFUL MONETARY TRANSACTIONS; FORFEITURE ALLEGATION (3-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Henry E. Hudson",
+          "judge_guid": "urn:entity:jud-100033906"
+        }
+      ]
+    }
+  ]
+}

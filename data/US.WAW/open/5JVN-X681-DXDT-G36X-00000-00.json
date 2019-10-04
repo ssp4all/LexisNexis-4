@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_316po6261_WAWD",
+  "case_key": "3:16po6261_WAWD",
+  "case_lni": "5JVN-X681-DXDT-G36X-00000-00",
+  "case_number": "3:16po6261",
+  "case_title": "USA vs Law",
+  "case_info_full_case_name": "USA vs Law",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Law",
+  "case_date_filed": "2016-05-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sean G Law",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Negligent driving - 2nd Degree (LM020512)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David W. Christel",
+          "judge_guid": "urn:entity:jud-100062729"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_512mj553_TXSD",
+  "case_key": "5:12mj553_TXSD",
+  "case_lni": "55J0-2381-DXDT-G4RM-00000-00",
+  "case_number": "5:12mj553",
+  "case_title": "USA v. Aviles Sanchez",
+  "case_info_full_case_name": "USA v. Aviles Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aviles Sanchez",
+  "case_date_filed": "2012-05-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Alejandrino Aviles Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F----REENTRY"
+        },
+        {
+          "charge_description": "8:1326A.F----REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Scott Hacker",
+          "judge_guid": "urn:entity:jud-100070615"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411mj6134_AZD",
+  "case_key": "4:11mj6134_AZD",
+  "case_lni": "521M-7N21-DXDT-G0BD-00000-00",
+  "case_number": "4:11mj6134",
+  "case_title": "USA v. Santana-Pinacho et al",
+  "case_info_full_case_name": "USA v. Santana-Pinacho et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Santana-Pinacho et al",
+  "case_date_filed": "2011-01-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Hugo Abraham Santana-Pinacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 21:841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "Ct 1 21:841(a)(1) and 841(b)(1)(C) Possession with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    },
+    {
+      "party_name": "Santos Joel Rivera-Jacob",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 21:841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "Ct 1 21:841(a)(1) and 841(b)(1)(C) Possession with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    },
+    {
+      "party_name": "Ramon Garcia-Monge",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 21:841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "Ct 1 21:841(a)(1) and 841(b)(1)(C) Possession with Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C Guerin",
+          "judge_guid": "urn:entity:jud-100047798"
+        }
+      ]
+    }
+  ]
+}

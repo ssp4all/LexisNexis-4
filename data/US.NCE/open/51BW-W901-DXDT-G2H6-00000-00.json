@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_210mj1169_NCED",
+  "case_key": "2:10mj1169_NCED",
+  "case_lni": "51BW-W901-DXDT-G2H6-00000-00",
+  "case_number": "2:10mj1169",
+  "case_title": "USA v. Duncan",
+  "case_info_full_case_name": "USA v. Duncan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Duncan",
+  "case_date_filed": "2010-10-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lee B. Duncan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operating under the influence of alcohol/incapable of safe operation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "than.08&;#037;"
+        },
+        {
+          "charge_description": "Operating under influence of alcohol or drugs/BAC greater than.08&;#037; (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

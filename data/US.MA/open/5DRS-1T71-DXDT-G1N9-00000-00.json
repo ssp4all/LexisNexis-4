@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_114mj7199_MAD",
+  "case_key": "1:14mj7199_MAD",
+  "case_lni": "5DRS-1T71-DXDT-G1N9-00000-00",
+  "case_number": "1:14mj7199",
+  "case_title": "USA v. Jaquez",
+  "case_info_full_case_name": "USA v. Jaquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jaquez",
+  "case_date_filed": "2014-12-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jeffrey Jaquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. ยง 846 CONSPIRACY TO POSSESS NARCOTICS"
+        },
+        {
+          "charge_offence_description": "21 U.S.C. &#167; 846 CONSPIRACY TO POSSESS NARCOTI"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jennifer C. Boal",
+          "judge_guid": "urn:entity:jud-100075407"
+        }
+      ]
+    }
+  ]
+}

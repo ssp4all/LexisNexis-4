@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_519cr318_NYND",
+  "case_key": "5:19cr318_NYND",
+  "case_lni": "5WRG-K6Y1-DXDT-G2YM-00000-00",
+  "case_number": "5:19cr318",
+  "case_title": "USA v. Nava",
+  "case_info_full_case_name": "USA v. Nava",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nava",
+  "case_date_filed": "2019-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kristen Lee Grabowski",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alfredo Carballo Nava",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546.F=FRAUD AND MISUSE OF VISAS/PERMITS(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "42:408.F=MISUSE OF SOCIAL SECURITY NUMBER(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "42:408.F Misusing a Social Security number, 18:1546.F using a forged, counterfeit, falsely made or unlawfully obtained document"
+        },
+        {
+          "charge_offence_description": "42:408.F Misusing a Social Security number, 18:154"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Frederick J. Scullin, Jr",
+          "judge_guid": "urn:entity:jud-100026612"
+        }
+      ]
+    }
+  ]
+}

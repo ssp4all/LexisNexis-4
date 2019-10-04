@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_510mj1314_TXSD",
+  "case_key": "5:10mj1314_TXSD",
+  "case_lni": "7YSC-XSW0-Y892-B07R-00000-00",
+  "case_number": "5:10mj1314",
+  "case_title": "USA v. Lopez",
+  "case_info_full_case_name": "USA v. Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez",
+  "case_date_filed": "2010-05-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Manuel Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F--BRINGING"
+        },
+        {
+          "charge_description": "8:1324.F--BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Saldana",
+          "judge_guid": "urn:entity:jud-100059638"
+        }
+      ]
+    },
+    {
+      "party_name": "Rachel Arce Sanchez",
+      "party_description": "material witness"
+    }
+  ]
+}

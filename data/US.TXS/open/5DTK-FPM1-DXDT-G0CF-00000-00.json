@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_114po1789_TXSD",
+  "case_key": "1:14po1789_TXSD",
+  "case_lni": "5DTK-FPM1-DXDT-G0CF-00000-00",
+  "case_number": "1:14po1789",
+  "case_title": "USA v. Martinez-Rios",
+  "case_info_full_case_name": "USA v. Martinez-Rios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Rios",
+  "case_date_filed": "2014-12-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Nereo Martinez-Rios",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ignacio Torteya, III",
+          "judge_guid": "urn:entity:jud-100021592"
+        }
+      ]
+    }
+  ]
+}

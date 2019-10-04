@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_317cr25_GAMD",
+  "case_key": "3:17cr25_GAMD",
+  "case_lni": "5NV2-JTD1-DXDT-G25G-00000-00",
+  "case_number": "3:17cr25",
+  "case_title": "UNITED STATES OF AMERICA v. TEEGARDEN",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. TEEGARDEN",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "TEEGARDEN",
+  "case_date_filed": "2017-06-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHNATHAN EARL TEEGARDEN",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_name": "C ASHLEY ROYAL",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_311cr2801_CASD",
+  "case_key": "3:11cr2801_CASD",
+  "case_lni": "536T-6681-DXDT-G3HG-00000-00",
+  "case_number": "3:11cr2801",
+  "case_title": "USA v. Trujillo-Lemus",
+  "case_info_full_case_name": "USA v. Trujillo-Lemus",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Trujillo-Lemus",
+  "case_date_filed": "2011-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maria Elena Trujillo-Lemus",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1544-Misuse"
+        },
+        {
+          "charge_description": "18:1544-Misuse of Passport (Felony)"
+        },
+        {
+          "charge_statute": "18:1544-Misuse"
+        },
+        {
+          "charge_description": "18:1544-Misuse of Passport (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William Q. Hayes",
+          "judge_guid": "urn:entity:jud-100046969"
+        }
+      ]
+    }
+  ]
+}

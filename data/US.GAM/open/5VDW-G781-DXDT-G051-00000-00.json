@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_119cr11_GAMD",
+  "case_key": "1:19cr11_GAMD",
+  "case_lni": "5VDW-G781-DXDT-G051-00000-00",
+  "case_number": "1:19cr11",
+  "case_title": "UNITED STATES OF AMERICA v. MCCAFFREY",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. MCCAFFREY",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "MCCAFFREY",
+  "case_date_filed": "2019-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL MCCAFFREY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(D) - Possession with Intent to Distribute Marijuana(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "W LOUIS SANDS",
+          "judge_guid": "urn:entity:jud-100027113"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE THOMAS Q LANGSTAFF",
+          "judge_guid": "urn:entity:jud-100011558"
+        }
+      ]
+    }
+  ]
+}

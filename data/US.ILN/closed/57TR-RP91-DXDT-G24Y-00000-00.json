@@ -1,0 +1,103 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_113cr167_ILND",
+  "case_key": "1:13cr167_ILND",
+  "case_lni": "57TR-RP91-DXDT-G24Y-00000-00",
+  "case_number": "1:13cr167",
+  "case_title": "USA v. Vani et al",
+  "case_info_full_case_name": "USA v. Vani et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vani et al",
+  "case_date_filed": "2013-02-21",
+  "case_status": "Closed",
+  "case_status_date": "07/20/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "AUSA - Chicago",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James M Vani",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION AND 18:2 AID AND ABET(1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of Forty-Two (42) Months on each counts one (1) and two (2) to run concurrently to each other. The defendant shall surrender for service of sentence at the institution designated by the Bureau of Prisons before 2:00 pm on 9/28/2015. Upon release from imprisonment, the defendant shall be on supervised release for a term of Three (3) Years on each of counts one (1) and two (2) to run concurrently to each other. The defendant shall make total restitution in the amount of $1,601,470.00. Schedule of payments."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION AND 18:2 AID AND ABET(2)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of Forty-Two (42) Months on each counts one (1) and two (2) to run concurrently to each other. The defendant shall surrender for service of sentence at the institution designated by the Bureau of Prisons before 2:00 pm on 9/28/2015. Upon release from imprisonment, the defendant shall be on supervised release for a term of Three (3) Years on each of counts one (1) and two (2) to run concurrently to each other. The defendant shall make total restitution in the amount of $1,601,470.00. Schedule of payments."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Virginia M. Kendall",
+          "judge_guid": "urn:entity:jud-100071565"
+        }
+      ]
+    },
+    {
+      "party_name": "Olabode Rotibi",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION AND 18:2 AID AND ABET(2)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of twenty four (24) months as to Count Two of the Indictment. The defendant is remanded to the custody of the United States Marshal. Upon release from imprisonment, the defendant shall be on supervised release for a term of two (2) years as to Count Two of the Indictment. Defendant must pay the total restitution amount of $1,820.500,00. Schedule of payments."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FRAUD BY WIRE, RADIO, OR TELEVISION AND 18:2 AID AND ABET(1)"
+        },
+        {
+          "charge_disposition": "Count is dismissed on the motion of the United States."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Virginia M. Kendall",
+          "judge_guid": "urn:entity:jud-100071565"
+        }
+      ]
+    }
+  ]
+}

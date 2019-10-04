@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_307xr90299_CAND",
+  "case_key": "3:07xr90299_CAND",
+  "case_lni": "7WBN-RT40-Y892-B30X-00000-00",
+  "case_number": "3:07xr90299",
+  "case_title": "USA v. In Re Telephone Information Needed For a Criminal Investigation",
+  "case_info_full_case_name": "USA v. In Re Telephone Information Needed For a Criminal Investigation",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Telephone Information Needed For a Criminal Investigation",
+  "case_date_filed": "2007-07-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "In Re Telephone Information Needed For a Criminal Investigation",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James Larson",
+          "judge_guid": "urn:entity:jud-100039555"
+        }
+      ]
+    }
+  ]
+}

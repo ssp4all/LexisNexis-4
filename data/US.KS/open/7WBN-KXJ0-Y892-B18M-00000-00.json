@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_207mj8056_KSD",
+  "case_key": "2:07mj8056_KSD",
+  "case_lni": "7WBN-KXJ0-Y892-B18M-00000-00",
+  "case_number": "2:07mj8056",
+  "case_title": "USA v. Robles-Rubio",
+  "case_info_full_case_name": "USA v. Robles-Rubio",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robles-Rubio",
+  "case_date_filed": "2007-06-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Luis Fabian Robles-Rubio",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 100 1"
+        },
+        {
+          "charge_description": "21:841A=CD.F Knowingly and intentionally possess, with intent to distribute, 100 kilograms or more of a mixture or substance containing a detectable amount of marijuana, a schedule 1 controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James P. O'Hara",
+          "judge_guid": "urn:entity:jud-100025546"
+        }
+      ]
+    }
+  ]
+}

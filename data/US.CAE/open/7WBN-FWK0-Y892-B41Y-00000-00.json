@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_509mj13_CAED",
+  "case_key": "5:09mj13_CAED",
+  "case_lni": "7WBN-FWK0-Y892-B41Y-00000-00",
+  "case_number": "5:09mj13",
+  "case_title": "USA v. Baron",
+  "case_info_full_case_name": "USA v. Baron",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baron",
+  "case_date_filed": "2009-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ernest John Calderon",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard Baron",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-CVC 22349(b) 55/70"
+        },
+        {
+          "charge_description": "18:13-CVC 22349(b) Speeding 55/70 mph"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis L. Beck",
+          "judge_guid": "urn:entity:jud-100061970"
+        }
+      ]
+    }
+  ]
+}

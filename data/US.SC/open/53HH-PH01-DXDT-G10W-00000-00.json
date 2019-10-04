@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_811cr2016_SCD",
+  "case_key": "8:11cr2016_SCD",
+  "case_lni": "53HH-PH01-DXDT-G10W-00000-00",
+  "case_number": "8:11cr2016",
+  "case_title": "USA v. Ellenburg",
+  "case_info_full_case_name": "USA v. Ellenburg",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ellenburg",
+  "case_date_filed": "2011-08-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Micah Ellenburg",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252A (a)(5)(B)-SEXUAL 30, 2010 (forfeiture)"
+        },
+        {
+          "charge_description": "18:2252A (a)(5)(B)-SEXUAL EXPLOITATION OF MINOR on or about Sept 30, 2010 (forfeiture) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2252(a)(2)SEXUAL 3, 2010 (forfeiture)"
+        },
+        {
+          "charge_description": "18:2252(a)(2)SEXUAL EXPLOITATION OF MINORS on or about Sept 3, 2010 (forfeiture) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

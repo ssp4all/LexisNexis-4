@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_305cr144_OHSD",
+  "case_key": "3:05cr144_OHSD",
+  "case_lni": "7WBN-MR60-Y892-B0RF-00000-00",
+  "case_number": "3:05cr144",
+  "case_title": "USA v. Hunley-Belanger",
+  "case_info_full_case_name": "USA v. Hunley-Belanger",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hunley-Belanger",
+  "case_date_filed": "2005-10-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony M. Hunley-Belanger",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-POSSESSION"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "FEDERAL STATUTES, OTHER"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Michael"
+        }
+      ]
+    }
+  ]
+}

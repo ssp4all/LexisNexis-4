@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409cr2015_AZD",
+  "case_key": "4:09cr2015_AZD",
+  "case_lni": "7WN3-GJF0-Y892-B00K-00000-00",
+  "case_number": "4:09cr2015",
+  "case_title": "USA v. Peinado-Pizano",
+  "case_info_full_case_name": "USA v. Peinado-Pizano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peinado-Pizano",
+  "case_date_filed": "2009-09-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Baltazar Peinado-Pizano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326 8:1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326 enhanced by 8:1326(b)(2) Re-Entry After Deportation (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326, 1326(b)(2)"
+        },
+        {
+          "charge_description": "8:1326, enhanced by 1326(b)(2) Illegal Re-Entry after Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David C Bury",
+          "judge_guid": "urn:entity:jud-100063659"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

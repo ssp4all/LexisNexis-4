@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_400cr40220_cand",
+  "case_key": "4:00cr40220_cand",
+  "case_lni": "7WBN-N860-Y892-B2MJ-00000-00",
+  "case_number": "4:00cr40220",
+  "case_title": "USA v. Jones",
+  "case_info_full_case_name": "USA v. Jones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones",
+  "case_date_filed": "2000-11-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARVIN CRAIG JONES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341 18:1346:"
+        },
+        {
+          "charge_description": "18:1341 and 18:1346: Mail fraud involving a scheme to defraud another of the intangible right to honest services (1-7)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7206(1):"
+        },
+        {
+          "charge_description": "26:7206(1): Subscribing a false tax return (8-9)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001:"
+        },
+        {
+          "charge_description": "18:1001: Making false statements to a government agency (10-11)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "D. Lowell Jensen",
+          "judge_guid": "urn:entity:jud-100050460"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_612cr98_FLMD",
+  "case_key": "6:12cr98_FLMD",
+  "case_lni": "55GX-WTN1-DXDT-G3DH-00000-00",
+  "case_number": "6:12cr98",
+  "case_title": "USA v. Watts",
+  "case_info_full_case_name": "USA v. Watts",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Watts",
+  "case_date_filed": "2012-04-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Myrna Amelia Mesa",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher J. Watts",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2422.F  COERCION OR ENTICEMENT OF MINOR(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 120 months. Court recommends to be placed at Devens, MA; Allenwood, PA; or Fort Dix, NJ in that order of preference. The defendant is remanded to the custody of the United States Marshal. SUPERVISED RELEASE: 20 years. Special conditions of supervised release: Mandatory drug testing requirements are waived. Defendant shall cooperate in the collection of DNA. Sex offender conditions: Defendant shall participate in a mental health treatment program specialized for sex offenders. Defendant shall have no contact with minor children Media and computer restrictions imposed. Defendant shall register with all sex offender registries as required by law. Search conditions imposed. The defendant shall submit to a search. SPECIAL ASSESSMENT of $100.00 is due immediately. FINE: waived. FORFEITURE of those assets identified in the Plea Agreement and Indictment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1470.F  TRANSFER OF OBSCENE MATERIALS TO MINORS(2)"
+        },
+        {
+          "charge_disposition": "DISMISSED"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2422.F COERCION OR ENTICEMENT OF MINOR"
+        },
+        {
+          "charge_offence_description": "18:2422.F COERCION OR ENTICEMENT OF MINOR"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Anne C. Conway",
+          "judge_guid": "urn:entity:jud-100049795"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David A. Baker",
+          "judge_guid": "urn:entity:jud-100069914"
+        }
+      ]
+    }
+  ]
+}

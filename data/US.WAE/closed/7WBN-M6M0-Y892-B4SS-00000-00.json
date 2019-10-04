@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_295cr143_waed",
+  "case_key": "2:95cr143_waed",
+  "case_lni": "7WBN-M6M0-Y892-B4SS-00000-00",
+  "case_number": "2:95cr143",
+  "case_title": "USA v. Hutchings",
+  "case_info_full_case_name": "USA v. Hutchings",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hutchings",
+  "case_date_filed": "1995-06-06",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "HEATH HUTCHINGS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1), and 18:2 DISTRIBUTION OF METHAMPHETAMINE (2)"
+        },
+        {
+          "charge_disposition": "Impr-60 mos w/credit for time served since 5/25/95. Super Rel-4 yrs. Fine-Waived. Spec Assessment-$50. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1), 846 18:2"
+        },
+        {
+          "charge_description": "21:841(a)(1), 846 and 18:2 CONSPIRACY TO POSSESS WITH THE INTENT TO DISTRIBUTE AND DISTRIBUTE METHAMPHETAMINE (10)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion by govt. (10)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Fred L. Van Sickle",
+          "judge_guid": "urn:entity:jud-100010547"
+        }
+      ]
+    }
+  ]
+}

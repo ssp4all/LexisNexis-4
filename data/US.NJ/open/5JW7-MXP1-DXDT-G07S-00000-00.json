@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_316cr249_NJD",
+  "case_key": "3:16cr249_NJD",
+  "case_lni": "5JW7-MXP1-DXDT-G07S-00000-00",
+  "case_number": "3:16cr249",
+  "case_title": "USA v. LEAL-VALIENTE",
+  "case_info_full_case_name": "USA v. LEAL-VALIENTE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LEAL-VALIENTE",
+  "case_date_filed": "2016-05-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SARAH M. WOLFE",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LORENZO LEAL-VALIENTE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and 1326(b)(2) ILLEGAL REENTRY AFTER AGGRAVATED FELONY CONVICTION (do 5/7/2016)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) and 1326(b)(2)Reentry of Deported Aliens. (On or about 05/07/2016)."
+        },
+        {
+          "charge_offence_description": "8:1326(a) and 1326(b)(2)Reentry of Deported Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary L. Cooper",
+          "judge_guid": "urn:entity:jud-100025108"
+        }
+      ]
+    }
+  ]
+}

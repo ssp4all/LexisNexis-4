@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_210cr221_UTD",
+  "case_key": "2:10cr221_UTD",
+  "case_lni": "7Y36-7SJ0-Y892-B20Y-00000-00",
+  "case_number": "2:10cr221",
+  "case_title": "USA v. Barnett",
+  "case_info_full_case_name": "USA v. Barnett",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barnett",
+  "case_date_filed": "2010-03-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Terry Duane Barnett",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE/Drug Possession with Intent to Distribute Methamphetamine"
+        },
+        {
+          "charge_disposition": "Dft pleaded guilty to Count 1 in Dist of ID. SENTENCE: Dft committed to custody of BOP for 72 months, to run concurrently with dft's Utah sentence. Upon rls, dft shall be on Supervised Release for 72 months. FINE: $1200.00. SPA: $100.00. AMENDED JUDGMENT FOR REVOCATION: Dft admitted guilt to Allegations 1-4 of Petition. SENTENCE: Dft committed to custody of BOP for Time Served. Upon rls, dft shall be placed on Supervised Release for 46 months. FINE: remaining balance of $830.00 reinstated."
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBU"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dale A. Kimball",
+          "judge_guid": "urn:entity:jud-100037389"
+        }
+      ]
+    }
+  ]
+}

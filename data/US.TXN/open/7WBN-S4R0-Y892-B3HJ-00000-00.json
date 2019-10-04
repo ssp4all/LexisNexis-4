@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_408mj258_TXND",
+  "case_key": "4:08mj258_TXND",
+  "case_lni": "7WBN-S4R0-Y892-B3HJ-00000-00",
+  "case_number": "4:08mj258",
+  "case_title": "USA v. Pena-Mejay",
+  "case_info_full_case_name": "USA v. Pena-Mejay",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pena-Mejay",
+  "case_date_filed": "2008-11-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pedro Pena-Mejay",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 Reentry of Deported Alien"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles Bleil",
+          "judge_guid": "urn:entity:jud-100061392"
+        }
+      ]
+    }
+  ]
+}

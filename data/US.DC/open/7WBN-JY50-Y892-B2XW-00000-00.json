@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_191cr712_dcd",
+  "case_key": "1:91cr712_dcd",
+  "case_lni": "7WBN-JY50-Y892-B2XW-00000-00",
+  "case_number": "1:91cr712",
+  "case_title": "USA v. PATRICK",
+  "case_info_full_case_name": "USA v. PATRICK",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "PATRICK",
+  "case_date_filed": "1991-12-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALLEN PATRICK, JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(B)(iii) 5"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(B)(iii) NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE. Unlawful Possession with Intent to Distribute 5 Grams or More of Cocaine Base. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(B)(iii)"
+        },
+        {
+          "charge_description": "COMPLAINT filed in violation of 21:841(a)(1) and 841(b)(1)(B)(iii) [1:91-m-1005]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Thomas F. Hogan",
+          "judge_guid": "urn:entity:jud-100051419"
+        }
+      ]
+    }
+  ]
+}

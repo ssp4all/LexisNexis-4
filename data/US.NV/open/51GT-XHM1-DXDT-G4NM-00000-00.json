@@ -1,0 +1,74 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_210cr556_NVD",
+  "case_key": "2:10cr556_NVD",
+  "case_lni": "51GT-XHM1-DXDT-G4NM-00000-00",
+  "case_number": "2:10cr556",
+  "case_title": "USA v. Moss",
+  "case_info_full_case_name": "USA v. Moss",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moss",
+  "case_date_filed": "2010-11-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Glenn Duane Moss",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:113-Attempt"
+        },
+        {
+          "charge_description": "18:113-Attempt to Commit Murder (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:113(a)(1)-Assault"
+        },
+        {
+          "charge_description": "18:113(a)(1)-Assault with Intent to Commit Murder (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:113(a)(6)-Assault"
+        },
+        {
+          "charge_description": "18:113(a)(6)-Assault Resulting in Serious Bodily Injury (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Larry R. Hicks",
+          "judge_guid": "urn:entity:jud-100051719"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert J. Johnston",
+          "judge_guid": "urn:entity:jud-100033112"
+        }
+      ]
+    }
+  ]
+}

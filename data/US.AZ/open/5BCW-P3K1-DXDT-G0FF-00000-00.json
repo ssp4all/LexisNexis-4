@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414mj7026_AZD",
+  "case_key": "4:14mj7026_AZD",
+  "case_lni": "5BCW-P3K1-DXDT-G0FF-00000-00",
+  "case_number": "4:14mj7026",
+  "case_title": "USA v. Valenzuela-Arciniga et al",
+  "case_info_full_case_name": "USA v. Valenzuela-Arciniga et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valenzuela-Arciniga et al",
+  "case_date_filed": "2014-01-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Valenzuela-Arciniga",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1: 21:841(a)(1) and (b)(1)(C) Possession with Intent to Distribute Marijuana; All in Violation of 21:846 Conspiracy to Possess with Intent to Distribute Marijuana; CT 2: 21:844(a) Simple Possession of Marijuana"
+        },
+        {
+          "charge_offence_description": "CT 1: 21:841(a)(1) and (b)(1)(C) Possession with I"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    },
+    {
+      "party_name": "Luis Gutierrez-Salcido",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1: 21:841(a)(1) and (b)(1)(C) Possession with Intent to Distribute Marijuana; All in Violation of 21:846 Conspiracy to Possess with Intent to Distribute Marijuana; CT 2: 21:844(a) Simple Possession of Marijuana"
+        },
+        {
+          "charge_offence_description": "CT 1: 21:841(a)(1) and (b)(1)(C) Possession with I"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bruce G Macdonald",
+          "judge_guid": "urn:entity:jud-100102304"
+        }
+      ]
+    }
+  ]
+}

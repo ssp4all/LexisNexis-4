@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_710po755_TXSD",
+  "case_key": "7:10po755_TXSD",
+  "case_lni": "7XS1-JXM0-Y892-B2TJ-00000-00",
+  "case_number": "7:10po755",
+  "case_title": "USA v. Osorto-Villalobos",
+  "case_info_full_case_name": "USA v. Osorto-Villalobos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Osorto-Villalobos",
+  "case_date_filed": "2010-02-09",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Darwin Joel Osorto-Villalobos",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

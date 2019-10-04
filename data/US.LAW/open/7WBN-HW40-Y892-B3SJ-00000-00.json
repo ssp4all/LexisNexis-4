@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_506cr50015_LAWD",
+  "case_key": "5:06cr50015_LAWD",
+  "case_lni": "7WBN-HW40-Y892-B3SJ-00000-00",
+  "case_number": "5:06cr50015",
+  "case_title": "USA v. Alfred",
+  "case_info_full_case_name": "USA v. Alfred",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alfred",
+  "case_date_filed": "2006-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Regina Marie Alfred",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PUBLIC MONEY, PROPERTY OR RECORDS-did knowingly and willfully embezzle, steal, purloin and convert to her own use FEMA benefits for federal disaster assistance to which defendant was not entitled, such funds being the property of the United States (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "S Maurice Hicks",
+          "judge_guid": "urn:entity:jud-100051711"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark L Hornsby",
+          "judge_guid": "urn:entity:jud-100051199"
+        }
+      ]
+    }
+  ]
+}

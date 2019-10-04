@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_519mj1723_TXSD",
+  "case_key": "5:19mj1723_TXSD",
+  "case_lni": "5WP2-BMJ1-DXDT-G50P-00000-00",
+  "case_number": "5:19mj1723",
+  "case_title": "USA v. Sanchez-Hernandez",
+  "case_info_full_case_name": "USA v. Sanchez-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez-Hernandez",
+  "case_date_filed": "2019-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Reinaldo De Jesus Sanchez-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F--REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Sam S Sheldon",
+          "judge_guid": "urn:entity:jud-500005166"
+        }
+      ]
+    }
+  ]
+}

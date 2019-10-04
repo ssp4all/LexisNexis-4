@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_214cr50026_AZD",
+  "case_key": "2:14cr50026_AZD",
+  "case_lni": "5BFC-F011-DXDT-G49K-00000-00",
+  "case_number": "2:14cr50026",
+  "case_title": "USA v. Gellert",
+  "case_info_full_case_name": "USA v. Gellert",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gellert",
+  "case_date_filed": "2014-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas Gellert",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A)(viii) &; 846 - Conspiracy to Distribute 5,000 Grams or More of Methamphetamine; 18:922(o) and 924(a)(2) - Possession of a Machine Gun; 26:5845(a), 5861(c) and 18:921(a)(24) - Possession of a Silencer"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1), 841(b)(1)(A)(viii) & 846 - Conspirac"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Susan R Bolton",
+          "judge_guid": "urn:entity:jud-100061234"
+        }
+      ]
+    }
+  ]
+}

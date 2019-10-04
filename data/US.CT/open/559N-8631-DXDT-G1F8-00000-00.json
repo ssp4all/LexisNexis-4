@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CT_312mj89_CTD",
+  "case_key": "3:12mj89_CTD",
+  "case_lni": "559N-8631-DXDT-G1F8-00000-00",
+  "case_number": "3:12mj89",
+  "case_title": "USA v. Amin",
+  "case_info_full_case_name": "USA v. Amin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Amin",
+  "case_date_filed": "2012-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anaje Amin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F Possession with intent to distribute and to distribute at least 280 grams of cocaine base and at least 500 grams of cocaine."
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F Possession with intent to distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Charles S. Haight, Jr",
+          "judge_guid": "urn:entity:jud-100041965"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_297m88_vaed",
+  "case_key": "2:97m88_vaed",
+  "case_lni": "7WBN-MBN0-Y892-B30W-00000-00",
+  "case_number": "2:97m88",
+  "case_title": "USA v. Pemberton",
+  "case_info_full_case_name": "USA v. Pemberton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pemberton",
+  "case_date_filed": "1997-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CYNTHIA PEMBERTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to distribute and possess with intent to distribute cocaine and cocaine base"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William T. Prince",
+          "judge_guid": "urn:entity:jud-100032063"
+        }
+      ]
+    }
+  ]
+}

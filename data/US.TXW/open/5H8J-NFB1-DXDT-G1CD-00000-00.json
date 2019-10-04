@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_215cr1340_TXWD",
+  "case_key": "2:15cr1340_TXWD",
+  "case_lni": "5H8J-NFB1-DXDT-G1CD-00000-00",
+  "case_number": "2:15cr1340",
+  "case_title": "USA v. Padilla",
+  "case_info_full_case_name": "USA v. Padilla",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Padilla",
+  "case_date_filed": "2015-10-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Padilla, Sr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=MD.F: 21 U.SC. 846,841(a)(1) &; (b)(l)(B) - Conspiracy to possess with Intent to distribute 100 kilograms or more of marijuana(1)"
+        },
+        {
+          "charge_disposition": "It is ordered the defendant shall pay a special assessment of $100.00. Defendant is hereby committed to the custody of the BOP for 63 months. Upon release, defendant shall be on supervised release for 4 years. ON MAY 29, 2015 DEFENDANT WAS REVOKED and resentenced to 6 months BOP and 12 months Supervised Release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

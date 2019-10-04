@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_204mj152_WAWD",
+  "case_key": "2:04mj152_WAWD",
+  "case_lni": "7WBN-F9S0-Y892-B16H-00000-00",
+  "case_number": "2:04mj152",
+  "case_title": "USA v. Hayre et al",
+  "case_info_full_case_name": "USA v. Hayre et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hayre et al",
+  "case_date_filed": "2004-03-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gurdip Singh Hayre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(A), 846"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A), 846 Conspiracy to Distribute Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary Alice Theiler",
+          "judge_guid": "urn:entity:jud-100019205"
+        }
+      ]
+    },
+    {
+      "party_name": "Amritpal Singh Thiara",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(A), 846"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A), 846 Conspiracy to Distribute Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary Alice Theiler",
+          "judge_guid": "urn:entity:jud-100019205"
+        }
+      ]
+    },
+    {
+      "party_name": "Harpreet Singh Johal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1), 841(b)(1)(A), 846"
+        },
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A), 846 Conspiracy to Distribute Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary Alice Theiler",
+          "judge_guid": "urn:entity:jud-100019205"
+        }
+      ]
+    }
+  ]
+}

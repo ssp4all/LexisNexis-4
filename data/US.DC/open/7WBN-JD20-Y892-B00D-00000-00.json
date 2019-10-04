@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_102cr363_dcd",
+  "case_key": "1:02cr363_dcd",
+  "case_lni": "7WBN-JD20-Y892-B00D-00000-00",
+  "case_number": "1:02cr363",
+  "case_title": "USA v. MARSHALL",
+  "case_info_full_case_name": "USA v. MARSHALL",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MARSHALL",
+  "case_date_filed": "2002-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC gvt]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DEONTE MARSHALL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) UNLAWFUL TRANSPORT OF FIREARMS, ETC.; Unlawful Possession of a Firearm and Ammunition by a Person Convicted of a Crime Punishable by Imprisonment for One Year or More. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:844(a)"
+        },
+        {
+          "charge_description": "21:844(a) CONTROLLED SUBSTANCE-POSSESSION; Simple Possession of a Controlled Substance. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard J. Leon",
+          "judge_guid": "urn:entity:jud-100039218"
+        }
+      ]
+    }
+  ]
+}

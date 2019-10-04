@@ -1,0 +1,109 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_209cr773_AZD",
+  "case_key": "2:09cr773_AZD",
+  "case_lni": "7WBN-M2J0-Y892-B159-00000-00",
+  "case_number": "2:09cr773",
+  "case_title": "USA v. Anteri",
+  "case_info_full_case_name": "USA v. Anteri",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Anteri",
+  "case_date_filed": "2009-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Frank Anteri",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1344; 18:2 - Bankf Fraud; Aid and Abet(9)"
+        },
+        {
+          "charge_disposition": "Defendant committed to custody of Bureau of Prisons for a term of 37 months on Counts 9 and 31, to run concurrent, with credit for time served; to be followed by Supervised Release for a period of 5 years on Counts 9 and 31, to run concurrent. Special Assessment: $200. Fine: waived. Restitution: $268,351. Defendant to self-surrender by 9/12/11."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:513 - Counterfeit Securities; Aid and Abet(31)"
+        },
+        {
+          "charge_disposition": "Defendant committed to custody of Bureau of Prisons for a term of 37 months on Counts 9 and 31, to run concurrent, with credit for time served; to be followed by Supervised Release for a period of 5 years on Counts 9 and 31, to run concurrent. Special Assessment: $200. Fine: waived. Restitution: $268,351. Defendant to self-surrender by 9/12/11."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1344; 18:2 - Bankf Fraud; Aid and Abet(1-8)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1344; 18:2 - Bankf Fraud; Aid and Abet(10-16)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341; 18:2 - Mail Fraud; Aid and Abet(17-19)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:513 - Counterfeit Securities; Aid and Abet(20-30)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:513 - Counterfeit Securities; Aid and Abet(32-34)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Steven P Logan",
+          "judge_guid": "urn:entity:jud-100003811"
+        }
+      ]
+    }
+  ]
+}

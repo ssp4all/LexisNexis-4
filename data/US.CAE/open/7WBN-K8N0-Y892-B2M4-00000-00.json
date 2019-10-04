@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_199cr5220_caed",
+  "case_key": "1:99cr5220_caed",
+  "case_lni": "7WBN-K8N0-Y892-B2M4-00000-00",
+  "case_number": "1:99cr5220",
+  "case_title": "USA v. Sanchez",
+  "case_info_full_case_name": "USA v. Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez",
+  "case_date_filed": "1999-08-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TABITHA ANN SANCHEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "19:1459(d)"
+        },
+        {
+          "charge_description": "19:1459(d) DEPARTURE FROM DESIGNATED CUSTOMS FACILITIES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis L Beck",
+          "judge_guid": "urn:entity:jud-100061970"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_212mj7257_ILCD",
+  "case_key": "2:12mj7257_ILCD",
+  "case_lni": "57BC-N0K1-DXDT-G0SC-00000-00",
+  "case_number": "2:12mj7257",
+  "case_title": "USA v. Vazquez-Perez",
+  "case_info_full_case_name": "USA v. Vazquez-Perez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vazquez-Perez",
+  "case_date_filed": "2012-12-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ronda H Coleman",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aurelio Vazquez-Perez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546.F (On or about 8/3/10 to 12/19/12, defendant did attempt to use an alien registration receipt card knowing it to be forged or falsely made in violation of Title 18, USC Section 1546(a))"
+        },
+        {
+          "charge_offence_description": "18:1546.F (On or about 8/3/10 to 12/19/12, defenda"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David G. Bernthal",
+          "judge_guid": "urn:entity:jud-100061640"
+        }
+      ]
+    }
+  ]
+}

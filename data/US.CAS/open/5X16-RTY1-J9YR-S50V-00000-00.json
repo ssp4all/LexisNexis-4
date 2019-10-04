@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_319cr3520_CASD",
+  "case_key": "3:19cr3520_CASD",
+  "case_lni": "5X16-RTY1-J9YR-S50V-00000-00",
+  "case_number": "3:19cr3520",
+  "case_title": "USA v. Reyes-Cortes",
+  "case_info_full_case_name": "USA v. Reyes-Cortes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reyes-Cortes",
+  "case_date_filed": "2019-09-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kevin Louis Spencer",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Herminio Reyes-Cortes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1544 - Misuse of Passport"
+        },
+        {
+          "charge_offence_description": "18:1544 - Misuse of Passport"
+        },
+        {
+          "charge_description": "18:1544 - Misuse of Passport (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cathy Ann Bencivengo",
+          "judge_guid": "urn:entity:jud-100069208"
+        }
+      ]
+    }
+  ]
+}

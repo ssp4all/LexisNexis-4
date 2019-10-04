@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_218cr20004_ILCD",
+  "case_key": "2:18cr20004_ILCD",
+  "case_lni": "5RCP-79V1-DXDT-G4PF-00000-00",
+  "case_number": "2:18cr20004",
+  "case_title": "USA v. Young",
+  "case_info_full_case_name": "USA v. Young",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Young",
+  "case_date_filed": "2018-01-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katherine Virginia Boyle",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Rachel E Ritzer",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dewayne Young",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F  UNLAWFUL TRANSPORT OF FIREARMS, ETC. On or about 9/1/2017 defendant did knowingly possess a firearm after having been convicted of a felony in violation of 18 U.S.C. ยง 922(g)(1)(1)"
+        },
+        {
+          "charge_disposition": "Case dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F  CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE On or about 9/1/2017 defendant did knowingly possess cocaine base with the intent to distribute in violation of 21 U.S.C. ยง 841(a)(1) and (b)(1)(C)(2)"
+        },
+        {
+          "charge_disposition": "Case dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Sara Darrow",
+          "judge_guid": "urn:entity:jud-100071026"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric I. Long",
+          "judge_guid": "urn:entity:jud-100120750"
+        }
+      ]
+    }
+  ]
+}

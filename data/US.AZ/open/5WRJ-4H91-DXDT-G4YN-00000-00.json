@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_219mj1595_AZD",
+  "case_key": "2:19mj1595_AZD",
+  "case_lni": "5WRJ-4H91-DXDT-G4YN-00000-00",
+  "case_number": "2:19mj1595",
+  "case_title": "USA v. Camacho",
+  "case_info_full_case_name": "USA v. Camacho",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Camacho",
+  "case_date_filed": "2019-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John Andrew Ballos",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Margaret Wu Perlmeter",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eddie Camacho",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Count One - 21:952, 960(a) and (b)(1)(H)  Importation of a Controlled Substance; Count Two - 21:841(a)(1) and (b)(1)(A)(viii) Possession of a Controlled Substance with Intent to Distribute"
+        },
+        {
+          "charge_offence_description": "Count One - 21:952, 960(a) and (b)(1)(H)  Importat"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

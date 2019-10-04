@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_709cr418_SCD",
+  "case_key": "7:09cr418_SCD",
+  "case_lni": "7WBN-P9P0-Y892-B4RJ-00000-00",
+  "case_number": "7:09cr418",
+  "case_title": "USA v. Kirby et al",
+  "case_info_full_case_name": "USA v. Kirby et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kirby et al",
+  "case_date_filed": "2009-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Keith Lee Kirby",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641 18:2 5, 2008)"
+        },
+        {
+          "charge_description": "18:641 THEFT/EMBEZZLEMENT OF U. S. PROPERTY and 18:2 Aid and Abet (May 5, 2008) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2115 18:2 31, 2008)"
+        },
+        {
+          "charge_description": "18:2115 BURGLARY, POST OFFICE and 18:2 Aid and Abet (May 31, 2008) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    },
+    {
+      "party_name": "Christopher Jerome Shippy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641 18:2 5, 2008)"
+        },
+        {
+          "charge_description": "18:641 THEFT/EMBEZZLEMENT OF U. S. PROPERTY and 18:2 Aid and Abet (May 5, 2008) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ]
+    },
+    {
+      "party_name": "Adam Andrew Emery",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2115 18:2 31, 2008)"
+        },
+        {
+          "charge_description": "18:2115 BURGLARY, POST OFFICE and 18:2 Aid and Abet (May 31, 2008) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

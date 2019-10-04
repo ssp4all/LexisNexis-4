@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_415mj351_AZD",
+  "case_key": "4:15mj351_AZD",
+  "case_lni": "5GN9-MY01-DXDT-G1S9-00000-00",
+  "case_number": "4:15mj351",
+  "case_title": "USA v. Cruz",
+  "case_info_full_case_name": "USA v. Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cruz",
+  "case_date_filed": "2015-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Justin Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Information: Count 1: 36 CFR 4.23(a)(1) and 1.3 Operating Under the Influence of Alcohol; Count 2: 36 CFR 4.21(c) and 1.3 Operating in Excess of Posted Speed Limit; Count 3: 36 CFR 4.2(b) and 1.3 and ARS 28.3473 Driving with a Suspended License"
+        },
+        {
+          "charge_disposition": "Two Years Supervised Probation, $300.00 Fine, $10.00 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Information: Count 1: 36 CFR 4.23(a)(1) and 1.3 Op"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Eric J Markovich",
+          "judge_guid": "urn:entity:jud-100106531"
+        }
+      ]
+    }
+  ]
+}

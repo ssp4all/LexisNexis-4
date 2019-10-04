@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_411mj30469_MIED",
+  "case_key": "4:11mj30469_MIED",
+  "case_lni": "54C3-KHJ1-DXDT-G441-00000-00",
+  "case_number": "4:11mj30469",
+  "case_title": "United States of America v. Braswell",
+  "case_info_full_case_name": "United States of America v. Braswell",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Braswell",
+  "case_date_filed": "2011-11-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alfred Earl Braswell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Hluchaniuk",
+          "judge_guid": "urn:entity:jud-100051544"
+        }
+      ]
+    }
+  ]
+}

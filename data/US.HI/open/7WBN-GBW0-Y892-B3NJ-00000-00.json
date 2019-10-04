@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_192cr1619_hid",
+  "case_key": "1:92cr1619_hid",
+  "case_lni": "7WBN-GBW0-Y892-B3NJ-00000-00",
+  "case_number": "1:92cr1619",
+  "case_title": "USA v. McReynolds",
+  "case_info_full_case_name": "USA v. McReynolds",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McReynolds",
+  "case_date_filed": "1992-12-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES E. MCREYNOLDS",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Francis I. Yamashita",
+          "judge_guid": "urn:entity:jud-100016542"
+        }
+      ]
+    }
+  ]
+}

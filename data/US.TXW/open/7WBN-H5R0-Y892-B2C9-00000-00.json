@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_303cr2138_txwd",
+  "case_key": "3:03cr2138_txwd",
+  "case_lni": "7WBN-H5R0-Y892-B2C9-00000-00",
+  "case_number": "3:03cr2138",
+  "case_title": "USA v. Gandara-Cardena",
+  "case_info_full_case_name": "USA v. Gandara-Cardena",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gandara-Cardena",
+  "case_date_filed": "2003-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PATRICIA GANDARA-CARDENA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to twelve (12) months and one (1) day imprisonment, three (3) years supervised release, $100.00 S/A (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable"
+        }
+      ]
+    }
+  ]
+}

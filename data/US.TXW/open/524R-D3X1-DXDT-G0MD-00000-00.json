@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_311mj618_TXWD",
+  "case_key": "3:11mj618_TXWD",
+  "case_lni": "524R-D3X1-DXDT-G0MD-00000-00",
+  "case_number": "3:11mj618",
+  "case_title": "USA v. Jaramillo-Nunez",
+  "case_info_full_case_name": "USA v. Jaramillo-Nunez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jaramillo-Nunez",
+  "case_date_filed": "2011-02-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alejandro Jaramillo-Nunez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F--CONTROLLED 21:846=CD.F--CONSPIRACY 13.74"
+        },
+        {
+          "charge_description": "21:841A=CD.F--CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE. 21:846=CD.F--CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE, TO WIT: 13.74 KILOGRAMS (GROSS WEIGHT) OF COCAINE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

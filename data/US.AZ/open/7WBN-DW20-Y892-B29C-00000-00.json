@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_407mj5956_AZD",
+  "case_key": "4:07mj5956_AZD",
+  "case_lni": "7WBN-DW20-Y892-B29C-00000-00",
+  "case_number": "4:07mj5956",
+  "case_title": "USA v. Flores-Ubaldo",
+  "case_info_full_case_name": "USA v. Flores-Ubaldo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flores-Ubaldo",
+  "case_date_filed": "2007-04-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar Flores-Ubaldo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "CT:1 8:1326,enhanced 8:1326(b)(1)REENTRY"
+        },
+        {
+          "charge_description": "CT:1 8:1326,enhanced by 8:1326(b)(1)REENTRY OF DEPORTED ALIEN-FELONY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_612mj2_TXSD",
+  "case_key": "6:12mj2_TXSD",
+  "case_lni": "54P7-YPH1-DXDT-G22B-00000-00",
+  "case_number": "6:12mj2",
+  "case_title": "USA v. Castellanos-Cruz et al",
+  "case_info_full_case_name": "USA v. Castellanos-Cruz et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castellanos-Cruz et al",
+  "case_date_filed": "2012-01-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - CC",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Corpus Christi MagDuty",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Diego Castellanos-Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-Bringing"
+        },
+        {
+          "charge_description": "8:1324.F-Bringing in and harboring aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brian L Owsley",
+          "judge_guid": "urn:entity:jud-100075563"
+        }
+      ]
+    },
+    {
+      "party_name": "Eustolio Cantu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-Bringing"
+        },
+        {
+          "charge_description": "8:1324.F-Bringing in and harboring aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brian L Owsley",
+          "judge_guid": "urn:entity:jud-100075563"
+        }
+      ]
+    }
+  ]
+}

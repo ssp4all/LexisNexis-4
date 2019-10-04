@@ -1,0 +1,131 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNM_310cr304_TNMD",
+  "case_key": "3:10cr304_TNMD",
+  "case_lni": "51RW-10M1-DXDT-G258-00000-00",
+  "case_number": "3:10cr304",
+  "case_title": "USA v. Cable et al",
+  "case_info_full_case_name": "USA v. Cable et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cable et al",
+  "case_date_filed": "2010-12-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Hilliard H. Hester , III",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {},
+    {
+      "attorney_name": "Kathryn Ward Booth",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Matthew John Everitt"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Patrick Cable",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Indictment 12/15/10: 18:471 and 18:2 Manufacturing counterfeit and altered Federal Reserve Notes(1)"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Count 1. Imprisonment for 30 months. Remanded to custody. Two years supervised release. with special conditions. $100 special assessment. $2,000 restitution, joint and several. Deft shall surrender $3,173,20; $2,000 is to be applied to restitution and $100 to be applied to special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 12/15/10: 18:472 and 18:2 Passing/uttering counterfeit and altered Federal Reserve Notes(2)"
+        },
+        {
+          "charge_disposition": "Count 2 dismissed on motion by Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Todd J. Campbell",
+          "judge_guid": "urn:entity:jud-100063400"
+        }
+      ]
+    },
+    {
+      "party_name": "Lindsey Spring McKinder",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Indictment 12/15/10: 18:471 and 18:2 Manufacturing counterfeit and altered Federal Reserve Notes(1)"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Count 1. Imprisonment for time served. Remanded to custody. Two years supervised release. with special conditions. $100 special assessment. $2,000 Joint and several restitution in the amount of $2,000. Deft agreed in the Plea Agreement to surrender $3,173.20. The deft and the Govt are ordered to apply $2,000 of the surrendered funds toward the $2,000 restitution and apply $100 toward the special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 12/15/10: 18:472 and 18:2 Passing/uttering counterfeit and altered Federal Reserve Notes(2)"
+        },
+        {
+          "charge_disposition": "Count 2 dismissed on motion by Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Todd J. Campbell",
+          "judge_guid": "urn:entity:jud-100063400"
+        }
+      ]
+    },
+    {
+      "party_name": "Gregory Mitchell Hill",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Indictment 12/15/10: 18:471 and 18:2 Manufacturing counterfeit and altered Federal Reserve Notes(1)"
+        },
+        {
+          "charge_disposition": "Plea of guilty to Count 1. Imprisonment for 30 months. Remanded to custody. Two years supervised release. with special conditions. $100 special assessment. $2,000 restitution, joint and several. Deft shall surrender $3,173.20; $2,000 is to be applied to restitution and $100 to be applied to special assessment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Indictment 12/15/10: 18:472 and 18:2 Passing/uttering counterfeit and altered Federal Reserve Notes(2)"
+        },
+        {
+          "charge_disposition": "Count 2 dismissed on motion by Govt."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Todd J. Campbell",
+          "judge_guid": "urn:entity:jud-100063400"
+        }
+      ]
+    }
+  ]
+}

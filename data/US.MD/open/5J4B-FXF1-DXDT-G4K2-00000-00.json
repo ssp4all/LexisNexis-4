@@ -1,0 +1,88 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_816po1286_MDD",
+  "case_key": "8:16po1286_MDD",
+  "case_lni": "5J4B-FXF1-DXDT-G4K2-00000-00",
+  "case_number": "8:16po1286",
+  "case_title": "USA vs Medina",
+  "case_info_full_case_name": "USA vs Medina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Medina",
+  "case_date_filed": "2016-02-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Javier A Medina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNSAFE PASSING TO RIGHT OF OVERTAKEN VEH. (5099432)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "**PEDESTRIAN FAILED TO OBEY SIGNAL** (5099431)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "AGGRESSIVE DRIVING BY COMMITTING, AT THE SAME TIME OR DURING A SINGLE CONTINUOUS (5099430)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "OPERATING VEHICLE AT SPEED IN EXCESS OF SPEED LIMIT (5099436)(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "FAILURE OF INDIVIDUAL DRIVING ON HWY. TO DISPLAY LIC. TO UNIFORMED POLICE ON DEM (5099435)(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVING VEH. ON HWY. AT SPEED EXCEEDING LIMIT (5099434)(6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVER OF MOTOR VEH. FOLLOWING VEH. CLOSER THAN REASONABLE AND PRUDENT (5099433)(7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

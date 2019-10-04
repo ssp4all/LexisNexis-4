@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_318cr4886_CASD",
+  "case_key": "3:18cr4886_CASD",
+  "case_lni": "5TR7-RR71-DXDT-G363-00000-00",
+  "case_number": "3:18cr4886",
+  "case_title": "USA v. Porras",
+  "case_info_full_case_name": "USA v. Porras",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Porras",
+  "case_date_filed": "2018-11-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Amanda Griffith",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Porras",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:952, 960 - Importation of a Controlled Substance (Felony)"
+        },
+        {
+          "charge_offence_description": "21:952, 960 - Importation of a Controlled Substanc"
+        },
+        {
+          "charge_description": "21:952, 960 - Importation of Cocaine (Felony)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dana M. Sabraw",
+          "judge_guid": "urn:entity:jud-100027243"
+        }
+      ]
+    }
+  ]
+}

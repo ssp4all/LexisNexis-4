@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_488cr435_azd",
+  "case_key": "4:88cr435_azd",
+  "case_lni": "7WBN-S5Y0-Y892-B2BS-00000-00",
+  "case_number": "4:88cr435",
+  "case_title": "USA, et al v. Enriquez-Acedo",
+  "case_info_full_case_name": "USA, et al v. Enriquez-Acedo",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Enriquez-Acedo",
+  "case_date_filed": "1988-12-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joelyn D Marlowe",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "VICTORIA ENRIQUEZ-ACEDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)(b)(1)(B)(vii) 100-1000"
+        },
+        {
+          "charge_description": "21:841(a)(1)(b)(1)(B)(vii) POSSESSION W/INTENT TO DISTRIUTE 100-1000 KILOGRAMS (MARIJ I) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William D Browning",
+          "judge_guid": "urn:entity:jud-100006853"
+        }
+      ]
+    }
+  ]
+}

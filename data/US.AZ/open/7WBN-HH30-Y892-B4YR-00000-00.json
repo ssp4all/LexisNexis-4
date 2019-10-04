@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400m7253_azd",
+  "case_key": "4:00m7253_azd",
+  "case_lni": "7WBN-HH30-Y892-B4YR-00000-00",
+  "case_number": "4:00m7253",
+  "case_title": "USA, et al v. Aragon-Romero",
+  "case_info_full_case_name": "USA, et al v. Aragon-Romero",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Aragon-Romero",
+  "case_date_filed": "2000-09-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "M ALEJANDRO ARAGON-ROMERO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 21:841(a)(1) (b)(1)(A)(ii)(II)"
+        },
+        {
+          "charge_description": "CT 1: 21:841(a)(1) &; (b)(1)(A)(ii)(II) possession with intent to distribute cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

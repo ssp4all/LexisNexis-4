@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_103cr1309_nysd",
+  "case_key": "1:03cr1309_nysd",
+  "case_lni": "7WBN-PM00-Y892-B1FK-00000-00",
+  "case_number": "1:03cr1309",
+  "case_title": "USA v. Cinquegrana",
+  "case_info_full_case_name": "USA v. Cinquegrana",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cinquegrana",
+  "case_date_filed": "2003-11-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LOUIS CINQUEGRANA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:892.F"
+        },
+        {
+          "charge_description": "18:892.F EXTENSIONS OF CREDIT BY EXTORTION (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:894.F"
+        },
+        {
+          "charge_description": "18:894.F COLLECTION OF CREDIT BY EXTORTION (3-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Deborah A. Batts",
+          "judge_guid": "urn:entity:jud-100069498"
+        }
+      ]
+    }
+  ]
+}

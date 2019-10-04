@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_300cr1465_txwd",
+  "case_key": "3:00cr1465_txwd",
+  "case_lni": "7WBN-FGK0-Y892-B190-00000-00",
+  "case_number": "3:00cr1465",
+  "case_title": "USA v. Mendivil-Hinostroza",
+  "case_info_full_case_name": "USA v. Mendivil-Hinostroza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendivil-Hinostroza",
+  "case_date_filed": "2000-09-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LAZARO MENDIVIL-HINOSTROZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952A=MI.F"
+        },
+        {
+          "charge_description": "21:952A=MI.F MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE-POSSESSING WITH INTENT TO DISTRIBUTE A QUANTITY OF MARIHUANA (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "71.4 21:841(a)(1)"
+        },
+        {
+          "charge_description": "\"Possession with the intent to distribute and importation of approx. 71.4 lbs of marijuana, a Schedule I Controlled Substance, in violation of 21:841(a)(1) and 952(a)\"[3:00-m-2482]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    }
+  ]
+}

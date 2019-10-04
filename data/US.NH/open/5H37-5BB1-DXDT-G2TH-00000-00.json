@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_115cr175_NHD",
+  "case_key": "1:15cr175_NHD",
+  "case_lni": "5H37-5BB1-DXDT-G2TH-00000-00",
+  "case_number": "1:15cr175",
+  "case_title": "USA v. Wisell",
+  "case_info_full_case_name": "USA v. Wisell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wisell",
+  "case_date_filed": "2015-09-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christopher Wisell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC ยง 841(a)(1) Possession of Marijuana with Intent to Distribute(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joseph A. DiClerico, Jr",
+          "judge_guid": "urn:entity:jud-100044600"
+        }
+      ]
+    }
+  ]
+}

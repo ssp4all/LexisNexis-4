@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_492cr268_azd",
+  "case_key": "4:92cr268_azd",
+  "case_lni": "7WBN-NKS0-Y892-B500-00000-00",
+  "case_number": "4:92cr268",
+  "case_title": "USA, et al v. Carreon-Hernandez",
+  "case_info_full_case_name": "USA, et al v. Carreon-Hernandez",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Carreon-Hernandez",
+  "case_date_filed": "1992-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS CARREON-HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a),"
+        },
+        {
+          "charge_description": "21:952(a), IMPORT (Marij I) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1),"
+        },
+        {
+          "charge_description": "21:841(a)(1), POSS W/INT TO DISTB (Marij I) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1),"
+        },
+        {
+          "charge_description": "21:841(a)(1), Poss w/Int to Distb (Marij I) [4:92-m-2173]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William D Browning",
+          "judge_guid": "urn:entity:jud-100006853"
+        }
+      ]
+    }
+  ]
+}

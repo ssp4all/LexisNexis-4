@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_411mj24_GAMD",
+  "case_key": "4:11mj24_GAMD",
+  "case_lni": "5288-38P1-DXDT-G0H8-00000-00",
+  "case_number": "4:11mj24",
+  "case_title": "United States of America v. Bailey",
+  "case_info_full_case_name": "United States of America v. Bailey",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Bailey",
+  "case_date_filed": "2011-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Joanne M Bailey",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M (2691290) 18USC7 13 40-5-121"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES-DRIVING WHILE LICENSE SUSPENDED/REVOKED ON [10/29/10] (2691290) 18 USC 7 and 13 i/c/w O.C.G.A. 40-5-121 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M (2691289) 18USC7 13 40-6-15"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES-NO VALID VEHICLE REGISTRATION ON [10/29/10] (2691289) 18 USC 7 and 13 i/c/w O.C.G.A. 40-6-15 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.M (2691291) 18USC7 13 40-6-10"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES-NO INSURANCE ON [10/29/10] (2691291) 18 USC 7 and 13 i/c/w O.C.G.A. 40-6-10 (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "US Mag Judge"
+        }
+      ]
+    }
+  ]
+}

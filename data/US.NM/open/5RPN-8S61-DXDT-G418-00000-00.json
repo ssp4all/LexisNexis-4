@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_218cr524_NMD",
+  "case_key": "2:18cr524_NMD",
+  "case_lni": "5RPN-8S61-DXDT-G418-00000-00",
+  "case_number": "2:18cr524",
+  "case_title": "USA v. Marquez",
+  "case_info_full_case_name": "USA v. Marquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marquez",
+  "case_date_filed": "2018-02-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John Andrew Balla",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose Antonio Marquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) Possession with Intent to Distribute Approximately 54.11 Kilograms of Marijuana; 21:846 Conspiracy"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with Intent to Distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

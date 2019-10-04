@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_215mj342_UTD",
+  "case_key": "2:15mj342_UTD",
+  "case_lni": "5H3V-X9W1-DXDT-G37H-00000-00",
+  "case_number": "2:15mj342",
+  "case_title": "USA v. Hammer",
+  "case_info_full_case_name": "USA v. Hammer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hammer",
+  "case_date_filed": "2015-10-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Stephen Hammer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 841 (a)(1) Possession of Methamphetamine with Intent to Distribute; 18 USC 924 (c) Possession of a Firearm in Furtherance of a Drug Trafficking offense"
+        },
+        {
+          "charge_offence_description": "21 USC 841 (a)(1) Possession of Methamphetamine wi"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Brooke C. Wells",
+          "judge_guid": "urn:entity:jud-100023056"
+        }
+      ]
+    }
+  ]
+}

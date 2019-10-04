@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VI_114cr51_VID",
+  "case_key": "1:14cr51_VID",
+  "case_lni": "5CSF-NXB1-DXDT-G4GD-00000-00",
+  "case_number": "1:14cr51",
+  "case_title": "USA v. ILES",
+  "case_info_full_case_name": "USA v. ILES",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ILES",
+  "case_date_filed": "2014-07-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rhonda Williams-Henry",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "KETISHA ILES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "INTERFERENCE WITH COMMERCE BY THREAT OR VIOLENCE(1-2)"
+        },
+        {
+          "charge_disposition": "70 Months Imprisonment, 3 years Supervised Release, $200.00 Special Assessment,"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ROBBERY, OTHER(5)"
+        },
+        {
+          "charge_disposition": "Not Guilty"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN(3)"
+        },
+        {
+          "charge_disposition": "Not Guilty"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "VIOLENT CRIME/DRUGS/MACHINE GUN(4)"
+        },
+        {
+          "charge_disposition": "Not Guilty"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Wilma A. Lewis",
+          "judge_guid": "urn:entity:jud-100029943"
+        },
+        {
+          "judge_name": "US Magistrate Judge George W. Cannon",
+          "judge_guid": "urn:entity:jud-100059781"
+        }
+      ]
+    }
+  ]
+}

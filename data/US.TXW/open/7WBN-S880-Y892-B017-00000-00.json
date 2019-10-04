@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_499cr109_txwd",
+  "case_key": "4:99cr109_txwd",
+  "case_lni": "7WBN-S880-Y892-B017-00000-00",
+  "case_number": "4:99cr109",
+  "case_title": "USA v. Perez-De La Cruz",
+  "case_info_full_case_name": "USA v. Perez-De La Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perez-De La Cruz",
+  "case_date_filed": "1999-03-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO JAVIER PEREZ-DELACRUZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326B.F"
+        },
+        {
+          "charge_description": "8:1326B.F REENTRY OF DEPORTED ALIEN-FELONY (1)"
+        },
+        {
+          "charge_disposition": "Deft. is hereby committed to the U.S. Bureau of Prisons for a term 70 months,three years supervised release and a $100 special assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8USC1326"
+        },
+        {
+          "charge_description": "Felony Re-Entry after deportation in violation of Title 8 USC 1326 [4:99-m-834]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "W. Royal Furgeson, Jr.",
+          "judge_guid": "urn:entity:jud-100004574"
+        }
+      ]
+    }
+  ]
+}

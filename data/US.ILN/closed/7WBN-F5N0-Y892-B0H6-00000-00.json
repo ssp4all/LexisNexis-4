@@ -1,0 +1,120 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_193cr837_ilnd",
+  "case_key": "1:93cr837_ilnd",
+  "case_lni": "7WBN-F5N0-Y892-B0H6-00000-00",
+  "case_number": "1:93cr837",
+  "case_title": "USA v. Peters, et al",
+  "case_info_full_case_name": "USA v. Peters, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peters, et al",
+  "case_date_filed": "1993-11-18",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pre-",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHELLE PETERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 CONTROLLED SUB-SELL, DISTRIBUTE,OR DISPEN (1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the U.S. Bureau of Prisons to be imprisoned for a term of 17 months. The defendant shall surrender for service of sentence at the institution desginated by the Bureau of Prisons before 2 p.m. on 10/10/94. Upon release from imprisonment, the defendant shall be on supervised release for a term of 4 years. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with intent to distribute marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Marvin E. Aspen",
+          "judge_guid": "urn:entity:jud-100052507"
+        }
+      ]
+    },
+    {
+      "party_name": "ADOLFO GAMEZ-TORREZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with intent to distribute marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Marvin E. Aspen",
+          "judge_guid": "urn:entity:jud-100052507"
+        }
+      ]
+    },
+    {
+      "party_name": "JOSE GAMEZ-MARTINEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with intent to distribute marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Marvin E. Aspen",
+          "judge_guid": "urn:entity:jud-100052507"
+        }
+      ]
+    },
+    {
+      "party_name": "PAULINO GUZMAN-GOMEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with intent to distribute marijuana."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Marvin E. Aspen",
+          "judge_guid": "urn:entity:jud-100052507"
+        }
+      ]
+    }
+  ]
+}

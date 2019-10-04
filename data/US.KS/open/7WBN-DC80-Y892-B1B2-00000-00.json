@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_308mj7183_KSD",
+  "case_key": "3:08mj7183_KSD",
+  "case_lni": "7WBN-DC80-Y892-B1B2-00000-00",
+  "case_number": "3:08mj7183",
+  "case_title": "USA v. Braughton-Wagner",
+  "case_info_full_case_name": "USA v. Braughton-Wagner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Braughton-Wagner",
+  "case_date_filed": "2008-09-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Justin C. Barnes",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Karen K. Braughton-Wagner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 8-262"
+        },
+        {
+          "charge_description": "18:13 Incorporating KSA 8-262 Operating a Motor Vechicle on a Suspended License. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Waxse",
+          "judge_guid": "urn:entity:jud-100023227"
+        }
+      ]
+    }
+  ]
+}

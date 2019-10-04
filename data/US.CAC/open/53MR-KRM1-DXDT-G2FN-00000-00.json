@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_811cr191_CACD",
+  "case_key": "8:11cr191_CACD",
+  "case_lni": "53MR-KRM1-DXDT-G2FN-00000-00",
+  "case_number": "8:11cr191",
+  "case_title": "USA v. Arreygue",
+  "case_info_full_case_name": "USA v. Arreygue",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arreygue",
+  "case_date_filed": "2011-08-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "David Alcala Arreygue",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(b)(2) ILLEGAL ALIEN FOUND IN THE UNITED STATES FOLLOWING DEPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Defendant in violation of 8:1326"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

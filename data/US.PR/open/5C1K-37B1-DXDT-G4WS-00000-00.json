@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_314mj515_PRD",
+  "case_key": "3:14mj515_PRD",
+  "case_lni": "5C1K-37B1-DXDT-G4WS-00000-00",
+  "case_number": "3:14mj515",
+  "case_title": "USA v. McFadden",
+  "case_info_full_case_name": "USA v. McFadden",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McFadden",
+  "case_date_filed": "2014-04-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jose A. Ruiz-Santiago",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Markquez McFadden",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951.F -- Interference with Commerce by Threat or Violence, 18:924(c)(1)(A)(ii) -- Violent Crime/Drugs/Machine Gun, 18:2 -- Aiding and Abetting"
+        },
+        {
+          "charge_offence_description": "18:1951.F -- Interference with Commerce by Threat "
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Silvia Carreno-Coll",
+          "judge_guid": "urn:entity:jud-100082317"
+        }
+      ]
+    },
+    {
+      "party_name": "Probation Office",
+      "party_description": "Interested Party"
+    }
+  ]
+}

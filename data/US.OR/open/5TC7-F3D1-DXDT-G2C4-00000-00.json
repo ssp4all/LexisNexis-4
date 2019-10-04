@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_118po572_ORD",
+  "case_key": "1:18po572_ORD",
+  "case_lni": "5TC7-F3D1-DXDT-G2C4-00000-00",
+  "case_number": "1:18po572",
+  "case_title": "USA vs Felber",
+  "case_info_full_case_name": "USA vs Felber",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Felber",
+  "case_date_filed": "2018-09-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Erik L Felber",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Giving any false fictitious or fraudulent report or other information to any Fo (F4940289)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark D. Clarke",
+          "judge_guid": "urn:entity:jud-100048298"
+        }
+      ]
+    }
+  ]
+}

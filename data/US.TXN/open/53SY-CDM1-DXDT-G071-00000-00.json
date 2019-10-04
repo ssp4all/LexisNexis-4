@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_211mj41_TXND",
+  "case_key": "2:11mj41_TXND",
+  "case_lni": "53SY-CDM1-DXDT-G071-00000-00",
+  "case_number": "2:11mj41",
+  "case_title": "USA v. Puentes-Ramos",
+  "case_info_full_case_name": "USA v. Puentes-Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Puentes-Ramos",
+  "case_date_filed": "2011-09-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Travis D Smith-DOJ",
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Puentes-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(b(1)"
+        },
+        {
+          "charge_description": "8:1326(b(1) Illegal re Entry of Deported Alien After Conviction of A Felony"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Clinton E Averitte",
+          "judge_guid": "urn:entity:jud-100052428"
+        }
+      ]
+    }
+  ]
+}

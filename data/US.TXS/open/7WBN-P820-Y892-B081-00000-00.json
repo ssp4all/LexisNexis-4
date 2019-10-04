@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_700m3477_txsd",
+  "case_key": "7:00m3477_txsd",
+  "case_lni": "7WBN-P820-Y892-B081-00000-00",
+  "case_number": "7:00m3477",
+  "case_title": "USA v. Mendoza-Villanueva",
+  "case_info_full_case_name": "USA v. Mendoza-Villanueva",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendoza-Villanueva",
+  "case_date_filed": "2000-09-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERTO MENDOZA-VILLANUEVA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Re-entry after deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter Edward Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

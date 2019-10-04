@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_314cr8028_AZD",
+  "case_key": "3:14cr8028_AZD",
+  "case_lni": "5DJV-NR81-DXDT-G4P5-00000-00",
+  "case_number": "3:14cr8028",
+  "case_title": "USA v. Eskeets",
+  "case_info_full_case_name": "USA v. Eskeets",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Eskeets",
+  "case_date_filed": "2014-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Chrissy Eskeets",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(C) and 18:2 - Possession with Intent to Distribute Methamphetamine, a Controlled Substance and Aid &; Abet(1)"
+        },
+        {
+          "charge_disposition": "Defendant is placed on Probation for a term of THREE (3) YEARS. Special Assessment: $100. *PROBATION REVOKED ON 4/13/15. Defendant is committed to BOP for a term of FIVE (5) MONTHS, plus one hundred thirty-two days of official detention adjustment, followed by a term of THIRTY-SIX (36) MONTHS of Supervised Release. *SUPERVISED RELEASE REVOKED ON 6/1/16. Defendant is committed to the custody of BOP for a term of EIGHT (8) MONTHS, followed by Supervised Release for THIRTY-SIX (36) MONTHS."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "G Murray Snow",
+          "judge_guid": "urn:entity:jud-100020555"
+        }
+      ]
+    }
+  ]
+}

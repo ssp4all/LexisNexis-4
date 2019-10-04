@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_210cr1785_NMD",
+  "case_key": "2:10cr1785_NMD",
+  "case_lni": "7YS8-YBX0-Y892-B28V-00000-00",
+  "case_number": "2:10cr1785",
+  "case_title": "USA v. Herrera-Simental",
+  "case_info_full_case_name": "USA v. Herrera-Simental",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Herrera-Simental",
+  "case_date_filed": "2010-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodolfo Herrera-Simental",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1)&;(a)(2)-Reentry"
+        },
+        {
+          "charge_description": "8:1326(a)(1)&;(a)(2)-Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert C. Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

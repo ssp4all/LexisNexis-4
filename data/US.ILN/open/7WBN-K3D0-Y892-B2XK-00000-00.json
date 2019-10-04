@@ -1,0 +1,127 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_196cr112_ilnd",
+  "case_key": "1:96cr112_ilnd",
+  "case_lni": "7WBN-K3D0-Y892-B2XK-00000-00",
+  "case_number": "1:96cr112",
+  "case_title": "USA v. Adeniji, et al",
+  "case_info_full_case_name": "USA v. Adeniji, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Adeniji, et al",
+  "case_date_filed": "1996-02-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BAMIDELLE ADENIJI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=NI.F"
+        },
+        {
+          "charge_description": "21:846=NI.F CONSPIRACY TO IMPORT NARCOTICS (1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a term of thirty five (35) months on Count I. The defendant is remanded to the custody of the United States Marshal. Upon release from imprisonment, the defendant shall be on supervised release for a term of five (5) years on count 1. *AMENDMENT: The defendant is to be placed at the Salvation Army Community Corrections program for a period of up to 120 days. The defendant shall pay a fine of $1,200.00. The fine includes any costs of incarceration and/or supervision. Statement of reasons. (Attachments) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 conspire to distribute and possess heroin"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Charles P. Kocoras",
+          "judge_guid": "urn:entity:jud-100040110"
+        }
+      ]
+    },
+    {
+      "party_name": "AYOOLA SOYEGE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=NI.F"
+        },
+        {
+          "charge_description": "21:846=NI.F CONSPIRACY TO IMPORT NARCOTICS (1)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the cutsody of the United States Bureau of Prisons to be imprisoned for a term of ninety seven (97) months on each of Counts 1 and 2 to run cuncurrently. The defenant is remanded to the custody of the United States marshal. Upon release from imprisonment, the defendant shall be on supervised release for a term of five(5) years on each of Counts 1 and 2 to run concurrently. The defendant shall pay a fine of $3,000.00. The fine includes any costs of incarceration and/or supervision. The defendant shall make restitution in the amount of $1,886.43. Statement of reasons. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846=ND.F"
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS (2)"
+        },
+        {
+          "charge_disposition": "The defendant is hereby committed to the cutsody of the United States Bureau of Prisons to be imprisoned for a term of ninety seven (97) months on each of Counts 1 and 2 to run cuncurrently. The defenant is remanded to the custody of the United States marshal. Upon release from imprisonment, the defendant shall be on supervised release for a term of five(5) years on each of Counts 1 and 2 to run concurrently. The defendant shall pay a fine of $3,000.00. The fine includes any costs of incarceration and/or supervision. The defendant shall make restitution in the amount of $1,886.43. Statement of reasons. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 conspire to distribute and possess heroin"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Charles P. Kocoras",
+          "judge_guid": "urn:entity:jud-100040110"
+        }
+      ]
+    },
+    {
+      "party_name": "MURITALAB EJALONIBU",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 conspire to distribute and possess heroin"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Charles P. Kocoras",
+          "judge_guid": "urn:entity:jud-100040110"
+        }
+      ]
+    }
+  ]
+}

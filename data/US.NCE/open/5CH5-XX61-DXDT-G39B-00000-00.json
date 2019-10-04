@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_714mj1094_NCED",
+  "case_key": "7:14mj1094_NCED",
+  "case_lni": "5CH5-XX61-DXDT-G39B-00000-00",
+  "case_number": "7:14mj1094",
+  "case_title": "USA v. Curtin",
+  "case_info_full_case_name": "USA v. Curtin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Curtin",
+  "case_date_filed": "2014-06-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edward M. Curtin",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert B. Jones, Jr",
+          "judge_guid": "urn:entity:jud-100071916"
+        }
+      ]
+    }
+  ]
+}

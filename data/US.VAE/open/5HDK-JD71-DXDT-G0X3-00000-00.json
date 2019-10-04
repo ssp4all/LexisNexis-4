@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_115po4058_VAED",
+  "case_key": "1:15po4058_VAED",
+  "case_lni": "5HDK-JD71-DXDT-G0X3-00000-00",
+  "case_number": "1:15po4058",
+  "case_title": "USA v. Turner",
+  "case_info_full_case_name": "USA v. Turner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Turner",
+  "case_date_filed": "2015-11-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jared M. Turner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING THE WRONG WAY ON ONE WAY STREET (3719434)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVING UNDER THE INFLUENCE (3719435)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "DRIVING WHILE INTOXICATED (3719436)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ivan D. Davis",
+          "judge_guid": "urn:entity:jud-100045063"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_210cr20422_TNWD",
+  "case_key": "2:10cr20422_TNWD",
+  "case_lni": "51S1-6TV1-DXDT-G19R-00000-00",
+  "case_number": "2:10cr20422",
+  "case_title": "USA v. McRae",
+  "case_info_full_case_name": "USA v. McRae",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McRae",
+  "case_date_filed": "2010-12-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bridges McRae",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26USC7201"
+        },
+        {
+          "charge_description": "26 USC 7201 ATTEMPT TO EVADE OR DEFEAT TAX (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "S. Thomas Anderson",
+          "judge_guid": "urn:entity:jud-100080597"
+        }
+      ]
+    }
+  ]
+}

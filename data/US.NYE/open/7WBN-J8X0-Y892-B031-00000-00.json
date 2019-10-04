@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_100cr75_nyed",
+  "case_key": "1:00cr75_nyed",
+  "case_lni": "7WBN-J8X0-Y892-B031-00000-00",
+  "case_number": "1:00cr75",
+  "case_title": "USA v. Lopez, et al",
+  "case_info_full_case_name": "USA v. Lopez, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez, et al",
+  "case_date_filed": "2000-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JESUS LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a), 960(a)(1) 960(b)(1)(A) 18:2-IMPORT 1"
+        },
+        {
+          "charge_description": "21:952(a), 960(a)(1) and 960(b)(1)(A) and 18:2-IMPORT INTO THE U.S. 1 KILOGRAM OR MORE OF A MIXTURE OR SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF HEROIN. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(i) 18:2-POSSESS 1"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(i) and 18:2-POSSESS WITH INTENT TO DISTRIBUTE 1 KILOGRAM OR MORE OF A MIXTURE OR SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF HEROIN. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John Gleeson",
+          "judge_guid": "urn:entity:jud-100042886"
+        }
+      ]
+    },
+    {
+      "party_name": "EVELYN RUIZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952(a), 960(a)(1) 960(b)(1)(A) 18:2-IMPORT 1"
+        },
+        {
+          "charge_description": "21:952(a), 960(a)(1) and 960(b)(1)(A) and 18:2-IMPORT INTO THE U.S. 1 KILOGRAM OR MORE OF A MIXTURE OR SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF HEROIN. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)(i) 18:2-POSSESS 1"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 841(b)(1)(A)(i) and 18:2-POSSESS WITH INTENT TO DISTRIBUTE 1 KILOGRAM OR MORE OF A MIXTURE OR SUBSTANCE CONTAINING A DETECTABLE AMOUNT OF HEROIN. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John Gleeson",
+          "judge_guid": "urn:entity:jud-100042886"
+        }
+      ]
+    }
+  ]
+}

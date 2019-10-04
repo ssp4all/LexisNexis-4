@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_208mj1110_NCED",
+  "case_key": "2:08mj1110_NCED",
+  "case_lni": "7WBN-KYX0-Y892-B28R-00000-00",
+  "case_number": "2:08mj1110",
+  "case_title": "USA v. Sanders",
+  "case_info_full_case_name": "USA v. Sanders",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanders",
+  "case_date_filed": "2008-10-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William J. Sanders",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Controlled Substance-Possession (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "MISCELLANEOUS GENERAL OFFENSES: Possession of Drug Paraphernalia (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "NATIONAL PARK/RECREATION VIOLATIONS: No Fishing License (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    },
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "MISCELLANEOUS GENERAL OFFENSES: Possession of Drug Paraphernalia (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

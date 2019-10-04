@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_503m2482_txsd",
+  "case_key": "5:03m2482_txsd",
+  "case_lni": "7WBN-HV90-Y892-B06J-00000-00",
+  "case_number": "5:03m2482",
+  "case_title": "USA v. Castro, et al",
+  "case_info_full_case_name": "USA v. Castro, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castro, et al",
+  "case_date_filed": "2003-05-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARTURO GONZALEZ-GONZALEZ",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "ELOY ARIAS-AVITIA",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "RAUL CASTRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transporting illegal aliens within the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    },
+    {
+      "party_name": "RONALD DAGGETT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transporting illegal aliens within the United States."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Adriana Arce-Flores",
+          "judge_guid": "urn:entity:jud-100059640"
+        }
+      ]
+    }
+  ]
+}

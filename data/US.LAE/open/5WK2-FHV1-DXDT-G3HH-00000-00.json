@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_219po256_LAED",
+  "case_key": "2:19po256_LAED",
+  "case_lni": "5WK2-FHV1-DXDT-G3HH-00000-00",
+  "case_number": "2:19po256",
+  "case_title": "USA vs Tubre",
+  "case_info_full_case_name": "USA vs Tubre",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tubre",
+  "case_date_filed": "2019-08-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tarah E Tubre",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Operating a vehicle in excess of speed limit (7684261)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Janis van Meerveld",
+          "judge_guid": "urn:entity:jud-100124050"
+        }
+      ]
+    }
+  ]
+}

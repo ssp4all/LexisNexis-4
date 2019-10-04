@@ -1,0 +1,85 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_100m17_vaed",
+  "case_key": "1:00m17_vaed",
+  "case_lni": "7WBN-J8X0-Y892-B2D4-00000-00",
+  "case_number": "1:00m17",
+  "case_title": "USA v. Wigglesworth",
+  "case_info_full_case_name": "USA v. Wigglesworth",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wigglesworth",
+  "case_date_filed": "2000-01-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Timothy J. Ryan",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KONDWANI WIGGLESWORTH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:13-7210.M) 18:13 18.2-266(ii)"
+        },
+        {
+          "charge_description": "(18:13-7210.M) 18:13 assim. VA sec. 18.2-266(ii) Driving Under the Influence of alcohol (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7210.M) 18:13 18.2-266(i) BAC.08"
+        },
+        {
+          "charge_description": "(18:13-7210.M) 18:13 assim. VA. sec. 18.2-266(i) Driving While Intoxicated with BAC.08 or more (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.M) 18:13 46.2-852"
+        },
+        {
+          "charge_description": "(18:13-7220.M) 18:13 assim. VA. sec. 46.2-852 Reckless driving (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.M) 18:13 46.2 300"
+        },
+        {
+          "charge_description": "(18:13-7220.M) 18:13 assim. VA. 46.2 sec. 300 Driving on Suspended license (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.P) 18:13 46.2 821"
+        },
+        {
+          "charge_description": "(18:13-7220.P) 18:13 assim. VA. 46.2 sec. 821 Failure to stop (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILS_308cr30019_ILSD",
+  "case_key": "3:08cr30019_ILSD",
+  "case_lni": "5J82-NN81-DXDT-G0F1-00000-00",
+  "case_number": "3:08cr30019",
+  "case_title": "USA v. Galvan-Mena",
+  "case_info_full_case_name": "USA v. Galvan-Mena",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galvan-Mena",
+  "case_date_filed": "2008-01-25",
+  "case_status": "Closed",
+  "case_status_date": "10/19/2009",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Daniel T. Kapsak",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Luis U. Galvan-Mena",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 841(a)(1) - CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE; Possession with Intent to Distribute 5 Kilograms or More of Cocaine(1)"
+        },
+        {
+          "charge_disposition": "Defendant is imprisoned for a total term of 180 months. Upon release, defendant shall be on supervised release for 5 years. Defendant must pay an assessment of $100.00 and a fine of $950.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Michael J. Reagan",
+          "judge_guid": "urn:entity:jud-100002816"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Donald G. Wilkerson",
+          "judge_guid": "urn:entity:jud-100007943"
+        }
+      ]
+    }
+  ]
+}

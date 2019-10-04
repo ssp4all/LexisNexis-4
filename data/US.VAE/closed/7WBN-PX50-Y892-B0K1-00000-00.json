@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_194m639_vaed",
+  "case_key": "1:94m639_vaed",
+  "case_lni": "7WBN-PX50-Y892-B0K1-00000-00",
+  "case_number": "1:94m639",
+  "case_title": "USA v. Vanlienden",
+  "case_info_full_case_name": "USA v. Vanlienden",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vanlienden",
+  "case_date_filed": "1994-06-27",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ELBARTUS VANLIENDEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC13, 18.2-387),"
+        },
+        {
+          "charge_description": "18 USC 13, (Assim. Va Code 18.2-387), Indecent Exposure (1)"
+        },
+        {
+          "charge_disposition": "Ct. I-Deft. is placed on sup. prob. for one year, shall not go upon Federal Parklands in the state of VA for one year and must pay a $25 asmt. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Barry R. Poretz",
+          "judge_guid": "urn:entity:jud-100032777"
+        }
+      ]
+    }
+  ]
+}

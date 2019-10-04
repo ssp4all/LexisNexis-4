@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_718po8746_TXSD",
+  "case_key": "7:18po8746_TXSD",
+  "case_lni": "5SW0-0011-DXDT-G04G-00000-00",
+  "case_number": "7:18po8746",
+  "case_title": "USA v. Rodriguez-Recinos",
+  "case_info_full_case_name": "USA v. Rodriguez-Recinos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-Recinos",
+  "case_date_filed": "2018-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Manuel Jesus Rodriguez-Recinos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

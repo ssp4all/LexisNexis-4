@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_999cr936_scd",
+  "case_key": "9:99cr936_scd",
+  "case_lni": "7WBN-PGG0-Y892-B1BJ-00000-00",
+  "case_number": "9:99cr936",
+  "case_title": "USA v. Yardman",
+  "case_info_full_case_name": "USA v. Yardman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yardman",
+  "case_date_filed": "1999-11-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHARLES G YARDMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.P 56-1-460"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER and assimilated offense based on SC Code Section 56-1-460 (1)"
+        },
+        {
+          "charge_disposition": "The defnedna tis placed on unsupervised probation for a term of 1 year with the following special conditions: (1) defendant shall pay a fine of $140; (2) defendnat shall be barred from MCRD, Parris Island, Laurel Bay, and Marine Corps Air Station, Beaufort, SC for a period of 6 months and pay a special assessment of $5.00 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert S. Carr",
+          "judge_guid": "urn:entity:jud-100049460"
+        }
+      ]
+    }
+  ]
+}

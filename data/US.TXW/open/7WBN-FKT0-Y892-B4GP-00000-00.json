@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_309cr1915_TXWD",
+  "case_key": "3:09cr1915_TXWD",
+  "case_lni": "7WBN-FKT0-Y892-B4GP-00000-00",
+  "case_number": "3:09cr1915",
+  "case_title": "USA v. Rivera",
+  "case_info_full_case_name": "USA v. Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera",
+  "case_date_filed": "2009-07-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raymond Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:952"
+        },
+        {
+          "charge_description": "21:952 MARIJUANA-IMPORT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841"
+        },
+        {
+          "charge_description": "21:841 MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=MD.F--Marijuana-Sell, 21:952=MI.F--Marijuana-Import 48.90"
+        },
+        {
+          "charge_description": "21:841A=MD.F--Marijuana-Sell, Distribute, or Dispense, 21:952=MI.F--Marijuana-Import approximately 48.90 pounds"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Philip R. Martinez",
+          "judge_guid": "urn:entity:jud-100041483"
+        }
+      ]
+    }
+  ]
+}

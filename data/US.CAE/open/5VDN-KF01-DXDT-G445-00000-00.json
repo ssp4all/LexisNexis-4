@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_119mj33_CAED",
+  "case_key": "1:19mj33_CAED",
+  "case_lni": "5VDN-KF01-DXDT-G445-00000-00",
+  "case_number": "1:19mj33",
+  "case_title": "USA v. Robinson",
+  "case_info_full_case_name": "USA v. Robinson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robinson",
+  "case_date_filed": "2019-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jason Robinson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Felon in Possession of a Firearm"
+        },
+        {
+          "charge_offence_description": "Felon in Possession of a Firearm"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stanley A. Boone",
+          "judge_guid": "urn:entity:jud-100103342"
+        }
+      ]
+    }
+  ]
+}

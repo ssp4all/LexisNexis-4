@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILS_305cr30204_ILSD",
+  "case_key": "3:05cr30204_ILSD",
+  "case_lni": "7WBN-RPP0-Y892-B4NK-00000-00",
+  "case_number": "3:05cr30204",
+  "case_title": "USA v. Costello",
+  "case_info_full_case_name": "USA v. Costello",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Costello",
+  "case_date_filed": "2005-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Johnnie Martin Costello",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1341 2"
+        },
+        {
+          "charge_description": "18:1341 and 2 FRAUDS AND SWINDLES"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1343 2"
+        },
+        {
+          "charge_description": "18:1343 and 2 FRAUD BY WIRE, RADIO, OR TELEVISION"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "49:32703(2) 32709(b) 18:2"
+        },
+        {
+          "charge_description": "49:32703(2) and 32709(b) and 18:2 TAMPERING WITH MOTOR VEHICLE ODOMETERS"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "49:32705(a)(2) 32709(b) 18:2"
+        },
+        {
+          "charge_description": "49:32705(a)(2) and 32709(b) and 18:2 DISCLOSURE REQUIREMENTS ON TRANSFER OF MOTOR VEHICLES; false odometer statement"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William D. Stiehl",
+          "judge_guid": "urn:entity:jud-100019975"
+        }
+      ]
+    }
+  ]
+}

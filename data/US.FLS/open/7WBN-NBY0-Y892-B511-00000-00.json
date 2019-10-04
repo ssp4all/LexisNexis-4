@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_403m2459_flsd",
+  "case_key": "4:03m2459_flsd",
+  "case_lni": "7WBN-NBY0-Y892-B511-00000-00",
+  "case_number": "4:03m2459",
+  "case_title": "USA v. Vernier",
+  "case_info_full_case_name": "USA v. Vernier",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vernier",
+  "case_date_filed": "2003-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JONATHAN LEE VERNIER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Forcibly assault, resist, oppose, impede, intimidate and interfere with FBI Agents; Did knowingly and with intent to defraud, use one or more unauthorized access devices"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Hugh J. Morgan",
+          "judge_guid": "urn:entity:jud-100003806"
+        }
+      ]
+    }
+  ]
+}

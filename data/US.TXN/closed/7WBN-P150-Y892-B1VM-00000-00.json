@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_509cr47_TXND",
+  "case_key": "5:09cr47_TXND",
+  "case_lni": "7WBN-P150-Y892-B1VM-00000-00",
+  "case_number": "5:09cr47",
+  "case_title": "USA v. Eady",
+  "case_info_full_case_name": "USA v. Eady",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Eady",
+  "case_date_filed": "2009-07-08",
+  "case_status": "Closed",
+  "case_status_date": "03/25/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anderson Hatfield-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Jeffery Shane Eady",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:514(a)(2) - UTTERING FICTITIOUS OBLIGATIONS(1)"
+        },
+        {
+          "charge_disposition": "Forty-six (46) months imprisonment; five (5) year term of supervised release with standard and special conditions; Restitution $66,025.04; Mandatory special assessment $100.00. AMENDED JUDGMENT 5/14/2010 to add additional victim and amend total amount of restitution to $67,781.46. SECOND AMENDED JUDGMENT ON 10/15/2012: To grant Motion by Defendant to Reform Amended Judgment; Forty six (46) months imprisonment to be served concurrently with any sentences imposed in Case No. 20094244787 in Lubbock County, Texas; Case No. 14414 in Llano County, Texas; and Case No. F-09-0257-JP in Lamb County, Texas; JUDGMENT REVOKING SUPERVISED RELEASE ON 10/24/2014: Twelve (12) months term imprisonment in BOP; forty-eight (48) months term supervised release with standard and special conditions; Restitution $65,787.88; JUDGMENT REVOKING SUPERVISED RELEASE ON 07/21/2017: Eighteen Months (18)BOP Imprisonment to run consecutive with any sentences imposed in Case Nos. 2017-412,393 and 2017-412,394 pending in the 37th District Court of Lubbock County with no additional term of supervised release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:514(a)(2) - UTTERING FICTITIOUS OBLIGATIONS(2-3)"
+        },
+        {
+          "charge_disposition": "Oral motion dismissing by government; Oral Order granting"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam R Cummings",
+          "judge_guid": "urn:entity:jud-100045407"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D. Gordon Bryant, Jr",
+          "judge_guid": "urn:entity:jud-100124114"
+        }
+      ]
+    }
+  ]
+}

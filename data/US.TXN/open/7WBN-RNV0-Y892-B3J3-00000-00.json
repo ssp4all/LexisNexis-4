@@ -1,0 +1,89 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_304cr42_txnd",
+  "case_key": "3:04cr42_txnd",
+  "case_lni": "7WBN-RNV0-Y892-B3J3-00000-00",
+  "case_number": "3:04cr42",
+  "case_title": "USA v. Embrey et al",
+  "case_info_full_case_name": "USA v. Embrey et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Embrey et al",
+  "case_date_filed": "2004-02-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Micah Lee Embrey",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:471"
+        },
+        {
+          "charge_description": "18:471 Manufacturing Counterfeit Obligations of the United States (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472"
+        },
+        {
+          "charge_description": "18:472 Uttering a Counterfeit Obligation of the United States (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:472 2"
+        },
+        {
+          "charge_description": "18:472 and 2 Uttering a Counterfeit Obligation of the United States and Aiding and Abetting (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ed Kinkeade",
+          "judge_guid": "urn:entity:jud-100037301"
+        }
+      ]
+    },
+    {
+      "party_name": "Richard Scott Dawson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:472 2"
+        },
+        {
+          "charge_description": "18:472 and 2 Uttering a Counterfeit Obligation of the United States and Aiding and Abetting (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ed Kinkeade",
+          "judge_guid": "urn:entity:jud-100037301"
+        }
+      ]
+    }
+  ]
+}

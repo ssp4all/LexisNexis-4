@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_390cr87_ord",
+  "case_key": "3:90cr87_ord",
+  "case_lni": "7WBN-N170-Y892-B132-00000-00",
+  "case_number": "3:90cr87",
+  "case_title": "USA v. Hernandez",
+  "case_info_full_case_name": "USA v. Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hernandez",
+  "case_date_filed": "1990-03-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE VALENZUELA HERNANDEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 18:2 1 2)"
+        },
+        {
+          "charge_description": "21:841(a)(1) and 18:2 Distribution of Cocaine (counts 1 &; 2) (1-2)"
+        },
+        {
+          "charge_disposition": "SENTENCED 9/24/90. committed USBP for 37 months as to COunt ONe. As to Count 2, dft is committed to custody of US BUreau of prisons for 37 months to be served concurrently with that imposed in Count One. Upon release from imprisonmt, dft shall be on supervised release for 5 yrs, subject to standard cond in Prob Form 7A, and on following spec cond. 1) dft prohibited from possessing a firearm or other dangerous weapon. 2) dft shall participate in a substance abuse treatmt program as directed by the Por officer, which may include urinalysis testing to determine if dft has used drugs or alcohol. 3) dft shall submit to a search of his person,place of residence or vehicle at such times as conducted by the Prob Officer. 4) If deported, dft shall not return to U.S. without approval of Atty General and the US Atty for the dist of Oregon. Dft ord to pay spec assessment of $100.00 immediately. sgd Ma 9/26/90 m 9/27/90 (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Malcolm F Marsh",
+          "judge_guid": "urn:entity:jud-100041623"
+        }
+      ]
+    }
+  ]
+}

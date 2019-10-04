@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_418cr373_MOED",
+  "case_key": "4:18cr373_MOED",
+  "case_lni": "5WC9-HNB1-DXDT-G3XV-00000-00",
+  "case_number": "4:18cr373",
+  "case_title": "USA v. Minks",
+  "case_info_full_case_name": "USA v. Minks",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Minks",
+  "case_date_filed": "2018-05-02",
+  "case_status": "Closed",
+  "case_status_date": "05/17/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Allen Minks",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM(1r)"
+        },
+        {
+          "charge_disposition": "The defendant pleaded guilty to count one of the indictment on January 29, 2019. The defendant is hereby committed to the custody of the Federal Bureau of Prisons to be imprisoned for a total term of 21 months. Upon release from imprisonment, the defendant shall be on supervised release for a term of two years. The defendant shall pay to the United States a special assessment of $100, which shall be due immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Audrey G. Fleissig",
+          "judge_guid": "urn:entity:jud-100046365"
+        }
+      ]
+    }
+  ]
+}

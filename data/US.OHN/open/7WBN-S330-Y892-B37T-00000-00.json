@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHN_405cr321_OHND",
+  "case_key": "4:05cr321_OHND",
+  "case_lni": "7WBN-S330-Y892-B37T-00000-00",
+  "case_number": "4:05cr321",
+  "case_title": "United States of America v. Thomas",
+  "case_info_full_case_name": "United States of America v. Thomas",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Thomas",
+  "case_date_filed": "2005-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Roger S. Bamberger",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 Conspiracy to possess with intent to distribute and to distribute marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Solomon Oliver, Jr",
+          "judge_guid": "urn:entity:jud-100035923"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_101m2719_flsd",
+  "case_key": "1:01m2719_flsd",
+  "case_lni": "7WBN-DG50-Y892-B4DM-00000-00",
+  "case_number": "1:01m2719",
+  "case_title": "USA v. Hunter",
+  "case_info_full_case_name": "USA v. Hunter",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hunter",
+  "case_date_filed": "2001-05-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EUGENE HUNTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FELON IN POSSESSION OF A FIREARM/POSSESS FIREARM NOT REGISTERED TO DEFENDANT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert L. Dube",
+          "judge_guid": "urn:entity:jud-100056983"
+        }
+      ]
+    }
+  ]
+}

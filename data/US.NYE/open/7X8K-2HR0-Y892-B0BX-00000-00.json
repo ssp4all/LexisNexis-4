@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_109mj1198_NYED",
+  "case_key": "1:09mj1198_NYED",
+  "case_lni": "7X8K-2HR0-Y892-B0BX-00000-00",
+  "case_number": "1:09mj1198",
+  "case_title": "USA v. Leitch et al",
+  "case_info_full_case_name": "USA v. Leitch et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leitch et al",
+  "case_date_filed": "2009-12-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Amy Jennifer Leitch",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846-conspiracy"
+        },
+        {
+          "charge_description": "21 USC 846-conspiracy to distribute cocaine."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Roanne L. Mann",
+          "judge_guid": "urn:entity:jud-100029081"
+        }
+      ]
+    },
+    {
+      "party_name": "Kwame Richardson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846-conspiracy"
+        },
+        {
+          "charge_description": "21 USC 846-conspiracy to distribute cocaine."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Roanne L. Mann",
+          "judge_guid": "urn:entity:jud-100029081"
+        }
+      ]
+    }
+  ]
+}

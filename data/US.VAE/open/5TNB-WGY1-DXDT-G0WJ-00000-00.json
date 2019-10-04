@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_118mj532_VAED",
+  "case_key": "1:18mj532_VAED",
+  "case_lni": "5TNB-WGY1-DXDT-G0WJ-00000-00",
+  "case_number": "1:18mj532",
+  "case_title": "USA v. Kenneybrew",
+  "case_info_full_case_name": "USA v. Kenneybrew",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kenneybrew",
+  "case_date_filed": "2018-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Larry D. Kenneybrew",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:795 Unlawfully Make Photographs and Videos of Military Installation without Permission(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "18:1382 Trespassing(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

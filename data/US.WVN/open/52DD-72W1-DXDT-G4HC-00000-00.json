@@ -1,0 +1,83 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_311cr23_WVND",
+  "case_key": "3:11cr23_WVND",
+  "case_lni": "52DD-72W1-DXDT-G4HC-00000-00",
+  "case_number": "3:11cr23",
+  "case_title": "USA v. Miller et al",
+  "case_info_full_case_name": "USA v. Miller et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miller et al",
+  "case_date_filed": "2011-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Charles Franklin Miller",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (1-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John Preston Bailey",
+          "judge_guid": "urn:entity:jud-100052329"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Joel",
+          "judge_guid": "urn:entity:jud-100050421"
+        }
+      ]
+    },
+    {
+      "party_name": "Regina Lynn Cole",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (4-5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Controlled Substance-Sell/Distribute/Dispense (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John Preston Bailey",
+          "judge_guid": "urn:entity:jud-100052329"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Joel",
+          "judge_guid": "urn:entity:jud-100050421"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_208cr2765_NMD",
+  "case_key": "2:08cr2765_NMD",
+  "case_lni": "7WBN-D4C0-Y892-B4NF-00000-00",
+  "case_number": "2:08cr2765",
+  "case_title": "USA v. Urquizo-Puebla",
+  "case_info_full_case_name": "USA v. Urquizo-Puebla",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Urquizo-Puebla",
+  "case_date_filed": "2008-11-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Paige Messec",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cesar Ivan Urquizo-",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) and (b), RE-ENTRY OF A REMOVED ALIEN(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP-61 days or time served, Unsupervised release-1 year; SPA-waived; deft in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a)(1) &; (a)(2) Reentry After Deportation"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(1) & (a)(2) Reentry After Deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William P. Johnson",
+          "judge_guid": "urn:entity:jud-100050292"
+        }
+      ]
+    }
+  ]
+}

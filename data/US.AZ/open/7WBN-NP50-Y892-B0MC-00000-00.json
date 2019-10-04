@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_496m168_azd",
+  "case_key": "4:96m168_azd",
+  "case_lni": "7WBN-NP50-Y892-B0MC-00000-00",
+  "case_number": "4:96m168",
+  "case_title": "USA v. Lopez-Garcia, et al",
+  "case_info_full_case_name": "USA v. Lopez-Garcia, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Garcia, et al",
+  "case_date_filed": "1996-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC cja]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ELENA LOPEZ-GARCIA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Raymond T Terlizzi",
+          "judge_guid": "urn:entity:jud-100019251"
+        }
+      ]
+    },
+    {
+      "party_name": "JOSE SERGIO CHAVEZ-MEZA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Raymond T Terlizzi",
+          "judge_guid": "urn:entity:jud-100019251"
+        }
+      ]
+    },
+    {
+      "party_name": "JUAN DAVID GUERRA-",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Raymond T Terlizzi",
+          "judge_guid": "urn:entity:jud-100019251"
+        }
+      ]
+    }
+  ]
+}

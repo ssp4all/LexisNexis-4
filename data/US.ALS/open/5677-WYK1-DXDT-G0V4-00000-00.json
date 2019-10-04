@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_112cr177_ALSD",
+  "case_key": "1:12cr177_ALSD",
+  "case_lni": "5677-WYK1-DXDT-G0V4-00000-00",
+  "case_number": "1:12cr177",
+  "case_title": "USA v. Randolph",
+  "case_info_full_case_name": "USA v. Randolph",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Randolph",
+  "case_date_filed": "2012-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Latavia Randolph",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ACCESS DEVICE FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "MAIL FRAUD (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Callie V. S. Granade",
+          "judge_guid": "urn:entity:jud-100072751"
+        }
+      ]
+    }
+  ]
+}

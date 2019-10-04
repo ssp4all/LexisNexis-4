@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_102m660_hid",
+  "case_key": "1:02m660_hid",
+  "case_lni": "7WBN-F240-Y892-B03J-00000-00",
+  "case_number": "1:02m660",
+  "case_title": "USA v. Davis",
+  "case_info_full_case_name": "USA v. Davis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis",
+  "case_date_filed": "2002-08-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDWARD DAVIS JR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:115"
+        },
+        {
+          "charge_description": "18:115 threaten to assault and murder 4/11/02"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Barry M. Kurren",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_312mj5874_TXWD",
+  "case_key": "3:12mj5874_TXWD",
+  "case_lni": "57DK-W8X1-DXDT-G2V7-00000-00",
+  "case_number": "3:12mj5874",
+  "case_title": "USA v. Cortez Zetina",
+  "case_info_full_case_name": "USA v. Cortez Zetina",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cortez Zetina",
+  "case_date_filed": "2012-12-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Duty AUSA-El Paso",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miriam Cristina Cortez Zetina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:911.F---Impersonating Citizen of the U.S."
+        },
+        {
+          "charge_offence_description": "18:911.F---Impersonating Citizen of the U.S."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert F. Castaneda",
+          "judge_guid": "urn:entity:jud-100071767"
+        }
+      ]
+    }
+  ]
+}

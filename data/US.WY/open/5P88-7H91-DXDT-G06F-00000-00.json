@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_517po752_WYD",
+  "case_key": "5:17po752_WYD",
+  "case_lni": "5P88-7H91-DXDT-G06F-00000-00",
+  "case_number": "5:17po752",
+  "case_title": "USA v. Hester",
+  "case_info_full_case_name": "USA v. Hester",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hester",
+  "case_date_filed": "2017-08-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ethan M Hester",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "36CFR2.31(a)(2) Tampering or attempting to tamper with property  or real property, or moving, manipulating or setting in motion any parts thereof. (6540164)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "36CFR2.35(a)(2)(ii) Possession of alcohol by a minor (6540165)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

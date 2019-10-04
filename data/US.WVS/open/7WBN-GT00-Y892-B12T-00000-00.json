@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_207cr229_WVSD",
+  "case_key": "2:07cr229_WVSD",
+  "case_lni": "7WBN-GT00-Y892-B12T-00000-00",
+  "case_number": "2:07cr229",
+  "case_title": "United States of America v. Rapp",
+  "case_info_full_case_name": "United States of America v. Rapp",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Rapp",
+  "case_date_filed": "2007-12-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Lloyd E. Rapp DEFENDANT",
+      "party_description": "(no label)",
+      "charges": [
+        {
+          "charge_description": "CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE, methamphetamine. (1-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joseph R. Goodwin",
+          "judge_guid": "urn:entity:jud-100048828"
+        }
+      ]
+    }
+  ]
+}

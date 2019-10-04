@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_111cr53_HID",
+  "case_key": "1:11cr53_HID",
+  "case_lni": "520C-CY11-DXDT-G046-00000-00",
+  "case_number": "1:11cr53",
+  "case_title": "USA v. Burghardt",
+  "case_info_full_case_name": "USA v. Burghardt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Burghardt",
+  "case_date_filed": "2011-01-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James H. Burghardt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.P 286-132 286-136-operate 1246476 H30"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER-HRS Section 286-132 and 286-136-operate vehicle with canceled, suspended, or revoked driver's license, [11/3/2010], Marine Corps Base Hawaii, Citation: 1246476 H30 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "BARRY M. KURREN",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

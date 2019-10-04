@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_111cr503_MDD",
+  "case_key": "1:11cr503_MDD",
+  "case_lni": "53SY-CDK1-DXDT-G53X-00000-00",
+  "case_number": "1:11cr503",
+  "case_title": "USA v. Gavel",
+  "case_info_full_case_name": "USA v. Gavel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gavel",
+  "case_date_filed": "2011-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Sean B O Connell",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Theodore Gavel III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2252(a)(2)"
+        },
+        {
+          "charge_description": "18:2252(a)(2) DISTRIBUTION OF CHILD PORNOGRAPHY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2252(a)(4)(B)"
+        },
+        {
+          "charge_description": "18:2252(a)(4)(B) POSSESSION OF CHILD PORNOGRAPHY (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Benson Everett Legg",
+          "judge_guid": "urn:entity:jud-100030189"
+        }
+      ]
+    }
+  ]
+}

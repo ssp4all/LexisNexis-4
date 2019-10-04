@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAS_305mj508_IASD",
+  "case_key": "3:05mj508_IASD",
+  "case_lni": "7WBN-H7H0-Y892-B4D3-00000-00",
+  "case_number": "3:05mj508",
+  "case_title": "USA",
+  "case_info_full_case_name": "USA",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": null,
+  "case_date_filed": "2005-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Clifford R Cronk",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Donald Leroy Pilcher",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 5 21:841(a)(1)and"
+        },
+        {
+          "charge_description": "21:841A=CD.F Unlawfully possess with intent to distribute more than 5 kg of cocaine 21:841(a)(1)and (b)(1)(A)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas J. Shields",
+          "judge_guid": "urn:entity:jud-100021157"
+        }
+      ]
+    }
+  ]
+}

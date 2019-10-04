@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALS_116mj99_ALSD",
+  "case_key": "1:16mj99_ALSD",
+  "case_lni": "5M0C-6FK1-DXDT-G264-00000-00",
+  "case_number": "1:16mj99",
+  "case_title": "USA v. Norris",
+  "case_info_full_case_name": "USA v. Norris",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Norris",
+  "case_date_filed": "2016-10-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mario Devon Norris",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:111.F - Assaulting, resisting, or impeding certain officers or employees"
+        },
+        {
+          "charge_offence_description": "18:111.F - Assaulting, resisting, or impeding cert"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William E. Cassady",
+          "judge_guid": "urn:entity:jud-100063073"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_109cr264_HID",
+  "case_key": "1:09cr264_HID",
+  "case_lni": "7WBN-PT70-Y892-B39R-00000-00",
+  "case_number": "1:09cr264",
+  "case_title": "USA v. Mendoza",
+  "case_info_full_case_name": "USA v. Mendoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendoza",
+  "case_date_filed": "2009-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Charles Mendoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=CD.F-CONSPIRACY 21:846, 841(a)(1) 841(b)(1)(A)-Conspiracy"
+        },
+        {
+          "charge_description": "21:846=CD.F-CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE; 21:846, 841(a)(1) &; 841(b)(1)(A)-Conspiracy to distribute with possess with intent to distribute methamphetamine (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F-CONTROLLED 21:841(a)(1), 841(b)(1)(A), 18:2-Distribution"
+        },
+        {
+          "charge_description": "21:841A=CD.F-CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE; 21:841(a)(1), 841(b)(1)(A), 18:2-Distribution of methamphetamine (2-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "SUSAN OKI MOLLWAY",
+          "judge_guid": "urn:entity:jud-100004241"
+        }
+      ]
+    }
+  ]
+}

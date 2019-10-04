@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_204m8_alnd",
+  "case_key": "2:04m8_alnd",
+  "case_lni": "7WBN-GNW0-Y892-B3N6-00000-00",
+  "case_number": "2:04m8",
+  "case_title": "USA v. Chatman, et al",
+  "case_info_full_case_name": "USA v. Chatman, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chatman, et al",
+  "case_date_filed": "2004-01-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "REDERICK RAY CHATMAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(B)"
+        },
+        {
+          "charge_description": "criminal complaint 21:841(a)(1) and (b)(1)(B) distribute a cocaine, a controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Paul W Greene",
+          "judge_guid": "urn:entity:jud-100079482"
+        }
+      ]
+    },
+    {
+      "party_name": "ANITA TRINETTE CLARK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(B)"
+        },
+        {
+          "charge_description": "criminal complaint 21:841(a)(1) and (b)(1)(B) distribute a cocaine, a controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Paul W Greene",
+          "judge_guid": "urn:entity:jud-100079482"
+        }
+      ]
+    }
+  ]
+}

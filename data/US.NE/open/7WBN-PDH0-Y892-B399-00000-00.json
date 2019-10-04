@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_809mj108_NED",
+  "case_key": "8:09mj108_NED",
+  "case_lni": "7WBN-PDH0-Y892-B399-00000-00",
+  "case_number": "8:09mj108",
+  "case_title": "USA v. Reaves",
+  "case_info_full_case_name": "USA v. Reaves",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Reaves",
+  "case_date_filed": "2009-05-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Danny Reaves",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1951 18:2"
+        },
+        {
+          "charge_description": "18:1951 and 18:2 INTERFERENCE WITH COMMERCE BY THREATS AND VIOLENCE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F. A. Gossett",
+          "judge_guid": "urn:entity:jud-100048765"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_517mj104_GAMD",
+  "case_key": "5:17mj104_GAMD",
+  "case_lni": "5R37-RB31-DXDT-G18X-00000-00",
+  "case_number": "5:17mj104",
+  "case_title": "UNITED STATES OF AMERICA v. NOBLE",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. NOBLE",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "NOBLE",
+  "case_date_filed": "2017-12-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NATHANIEL FLORIN NOBLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:157.F - 18:157(1) and (3) BANKRUPTCY FRAUD and 18:152(d) FALSE BANKRUPTCY DECLARATION and 18:401(3) and 402 CRIMINAL CONTEMPT"
+        },
+        {
+          "charge_disposition": "RULE 5 REMOVAL to District of South Carolina (Columbia) 3:17-CR-989"
+        },
+        {
+          "charge_offence_description": "18:157.F - 18:157(1) and (3) BANKRUPTCY FRAUD and "
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

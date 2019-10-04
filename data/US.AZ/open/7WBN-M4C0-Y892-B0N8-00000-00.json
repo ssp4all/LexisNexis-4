@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_290m1556_azd",
+  "case_key": "2:90m1556_azd",
+  "case_lni": "7WBN-M4C0-Y892-B0N8-00000-00",
+  "case_number": "2:90m1556",
+  "case_title": "USA v. Zavaleta-Rincon",
+  "case_info_full_case_name": "USA v. Zavaleta-Rincon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zavaleta-Rincon",
+  "case_date_filed": "1991-01-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAFAEL MIGUEL ZAVALETA-RINCON",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

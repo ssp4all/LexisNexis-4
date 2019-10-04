@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_313mj292_VAED",
+  "case_key": "3:13mj292_VAED",
+  "case_lni": "58RP-Y311-DXDT-G3W9-00000-00",
+  "case_number": "3:13mj292",
+  "case_title": "USA v. McReynolds",
+  "case_info_full_case_name": "USA v. McReynolds",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McReynolds",
+  "case_date_filed": "2013-06-25",
+  "case_status": "Closed",
+  "case_status_date": "07/23/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael K. McReynolds",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C. 113 - Assault(1)"
+        },
+        {
+          "charge_disposition": "Probation - 12 months, Special Assessment - $10.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "38 Code of Federal Regulations Section 1.218(B)(11) - Disorderly conduct(2)"
+        },
+        {
+          "charge_disposition": "Dismissed by government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "38 Code of Federal Regulations Section 1.218(B)(39) - Possess knife over 3 inches long(3)"
+        },
+        {
+          "charge_disposition": "Dismissed by government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "M. Hannah Lauck",
+          "judge_guid": "urn:entity:jud-100008499"
+        }
+      ]
+    }
+  ]
+}

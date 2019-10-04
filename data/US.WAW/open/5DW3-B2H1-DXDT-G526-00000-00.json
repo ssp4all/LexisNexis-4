@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_214mj503_WAWD",
+  "case_key": "2:14mj503_WAWD",
+  "case_lni": "5DW3-B2H1-DXDT-G526-00000-00",
+  "case_number": "2:14mj503",
+  "case_title": "USA v. Bell",
+  "case_info_full_case_name": "USA v. Bell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bell",
+  "case_date_filed": "2014-12-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;PRO HAC VICE;ATTORNEY TO BE NOTICED;"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robyn Courtney Bell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(A) and 18:2 - Possession of Cocaine with Intent to Distribute"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) & (b)(1)(A) and 18:2 - Possession of "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John L Weinberg",
+          "judge_guid": "urn:entity:jud-100023142"
+        }
+      ]
+    }
+  ]
+}

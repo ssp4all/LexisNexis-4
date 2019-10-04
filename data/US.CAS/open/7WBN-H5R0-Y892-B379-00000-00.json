@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_303cr323_casd",
+  "case_key": "3:03cr323_casd",
+  "case_lni": "7WBN-H5R0-Y892-B379-00000-00",
+  "case_number": "3:03cr323",
+  "case_title": "USA v. Cuadras-Ortiz",
+  "case_info_full_case_name": "USA v. Cuadras-Ortiz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cuadras-Ortiz",
+  "case_date_filed": "2003-02-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1114-Assault (Felony)"
+        },
+        {
+          "charge_description": "18:1114-Assault on a Federal Officer (Felony) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marilyn L. Huff",
+          "judge_guid": "urn:entity:jud-100050993"
+        }
+      ]
+    }
+  ]
+}

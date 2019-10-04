@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_317mj3015_CASD",
+  "case_key": "3:17mj3015_CASD",
+  "case_lni": "5R8S-TX61-DXDT-G41D-00000-00",
+  "case_number": "3:17mj3015",
+  "case_title": "USA v. Blanchard",
+  "case_info_full_case_name": "USA v. Blanchard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blanchard",
+  "case_date_filed": "2017-08-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Eric George Roscoe",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Frantz Blanchard, II",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:113(a)(8); 18:113(a)(4) - Assault of a Dating Partner by Strangling (Felony); Assault by Striking and Beating (Misdemeanor)"
+        },
+        {
+          "charge_offence_description": "18:113(a)(8); 18:113(a)(4) - Assault of a Dating P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jan M. Adler",
+          "judge_guid": "urn:entity:jud-100074793"
+        }
+      ]
+    }
+  ]
+}

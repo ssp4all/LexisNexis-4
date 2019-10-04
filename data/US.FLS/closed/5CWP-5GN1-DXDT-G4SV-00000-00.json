@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_095mj4090_FLSD",
+  "case_key": "0:95mj4090_FLSD",
+  "case_lni": "5CWP-5GN1-DXDT-G4SV-00000-00",
+  "case_number": "0:95mj4090",
+  "case_title": "USA v. Black",
+  "case_info_full_case_name": "USA v. Black",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Black",
+  "case_date_filed": "1995-05-04",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Bruce Black",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violation of supervised release from Eastern District of New York (92-CR-813-001)"
+        },
+        {
+          "charge_offence_description": "Violation of supervised release from Eastern Distr"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lurana S. Snow",
+          "judge_guid": "urn:entity:jud-100020553"
+        }
+      ]
+    }
+  ]
+}

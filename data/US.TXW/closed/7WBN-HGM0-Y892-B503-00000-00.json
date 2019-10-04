@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_399cr778_txwd",
+  "case_key": "3:99cr778_txwd",
+  "case_lni": "7WBN-HGM0-Y892-B503-00000-00",
+  "case_number": "3:99cr778",
+  "case_title": "USA v. Griego-Portillo",
+  "case_info_full_case_name": "USA v. Griego-Portillo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Griego-Portillo",
+  "case_date_filed": "1999-05-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GUADALUPE GRIEGO-PORTILLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 841(b)(1)(C) CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE-Possesssion With Intent to Distribute Cocaine (1)"
+        },
+        {
+          "charge_disposition": "Deft. sent. to forty-six (46) mos. impri., three (3) yrs. sup. rel.; $50.00 special assessment imposed (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_196m230_mad",
+  "case_key": "1:96m230_mad",
+  "case_lni": "7WBN-GF30-Y892-B3N6-00000-00",
+  "case_number": "1:96m230",
+  "case_title": "USA v. Dalbo",
+  "case_info_full_case_name": "USA v. Dalbo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dalbo",
+  "case_date_filed": "1996-01-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ERIC DALBO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18 26:922(g) (1) 5861(d)"
+        },
+        {
+          "charge_description": "Title 18 and 26:922(g) (1) and 5861(d) Knowingly possess a firearm, in and affecting commerece, after having been convicted in court of a crime punishable by imprisonment for a term exceeding one year, and did knowingly possess a firearm which is not registered to him in the National Firearms Registration and Transfer Record"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Joyce L. Alexander",
+          "judge_guid": "urn:entity:jud-100072179"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_303m986_txwd",
+  "case_key": "3:03m986_txwd",
+  "case_lni": "7WBN-MNF0-Y892-B1X4-00000-00",
+  "case_number": "3:03m986",
+  "case_title": "USA v. Nieto-Esparza",
+  "case_info_full_case_name": "USA v. Nieto-Esparza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nieto-Esparza",
+  "case_date_filed": "2003-03-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SILVIA IVETTE NIETO-ESPARZA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "79.3"
+        },
+        {
+          "charge_description": "Possession with intent to distribute and importation of approx. 79.3 pounds of marijuana a Sch I Controlled Substance in violation of 21:841(a)(1),952(a)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

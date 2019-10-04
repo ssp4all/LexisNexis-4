@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAM_304cr130_LAMD",
+  "case_key": "3:04cr130_LAMD",
+  "case_lni": "7WBN-RNV0-Y892-B19N-00000-00",
+  "case_number": "3:04cr130",
+  "case_title": "USA v. Ferrell",
+  "case_info_full_case_name": "USA v. Ferrell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ferrell",
+  "case_date_filed": "2004-09-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL L FERRELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "46:2302.M"
+        },
+        {
+          "charge_description": "46:2302.M NEGLIGENT OPERATION OF VESSEL (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James J. Brady",
+          "judge_guid": "urn:entity:jud-100064473"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_217cr785_CACD",
+  "case_key": "2:17cr785_CACD",
+  "case_lni": "5R7N-N701-DXDT-G100-00000-00",
+  "case_number": "2:17cr785",
+  "case_title": "USA v. Maldonado",
+  "case_info_full_case_name": "USA v. Maldonado",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maldonado",
+  "case_date_filed": "2017-12-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alberto Maldonado",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a)(b)(2)"
+        },
+        {
+          "charge_offence_description": "8:1326(a)(b)(2)"
+        },
+        {
+          "charge_description": "8:1326(a)(b)(2): Illegal Alien Found in the United States Following Deportation(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John A. Kronstadt",
+          "judge_guid": "urn:entity:jud-100036850"
+        }
+      ]
+    }
+  ]
+}

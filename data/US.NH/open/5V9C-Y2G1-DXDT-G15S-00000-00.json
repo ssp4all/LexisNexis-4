@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NH_119cr20_NHD",
+  "case_key": "1:19cr20_NHD",
+  "case_lni": "5V9C-Y2G1-DXDT-G15S-00000-00",
+  "case_number": "1:19cr20",
+  "case_title": "USA v. Contreras",
+  "case_info_full_case_name": "USA v. Contreras",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Contreras",
+  "case_date_filed": "2019-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jennifer C. Davis",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eduardo Contreras",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 U.S.C. 846, 841(a)(1) CONSPIRACY TO DISTRIBUTE FENTANYL, A SCHEDULE II CONTROLLED SUBSTANCE"
+        },
+        {
+          "charge_offence_description": "21 U.S.C. 846, 841(a)(1) CONSPIRACY TO DISTRIBUTE "
+        },
+        {
+          "charge_description": "21 U.S.C. §§  846 and 841(a)(1) and (b)(1)(A)(vi)- Conspiracy to Distribute 400 Grams or More of Fentanyl(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Landya B. McCafferty",
+          "judge_guid": "urn:entity:jud-100018268"
+        }
+      ]
+    }
+  ]
+}

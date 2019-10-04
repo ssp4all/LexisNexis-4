@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_297m253_caed",
+  "case_key": "2:97m253_caed",
+  "case_lni": "7WBN-H260-Y892-B0NY-00000-00",
+  "case_number": "2:97m253",
+  "case_title": "USA v. Howard",
+  "case_info_full_case_name": "USA v. Howard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Howard",
+  "case_date_filed": "1997-07-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DERRY HOWARD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1028A.M"
+        },
+        {
+          "charge_description": "18:1028A.M Possession of a False Identification Document with Intent to Defraud the United States (2)"
+        },
+        {
+          "charge_disposition": "12 months in the custody of the Bureau of Prisons &; one year supervised release; fine is waived; S/A $25.00 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:641.M"
+        },
+        {
+          "charge_description": "18:641.M Theft of Government Property (1)"
+        },
+        {
+          "charge_disposition": "count 1 is dismissed pursuant to govt motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "complaint filed"
+        },
+        {
+          "charge_disposition": "count 1 is dismissed pursuant to govt motion (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gregory G Hollows",
+          "judge_guid": "urn:entity:jud-100064796"
+        }
+      ]
+    }
+  ]
+}

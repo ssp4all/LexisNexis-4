@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_298m80970_mied",
+  "case_key": "2:98m80970_mied",
+  "case_lni": "7WBN-H2N0-Y892-B2JJ-00000-00",
+  "case_number": "2:98m80970",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "1998-11-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC aus]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DIANN SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)"
+        },
+        {
+          "charge_description": "21:841(a) POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA"
+        },
+        {
+          "charge_disposition": "Motion and Order of Dismissal (-1)"
+        }
+      ]
+    }
+  ]
+}

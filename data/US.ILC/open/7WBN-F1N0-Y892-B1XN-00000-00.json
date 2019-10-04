@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_102cr10137_ilcd",
+  "case_key": "1:02cr10137_ilcd",
+  "case_lni": "7WBN-F1N0-Y892-B1XN-00000-00",
+  "case_number": "1:02cr10137",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2002-12-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "K Tate Chambers",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ARLON CRAIG SMITH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=ND.F 11/25/02 (5) (crack) 21USC841(a)(1) 841(b)(1)(B)."
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE: On or about 11/25/02 in Peoria County, dft did knowlingly possess more than five (5) grams of a mixture and substance containing cocaine base (crack) with intent to distribute in violation of 21 USC 841(a)(1) and 841(b)(1)(B). (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael M. Mihm",
+          "judge_guid": "urn:entity:jud-100025878"
+        }
+      ]
+    }
+  ]
+}

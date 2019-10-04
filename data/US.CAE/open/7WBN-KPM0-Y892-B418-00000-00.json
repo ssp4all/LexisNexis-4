@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_205mj240_CAED",
+  "case_key": "2:05mj240_CAED",
+  "case_lni": "7WBN-KPM0-Y892-B418-00000-00",
+  "case_number": "2:05mj240",
+  "case_title": "USA v. Huerta-Hernandez",
+  "case_info_full_case_name": "USA v. Huerta-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Huerta-Hernandez",
+  "case_date_filed": "2005-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Alfredo Augustin Huerta-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "KNOWINGLY RE-ENTERED THE UNITED STATES WITHOUT FIRST HAVING SECURED THE EXPRESS CONSENT OF THE ATTORNEY GENERAL OF THE SECRETARY OF HOMELAND SECURITY TO RE-APPLY FOR ADMISSION"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dale A. Drozd",
+          "judge_guid": "urn:entity:jud-100044182"
+        }
+      ]
+    }
+  ]
+}

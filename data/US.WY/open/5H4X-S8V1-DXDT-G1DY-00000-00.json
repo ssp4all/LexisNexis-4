@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_315po1225_WYD",
+  "case_key": "3:15po1225_WYD",
+  "case_lni": "5H4X-S8V1-DXDT-G1DY-00000-00",
+  "case_number": "3:15po1225",
+  "case_title": "USA vs Kenney",
+  "case_info_full_case_name": "USA vs Kenney",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kenney",
+  "case_date_filed": "2015-10-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Timothy J Kenney",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Violate the lawful order of a government employee or agent (4824014)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Threaten/resist/intimidate/intent interfere with a government employee (4824013)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Presence in park area when under the influence of alcohol or controlled sub (4824012)(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Mark L Carman",
+          "judge_guid": "urn:entity:jud-100104815"
+        }
+      ]
+    }
+  ]
+}

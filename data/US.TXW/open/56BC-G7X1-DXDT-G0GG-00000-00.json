@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_212cr1314_TXWD",
+  "case_key": "2:12cr1314_TXWD",
+  "case_lni": "56BC-G7X1-DXDT-G0GG-00000-00",
+  "case_number": "2:12cr1314",
+  "case_title": "USA v. Castillo Ruelas",
+  "case_info_full_case_name": "USA v. Castillo Ruelas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Castillo Ruelas",
+  "case_date_filed": "2012-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Christopher Michael Blanton",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sandra Irene Castillo Ruelas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:911.F"
+        },
+        {
+          "charge_description": "18:911.F IMPERSONATING CITIZEN OF THE U.S.-False Claim to United States Citizenship. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18USC911"
+        },
+        {
+          "charge_description": "18 USC 911 Impersonating Citizen of the United States"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Alia Moses",
+          "judge_guid": "urn:entity:jud-100014233"
+        }
+      ]
+    }
+  ]
+}

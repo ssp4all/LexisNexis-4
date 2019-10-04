@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_103m1203_vaed",
+  "case_key": "1:03m1203_vaed",
+  "case_lni": "7WBN-DH00-Y892-B2KP-00000-00",
+  "case_number": "1:03m1203",
+  "case_title": "USA v. Claus",
+  "case_info_full_case_name": "USA v. Claus",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Claus",
+  "case_date_filed": "2003-11-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JERRY R. CLAUS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(21:844A=MP.M) 21:844"
+        },
+        {
+          "charge_description": "(21:844A=MP.M) 21:844 Possession of Marijuana (Sch I) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_207cr273_NJD",
+  "case_key": "2:07cr273_NJD",
+  "case_lni": "7WBN-KVP0-Y892-B180-00000-00",
+  "case_number": "2:07cr273",
+  "case_title": "USA v. LOCKETT",
+  "case_info_full_case_name": "USA v. LOCKETT",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "LOCKETT",
+  "case_date_filed": "2007-03-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "KHALIQ H. LOCKETT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) UNLAWFUL TRANSPORT OF FIREARMS, ETC. (dof [12/14/06]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Katharine S. Hayden",
+          "judge_guid": "urn:entity:jud-100034973"
+        }
+      ]
+    }
+  ]
+}

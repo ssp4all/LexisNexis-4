@@ -1,0 +1,157 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_415cr638_TXSD",
+  "case_key": "4:15cr638_TXSD",
+  "case_lni": "5HHK-75C1-DXDT-G14J-00000-00",
+  "case_number": "4:15cr638",
+  "case_title": "USA v. Moore et al",
+  "case_info_full_case_name": "USA v. Moore et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moore et al",
+  "case_date_filed": "2015-12-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Appellate Division",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Marshal - H",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs - H",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - H",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Richard D Hanes",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jemerl Keion Moore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951 Aiding &; Abetting Interfernce with Commerce by Robbery; 18:924 Aiding &; Abetting Use and Carrying of Firearm in Furtherance of a Crime of Violence"
+        },
+        {
+          "charge_offence_description": "18:1951 Aiding & Abetting Interfernce with Commerc"
+        },
+        {
+          "charge_description": "AIDING AND ABETTING INTERFERENCE WITH COMMERCE BY ROBBERY(1)"
+        },
+        {
+          "charge_disposition": "77 mos custody (to run consecutive to Count 2); 2 yrs SRT (to run concurrently to Count 2); $100 SA; fine waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "AIDING AND ABETTING USE AND CARRYING OF A FIREARM IN FURTHERANCE OF A CRIME OF VIOLENCE(2)"
+        },
+        {
+          "charge_disposition": "84 mos custody (to run consecutive to Count 2); 2 yrs SRT (to run concurrently to Count 2); $100 SA; fine waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gray H Miller",
+          "judge_guid": "urn:entity:jud-100036212"
+        }
+      ]
+    },
+    {
+      "party_name": "Danyell Bernice Green",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951 Aiding &; Abetting Interfernce with Commerce by Robbery; 18:924 Aiding &; Abetting Use and Carrying of Firearm in Furtherance of a Crime of Violence"
+        },
+        {
+          "charge_offence_description": "18:1951 Aiding & Abetting Interfernce with Commerc"
+        },
+        {
+          "charge_description": "AIDING AND ABETTING INTERFERENCE WITH COMMERCE BY ROBBERY(1)"
+        },
+        {
+          "charge_disposition": "78 mos custody; 2 yrs SRT; $100 SA; fine waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gray H Miller",
+          "judge_guid": "urn:entity:jud-100036212"
+        }
+      ]
+    },
+    {
+      "party_name": "Donte Dewayne Anderson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951 Aiding &; Abetting Interfernce with Commerce by Robbery; 18:924 Aiding &; Abetting Use and Carrying of Firearm in Furtherance of a Crime of Violence"
+        },
+        {
+          "charge_offence_description": "18:1951 Aiding & Abetting Interfernce with Commerc"
+        },
+        {
+          "charge_description": "AIDING AND ABETTING INTERFERENCE WITH COMMERCE BY ROBBERY(1)"
+        },
+        {
+          "charge_disposition": "41 mos custody (to run consecutively to Count 2); 3 yrs SRT (to run concurrently to Count 2); $100 SA; fine waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "AIDING AND ABETTING USE AND CARRYING OF A FIREARM IN FURTHERANCE OF A CRIME OF VIOLENCE(2)"
+        },
+        {
+          "charge_disposition": "84 mos custody (to run consecutively to Count 1); 3 yrs SRT (to run concurrently to Count 1); $100 SA; fine waived"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Gray H Miller",
+          "judge_guid": "urn:entity:jud-100036212"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_192cr897_hid",
+  "case_key": "1:92cr897_hid",
+  "case_lni": "7WBN-PVW0-Y892-B15V-00000-00",
+  "case_number": "1:92cr897",
+  "case_title": "USA v. Tanupo",
+  "case_info_full_case_name": "USA v. Tanupo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tanupo",
+  "case_date_filed": "1992-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JERRY L. TANUPO",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Daral G. Conklin",
+          "judge_guid": "urn:entity:jud-100044285"
+        }
+      ]
+    }
+  ]
+}

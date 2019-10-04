@@ -1,0 +1,141 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_107cr20700_FLSD",
+  "case_key": "1:07cr20700_FLSD",
+  "case_lni": "7WBN-F440-Y892-B0CS-00000-00",
+  "case_number": "1:07cr20700",
+  "case_title": "USA v. Robinson et al",
+  "case_info_full_case_name": "USA v. Robinson et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robinson et al",
+  "case_date_filed": "2007-08-31",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Peter Michael Robinson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES 18:371.F (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1542.F"
+        },
+        {
+          "charge_description": "FALSE STMT APPLICATION PASSPORT 18:1542.F (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:911.F"
+        },
+        {
+          "charge_description": "IMPERSONATING CITIZEN OF THE U.S. 18:911.F (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY 18:1001.F (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS 8:1326A.F (5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1542.F"
+        },
+        {
+          "charge_description": "18:1542.F (False Statement Application for Passport)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James I. Cohn",
+          "judge_guid": "urn:entity:jud-100062368"
+        }
+      ]
+    },
+    {
+      "party_name": "Leo A. Simmons",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DEFRAUD THE UNITED STATES 18:371.F (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1542.F"
+        },
+        {
+          "charge_description": "FALSE STMT APPLICATION PASSPORT 18:1542.F (6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "STATEMENTS OR ENTRIES GENERALLY 18:1001.F (7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001.F"
+        },
+        {
+          "charge_description": "18:1001.F FALSE STATEMENTS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James I. Cohn",
+          "judge_guid": "urn:entity:jud-100062368"
+        }
+      ]
+    }
+  ]
+}

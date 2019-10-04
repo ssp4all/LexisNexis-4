@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_709mj2480_TXSD",
+  "case_key": "7:09mj2480_TXSD",
+  "case_lni": "7WBN-PBF0-Y892-B0DV-00000-00",
+  "case_number": "7:09mj2480",
+  "case_title": "USA v. Cardoza",
+  "case_info_full_case_name": "USA v. Cardoza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cardoza",
+  "case_date_filed": "2009-04-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose A. Cardoza",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

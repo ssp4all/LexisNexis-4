@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_308mj70185_CAND",
+  "case_key": "3:08mj70185_CAND",
+  "case_lni": "7WBN-MYG0-Y892-B221-00000-00",
+  "case_number": "3:08mj70185",
+  "case_title": "USA v. Mendez",
+  "case_info_full_case_name": "USA v. Mendez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mendez",
+  "case_date_filed": "2008-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Wendy May Thomas",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maximina Banos Mendez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1542"
+        },
+        {
+          "charge_description": "18:1542 willfully and knowingly made false statement in application for passport with intent to induce or secure issuance of passport"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

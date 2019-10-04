@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_006cr128_SCD",
+  "case_key": "0:06cr128_SCD",
+  "case_lni": "7WBN-G0Y0-Y892-B4WX-00000-00",
+  "case_number": "0:06cr128",
+  "case_title": "USA v. Beer",
+  "case_info_full_case_name": "USA v. Beer",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Beer",
+  "case_date_filed": "2006-02-08",
+  "case_status": "Closed",
+  "case_status_date": "01/17/2007",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "C Todd Hagins",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Timmy Ray Beer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1); 924(a)(2); and 924(e)(1) - Possession of firearms and ammunition which had been transported in interstate commerce by convicted felon(1)"
+        },
+        {
+          "charge_disposition": "Defendant is placed on probation for 36 months with standard and special conditions to include home confinement without electronic monitoring for 6 months. Special Assessment of 100.00 due immediately."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Matthew J Perry, Jr",
+          "judge_guid": "urn:entity:jud-100095324"
+        }
+      ]
+    }
+  ]
+}

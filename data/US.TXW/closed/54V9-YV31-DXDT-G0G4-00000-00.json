@@ -1,0 +1,65 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_712cr53_TXWD",
+  "case_key": "7:12cr53_TXWD",
+  "case_lni": "54V9-YV31-DXDT-G0G4-00000-00",
+  "case_number": "7:12cr53",
+  "case_title": "USA v. Rodriguez-De Los Reyes",
+  "case_info_full_case_name": "USA v. Rodriguez-De Los Reyes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rodriguez-De Los Reyes",
+  "case_date_filed": "2012-01-25",
+  "case_status": "Closed",
+  "case_status_date": "12/24/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "William R. Tatum",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Moises Rodriguez-De Los Reyes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS - defendant, who had been previously deported, entered, attempted to enter, and was found in the United States in violation of Title 8, USC 1326(a).(1)"
+        },
+        {
+          "charge_disposition": "It is ordered the defendant shall pay a special assessment of $100.00. The defendant is placed on probation for 3 years."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326 - On or about December 28, 2011 in Crane County, in the Western District of Texas, defendant, an alien who had previously been deported, did illegally re-enter the United States in violation of Title 8, USC 1326(a)."
+        },
+        {
+          "charge_offence_description": "8:1326 - On or about December 28, 2011 in Crane Co"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Robert A. Junell",
+          "judge_guid": "urn:entity:jud-100050088"
+        }
+      ]
+    }
+  ]
+}

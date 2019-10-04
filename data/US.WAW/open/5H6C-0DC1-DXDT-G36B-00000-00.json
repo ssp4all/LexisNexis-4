@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_315po7881_WAWD",
+  "case_key": "3:15po7881_WAWD",
+  "case_lni": "5H6C-0DC1-DXDT-G36B-00000-00",
+  "case_number": "3:15po7881",
+  "case_title": "USA vs Mcclain",
+  "case_info_full_case_name": "USA vs Mcclain",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mcclain",
+  "case_date_filed": "2015-10-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jason D Mcclain",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Narcotics possession (3102250)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "J Richard Creatura",
+          "judge_guid": "urn:entity:jud-100057943"
+        }
+      ]
+    }
+  ]
+}

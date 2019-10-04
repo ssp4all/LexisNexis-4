@@ -1,0 +1,80 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_311cr9_WVND",
+  "case_key": "3:11cr9_WVND",
+  "case_lni": "5253-HVV1-DXDT-G0NW-00000-00",
+  "case_number": "3:11cr9",
+  "case_title": "USA v. Baker et al",
+  "case_info_full_case_name": "USA v. Baker et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Baker et al",
+  "case_date_filed": "2011-01-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kandase Nichole Baker",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John Preston Bailey",
+          "judge_guid": "urn:entity:jud-100052329"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Joel",
+          "judge_guid": "urn:entity:jud-100050421"
+        }
+      ]
+    },
+    {
+      "party_name": "Devon Anthony Gordon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (2-3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "John Preston Bailey",
+          "judge_guid": "urn:entity:jud-100052329"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David J. Joel",
+          "judge_guid": "urn:entity:jud-100050421"
+        }
+      ]
+    }
+  ]
+}

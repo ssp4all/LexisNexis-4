@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_794m900_txsd",
+  "case_key": "7:94m900_txsd",
+  "case_lni": "7WBN-J410-Y892-B12K-00000-00",
+  "case_number": "7:94m900",
+  "case_title": "USA v. Vega-Manzinni",
+  "case_info_full_case_name": "USA v. Vega-Manzinni",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vega-Manzinni",
+  "case_date_filed": "1994-09-13",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALEJANDRO VEGA-MANZINNI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325"
+        },
+        {
+          "charge_description": "8:1325 IMMIGRATION LAWS, ILLEGAL ENTRY (1)"
+        },
+        {
+          "charge_disposition": "Ct. 1: 90 days ESS 3 yrs probation w/o supervision with $10 S/A. Ct. 2: 3 yrs probation w/o supervision and $25 S/A. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:1028"
+        },
+        {
+          "charge_description": "18:1028 FALSE CLAIMS &; STATEMENTS (2)"
+        },
+        {
+          "charge_disposition": "Ct. 1: 90 days ESS 3 yrs probation w/o supervision with $10 S/A. Ct. 2: 3 yrs probation w/o supervision and $25 S/A. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "Illegal entry and Possession of false identification document w/intent to defraud the US"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter Edward Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    }
+  ]
+}

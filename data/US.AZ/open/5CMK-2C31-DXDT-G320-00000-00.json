@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_414mj10719_AZD",
+  "case_key": "4:14mj10719_AZD",
+  "case_lni": "5CMK-2C31-DXDT-G320-00000-00",
+  "case_number": "4:14mj10719",
+  "case_title": "USA v. Guzman-Araujo",
+  "case_info_full_case_name": "USA v. Guzman-Araujo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guzman-Araujo",
+  "case_date_filed": "2014-07-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jorge Guzman-Araujo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CT 1 8:1326(b)(2) Illegal Re Entry; CT 2 8:1325 Illegal Entry"
+        },
+        {
+          "charge_offence_description": "CT 1 8:1326(b)(2) Illegal Re Entry; CT 2 8:1325 Il"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

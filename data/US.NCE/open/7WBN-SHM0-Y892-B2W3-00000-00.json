@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_702m32_nced",
+  "case_key": "7:02m32_nced",
+  "case_lni": "7WBN-SHM0-Y892-B2W3-00000-00",
+  "case_number": "7:02m32",
+  "case_title": "USA v. Crute",
+  "case_info_full_case_name": "USA v. Crute",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Crute",
+  "case_date_filed": "2002-01-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Kasey C. Shidel",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CRYSTAL A. CRUTE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.M"
+        },
+        {
+          "charge_description": "21:844A=MP.M MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7990.P 90-113.22"
+        },
+        {
+          "charge_description": "18:13-7990.P MISCELLANEOUS GENERAL OFFENSES, OTHER: POSSESSION OF DRUG PARAPHERNALIA IN VIOLATION OF NCGS 90-113.22 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William N. Mason",
+          "judge_guid": "urn:entity:jud-100027235"
+        }
+      ]
+    }
+  ]
+}

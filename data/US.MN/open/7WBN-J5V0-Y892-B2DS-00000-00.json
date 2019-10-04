@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_000cr261_mnd",
+  "case_key": "0:00cr261_mnd",
+  "case_lni": "7WBN-J5V0-Y892-B2DS-00000-00",
+  "case_number": "0:00cr261",
+  "case_title": "USA v. Snyder",
+  "case_info_full_case_name": "USA v. Snyder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Snyder",
+  "case_date_filed": "2000-09-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Emilio David Reyes",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TODD LELAND SNYDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) FELON IN POSSESSION OF A FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2) FELON IN POSSESSION OF AMMUNITION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ann D Montgomery",
+          "judge_guid": "urn:entity:jud-100004133"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Raymond L Erickson",
+          "judge_guid": "urn:entity:jud-100056409"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_503cr665_txsd",
+  "case_key": "5:03cr665_txsd",
+  "case_lni": "7WBN-HTV0-Y892-B4PM-00000-00",
+  "case_number": "5:03cr665",
+  "case_title": "USA v. Flowe",
+  "case_info_full_case_name": "USA v. Flowe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Flowe",
+  "case_date_filed": "2003-04-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FELIX QUIROZ-BLANCAS",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    },
+    {
+      "party_name": "JUAN RAMON CAMILO-DEARCIA",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    },
+    {
+      "party_name": "MICHAEL DAVID FLOWE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Cnt(s) 1&;2: 8:1324.F 5 3"
+        },
+        {
+          "charge_description": "Cnt(s) 1&;2: 8:1324.F Transporting undocumented aliens within the US. Penalty: 5 yrs and/or $250, 000.00, $100 CVF for ea ct, 3 yrs TSR. (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Transporting illegal aliens within the United States. [5:03-m-1713]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

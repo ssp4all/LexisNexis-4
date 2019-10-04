@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_210mj2120_NMD",
+  "case_key": "2:10mj2120_NMD",
+  "case_lni": "8023-8820-Y892-B2N4-00000-00",
+  "case_number": "2:10mj2120",
+  "case_title": "USA v. Contreras-Venegas",
+  "case_info_full_case_name": "USA v. Contreras-Venegas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Contreras-Venegas",
+  "case_date_filed": "2010-07-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose Alberto Contreras-Venegas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546(a)"
+        },
+        {
+          "charge_description": "18:1546(a) False Documents"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William P Lynch",
+          "judge_guid": "urn:entity:jud-100038057"
+        }
+      ]
+    }
+  ]
+}

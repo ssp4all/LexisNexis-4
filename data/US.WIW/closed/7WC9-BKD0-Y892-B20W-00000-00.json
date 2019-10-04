@@ -1,0 +1,141 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_309cr113_WIWD",
+  "case_key": "3:09cr113_WIWD",
+  "case_lni": "7WC9-BKD0-Y892-B20W-00000-00",
+  "case_number": "3:09cr113",
+  "case_title": "United States of America v. Green, Walter et al",
+  "case_info_full_case_name": "United States of America v. Green, Walter et al",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Green, Walter et al",
+  "case_date_filed": "2009-08-06",
+  "case_status": "Closed",
+  "case_status_date": "01/14/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jeffrey M. Anderson",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Walter E. Green",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1-2)"
+        },
+        {
+          "charge_disposition": "CBOP: 135 Months; 3 years S/R; $200 C/A"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(3)"
+        },
+        {
+          "charge_disposition": "Dismissed by government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(6)"
+        },
+        {
+          "charge_disposition": "Dismissed by government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Barbara B. Crabb",
+          "judge_guid": "urn:entity:jud-100045645"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    },
+    {
+      "party_name": "Eric Dixon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(3)"
+        },
+        {
+          "charge_disposition": "CBOP: 27 months; SR: 3 years; CA: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Barbara B. Crabb",
+          "judge_guid": "urn:entity:jud-100045645"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    },
+    {
+      "party_name": "Derek Farmer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "78 mos. CBOP, 3 yrs. S/R, $100 C/A"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(4-5)"
+        },
+        {
+          "charge_disposition": "Dismissed on Govt. Motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Barbara B. Crabb",
+          "judge_guid": "urn:entity:jud-100045645"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    }
+  ]
+}

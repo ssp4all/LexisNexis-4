@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_502cr430_nynd",
+  "case_key": "5:02cr430_nynd",
+  "case_lni": "7WBN-NTH0-Y892-B4K9-00000-00",
+  "case_number": "5:02cr430",
+  "case_title": "USA v. Aquino-Gallo",
+  "case_info_full_case_name": "USA v. Aquino-Gallo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aquino-Gallo",
+  "case_date_filed": "2002-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ELVIN AQUINO-GALLO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325A.F-REENTRY 11, 2002,"
+        },
+        {
+          "charge_description": "8:1325A.F-REENTRY OF DEPORTED ALIENS-On or about September 11, 2002, the deft having been previously deported and removed from the US knowingly and unlawfully was found in the US, the said deft having not obtained the consent of the Attorney General of the US for readmission into the US. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1028A.F 2002,"
+        },
+        {
+          "charge_description": "18:1028A.F FRAUD WITH IDENTIFICATION DOCUMENTS-On or about September 2002, the deft did knowingly possess an identification document that appeared to be an identification document of the US, a Social Security Card which document was prduced w/o lawful entry, knowing that such document was produced w/o such authority. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David N. Hurd",
+          "judge_guid": "urn:entity:jud-100050886"
+        }
+      ]
+    }
+  ]
+}

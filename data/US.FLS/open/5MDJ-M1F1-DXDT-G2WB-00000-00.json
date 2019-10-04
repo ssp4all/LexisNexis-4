@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_916mj8444_FLSD",
+  "case_key": "9:16mj8444_FLSD",
+  "case_lni": "5MDJ-M1F1-DXDT-G2WB-00000-00",
+  "case_number": "9:16mj8444",
+  "case_title": "USA v. Thelusma",
+  "case_info_full_case_name": "USA v. Thelusma",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thelusma",
+  "case_date_filed": "2016-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Patrick Thelusma",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        },
+        {
+          "charge_offence_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William Matthewman",
+          "judge_guid": "urn:entity:jud-100102141"
+        }
+      ]
+    }
+  ]
+}

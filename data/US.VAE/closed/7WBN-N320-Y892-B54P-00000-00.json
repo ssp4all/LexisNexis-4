@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_394m440_vaed",
+  "case_key": "3:94m440_vaed",
+  "case_lni": "7WBN-N320-Y892-B54P-00000-00",
+  "case_number": "3:94m440",
+  "case_title": "USA v. May",
+  "case_info_full_case_name": "USA v. May",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "May",
+  "case_date_filed": "1994-11-08",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SUSAN S. MAY",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David G. Lowe",
+          "judge_guid": "urn:entity:jud-100042057"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_310mj3011_TXWD",
+  "case_key": "3:10mj3011_TXWD",
+  "case_lni": "7YSC-N7C0-Y892-B3HW-00000-00",
+  "case_number": "3:10mj3011",
+  "case_title": "USA v. CASTRELLON-Hernandez",
+  "case_info_full_case_name": "USA v. CASTRELLON-Hernandez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "CASTRELLON-Hernandez",
+  "case_date_filed": "2010-05-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus CASTRELLON-Hernandez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "_"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard P. Mesa",
+          "judge_guid": "urn:entity:jud-100036384"
+        }
+      ]
+    }
+  ]
+}

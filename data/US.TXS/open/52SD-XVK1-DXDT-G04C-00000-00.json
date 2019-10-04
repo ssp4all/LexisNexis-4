@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_711cr689_TXSD",
+  "case_key": "7:11cr689_TXSD",
+  "case_lni": "52SD-XVK1-DXDT-G04C-00000-00",
+  "case_number": "7:11cr689",
+  "case_title": "USA v. Acosta",
+  "case_info_full_case_name": "USA v. Acosta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Acosta",
+  "case_date_filed": "2011-05-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Mc",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - Mc",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cesar Acosta",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "100 5 40 4 5"
+        },
+        {
+          "charge_description": "Conspiracy to possess with intent to distribute in excess of 100 kilograms of marijuana. PENALTY: 5 to 40 yrs and/or $2 million, $100 CVF, at least 4 yrs min, 5 yrs max SRT (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "100 5 40 4 5"
+        },
+        {
+          "charge_description": "Possess with intent to distribute in excess of 100 kilograms of marijuana. PENALTY: 5 to 40 yrs and/or $2 million, $100 CVF, at least 4 yrs min, 5 yrs max SRT (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "21:841A=MD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    }
+  ]
+}

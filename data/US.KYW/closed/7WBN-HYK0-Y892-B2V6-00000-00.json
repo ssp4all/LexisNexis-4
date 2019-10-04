@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_595m536_kywd",
+  "case_key": "5:95m536_kywd",
+  "case_lni": "7WBN-HYK0-Y892-B2V6-00000-00",
+  "case_number": "5:95m536",
+  "case_title": "USA v. Curtin",
+  "case_info_full_case_name": "USA v. Curtin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Curtin",
+  "case_date_filed": "1995-11-15",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALICIA CURTIN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7990.P 55-8-104)"
+        },
+        {
+          "charge_description": "18:13-7990.P (TCA 55-8-104) OBEDIENCE TO POLICE OFFICERS (1s)"
+        },
+        {
+          "charge_disposition": "$50 Fine + $5 SPA (Paid in court on 12/14/1995 by check, check #0893; Receipt #462339) (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-7990.M 39-16-603)"
+        },
+        {
+          "charge_description": "18:13-7990.M (TCA 39-16-603) EVADE ARREST (1)"
+        },
+        {
+          "charge_disposition": "DISMISSED on Motion of the United States (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7950.P 39-17-305)"
+        },
+        {
+          "charge_description": "18:13-7950.P (TCA 39-17-305) DISORDERLY CONDUCT (2)"
+        },
+        {
+          "charge_disposition": "DISMISSED on Motion of the United States (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "W. David King",
+          "judge_guid": "urn:entity:jud-100040342"
+        }
+      ]
+    }
+  ]
+}

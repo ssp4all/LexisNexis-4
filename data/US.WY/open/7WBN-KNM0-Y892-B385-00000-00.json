@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WY_205cr263_WYD",
+  "case_key": "2:05cr263_WYD",
+  "case_lni": "7WBN-KNM0-Y892-B385-00000-00",
+  "case_number": "2:05cr263",
+  "case_title": "USA v. Makeshine",
+  "case_info_full_case_name": "USA v. Makeshine",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Makeshine",
+  "case_date_filed": "2005-11-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Corey Davis Makeshine",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18USC1153; 6-3-301(a)"
+        },
+        {
+          "charge_description": "BURGLARY/ROBBERY WITHIN INDIAN COUNTRY (18 USC 1153; Wy Stat 6-3-301(a) and (b)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(3)"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (Unlawful user of a controlled substance in possession of a firearm 18:922(g)(3) and 924(a)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Alan B Johnson",
+          "judge_guid": "urn:entity:jud-100050413"
+        }
+      ]
+    }
+  ]
+}

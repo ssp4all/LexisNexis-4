@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_201cr116_vaed",
+  "case_key": "2:01cr116_vaed",
+  "case_lni": "7WBN-GJX0-Y892-B0YB-00000-00",
+  "case_number": "2:01cr116",
+  "case_title": "USA v. Holden",
+  "case_info_full_case_name": "USA v. Holden",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Holden",
+  "case_date_filed": "2001-07-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CAROL A. HOLDEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "T.18:371 (18:1001.F)-Conspiracy 1997) T.18:1001(a)(2))"
+        },
+        {
+          "charge_description": "T.18:371 (18:1001.F)-Conspiracy to make false, fradulent &; fictitious material statement &; representation in a matter within the jurisdiction of the Department of Defense, a department of the United States (date offense concluded: Late 1997) (re: T.18:1001(a)(2)) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jerome B. Friedman",
+          "judge_guid": "urn:entity:jud-100055267"
+        }
+      ]
+    }
+  ]
+}

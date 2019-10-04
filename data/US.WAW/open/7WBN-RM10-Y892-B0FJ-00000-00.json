@@ -1,0 +1,113 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_301cr5408_wawd",
+  "case_key": "3:01cr5408_wawd",
+  "case_lni": "7WBN-RM10-Y892-B0FJ-00000-00",
+  "case_number": "3:01cr5408",
+  "case_title": "USA v. Devone, et al",
+  "case_info_full_case_name": "USA v. Devone, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Devone, et al",
+  "case_date_filed": "2001-06-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Shawn W Gordon",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER G DEVONE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.M"
+        },
+        {
+          "charge_description": "21:844A=MP.M MARIJUANA-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7220.P DWLS-3rd"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES to wit: DWLS-3rd (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:1382.P"
+        },
+        {
+          "charge_description": "18:1382.P ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ricardo S. Martinez",
+          "judge_guid": "urn:entity:jud-100009153"
+        }
+      ]
+    },
+    {
+      "party_name": "DASHAWN A GLENN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1382.P"
+        },
+        {
+          "charge_description": "18:1382.P ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ricardo S. Martinez",
+          "judge_guid": "urn:entity:jud-100009153"
+        }
+      ]
+    },
+    {
+      "party_name": "JERRELL L JONES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1382.P"
+        },
+        {
+          "charge_description": "18:1382.P ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ricardo S. Martinez",
+          "judge_guid": "urn:entity:jud-100009153"
+        }
+      ]
+    }
+  ]
+}

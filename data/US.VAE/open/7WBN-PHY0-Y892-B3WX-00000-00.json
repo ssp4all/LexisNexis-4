@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_100m274_vaed",
+  "case_key": "1:00m274_vaed",
+  "case_lni": "7WBN-PHY0-Y892-B3WX-00000-00",
+  "case_number": "1:00m274",
+  "case_title": "USA v. Altimus",
+  "case_info_full_case_name": "USA v. Altimus",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Altimus",
+  "case_date_filed": "2000-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Scott E. Mulligan",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BENJAMIN P. ALTIMUS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(18:13-7210.M) 18:13 18.2-266(i) 0.08%"
+        },
+        {
+          "charge_description": "(18:13-7210.M) 18:13 assim. 18.2-266(i) VA Driving While intoxicated w/ba cof 0.08% or more(convicted on one or more prior w/in a period of ten years) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7210.M) 18:13 18.2-266(ii)"
+        },
+        {
+          "charge_description": "(18:13-7210.M) 18:13 assim. 18.2-266(ii) VA Driving Under the Influence(convicted of one prior offense w/in a period of ten years) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.P) 18:13 46.2-301"
+        },
+        {
+          "charge_description": "(18:13-7220.P) 18:13 assim. 46.2-301 VA Operating After Suspension (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "(18:13-7220.P) 32CFRSEC 634.25(f) 46.2-804"
+        },
+        {
+          "charge_description": "(18:13-7220.P) 32 CFR SEC 634.25(f) assim. 46.2-804 VA Failure to stay in one lane (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

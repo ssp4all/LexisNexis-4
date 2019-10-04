@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_215sw402_CAED",
+  "case_key": "2:15sw402_CAED",
+  "case_lni": "5GFR-4VV1-DXDT-G3JB-00000-00",
+  "case_number": "2:15sw402",
+  "case_title": "USA v. Singh et al",
+  "case_info_full_case_name": "USA v. Singh et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Singh et al",
+  "case_date_filed": "2015-07-15",
+  "case_status": "Closed",
+  "case_status_date": "08/03/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Pavitar Dosangh Singh",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edmund F. Brennan",
+          "judge_guid": "urn:entity:jud-100060822"
+        }
+      ]
+    },
+    {
+      "party_name": "707-590-5118",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edmund F. Brennan",
+          "judge_guid": "urn:entity:jud-100060822"
+        }
+      ]
+    },
+    {
+      "party_name": "916-553-4208",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edmund F. Brennan",
+          "judge_guid": "urn:entity:jud-100060822"
+        }
+      ]
+    }
+  ]
+}

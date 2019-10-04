@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_116po5741_MDD",
+  "case_key": "1:16po5741_MDD",
+  "case_lni": "5K9X-BDV1-DXDT-G3PY-00000-00",
+  "case_number": "1:16po5741",
+  "case_title": "USA vs Aryeh",
+  "case_info_full_case_name": "USA vs Aryeh",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aryeh",
+  "case_date_filed": "2016-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Mordechai Aryeh",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PARKING WITHOUT A PERMIT OR PARKING IN UNAUTHORIZED LOCATIONS (5172788)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "A. David Copperthite",
+          "judge_guid": "urn:entity:jud-100122711"
+        }
+      ]
+    }
+  ]
+}

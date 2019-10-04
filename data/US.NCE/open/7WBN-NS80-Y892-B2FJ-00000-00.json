@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_499m71_nced",
+  "case_key": "4:99m71_nced",
+  "case_lni": "7WBN-NS80-Y892-B2FJ-00000-00",
+  "case_number": "4:99m71",
+  "case_title": "USA v. Stambro",
+  "case_info_full_case_name": "USA v. Stambro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Stambro",
+  "case_date_filed": "1999-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JONATHAN LEE STAMBRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "i36CFR261.58(BB)"
+        },
+        {
+          "charge_description": "i36 CFR 261.58(BB) Possessing open container of alcohol (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "36CFR261.13(E)"
+        },
+        {
+          "charge_description": "36 CFR 261.13(E) Operating vehicle off forest developed road while under the influence of alcohol (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "Possessing open container of alcohol"
+        },
+        {
+          "charge_description": "Operating a vehicle off Forest Develpoed road while under influence of alcohol"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Terrence W. Boyle",
+          "judge_guid": "urn:entity:jud-100064535"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_206cr154_WAWD",
+  "case_key": "2:06cr154_WAWD",
+  "case_lni": "7WBN-KRF0-Y892-B3TV-00000-00",
+  "case_number": "2:06cr154",
+  "case_title": "USA v. Haug et al",
+  "case_info_full_case_name": "USA v. Haug et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Haug et al",
+  "case_date_filed": "2006-05-10",
+  "case_status": "Closed",
+  "case_status_date": "05/25/2007",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Random Scott Haug",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:844(i) Arson"
+        },
+        {
+          "charge_offence_description": "18:844(i) Arson"
+        },
+        {
+          "charge_description": "Conspiracy to Commit Arson(1s-2s)"
+        },
+        {
+          "charge_disposition": "44 months jail sentence, 3 yrs supervised release, fine is waived, $200 special penalty assessment, $5,958.035.12 restitution."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Conspiracy to Commit Arson 18:844(n)(1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Arson 18:2 &; 844(i)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession of Unregistered Destructive Device 26:5841, 5861(d) &; 5871, 18:2(3)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John C Coughenour",
+          "judge_guid": "urn:entity:jud-100049544"
+        }
+      ]
+    },
+    {
+      "party_name": "Daniel William Shreve",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:844(i) Arson"
+        },
+        {
+          "charge_offence_description": "18:844(i) Arson"
+        },
+        {
+          "charge_description": "ARSON, Title 18,U.S.C.,2 and 844(i)(1s)"
+        },
+        {
+          "charge_disposition": "60 months jail sentence, 3 yrs supervised release, fine is waived, $200 special penalty assessment, $5,958.035.12."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ARSON, Title 18,U.S.C.,2 and 844(i)(2s)"
+        },
+        {
+          "charge_disposition": "60 months jail sentence, 3 yrs supervised release, fine is waived, $200 special penalty assessment, $5,958.035.12."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Conspiracy to Commit Arson 18:844(n)(1)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Arson 18:2 &; 844(i)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession of Unregistered Destructive Device 26:5841, 5861(d) &; 5871, 18:2(3)"
+        },
+        {
+          "charge_disposition": "Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John C Coughenour",
+          "judge_guid": "urn:entity:jud-100049544"
+        }
+      ]
+    }
+  ]
+}

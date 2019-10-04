@@ -1,0 +1,79 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_196m359_vaed",
+  "case_key": "1:96m359_vaed",
+  "case_lni": "7WBN-D3Y0-Y892-B4NC-00000-00",
+  "case_number": "1:96m359",
+  "case_title": "USA v. Van Wart",
+  "case_info_full_case_name": "USA v. Van Wart",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Van Wart",
+  "case_date_filed": "1996-05-06",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rosie Haney",
+      "attorney_label": "[NTC pda]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EHREN FAN VAN WART",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844"
+        },
+        {
+          "charge_description": "21:844 Possession of Marijuana, a Sch. I controlled substance (1)"
+        },
+        {
+          "charge_disposition": "30 days in BOP (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "36CFRsec. 4.12"
+        },
+        {
+          "charge_description": "36 CFR sec. 4.12 Fail to comply with traffic control device (2)"
+        },
+        {
+          "charge_disposition": "DISMISSED. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "36CFRsec. 4.2, 46.2, 613(1)"
+        },
+        {
+          "charge_description": "36 CFR sec. 4.2, assim. 46.2, Code of va. sec. 613(1) Expired License plts. (3)"
+        },
+        {
+          "charge_disposition": "DISMISSED. (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_description": "complaint filed"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_901m5042_flsd",
+  "case_key": "9:01m5042_flsd",
+  "case_lni": "7WBN-F0D0-Y892-B1GM-00000-00",
+  "case_number": "9:01m5042",
+  "case_title": "USA v. Moreno Ossa",
+  "case_info_full_case_name": "USA v. Moreno Ossa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moreno Ossa",
+  "case_date_filed": "2001-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ADOLFO MORENO OSSA",
+      "party_description": "Interpreter",
+      "charges": [
+        {
+          "charge_description": "ILLEGAL ENTRY after deportation."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Ch. Magistrate Judge",
+          "judge_name": "Linnea R. Johnson",
+          "judge_guid": "urn:entity:jud-100020899"
+        }
+      ]
+    }
+  ]
+}

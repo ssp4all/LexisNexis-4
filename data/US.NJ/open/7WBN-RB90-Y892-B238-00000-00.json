@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_208cr771_NJD",
+  "case_key": "2:08cr771_NJD",
+  "case_lni": "7WBN-RB90-Y892-B238-00000-00",
+  "case_number": "2:08cr771",
+  "case_title": "USA v. MOSLEY",
+  "case_info_full_case_name": "USA v. MOSLEY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MOSLEY",
+  "case_date_filed": "2008-10-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERRENCE MOSLEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(C) 2"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(C) and 2 KNOWINGLY AND INTENTIONALLY DISTRIBUTE AND POSSESS WITH INTENT TO DISTRIBUTE SUBSTANCE CONTAINING COCAINE (dof [9/14/06]) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F-knowingly"
+        },
+        {
+          "charge_description": "21:841A=CD.F-knowingly possess with the intent to distribute a substance containing cocaine base"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joseph A. Greenaway, Jr.",
+          "judge_guid": "urn:entity:jud-100048030"
+        }
+      ]
+    }
+  ]
+}

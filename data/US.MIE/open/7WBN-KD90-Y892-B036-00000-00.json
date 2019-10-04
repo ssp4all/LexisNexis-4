@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_201cr80629_mied",
+  "case_key": "2:01cr80629_mied",
+  "case_lni": "7WBN-KD90-Y892-B036-00000-00",
+  "case_number": "2:01cr80629",
+  "case_title": "USA v. Perri",
+  "case_info_full_case_name": "USA v. Perri",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Perri",
+  "case_date_filed": "2001-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC aus]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FREDERICO PERRI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344-BANK"
+        },
+        {
+          "charge_description": "18:1344-BANK FRAUD (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George Caram Steeh",
+          "judge_guid": "urn:entity:jud-100014304"
+        }
+      ]
+    }
+  ]
+}

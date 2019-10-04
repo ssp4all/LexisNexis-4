@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_313mj611_TXWD",
+  "case_key": "3:13mj611_TXWD",
+  "case_lni": "57SX-HWS1-DXDT-G0N1-00000-00",
+  "case_number": "3:13mj611",
+  "case_title": "USA v. Puga Michel",
+  "case_info_full_case_name": "USA v. Puga Michel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Puga Michel",
+  "case_date_filed": "2013-02-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Aniseto Puga Michel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1546.F--Fraud and misuse of visas/permits"
+        },
+        {
+          "charge_offence_description": "18:1546.F--Fraud and misuse of visas/permits"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anne T. Berton",
+          "judge_guid": "urn:entity:jud-100102882"
+        }
+      ]
+    }
+  ]
+}

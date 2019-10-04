@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_307cr317_CAND",
+  "case_key": "3:07cr317_CAND",
+  "case_lni": "7WBN-RS90-Y892-B36K-00000-00",
+  "case_number": "3:07cr317",
+  "case_title": "USA v. Lacy",
+  "case_info_full_case_name": "USA v. Lacy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lacy",
+  "case_date_filed": "2007-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Brigid Martin",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Roy Lacy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2113(a) unarmed bank robbery(1)"
+        },
+        {
+          "charge_disposition": "72 months custody; 3 years supervised release; $100 special assessment; $3220 restitution"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2113 Bank robbery"
+        },
+        {
+          "charge_offence_description": "18:2113 Bank robbery"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "William Alsup",
+          "judge_guid": "urn:entity:jud-100074545"
+        }
+      ]
+    }
+  ]
+}

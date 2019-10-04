@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_400cr164_moed",
+  "case_key": "4:00cr164_moed",
+  "case_lni": "7WBN-DTV0-Y892-B4HH-00000-00",
+  "case_number": "4:00cr164",
+  "case_title": "USA v. Landa",
+  "case_info_full_case_name": "USA v. Landa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Landa",
+  "case_date_filed": "2000-03-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER M. LANDA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M"
+        },
+        {
+          "charge_description": "18:13-7210.M DUI (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Frederick Buckles",
+          "judge_guid": "urn:entity:jud-100080190"
+        }
+      ]
+    }
+  ]
+}

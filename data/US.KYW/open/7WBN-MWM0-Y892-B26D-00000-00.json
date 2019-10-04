@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYW_307mj77_KYWD",
+  "case_key": "3:07mj77_KYWD",
+  "case_lni": "7WBN-MWM0-Y892-B26D-00000-00",
+  "case_number": "3:07mj77",
+  "case_title": "USA v. Dolt",
+  "case_info_full_case_name": "USA v. Dolt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Dolt",
+  "case_date_filed": "2007-03-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "William Frederick Dolt IV",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F"
+        },
+        {
+          "charge_description": "21:841A=CD.F POSSESSION WITH INTENT TO DISTRIBUTE A CONTROLLED SUBSTANCE."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James D. Moyer",
+          "judge_guid": "urn:entity:jud-100003379"
+        }
+      ]
+    }
+  ]
+}

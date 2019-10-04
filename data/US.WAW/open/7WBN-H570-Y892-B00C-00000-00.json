@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_301m5004_wawd",
+  "case_key": "3:01m5004_wawd",
+  "case_lni": "7WBN-H570-Y892-B00C-00000-00",
+  "case_number": "3:01m5004",
+  "case_title": "USA v. Eastman",
+  "case_info_full_case_name": "USA v. Eastman",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Eastman",
+  "case_date_filed": "2001-01-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RANDY WAYNE EASTMAN SR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2244(a)(1) 1153-Abusive"
+        },
+        {
+          "charge_description": "For Violation of 18:2244(a)(1) &; 1153-Abusive Sexual Contact w/Child"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Kelley Arnold",
+          "judge_guid": "urn:entity:jud-100074208"
+        }
+      ]
+    }
+  ]
+}

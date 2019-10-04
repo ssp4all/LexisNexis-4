@@ -1,0 +1,81 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_101m6052_ilcd",
+  "case_key": "1:01m6052_ilcd",
+  "case_lni": "7WBN-JBS0-Y892-B4N7-00000-00",
+  "case_number": "1:01m6052",
+  "case_title": "USA v. Malott, et al",
+  "case_info_full_case_name": "USA v. Malott, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Malott, et al",
+  "case_date_filed": "2001-11-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "K ",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROGER MALOTT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "9/2000"
+        },
+        {
+          "charge_description": "From 9/2000 to the present, in the counties of Fulton, McDonough and Rock Island, defendants did knowingly combine, conspire and agree to manufacture methamphetamine, a Schedule I controlled substance, in violation of 21 USC 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    },
+    {
+      "party_name": "RICHARD GANT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "9/2000"
+        },
+        {
+          "charge_description": "From 9/2000 to the present, in the counties of Fulton, McDonough and Rock Island, defendants did knowingly combine, conspire and agree to manufacture methamphetamine, a Schedule I controlled substance, in violation of 21 USC 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    },
+    {
+      "party_name": "KELLY CHAMBERS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "9/2000"
+        },
+        {
+          "charge_description": "From 9/2000 to the present, in the counties of Fulton, McDonough and Rock Island, defendants did knowingly combine, conspire and agree to manufacture methamphetamine, a Schedule I controlled substance, in violation of 21 USC 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

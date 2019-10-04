@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCM_106cr420_NCMD",
+  "case_key": "1:06cr420_NCMD",
+  "case_lni": "7WBN-PPT0-Y892-B1T3-00000-00",
+  "case_number": "1:06cr420",
+  "case_title": "USA v. HUNTER",
+  "case_info_full_case_name": "USA v. HUNTER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "HUNTER",
+  "case_date_filed": "2006-10-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANA LEE HUNTER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:3146(a)(2) (b)(1)(A)(ii)"
+        },
+        {
+          "charge_description": "18:3146(a)(2) &; (b)(1)(A)(ii) Failed to surrender for service of sentence (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

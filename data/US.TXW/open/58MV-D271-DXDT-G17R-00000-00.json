@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_213cr825_TXWD",
+  "case_key": "2:13cr825_TXWD",
+  "case_lni": "58MV-D271-DXDT-G17R-00000-00",
+  "case_number": "2:13cr825",
+  "case_title": "USA v. De La Rosa-Zapata",
+  "case_info_full_case_name": "USA v. De La Rosa-Zapata",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "De La Rosa-Zapata",
+  "case_date_filed": "2013-06-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Josue De La Rosa-Zapata",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326B2.F  IMMIGRATION, REENTRY OF REMOVED ALIENS-Illegal Re-entry into the United States(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8 USC 1326(a)(1) Re-entry after deportation"
+        },
+        {
+          "charge_offence_description": "8 USC 1326(a)(1) Re-entry after deportation"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Ezra",
+          "judge_guid": "urn:entity:jud-100056263"
+        }
+      ]
+    }
+  ]
+}

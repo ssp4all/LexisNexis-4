@@ -1,0 +1,102 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_107cr1175_TXSD",
+  "case_key": "1:07cr1175_TXSD",
+  "case_lni": "7WBN-JPC0-Y892-B367-00000-00",
+  "case_number": "1:07cr1175",
+  "case_title": "USA v. Galvez-Valencia",
+  "case_info_full_case_name": "USA v. Galvez-Valencia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galvez-Valencia",
+  "case_date_filed": "2007-12-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Pretrial Svcs-Br",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "US Probation - B",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edgard Galvez-Valencia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 5 21USC846, 841(a)(1) 841(b)(1)(A)."
+        },
+        {
+          "charge_description": "Count 1: Conspiracy to possess with intent to distribute more than 5 kilograms of cocaine; 21 USC 846, 841(a)(1) and 841(b)(1)(A). (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "2: 5 14.90 21USC841(a)(1) 841(b)(1)(A) 18USC2."
+        },
+        {
+          "charge_description": "Count 2: Possession with intent to distribute more than 5 kilograms, that is, approx. 14.90 kilograms of cocaine; 21 USC 841(a)(1) and 841(b)(1)(A) and 18 USC 2. (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "3: 5 21USC963, 952(a) 960(b)(1)."
+        },
+        {
+          "charge_description": "Count 3: Conspiracy to import more than 5 kilograms of cocaine; 21 USC 963, 952(a) and 960(b)(1). (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "4: 5 14.90 21USC952(a) 960(b)(1) 18USC2."
+        },
+        {
+          "charge_description": "Count 4: Importation of more than 5 kilograms, that is, approx. 14.90 kilograms of cocaine; 21 USC 952(a) and 960(b)(1) and 18 USC 2. (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=CD.F, 21:846=CD.F; 14.90"
+        },
+        {
+          "charge_description": "21:841A=CD.F, 21:846=CD.F; Possession and conspiracy with intent to distribute approximately 14.90 kilograms of cocaine."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Andrew S. Hanen",
+          "judge_guid": "urn:entity:jud-100047437"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John William Black",
+          "judge_guid": "urn:entity:jud-100068842"
+        }
+      ]
+    }
+  ]
+}

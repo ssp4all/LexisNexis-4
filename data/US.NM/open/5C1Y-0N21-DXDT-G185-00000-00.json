@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_214cr1359_NMD",
+  "case_key": "2:14cr1359_NMD",
+  "case_lni": "5C1Y-0N21-DXDT-G185-00000-00",
+  "case_number": "2:14cr1359",
+  "case_title": "USA v. Phillips",
+  "case_info_full_case_name": "USA v. Phillips",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Phillips",
+  "case_date_filed": "2014-04-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Richard Lee Phillips",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(D): POSSESSION WITH INTENT TO DISTRIBUTE MARIJUANA; 18:2 AIDING AND ABETTING(1)"
+        },
+        {
+          "charge_disposition": "CBOP 8 months (Said term shall run consecutively to sentence imposed in DNM case #2:14-CR-02004-001ERW, for a total term of 16 months. Total term of 16 months shall run as a Split Sentence, 8 months in the custody of BOP and 8 months on Home Detention.); 1 year Supervised Release (Said term shall run concurrently to Supervised Release imposed in DNM case #2:14-CR-02004-001ERW) with Special Conditions imposed; SPA of $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) Possession with intent to distribute 51.5 pounds of Marijuana; 21:846 Conspiracy; 21:952 Importation of Marijuana"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1) Possession with intent to distribute "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "E. Richard Webber",
+          "judge_guid": "urn:entity:jud-100002390"
+        }
+      ]
+    }
+  ]
+}

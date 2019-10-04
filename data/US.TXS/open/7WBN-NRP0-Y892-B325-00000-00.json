@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_499cr383_txsd",
+  "case_key": "4:99cr383_txsd",
+  "case_lni": "7WBN-NRP0-Y892-B325-00000-00",
+  "case_number": "4:99cr383",
+  "case_title": "USA v. Torres",
+  "case_info_full_case_name": "USA v. Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres",
+  "case_date_filed": "1999-07-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Marshal - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - H prob1",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - H",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Marc Miller",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NICOLAS LAMAS TORRES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841B=MD.F 100 5-40 4"
+        },
+        {
+          "charge_description": "21:841B=MD.F Knowingly and intentionally possess w/intent to distribute 100 kilograms or more of a mixture and substance containing marihuana MAX PENALTY: 5-40 yrs to serve plus $2 million and 4 yrs SRT (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lee H Rosenthal",
+          "judge_guid": "urn:entity:jud-100011616"
+        }
+      ]
+    }
+  ]
+}

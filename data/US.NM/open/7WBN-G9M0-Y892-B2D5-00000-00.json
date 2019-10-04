@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_109cr1753_NMD",
+  "case_key": "1:09cr1753_NMD",
+  "case_lni": "7WBN-G9M0-Y892-B2D5-00000-00",
+  "case_number": "1:09cr1753",
+  "case_title": "USA v. Vasquez",
+  "case_info_full_case_name": "USA v. Vasquez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vasquez",
+  "case_date_filed": "2009-06-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joel R. Meyers",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Brittney Vasquez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(A):  POSSESSION W/INTENT TO DISTRIBUTE 50 GRAMS AND MORE OF COCAINE BASE(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1)and (b)(1)(C):  POSSESSION W/INTENT TO DISTRIBUTE HEROIN(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James O. Browning",
+          "judge_guid": "urn:entity:jud-100064003"
+        }
+      ]
+    }
+  ]
+}

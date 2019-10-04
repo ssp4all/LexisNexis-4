@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_193cr268_gand",
+  "case_key": "1:93cr268_gand",
+  "case_lni": "7WBN-F590-Y892-B55S-00000-00",
+  "case_number": "1:93cr268",
+  "case_title": "USA v. Cummings",
+  "case_info_full_case_name": "USA v. Cummings",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cummings",
+  "case_date_filed": "1993-05-27",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Maria Murcier, nam-USArmy",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TRACY V. CUMMINGS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13"
+        },
+        {
+          "charge_description": "18:13 LARCENY &; THEFT, MISDEMEANOR OTHER (1-13)"
+        },
+        {
+          "charge_disposition": "36 MOS PROB. Restitution in the amount of $2,137.50 and $325.00 special assessment. PETITION AND ORDER FOR PROBATION ACTION FILED 4/6/94. DEFENDANT TO RESIDE IN A COMMUNITY CORRECTION CENTER FOR 90 DAYS. SHE MAY BE RELEASED AFTER 60 DAYS PROVIDED SHE IS IN COMPLIANCE W/PROB. WHILE IN THE COMMUNITY CORRECTION CENTER, DFT SHALL WORK OR ATTEND COLLEGE AS DIRECTED BY USPO. BEGINNING 5/1/94,DFT SHALL BEGIN MAKING MO PAYMENTS OF $250.00 TOWARD OUTSTANDING RESTITUTION &; SPECIAL ASSESSMENT. (1-13)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Allen L. Chancey, Jr.",
+          "judge_guid": "urn:entity:jud-100091802"
+        }
+      ]
+    }
+  ]
+}

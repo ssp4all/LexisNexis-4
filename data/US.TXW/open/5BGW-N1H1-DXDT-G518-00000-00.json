@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_514mj136_TXWD",
+  "case_key": "5:14mj136_TXWD",
+  "case_lni": "5BGW-N1H1-DXDT-G518-00000-00",
+  "case_number": "5:14mj136",
+  "case_title": "USA v. Barrera et al",
+  "case_info_full_case_name": "USA v. Barrera et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barrera et al",
+  "case_date_filed": "2014-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alyssa Barrera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)(B)(i) and 8:1324(a)(1)(A)(ii)(B)(ii) Alien Smuggling"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii)(B)(i) and 8:1324(a)(1)(A)(ii)("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry J. Bemporad",
+          "judge_guid": "urn:entity:jud-100102323"
+        }
+      ]
+    },
+    {
+      "party_name": "Anna Patricia Mendoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)(B)(i) and 8:1324(a)(1)(A)(ii)(B)(ii) Alien Smuggling"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(1)(A)(ii)(B)(i) and 8:1324(a)(1)(A)(ii)("
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Henry J. Bemporad",
+          "judge_guid": "urn:entity:jud-100102323"
+        }
+      ]
+    }
+  ]
+}

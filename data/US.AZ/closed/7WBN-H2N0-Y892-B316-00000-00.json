@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_298mp2301_azd",
+  "case_key": "2:98mp2301_azd",
+  "case_lni": "7WBN-H2N0-Y892-B316-00000-00",
+  "case_number": "2:98mp2301",
+  "case_title": "USA v. Raigoza-Villanueva, et al",
+  "case_info_full_case_name": "USA v. Raigoza-Villanueva, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Raigoza-Villanueva, et al",
+  "case_date_filed": "1998-10-26",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANGEL RAIGOZA-VILLANUEVA",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    },
+    {
+      "party_name": "FRANCISCO PEREZ-GOMEZ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Jay Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

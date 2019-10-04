@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_206cr273_LAED",
+  "case_key": "2:06cr273_LAED",
+  "case_lni": "7WBN-KRY0-Y892-B11S-00000-00",
+  "case_number": "2:06cr273",
+  "case_title": "USA v. White",
+  "case_info_full_case_name": "USA v. White",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "White",
+  "case_date_filed": "2006-09-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "William J. Quinlan, Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Derrick C. White",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21;841(a)(1) 841(b)(1)(A) (50) (\"CRACK\"),"
+        },
+        {
+          "charge_description": "21;841(a)(1) and 841(b)(1)(A) DISTRIBUTE FIFTY (50) GRAMS OR MORE OF COCAINE BASE (\"CRACK\"), A SCHEDULE II NARCOTIC DRUG CONTROLLED SUBSTANCE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Mary Ann Vial Lemmon",
+          "judge_guid": "urn:entity:jud-100039232"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Daniel E. Knowles, III",
+          "judge_guid": "urn:entity:jud-100040144"
+        }
+      ]
+    }
+  ]
+}

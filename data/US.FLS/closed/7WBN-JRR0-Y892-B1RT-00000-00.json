@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_107mj2229_FLSD",
+  "case_key": "1:07mj2229_FLSD",
+  "case_lni": "7WBN-JRR0-Y892-B1RT-00000-00",
+  "case_number": "1:07mj2229",
+  "case_title": "USA v. Thomsen",
+  "case_info_full_case_name": "USA v. Thomsen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomsen",
+  "case_date_filed": "2007-02-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Sean Lawrence Thomsen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Warrant on Complaint from the District of Colombia. Passport Fraud. 18:1542.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William C. Turnoff",
+          "judge_guid": "urn:entity:jud-100023687"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_100cr10392_mad",
+  "case_key": "1:00cr10392_mad",
+  "case_lni": "7WBN-J7N0-Y892-B4TR-00000-00",
+  "case_number": "1:00cr10392",
+  "case_title": "USA v. Garner",
+  "case_info_full_case_name": "USA v. Garner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garner",
+  "case_date_filed": "2000-11-02",
+  "case_status": "Closed",
+  "case_status_date": "04/11/2002",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Shawn L. Garner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1), 21:841(a) Felon in Possession of a firearm and possession with intent to distribute cocaine base [ 4:00-m -1718 ]"
+        },
+        {
+          "charge_offence_description": "18:922(g)(1), 21:841(a) Felon in Possession of a f"
+        },
+        {
+          "charge_description": "18:922(g)(1) - FELON IN POSSESSION OF A FIREARM AND AMMUNITION(1)"
+        },
+        {
+          "charge_disposition": "ORIGINAL: The deft. is hereby committed to the custody of the USBOP to be imprisoned for a total term of 270 months; Upon release from imprisoned, the deft shall be on supervised release for a term of 60 months with the special condition that deft. participate in drug testing and, if appropriate, treatment. S/A .00 is due immediately. AMENDED: The defendant's previously imposed sentence of imprisonment on 4/3/02 is reduced to 228 months."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1)-POSSESSION WITH INTENT TO DISTRIBUTE COCAINE BASE(3)"
+        },
+        {
+          "charge_disposition": "ORIGINAL: The deft. is hereby committed to the custody of the USBOP to be imprisoned for a total term of 270 months; Upon release from imprisoned, the deft shall be on supervised release for a term of 60 months with the special condition that deft. participate in drug testing and, if appropriate, treatment. S/A .00 is due immediately. AMENDED: The defendant's previously imposed sentence of imprisonment on 4/3/02 is reduced to 228 months."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924(c)(1)(A)-UNLAWFUL POSSESSION OF FIREARM IN FURTHERANCE OF DRUG TRAFFICKING OFFENSE(4)"
+        },
+        {
+          "charge_disposition": "ORIGINAL: The deft. is hereby committed to the custody of the USBOP to be imprisoned for a total term of 270 months; Upon release from imprisoned, the deft shall be on supervised release for a term of 60 months with the special condition that deft. participate in drug testing and, if appropriate, treatment. S/A .00 is due immediately. AMENDED: The defendant's previously imposed sentence of imprisonment on 4/3/02 is reduced to 228 months."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(k)-POSSESSION OF A FIREARM WITH AN OBLITERATED SERIAL NUMBER(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Government motion"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Patti B. Saris",
+          "judge_guid": "urn:entity:jud-100027081"
+        }
+      ]
+    },
+    {
+      "party_name": "Pretrial Services",
+      "party_description": "Notice",
+      "charges": [
+        {
+          "charge_description": "Pretrial Services"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "Pretrial Services\t\trepresented&nbsp;byPretrial S"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Patti B. Saris",
+          "judge_guid": "urn:entity:jud-100027081"
+        }
+      ]
+    }
+  ]
+}

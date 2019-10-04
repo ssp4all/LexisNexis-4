@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_101cr415_nmd",
+  "case_key": "1:01cr415_nmd",
+  "case_lni": "7WBN-JB80-Y892-B16H-00000-00",
+  "case_number": "1:01cr415",
+  "case_title": "USA v. Olvera-Garcia",
+  "case_info_full_case_name": "USA v. Olvera-Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Olvera-Garcia",
+  "case_date_filed": "2001-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Fernando Olvera-Garcia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(1) (2) 1326(b)(2),"
+        },
+        {
+          "charge_description": "8:1326(a)(1) &; (2) and 1326(b)(2), RE-ENTRY AFTER DEPORTATION [1:01-m-81]"
+        },
+        {
+          "charge_statute": "8:1326B.F"
+        },
+        {
+          "charge_description": "8:1326B.F REENTRY OF DEPORTED ALIEN-FELONY (1-1)"
+        },
+        {
+          "charge_disposition": "(1-1)"
+        }
+      ]
+    }
+  ]
+}

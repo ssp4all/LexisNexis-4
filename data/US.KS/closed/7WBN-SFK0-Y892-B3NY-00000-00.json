@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KS_599cr40087_ksd",
+  "case_key": "5:99cr40087_ksd",
+  "case_lni": "7WBN-SFK0-Y892-B3NY-00000-00",
+  "case_number": "5:99cr40087",
+  "case_title": "USA v. Miles",
+  "case_info_full_case_name": "USA v. Miles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miles",
+  "case_date_filed": "1999-09-08",
+  "case_status": "Closed",
+  "case_status_date": "07/19/2000",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g) &; 924(a)(2) Felon in possession of a firearm (SEALED INDICTMENT FILED 9/8/99)(1)"
+        },
+        {
+          "charge_disposition": "Sentence to 70 months imprisonment, to run concurrently with any undischarged State sentence; 3 years supervised release w/special conditions of supervision; $100 assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(j) and 924(a)(2) Possession of a stolen firearm (SEALED INDICTMENT FILED 9/8/99)(2)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Sam A. Crow",
+          "judge_guid": "urn:entity:jud-100045477"
+        }
+      ]
+    }
+  ]
+}

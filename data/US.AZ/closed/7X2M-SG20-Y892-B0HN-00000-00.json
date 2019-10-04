@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_409mj34072_AZD",
+  "case_key": "4:09mj34072_AZD",
+  "case_lni": "7X2M-SG20-Y892-B0HN-00000-00",
+  "case_number": "4:09mj34072",
+  "case_title": "USA v. Miranda-Cepeda",
+  "case_info_full_case_name": "USA v. Miranda-Cepeda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miranda-Cepeda",
+  "case_date_filed": "2009-10-29",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Simon Miranda-Cepeda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 8:1326 2 8:1325"
+        },
+        {
+          "charge_description": "CT 1 8:1326 Illegal Re-Entry After Deportation and CT 2 8:1325 Illegal Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

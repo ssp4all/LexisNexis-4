@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIE_207mj449_WIED",
+  "case_key": "2:07mj449_WIED",
+  "case_lni": "7WBN-GTG0-Y892-B250-00000-00",
+  "case_number": "2:07mj449",
+  "case_title": "USA v. Ochoa-Ramos",
+  "case_info_full_case_name": "USA v. Ochoa-Ramos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ochoa-Ramos",
+  "case_date_filed": "2007-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Karine Moreno-Taxman",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Marco Ochoa-Ramos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William E Callahan, Jr",
+          "judge_guid": "urn:entity:jud-100059907"
+        }
+      ]
+    }
+  ]
+}

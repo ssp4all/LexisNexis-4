@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_219mj413_VAED",
+  "case_key": "2:19mj413_VAED",
+  "case_lni": "5WJ0-XHN1-DXDT-G1BP-00000-00",
+  "case_number": "2:19mj413",
+  "case_title": "USA v. Torres",
+  "case_info_full_case_name": "USA v. Torres",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres",
+  "case_date_filed": "2019-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "James T. Cole",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RECKLESS DRIVING BY SPEED - in violation of T. 18 USC Sections 7 &; 13, assimilating T. 46.2, VA Code, Section 862(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lawrence R. Leonard",
+          "judge_guid": "urn:entity:jud-100102409"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_205cr235_UTD",
+  "case_key": "2:05cr235_UTD",
+  "case_lni": "7WBN-KNM0-Y892-B2XY-00000-00",
+  "case_number": "2:05cr235",
+  "case_title": "USA v. Yong",
+  "case_info_full_case_name": "USA v. Yong",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Yong",
+  "case_date_filed": "2005-04-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Trina A Higgins EMAIL",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SAMNANG YONG",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922G.F 18USC922(g)(3) 18USC924(d)(1)."
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC., 18 USC 922(g)(3) User of controlled substances in possesion of a firearm. Notice of Intent to Seek Forfeiture 18 USC 924(d)(1). (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:844A=CP.F 21USC844"
+        },
+        {
+          "charge_description": "21:844A=CP.F CONTROLLED SUBSTANCE-POSSESSION, 21 USC 844 Possession of methamphetamine (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ted Stewart",
+          "judge_guid": "urn:entity:jud-100079343"
+        }
+      ]
+    }
+  ]
+}

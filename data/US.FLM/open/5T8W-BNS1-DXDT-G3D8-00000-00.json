@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_318mj1311_FLMD",
+  "case_key": "3:18mj1311_FLMD",
+  "case_lni": "5T8W-BNS1-DXDT-G3D8-00000-00",
+  "case_number": "3:18mj1311",
+  "case_title": "USA v. Canales-Moreno",
+  "case_info_full_case_name": "USA v. Canales-Moreno",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Canales-Moreno",
+  "case_date_filed": "2018-09-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antonio Canales-Moreno",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS"
+        },
+        {
+          "charge_offence_description": "8:1326.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James R. Klindt",
+          "judge_guid": "urn:entity:jud-100071242"
+        }
+      ]
+    }
+  ]
+}

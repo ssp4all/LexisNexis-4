@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_718cr275_NYND",
+  "case_key": "7:18cr275_NYND",
+  "case_lni": "5T5H-4YC1-DXDT-G2RW-00000-00",
+  "case_number": "7:18cr275",
+  "case_title": "USA v. Barnes",
+  "case_info_full_case_name": "USA v. Barnes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Barnes",
+  "case_date_filed": "2018-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Amanda L Cookman",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Johnathan H. Barnes, III",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:641.M - THEFT/EMBEZZLEMENT OF U. S. PROPERTY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "US Magistrate Judge Andrew T. Baxter",
+          "judge_guid": "urn:entity:jud-100069476"
+        }
+      ]
+    }
+  ]
+}

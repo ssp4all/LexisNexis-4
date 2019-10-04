@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_497m1136_gamd",
+  "case_key": "4:97m1136_gamd",
+  "case_lni": "7WBN-HS40-Y892-B28M-00000-00",
+  "case_number": "4:97m1136",
+  "case_title": "USA v. Neal",
+  "case_info_full_case_name": "USA v. Neal",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Neal",
+  "case_date_filed": "1997-10-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Signa R. Oliver",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ADAM C. NEAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER (1)"
+        },
+        {
+          "charge_disposition": "Judgement of Acquittal. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "William L. Slaughter",
+          "judge_guid": "urn:entity:jud-100091357"
+        }
+      ]
+    }
+  ]
+}

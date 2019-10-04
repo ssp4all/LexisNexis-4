@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_312mj100_FLND",
+  "case_key": "3:12mj100_FLND",
+  "case_lni": "55D0-48N1-DXDT-G0V9-00000-00",
+  "case_number": "3:12mj100",
+  "case_title": "USA v. RAY",
+  "case_info_full_case_name": "USA v. RAY",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "RAY",
+  "case_date_filed": "2012-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "ALICIA HYUNJOO KIM",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "CHERYL ROSE AUSBAND",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ISEA F RAY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "TRAFFIC OFFENSES, OTHER-DRIVING WHILE LICENSE SUSPENDED OR REVOKED WITH KNOWLEDGE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "MAGISTRATE JUDGE",
+          "judge_name": "MILES DAVIS",
+          "judge_guid": "urn:entity:jud-100045021"
+        }
+      ]
+    }
+  ]
+}

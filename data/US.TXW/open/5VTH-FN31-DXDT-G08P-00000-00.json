@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_219mj2756_TXWD",
+  "case_key": "2:19mj2756_TXWD",
+  "case_lni": "5VTH-FN31-DXDT-G08P-00000-00",
+  "case_number": "2:19mj2756",
+  "case_title": "USA v. Hinojosa",
+  "case_info_full_case_name": "USA v. Hinojosa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hinojosa",
+  "case_date_filed": "2019-04-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Roberto Hinojosa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1324(a)(1)(A)(v)(I) Conspiring with others to Transport Illegal Aliens within the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1324(a)(1)(A)(v)(I) Conspiring with others t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    },
+    {
+      "party_name": "Jaime Ulysses Barragan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8 USC 1324(a)(1)(A)(v)(I) Conspiring with others to Transport Illegal Aliens within the United States"
+        },
+        {
+          "charge_offence_description": "8 USC 1324(a)(1)(A)(v)(I) Conspiring with others t"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

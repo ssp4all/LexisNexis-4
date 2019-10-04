@@ -1,0 +1,84 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_319cr255_TXWD",
+  "case_key": "3:19cr255_TXWD",
+  "case_lni": "5VC9-NC41-DXDT-G41B-00000-00",
+  "case_number": "3:19cr255",
+  "case_title": "USA v. Estrada-Cavazos",
+  "case_info_full_case_name": "USA v. Estrada-Cavazos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada-Cavazos",
+  "case_date_filed": "2019-02-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Margarita Estrada-Cavazos",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=MD.F---Conspiracy to Distribute Marijuana"
+        },
+        {
+          "charge_offence_description": "21:846=MD.F---Conspiracy to Distribute Marijuana"
+        },
+        {
+          "charge_description": "21:963=MI.F ATTEMPT/CONSPIRACY - MARIJUANA - IMPORTATION/EXPORTATION(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001.F-STATEMENTS OR ENTRIES GENERALLY(1s)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1001.F--STATEMENTS OR ENTRIES GENERALLY(1ss)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:952=MI.F MARIJUANA - IMPORT(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=MD.F ONSPIRACY TO DISTRIBUTE MARIJUANA(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=MD.F ARIJUANA - SELL, DISTRIBUTE, OR DISPENSE(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

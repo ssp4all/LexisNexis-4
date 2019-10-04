@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_103cr8_hid",
+  "case_key": "1:03cr8_hid",
+  "case_lni": "7WBN-F240-Y892-B29B-00000-00",
+  "case_number": "1:03cr8",
+  "case_title": "USA v. Pak",
+  "case_info_full_case_name": "USA v. Pak",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pak",
+  "case_date_filed": "2003-01-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHEECH H. PAK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 286-102, 11/19/02, 112607 H20)"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, NO VALID DRIVERS LICENSE, HRS 286-102, 11/19/02, PEARL HARBOR NS, (CIT #N 112607 H20) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:1382.P 11/19/02, #N112609 H20)"
+        },
+        {
+          "charge_description": "18:1382.P ENTERING MILITARY/NAVAL/PROPERTY, TRESSPASSING, 11/19/02, PEARL HARBOR NS, (CIT #N112609 H20) (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Leslie E Kobayashi",
+          "judge_guid": "urn:entity:jud-100040128"
+        }
+      ]
+    }
+  ]
+}

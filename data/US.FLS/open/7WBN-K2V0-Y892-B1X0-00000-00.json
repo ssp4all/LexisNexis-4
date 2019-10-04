@@ -1,0 +1,648 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_195cr806_flsd",
+  "case_key": "1:95cr806_flsd",
+  "case_lni": "7WBN-K2V0-Y892-B1X0-00000-00",
+  "case_number": "1:95cr806",
+  "case_title": "USA v. Frederic",
+  "case_info_full_case_name": "USA v. Frederic",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Frederic",
+  "case_date_filed": "1995-10-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charlene Elizabeth Sreenan, AUSA",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "John R. Roth",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LORQUET SAINT-HILAIRE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2119.F"
+        },
+        {
+          "charge_description": "18:2119.F CARJACKING (2r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1951.F"
+        },
+        {
+          "charge_description": "18:1951.F EXTORTION, RACKETEERING, &; THREATS (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:111.F"
+        },
+        {
+          "charge_description": "18:111.F ASSAULT OF FBI AGENT (3r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2114.F"
+        },
+        {
+          "charge_description": "18:2114.F ASSAULT SPECIAL AGENT WITH INTENT TO ROB, STEAL AND PURLOIN SAID MONEY AND OTHER PROPERTY OF THE UNITED STATES (4r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924E.F"
+        },
+        {
+          "charge_description": "18:924E.F POSSESION OF A FIREARMS DURING AND IN RELATION TO A CRIME OF VIOLENCE (5r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371, 111, 2114"
+        },
+        {
+          "charge_description": "CONSPIRE TO ASSAULT A FEDERAL OFFICER IN PERFORMANCE OF HIS OFFICIAL DUTIES AND CONSPIRE TO ASSAULT WITH INTENT TO STAL UNITED STATES PROPERTY 18:371, 111, &; 2114 [1:95-m-3598]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "WESLEY YACINTHE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1r)"
+        },
+        {
+          "charge_disposition": "60 months to run concurrently. (1r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1r)"
+        },
+        {
+          "charge_disposition": "60 months to run concurrently. (1r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2119.F"
+        },
+        {
+          "charge_description": "18:2119.F CARJACKING (2r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 60 months to run concurrently. (2r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:111.F"
+        },
+        {
+          "charge_description": "18:111.F ASSAULT OF FBI AGENT (3r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 60 months to run concurrently. (3r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2114.F"
+        },
+        {
+          "charge_description": "18:2114.F ASSAULT SPECIAL AGENT WITH INTENT TO ROB, STEAL AND PURLOIN SAID MONEY AND OTHER PROPERTY OF THE UNITED STATES (4r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 60 months to run concurrently. (4r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924E.F"
+        },
+        {
+          "charge_description": "18:924E.F POSSESION OF A FIREARMS DURING AND IN RELATION TO A CRIME OF VIOLENCE (5r)"
+        },
+        {
+          "charge_disposition": "60 months to run concurrently. (5r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1951.F"
+        },
+        {
+          "charge_description": "18:1951.F EXTORTION, RACKETEERING, &; THREATS (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371, 111, 2114"
+        },
+        {
+          "charge_description": "CONSPIRE TO ASSAULT A FEDERAL OFFICER IN PERFORMANCE OF HIS OFFICIAL DUTIES AND CONSPIRE TO ASSAULT WITH INTENT TO STAL UNITED STATES PROPERTY 18:371, 111, &; 2114 [1:95-m-3598]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "HERCULE JOSEPH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 60 months as to Count 1, 108 months as to Counts 2,4 and 6 to run concurrently with each other; 60 months as to Count 5 to run consecutive to Counts 1, 2,4 and 6. (1r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2119.F"
+        },
+        {
+          "charge_description": "18:2119.F CARJACKING (2r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 60 months as to Count 1, 108 months as to Counts 2,4 and 6 to run concurrently with each other; 60 months as to Count 5 to run consecutive to Counts 1, 2,4 and 6. (2r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2114.F"
+        },
+        {
+          "charge_description": "18:2114.F ASSAULT SPECIAL AGENT WITH INTENT TO ROB, STEAL AND PURLOIN SAID MONEY AND OTHER PROPERTY OF THE UNITED STATES (4r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 60 months as to Count 1, 108 months as to Counts 2,4 and 6 to run concurrently with each other; 60 months as to Count 5 to run consecutive to Counts 1, 2,4 and 6. (4r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924E.F"
+        },
+        {
+          "charge_description": "18:924E.F POSSESION OF A FIREARMS DURING AND IN RELATION TO A CRIME OF VIOLENCE (5r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 60 months as to Count 1, 108 months as to Counts 2,4 and 6 to run concurrently with each other; 60 months as to Count 5 to run consecutive to Counts 1, 2,4 and 6. (5r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922 924E.F"
+        },
+        {
+          "charge_description": "18:922 and 924E.F POSSESSION OF A FIREARM (6r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 60 months as to Count 1, 108 months as to Counts 2,4 and 6 to run concurrently with each other; 60 months as to Count 5 to run consecutive to Counts 1, 2,4 and 6. (6r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1951.F"
+        },
+        {
+          "charge_description": "18:1951.F EXTORTION, RACKETEERING, &; THREATS (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:111.F"
+        },
+        {
+          "charge_description": "18:111.F ASSAULT OF FBI AGENT (3r)"
+        },
+        {
+          "charge_disposition": "Acquittal (3r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371, 111, 2114"
+        },
+        {
+          "charge_description": "CONSPIRE TO ASSAULT A FEDERAL OFFICER IN PERFORMANCE OF HIS OFFICIAL DUTIES AND CONSPIRE TO ASSAULT WITH INTENT TO STAL UNITED STATES PROPERTY 18:371, 111, &; 2114 [1:95-m-3598]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "JOHN SMITH FREDERIC",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:111.F"
+        },
+        {
+          "charge_description": "18:111.F ASSAULT OF FBI AGENT (3r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 8 months as to Count 3r and 26 months as to Count 5r to be served consecutively and 3 years Supervised Release as to each Count to be served concurrently. (3r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924E.F"
+        },
+        {
+          "charge_description": "18:924E.F POSSESION OF A FIREARMS DURING AND IN RELATION TO A CRIME OF VIOLENCE (5r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a term of 8 months as to Count 3r and 26 months as to Count 5r to be served consecutively and 3 years Supervised Release as to each Count to be served concurrently. (5r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1r)"
+        },
+        {
+          "charge_disposition": "Dismissed (1r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2119.F"
+        },
+        {
+          "charge_description": "18:2119.F CARJACKING (2r)"
+        },
+        {
+          "charge_disposition": "Dismissed (2r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1951.F"
+        },
+        {
+          "charge_description": "18:1951.F EXTORTION, RACKETEERING, &; THREATS (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2114.F"
+        },
+        {
+          "charge_description": "18:2114.F ASSAULT SPECIAL AGENT WITH INTENT TO ROB, STEAL AND PURLOIN SAID MONEY AND OTHER PROPERTY OF THE UNITED STATES (4r)"
+        },
+        {
+          "charge_disposition": "Dismissed (4r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371, 111, 2114"
+        },
+        {
+          "charge_description": "CONSPIRE TO ASSAULT A FEDERAL OFFICER IN PERFORMANCE OF HIS OFFICIAL DUTIES AND CONSPIRE TO ASSAULT WITH INTENT TO STAL UNITED STATES PROPERTY 18:371, 111, &; 2114 [1:95-m-3598]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "RUDY JULMISTE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a ter of 60 months. SUPERVISED RELEASE of 3 years. ASSESSMENT of $50.00 (1r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2114.F"
+        },
+        {
+          "charge_description": "18:2114.F ASSAULT SPECIAL AGENT WITH INTENT TO ROB, STEAL AND PURLOIN SAID MONEY AND OTHER PROPERTY OF THE UNITED STATES (2r)"
+        },
+        {
+          "charge_disposition": "Acquittal (2r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2119.F"
+        },
+        {
+          "charge_description": "18:2119.F CARJACKING (2r)"
+        },
+        {
+          "charge_disposition": "Acquittal (2r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1951.F"
+        },
+        {
+          "charge_description": "18:1951.F EXTORTION, RACKETEERING, &; THREATS (2)"
+        },
+        {
+          "charge_disposition": "Acquittal (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:111.F"
+        },
+        {
+          "charge_description": "18:111.F ASSAULT OF FBI AGENT (3r)"
+        },
+        {
+          "charge_disposition": "Acquittal (3r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924E.F"
+        },
+        {
+          "charge_description": "18:924E.F POSSESION OF A FIREARMS DURING AND IN RELATION TO A CRIME OF VIOLENCE (5r)"
+        },
+        {
+          "charge_disposition": "Acquittal (5r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371, 111, 2114"
+        },
+        {
+          "charge_description": "CONSPIRE TO ASSAULT A FEDERAL OFFICER IN PERFORMANCE OF HIS OFFICIAL DUTIES AND CONSPIRE TO ASSAULT WITH INTENT TO STAL UNITED STATES PROPERTY 18:371, 111, &; 2114 [1:95-m-3598]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    },
+    {
+      "party_name": "FRANCOIS LIFAITE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a total term of 168 months. 48 months as to Count 1 and 120 months as to Count 2. Sentence imposed in Count 2 shall run consecutive to the sentence imposed in Count 1. Supervised Release for a term of 6 years. 3 years as to Count 1 and 3 years as to Count 2. The sentence imposed in Count 2 shall run consecutive to the sentence imposed in Count 1. (1r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2114.F"
+        },
+        {
+          "charge_description": "18:2114.F ASSAULT SPECIAL AGENT WITH INTENT TO ROB, STEAL AND PURLOIN SAID MONEY AND OTHER PROPERTY OF THE UNITED STATES (2r)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT for a total term of 168 months. 48 months as to Count 1 and 120 months as to Count 2. Sentence imposed in Count 2 shall run consecutive to the sentence imposed in Count 1. Supervised Release for a term of 6 years. 3 years as to Count 1 and 3 years as to Count 2. The sentence imposed in Count 2 shall run consecutive to the sentence imposed in Count 1. (2r)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:2119.F"
+        },
+        {
+          "charge_description": "18:2119.F CARJACKING (2r)"
+        },
+        {
+          "charge_disposition": "Acquittal (2r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1951.F"
+        },
+        {
+          "charge_description": "18:1951.F EXTORTION, RACKETEERING, &; THREATS (2)"
+        },
+        {
+          "charge_disposition": "Dismissed (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:111.F"
+        },
+        {
+          "charge_description": "18:111.F ASSAULT OF FBI AGENT (3r)"
+        },
+        {
+          "charge_disposition": "Acquittal (3r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924E.F"
+        },
+        {
+          "charge_description": "18:924E.F POSSESION OF A FIREARMS DURING AND IN RELATION TO A CRIME OF VIOLENCE (5r)"
+        },
+        {
+          "charge_disposition": "Acquittal (5r)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371, 111, 2114"
+        },
+        {
+          "charge_description": "CONSPIRE TO ASSAULT A FEDERAL OFFICER IN PERFORMANCE OF HIS OFFICIAL DUTIES AND CONSPIRE TO ASSAULT WITH INTENT TO STAL UNITED STATES PROPERTY 18:371, 111, &; 2114 [1:95-m-3598]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "K. Michael Moore",
+          "judge_guid": "urn:entity:jud-100003993"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Barry L. Garber",
+          "judge_guid": "urn:entity:jud-100045754"
+        }
+      ]
+    }
+  ]
+}

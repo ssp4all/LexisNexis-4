@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_698cr78_txwd",
+  "case_key": "6:98cr78_txwd",
+  "case_lni": "7WBN-P7K0-Y892-B1VR-00000-00",
+  "case_number": "6:98cr78",
+  "case_title": "USA v. Lewis",
+  "case_info_full_case_name": "USA v. Lewis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lewis",
+  "case_date_filed": "1998-06-15",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARIA V. LEWIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-9999.M"
+        },
+        {
+          "charge_description": "18:13-9999.M FEDERAL STATUTES, OTHER: Criminal Trespassing Entering Military Property. (1)"
+        },
+        {
+          "charge_disposition": "$35.00 special assessment due immediately; one year supervised probation as to each count to run concurrently, with standard and other conditions; $377.95 restitution to Divincy Francis. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Walter S. Smith",
+          "judge_guid": "urn:entity:jud-100020612"
+        }
+      ]
+    }
+  ]
+}

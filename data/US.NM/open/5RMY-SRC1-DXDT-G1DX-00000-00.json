@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_116cr2910_NMD",
+  "case_key": "1:16cr2910_NMD",
+  "case_lni": "5RMY-SRC1-DXDT-G1DX-00000-00",
+  "case_number": "1:16cr2910",
+  "case_title": "USA v. Parra",
+  "case_info_full_case_name": "USA v. Parra",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Parra",
+  "case_date_filed": "2016-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Parra",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21 USC 841(a)(1) and (b)(1)(C): Distribution of a Mixture and Substance Containing Methamphetamine(1s)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP - 63 months; Supervised Release-3 years; SPA-$100; Restitution-$1000; Deft in custody"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1) and (b)(1)(B): Distribution of 50 Grams and More of a Mixture and Substance Containing Methamphetamine.(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "M. Christina Armijo",
+          "judge_guid": "urn:entity:jud-100074237"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_199m1650_nyed",
+  "case_key": "1:99m1650_nyed",
+  "case_lni": "7WBN-F7B0-Y892-B2BY-00000-00",
+  "case_number": "1:99m1650",
+  "case_title": "USA v. Lynch, et al",
+  "case_info_full_case_name": "USA v. Lynch, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lynch, et al",
+  "case_date_filed": "1999-11-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GARY LYNCH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708"
+        },
+        {
+          "charge_description": "18:1708 Conspire to steal credit card from mail."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Marilyn Dolan Go",
+          "judge_guid": "urn:entity:jud-100049004"
+        }
+      ]
+    },
+    {
+      "party_name": "FRANCIS PATRICK KOLAWOLE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708"
+        },
+        {
+          "charge_description": "18:1708 Conspire to steal credit card from mail."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "Marilyn Dolan Go",
+          "judge_guid": "urn:entity:jud-100049004"
+        }
+      ]
+    }
+  ]
+}

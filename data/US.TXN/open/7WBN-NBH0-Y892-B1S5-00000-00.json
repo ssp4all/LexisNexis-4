@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_402m365_txnd",
+  "case_key": "4:02m365_txnd",
+  "case_lni": "7WBN-NBH0-Y892-B1S5-00000-00",
+  "case_number": "4:02m365",
+  "case_title": "USA v. Ordones",
+  "case_info_full_case_name": "USA v. Ordones",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ordones",
+  "case_date_filed": "2002-11-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MERCEDES ORDONES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "42:408(a)(7)(B)-USE"
+        },
+        {
+          "charge_description": "42:408(a)(7)(B)-USE OF A FALSE SOCIAL SECURITY NUMBER"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles Bleil",
+          "judge_guid": "urn:entity:jud-100061392"
+        }
+      ]
+    }
+  ]
+}

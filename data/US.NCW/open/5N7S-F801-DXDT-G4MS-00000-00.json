@@ -1,0 +1,122 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_117cr44_NCWD",
+  "case_key": "1:17cr44_NCWD",
+  "case_lni": "5N7S-F801-DXDT-G4MS-00000-00",
+  "case_number": "1:17cr44",
+  "case_title": "USA v. Fuller et al",
+  "case_info_full_case_name": "USA v. Fuller et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Fuller et al",
+  "case_date_filed": "2017-04-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Benjamin Bain-Creed",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 2113(a) and 2 BANK ROBBERY BY FORCE OR VIOLENCE(1)"
+        },
+        {
+          "charge_disposition": "Term of imprisonment: 46 months on each of Counts 1 and 2, to run concurrently, and a term of 120 months on Count 3, to be served consecutively to the term imposed on Counts 1 and 2, for a total term of 166 months. 3 years supervised release on each of Counts 1, 2, and 3, all such terms to run concurrently. $300 special assessment fee."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 2113(d) and 2 BANK ROBBERY, ASSAULT WITH A DEADLY WEAPON(2)"
+        },
+        {
+          "charge_disposition": "Term of imprisonment: 46 months on each of Counts 1 and 2, to run concurrently, and a term of 120 months on Count 3, to be served consecutively to the term imposed on Counts 1 and 2, for a total term of 166 months. 3 years supervised release on each of Counts 1, 2, and 3, all such terms to run concurrently. $300 special assessment fee."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 924(c)(1)(a)(iii) and 2 VIOLENT CRIME/DRUGS/MACHINE GUN(3)"
+        },
+        {
+          "charge_disposition": "Term of imprisonment: 46 months on each of Counts 1 and 2, to run concurrently, and a term of 120 months on Count 3, to be served consecutively to the term imposed on Counts 1 and 2, for a total term of 166 months. 3 years supervised release on each of Counts 1, 2, and 3, all such terms to run concurrently. $300 special assessment fee."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martin Reidinger",
+          "judge_guid": "urn:entity:jud-100015077"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis Howell",
+          "judge_guid": "urn:entity:jud-100033959"
+        }
+      ]
+    },
+    {
+      "party_name": "May Lynn Roberts",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 2113(a) and 2 BANK ROBBERY BY FORCE OR VIOLENCE(1)"
+        },
+        {
+          "charge_disposition": "51 months imprisonment; 3 years supervised release; $100 assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 2113(d) and 2 BANK ROBBERY, ASSAULT WITH A DEADLY WEAPON(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 USC 924(c)(1)(a)(iii) and 2 VIOLENT CRIME/DRUGS/MACHINE GUN(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on motion of the United States"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martin Reidinger",
+          "judge_guid": "urn:entity:jud-100015077"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis Howell",
+          "judge_guid": "urn:entity:jud-100033959"
+        }
+      ]
+    }
+  ]
+}

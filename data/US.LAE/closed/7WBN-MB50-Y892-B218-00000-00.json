@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_297cr6_laed",
+  "case_key": "2:97cr6_laed",
+  "case_lni": "7WBN-MB50-Y892-B218-00000-00",
+  "case_number": "2:97cr6",
+  "case_title": "USA, et al v. Golden",
+  "case_info_full_case_name": "USA, et al v. Golden",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Golden",
+  "case_date_filed": "1997-01-10",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael F. Walther",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-KNOWINGLY 600 9.5"
+        },
+        {
+          "charge_description": "21:841(a)(1)-KNOWINGLY AND INTENTIONALLY POSSESS WITH INTENT TO DISTRIBUTE APPROXIMATELY 600 GRAMS OF COCAINE HYDROCHLORIDE, A SCHEDULE II NARCOTIC DRUG CONTROLLED SUBSTANCE; INTENTIONALLY POSSESS WITH INTENT TO DISTRIBUTE APPROXIMATELY 9.5 GRAMS OF HEROIN, A SCHEDULE I NARCOTIC DRUG SUBSTANCE. (1-2)"
+        },
+        {
+          "charge_disposition": "Dismiss 3/18/97 (1-2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924(c)(1)-KNOWINGLY RUGER.45"
+        },
+        {
+          "charge_description": "18:924(c)(1)-KNOWINGLY USED AND CARRIED A FIREARM, A RUGER.45 CALIBER, SEMI-AUTOMATIC PISTOL DURING AND IN RELATION TO A DRUG TRAFFICKING CRIME; POSSESSION WITH INTENT TO DISTRIBUTE HEROIN, A SCHEDULE I NARCOTIC DRUG CONTROLLED SUBSTANCE. (3)"
+        },
+        {
+          "charge_disposition": "Dismiss 3/18/97 (3)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1) RUGER.45 18:924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g)(1) KNOWINGLY POSSESS IN AND AFFECTING COMMERCE A FIREARM; ONE RUGER.45 CALIBER SEMI-AUTOMATIC PISTL WHICH HAD BEEN TRANSPROTED IN INTERSTATE COMMERCE; 18:924(a)(2) (4)"
+        },
+        {
+          "charge_disposition": "Dismiss 3/18/97 (4)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "G. Thomas Porteous, Jr.",
+          "judge_guid": "urn:entity:jud-100093118"
+        }
+      ]
+    }
+  ]
+}

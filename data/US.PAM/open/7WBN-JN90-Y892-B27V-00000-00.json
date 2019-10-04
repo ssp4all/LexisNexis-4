@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAM_106cr253_PAMD",
+  "case_key": "1:06cr253_PAMD",
+  "case_lni": "7WBN-JN90-Y892-B27V-00000-00",
+  "case_number": "1:06cr253",
+  "case_title": "USA v. Powell",
+  "case_info_full_case_name": "USA v. Powell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Powell",
+  "case_date_filed": "2006-07-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kyia Shari Powell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26, 5841,5861 (d), 5871, 18, 2.POSSESSION"
+        },
+        {
+          "charge_description": "26, 5841,5861 (d), and 5871, and 18, 2.POSSESSION OF AN UNREGISTERED MACHINE GUN, AID,ABET (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18,922 (o) 2. (1/06)"
+        },
+        {
+          "charge_description": "18,922 (o) and Section 2. POSSESSION OF A MACHINE GUN, AID,ABET (1/06) (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18, 922 (g)(3) 924 (a)(2) 2. (1/06)"
+        },
+        {
+          "charge_description": "18, 922 (g)(3) and 924 (a)(2) and Section 2. DRUG USER IN POSSESSION OF A FIREARM (1/06) (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Christopher C. Conner",
+          "judge_guid": "urn:entity:jud-100058932"
+        }
+      ]
+    }
+  ]
+}

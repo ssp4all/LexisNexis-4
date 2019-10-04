@@ -1,0 +1,98 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_199cr457_txsd",
+  "case_key": "1:99cr457_txsd",
+  "case_lni": "7WBN-GH60-Y892-B4MN-00000-00",
+  "case_number": "1:99cr457",
+  "case_title": "USA v. Lopez",
+  "case_info_full_case_name": "USA v. Lopez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez",
+  "case_date_filed": "1999-11-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - B",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - B",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN ANTONIO LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371 8/1/96-8/13/96 5"
+        },
+        {
+          "charge_description": "18:371 Consp. to receive, conceal, buy, sell &; facilitate the transportation, concealment and sale of merchandise imported into the U.S., knowing said merchandise was imported contrary to law. Offense dates: 8/1/96-8/13/96 Penalty: 5 yrs, $250,000 fine and $100 SA (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:545 8/7/96, 8/11/96, 8/13/96 5"
+        },
+        {
+          "charge_description": "18:545 Receiving, concealing, selling &; facilitating the transportation, concealment &; sale of merchandise imported into the U.S., knowing said merchandise to have been imported contrary to law. Offense dates: 8/7/96, 8/11/96, 8/13/96 Penalty: 5 yrs, $250,000 fine, $100 SA as to ea ct. (2-3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "42:7413 (CFC-12 40CFR80.4(d) 8/13/96 5"
+        },
+        {
+          "charge_description": "42:7413 Violating a requirement of a Clean Air Act rule by importing an ozone-depleting controlled substance (CFC-12 or Freon) into the U.S. during a control period w/o holding an essential-use allowance or exemption in violation of 40 CFR 80.4(d) Offense date: 8/13/96 Penalty: 5 yrs, $250,000 Fine and $100 SA (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:542 (CFC-12 8/13/96 2"
+        },
+        {
+          "charge_description": "18:542 Introducing merchandise (CFC-12 or Freon) into commerce of the U.S. by means of a false material statement. Offense date: 8/13/96 Penalty: 2 yrs, $250, 000 Fine and $100 SA (5)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:545 8/7/96, 8/11/96, 8/13/96 5"
+        },
+        {
+          "charge_description": "18:545 Receiving, concealing, selling &; facilitating the transportation, concealment &; sale of merchandise imported into the U.S., knowing said merchandise to have been imported contrary to law. Offense dates: 8/7/96, 8/11/96, 8/13/96 Penalty: 5 yrs, $250,000 fine, $100 SA as to ea ct. (6)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Hilda G Tagle",
+          "judge_guid": "urn:entity:jud-100013067"
+        }
+      ]
+    }
+  ]
+}

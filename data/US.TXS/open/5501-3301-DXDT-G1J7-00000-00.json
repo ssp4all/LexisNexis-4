@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_712mj357_TXSD",
+  "case_key": "7:12mj357_TXSD",
+  "case_lni": "5501-3301-DXDT-G1J7-00000-00",
+  "case_number": "7:12mj357",
+  "case_title": "USA v. Garza",
+  "case_info_full_case_name": "USA v. Garza",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garza",
+  "case_date_filed": "2012-02-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Juan Ramon Garza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter E. Ormsby",
+          "judge_guid": "urn:entity:jud-100025379"
+        }
+      ]
+    },
+    {
+      "party_name": "Juana De La Paz Castillo-De Hernandez",
+      "party_description": "material witness"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_114cr46_WVND",
+  "case_key": "1:14cr46_WVND",
+  "case_lni": "5CFP-J9C1-DXDT-G3H1-00000-00",
+  "case_number": "1:14cr46",
+  "case_title": "USA v. Shepard",
+  "case_info_full_case_name": "USA v. Shepard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shepard",
+  "case_date_filed": "2014-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Andrea Nicole Shepard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL ACTS - CONTROLLED SUBSTANCE - DISTRIBUTION(1)"
+        },
+        {
+          "charge_disposition": "Time Served. One year of supervised release."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    }
+  ]
+}

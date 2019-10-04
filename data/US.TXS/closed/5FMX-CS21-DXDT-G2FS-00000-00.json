@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_715cr352_TXSD",
+  "case_key": "7:15cr352_TXSD",
+  "case_lni": "5FMX-CS21-DXDT-G2FS-00000-00",
+  "case_number": "7:15cr352",
+  "case_title": "USA v. Rivas-Argueta",
+  "case_info_full_case_name": "USA v. Rivas-Argueta",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivas-Argueta",
+  "case_date_filed": "2015-03-31",
+  "case_status": "Closed",
+  "case_status_date": "03/31/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rolando David Cantu",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "US Probation - Mc",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Hector Manuel Rivas-Argueta",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS(1)"
+        },
+        {
+          "charge_disposition": "3/15/13: TIME SERVED, 3yrs Supervised Release, $100 Special Assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Randy Crane",
+          "judge_guid": "urn:entity:jud-100057978"
+        }
+      ]
+    }
+  ]
+}

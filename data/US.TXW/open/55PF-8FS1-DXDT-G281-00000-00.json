@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_612mj131_TXWD",
+  "case_key": "6:12mj131_TXWD",
+  "case_lni": "55PF-8FS1-DXDT-G281-00000-00",
+  "case_number": "6:12mj131",
+  "case_title": "USA v. Kinard",
+  "case_info_full_case_name": "USA v. Kinard",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kinard",
+  "case_date_filed": "2012-05-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Antony Kinard",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DID POSSESS AND ATTEMPT TO UTTER COUNTERFEIT OBLIGATIONS OR SECURITIES IN VIOLATION OF 18 USC 472."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jeffrey C. Manske",
+          "judge_guid": "urn:entity:jud-100041761"
+        }
+      ]
+    }
+  ]
+}

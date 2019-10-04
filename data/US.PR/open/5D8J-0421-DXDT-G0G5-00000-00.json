@@ -1,0 +1,126 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_314cr578_PRD",
+  "case_key": "3:14cr578_PRD",
+  "case_lni": "5D8J-0421-DXDT-G0G5-00000-00",
+  "case_number": "3:14cr578",
+  "case_title": "USA v. Serna-Gonzalez et al",
+  "case_info_full_case_name": "USA v. Serna-Gonzalez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Serna-Gonzalez et al",
+  "case_date_filed": "2014-10-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Daynelle Maria Alvarez-Lora",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Victor Serna-Gonzalez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(c)(1)(A)and 18:2 A/A, POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME(2)"
+        },
+        {
+          "charge_disposition": "IMPR: Ninety-Six (96)Months to be served consecutively with Eighty-Seven (87) Months in CR-15-693(DRD)for a total term of 183 months; SRT: Five (5) Years to be served concurrently with Four (4) Years in CR-15-693 (DRD); SMA: $100.00; FORFEITURE: Pursuant to Plea Agreement"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1)(B) and 18:2 A/A, POSSESS WITH INTENT TO DISTRIBUTE MARIJUANA(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1), 924(a)(2) and 2 A/A, PROHIBITED PERSON IN POSSESSION OF FIREARM: CONVICTED FELON(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841B=MD.F - Possession with intent to distribute a substance or mixture containing detectable amount of marijuana, 18:924C.F - possession of a firearm in furtherance of drug trafficking crime, 18:922G.F - prohibited person in possession of a firearm - convicted felon , 18:922O.F - Illegal possession of a machine gun"
+        },
+        {
+          "charge_offence_description": "21:841B=MD.F - Possession with intent to distribut"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Daniel R. Dominguez",
+          "judge_guid": "urn:entity:jud-500000323"
+        }
+      ]
+    },
+    {
+      "party_name": "Jonathan Lopez-Albino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:924(c)(1)(A)and 18:2 A/A, POSSESSION OF A FIREARM IN FURTHERANCE OF A DRUG TRAFFICKING CRIME(2)"
+        },
+        {
+          "charge_disposition": "IMPR: Ninety-Six (96) Months; SRT: Five (5) Years; SMA: $100.00; FORFEITURE: Pursuant to Plea Agreement"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841(a)(1)(B) and 18:2 A/A, POSSESS WITH INTENT TO DISTRIBUTE MARIJUANA(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1), 924(a)(2) and 2 A/A, PROHIBITED PERSON IN POSSESSION OF FIREARM: CONVICTED FELON(3)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841B=MD.F - Possession with intent to distribute a substance or mixture containing detectable amount of marijuana, 18:924C.F - possession of a firearm in furtherance of drug trafficking crime, 18:922G.F - prohibited person in possession of a firearm - convicted felon , 18:922O.F - Illegal possession of a machine gun"
+        },
+        {
+          "charge_offence_description": "21:841B=MD.F - Possession with intent to distribut"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Daniel R. Dominguez",
+          "judge_guid": "urn:entity:jud-500000323"
+        }
+      ]
+    },
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    }
+  ]
+}

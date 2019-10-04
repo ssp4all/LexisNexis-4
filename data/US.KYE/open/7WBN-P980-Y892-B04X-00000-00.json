@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.KYE_706cr14_KYED",
+  "case_key": "7:06cr14_KYED",
+  "case_lni": "7WBN-P980-Y892-B04X-00000-00",
+  "case_number": "7:06cr14",
+  "case_title": "USA v. Middleton",
+  "case_info_full_case_name": "USA v. Middleton",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Middleton",
+  "case_date_filed": "2006-07-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Wesley Middleton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:751(a)"
+        },
+        {
+          "charge_description": "18:751(a) ESCAPE FROM FEDERAL CUSTODY"
+        },
+        {
+          "charge_statute": "18:751(a)"
+        },
+        {
+          "charge_description": "18:751(a) ESCAPE FROM FEDERAL PRISON (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Gregory",
+          "judge_name": "F. Van Tatenhove",
+          "judge_guid": "urn:entity:jud-100067114"
+        }
+      ]
+    }
+  ]
+}

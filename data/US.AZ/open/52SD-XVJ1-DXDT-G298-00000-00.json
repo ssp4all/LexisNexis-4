@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411mj6750_AZD",
+  "case_key": "4:11mj6750_AZD",
+  "case_lni": "52SD-XVJ1-DXDT-G298-00000-00",
+  "case_number": "4:11mj6750",
+  "case_title": "USA v. Leon-Cordova",
+  "case_info_full_case_name": "USA v. Leon-Cordova",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leon-Cordova",
+  "case_date_filed": "2011-05-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Manuel Leon-Cordova",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) (b)(1)(C)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(C) Possession w/Intent to Distribute Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_818po4975_MDD",
+  "case_key": "8:18po4975_MDD",
+  "case_lni": "5SXB-FCY1-DXDT-G1T5-00000-00",
+  "case_number": "8:18po4975",
+  "case_title": "USA vs Mackall Sr",
+  "case_info_full_case_name": "USA vs Mackall Sr",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Mackall Sr",
+  "case_date_filed": "2018-07-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Leeallen Mackall Sr",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVER FAIL TO STOP AT STEADY CIRCULAR RED SIGNAL (7400471)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

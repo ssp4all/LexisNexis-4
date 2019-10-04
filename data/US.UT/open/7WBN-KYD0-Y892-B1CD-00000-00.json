@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.UT_208cr206_UTD",
+  "case_key": "2:08cr206_UTD",
+  "case_lni": "7WBN-KYD0-Y892-B1CD-00000-00",
+  "case_number": "2:08cr206",
+  "case_title": "USA v. Sierra-Diaz",
+  "case_info_full_case_name": "USA v. Sierra-Diaz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sierra-Diaz",
+  "case_date_filed": "2008-04-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Manuel Sierra-Diaz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326"
+        },
+        {
+          "charge_description": "8:1326 REENTRY OF DEPORTED ALIENS Reentry of a Previously Removed Alien (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Tena Campbell",
+          "judge_guid": "urn:entity:jud-100059825"
+        }
+      ]
+    }
+  ]
+}

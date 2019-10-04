@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_214cr20344_MIED",
+  "case_key": "2:14cr20344_MIED",
+  "case_lni": "5CFP-J9F1-DXDT-G0JF-00000-00",
+  "case_number": "2:14cr20344",
+  "case_title": "United States of America v. Phillips",
+  "case_info_full_case_name": "United States of America v. Phillips",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Phillips",
+  "case_date_filed": "2014-06-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Rodney Phillips",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: 24 MONTHS; SUPERVISED RELEASE: 24 MONTHS; SPECIAL ASSESSMENT: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_offence_description": "COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Gershwin A. Drain",
+          "judge_guid": "urn:entity:jud-100106715"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Paul J. Komives",
+          "judge_guid": "urn:entity:jud-100040063"
+        }
+      ]
+    }
+  ]
+}

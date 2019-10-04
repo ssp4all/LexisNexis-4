@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_508mj49_OKWD",
+  "case_key": "5:08mj49_OKWD",
+  "case_lni": "7WBN-NYY0-Y892-B36C-00000-00",
+  "case_number": "5:08mj49",
+  "case_title": "United States of America v. Anderson",
+  "case_info_full_case_name": "United States of America v. Anderson",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Anderson",
+  "case_date_filed": "2008-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Charles G Kels",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Russell D. Anderson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ASSAULT, OTHER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert Bacharach",
+          "judge_guid": "urn:entity:jud-100104560"
+        }
+      ]
+    }
+  ]
+}

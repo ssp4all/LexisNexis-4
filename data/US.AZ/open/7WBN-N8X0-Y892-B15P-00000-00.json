@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_400m5615_azd",
+  "case_key": "4:00m5615_azd",
+  "case_lni": "7WBN-N8X0-Y892-B15P-00000-00",
+  "case_number": "4:00m5615",
+  "case_title": "USA, et al v. Garza-Lorta",
+  "case_info_full_case_name": "USA, et al v. Garza-Lorta",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Garza-Lorta",
+  "case_date_filed": "2000-11-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROSA AMALIA GARZA-LORTA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2-21:844A=MP.M"
+        },
+        {
+          "charge_description": "Count 2-21:844A=MP.M MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1-21:841(a)(1)"
+        },
+        {
+          "charge_description": "Count 1-21:841(a)(1) Possess with intent to distribute marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "James C Carruth",
+          "judge_guid": "urn:entity:jud-100009994"
+        }
+      ]
+    }
+  ]
+}

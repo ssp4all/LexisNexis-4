@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_107cr10065_TNWD",
+  "case_key": "1:07cr10065_TNWD",
+  "case_lni": "7WBN-JPC0-Y892-B2FM-00000-00",
+  "case_number": "1:07cr10065",
+  "case_title": "USA v. Smith",
+  "case_info_full_case_name": "USA v. Smith",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Smith",
+  "case_date_filed": "2007-06-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Cam Towers Jones",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Garrison Dewayne Smith",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "James D. Todd",
+          "judge_guid": "urn:entity:jud-100006586"
+        }
+      ]
+    }
+  ]
+}

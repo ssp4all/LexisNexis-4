@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_497cr137_txnd",
+  "case_key": "4:97cr137_txnd",
+  "case_lni": "7WBN-HS40-Y892-B12H-00000-00",
+  "case_number": "4:97cr137",
+  "case_title": "USA v. Peterson",
+  "case_info_full_case_name": "USA v. Peterson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Peterson",
+  "case_date_filed": "1997-11-12",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC usa]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANDDREIN JANETT PETERSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:656-EMBEZZLEMENT"
+        },
+        {
+          "charge_description": "18:656-EMBEZZLEMENT BY BANK EMPLOYEE (1)"
+        },
+        {
+          "charge_disposition": "Plead guilty-Dft committed to BOP 1 month. S/R 5 yrs. Restitution $11,362.33. MSA $100.00. Dft to surrender for service of sentence at the institution designated by the BOP on Tuesday, May 19, 1998 no later than 2:00pm. (6pg) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sidney A Fitzwater",
+          "judge_guid": "urn:entity:jud-100046409"
+        }
+      ]
+    }
+  ]
+}

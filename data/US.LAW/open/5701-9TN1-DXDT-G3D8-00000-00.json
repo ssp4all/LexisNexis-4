@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_512po301_LAWD",
+  "case_key": "5:12po301_LAWD",
+  "case_lni": "5701-9TN1-DXDT-G3D8-00000-00",
+  "case_number": "5:12po301",
+  "case_title": "USA vs Cantu",
+  "case_info_full_case_name": "USA vs Cantu",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cantu",
+  "case_date_filed": "2012-11-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John S Odom",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gilberto Cantu",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Speeding (1295354)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark L Hornsby",
+          "judge_guid": "urn:entity:jud-100051199"
+        }
+      ]
+    }
+  ]
+}

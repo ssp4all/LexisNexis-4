@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_209mj4715_TXWD",
+  "case_key": "2:09mj4715_TXWD",
+  "case_lni": "7WBN-RCY0-Y892-B0XJ-00000-00",
+  "case_number": "2:09mj4715",
+  "case_title": "USA v. Sanchez",
+  "case_info_full_case_name": "USA v. Sanchez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sanchez",
+  "case_date_filed": "2009-05-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Savannah Sanchez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC952, 960-unlawfully, 17.64 weight/15.68"
+        },
+        {
+          "charge_description": "21 USC 952, 960-unlawfully, knowingly and intentionally import and cause to be imported a quantity of marijuana, to wit 17.64 kilograms gross weight/15.68 kilograms net weight, a Schedule I Controlled Substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

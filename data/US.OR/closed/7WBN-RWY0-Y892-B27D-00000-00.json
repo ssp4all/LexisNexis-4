@@ -1,0 +1,75 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_394cr99_ord",
+  "case_key": "3:94cr99_ord",
+  "case_lni": "7WBN-RWY0-Y892-B27D-00000-00",
+  "case_number": "3:94cr99",
+  "case_title": "USA v. Pinski, et al",
+  "case_info_full_case_name": "USA v. Pinski, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pinski, et al",
+  "case_date_filed": "1994-03-23",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID W PINSKI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7201"
+        },
+        {
+          "charge_description": "26:7201 INCOME TAX/ATTEMPT TO EVADE OR DEFEAT TAX (1-4)"
+        },
+        {
+          "charge_disposition": "SENTENCED: 10/26/95, IMPRISONMENT: Count 1-18 months. As to Counts 2-4, 18 months, to be served concurrently with that imposed in Count 1 and one another. SUPERVISED RELEASE: 3 years, SPECIAL ASSESSMENT: 200.00 ($50.00 each count) (1-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Helen J Frye",
+          "judge_guid": "urn:entity:jud-100004700"
+        }
+      ]
+    },
+    {
+      "party_name": "FAYE I PINSKI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7201"
+        },
+        {
+          "charge_description": "26:7201 INCOME TAX/ATTEMPT TO EVADE OR DEFEAT TAX (1-4)"
+        },
+        {
+          "charge_disposition": "SENTENCED: 10/26/95, IMPRISONMENT: 18 months as to Count 1. As to Counts 2-4, 18 months to run concurrently with one another and to the sentence imposed in Count 1. SUPERVISED RELEASE: 3 years, SPECIAL ASSESSMENT: $200.00 ($50.00 on each count) (1-4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Helen J Frye",
+          "judge_guid": "urn:entity:jud-100004700"
+        }
+      ]
+    }
+  ]
+}

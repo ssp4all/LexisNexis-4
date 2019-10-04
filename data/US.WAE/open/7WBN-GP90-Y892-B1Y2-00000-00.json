@@ -1,0 +1,69 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAE_205cr2006_WAED",
+  "case_key": "2:05cr2006_WAED",
+  "case_lni": "7WBN-GP90-Y892-B1Y2-00000-00",
+  "case_number": "2:05cr2006",
+  "case_title": "USA v. Slick",
+  "case_info_full_case_name": "USA v. Slick",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Slick",
+  "case_date_filed": "2005-01-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Monte Craig Slick",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "26:5861D.F"
+        },
+        {
+          "charge_statute": "26:5861(d)"
+        },
+        {
+          "charge_description": "26:5861(d) POSSESSION OF A UNREGISTERED FIREARM (1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(k)"
+        },
+        {
+          "charge_description": "18:922(k) POSSESSION OF FIREARM WITH OBLITERATED SERIAL NUMBER (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(3)"
+        },
+        {
+          "charge_description": "18:922(g)(3) POSSESSION OF A FIREARM BY PROHIBITED PERSON (4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Lonny R. Suko",
+          "judge_guid": "urn:entity:jud-100019716"
+        }
+      ]
+    }
+  ]
+}

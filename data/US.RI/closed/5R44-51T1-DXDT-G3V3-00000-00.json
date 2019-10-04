@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.RI_117cr124_RID",
+  "case_key": "1:17cr124_RID",
+  "case_lni": "5R44-51T1-DXDT-G3V3-00000-00",
+  "case_number": "1:17cr124",
+  "case_title": "USA v. Bacon",
+  "case_info_full_case_name": "USA v. Bacon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bacon",
+  "case_date_filed": "2017-12-06",
+  "case_status": "Closed",
+  "case_status_date": "01/18/2019",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Cooper Bacon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "SEAMAN'S MANSLAUGHTER in Violation of 18 USC 1115(1)"
+        },
+        {
+          "charge_disposition": "Court imposes 2 years of Probation. A $100 Special Assessment. Restitution in the amount of $1800. No fine imposed."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "John J. McConnell, Jr.",
+          "judge_guid": "urn:entity:jud-100041106"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patricia A. Sullivan",
+          "judge_guid": "urn:entity:jud-100102382"
+        }
+      ]
+    }
+  ]
+}

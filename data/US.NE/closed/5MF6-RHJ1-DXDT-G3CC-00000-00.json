@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_816mj429_NED",
+  "case_key": "8:16mj429_NED",
+  "case_lni": "5MF6-RHJ1-DXDT-G3CC-00000-00",
+  "case_number": "8:16mj429",
+  "case_title": "USA v. $6,300.00 in United States currency",
+  "case_info_full_case_name": "USA v. $6,300.00 in United States currency",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "$6,300.00 in United States currency",
+  "case_date_filed": "2016-12-20",
+  "case_status": "Closed",
+  "case_status_date": "12/28/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "$6,300.00 in ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas D. Thalken",
+          "judge_guid": "urn:entity:jud-100007179"
+        }
+      ]
+    }
+  ]
+}

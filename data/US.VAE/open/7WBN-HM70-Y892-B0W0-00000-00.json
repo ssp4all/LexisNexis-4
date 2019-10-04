@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_405mj83_VAED",
+  "case_key": "4:05mj83_VAED",
+  "case_lni": "7WBN-HM70-Y892-B0W0-00000-00",
+  "case_number": "4:05mj83",
+  "case_title": "USA v. KOLBECK",
+  "case_info_full_case_name": "USA v. KOLBECK",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "KOLBECK",
+  "case_date_filed": "2005-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EMILY J KOLBECK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC844, 21:844A=CP.M,"
+        },
+        {
+          "charge_description": "Title 21 USC 844, 21:844A=CP.M, Possession of marijuana (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable Magistrate",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

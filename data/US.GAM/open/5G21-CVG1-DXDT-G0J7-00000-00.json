@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_315cr19_GAMD",
+  "case_key": "3:15cr19_GAMD",
+  "case_lni": "5G21-CVG1-DXDT-G0J7-00000-00",
+  "case_number": "3:15cr19",
+  "case_title": "UNITED STATES OF AMERICA v. BLACK",
+  "case_info_full_case_name": "UNITED STATES OF AMERICA v. BLACK",
+  "case_info_short_case_name": "UNITED STATES OF AMERICA",
+  "case_info_party1": "UNITED STATES OF AMERICA",
+  "case_info_party2": "BLACK",
+  "case_date_filed": "2015-05-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JAMIE ELDRED BLACK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 922(g)(1) - UNLAWFUL TRANSPORT AND POSSESSION OF FIREARMS BY A CONVICTED FELON(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment of 57 months, 3 years supervised release. (2/18/2016 REVOCATION OF SUPERVISED RELEASE - 24 months imprisonment to be served concurrently to the term of imprisonment imposed in Case No. 3:14-CR-56-001.)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "C ASHLEY ROYAL",
+          "judge_guid": "urn:entity:jud-100011335"
+        },
+        {
+          "judge_name": "US MAGISTRATE JUDGE CHARLES H WEIGLE",
+          "judge_guid": "urn:entity:jud-100071545"
+        }
+      ]
+    }
+  ]
+}

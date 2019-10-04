@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCE_702m115_nced",
+  "case_key": "7:02m115_nced",
+  "case_lni": "7WBN-J2S0-Y892-B0V2-00000-00",
+  "case_number": "7:02m115",
+  "case_title": "USA v. McCaffity",
+  "case_info_full_case_name": "USA v. McCaffity",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McCaffity",
+  "case_date_filed": "2002-03-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LAURETTA S. MCCAFFITY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1382"
+        },
+        {
+          "charge_description": "18:1382 ENTERING MILITARY/NAVAL/COAST GUARD PROPERTY (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-1600.P"
+        },
+        {
+          "charge_description": "18:13-1600.P ASSAULT, OTHER; RESIST, DELAY OR OBSTRUCT A POLICE OFFICER (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "USMJ",
+          "judge_name": "William N. Mason",
+          "judge_guid": "urn:entity:jud-100027235"
+        }
+      ]
+    }
+  ]
+}

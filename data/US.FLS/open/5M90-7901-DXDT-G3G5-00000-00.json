@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_116cr20896_FLSD",
+  "case_key": "1:16cr20896_FLSD",
+  "case_lni": "5M90-7901-DXDT-G3G5-00000-00",
+  "case_number": "1:16cr20896",
+  "case_title": "USA v. Shaw",
+  "case_info_full_case_name": "USA v. Shaw",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shaw",
+  "case_date_filed": "2016-11-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Denise Andrea Shaw",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:401(3) Contempt of Court(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Kathleen M. Williams",
+          "judge_guid": "urn:entity:jud-100022611"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_300cr47_vaed",
+  "case_key": "3:00cr47_vaed",
+  "case_lni": "7WBN-RJV0-Y892-B41V-00000-00",
+  "case_number": "3:00cr47",
+  "case_title": "USA v. McDowell",
+  "case_info_full_case_name": "USA v. McDowell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McDowell",
+  "case_date_filed": "2000-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANDREW ISAAC MCDOWELL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 18:2:"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; 18:2: POSSESSION WITH INTENT TO DISTRIBUTE AND DISTRIBUTION OF MARIJUANA; AIDING AND ABETTING [21:841B=MD.F] (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:859: (21)"
+        },
+        {
+          "charge_description": "21:859: DISTRIBUTION OF MARIJUANA TO A PERSON UNDER THE AGE OF TWENTY-ONE (21) YEARS [21:859A=MD.F] (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:13; 1950 18.2-371:"
+        },
+        {
+          "charge_description": "18:13; ASSIMILATING THE 1950 CODE OF VIRGINIA, AS AMENDED, SECTION 18.2-371: CONTRIBUTING TO THE DELINQUENCY OF A MONOR (A MISDEMEANOR OFFENSE) [18:13-9999.M] (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC844 841(a)(1) 21; 21"
+        },
+        {
+          "charge_description": "21 U.S.C. 844 and 841(a)(1) POSSESS A CONTROLLED SUBSTANCE WITH INTENT TO DISTRIBUTE TO PERSON UNDER 21; DISTRIBUTE CONTROLLED SUBSTANCE TOPERSON UNDER 21 [3:00-m-6]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James R. Spencer",
+          "judge_guid": "urn:entity:jud-100065998"
+        }
+      ]
+    }
+  ]
+}

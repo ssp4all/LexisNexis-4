@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_207mj856_NMD",
+  "case_key": "2:07mj856_NMD",
+  "case_lni": "7WBN-GTG0-Y892-B4BF-00000-00",
+  "case_number": "2:07mj856",
+  "case_title": "USA v. Francia",
+  "case_info_full_case_name": "USA v. Francia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Francia",
+  "case_date_filed": "2007-04-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Leroy Manuel Francia",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841: 50"
+        },
+        {
+          "charge_description": "21:841: POSSESSION WITH INTENT TO DISTRIBUTE OVER 50 KILOGRAMS OF MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lourdes A. Martinez",
+          "judge_guid": "urn:entity:jud-100041486"
+        }
+      ]
+    }
+  ]
+}

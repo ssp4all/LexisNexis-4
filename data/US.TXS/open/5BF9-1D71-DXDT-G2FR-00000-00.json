@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_514po1165_TXSD",
+  "case_key": "5:14po1165_TXSD",
+  "case_lni": "5BF9-1D71-DXDT-G2FR-00000-00",
+  "case_number": "5:14po1165",
+  "case_title": "USA v. Ojeda-Balderas",
+  "case_info_full_case_name": "USA v. Ojeda-Balderas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ojeda-Balderas",
+  "case_date_filed": "2014-02-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Abraham Ojeda-Balderas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "J. Scott Hacker",
+          "judge_guid": "urn:entity:jud-100070615"
+        }
+      ]
+    }
+  ]
+}

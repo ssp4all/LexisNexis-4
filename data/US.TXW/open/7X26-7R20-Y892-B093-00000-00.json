@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_709mj295_TXWD",
+  "case_key": "7:09mj295_TXWD",
+  "case_lni": "7X26-7R20-Y892-B093-00000-00",
+  "case_number": "7:09mj295",
+  "case_title": "USA v. Chavez",
+  "case_info_full_case_name": "USA v. Chavez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chavez",
+  "case_date_filed": "2009-11-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Chrystal Olivaris Chavez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=CD.F 4, 2009, 50 21USC841(a)(1)and"
+        },
+        {
+          "charge_description": "21:841A=CD.F On or about November 4, 2009, in Midland County, in the Western District of Texas, the defendant knowingly distributed 50 grams or more of a mixture and substance containing a detectable amount of methamphetamine in violation of Title 21 USC 841(a)(1)and (b)(1)(B)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "David Counts",
+          "judge_guid": "urn:entity:jud-100058103"
+        }
+      ]
+    }
+  ]
+}

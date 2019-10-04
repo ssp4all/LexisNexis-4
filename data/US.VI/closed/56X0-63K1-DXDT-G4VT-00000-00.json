@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VI_110cr23_VID",
+  "case_key": "1:10cr23_VID",
+  "case_lni": "56X0-63K1-DXDT-G4VT-00000-00",
+  "case_number": "1:10cr23",
+  "case_title": "USA v. Charles",
+  "case_info_full_case_name": "USA v. Charles",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Charles",
+  "case_date_filed": "2010-06-08",
+  "case_status": "Closed",
+  "case_status_date": "09/09/2010",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Alphonso A Andrews",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Rhonda Williams-Henry",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jamason Dexter Charles",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "FIREARMS, UNLAWFUL POSSESSION(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "MURDER, FIRST DEGREE(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Raymond L. Finch",
+          "judge_guid": "urn:entity:jud-100046519"
+        },
+        {
+          "judge_name": "US Magistrate Judge George W Cannon",
+          "judge_guid": "urn:entity:jud-100059781"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_312cr678_CAND",
+  "case_key": "3:12cr678_CAND",
+  "case_lni": "56M2-67X1-DXDT-G3D3-00000-00",
+  "case_number": "3:12cr678",
+  "case_title": "USA v. Catledge et al",
+  "case_info_full_case_name": "USA v. Catledge et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Catledge et al",
+  "case_date_filed": "2012-09-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jonathan D. Schmidt",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Robert David Rees",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James B. Catledge",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1341 - Mail Fraud; 18:981(1)(1)(c) and 28:2461(c) - Criminal Forfeiture(2)"
+        },
+        {
+          "charge_disposition": "60 months in custody; 3 years supervised release; Special Assessment $100 (See judgment for additional conditions)."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1349 - Conspiracy to Commit Mail Fraud(1)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341 - Mail Fraud; 18:981(1)(1)(c) and 28:2461(c) - Criminal Forfeiture(3-4)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    },
+    {
+      "party_name": "Derek F.C. Elliott",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1349 - Conspiracy to Commit Mail Fraud(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1341 - Mail Fraud; 18:981(1)(1)(c) and 28:2461(c) - Criminal Forfeiture(2-4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Maxine M. Chesney",
+          "judge_guid": "urn:entity:jud-100058738"
+        }
+      ]
+    }
+  ]
+}

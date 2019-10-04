@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NE_815cr172_NED",
+  "case_key": "8:15cr172_NED",
+  "case_lni": "5G21-CVG1-DXDT-G11T-00000-00",
+  "case_number": "8:15cr172",
+  "case_title": "USA v. Miller",
+  "case_info_full_case_name": "USA v. Miller",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Miller",
+  "case_date_filed": "2015-05-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mikel Miller",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A(a)(5)(B) POSSESSION OF CHILD PORNOGRAPHY"
+        },
+        {
+          "charge_offence_description": "18:2252A(a)(5)(B) POSSESSION OF CHILD PORNOGRAPHY"
+        },
+        {
+          "charge_description": "18:2252A(a)(2)(A)&;(B) RECEIPT AND DISTRIBUTION OF CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252A(a)(5)(B) POSSESSION OF CHILD PORNOGRAPHY(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Lyle E. Strom",
+          "judge_guid": "urn:entity:jud-100013616"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "F.A. Gossett",
+          "judge_guid": "urn:entity:jud-100048765"
+        }
+      ]
+    }
+  ]
+}

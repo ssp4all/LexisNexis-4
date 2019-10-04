@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_913mj30_MTD",
+  "case_key": "9:13mj30_MTD",
+  "case_lni": "58SN-STN1-DXDT-G3BD-00000-00",
+  "case_number": "9:13mj30",
+  "case_title": "USA v. Powell",
+  "case_info_full_case_name": "USA v. Powell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Powell",
+  "case_date_filed": "2013-07-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Wayne Powell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE METHAMPHETAMINE; Title 21 USC 846(Count I). POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE; Title 21 USC 841(a)(1)(Count II)"
+        },
+        {
+          "charge_offence_description": "CONSPIRACY TO DISTRIBUTE METHAMPHETAMINE; Title 21"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Jeremiah C. Lynch",
+          "judge_guid": "urn:entity:jud-100052237"
+        }
+      ]
+    }
+  ]
+}

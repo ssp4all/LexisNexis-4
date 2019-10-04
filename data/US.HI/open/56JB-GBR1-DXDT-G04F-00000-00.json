@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_112cr937_HID",
+  "case_key": "1:12cr937_HID",
+  "case_lni": "56JB-GBR1-DXDT-G04F-00000-00",
+  "case_number": "1:12cr937",
+  "case_title": "USA v. Recendiz-Ripoll",
+  "case_info_full_case_name": "USA v. Recendiz-Ripoll",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Recendiz-Ripoll",
+  "case_date_filed": "2012-09-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Yesenia Recendiz-Ripoll",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER - HRS 286-132; HRS 286-136 Suspended, Canceled, Revoked Driver's License; 07/02/2012 SB, A2450760/H10(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "BARRY M. KURREN",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

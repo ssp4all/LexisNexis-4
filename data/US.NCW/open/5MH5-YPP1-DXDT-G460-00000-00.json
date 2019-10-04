@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NCW_116cr160_NCWD",
+  "case_key": "1:16cr160_NCWD",
+  "case_lni": "5MH5-YPP1-DXDT-G460-00000-00",
+  "case_number": "1:16cr160",
+  "case_title": "USA v. Ball",
+  "case_info_full_case_name": "USA v. Ball",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ball",
+  "case_date_filed": "2016-12-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sidney Jerald Ball",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), 841(b)(1)(A), and 21:851 - POSSESSION WITH INTENT TO DISTRIBUTE 12.04 KILOGRAMS OF COCAINE"
+        },
+        {
+          "charge_disposition": "240 mos. Imprisonment; 10 yrs. Supervised Release; $100 Assessment. 08/03/16 NOTICE OF CLEMENCY commuting sentence of Imprisonment, only, leaving intact and in effect Supervised Release with all its conditions and all other components of sentence."
+        },
+        {
+          "charge_offence_description": "21:841(a)(1), 841(b)(1)(A), and 21:851 - POSSESSIO"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martin Reidinger",
+          "judge_guid": "urn:entity:jud-100015077"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis Howell",
+          "judge_guid": "urn:entity:jud-100033959"
+        }
+      ]
+    }
+  ]
+}

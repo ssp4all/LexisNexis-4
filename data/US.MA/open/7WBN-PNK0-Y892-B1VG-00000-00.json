@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_104mj814_MAD",
+  "case_key": "1:04mj814_MAD",
+  "case_lni": "7WBN-PNK0-Y892-B1VG-00000-00",
+  "case_number": "1:04mj814",
+  "case_title": "USA v. Galinha",
+  "case_info_full_case_name": "USA v. Galinha",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Galinha",
+  "case_date_filed": "2004-04-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jose J. Galinha",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "26:7201...Defendant"
+        },
+        {
+          "charge_description": "26:7201...Defendant willfully attempt to evade and defeat taxes due and owing to the United States, to wit, Federal employment taxes"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Marianne B. Bowler",
+          "judge_guid": "urn:entity:jud-100064595"
+        }
+      ]
+    }
+  ]
+}

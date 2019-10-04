@@ -1,0 +1,78 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_702m504_txsd",
+  "case_key": "7:02m504_txsd",
+  "case_lni": "7WBN-P820-Y892-B485-00000-00",
+  "case_number": "7:02m504",
+  "case_title": "USA v. Garza-Salazar, et al",
+  "case_info_full_case_name": "USA v. Garza-Salazar, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garza-Salazar, et al",
+  "case_date_filed": "2002-03-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MARCO ANTONIO RICO-CASTILLO",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    },
+    {
+      "party_name": "JOEL MAZARIEGOS-AGUILAR",
+      "party_description": "material witness",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    },
+    {
+      "party_name": "GUSTAVO GARZA-SALAZAR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transporting illegal aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    },
+    {
+      "party_name": "FELIPE LOPEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Transporting illegal aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Felix Recio",
+          "judge_guid": "urn:entity:jud-100071721"
+        }
+      ]
+    }
+  ]
+}

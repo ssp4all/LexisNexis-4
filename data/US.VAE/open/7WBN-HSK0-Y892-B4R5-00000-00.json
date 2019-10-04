@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_499m183_vaed",
+  "case_key": "4:99m183_vaed",
+  "case_lni": "7WBN-HSK0-Y892-B4R5-00000-00",
+  "case_number": "4:99m183",
+  "case_title": "USA v. Harrison",
+  "case_info_full_case_name": "USA v. Harrison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Harrison",
+  "case_date_filed": "1999-08-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "NATHANIEL HARRISON, SR.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:113E.P"
+        },
+        {
+          "charge_description": "18:113E.P ASSAULT WITHIN SPECIAL MARITIME OR TERRITORIAL JURISDICTION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:1361.M"
+        },
+        {
+          "charge_description": "18:1361.M GOVERNMENT PROPERTY OR CONTRACTS &lt;= $100 (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James E. Bradberry",
+          "judge_guid": "urn:entity:jud-100060968"
+        }
+      ]
+    }
+  ]
+}

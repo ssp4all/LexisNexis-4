@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_612cr22_MTD",
+  "case_key": "6:12cr22_MTD",
+  "case_lni": "57CB-9HK1-DXDT-G040-00000-00",
+  "case_number": "6:12cr22",
+  "case_title": "USA v. Gillespie",
+  "case_info_full_case_name": "USA v. Gillespie",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gillespie",
+  "case_date_filed": "2012-12-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sheryl Gillespie",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO COMMIT FRAUD(1)"
+        },
+        {
+          "charge_disposition": "Defendant placed on probation for a term of 5 years, no crimes/no controlled substances, no firearms/ammunition/destructive devices, cooperate in collection of DNA, drug-testing suspended, comply with standard conditions. Special Conditions: submit to searches with or without warrant/warn others/allow seizure of suspected contraband, provide USPO with any requested financial information and incur no new lines of credit without prior written approval, apply all monies received from income tax refunds, lottery winnings, judgments, and/or any other anticipated or unexpected financial gains to outstanding restitution owed, restitution to be determined in the future, no fine, special assessment of $100.00 due immediately or at a rate of not less than $25 per quarter if incarcerated."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Dana L. Christensen",
+          "judge_guid": "urn:entity:jud-100048492"
+        }
+      ]
+    }
+  ]
+}

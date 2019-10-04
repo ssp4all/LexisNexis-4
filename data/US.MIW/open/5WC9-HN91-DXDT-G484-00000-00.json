@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_119cr145_MIWD",
+  "case_key": "1:19cr145_MIWD",
+  "case_lni": "5WC9-HN91-DXDT-G484-00000-00",
+  "case_number": "1:19cr145",
+  "case_title": "USA v. Duncan",
+  "case_info_full_case_name": "USA v. Duncan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Duncan",
+  "case_date_filed": "2019-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Monta Deon Duncan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(g)(1), 18:921(a), 18:924(a)(2) UNLAWFUL TRANSPORT OF FIREARMS, ETC.; felon in possession of a firearm(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) - UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        },
+        {
+          "charge_offence_description": "18:922(g)(1) - UNLAWFUL TRANSPORT OF FIREARMS, ETC"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Robert J. Jonker",
+          "judge_guid": "urn:entity:jud-100050151"
+        }
+      ]
+    }
+  ]
+}

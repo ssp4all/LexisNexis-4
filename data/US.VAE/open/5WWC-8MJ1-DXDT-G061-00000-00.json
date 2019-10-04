@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_119po1948_VAED",
+  "case_key": "1:19po1948_VAED",
+  "case_lni": "5WWC-8MJ1-DXDT-G061-00000-00",
+  "case_number": "1:19po1948",
+  "case_title": "USA vs Rivera",
+  "case_info_full_case_name": "USA vs Rivera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rivera",
+  "case_date_filed": "2019-09-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jose F Rivera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "LEAVE VECHICLE UNATTENDED WITH MOTOR RUNNING (7626952)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Theresa Carroll Buchanan",
+          "judge_guid": "urn:entity:jud-100081074"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_316po1297_CASD",
+  "case_key": "3:16po1297_CASD",
+  "case_lni": "5K2N-RM61-DXDT-G0WK-00000-00",
+  "case_number": "3:16po1297",
+  "case_title": "USA vs Monjaraz",
+  "case_info_full_case_name": "USA vs Monjaraz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Monjaraz",
+  "case_date_filed": "2016-06-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Isaias Monjaraz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Fail to display evidence of financial responsibility when requested by peace off (4572361)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        },
+        {
+          "charge_description": "Unlawful to drive unless licensed (4572360)(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jan M. Adler",
+          "judge_guid": "urn:entity:jud-100074793"
+        }
+      ]
+    }
+  ]
+}

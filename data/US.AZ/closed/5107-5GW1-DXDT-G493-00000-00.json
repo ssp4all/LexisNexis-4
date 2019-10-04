@@ -1,0 +1,29 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_210po5881_AZD",
+  "case_key": "2:10po5881_AZD",
+  "case_lni": "5107-5GW1-DXDT-G493-00000-00",
+  "case_number": "2:10po5881",
+  "case_title": "USA v. Chen",
+  "case_info_full_case_name": "USA v. Chen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Chen",
+  "case_date_filed": "2010-09-10",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Zengyu Chen",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jay R Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

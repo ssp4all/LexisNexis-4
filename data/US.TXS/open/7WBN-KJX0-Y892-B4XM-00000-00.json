@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_204cr181_TXSD",
+  "case_key": "2:04cr181_TXSD",
+  "case_lni": "7WBN-KJX0-Y892-B4XM-00000-00",
+  "case_number": "2:04cr181",
+  "case_title": "USA v. Clack",
+  "case_info_full_case_name": "USA v. Clack",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Clack",
+  "case_date_filed": "2004-04-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - C",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL SHANE CLACK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "commerce-18USC922(g)(1) 924(a)(2). 11/26/03 10 3"
+        },
+        {
+          "charge_description": "Did knowingly possess a firearm while a convicted felon in and affecting commerce-18 USC 922(g)(1) and 924(a)(2). DATE OF OFFENSE: 11/26/03 PENALTY: Not more than 10 years imprisonment, a fine of $250, 000, (or both), not more than 3 years SRT, and a $100 Special Assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Hayden W. Head, Jr",
+          "judge_guid": "urn:entity:jud-100052027"
+        }
+      ]
+    }
+  ]
+}

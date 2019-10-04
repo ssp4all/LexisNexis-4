@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_413mj52_TXND",
+  "case_key": "4:13mj52_TXND",
+  "case_lni": "57MG-DP11-DXDT-G0P2-00000-00",
+  "case_number": "4:13mj52",
+  "case_title": "USA v. Torres-Martinez",
+  "case_info_full_case_name": "USA v. Torres-Martinez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres-Martinez",
+  "case_date_filed": "2013-01-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Joshua T Burgess-DOJ",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED;Bar Status: Admitted/In Good Standing"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eusebio Torres-Martinez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841(a)(1), (b)(1)(B) Possession with intent to distribute controlled substance; 21:846 Conspiracy to possess with intent to distribute controlled substance"
+        },
+        {
+          "charge_offence_description": "21:841(a)(1), (b)(1)(B) Possession with intent to "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jeffrey L Cureton",
+          "judge_guid": "urn:entity:jud-100017718"
+        }
+      ]
+    }
+  ]
+}

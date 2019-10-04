@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_100cr124_gand",
+  "case_key": "1:00cr124_gand",
+  "case_lni": "7WBN-G200-Y892-B3WY-00000-00",
+  "case_number": "1:00cr124",
+  "case_title": "USA v. Guimaraes",
+  "case_info_full_case_name": "USA v. Guimaraes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guimaraes",
+  "case_date_filed": "2000-03-07",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-8730.M-Illegal"
+        },
+        {
+          "charge_description": "18:13-8730.M-Illegal entry into US (1)"
+        },
+        {
+          "charge_disposition": "CNT 1: 6 mos probation-$10 special assessment-$990 fine (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Linda T. Walker",
+          "judge_guid": "urn:entity:jud-100080855"
+        }
+      ]
+    }
+  ]
+}

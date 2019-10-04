@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_215po97_WAWD",
+  "case_key": "2:15po97_WAWD",
+  "case_lni": "5FGW-G3C1-DXDT-G34T-00000-00",
+  "case_number": "2:15po97",
+  "case_title": "USA vs Berge",
+  "case_info_full_case_name": "USA vs Berge",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Berge",
+  "case_date_filed": "2015-03-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Travis K Berge",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failure to comply with signs or directions of law enforcement (3180735)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "James P. Donohue",
+          "judge_guid": "urn:entity:jud-100053646"
+        }
+      ]
+    }
+  ]
+}

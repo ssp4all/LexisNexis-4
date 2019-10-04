@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_502cr56_txsd",
+  "case_key": "5:02cr56_txsd",
+  "case_lni": "7WBN-NTH0-Y892-B4Y3-00000-00",
+  "case_number": "5:02cr56",
+  "case_title": "USA v. Zapico-Rios",
+  "case_info_full_case_name": "USA v. Zapico-Rios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zapico-Rios",
+  "case_date_filed": "2002-01-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JACOB ZAPICO-RIOS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 21:841A=MD.F 128 20 3"
+        },
+        {
+          "charge_description": "Count 1: 21:841A=MD.F Possess with intent to distribute approx 128 lbs gross weight of marijuana. Penalty: 0 to 20 yrs and/or $1 mil; $100 cvf; 3 yrs tsr. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "58.25"
+        },
+        {
+          "charge_description": "Knowingly and unlawfully possess with the intent to distribute a controlled substance, to-wit: approximately 58.25 kilograms of marijuana. [5:01-m-3891]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Keith P Ellison",
+          "judge_guid": "urn:entity:jud-100056538"
+        }
+      ]
+    }
+  ]
+}

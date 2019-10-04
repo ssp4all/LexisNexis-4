@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_105mj6021_ILCD",
+  "case_key": "1:05mj6021_ILCD",
+  "case_lni": "7WBN-PPB0-Y892-B3V8-00000-00",
+  "case_number": "1:05mj6021",
+  "case_title": "USA v. Bravo-Madrigal et al",
+  "case_info_full_case_name": "USA v. Bravo-Madrigal et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bravo-Madrigal et al",
+  "case_date_filed": "2005-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gerardo Bravo-Madrigal",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-Transporting 5/12/05"
+        },
+        {
+          "charge_description": "8:1324.F-Transporting illegal alien in the United States-On or about 5/12/05 within the CDIL, Dfts did knowingly and in reckless disregard of the fact that an alien has come to, entered and remained in the United States, moved and transported such alien in violation of 8 USC Section 1324(a)(1)(a)(ii)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    },
+    {
+      "party_name": "Julio Favela-Niebla",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F-Transporting 5/12/05"
+        },
+        {
+          "charge_description": "8:1324.F-Transporting illegal alien in the United States-On or about 5/12/05 within the CDIL, Dfts did knowingly and in reckless disregard of the fact that an alien has come to, entered and remained in the United States, moved and transported such alien in violation of 8 USC Section 1324(a)(1)(a)(ii)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

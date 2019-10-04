@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_215mj7679_AZD",
+  "case_key": "2:15mj7679_AZD",
+  "case_lni": "5HHY-MYC1-DXDT-G4M8-00000-00",
+  "case_number": "2:15mj7679",
+  "case_title": "USA v. Gaspar-Cortes",
+  "case_info_full_case_name": "USA v. Gaspar-Cortes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gaspar-Cortes",
+  "case_date_filed": "2015-12-04",
+  "case_status": "Closed",
+  "case_status_date": "01/13/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Artemio Gaspar-",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325(a)(2), Alien Eluding the Examination and Inspection of Immigration Officers"
+        },
+        {
+          "charge_disposition": ". Defendant is hereby committed to the custody of the Bureau of Prisons for a term of SEVENTY-FIVE (75) DAYS, with credit for days served. Upon Oral Motion of the Government, the Complaint is DISMISSED"
+        },
+        {
+          "charge_offence_description": "8:1325(a)(2), Alien Eluding the Examination and In"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bridget S Bade",
+          "judge_guid": "urn:entity:jud-100102302"
+        }
+      ]
+    }
+  ]
+}

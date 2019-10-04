@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_301m25_vaed",
+  "case_key": "3:01m25_vaed",
+  "case_lni": "7WBN-MJ60-Y892-B1KF-00000-00",
+  "case_number": "3:01m25",
+  "case_title": "USA v. Brown",
+  "case_info_full_case_name": "USA v. Brown",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Brown",
+  "case_date_filed": "2001-02-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SHERMAN BROWN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13, 1950 46.2-301-Driving (18:13-7220.M)"
+        },
+        {
+          "charge_description": "18:13, assimilating the 1950 Code of Virginia, as amended, Section 46.2-301-Driving on a suspended license (18:13-7220.M) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis W. Dohnal",
+          "judge_guid": "urn:entity:jud-100044444"
+        }
+      ]
+    }
+  ]
+}

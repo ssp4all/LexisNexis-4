@@ -1,0 +1,67 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAE_202cr536_paed",
+  "case_key": "2:02cr536_paed",
+  "case_lni": "7WBN-R3T0-Y892-B049-00000-00",
+  "case_number": "2:02cr536",
+  "case_title": "USA v. SHEPARD",
+  "case_info_full_case_name": "USA v. SHEPARD",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "SHEPARD",
+  "case_date_filed": "2002-09-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "FLOYD MILLER",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ANDREW ELISHA SHEPARD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)(b)(1)"
+        },
+        {
+          "charge_description": "8:1326(a)(b)(1) ILLEGAL REENTRY FOLLOWING DEPORTATION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1001"
+        },
+        {
+          "charge_description": "18:1001 FALSE STATEMENT (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:911"
+        },
+        {
+          "charge_description": "18:911 FALSELY CLAIMING TO BE U.S. CITIZEN (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "JUDGE",
+          "judge_name": "JAN E. DUBOIS",
+          "judge_guid": "urn:entity:jud-100044151"
+        }
+      ]
+    }
+  ]
+}

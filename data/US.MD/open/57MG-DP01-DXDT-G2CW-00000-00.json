@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_813po777_MDD",
+  "case_key": "8:13po777_MDD",
+  "case_lni": "57MG-DP01-DXDT-G2CW-00000-00",
+  "case_number": "8:13po777",
+  "case_title": "USA vs Jackson",
+  "case_info_full_case_name": "USA vs Jackson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jackson",
+  "case_date_filed": "2013-01-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Stephanie R Jackson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "FAILURE TO OBEY (3645084)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas M. DiGirolamo",
+          "judge_guid": "urn:entity:jud-100044572"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_118cr20658_FLSD",
+  "case_key": "1:18cr20658_FLSD",
+  "case_lni": "5SY7-2PR1-DXDT-G4KG-00000-00",
+  "case_number": "1:18cr20658",
+  "case_title": "USA v. Nails",
+  "case_info_full_case_name": "USA v. Nails",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nails",
+  "case_date_filed": "2018-08-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "David Samuel Turken",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Eloisa Delgado Fernandez",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Anthony De'Marko Nails",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:U.S.C.§1951 HOBBS ACT ROBBERY"
+        },
+        {
+          "charge_offence_description": "18:U.S.C.&#167;1951 HOBBS ACT ROBBERY"
+        },
+        {
+          "charge_description": "18:1951.  HOBBS ACT ROBBERY(1s)"
+        },
+        {
+          "charge_disposition": "Imprisonment: for a total term of 114 months. Followed by Supervised Release for a total term of 3 years."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1951. HOBBS ACT ROBBERY(2s-4s)"
+        },
+        {
+          "charge_disposition": "Imprisonment: for a total term of 114 months.Followed by Supervised Release for a total term of 3 years."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:U.S.C.§1951(a) HOBBS ACT ROBBERY(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Darrin P. Gayles",
+          "judge_guid": "urn:entity:jud-100059071"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alicia M. Otazo-Reyes",
+          "judge_guid": "urn:entity:jud-100102129"
+        }
+      ]
+    }
+  ]
+}

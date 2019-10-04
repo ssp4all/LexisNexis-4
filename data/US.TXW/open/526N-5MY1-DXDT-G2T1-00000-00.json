@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_211mj1029_TXWD",
+  "case_key": "2:11mj1029_TXWD",
+  "case_lni": "526N-5MY1-DXDT-G2T1-00000-00",
+  "case_number": "2:11mj1029",
+  "case_title": "USA v. Alvarado-Rosales",
+  "case_info_full_case_name": "USA v. Alvarado-Rosales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Alvarado-Rosales",
+  "case_date_filed": "2011-02-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Miguel Alejandro Alvarado-Rosales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P-CONCEALMENT"
+        },
+        {
+          "charge_description": "8:1325.P-CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Victor R. Garcia",
+          "judge_guid": "urn:entity:jud-100045734"
+        }
+      ]
+    }
+  ]
+}

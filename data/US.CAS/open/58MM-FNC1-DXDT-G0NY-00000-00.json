@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_513po15242_CASD",
+  "case_key": "5:13po15242_CASD",
+  "case_lni": "58MM-FNC1-DXDT-G0NY-00000-00",
+  "case_number": "5:13po15242",
+  "case_title": "USA v. Garibay-Fuentes",
+  "case_info_full_case_name": "USA v. Garibay-Fuentes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garibay-Fuentes",
+  "case_date_filed": "2013-06-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Juan Edgar Garibay-Fuentes",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "James F. Metcalf",
+          "judge_guid": "urn:entity:jud-100076789"
+        }
+      ]
+    }
+  ]
+}

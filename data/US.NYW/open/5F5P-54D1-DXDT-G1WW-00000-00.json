@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYW_615mj515_NYWD",
+  "case_key": "6:15mj515_NYWD",
+  "case_lni": "5F5P-54D1-DXDT-G1WW-00000-00",
+  "case_number": "6:15mj515",
+  "case_title": "USA v. Shamp et al",
+  "case_info_full_case_name": "USA v. Shamp et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shamp et al",
+  "case_date_filed": "2015-01-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Melissa M. Marangola",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jacob Shamp",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1591.F - sex trafficking of children or by force, fraud or coercion, 18:1594.F - forfeiture"
+        },
+        {
+          "charge_offence_description": "18:1591.F - sex trafficking of children or by forc"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    },
+    {
+      "party_name": "Ashlee Cook",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1591.F - sex trafficking of children or by force, fraud or coercion, 18:1594.F - forfeiture"
+        },
+        {
+          "charge_offence_description": "18:1591.F - sex trafficking of children or by forc"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Jonathan W. Feldman",
+          "judge_guid": "urn:entity:jud-100012049"
+        }
+      ]
+    }
+  ]
+}

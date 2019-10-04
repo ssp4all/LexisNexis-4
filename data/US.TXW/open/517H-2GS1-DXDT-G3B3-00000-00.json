@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_210cr1510_TXWD",
+  "case_key": "2:10cr1510_TXWD",
+  "case_lni": "517H-2GS1-DXDT-G3B3-00000-00",
+  "case_number": "2:10cr1510",
+  "case_title": "USA v. Tovar",
+  "case_info_full_case_name": "USA v. Tovar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tovar",
+  "case_date_filed": "2010-10-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Robert Joseph Brady , Jr.",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Maria Ann Tovar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)-POSSESSION"
+        },
+        {
+          "charge_description": "21:841(a)(1)-POSSESSION OF METHAMPHETAMINE WITH INTENT TO DISTRIBUTE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952(a)-IMPORTATION"
+        },
+        {
+          "charge_description": "21:952(a)-IMPORTATION OF METHAMPHETAMINE (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC952-Did 1.96"
+        },
+        {
+          "charge_description": "21 USC 952-Did unlawfully, knowingly, and intentionally possess with intent to distribute 1.96 kilograms of crystal methamphetamine, a Schedule II controlled substance."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

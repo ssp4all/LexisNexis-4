@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_514cr1162_NMD",
+  "case_key": "5:14cr1162_NMD",
+  "case_lni": "5BY5-X2G1-DXDT-G0MR-00000-00",
+  "case_number": "5:14cr1162",
+  "case_title": "USA v. Salamanca",
+  "case_info_full_case_name": "USA v. Salamanca",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salamanca",
+  "case_date_filed": "2014-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Felipe Salamanca",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922(G)(9)and(a)(2): POSSESSION OF A FIREARM BY A PERSON CONVICTED OF A MISDEMEANOR CRIME OF DOMESTIC VIOLENCE(1s)"
+        },
+        {
+          "charge_disposition": "SENTENCE IMPOSED: CBOP 21 months, 1 year unsupervised release with special conditions, SPA 100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1) and 924(a)(2):  POSSESSION OF A FIREARM BY A PERSON CONVICTED OF A MISDEMEANOR CRIME OF DOMESTIC VIOLENCE(1)"
+        },
+        {
+          "charge_disposition": "Dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922 (g)(1) Felon in Possession of a Firearm"
+        },
+        {
+          "charge_offence_description": "18:922 (g)(1) Felon in Possession of a Firearm"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "E. Richard Webber",
+          "judge_guid": "urn:entity:jud-100002390"
+        }
+      ]
+    }
+  ]
+}

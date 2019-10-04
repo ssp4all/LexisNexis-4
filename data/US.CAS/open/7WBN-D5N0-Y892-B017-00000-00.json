@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_305m1249_CASD",
+  "case_key": "3:05m1249_CASD",
+  "case_lni": "7WBN-D5N0-Y892-B017-00000-00",
+  "case_number": "3:05m1249",
+  "case_title": "USA v. Cruz-Pulido",
+  "case_info_full_case_name": "USA v. Cruz-Pulido",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cruz-Pulido",
+  "case_date_filed": "2005-08-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR Criminal Division",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO JAVIER CRUZ-PULIDO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii)-Transportation"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii)-Transportation of illegal aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Anthony J. Battaglia",
+          "judge_guid": "urn:entity:jud-100062115"
+        }
+      ]
+    }
+  ]
+}

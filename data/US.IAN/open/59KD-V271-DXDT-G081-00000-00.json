@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_113mj277_IAND",
+  "case_key": "1:13mj277_IAND",
+  "case_lni": "59KD-V271-DXDT-G081-00000-00",
+  "case_number": "1:13mj277",
+  "case_title": "USA v. Gallegos",
+  "case_info_full_case_name": "USA v. Gallegos",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gallegos",
+  "case_date_filed": "2013-10-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Amado Gallegos",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Leonard T Strand",
+          "judge_guid": "urn:entity:jud-100102111"
+        }
+      ]
+    }
+  ]
+}

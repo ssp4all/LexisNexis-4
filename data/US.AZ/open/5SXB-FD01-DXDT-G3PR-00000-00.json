@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_418mj520_AZD",
+  "case_key": "4:18mj520_AZD",
+  "case_lni": "5SXB-FD01-DXDT-G3PR-00000-00",
+  "case_number": "4:18mj520",
+  "case_title": "USA v. Gutierrez-Arredon",
+  "case_info_full_case_name": "USA v. Gutierrez-Arredon",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gutierrez-Arredon",
+  "case_date_filed": "2018-07-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Felipe De Jesus Gutierrez-Arredon",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) Illegal Re-Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(a) Illegal Re-Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "D Thomas Ferraro",
+          "judge_guid": "urn:entity:jud-100058730"
+        }
+      ]
+    }
+  ]
+}

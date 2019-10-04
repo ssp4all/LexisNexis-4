@@ -1,0 +1,41 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_300m181_txnd",
+  "case_key": "3:00m181_txnd",
+  "case_lni": "7WBN-MG50-Y892-B4BJ-00000-00",
+  "case_number": "3:00m181",
+  "case_title": "USA v. Warlick",
+  "case_info_full_case_name": "USA v. Warlick",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Warlick",
+  "case_date_filed": "2000-06-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD E WARLICK",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "99-37-CR-11-Y/H 21USC841(a)(1)"
+        },
+        {
+          "charge_description": "Indictment EV 99-37-CR-11-Y/H from the Southern District of Indiana, Evansville Division, charging conspiracy to possess with intent to distribute &; to distribute cocaine &; cocaine base, 21 USC 841(a)(1) &; 846"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

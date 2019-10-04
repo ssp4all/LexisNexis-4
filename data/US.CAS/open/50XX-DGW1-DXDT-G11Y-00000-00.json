@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_210mj8994_CASD",
+  "case_key": "2:10mj8994_CASD",
+  "case_lni": "50XX-DGW1-DXDT-G11Y-00000-00",
+  "case_number": "2:10mj8994",
+  "case_title": "USA v. Martinez-Gomez",
+  "case_info_full_case_name": "USA v. Martinez-Gomez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Gomez",
+  "case_date_filed": "2010-09-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "U S Attorney CR",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Areli Martinez-Gomez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1544-Misuse"
+        },
+        {
+          "charge_description": "18:1544-Misuse of Passport (Felony)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Peter C. Lewis",
+          "judge_guid": "urn:entity:jud-100065326"
+        }
+      ]
+    }
+  ]
+}

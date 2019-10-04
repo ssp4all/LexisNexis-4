@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAC_211mj2799_CACD",
+  "case_key": "2:11mj2799_CACD",
+  "case_lni": "54C3-KHJ1-DXDT-G3WD-00000-00",
+  "case_number": "2:11mj2799",
+  "case_title": "USA v. Estrada",
+  "case_info_full_case_name": "USA v. Estrada",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Estrada",
+  "case_date_filed": "2011-11-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gabriel Estrada",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Defendant in violation of 18:3583"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Duty Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

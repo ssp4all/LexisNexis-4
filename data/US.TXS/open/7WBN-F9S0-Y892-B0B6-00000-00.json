@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_204m303_TXSD",
+  "case_key": "2:04m303_TXSD",
+  "case_lni": "7WBN-F9S0-Y892-B0B6-00000-00",
+  "case_number": "2:04m303",
+  "case_title": "USA v. Corsetti",
+  "case_info_full_case_name": "USA v. Corsetti",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Corsetti",
+  "case_date_filed": "2004-05-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CELSO AUGUSTO CORSETTI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "officials-8:1325(a)(1). 4/6/04 6"
+        },
+        {
+          "charge_description": "Did knowingly and unlawfully enter the United States from Mexico without designation by immigration officials-8:1325(a)(1). DATE OF OFFENSE: 4/6/04 PENALTY: Not more than 6 months imprisonment, a fine of up to $5,000 and a $25 Special Assessment (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "B. Janice Ellington",
+          "judge_guid": "urn:entity:jud-100066013"
+        }
+      ]
+    }
+  ]
+}

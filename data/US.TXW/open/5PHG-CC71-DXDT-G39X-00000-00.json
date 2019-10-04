@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_313mj5293_TXWD",
+  "case_key": "3:13mj5293_TXWD",
+  "case_lni": "5PHG-CC71-DXDT-G39X-00000-00",
+  "case_number": "3:13mj5293",
+  "case_title": "USA v. Gomez-Mora",
+  "case_info_full_case_name": "USA v. Gomez-Mora",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gomez-Mora",
+  "case_date_filed": "2013-12-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Angel Alberto Gomez-Mora",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        },
+        {
+          "charge_offence_description": "8:1325.P - CONCEALMENT OF FACTS ABOUT REENTRY"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anne T. Berton",
+          "judge_guid": "urn:entity:jud-100102882"
+        }
+      ]
+    }
+  ]
+}

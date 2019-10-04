@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_511mj131_WVSD",
+  "case_key": "5:11mj131_WVSD",
+  "case_lni": "53RR-75N1-DXDT-G2NN-00000-00",
+  "case_number": "5:11mj131",
+  "case_title": "United States of America v. Butler",
+  "case_info_full_case_name": "United States of America v. Butler",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Butler",
+  "case_date_filed": "2011-09-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tommy G. Butler",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Clarke VanDervort",
+          "judge_guid": "urn:entity:jud-100000222"
+        }
+      ]
+    }
+  ]
+}

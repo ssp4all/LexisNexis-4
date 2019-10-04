@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_318mj147_WIWD",
+  "case_key": "3:18mj147_WIWD",
+  "case_lni": "5TJS-39F1-DXDT-G46S-00000-00",
+  "case_number": "3:18mj147",
+  "case_title": "United States of America v. Laramore, Thomas",
+  "case_info_full_case_name": "United States of America v. Laramore, Thomas",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Laramore, Thomas",
+  "case_date_filed": "2018-10-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Rita M. Rumbelow",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Thomas J. Laramore",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        },
+        {
+          "charge_offence_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    }
+  ]
+}

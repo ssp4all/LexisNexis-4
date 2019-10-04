@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_419cr1859_AZD",
+  "case_key": "4:19cr1859_AZD",
+  "case_lni": "5WK8-CYV1-DXDT-G309-00000-00",
+  "case_number": "4:19cr1859",
+  "case_title": "USA v. Torres-Flores",
+  "case_info_full_case_name": "USA v. Torres-Flores",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Torres-Flores",
+  "case_date_filed": "2019-07-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ever Arnulfo Torres-Flores",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326(a) Illegal Reentry(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1326(a) Illegal Re-Entry"
+        },
+        {
+          "charge_offence_description": "8:1326(a) Illegal Re-Entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "David C Bury",
+          "judge_guid": "urn:entity:jud-100063659"
+        },
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_208mj186_TNED",
+  "case_key": "2:08mj186_TNED",
+  "case_lni": "7WBN-KYX0-Y892-B4VF-00000-00",
+  "case_number": "2:08mj186",
+  "case_title": "USA v. Guy",
+  "case_info_full_case_name": "USA v. Guy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Guy",
+  "case_date_filed": "2008-10-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Bobby Gene Guy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:3583.F-INCLUSION"
+        },
+        {
+          "charge_description": "18:3583.F-INCLUSION OF A TERM OF SUPERVISED RELEASE AFTER IMPRISONMENT (revocation petition)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis H Inman",
+          "judge_guid": "urn:entity:jud-100033659"
+        }
+      ]
+    }
+  ]
+}

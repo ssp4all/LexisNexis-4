@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_307mj3599_TXWD",
+  "case_key": "3:07mj3599_TXWD",
+  "case_lni": "7WBN-MVS0-Y892-B4V6-00000-00",
+  "case_number": "3:07mj3599",
+  "case_title": "USA v. Andavazo",
+  "case_info_full_case_name": "USA v. Andavazo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Andavazo",
+  "case_date_filed": "2007-07-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Duty AUSA-",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Teresa Andavazo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=MD.F-MARIJUANA-SELL, 21:952=MI.F--IMPORTATION 53.2"
+        },
+        {
+          "charge_description": "21:841A=MD.F-MARIJUANA-SELL, DISTRIBUTE, DISPENSE., 21:952=MI.F--IMPORTATION OF APPROXIMATELY 53.2 LBS OF MARIJUANA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Norbert J. Garney",
+          "judge_guid": "urn:entity:jud-100055029"
+        }
+      ]
+    }
+  ]
+}

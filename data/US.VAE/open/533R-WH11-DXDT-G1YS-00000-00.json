@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_111mj460_VAED",
+  "case_key": "1:11mj460_VAED",
+  "case_lni": "533R-WH11-DXDT-G1YS-00000-00",
+  "case_number": "1:11mj460",
+  "case_title": "USA v. Quiroa-Ralda",
+  "case_info_full_case_name": "USA v. Quiroa-Ralda",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Quiroa-Ralda",
+  "case_date_filed": "2011-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Angel Quiroa-Ralda",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)"
+        },
+        {
+          "charge_description": "8:1326(a) Illegal Rentry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John F. Anderson",
+          "judge_guid": "urn:entity:jud-100074444"
+        }
+      ]
+    }
+  ]
+}

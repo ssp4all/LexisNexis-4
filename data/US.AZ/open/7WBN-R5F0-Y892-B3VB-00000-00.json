@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_204m3104_AZD",
+  "case_key": "2:04m3104_AZD",
+  "case_lni": "7WBN-R5F0-Y892-B3VB-00000-00",
+  "case_number": "2:04m3104",
+  "case_title": "USA, et al v. Romo-Cordova, et al",
+  "case_info_full_case_name": "USA, et al v. Romo-Cordova, et al",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Romo-Cordova, et al",
+  "case_date_filed": "2004-07-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUIS ROMO-CORDOVA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(iii)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(iii) Haboring Illegal Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    },
+    {
+      "party_name": "ALEJANDRO FELIX-FELIX",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "complaint"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Lawrence O Anderson",
+          "judge_guid": "urn:entity:jud-100074434"
+        }
+      ]
+    }
+  ]
+}

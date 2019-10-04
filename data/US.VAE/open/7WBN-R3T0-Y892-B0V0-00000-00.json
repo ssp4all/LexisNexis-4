@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_202cr80_vaed",
+  "case_key": "2:02cr80_vaed",
+  "case_lni": "7WBN-R3T0-Y892-B0V0-00000-00",
+  "case_number": "2:02cr80",
+  "case_title": "USA v. Gold",
+  "case_info_full_case_name": "USA v. Gold",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gold",
+  "case_date_filed": "2002-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RAYMOND GOLD",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Rebecca Beach Smith",
+          "judge_guid": "urn:entity:jud-100022213"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Tommy E. Miller",
+          "judge_guid": "urn:entity:jud-100025740"
+        }
+      ]
+    }
+  ]
+}

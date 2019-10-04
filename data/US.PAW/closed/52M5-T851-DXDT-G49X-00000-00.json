@@ -1,0 +1,127 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_211cr70_PAWD",
+  "case_key": "2:11cr70_PAWD",
+  "case_lni": "52M5-T851-DXDT-G49X-00000-00",
+  "case_number": "2:11cr70",
+  "case_title": "USA v. ISPIR et al",
+  "case_info_full_case_name": "USA v. ISPIR et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "ISPIR et al",
+  "case_date_filed": "2011-03-29",
+  "case_status": "Closed",
+  "case_status_date": "02/14/2013",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MIHAIL ISPIR",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C.371 CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "The Defendant is hereby sentenced to a term of probation of 3 years which includes a period of home detention for eight months to commence immediately, with standard and additional conditions. There is a special assessment of $100. Fine waived. Defendant is ordered to pay restitution, jointly and severally, in the amount of $62091.00."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C.1029(a)(3) ACCESS DEVICE FRAUD(2)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of Government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. 1029(a)(4) ACCESS DEVICE FRAUD(3)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of Government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18: U.S.C.1029(b)(1) ATTEMPT TO COMMIT ACCESS DEVICE FRAUD(4)"
+        },
+        {
+          "charge_disposition": "Dismissed on Motion of Government."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Donetta W. Ambrose",
+          "judge_guid": "urn:entity:jud-100074518"
+        }
+      ]
+    },
+    {
+      "party_name": "COSTEL LEON IVANCENCO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 U.S.C.371 CONSPIRACY(1)"
+        },
+        {
+          "charge_disposition": "The Defendant is committed to the custody of the United States Bureau of Prison for a total term of twelve (12) months and one (1) day, including credit for timed served. Upon release from imprisonment, the defendant shall be on supervised release for a term of three (3) years. The defendant shall pay an assessment of one hundred dollars ($100). The defendant must make restitution, jointly and severally with the individuals identified on the Judgment, in the amount of $62,091.00 to the payee identified on the Judgment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C.1029(a)(3) ACCESS DEVICE FRAUD(2)"
+        },
+        {
+          "charge_disposition": "is dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18 U.S.C. 1029(a)(4) ACCESS DEVICE FRAUD(3)"
+        },
+        {
+          "charge_disposition": "is dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18: U.S.C.1029(b)(1) ATTEMPT TO COMMIT ACCESS DEVICE FRAUD(4)"
+        },
+        {
+          "charge_disposition": "is dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_name": "Donetta W. Ambrose",
+          "judge_guid": "urn:entity:jud-100074518"
+        }
+      ]
+    }
+  ]
+}

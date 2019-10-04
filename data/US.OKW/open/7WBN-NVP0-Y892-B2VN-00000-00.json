@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_503m42_okwd",
+  "case_key": "5:03m42_okwd",
+  "case_lni": "7WBN-NVP0-Y892-B2VN-00000-00",
+  "case_number": "5:03m42",
+  "case_title": "USA v. Nash",
+  "case_info_full_case_name": "USA v. Nash",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Nash",
+  "case_date_filed": "2003-02-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DAVID WAYNE NASH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21,USC, 841(a)(1) 846"
+        },
+        {
+          "charge_description": "Title 21, USC, Sections 841(a)(1) and 846 Knowlingly and intentionally attempted to manufacture methamphetamine, a Schedule II controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary M. Purcell",
+          "judge_guid": "urn:entity:jud-100031980"
+        }
+      ]
+    }
+  ]
+}

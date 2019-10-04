@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_104cr5067_MDD",
+  "case_key": "1:04cr5067_MDD",
+  "case_lni": "7WBN-JJ60-Y892-B0WP-00000-00",
+  "case_number": "1:04cr5067",
+  "case_title": "USA v. Marrow",
+  "case_info_full_case_name": "USA v. Marrow",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Marrow",
+  "case_date_filed": "2004-11-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Eric K. Marrow",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DRIVING WHILE UNDER THE INFLUENCE OF ALCOHOL (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Beth P. Gesner",
+          "judge_guid": "urn:entity:jud-100038277"
+        }
+      ]
+    }
+  ]
+}

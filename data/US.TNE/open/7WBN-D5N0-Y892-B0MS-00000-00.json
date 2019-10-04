@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNE_306cr53_TNED",
+  "case_key": "3:06cr53_TNED",
+  "case_lni": "7WBN-D5N0-Y892-B0MS-00000-00",
+  "case_number": "3:06cr53",
+  "case_title": "USA v. Austin",
+  "case_info_full_case_name": "USA v. Austin",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Austin",
+  "case_date_filed": "2006-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Casey Lamar Austin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "[18:922(g)(1)] FELON IN POSSESSION OF FIREARM (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Thomas W Phillips",
+          "judge_guid": "urn:entity:jud-100024548"
+        },
+        {
+          "judge_title": "Magistrate",
+          "judge_name": "H Bruce Guyton",
+          "judge_guid": "urn:entity:jud-100047706"
+        }
+      ]
+    }
+  ]
+}

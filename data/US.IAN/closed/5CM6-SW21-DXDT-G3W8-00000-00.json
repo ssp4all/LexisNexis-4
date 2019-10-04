@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_114cr66_IAND",
+  "case_key": "1:14cr66_IAND",
+  "case_lni": "5CM6-SW21-DXDT-G3W8-00000-00",
+  "case_number": "1:14cr66",
+  "case_title": "USA v. Swanson",
+  "case_info_full_case_name": "USA v. Swanson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Swanson",
+  "case_date_filed": "2014-07-08",
+  "case_status": "Closed",
+  "case_status_date": "01/08/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "USPO Angie Myhlhousen",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Mark Swanson",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846 CONSPIRACY TO MANUFACTURE MARIJUANA with Forfeiture Allegation(1)"
+        },
+        {
+          "charge_disposition": "24 months imprisonment. 3 years supervised release. 100.00 assessment (paid). 10,000.00 fine."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Linda R Reade",
+          "judge_guid": "urn:entity:jud-100015236"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jon S Scoles",
+          "judge_guid": "urn:entity:jud-100026665"
+        }
+      ]
+    },
+    {
+      "party_description": "Garnishee",
+      "charges": [
+        {
+          "charge_description": "US Bank"
+        },
+        {
+          "charge_disposition": "represented by"
+        },
+        {
+          "charge_offence_description": "US Bank\t\trepresented&nbsp;byUS Bank130 Ski Hill"
+        }
+      ]
+    }
+  ]
+}

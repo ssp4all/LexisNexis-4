@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_194cr279_NMD",
+  "case_key": "1:94cr279_NMD",
+  "case_lni": "5GB9-47D1-DXDT-G43X-00000-00",
+  "case_number": "1:94cr279",
+  "case_title": "USA v. Viarrial",
+  "case_info_full_case_name": "USA v. Viarrial",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Viarrial",
+  "case_date_filed": "1994-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gerald James Viarrial",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1153, 18:1111 CRIME ON INDIAN RESERVATION; FIRST DEGREE MURDER(1)"
+        },
+        {
+          "charge_disposition": "Deft fully and completely acquitted of offense charged in Indictmenta"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1153, 18:113(a) CRIME ON INDIAN RESERVATION; ASSAULT WITH INTENT TO COMMIT MURDER(2)"
+        },
+        {
+          "charge_disposition": "Deft fully and completely acquitted of offense charged in Indictmenta"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Martha Vazquez",
+          "judge_guid": "urn:entity:jud-100000029"
+        }
+      ]
+    }
+  ]
+}

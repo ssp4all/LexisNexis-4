@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAE_204cr168_LAED",
+  "case_key": "2:04cr168_LAED",
+  "case_lni": "7WBN-KJX0-Y892-B4RP-00000-00",
+  "case_number": "2:04cr168",
+  "case_title": "USA v. Eubaire",
+  "case_info_full_case_name": "USA v. Eubaire",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Eubaire",
+  "case_date_filed": "2004-06-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TORREY EUBAIRE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13 46.2-301)"
+        },
+        {
+          "charge_description": "18:13 (assiminating Code of VA, Section 46.2-301) OPERATING A MOTOR VEHICLE AFTER DRIVER'S LICENSE WAS SUSPENDED (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 46.2-300)"
+        },
+        {
+          "charge_description": "18:13 (assimilating Code of VA, Section 46.2-300) OPERATING A MOTOR VEHICLE WITHOUT A VALID OPERATOR'S LICENSE (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 46.2-301)"
+        },
+        {
+          "charge_description": "18:13 (assiminating Code of VA, Section 46.2-301) OPERATING A MOTOR VEHICLE AFTER DRIVER'S LICENSE WAS SUSPENDED (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13 46.2-300)"
+        },
+        {
+          "charge_description": "18:13 (assimilating Code of VA, Section 46.2-300) OPERATING A MOTOR VEHICLE WITHOUT A VALID OPERATOR'S LICENSE (4)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jay C Zainey",
+          "judge_guid": "urn:entity:jud-100005029"
+        }
+      ]
+    }
+  ]
+}

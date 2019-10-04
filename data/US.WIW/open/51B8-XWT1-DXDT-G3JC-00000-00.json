@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WIW_310cr161_WIWD",
+  "case_key": "3:10cr161_WIWD",
+  "case_lni": "51B8-XWT1-DXDT-G3JC-00000-00",
+  "case_number": "3:10cr161",
+  "case_title": "United States of America v. Rocillo-Ramirez, Christian",
+  "case_info_full_case_name": "United States of America v. Rocillo-Ramirez, Christian",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Rocillo-Ramirez, Christian",
+  "case_date_filed": "2010-10-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christian E. Rocillo-Ramirez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326A.F"
+        },
+        {
+          "charge_description": "8:1326A.F REENTRY OF DEPORTED ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "William M. Conley",
+          "judge_guid": "urn:entity:jud-100049885"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Stephen L. Crocker",
+          "judge_guid": "urn:entity:jud-100045529"
+        }
+      ]
+    }
+  ]
+}

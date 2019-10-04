@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_608mj19_TXED",
+  "case_key": "6:08mj19_TXED",
+  "case_lni": "7WBN-P6C0-Y892-B2FF-00000-00",
+  "case_number": "6:08mj19",
+  "case_title": "USA v. Gross",
+  "case_info_full_case_name": "USA v. Gross",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gross",
+  "case_date_filed": "2008-03-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Shawn Gross",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Judith K. Guthrie",
+          "judge_guid": "urn:entity:jud-100042070"
+        }
+      ]
+    }
+  ]
+}

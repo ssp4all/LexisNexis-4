@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAM_598m203_gamd",
+  "case_key": "5:98m203_gamd",
+  "case_lni": "7WBN-P3X0-Y892-B0PH-00000-00",
+  "case_number": "5:98m203",
+  "case_title": "USA v. Copeland",
+  "case_info_full_case_name": "USA v. Copeland",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Copeland",
+  "case_date_filed": "1998-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOHNNY C. COPELAND",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:641:"
+        },
+        {
+          "charge_description": "18:641: Theft at Army Air Force Exchange (1)"
+        },
+        {
+          "charge_disposition": "Deft is to pay MAF $25; Fine $ 250; Prob 12 mths; Serve 48 hrs in jail facility (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Claude W. Hicks, Jr.",
+          "judge_guid": "urn:entity:jud-100051727"
+        }
+      ]
+    }
+  ]
+}

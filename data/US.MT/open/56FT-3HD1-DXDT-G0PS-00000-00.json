@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MT_412cr59_MTD",
+  "case_key": "4:12cr59_MTD",
+  "case_lni": "56FT-3HD1-DXDT-G0PS-00000-00",
+  "case_number": "4:12cr59",
+  "case_title": "USA v. Leider",
+  "case_info_full_case_name": "USA v. Leider",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Leider",
+  "case_date_filed": "2012-08-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Indian Leider",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:2243A.F 18USC1153(a), 2243(a)"
+        },
+        {
+          "charge_description": "18:2243A.F SEX ABUSE OF A MINOR; Title 18 USC 1153(a), 2243(a) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam E Haddon",
+          "judge_guid": "urn:entity:jud-100047668"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_812po444_MDD",
+  "case_key": "8:12po444_MDD",
+  "case_lni": "5645-3XD1-DXDT-G2X6-00000-00",
+  "case_number": "8:12po444",
+  "case_title": "USA vs Saddler",
+  "case_info_full_case_name": "USA vs Saddler",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Saddler",
+  "case_date_filed": "2012-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Brandi N Saddler",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(3453608)"
+        },
+        {
+          "charge_description": "SPEEDING (3453608) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Thomas"
+        }
+      ]
+    }
+  ]
+}

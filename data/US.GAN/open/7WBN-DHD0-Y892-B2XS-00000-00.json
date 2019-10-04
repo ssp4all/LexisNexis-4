@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_106cr75_GAND",
+  "case_key": "1:06cr75_GAND",
+  "case_lni": "7WBN-DHD0-Y892-B2XS-00000-00",
+  "case_number": "1:06cr75",
+  "case_title": "USA v. Gingold",
+  "case_info_full_case_name": "USA v. Gingold",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gingold",
+  "case_date_filed": "2006-02-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Glenn A. Gingold",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (1-7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (8)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marvin H. Shoob",
+          "judge_guid": "urn:entity:jud-100026400"
+        },
+        {
+          "judge_title": "Judge",
+          "judge_name": "E. Clayton Scofield, III",
+          "judge_guid": "urn:entity:jud-100026670"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_197cr5247_caed",
+  "case_key": "1:97cr5247_caed",
+  "case_lni": "7WBN-D8F0-Y892-B22V-00000-00",
+  "case_number": "1:97cr5247",
+  "case_title": "USA v. Robles, et al",
+  "case_info_full_case_name": "USA v. Robles, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robles, et al",
+  "case_date_filed": "1997-10-09",
+  "case_status": "Closed",
+  "case_status_date": "06/01/1998",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dolores M IRS desk and work area of Dolores M Robles Fresno ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:286 CONSPIRACY TO OBTAIN PAYMENT OF FALSE CLAIM(1)"
+        },
+        {
+          "charge_disposition": "12 months and 1 day custody, 36 months supervised release, $100 penalty assessment, $35,872 restitution, special conditions of supervision, appeal rights given"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:287 and 2; FALSE CLAIM FOR REFUND, AIDING AND ABETTING(2-41)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1030 UNAUTHORIZED ACCESS TO GOVERNMENT COMPUTER(42)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Anthony W. Ishii",
+          "judge_guid": "urn:entity:jud-100033609"
+        }
+      ]
+    },
+    {
+      "party_name": "Elvira Monje",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:286.F CONSPIRACY TO OBTAIN PAYMENT OF FALSE CLAIM(1)"
+        },
+        {
+          "charge_disposition": "60 months probation, $100 penalty assessment, $15,766 restitution, special conditions of supervision, appeal rights given"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Anthony W. Ishii",
+          "judge_guid": "urn:entity:jud-100033609"
+        }
+      ]
+    },
+    {
+      "party_name": "Trinidad Garcia Torres",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:286.F CONSPIRACY TO OBTAIN PAYMENT OF FALSE CLAIM(1)"
+        },
+        {
+          "charge_disposition": "60 months probation, $100 penalty assessment, $1,030 restitution, special conditions of supervision, appeal rights given"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Anthony W. Ishii",
+          "judge_guid": "urn:entity:jud-100033609"
+        }
+      ]
+    },
+    {
+      "party_name": "Rolando Lopez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:286 CONSPIRACY TO OBTAIN PAYMENT OF FALSE CLAIM(1)"
+        },
+        {
+          "charge_disposition": "8 months custody, 36 months supervised release, $100 penalty assessment, $35,872 restitution, special conditions of supervision, appeal rights given"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:287 and 2; FALSE CLAIM FOR REFUND, AIDING AND ABETTING(2-41)"
+        },
+        {
+          "charge_disposition": "dismissed"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Anthony W. Ishii",
+          "judge_guid": "urn:entity:jud-100033609"
+        }
+      ]
+    }
+  ]
+}

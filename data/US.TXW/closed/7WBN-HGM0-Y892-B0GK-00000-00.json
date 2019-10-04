@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_398cr790_txwd",
+  "case_key": "3:98cr790_txwd",
+  "case_lni": "7WBN-HGM0-Y892-B0GK-00000-00",
+  "case_number": "3:98cr790",
+  "case_title": "USA v. Aguilar-Morales",
+  "case_info_full_case_name": "USA v. Aguilar-Morales",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguilar-Morales",
+  "case_date_filed": "1998-06-17",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN JOSE AGUILAR-MORALES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_disposition": "21mos impr and 3yrs non-reporting release. Assessment of $100.00 pre sent report sealed in vault. Court recommends FCI, Florence, Co. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:911"
+        },
+        {
+          "charge_description": "False declaration of United States citizenship in violation of 18:911 [3:98-m-1444]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    }
+  ]
+}

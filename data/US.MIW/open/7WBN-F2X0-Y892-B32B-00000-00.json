@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_104mj655_MIWD",
+  "case_key": "1:04mj655_MIWD",
+  "case_lni": "7WBN-F2X0-Y892-B32B-00000-00",
+  "case_number": "1:04mj655",
+  "case_title": "USA v. Salazar",
+  "case_info_full_case_name": "USA v. Salazar",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Salazar",
+  "case_date_filed": "2004-06-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Salazar",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2422(a) (b)-Enticement"
+        },
+        {
+          "charge_description": "18 U.S.C. 2422(a) and (b)-Enticement to interstate travel for criminal sexual activity; using the Internet and interstate telephone communications to entice a minor to engage in sexual activity"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Ellen S. Carmody",
+          "judge_guid": "urn:entity:jud-100063255"
+        }
+      ]
+    }
+  ]
+}

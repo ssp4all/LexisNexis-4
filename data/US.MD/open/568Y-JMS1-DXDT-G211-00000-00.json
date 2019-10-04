@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_812po10224_MDD",
+  "case_key": "8:12po10224_MDD",
+  "case_lni": "568Y-JMS1-DXDT-G211-00000-00",
+  "case_number": "8:12po10224",
+  "case_title": "USA vs Aguilera",
+  "case_info_full_case_name": "USA vs Aguilera",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Aguilera",
+  "case_date_filed": "2012-08-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "SAUSA Naval Academy",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Jesus Aguilera",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "PLATE(S) (2968597)"
+        },
+        {
+          "charge_description": "DISPLAYING EXPIRED REGISTRATION PLATE(S) ISSUED BY ANY STATE (2968597) (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Jillyn"
+        }
+      ]
+    }
+  ]
+}

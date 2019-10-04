@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MN_005cr240_MND",
+  "case_key": "0:05cr240_MND",
+  "case_lni": "7WBN-J760-Y892-B1CC-00000-00",
+  "case_number": "0:05cr240",
+  "case_title": "USA v. Engelmann",
+  "case_info_full_case_name": "USA v. Engelmann",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Engelmann",
+  "case_date_filed": "2005-07-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Andrew R Winter",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eric Claude Engelmann",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) 841(b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1) AND 841(b)(1)(A) POSSESSION WITH INTENT TO DISTRIBUTE METHAMPHETAMINE (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John R Tunheim",
+          "judge_guid": "urn:entity:jud-100072858"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Franklin L Noel",
+          "judge_guid": "urn:entity:jud-100031426"
+        }
+      ]
+    }
+  ]
+}

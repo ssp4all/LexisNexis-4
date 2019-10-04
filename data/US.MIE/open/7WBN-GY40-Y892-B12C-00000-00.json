@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_290cr80708_mied",
+  "case_key": "2:90cr80708_mied",
+  "case_lni": "7WBN-GY40-Y892-B12C-00000-00",
+  "case_number": "2:90cr80708",
+  "case_title": "USA v. Jones, et al",
+  "case_info_full_case_name": "USA v. Jones, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jones, et al",
+  "case_date_filed": "1990-09-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TERRELL VINCENT JONES",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anna Diggs Taylor",
+          "judge_guid": "urn:entity:jud-100007450"
+        }
+      ]
+    },
+    {
+      "party_name": "DENNIS GRAY",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Anna Diggs Taylor",
+          "judge_guid": "urn:entity:jud-100007450"
+        }
+      ]
+    }
+  ]
+}

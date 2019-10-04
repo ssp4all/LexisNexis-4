@@ -1,0 +1,207 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAM_319cr28_LAMD",
+  "case_key": "3:19cr28_LAMD",
+  "case_lni": "5VRD-D0S1-DXDT-G2V8-00000-00",
+  "case_number": "3:19cr28",
+  "case_title": "USA v. Howze et al",
+  "case_info_full_case_name": "USA v. Howze et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Howze et al",
+  "case_date_filed": "2019-03-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John Allen Howze, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RULES AND REGULATIONS OF MIGRATORY BIRDS and 18USC2(1)"
+        },
+        {
+          "charge_disposition": "Assessment in the amount of $35. Fine in the amount of $1000."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "RULES AND REGULATIONS OF MIGRATORY BIRDS and 18 USC 2(2)"
+        },
+        {
+          "charge_disposition": "Assessment in the amount of $35. Fine in the amount of $1000."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Brian A. Jackson",
+          "judge_guid": "urn:entity:jud-100080389"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard L. Bourgeois, Jr",
+          "judge_guid": "urn:entity:jud-100103988"
+        }
+      ]
+    },
+    {
+      "party_name": "Ivy Lee Howze, Jr.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RULES AND REGULATIONS OF MIGRATORY BIRDS and 18USC2(1)"
+        },
+        {
+          "charge_disposition": "Assessment in the amount of $45. Fine in the amount of $1300."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "RULES AND REGULATIONS OF MIGRATORY BIRDS and 18 USC 2(2)"
+        },
+        {
+          "charge_disposition": "Assessment in the amount of $45. Fine in the amount of $1300."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "Taking, Killing, or possessing migratory birds(3)"
+        },
+        {
+          "charge_disposition": "Assessment in the amount of $45. Fine in the amount of $1300."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Brian A. Jackson",
+          "judge_guid": "urn:entity:jud-100080389"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard L. Bourgeois, Jr",
+          "judge_guid": "urn:entity:jud-100103988"
+        }
+      ]
+    },
+    {
+      "party_name": "Brandon Charles Howze",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RULES AND REGULATIONS OF MIGRATORY BIRDS and 18 USC 2(2)"
+        },
+        {
+          "charge_disposition": "Assessment in the amount of $30. Fine in the amount of $750."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "Taking, Killing, or possessing migratory birds(3-4)"
+        },
+        {
+          "charge_disposition": "Assessment in the amount of $30. Fine in the amount of $750."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Brian A. Jackson",
+          "judge_guid": "urn:entity:jud-100080389"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard L. Bourgeois, Jr",
+          "judge_guid": "urn:entity:jud-100103988"
+        }
+      ]
+    },
+    {
+      "party_name": "Malcolm T. Howze",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RULES AND REGULATIONS OF MIGRATORY BIRDS and 18 USC 2(2)"
+        },
+        {
+          "charge_disposition": "Assessment in the amount of $10. Fine in the amount of $250."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Brian A. Jackson",
+          "judge_guid": "urn:entity:jud-100080389"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard L. Bourgeois, Jr",
+          "judge_guid": "urn:entity:jud-100103988"
+        }
+      ]
+    },
+    {
+      "party_name": "Brett Sullivan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RULES AND REGULATIONS OF MIGRATORY BIRDS and 18 USC 2(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        },
+        {
+          "charge_description": "Taking, Killing, or possessing migratory birds(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Brian A. Jackson",
+          "judge_guid": "urn:entity:jud-100080389"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Richard L. Bourgeois, Jr",
+          "judge_guid": "urn:entity:jud-100103988"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_104mj195_nyed",
+  "case_key": "1:04mj195_nyed",
+  "case_lni": "7WBN-JJM0-Y892-B34R-00000-00",
+  "case_number": "1:04mj195",
+  "case_title": "USA v. Cortez et al",
+  "case_info_full_case_name": "USA v. Cortez et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cortez et al",
+  "case_date_filed": "2004-02-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Michael Cortez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITYH INTENT TO DISTRIBUTE HEROIN, 21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert M. Levy",
+          "judge_guid": "urn:entity:jud-100030011"
+        }
+      ]
+    },
+    {
+      "party_name": "Ruben Dario Correa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITYH INTENT TO DISTRIBUTE HEROIN, 21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert M. Levy",
+          "judge_guid": "urn:entity:jud-100030011"
+        }
+      ]
+    },
+    {
+      "party_name": "Gustavo Molina",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSESS WITYH INTENT TO DISTRIBUTE HEROIN, 21:846=CD.F"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert M. Levy",
+          "judge_guid": "urn:entity:jud-100030011"
+        }
+      ]
+    }
+  ]
+}

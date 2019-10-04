@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_404m593_TXSD",
+  "case_key": "4:04m593_TXSD",
+  "case_lni": "7WBN-HKR0-Y892-B0VT-00000-00",
+  "case_number": "4:04m593",
+  "case_title": "USA v. Sealed Seizure Warra",
+  "case_info_full_case_name": "USA v. Sealed Seizure Warra",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sealed Seizure Warra",
+  "case_date_filed": "2004-07-08",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "SEALED SEIZURE WARRANT",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mary Milloy",
+          "judge_guid": "urn:entity:jud-100036121"
+        }
+      ]
+    }
+  ]
+}

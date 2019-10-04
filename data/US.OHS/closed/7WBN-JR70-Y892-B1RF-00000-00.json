@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_107cr38_OHSD",
+  "case_key": "1:07cr38_OHSD",
+  "case_lni": "7WBN-JR70-Y892-B1RF-00000-00",
+  "case_number": "1:07cr38",
+  "case_title": "USA v. Davis",
+  "case_info_full_case_name": "USA v. Davis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis",
+  "case_date_filed": "2007-03-21",
+  "case_status": "Closed",
+  "case_status_date": "09/07/2007",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Dante Davis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        },
+        {
+          "charge_offence_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC."
+        },
+        {
+          "charge_description": "18:922(g)(1) and 18:924(a)(2)UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_disposition": "Sentenced to 63 months jail, followed by 3 years supervised release. Ordered to pay $100 special assessment; fine is waived due to inability to pay."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(j) and 18:924(a)(2)RECEIVE STOLEN FIREARMS(2)"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "S Arthur Spiegel",
+          "judge_guid": "urn:entity:jud-100020351"
+        }
+      ]
+    }
+  ]
+}

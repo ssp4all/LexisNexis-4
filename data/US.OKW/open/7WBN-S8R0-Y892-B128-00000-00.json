@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKW_500m52_okwd",
+  "case_key": "5:00m52_okwd",
+  "case_lni": "7WBN-S8R0-Y892-B128-00000-00",
+  "case_number": "5:00m52",
+  "case_title": "USA v. Rutherford",
+  "case_info_full_case_name": "USA v. Rutherford",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rutherford",
+  "case_date_filed": "2000-03-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIMOTHY LYNN RUTHERFORD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC2422(b) 18"
+        },
+        {
+          "charge_description": "18 U.S.C. 2422(b) USING MAIL OR ANY FACILITY OR MEANS OF INTERSTATE OR FOREIGN COMMERCE, KNOWINGLY ATTEMPT TO PERSUADE, INDUCE, ENTICE OR COERCE AN INDIVIDUAL, WHO HAS NOT ATTAINED AGE OF 18 YRS TO ENGAGE IN ANY SEXUAL ACTIVITY FOR WHICH ANY PERSON CAN BE CHARGED WITH A CRIMINAL OFFENSE"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gary M. Purcell",
+          "judge_guid": "urn:entity:jud-100031980"
+        }
+      ]
+    }
+  ]
+}

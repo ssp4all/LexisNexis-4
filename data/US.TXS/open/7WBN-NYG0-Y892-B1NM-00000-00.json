@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_507mj323_TXSD",
+  "case_key": "5:07mj323_TXSD",
+  "case_lni": "7WBN-NYG0-Y892-B1NM-00000-00",
+  "case_number": "5:07mj323",
+  "case_title": "USA v. Cortes-Morales et al",
+  "case_info_full_case_name": "USA v. Cortes-Morales et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cortes-Morales et al",
+  "case_date_filed": "2007-02-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Elias Cortes-Morales",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Saldana",
+          "judge_guid": "urn:entity:jud-100059638"
+        }
+      ]
+    },
+    {
+      "party_name": "Julio Alexander Flores",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Diana Saldana",
+          "judge_guid": "urn:entity:jud-100059638"
+        }
+      ]
+    },
+    {
+      "party_name": "Guillermo Benites-Carreon",
+      "party_description": "material witness"
+    }
+  ]
+}

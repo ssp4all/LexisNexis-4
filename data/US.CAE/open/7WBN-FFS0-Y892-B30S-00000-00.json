@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_297cr158_caed",
+  "case_key": "2:97cr158_caed",
+  "case_lni": "7WBN-FFS0-Y892-B30S-00000-00",
+  "case_number": "2:97cr158",
+  "case_title": "USA v. Wehling",
+  "case_info_full_case_name": "USA v. Wehling",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Wehling",
+  "case_date_filed": "1997-03-25",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MICHAEL J WEHLING",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:844A=MP.M (MARIHUANA)"
+        },
+        {
+          "charge_description": "21:844A=MP.M POSSESSION OF A CONTROLLED SUBSTANCE (MARIHUANA) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7990.M 647(j)"
+        },
+        {
+          "charge_description": "18:13-7990.M CPC 647(j) LODGING WITHOUT PERMISSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gregory G Hollows",
+          "judge_guid": "urn:entity:jud-100064796"
+        }
+      ]
+    }
+  ]
+}

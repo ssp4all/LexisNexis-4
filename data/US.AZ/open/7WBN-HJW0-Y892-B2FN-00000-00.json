@@ -1,0 +1,53 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_403m7606_azd",
+  "case_key": "4:03m7606_azd",
+  "case_lni": "7WBN-HJW0-Y892-B2FN-00000-00",
+  "case_number": "4:03m7606",
+  "case_title": "USA, et al v. Parra",
+  "case_info_full_case_name": "USA, et al v. Parra",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Parra",
+  "case_date_filed": "2003-01-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "FRANCISCO ANTONIO PARRA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2: 21:844(a)"
+        },
+        {
+          "charge_description": "Count 2: 21:844(a) MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1: 21:841(a)(1) 841(b)(1)(D) 2: 21:844(a)"
+        },
+        {
+          "charge_description": "COUNT 1: 21:841(a)(1) and 841(b)(1)(D) Possession With Intent to Distribute Marijuana COUNT 2: 21:844(a) Possession of Marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

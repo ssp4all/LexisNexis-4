@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_175cr884_nysd",
+  "case_key": "1:75cr884_nysd",
+  "case_lni": "7WBN-PTN0-Y892-B2HF-00000-00",
+  "case_number": "1:75cr884",
+  "case_title": "USA v. Jenkins",
+  "case_info_full_case_name": "USA v. Jenkins",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jenkins",
+  "case_date_filed": "1975-09-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL JENKINS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846"
+        },
+        {
+          "charge_description": "21:846 NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

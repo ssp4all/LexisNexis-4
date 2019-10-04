@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_197cr870_hid",
+  "case_key": "1:97cr870_hid",
+  "case_lni": "7WBN-K5G0-Y892-B48S-00000-00",
+  "case_number": "1:97cr870",
+  "case_title": "USA v. Teijeiro",
+  "case_info_full_case_name": "USA v. Teijeiro",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Teijeiro",
+  "case_date_filed": "1997-07-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Philip L. Sundel",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRIS R. TEIJEIRO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7220.M 286-102 05-30-97 1"
+        },
+        {
+          "charge_description": "18:13-7220.M TRAFFIC OFFENSES, OTHER-HRS 286-102 No Operator's License 05-30-97 Pearl Harbor Count 1 (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Barry M. Kurren",
+          "judge_guid": "urn:entity:jud-100039871"
+        }
+      ]
+    }
+  ]
+}

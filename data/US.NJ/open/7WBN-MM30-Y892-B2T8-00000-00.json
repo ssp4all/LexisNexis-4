@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_303cr197_njd",
+  "case_key": "3:03cr197_njd",
+  "case_lni": "7WBN-MM30-Y892-B2T8-00000-00",
+  "case_number": "3:03cr197",
+  "case_title": "USA v. HAUBER",
+  "case_info_full_case_name": "USA v. HAUBER",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "HAUBER",
+  "case_date_filed": "2003-03-17",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "GEORGE HAUBER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "14:88(c) 2"
+        },
+        {
+          "charge_description": "14:88(c) &; 2 FALSE DISTRESS SIGNALS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Garrett E. Brown, Jr.",
+          "judge_guid": "urn:entity:jud-100064109"
+        }
+      ]
+    }
+  ]
+}

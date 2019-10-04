@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_310mj841_PRD",
+  "case_key": "3:10mj841_PRD",
+  "case_lni": "513G-2K61-DXDT-G50F-00000-00",
+  "case_number": "3:10mj841",
+  "case_title": "USA v. Search Warrant",
+  "case_info_full_case_name": "USA v. Search Warrant",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Search Warrant",
+  "case_date_filed": "2010-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jenifer Yois Hernandez-Vega",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Search Warrant",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Chief Mag. Judge",
+          "judge_name": "Justo Arenas",
+          "judge_guid": "urn:entity:jud-100052642"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_202cr158_almd",
+  "case_key": "2:02cr158_almd",
+  "case_lni": "7WBN-R3D0-Y892-B3H5-00000-00",
+  "case_number": "2:02cr158",
+  "case_title": "USA v. Bryan",
+  "case_info_full_case_name": "USA v. Bryan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bryan",
+  "case_date_filed": "2002-08-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PHILLIP REED BRYAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1)CONTROLLED 20Y; 3Y"
+        },
+        {
+          "charge_description": "21:841(a)(1)CONTROLLED SUBS SELL/DISTR/DISP-NMT $1,000,000; [*]; NMT 20Y; B; NLT 3Y SUP REL; G-LINES; VWPA; $100 SA (1-8)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Unassigned Judge"
+        }
+      ]
+    }
+  ]
+}

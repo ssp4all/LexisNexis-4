@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ND_306cr50_NDD",
+  "case_key": "3:06cr50_NDD",
+  "case_lni": "7WBN-MT10-Y892-B1FF-00000-00",
+  "case_number": "3:06cr50",
+  "case_title": "USA v. Shern",
+  "case_info_full_case_name": "USA v. Shern",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Shern",
+  "case_date_filed": "2006-04-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Shern",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252(a)(4)(B) and 2252(b)(2) - Knowingly possessed materials constituting/containing child porno.  (18:2252A.F)"
+        },
+        {
+          "charge_offence_description": "18:2252(a)(4)(B) and 2252(b)(2) - Knowingly posses"
+        },
+        {
+          "charge_description": "18:2252(a)(4)(B) &; 2252(b)(2) ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO - POSSESSION OF MATERIAL INVOLVING THE SEXUAL EXPLOITATION OF MINORS; 18:2253(a) FORFEITURE ALLEGATION(1)"
+        },
+        {
+          "charge_disposition": "120 months imprisonment, Supervised Release for LIFE with standard and special conditions, $100 special assessment, forfeiture, remanded to the United Staes Marshal"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Roberto A. Lange",
+          "judge_guid": "urn:entity:jud-100035621"
+        }
+      ]
+    }
+  ]
+}

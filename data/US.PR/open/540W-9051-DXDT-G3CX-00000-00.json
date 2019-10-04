@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PR_311cr396_PRD",
+  "case_key": "3:11cr396_PRD",
+  "case_lni": "540W-9051-DXDT-G3CX-00000-00",
+  "case_number": "3:11cr396",
+  "case_title": "USA v. Ortega-de la Cruz",
+  "case_info_full_case_name": "USA v. Ortega-de la Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortega-de la Cruz",
+  "case_date_filed": "2011-10-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eduardo Ortega-de la Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325(a)(1)CONCEALMENT"
+        },
+        {
+          "charge_description": "8:1325(a)(1)CONCEALMENT OF FACTS ABOUT REENTRY (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Carmen C. Cerezo",
+          "judge_guid": "urn:entity:jud-100066260"
+        }
+      ]
+    }
+  ]
+}

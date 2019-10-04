@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_405mj5407_AZD",
+  "case_key": "4:05mj5407_AZD",
+  "case_lni": "7WBN-NF90-Y892-B33M-00000-00",
+  "case_number": "4:05mj5407",
+  "case_title": "USA v. McMillan",
+  "case_info_full_case_name": "USA v. McMillan",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "McMillan",
+  "case_date_filed": "2005-10-27",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Scott Daniel McMillan",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)(A) 924(a)(2)"
+        },
+        {
+          "charge_description": "18:922(g)(1)(A) and 924(a)(2) possess ammunition having affected commerce in that it was previously transported into the state of Arizona from another state or foreign"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Glenda E Edmonds",
+          "judge_guid": "urn:entity:jud-100056710"
+        }
+      ]
+    }
+  ]
+}

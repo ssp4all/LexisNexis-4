@@ -1,0 +1,63 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_503cr1930_txsd",
+  "case_key": "5:03cr1930_txsd",
+  "case_lni": "7WBN-HTV0-Y892-B40C-00000-00",
+  "case_number": "5:03cr1930",
+  "case_title": "USA v. Rangel",
+  "case_info_full_case_name": "USA v. Rangel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rangel",
+  "case_date_filed": "2003-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE RANGEL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "Ct.1: 21:841A=MD.F 1403 5 40 5"
+        },
+        {
+          "charge_description": "Ct.1: 21:841A=MD.F Possess with intent to distribute approx 1403 lbs., gross wt., of marihuana. Penalty: 5 to 40 yrs and/or $2 Million, $100 CVF, 5 yrs TSR. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21USC841(a)(1): 636.36"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1): Knowingly and unlawfully possess with intent to distribute a controlled substance to wit: approximately 636.36 kg of marijuana. [5:03-m-6571]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

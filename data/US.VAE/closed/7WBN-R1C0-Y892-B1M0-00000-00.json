@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_199m38_vaed",
+  "case_key": "1:99m38_vaed",
+  "case_lni": "7WBN-R1C0-Y892-B1M0-00000-00",
+  "case_number": "1:99m38",
+  "case_title": "USA v. Breen",
+  "case_info_full_case_name": "USA v. Breen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Breen",
+  "case_date_filed": "1999-01-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Dennis Michael Kennedy",
+      "attorney_label": "[COR LD NTC pda]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ADAM J. BREEN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "(16:470.M) 16:470 ee(a), 18:2 (FORFEITURE)"
+        },
+        {
+          "charge_description": "(16:470.M) 16:470 ee(a), and 18:2 Excavate, remove, damage, and otherwise alter and deface archeological resources. (FORFEITURE) (1)"
+        },
+        {
+          "charge_disposition": "1 yr. unsupervised probation s/a $25. Rest. $786.35 (joint/severly) (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas Rawles Jones, Jr.",
+          "judge_guid": "urn:entity:jud-100032961"
+        }
+      ]
+    }
+  ]
+}

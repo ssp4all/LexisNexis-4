@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_419mj88_MOWD",
+  "case_key": "4:19mj88_MOWD",
+  "case_lni": "5W4N-Y1M1-DXDT-G1KS-00000-00",
+  "case_number": "4:19mj88",
+  "case_title": "USA v. Ortegon-Jimenez",
+  "case_info_full_case_name": "USA v. Ortegon-Jimenez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortegon-Jimenez",
+  "case_date_filed": "2019-05-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Gregg Robert Coonrod",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gabriel Alfredo Ortegon-Jimenez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "COUNT ONE: On or about May 8, 2019, in the Western District of Missouri, the defendant, GABRIEL ALFREDO ORTEGON-JIMENEZ, did knowingly and intentionally possess with intent to distribute a mixture or substance containing a 50 grams or more of methamphetamine, a Schedule I controlled substance, in violation Title 21, United States Code, Sections 841(a)(1) and (b)(1)(B)."
+        },
+        {
+          "charge_offence_description": "COUNT ONE: On or about May 8, 2019, in the Western"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John T. Maughmer",
+          "judge_guid": "urn:entity:jud-100041328"
+        }
+      ]
+    }
+  ]
+}

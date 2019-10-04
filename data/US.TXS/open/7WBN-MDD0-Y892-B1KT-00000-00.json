@@ -1,0 +1,64 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_299cr230_txsd",
+  "case_key": "2:99cr230_txsd",
+  "case_lni": "7WBN-MDD0-Y892-B1KT-00000-00",
+  "case_number": "2:99cr230",
+  "case_title": "USA v. Robinson",
+  "case_info_full_case_name": "USA v. Robinson",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Robinson",
+  "case_date_filed": "1999-08-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - CC",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOE WHEELER ROBINSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1,395 21:841(a)(1) 841(b)(1)(A). 11, 1999. 10 5 21:841(a)(1) 841(b)(1)(A). 11, 1999. 10 4"
+        },
+        {
+          "charge_description": "Did knowingly and intentionally possess with intent to distribute approx. 1,395 kilos marijuana. 21:841(a)(1) and 841(b)(1)(A). Date of Offense: July 11, 1999. Penalty: Not less than 10 years nor more than life imprisonment without probation, parole or suspended sentence, a fine of up to $4 million, at least 5 years SRT, a $100 special assessment and community restitution up to the amount of any fine imposed by the court. 21:841(a)(1) and 841(b)(1)(A). Date of Offense: July 11, 1999. Penalty: Not less than 10 years nor more than life imprisonment without probation, parole or suspended sentence, a fine of up to $4 million, at least 4 years SRT, a $100 special assessment and community restitution up to the amount of any fine imposed by the ocurt. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "1970, 3,261 21:841(a)(1)"
+        },
+        {
+          "charge_description": "Knowingly, intentionally, and unlawfully possess w/intent to distribute a controlled substance in Schedule I of the Controlled Substances Act of 1970, to wit: 3,261 lbs (approx. gross weight) of marijuana. 21:841(a)(1) [2:99-m-253]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Janis Graham Jack",
+          "judge_guid": "urn:entity:jud-100050653"
+        }
+      ]
+    }
+  ]
+}

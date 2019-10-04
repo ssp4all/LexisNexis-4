@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_112cr38_MOED",
+  "case_key": "1:12cr38_MOED",
+  "case_lni": "557H-0J51-DXDT-G05S-00000-00",
+  "case_number": "1:12cr38",
+  "case_title": "USA v. Duarte-Zamora",
+  "case_info_full_case_name": "USA v. Duarte-Zamora",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Duarte-Zamora",
+  "case_date_filed": "2012-03-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Abbie Crites-Leoni",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Baldemar Duarte-Zamora",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS (1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "John A. Ross",
+          "judge_guid": "urn:entity:jud-100001107"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lewis M. Blanton",
+          "judge_guid": "urn:entity:jud-100061414"
+        }
+      ]
+    }
+  ]
+}

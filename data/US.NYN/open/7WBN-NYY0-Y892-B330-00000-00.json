@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_508mj430_NYND",
+  "case_key": "5:08mj430_NYND",
+  "case_lni": "7WBN-NYY0-Y892-B330-00000-00",
+  "case_number": "5:08mj430",
+  "case_title": "USA v. Bravo-Agustin et al",
+  "case_info_full_case_name": "USA v. Bravo-Agustin et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Bravo-Agustin et al",
+  "case_date_filed": "2008-10-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Olegario Bravo-Agustin",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546.F"
+        },
+        {
+          "charge_description": "18:1546.F FRAUD AND MISUSE OF VISAS/PERMITS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David E. Peebles",
+          "judge_guid": "urn:entity:jud-100028192"
+        }
+      ]
+    },
+    {
+      "party_name": "Rogelio Posadas-Dominguez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546.F"
+        },
+        {
+          "charge_description": "18:1546.F FRAUD AND MISUSE OF VISAS/PERMITS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "David E. Peebles",
+          "judge_guid": "urn:entity:jud-100028192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_813cr65_FLMD",
+  "case_key": "8:13cr65_FLMD",
+  "case_lni": "57MG-DP11-DXDT-G55V-00000-00",
+  "case_number": "8:13cr65",
+  "case_title": "USA v. Lugo",
+  "case_info_full_case_name": "USA v. Lugo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lugo",
+  "case_date_filed": "2013-01-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "April Lugo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(1)"
+        },
+        {
+          "charge_disposition": "Imprisonment: 37 months; Supervised Release: 36 months; Fine: Waived; Special Assessment: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE"
+        },
+        {
+          "charge_offence_description": "21:841A=ND.F NARCOTICS - SELL, DISTRIBUTE, OR DISP"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Anthony E. Porcelli",
+          "judge_guid": "urn:entity:jud-100072934"
+        }
+      ]
+    }
+  ]
+}

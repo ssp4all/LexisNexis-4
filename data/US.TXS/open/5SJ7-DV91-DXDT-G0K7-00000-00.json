@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_518po4480_TXSD",
+  "case_key": "5:18po4480_TXSD",
+  "case_lni": "5SJ7-DV91-DXDT-G0K7-00000-00",
+  "case_number": "5:18po4480",
+  "case_title": "USA v. Manzo-Yepez",
+  "case_info_full_case_name": "USA v. Manzo-Yepez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Manzo-Yepez",
+  "case_date_filed": "2018-06-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Roberto Manzo-Yepez",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1325.P"
+        },
+        {
+          "charge_offence_description": "8:1325.P"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Christina A Bryan",
+          "judge_guid": "urn:entity:jud-500000490"
+        }
+      ]
+    }
+  ]
+}

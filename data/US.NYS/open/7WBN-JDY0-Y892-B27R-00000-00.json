@@ -1,0 +1,91 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYS_102m307_nysd",
+  "case_key": "1:02m307_nysd",
+  "case_lni": "7WBN-JDY0-Y892-B27R-00000-00",
+  "case_number": "1:02m307",
+  "case_title": "USA v. Hewett, et al",
+  "case_info_full_case_name": "USA v. Hewett, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hewett, et al",
+  "case_date_filed": "2002-02-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "STEVEN HEWETT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846-Conspiracy"
+        },
+        {
+          "charge_description": "Complaint in violation of 21 USC 846-Conspiracy to distribute a controlled substance (Marijuana)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "ERROL JAMES",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846-Conspiracy"
+        },
+        {
+          "charge_description": "Complaint in violation of 21 USC 846-Conspiracy to distribute a controlled substance (Marijuana)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "CHRISTOPHER LEWIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846-Conspiracy"
+        },
+        {
+          "charge_description": "Complaint in violation of 21 USC 846-Conspiracy to distribute a controlled substance (Marijuana)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "BRUCE WALSH",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC846-Conspiracy"
+        },
+        {
+          "charge_description": "Complaint in violation of 21 USC 846-Conspiracy to distribute a controlled substance (Marijuana)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

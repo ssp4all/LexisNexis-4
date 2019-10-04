@@ -1,0 +1,87 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INS_117cr121_INSD",
+  "case_key": "1:17cr121_INSD",
+  "case_lni": "5NYP-1691-DXDT-G2BX-00000-00",
+  "case_number": "1:17cr121",
+  "case_title": "USA v. MCCRAY et al",
+  "case_info_full_case_name": "USA v. MCCRAY et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "MCCRAY et al",
+  "case_date_filed": "2017-07-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ALLEN MCCRAY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951.F  HOBBS ACT ROBBERY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F  DISCHARGE A FIREARM DURING AND IN RELATION TO A CRIME OF VIOLENCE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William T. Lawrence",
+          "judge_guid": "urn:entity:jud-100039444"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark J. Dinsmore",
+          "judge_guid": "urn:entity:jud-100071365"
+        }
+      ]
+    },
+    {
+      "party_name": "VICTOR LINTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1951.F  HOBBS ACT ROBBERY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:924C.F  DISCHARGING A FIREARM DURING AND IN RELATION TO A CRIME OF VIOLENCE(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "William T. Lawrence",
+          "judge_guid": "urn:entity:jud-100039444"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark J. Dinsmore",
+          "judge_guid": "urn:entity:jud-100071365"
+        }
+      ]
+    }
+  ]
+}

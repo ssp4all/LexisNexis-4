@@ -1,0 +1,37 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_617po390_CAED",
+  "case_key": "6:17po390_CAED",
+  "case_lni": "5P3H-83C1-DXDT-G11M-00000-00",
+  "case_number": "6:17po390",
+  "case_title": "USA vs Ean Holdings",
+  "case_info_full_case_name": "USA vs Ean Holdings",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ean Holdings",
+  "case_date_filed": "2017-07-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Failure to Comply with the Directions of a Traffic Control Device (6377724)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael J. Seng",
+          "judge_guid": "urn:entity:jud-100030508"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_499m7245_azd",
+  "case_key": "4:99m7245_azd",
+  "case_lni": "7WBN-NS80-Y892-B2HG-00000-00",
+  "case_number": "4:99m7245",
+  "case_title": "USA v. Valenzuela-Pacheco",
+  "case_info_full_case_name": "USA v. Valenzuela-Pacheco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Valenzuela-Pacheco",
+  "case_date_filed": "1999-10-22",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ABRAHAM VALENZUELA-PACHECO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2-21:844A=MP.M"
+        },
+        {
+          "charge_description": "Count 2-21:844A=MP.M MARIJUANA-POSSESSION (2)"
+        },
+        {
+          "charge_disposition": "BOP imprisonment time served; s/a $25. (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "1-21:841(a) 2-21:844(a)"
+        },
+        {
+          "charge_description": "Count 1-21:841(a) Possess with intent to distribute marijuana and Count 2-21:844(a) Possess a quantity of marijuana"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Leif B Erickson",
+          "judge_guid": "urn:entity:jud-100043552"
+        }
+      ]
+    }
+  ]
+}

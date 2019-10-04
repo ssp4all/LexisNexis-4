@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_117po2800_VAED",
+  "case_key": "1:17po2800_VAED",
+  "case_lni": "5PVT-2YV1-DXDT-G43S-00000-00",
+  "case_number": "1:17po2800",
+  "case_title": "USA vs Hayes",
+  "case_info_full_case_name": "USA vs Hayes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hayes",
+  "case_date_filed": "2017-11-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Kortini L Hayes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "EXCEEEDING MAXIMUM SPEED LIMIT (7194228)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Thomas Rawles Jones, Jr",
+          "judge_guid": "urn:entity:jud-100032961"
+        }
+      ]
+    }
+  ]
+}

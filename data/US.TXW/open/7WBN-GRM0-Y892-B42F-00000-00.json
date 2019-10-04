@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_206m3307_TXWD",
+  "case_key": "2:06m3307_TXWD",
+  "case_lni": "7WBN-GRM0-Y892-B42F-00000-00",
+  "case_number": "2:06m3307",
+  "case_title": "USA v. Lopez-Pacheco",
+  "case_info_full_case_name": "USA v. Lopez-Pacheco",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Pacheco",
+  "case_date_filed": "2006-04-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "MANUEL DE JESUS LOPEZ-PACHECO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1325(F)-illegal"
+        },
+        {
+          "charge_description": "8 USC 1325(F)-illegal entry."
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Dennis G. Green",
+          "judge_guid": "urn:entity:jud-100048579"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALN_202cr207_alnd",
+  "case_key": "2:02cr207_alnd",
+  "case_lni": "7WBN-KFP0-Y892-B0RT-00000-00",
+  "case_number": "2:02cr207",
+  "case_title": "USA v. Davis",
+  "case_info_full_case_name": "USA v. Davis",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Davis",
+  "case_date_filed": "2002-05-02",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_label": "[COR]"
+    },
+    {
+      "attorney_name": "US Probation",
+      "attorney_label": "[COR]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "CHRISTOPHER. DAVIS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) UNLAWFUL TRANSPORT OF FIREARMS, ETC.-convicted felon (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "James H Hancock",
+          "judge_guid": "urn:entity:jud-100035396"
+        },
+        {
+          "judge_title": "Magistrate-Judge",
+          "judge_name": "Robert R Armstrong, Jr",
+          "judge_guid": "urn:entity:jud-100052609"
+        }
+      ]
+    }
+  ]
+}

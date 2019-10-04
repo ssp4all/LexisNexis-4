@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOW_407cr201_MOWD",
+  "case_key": "4:07cr201_MOWD",
+  "case_lni": "7WBN-HN20-Y892-B0T0-00000-00",
+  "case_number": "4:07cr201",
+  "case_title": "USA v. Goodrich",
+  "case_info_full_case_name": "USA v. Goodrich",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Goodrich",
+  "case_date_filed": "2007-06-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gary A. Goodrich",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "P95DC, 9 313-91065,"
+        },
+        {
+          "charge_description": "Defendant did knowingly possess, in and affecting commerce, a firearm, to wit: a Ruger, Model P95DC, 9 mm semi-automatic, Serial Number 313-91065, which had been transported in interstate commerce, in violation of Title 18 USC 922."
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Scott O. Wright",
+          "judge_guid": "urn:entity:jud-100021688"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Robert E. Larsen",
+          "judge_guid": "urn:entity:jud-100035550"
+        }
+      ]
+    }
+  ]
+}

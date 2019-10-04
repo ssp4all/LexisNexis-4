@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_297m2059_innd",
+  "case_key": "2:97m2059_innd",
+  "case_lni": "7WBN-H260-Y892-B0FF-00000-00",
+  "case_number": "2:97m2059",
+  "case_title": "USA v. Houston",
+  "case_info_full_case_name": "USA v. Houston",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Houston",
+  "case_date_filed": "1997-08-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DOUGLAS HOUSTON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1)-Distribution"
+        },
+        {
+          "charge_description": "Title 21 USC 841(a)(1)-Distribution of Crack Cocaine"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Andrew P. Rodovich",
+          "judge_guid": "urn:entity:jud-100001577"
+        }
+      ]
+    }
+  ]
+}

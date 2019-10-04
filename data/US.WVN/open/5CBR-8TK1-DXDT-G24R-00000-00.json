@@ -1,0 +1,150 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_114cr39_WVND",
+  "case_key": "1:14cr39_WVND",
+  "case_lni": "5CBR-8TK1-DXDT-G24R-00000-00",
+  "case_number": "1:14cr39",
+  "case_title": "USA v. Blount, R. Ph. et al",
+  "case_info_full_case_name": "USA v. Blount, R. Ph. et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blount, R. Ph. et al",
+  "case_date_filed": "2014-05-28",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Mario Blount, R. Ph.",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion by Government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE(2)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion by Government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL ACTS - CONTROLLED SUBSTANCE - RECORDS(4)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion by Government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    },
+    {
+      "party_name": "Angela Davis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "8 months incarceration; 3 years supervised release; $100.00 special assessment. Self-report date: 4/10/15. REVOCATION 3/2/2016 Defendant committed to the BOP for a term of 5 months, with credit for time served from February 11-17,2016, to be followed by 31 months of supervised release, no fine,restitution or special assessment. 6/9/2017 REVOCATION Defendant is committed into the custody for a term of 15 months, with credit for time served from 6/6/2017.Followed by no supervision."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "UNLAWFUL ACTS - CONTROLLED SUBSTANCE - DISTRIBUTION(3)"
+        },
+        {
+          "charge_disposition": "dismissed on motion of the Government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(5)"
+        },
+        {
+          "charge_disposition": "dismissed on motion of the Government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Michael John Aloi",
+          "judge_guid": "urn:entity:jud-100102282"
+        }
+      ]
+    },
+    {
+      "party_name": "April Davis",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO DISTRIBUTE NARCOTICS(1)"
+        },
+        {
+          "charge_disposition": "Dismissed per J&;C entered in Case No. 1:14-cr-62"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Irene M. Keeley",
+          "judge_guid": "urn:entity:jud-100043295"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John S. Kaull",
+          "judge_guid": "urn:entity:jud-100037786"
+        }
+      ]
+    }
+  ]
+}

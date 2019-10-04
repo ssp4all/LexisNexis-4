@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_319mj1139_FLMD",
+  "case_key": "3:19mj1139_FLMD",
+  "case_lni": "5VW2-30J1-DXDT-G51T-00000-00",
+  "case_number": "3:19mj1139",
+  "case_title": "USA v. Kennedy",
+  "case_info_full_case_name": "USA v. Kennedy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Kennedy",
+  "case_date_filed": "2019-04-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michael Coolican",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "James Bernard Kennedy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE"
+        },
+        {
+          "charge_offence_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBU"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Monte C. Richardson",
+          "judge_guid": "urn:entity:jud-100016666"
+        }
+      ]
+    }
+  ]
+}

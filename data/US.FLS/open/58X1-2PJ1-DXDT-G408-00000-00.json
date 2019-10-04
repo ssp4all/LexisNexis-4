@@ -1,0 +1,82 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLS_113cr20515_FLSD",
+  "case_key": "1:13cr20515_FLSD",
+  "case_lni": "58X1-2PJ1-DXDT-G408-00000-00",
+  "case_number": "1:13cr20515",
+  "case_title": "USA v. Sosa et al",
+  "case_info_full_case_name": "USA v. Sosa et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sosa et al",
+  "case_date_filed": "2013-07-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Danielle Nicole Croke",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Vivian Rosado",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Raul Sosa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO COMMIT BANK FRAUD(1)"
+        },
+        {
+          "charge_disposition": "AMENDED:IMPRISONMENT: 37 Months. SUPERVISED RELEASE:3 Years. PRIOR JUDGMENT: SENTENCE REDUCTION:IMPRISONMENT: 20 Months. PRIOR JUDGMENT: IMPRISONMENT: 37 Months. SUPERVISED RELEASE: 3 Months. TOTAL ASSESSMENT: $100."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ursula Ungaro",
+          "judge_guid": "urn:entity:jud-100003211"
+        }
+      ]
+    },
+    {
+      "party_name": "Jose Parrilla",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO COMMIT BANK FRAUD(1)"
+        },
+        {
+          "charge_disposition": "SENTENCE REDUCTION:IMPRISONEMENT: 6 Months. SUPERVISED RELEASE: 6 Months and 6 Months Home Confinement. PRIOR JUDGMENT: IMPRISONMENT: 27 Months. SUPERVISED RELEASE: 2 Years. TOTAL ASSESSMENT: $100"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ursula Ungaro",
+          "judge_guid": "urn:entity:jud-100003211"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Edwin G. Torres",
+          "judge_guid": "urn:entity:jud-100018051"
+        }
+      ]
+    }
+  ]
+}

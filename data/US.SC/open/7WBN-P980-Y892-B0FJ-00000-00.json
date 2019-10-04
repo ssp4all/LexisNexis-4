@@ -1,0 +1,39 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_706cr419_SCD",
+  "case_key": "7:06cr419_SCD",
+  "case_lni": "7WBN-P980-Y892-B0FJ-00000-00",
+  "case_number": "7:06cr419",
+  "case_title": "USA v. Gentry",
+  "case_info_full_case_name": "USA v. Gentry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Gentry",
+  "case_date_filed": "2006-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John H Gentry",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "7:2024(b)(1) 2004"
+        },
+        {
+          "charge_description": "7:2024(b)(1) TRANSFER OR UNAUTHORIZED USE OF FOOD STAMPS. December 2004 (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ALM_207cr143_ALMD",
+  "case_key": "2:07cr143_ALMD",
+  "case_lni": "7WBN-KV50-Y892-B3TM-00000-00",
+  "case_number": "2:07cr143",
+  "case_title": "USA v. Hardy",
+  "case_info_full_case_name": "USA v. Hardy",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hardy",
+  "case_date_filed": "2007-07-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Joe Kendrick Hardy",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "10Y, 3Y"
+        },
+        {
+          "charge_description": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.-NMT $250,000, [*]; NMT 10Y, B; NMT 3Y SUP REL; $100 AF; VWPA; G-LINES (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "W. Harold Albritton, III",
+          "judge_guid": "urn:entity:jud-100074697"
+        },
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Susan Russ Walker",
+          "judge_guid": "urn:entity:jud-100011126"
+        }
+      ]
+    }
+  ]
+}

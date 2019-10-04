@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.HI_103m102_hid",
+  "case_key": "1:03m102_hid",
+  "case_lni": "7WBN-D780-Y892-B2DW-00000-00",
+  "case_number": "1:03m102",
+  "case_title": "USA v. Maka",
+  "case_info_full_case_name": "USA v. Maka",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Maka",
+  "case_date_filed": "2003-02-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "LUELENI FATONGI MAKA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(2)(B)(ii)"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(ii) Induce alien to enter the US without prior official authorization for the purpose of commercial advantage and private financial gain"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Kevin S Chang",
+          "judge_guid": "urn:entity:jud-100049174"
+        }
+      ]
+    }
+  ]
+}

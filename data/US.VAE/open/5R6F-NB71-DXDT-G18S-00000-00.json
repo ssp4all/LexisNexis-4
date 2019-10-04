@@ -1,0 +1,38 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.VAE_217po637_VAED",
+  "case_key": "2:17po637_VAED",
+  "case_lni": "5R6F-NB71-DXDT-G18S-00000-00",
+  "case_number": "2:17po637",
+  "case_title": "USA vs Covington",
+  "case_info_full_case_name": "USA vs Covington",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Covington",
+  "case_date_filed": "2017-12-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Brody L Covington",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "RECKLESS DRIVING;DRIVING VEHICLE WHICH IN NOT UNDER CONTROL (7098751)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Lawrence R. Leonard",
+          "judge_guid": "urn:entity:jud-100102409"
+        }
+      ]
+    }
+  ]
+}

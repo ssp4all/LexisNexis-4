@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_405cr1890_AZD",
+  "case_key": "4:05cr1890_AZD",
+  "case_lni": "7WBN-S330-Y892-B2MW-00000-00",
+  "case_number": "4:05cr1890",
+  "case_title": "USA v. Santa Cruz",
+  "case_info_full_case_name": "USA v. Santa Cruz",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Santa Cruz",
+  "case_date_filed": "2005-10-04",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisca Santa Cruz",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(iii), 1324(a)(1)(B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(v)(I), 1324(a)(1)(A)(iii), and 1324(a)(1)(B)(i) Conspiracy to Harbor Illegal Aliens (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324(a)(1)(A)(ii); 1324(a)(1)(A)(v)(I) 1324(a)(1)(B)(i)"
+        },
+        {
+          "charge_description": "8:1324(a)(1)(A)(ii); 1324(a)(1)(A)(v)(I) &; 1324(a)(1)(B)(i) Transportation of Illegal Aliens"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Raner C Collins",
+          "judge_guid": "urn:entity:jud-100059018"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Hector C Estrada",
+          "judge_guid": "urn:entity:jud-100056372"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_216cr96_CAED",
+  "case_key": "2:16cr96_CAED",
+  "case_lni": "5JS1-TMG1-DXDT-G2SW-00000-00",
+  "case_number": "2:16cr96",
+  "case_title": "USA v. Hooper",
+  "case_info_full_case_name": "USA v. Hooper",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Hooper",
+  "case_date_filed": "2016-05-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Katherine Theresa Lydon",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Tyler J. Hooper",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "DISTRIBUTION OF CHILD PORNOGRAPHY(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "John A. Mendez",
+          "judge_guid": "urn:entity:jud-100036464"
+        }
+      ]
+    }
+  ]
+}

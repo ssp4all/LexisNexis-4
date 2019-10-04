@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLM_313cr52_FLMD",
+  "case_key": "3:13cr52_FLMD",
+  "case_lni": "57YN-43X1-DXDT-G0JD-00000-00",
+  "case_number": "3:13cr52",
+  "case_title": "USA v. Moring",
+  "case_info_full_case_name": "USA v. Moring",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Moring",
+  "case_date_filed": "2013-03-14",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Edgar Moring",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:922G.F  UNLAWFUL TRANSPORT OF FIREARMS, ETC.(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Marcia Morales Howard",
+          "judge_guid": "urn:entity:jud-100009661"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Monte C. Richardson",
+          "judge_guid": "urn:entity:jud-100016666"
+        }
+      ]
+    }
+  ]
+}

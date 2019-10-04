@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_103cr138_txwd",
+  "case_key": "1:03cr138_txwd",
+  "case_lni": "7WBN-JFF0-Y892-B1R9-00000-00",
+  "case_number": "1:03cr138",
+  "case_title": "USA v. Medrano-Chihuahua",
+  "case_info_full_case_name": "USA v. Medrano-Chihuahua",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Medrano-Chihuahua",
+  "case_date_filed": "2003-05-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE LUIS MEDRANO-",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326.F"
+        },
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8,USC, 1326."
+        },
+        {
+          "charge_description": "Defendant did-illegal reentry of an alien who has been excluded from the United States in violation of Title 8, USC, Section 1326. [1:03-m-134]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Harry Lee Hudspeth",
+          "judge_guid": "urn:entity:jud-100033896"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_101m340_txed",
+  "case_key": "1:01m340_txed",
+  "case_lni": "7WBN-JBS0-Y892-B325-00000-00",
+  "case_number": "1:01m340",
+  "case_title": "USA v. Houghton, et al",
+  "case_info_full_case_name": "USA v. Houghton, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Houghton, et al",
+  "case_date_filed": "2001-06-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371"
+        },
+        {
+          "charge_description": "18 USC 371 CONSPIRACY TO INTERCEPT AND DISCLOSURE OF WIRE, ORAL, OR ELECTRONIC COMMUNICATIONS PROHIBITED"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Wendell C. Radford",
+          "judge_guid": "urn:entity:jud-100034387"
+        }
+      ]
+    },
+    {
+      "party_name": "THOMAS NEAL WILLIFORD",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18USC371"
+        },
+        {
+          "charge_description": "18 USC 371 CONSPIRACY TO INTERCEPT AND DISCLOSURE OF WIRE, ORAL, OR ELECTRONIC COMMUNICATIONS PROHIBITED"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Wendell C. Radford",
+          "judge_guid": "urn:entity:jud-100034387"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OHS_300m209_ohsd",
+  "case_key": "3:00m209_ohsd",
+  "case_lni": "7WBN-H400-Y892-B352-00000-00",
+  "case_number": "3:00m209",
+  "case_title": "USA v. Huey",
+  "case_info_full_case_name": "USA v. Huey",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Huey",
+  "case_date_filed": "2000-08-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TONY LEE HUEY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21USC841(a)(1); (b)(1)(B) (viii)"
+        },
+        {
+          "charge_description": "21 USC 841(a)(1); (b)(1)(B) (viii) Knowingly and intentionally possess with intent to distribute Methamphetamine or a substance containing Methamphetamine, a Schedule I controlled substance"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Mag. Judge",
+          "judge_name": "Michael Merz",
+          "judge_guid": "urn:entity:jud-100025999"
+        }
+      ]
+    }
+  ]
+}

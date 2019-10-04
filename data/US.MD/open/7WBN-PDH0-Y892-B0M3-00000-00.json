@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MD_807mj1726_MDD",
+  "case_key": "8:07mj1726_MDD",
+  "case_lni": "7WBN-PDH0-Y892-B0M3-00000-00",
+  "case_number": "8:07mj1726",
+  "case_title": "USA v. 905 Chatsworth Drive, Accoceek, MD",
+  "case_info_full_case_name": "USA v. 905 Chatsworth Drive, Accoceek, MD",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "905 Chatsworth Drive, Accoceek, MD",
+  "case_date_filed": "2007-07-12",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "905 Chatsworth Drive Accoceek ",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William Connelly",
+          "judge_guid": "urn:entity:jud-100049859"
+        }
+      ]
+    }
+  ]
+}

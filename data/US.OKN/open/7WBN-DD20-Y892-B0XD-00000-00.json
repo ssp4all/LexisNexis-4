@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OKN_400cr87_oknd",
+  "case_key": "4:00cr87_oknd",
+  "case_lni": "7WBN-DD20-Y892-B0XD-00000-00",
+  "case_number": "4:00cr87",
+  "case_title": "USA v. Thomas",
+  "case_info_full_case_name": "USA v. Thomas",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thomas",
+  "case_date_filed": "2000-07-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Phil E Pinnell"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Felicia Ann Thomas",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1344(1) BANK FRAUD(1)"
+        },
+        {
+          "charge_disposition": "Ct. 1 - BOP for 20 mos, w/5yrs SR, Special Financial &; Search conds. imposed, Deft to participate in mental health program, $100.00 SMA, Ct. recommends placement in an inst that provides conprehensive substance abuse treatment."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1708 THEFT OR RECEIPT OF STOLEN MAIL MATTER(2-3)"
+        },
+        {
+          "charge_disposition": "Cts. 2 &; 3 - Dismissed."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "H Dale Cook",
+          "judge_guid": "urn:entity:jud-100049777"
+        }
+      ]
+    }
+  ]
+}

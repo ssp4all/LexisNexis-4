@@ -1,0 +1,177 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILN_199cr296_ilnd",
+  "case_key": "1:99cr296_ilnd",
+  "case_lni": "7WBN-GH60-Y892-B3YY-00000-00",
+  "case_number": "1:99cr296",
+  "case_title": "USA v. Cechini, et al",
+  "case_info_full_case_name": "USA v. Cechini, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Cechini, et al",
+  "case_date_filed": "1999-04-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services",
+      "attorney_label": "[NTC]"
+    },
+    {
+      "attorney_name": "Probation Department",
+      "attorney_label": "[NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "ROBERT T CECHINI",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1955.F"
+        },
+        {
+          "charge_description": "18:1955.F ILLEGAL GAMBLING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956-3300.F"
+        },
+        {
+          "charge_description": "18:1956-3300.F MONEY LAUNDERING-INTERSTATE COMMERCE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956-3300.F 18:2"
+        },
+        {
+          "charge_description": "18:1956-3300.F MONEY LAUNDERING-INTERSTATE COMMERCE and 18:2 AID AND ABET (4-16)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (17)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:7206C.F"
+        },
+        {
+          "charge_description": "26:7206C.F DECLARE UNDER PENALTY OF PERJURY (18-24)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1503.F"
+        },
+        {
+          "charge_description": "18:1503.F INFLUENCE/INJURING OFFICER/JUROR/WITNESS (25-26)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Ann C. Williams",
+          "judge_guid": "urn:entity:jud-100080407"
+        }
+      ]
+    },
+    {
+      "party_name": "LAWRENCE SCIALABBA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1955.F"
+        },
+        {
+          "charge_description": "18:1955.F ILLEGAL GAMBLING (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956-3300.F"
+        },
+        {
+          "charge_description": "18:1956-3300.F MONEY LAUNDERING-INTERSTATE COMMERCE (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1956-3300.F 18:2"
+        },
+        {
+          "charge_description": "18:1956-3300.F MONEY LAUNDERING-INTERSTATE COMMERCE and 18:2 AID AND ABET (4-16)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:371.F"
+        },
+        {
+          "charge_description": "18:371.F CONSPIRACY TO DEFRAUD THE UNITED STATES (17)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Hon.",
+          "judge_name": "Ann C. Williams",
+          "judge_guid": "urn:entity:jud-100080407"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAN_414cr457_CAND",
+  "case_key": "4:14cr457_CAND",
+  "case_lni": "5D13-B5V1-DXDT-G1YS-00000-00",
+  "case_number": "4:14cr457",
+  "case_title": "USA v. Palomino",
+  "case_info_full_case_name": "USA v. Palomino",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Palomino",
+  "case_date_filed": "2014-08-28",
+  "case_status": "Closed",
+  "case_status_date": "12/02/2015",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Ellen L. Swain",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Brian C. Lewis"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Christian Palomino",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:39A: Knowingly aimed the beam of a laser pointer at an aircraft in the special aircraft jurisdiction of the United States"
+        },
+        {
+          "charge_offence_description": "18:39A: Knowingly aimed the beam of a laser pointe"
+        },
+        {
+          "charge_description": "18:39A: Aiming a laser pointer at an aircraft(1)"
+        },
+        {
+          "charge_disposition": "five (5) years probation; $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Phyllis J. Hamilton",
+          "judge_guid": "urn:entity:jud-100076137"
+        }
+      ]
+    }
+  ]
+}

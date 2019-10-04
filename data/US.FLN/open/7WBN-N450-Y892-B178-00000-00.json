@@ -1,0 +1,72 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.FLN_395m3022_flnd",
+  "case_key": "3:95m3022_flnd",
+  "case_lni": "7WBN-N450-Y892-B178-00000-00",
+  "case_number": "3:95m3022",
+  "case_title": "USA v. KRAUSE",
+  "case_info_full_case_name": "USA v. KRAUSE",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "KRAUSE",
+  "case_date_filed": "1995-01-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EDWARD KRAUSE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:13-7210.M"
+        },
+        {
+          "charge_description": "18:13-7210.M TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:13-7990.M"
+        },
+        {
+          "charge_description": "18:13-7990.M MISC. GENERAL OFFENSES, OTHER Resisting arrest without violence (2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "18:1361.M"
+        },
+        {
+          "charge_description": "18:1361.M DESTROYING FEDERAL PROPERTY (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        },
+        {
+          "charge_statute": "N840049, 18:7&;13 316.193: N840050, 18:1361: N840051, 18:7&;13"
+        },
+        {
+          "charge_description": "Violation Notice # N840049, DUI in violation of 18:7&;13 FSS 316.193: Violation Notice # N840050, Criminal Mischef in violation of 18:1361: Violation Notice # N840051, Resisting Arrest without violence in violation of 18:7&;13 and FSS 784.07"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "William C. Sherrill, Jr.",
+          "judge_guid": "urn:entity:jud-100021169"
+        }
+      ]
+    }
+  ]
+}

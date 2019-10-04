@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_113mj1191_GAND",
+  "case_key": "1:13mj1191_GAND",
+  "case_lni": "595S-9H61-DXDT-G3M6-00000-00",
+  "case_number": "1:13mj1191",
+  "case_title": "USA v. Musa",
+  "case_info_full_case_name": "USA v. Musa",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Musa",
+  "case_date_filed": "2013-08-20",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kehinde Ozaveshe Musa",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:1029(a)(5) and 1028A - PRODUCES/TRAFFICS IN COUNTERFEIT DEVICE"
+        },
+        {
+          "charge_offence_description": "18:1029(a)(5) and 1028A - PRODUCES/TRAFFICS IN COU"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Linda T. Walker",
+          "judge_guid": "urn:entity:jud-100080855"
+        }
+      ]
+    }
+  ]
+}

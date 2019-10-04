@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_501cr128_txsd",
+  "case_key": "5:01cr128_txsd",
+  "case_lni": "7WBN-NT20-Y892-B3ND-00000-00",
+  "case_number": "5:01cr128",
+  "case_title": "USA v. Rubalcada",
+  "case_info_full_case_name": "USA v. Rubalcada",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Rubalcada",
+  "case_date_filed": "2001-02-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation",
+      "attorney_label": "[COR LD NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[COR LD NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "DANIEL RUBALCADA",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1: 21:841A=MD.F 67 5 2 3"
+        },
+        {
+          "charge_description": "COUNT 1: 21:841A=MD.F MARIJUANA-SELL, DISTRIBUTE, OR DISPENSE, APPROXIMATELY 67 LBS. GROSS WEIGHT OF MARIHUANA; PENALTY: 0 to 5 yrs. and/or $250,000; $100CVF for each count; 2 yrs. min, 3 yrs. max term of TSR for each count. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "George P. Kazen",
+          "judge_guid": "urn:entity:jud-100043319"
+        }
+      ]
+    }
+  ]
+}

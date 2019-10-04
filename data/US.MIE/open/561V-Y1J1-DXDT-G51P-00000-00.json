@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIE_212cr20445_MIED",
+  "case_key": "2:12cr20445_MIED",
+  "case_lni": "561V-Y1J1-DXDT-G51P-00000-00",
+  "case_number": "2:12cr20445",
+  "case_title": "United States of America v. Oller",
+  "case_info_full_case_name": "United States of America v. Oller",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Oller",
+  "case_date_filed": "2012-07-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_name": "Sara D. Woodward",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Robert Oller",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO(1)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: Count (1) 100 Months; Count (2) Time Served; SUPERVISED RELEASE: Count (1) 5 Years; Count (2) 5 Years, Concurrent; SPECIAL ASSESSMENT: $200"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO(2)"
+        },
+        {
+          "charge_disposition": "IMPRISONMENT: Count (1) 100 Months; Count (2) Time Served; SUPERVISED RELEASE: Count (1) 5 Years; Count (2) 5 Years, Concurrent; SPECIAL ASSESSMENT: $200"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "COMPLAINT"
+        },
+        {
+          "charge_offence_description": "COMPLAINT"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Patrick J. Duggan",
+          "judge_guid": "urn:entity:jud-100044091"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "R. Steven Whalen",
+          "judge_guid": "urn:entity:jud-100022924"
+        }
+      ]
+    }
+  ]
+}

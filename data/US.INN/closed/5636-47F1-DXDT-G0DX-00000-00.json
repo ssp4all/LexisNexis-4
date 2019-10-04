@@ -1,0 +1,58 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.INN_212cr107_INND",
+  "case_key": "2:12cr107_INND",
+  "case_lni": "5636-47F1-DXDT-G0DX-00000-00",
+  "case_number": "2:12cr107",
+  "case_title": "United States of America v. Rogers",
+  "case_info_full_case_name": "United States of America v. Rogers",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "Rogers",
+  "case_date_filed": "2012-07-12",
+  "case_status": "Closed",
+  "case_status_date": "02/26/2014",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jill Rochelle Koster - AUSA",
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Booker Terry Rogers",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2250  FAILURE TO REGISTER AS A SEX OFFENDER(1)"
+        },
+        {
+          "charge_disposition": "The defendant is committed to the custody of the U.S. Bureau of Prisons to be imprisoned for a term of 105 months. Upon release from imprisonment, the defendant shall be placed on supervised release for a term of 20 years. While on supervised release, the defendant shall comply with the mandatory, standard and special conditions of supervision, as indicated. Special Assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2250(a)  KNOWINGLY FAIL TO REGISTER AND TO UPDATE HIS SEX OFFENDER REGISTRATION AFTER TRAVELING IN INTERSTATE COMMERCE"
+        },
+        {
+          "charge_offence_description": "18:2250(a)  KNOWINGLY FAIL TO REGISTER AND TO UPDA"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "James T Moody",
+          "judge_guid": "urn:entity:jud-100004080"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Andrew P Rodovich",
+          "judge_guid": "urn:entity:jud-100001577"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NV_315cr17_NVD",
+  "case_key": "3:15cr17_NVD",
+  "case_lni": "5FC7-JH81-DXDT-G1H2-00000-00",
+  "case_number": "3:15cr17",
+  "case_title": "USA v. Linnell",
+  "case_info_full_case_name": "USA v. Linnell",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Linnell",
+  "case_date_filed": "2015-02-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Steven Scott Linnell",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18 USC 113(a)(4), 1151 and 1152- Assault by Striking, Beating or Wounding ( Class A Misdemeanor) ( Count One )(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Misdemeanor"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Miranda M. Du",
+          "judge_guid": "urn:entity:jud-100005838"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Valerie P. Cooke",
+          "judge_guid": "urn:entity:jud-100020874"
+        }
+      ]
+    }
+  ]
+}

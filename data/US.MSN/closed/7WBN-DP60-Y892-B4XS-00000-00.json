@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MSN_295cr123_msnd",
+  "case_key": "2:95cr123_msnd",
+  "case_lni": "7WBN-DP60-Y892-B4XS-00000-00",
+  "case_number": "2:95cr123",
+  "case_title": "USA v. Glover, et al",
+  "case_info_full_case_name": "USA v. Glover, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Glover, et al",
+  "case_date_filed": "1995-12-14",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PAMELA MARIE GLOVER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1029A.F"
+        },
+        {
+          "charge_description": "18:1029A.F PRODUCES/TRAFFICS IN COUNTERFEIT DEVICE; Used and attempted to use an unauthorized access device to obtain monies, which conduct affected interstate commerce. (1)"
+        },
+        {
+          "charge_disposition": "TRANSFER TO NORTHERN DISTRICT OF ILLINOIS (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "Knowingly and with intent to defraud, used authorized access devices to obtain monies in excess of $1,000. [2:95-m-2082]"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Neal B. Biggers, Jr.",
+          "judge_guid": "urn:entity:jud-100061562"
+        }
+      ]
+    }
+  ]
+}

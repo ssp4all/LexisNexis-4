@@ -1,0 +1,52 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_306cr1041_TXWD",
+  "case_key": "3:06cr1041_TXWD",
+  "case_lni": "7WBN-H7H0-Y892-B4Y0-00000-00",
+  "case_number": "3:06cr1041",
+  "case_title": "USA v. Lopez-Contreras",
+  "case_info_full_case_name": "USA v. Lopez-Contreras",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Lopez-Contreras",
+  "case_date_filed": "2006-05-16",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Francisco Lopez-Contreras",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1324.F"
+        },
+        {
+          "charge_description": "8:1324.F BRINGING IN AND HARBORING ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "8:1324.F (a) (s) (a)(2)(B)(ii) 18:2 Defendant(s)did, 8,USC, Section(s) 1324(a)(2) (a)92)(B)(ii)"
+        },
+        {
+          "charge_description": "8:1324.F (a) (s) &; (a)(2)(B)(ii) and 18:2 Defendant(s)did, aid and abet the bringing to and attempt to bring to the United States certain aliens, knowing and in reckless disregard of the fact that such aliens had not received prior official authorization to come to, enter, or reside in the United States, done for the purpose of commercial advantage or private financial gain, in violation of Title 8, USC, Section(s) 1324(a)(2) and (a)92)(B)(ii) and Title 18 USC Section 2"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "David Briones",
+          "judge_guid": "urn:entity:jud-100064281"
+        }
+      ]
+    }
+  ]
+}

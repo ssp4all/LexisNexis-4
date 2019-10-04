@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_218cr94_LAWD",
+  "case_key": "2:18cr94_LAWD",
+  "case_lni": "5S3J-7PN1-DXDT-G1NK-00000-00",
+  "case_number": "2:18cr94",
+  "case_title": "USA v. Grandison",
+  "case_info_full_case_name": "USA v. Grandison",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Grandison",
+  "case_date_filed": "2018-04-11",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Dominic A Rossetti",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kavin Dwayne Grandison",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=ND.F - Possession with Intent to Distribute a Controlled Substance, Cocaine"
+        },
+        {
+          "charge_offence_description": "21:841A=ND.F - Possession with Intent to Distribut"
+        },
+        {
+          "charge_description": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE - Possession with Intent to Distribute a Controlled Substance with Forfeiture Allegations(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Kathleen Kay",
+          "judge_guid": "urn:entity:jud-100037773"
+        }
+      ]
+    }
+  ]
+}

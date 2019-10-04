@@ -1,0 +1,34 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.PAW_209mj341_PAWD",
+  "case_key": "2:09mj341_PAWD",
+  "case_lni": "5V0V-37C1-DXDT-G2H5-00000-00",
+  "case_number": "2:09mj341",
+  "case_title": "USA v. 412 224-7915",
+  "case_info_full_case_name": "USA v. 412 224-7915",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "412 224-7915",
+  "case_date_filed": "2009-07-06",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "412 224-7915",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Cathy Bissoon",
+          "judge_guid": "urn:entity:jud-100091821"
+        }
+      ]
+    }
+  ]
+}

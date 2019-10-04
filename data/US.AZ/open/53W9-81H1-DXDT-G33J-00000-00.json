@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_211mj10377_AZD",
+  "case_key": "2:11mj10377_AZD",
+  "case_lni": "53W9-81H1-DXDT-G33J-00000-00",
+  "case_number": "2:11mj10377",
+  "case_title": "USA v. Romero-Rios",
+  "case_info_full_case_name": "USA v. Romero-Rios",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Romero-Rios",
+  "case_date_filed": "2011-10-05",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Fredrick Allen Cocio",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alfredo Romero-Rios",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1326(a)"
+        },
+        {
+          "charge_description": "8:1326(a) Reentry after Removal"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jay R Irwin",
+          "judge_guid": "urn:entity:jud-100033627"
+        }
+      ]
+    }
+  ]
+}

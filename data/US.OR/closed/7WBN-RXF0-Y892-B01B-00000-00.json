@@ -1,0 +1,88 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.OR_395cr431_ord",
+  "case_key": "3:95cr431_ord",
+  "case_lni": "7WBN-RXF0-Y892-B01B-00000-00",
+  "case_number": "3:95cr431",
+  "case_title": "USA v. Tran, et al",
+  "case_info_full_case_name": "USA v. Tran, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tran, et al",
+  "case_date_filed": "1996-09-03",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TIEN VAN TRAN",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (1s)"
+        },
+        {
+          "charge_disposition": "SENTENCED: 6/2/97. COUNT 1: IMPRISONMENT: 364 DAYS. COUNT 2: IMPRISONMENT; 364 DAYS. SENTENCES ON COUNT ONE AND COUNT TWO SHALL BE SERVED CONCURRENTLY. SUPERVISED RELEASE: 5 YEARS. RESTITUTION: $1,500 SHALL BE DISPERSED PROPORTIONATELY ACCORDING TO THE AMOUNT OF EACH VICTIM'S LOSS-SEE JUDGMENT. SPECIAL ASSESSMENT: $50.00. FOR COUNT ONE AND TWO. (1s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (2s)"
+        },
+        {
+          "charge_disposition": "SENTENCED: 6/2/97. COUNT 1: IMPRISONMENT: 364 DAYS. COUNT 2: IMPRISONMENT; 364 DAYS. SENTENCES ON COUNT ONE AND COUNT TWO SHALL BE SERVED CONCURRENTLY. SUPERVISED RELEASE: 5 YEARS. RESTITUTION: $1,500 SHALL BE DISPERSED PROPORTIONATELY ACCORDING TO THE AMOUNT OF EACH VICTIM'S LOSS-SEE JUDGMENT. SPECIAL ASSESSMENT: $50.00. FOR COUNT ONE AND TWO. (2s)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ancer L Haggerty",
+          "judge_guid": "urn:entity:jud-100047643"
+        }
+      ]
+    },
+    {
+      "party_name": "VINH THE VO",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1344"
+        },
+        {
+          "charge_description": "18:1344 BANK FRAUD (1)"
+        },
+        {
+          "charge_disposition": "ORDER TO DISMISS Indictment against Defendant Vinh T. Vo, with prejudice, on the goverment's motion (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Ancer L Haggerty",
+          "judge_guid": "urn:entity:jud-100047643"
+        }
+      ]
+    }
+  ]
+}

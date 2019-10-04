@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAE_194m2287_caed",
+  "case_key": "1:94m2287_caed",
+  "case_lni": "7WBN-F5N0-Y892-B33T-00000-00",
+  "case_number": "1:94m2287",
+  "case_title": "USA v. Phillips",
+  "case_info_full_case_name": "USA v. Phillips",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Phillips",
+  "case_date_filed": "1994-07-21",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "PATRICK LEE PHILLIPS",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1 36CFR4.23(a)(1) 2 36CFR4.14(b) 3 36CFR4.2(b)/4000a"
+        },
+        {
+          "charge_description": "COUNT 1 36CFR 4.23(a)(1) DRIVE UNDER INFLUENCE OF ALCOHOL COUNT 2 36 CFR 4.14(b) POSSESS OR STORE AN OPEN CONTINER OF ALCOHOL IN A MOTOR VEHICLE COUNT 3 36CFR 4.2(b)/4000a VC OPERATE A MOTOR VEHICLE NOT CURRENTLY REGISTERED"
+        },
+        {
+          "charge_disposition": "Sentence to counts 1 and 2; count 1 is $600 fine and $10 penalty assessment and count 2 is $50.00 and $10 penalty assessment (-1)"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Dennis L Beck",
+          "judge_guid": "urn:entity:jud-100061970"
+        }
+      ]
+    }
+  ]
+}

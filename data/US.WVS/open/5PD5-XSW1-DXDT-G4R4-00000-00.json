@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVS_517po146_WVSD",
+  "case_key": "5:17po146_WVSD",
+  "case_lni": "5PD5-XSW1-DXDT-G4R4-00000-00",
+  "case_number": "5:17po146",
+  "case_title": "United States of America vs May",
+  "case_info_full_case_name": "United States of America vs May",
+  "case_info_short_case_name": "United States of America",
+  "case_info_party1": "United States of America",
+  "case_info_party2": "May",
+  "case_date_filed": "2017-09-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "parties": [
+    {
+      "party_name": "Jennifer May",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Where such fees are charged, the District Commander shall insure that clear noti (6505596)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Omar J. Aboulhosn",
+          "judge_guid": "urn:entity:jud-100100803"
+        }
+      ]
+    },
+    {
+      "party_name": "DOD US ARMY CORP OF ENGINEERS",
+      "party_description": "Interested Party"
+    }
+  ]
+}

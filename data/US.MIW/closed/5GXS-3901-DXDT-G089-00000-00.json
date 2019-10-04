@@ -1,0 +1,59 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MIW_115cr164_MIWD",
+  "case_key": "1:15cr164_MIWD",
+  "case_lni": "5GXS-3901-DXDT-G089-00000-00",
+  "case_number": "1:15cr164",
+  "case_title": "USA v. Heinsen",
+  "case_info_full_case_name": "USA v. Heinsen",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Heinsen",
+  "case_date_filed": "2015-09-15",
+  "case_status": "Closed",
+  "case_status_date": "04/26/2016",
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    },
+    {
+      "attorney_label": "ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "David Carl Heinsen",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "18:2252A(a)(2)(A) and (b)(1), 18:2256(8)(A) ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO; receipt of child pornography(1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to 240 months in custody followed by 10 years supervised release; shall pay $12,000 restitution and $100 special assessment"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:2252A(a)(5)(B) and (b)(2), 18:2256(8)(A) ACTIVITIES RE MATERIAL CONSTITUTING/CONTAINING CHILD PORNO; possession of child pornography(2)"
+        },
+        {
+          "charge_disposition": "Dismissed upon motion by the government"
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Paul L. Maloney",
+          "judge_guid": "urn:entity:jud-100029144"
+        }
+      ]
+    }
+  ]
+}

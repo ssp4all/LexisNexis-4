@@ -1,0 +1,44 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.LAW_518po783_LAWD",
+  "case_key": "5:18po783_LAWD",
+  "case_lni": "5TB6-DM81-DXDT-G20N-00000-00",
+  "case_number": "5:18po783",
+  "case_title": "USA vs Toste",
+  "case_info_full_case_name": "USA vs Toste",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Toste",
+  "case_date_filed": "2018-09-21",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "John S Odom",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Alyssa L Toste",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Simple battery (7017780)(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Petty Offense"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Mark L Hornsby",
+          "judge_guid": "urn:entity:jud-100051199"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.SC_203cr713_scd",
+  "case_key": "2:03cr713_scd",
+  "case_lni": "7WBN-R470-Y892-B3DN-00000-00",
+  "case_number": "2:03cr713",
+  "case_title": "USA v. Thierfelder",
+  "case_info_full_case_name": "USA v. Thierfelder",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thierfelder",
+  "case_date_filed": "2003-07-09",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "BRYAN C THIERFELDER",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841 21USC841(a)(1) 841(b)(1)(D); 21USC846."
+        },
+        {
+          "charge_description": "21:841 CONTROLLED SUBSTANCE-SELL, DISTRIBUTE, OR DISPENSE did possess with intent to distribute and to distribute a quantity of anabolic steroids, a schedule III controlled substance, in violation of Title 21 USC 841(a)(1) and 841(b)(1)(D); all in violation of Title 21 USC 846. (1-2)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:952 21USC952 960(b)(4)"
+        },
+        {
+          "charge_description": "21:952 CONTROLLED SUBSTANCES-IMPORT did knowingly, intentionally and unlawfully import from a place outside the US a quantity of anabolic steroids, a Schedule III controlled substance, in violation of Title 21 USC 952 and 960(b)(4) (3)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge"
+        }
+      ]
+    }
+  ]
+}

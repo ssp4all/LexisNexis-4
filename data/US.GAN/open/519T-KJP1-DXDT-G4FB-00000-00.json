@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.GAN_110mj1556_GAND",
+  "case_key": "1:10mj1556_GAND",
+  "case_lni": "519T-KJP1-DXDT-G4FB-00000-00",
+  "case_number": "1:10mj1556",
+  "case_title": "USA v. Garibo-Carmona",
+  "case_info_full_case_name": "USA v. Garibo-Carmona",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garibo-Carmona",
+  "case_date_filed": "2010-10-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Eduardo Garibo-Carmona",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(5)-UNLAWFUL"
+        },
+        {
+          "charge_description": "18:922(g)(5)-UNLAWFUL TRANSPORT OF FIREARMS"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Alan J. Baverman",
+          "judge_guid": "urn:entity:jud-100062073"
+        }
+      ]
+    }
+  ]
+}

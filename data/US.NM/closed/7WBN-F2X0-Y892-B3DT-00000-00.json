@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_105cr1154_NMD",
+  "case_key": "1:05cr1154_NMD",
+  "case_lni": "7WBN-F2X0-Y892-B3DT-00000-00",
+  "case_number": "1:05cr1154",
+  "case_title": "USA v. DE LA Campa Rangel",
+  "case_info_full_case_name": "USA v. DE LA Campa Rangel",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "DE LA Campa Rangel",
+  "case_date_filed": "2005-05-25",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "Lead Attorney"
+    },
+    {
+      "attorney_label": "Lead Attorney"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Gerardo De La Campa Rangel",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841(a)(1) &; (b)(1)(A),"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(A), Possession With Intent to Distribute More Than 5 Kilograms of A Mixture And Substance Containing A Detectable Amount of Cocaine (1)"
+        },
+        {
+          "charge_disposition": "Sentence Imposed Cbop 120 Mos.; 5 Yrs. Unsupervised Release W/Special Conditions; Spa $100; Deft in Custody. Resentencing: 7/30/09. Sentence Imposed: Cbop 4 Years, 2months And 30 Days or Time Served, Whichever is Less; 3 Years Unsupervised Release; W/Special Conditions; Spa: Already Paid; Defendant Returned to The Usms to be Released."
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21"
+        },
+        {
+          "charge_description": "21 U.S.C.841(A)(1) And (B)(1)(C) Possession With Intent to Distribute Cocaine (1s)"
+        },
+        {
+          "charge_offence_description": "Felony",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841(a)(1) &; (b)(1)(A)"
+        },
+        {
+          "charge_description": "21:841(a)(1) &; (b)(1)(A) Possess With Intent to Distribute Over Five (5) Kilograms of Cocaine [ 1:05 M -261 ]"
+        },
+        {
+          "charge_offence_level": "0"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "James A Parker",
+          "judge_guid": "urn:entity:jud-100028418"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.ILC_411cr40099_ILCD",
+  "case_key": "4:11cr40099_ILCD",
+  "case_lni": "545V-F6K1-DXDT-G0FY-00000-00",
+  "case_number": "4:11cr40099",
+  "case_title": "USA v. Thorpe",
+  "case_info_full_case_name": "USA v. Thorpe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Thorpe",
+  "case_date_filed": "2011-10-19",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "John Eugene Thorpe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:846=ND.F 4/11 7/11 280 21USC846."
+        },
+        {
+          "charge_description": "21:846=ND.F CONSPIRACY TO DISTRIBUTE NARCOTICS From in or about 4/11 and continuing until in or about 7/11 in Rock Island County in the CDIL, Dft did conspire with other persons to knowingly and intentionally distribute and possess with intent to distribute at least 280 grams of crack, a Schedule II controlled substance. In violation of 21 USC 846. (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F 21USC841(a)(1) (b)(1)(C)."
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE On or about [7/20/11] at Rock Island County in the CDIL, Dft did knowingly and intentionally distribute crack cocaine. In violation of 21 USC 841(a)(1) and (b)(1)(C). (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "21:841A=ND.F 28 21USC841(a)(1) (b)(1)(B)."
+        },
+        {
+          "charge_description": "21:841A=ND.F NARCOTICS-SELL, DISTRIBUTE, OR DISPENSE On or about [7/28/11] in Rock Island County in the CDIL, Dft did knowingly and intentionally distribute and possess with intent to distribute at least 28 grams of crack, a Schedule II controlled substance. In violation of 21 USC 841(a)(1) and (b)(1)(B). (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Joe Billy McDade",
+          "judge_guid": "urn:entity:jud-100041021"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "John A. Gorman",
+          "judge_guid": "urn:entity:jud-100042629"
+        }
+      ]
+    }
+  ]
+}

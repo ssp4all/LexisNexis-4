@@ -1,0 +1,62 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXS_602cr104_txsd",
+  "case_key": "6:02cr104_txsd",
+  "case_lni": "7WBN-FXS0-Y892-B1V0-00000-00",
+  "case_number": "6:02cr104",
+  "case_title": "USA v. Garcia",
+  "case_info_full_case_name": "USA v. Garcia",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Garcia",
+  "case_date_filed": "2002-11-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Timothy Hammer",
+      "attorney_label": "[COR LD NTC]"
+    },
+    {
+      "attorney_name": "Pretrial Services - CC",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Marshal - V",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "U S Probation - V",
+      "attorney_label": "[NTC ret]"
+    },
+    {
+      "attorney_name": "Financial Litigation",
+      "attorney_label": "[NTC ret]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2 cocaine-21USC841(a)(1) 841(b)(1)(C). 9, 2001; 20 3"
+        },
+        {
+          "charge_description": "Did knowingly and intentionally distribute approximately 2 grams of cocaine-21 USC 841(a)(1) and 841(b)(1)(C). OFFENSE DATE: May 9, 2001; PENALTY: Not more than 20 years imprisonment, a fine of up to $1,000,000 not more than 3 years SRT, community restitution up to the amount of any fine imposed by the Court, and a $100 Special Assessment. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "John D. Rainey",
+          "judge_guid": "urn:entity:jud-100027752"
+        }
+      ]
+    }
+  ]
+}

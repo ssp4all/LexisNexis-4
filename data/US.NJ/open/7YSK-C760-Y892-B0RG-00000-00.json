@@ -1,0 +1,45 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NJ_210mj3130_NJD",
+  "case_key": "2:10mj3130_NJD",
+  "case_lni": "7YSK-C760-Y892-B0RG-00000-00",
+  "case_number": "2:10mj3130",
+  "case_title": "USA v. Silva et al",
+  "case_info_full_case_name": "USA v. Silva et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Silva et al",
+  "case_date_filed": "2010-06-15",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {},
+    {},
+    {}
+  ],
+  "parties": [
+    {
+      "party_name": "Rogerio Silva",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patty Shwartz",
+          "judge_guid": "urn:entity:jud-100104530"
+        }
+      ]
+    },
+    {
+      "party_name": "Rui Talaia",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Patty Shwartz",
+          "judge_guid": "urn:entity:jud-100104530"
+        }
+      ]
+    }
+  ]
+}

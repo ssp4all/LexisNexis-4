@@ -1,0 +1,88 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.IAN_614cr2033_IAND",
+  "case_key": "6:14cr2033_IAND",
+  "case_lni": "5CPB-WWK1-DXDT-G418-00000-00",
+  "case_number": "6:14cr2033",
+  "case_title": "USA v. Carnes",
+  "case_info_full_case_name": "USA v. Carnes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Carnes",
+  "case_date_filed": "2014-07-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Anthony Morfitt",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "US Probation",
+      "party_description": "Interested Party"
+    },
+    {
+      "party_name": "Ronald Dwaine Carnes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "42:408(a)(4) MISUSE OF SOCIAL SECURITY NUMBER(1-2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "42:408(a)(7)(B) MISUSE OF SOCIAL SECURITY NUMBER(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028A(a)(1) FRAUD WITH IDENTIFICATION DOCUMENTS(4)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "42:408(a)(7)(B) MISUSE OF SOCIAL SECURITY NUMBER(5)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:1028A(a)(1) FRAUD WITH IDENTIFICATION DOCUMENTS(6)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922(g)(1), 922(g)(2) and 924(a)(2) UNLAWFUL TRANSPORT OF FIREARMS, ETC. w/Forfeiture Allegation(7)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Chief Judge",
+          "judge_name": "Linda R Reade",
+          "judge_guid": "urn:entity:jud-100015236"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Jon S Scoles",
+          "judge_guid": "urn:entity:jud-100026665"
+        }
+      ]
+    }
+  ]
+}

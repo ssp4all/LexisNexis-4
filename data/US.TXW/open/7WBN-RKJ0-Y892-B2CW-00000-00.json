@@ -1,0 +1,40 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_300m650_txwd",
+  "case_key": "3:00m650_txwd",
+  "case_lni": "7WBN-RKJ0-Y892-B2CW-00000-00",
+  "case_number": "3:00m650",
+  "case_title": "USA v. Ramirez-Gonzalez",
+  "case_info_full_case_name": "USA v. Ramirez-Gonzalez",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ramirez-Gonzalez",
+  "case_date_filed": "2000-03-01",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "IGNACIO RAMIREZ-GONZALEZ",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "\"Intentionally, forcibly assault, resist, oppose, impede, or interfere with a United States officer while engaging in an official capacity, in violation of 18:111(a)(b)\""
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Michael S. McDonald",
+          "judge_guid": "urn:entity:jud-100070607"
+        }
+      ]
+    }
+  ]
+}

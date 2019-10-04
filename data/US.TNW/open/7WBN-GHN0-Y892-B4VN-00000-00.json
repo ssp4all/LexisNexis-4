@@ -1,0 +1,46 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TNW_200cr20201_tnwd",
+  "case_key": "2:00cr20201_tnwd",
+  "case_lni": "7WBN-GHN0-Y892-B4VN-00000-00",
+  "case_number": "2:00cr20201",
+  "case_title": "USA v. Caupain",
+  "case_info_full_case_name": "USA v. Caupain",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Caupain",
+  "case_date_filed": "2000-10-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kenneth Julius Caupain",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:841A=CD.F CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE [..poss. w/intent to distr approx 6160 dosage units of Ecstasy (3,4-methylenedioxymethamphetamine), a Schedule I controlled substance](1)"
+        },
+        {
+          "charge_disposition": "Dft pleaded guilty to Count 1 of the Indictment. Dft is committed to the custody of the US BOP for 18 months. Court recommends: dft participate in educational programs during the term of his incarceration, dft be referred to INS for deportation proce edings at the conclusion of his term of incarceration. Dft is remanded to the custody of the USM. Supervised Release: 3 yrs, if not deported upon his release from incarceration. S/A: $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Jon Phipps McCalla",
+          "judge_guid": "urn:entity:jud-100032610"
+        }
+      ]
+    }
+  ]
+}

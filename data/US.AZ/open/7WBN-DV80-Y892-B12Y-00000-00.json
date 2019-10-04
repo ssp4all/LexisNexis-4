@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_401m829_azd",
+  "case_key": "4:01m829_azd",
+  "case_lni": "7WBN-DV80-Y892-B12Y-00000-00",
+  "case_number": "4:01m829",
+  "case_title": "USA, et al v. Matius-Casique",
+  "case_info_full_case_name": "USA, et al v. Matius-Casique",
+  "case_info_short_case_name": "USA, et al",
+  "case_info_party1": "USA, et al",
+  "case_info_party2": "Matius-Casique",
+  "case_date_filed": "2001-07-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JOSE MATIUS-CASIQUE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "1-8:1326"
+        },
+        {
+          "charge_description": "Count 1-8:1326 Illegal Re-entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Bernardo P Velasco",
+          "judge_guid": "urn:entity:jud-100010426"
+        }
+      ]
+    }
+  ]
+}

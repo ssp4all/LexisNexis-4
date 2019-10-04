@@ -1,0 +1,57 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_411cr2968_AZD",
+  "case_key": "4:11cr2968_AZD",
+  "case_lni": "53PK-NNR1-DXDT-G3FC-00000-00",
+  "case_number": "4:11cr2968",
+  "case_title": "USA v. Jenner",
+  "case_info_full_case_name": "USA v. Jenner",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jenner",
+  "case_date_filed": "2011-08-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Ronald Allen Jenner",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1708"
+        },
+        {
+          "charge_description": "18:1708 THEFT OR RECEIPT OF STOLEN MAIL MATTER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:1708"
+        },
+        {
+          "charge_description": "18:1708 Bank Fraud"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Cindy K Jorgenson",
+          "judge_guid": "urn:entity:jud-100072520"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Charles R Pyle",
+          "judge_guid": "urn:entity:jud-100072524"
+        }
+      ]
+    }
+  ]
+}

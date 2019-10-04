@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYE_110cr976_NYED",
+  "case_key": "1:10cr976_NYED",
+  "case_lni": "51PC-5X91-DXDT-G3J5-00000-00",
+  "case_number": "1:10cr976",
+  "case_title": "USA v. Tejada-Cano",
+  "case_info_full_case_name": "USA v. Tejada-Cano",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tejada-Cano",
+  "case_date_filed": "2010-12-10",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Jessica Reid",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Carlos Mario Tejada-Cano",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8USC1326-illegal"
+        },
+        {
+          "charge_description": "8 USC 1326-illegal reentry into the US."
+        },
+        {
+          "charge_description": "REENTRY OF DEPORTED ALIENS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Nina Gershon",
+          "judge_guid": "urn:entity:jud-100071608"
+        }
+      ]
+    }
+  ]
+}

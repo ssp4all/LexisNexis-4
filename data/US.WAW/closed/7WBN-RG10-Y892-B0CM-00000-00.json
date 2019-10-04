@@ -1,0 +1,50 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WAW_295cr705_wawd",
+  "case_key": "2:95cr705_wawd",
+  "case_lni": "7WBN-RG10-Y892-B0CM-00000-00",
+  "case_number": "2:95cr705",
+  "case_title": "USA v. Sandoval",
+  "case_info_full_case_name": "USA v. Sandoval",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Sandoval",
+  "case_date_filed": "1995-09-28",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Frank Thomas Katz",
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "THERESE A SANDOVAL",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:7 13-7210.M"
+        },
+        {
+          "charge_description": "18:7 &; 13-7210.M TRAFFIC OFFENSES, DRUNKEN DRIVING (1)"
+        },
+        {
+          "charge_disposition": "1 day jail, $350 fine &; $25 sp asmt w/in 60 days. Dft to report 9:00AM 2/10/96 to Enumclaw Jail to serve sentence. (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Philip K. Sweigert",
+          "judge_guid": "urn:entity:jud-100013193"
+        }
+      ]
+    }
+  ]
+}

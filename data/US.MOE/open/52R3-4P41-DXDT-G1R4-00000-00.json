@@ -1,0 +1,119 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MOE_411cr133_MOED",
+  "case_key": "4:11cr133_MOED",
+  "case_lni": "52R3-4P41-DXDT-G1R4-00000-00",
+  "case_number": "4:11cr133",
+  "case_title": "USA v. Vaughn et al",
+  "case_info_full_case_name": "USA v. Vaughn et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Vaughn et al",
+  "case_date_filed": "2011-04-07",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Spencer T. Vaughn",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSESS PSEUDOEDPHEDRINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE (1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF PSEUDOEDPHEDRINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE (2r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Catherine D. Perry",
+          "judge_guid": "urn:entity:jud-100028090"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frederick R. Buckles",
+          "judge_guid": "urn:entity:jud-100080190"
+        }
+      ]
+    },
+    {
+      "party_name": "Anthoney B. Barton",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSESS PSEUDOEDPHEDRINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE (1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF PSEUDOEDPHEDRINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE (3r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Catherine D. Perry",
+          "judge_guid": "urn:entity:jud-100028090"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frederick R. Buckles",
+          "judge_guid": "urn:entity:jud-100080190"
+        }
+      ]
+    },
+    {
+      "party_name": "Michael J. Fischer",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "CONSPIRACY TO POSSESS PSEUDOEDPHEDRINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE (1r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_description": "POSSESSION OF PSEUDOEDPHEDRINE WITH INTENT TO MANUFACTURE METHAMPHETAMINE (4r)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Honorable",
+          "judge_name": "Catherine D. Perry",
+          "judge_guid": "urn:entity:jud-100028090"
+        },
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Frederick R. Buckles",
+          "judge_guid": "urn:entity:jud-100080190"
+        }
+      ]
+    }
+  ]
+}

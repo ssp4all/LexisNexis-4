@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NM_208cr139_NMD",
+  "case_key": "2:08cr139_NMD",
+  "case_lni": "7WBN-R9J0-Y892-B427-00000-00",
+  "case_number": "2:08cr139",
+  "case_title": "USA v. Arredondo-Sotelo",
+  "case_info_full_case_name": "USA v. Arredondo-Sotelo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Arredondo-Sotelo",
+  "case_date_filed": "2008-01-24",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Miguel Angel Arredondo-Sotelo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:1546(a)"
+        },
+        {
+          "charge_description": "18:1546(a) Fraud and Misuse of Visas/Permits"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "District Judge",
+          "judge_name": "Robert Brack",
+          "judge_guid": "urn:entity:jud-100064521"
+        }
+      ]
+    }
+  ]
+}

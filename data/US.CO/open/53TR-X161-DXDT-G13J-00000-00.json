@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CO_111po40_COD",
+  "case_key": "1:11po40_COD",
+  "case_lni": "53TR-X161-DXDT-G13J-00000-00",
+  "case_number": "1:11po40",
+  "case_title": "USA v. Frigo",
+  "case_info_full_case_name": "USA v. Frigo",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Frigo",
+  "case_date_filed": "2011-09-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Kenneth B Frigo",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "OPERATE A MOTOR VEHICLE UNDER THE INFLUENCE OF ALCOHOL OR DRUGS (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "34/25"
+        },
+        {
+          "charge_description": "SPEEDING 34/25 (2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_description": "OPEN CONTAINER OF ALCOHOL IN VEHICLE (3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "1"
+        },
+        {
+          "charge_statute": "18:13-7220.P 34 25 18:13-7210.P 18:13-7220.P"
+        },
+        {
+          "charge_description": "18:13-7220.P TRAFFIC OFFENSES, OTHER-Speeding 34 in a 25 MPH Zone, 18:13-7210.P TRAFFIC OFFENSES, DRUNKEN DRIVING-Driving While Ability Impaired, 18:13-7220.P TRAFFIC OFFENSES, OTHER-Open Container of Alcohol in Vehicle"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Gudrun J. Rice",
+          "judge_guid": "urn:entity:jud-100017904"
+        }
+      ]
+    }
+  ]
+}

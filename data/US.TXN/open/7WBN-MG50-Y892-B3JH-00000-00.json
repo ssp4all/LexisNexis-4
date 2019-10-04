@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXN_300m123_txnd",
+  "case_key": "3:00m123_txnd",
+  "case_lni": "7WBN-MG50-Y892-B3JH-00000-00",
+  "case_number": "3:00m123",
+  "case_title": "USA v. Blackshire, et al",
+  "case_info_full_case_name": "USA v. Blackshire, et al",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Blackshire, et al",
+  "case_date_filed": "2000-04-26",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "TEMAKA BLACKSHIRE",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to commit credit card fraud, 18 USC 371"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "RENITA GRANT",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to commit credit card fraud, 18 USC 371"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    },
+    {
+      "party_name": "CRISTAL DONALDSON",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "Conspiracy to commit credit card fraud, 18 USC 371"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge"
+        }
+      ]
+    }
+  ]
+}

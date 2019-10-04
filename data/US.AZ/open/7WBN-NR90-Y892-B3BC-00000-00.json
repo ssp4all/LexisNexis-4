@@ -1,0 +1,35 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.AZ_498m2647_azd",
+  "case_key": "4:98m2647_azd",
+  "case_lni": "7WBN-NR90-Y892-B3BC-00000-00",
+  "case_number": "4:98m2647",
+  "case_title": "USA v. Ortiz-Contreras",
+  "case_info_full_case_name": "USA v. Ortiz-Contreras",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Ortiz-Contreras",
+  "case_date_filed": "1998-06-30",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "NONE",
+      "attorney_label": "[NO LABEL]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "JUAN ORTIZ-CONTRERAS",
+      "party_description": "Defendant",
+      "judges": [
+        {
+          "judge_title": "Mag Judge",
+          "judge_name": "Nancy Fiora",
+          "judge_guid": "urn:entity:jud-100014455"
+        }
+      ]
+    }
+  ]
+}

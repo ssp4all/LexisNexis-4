@@ -1,0 +1,61 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.MA_196cr10153_mad",
+  "case_key": "1:96cr10153_mad",
+  "case_lni": "7WBN-K3D0-Y892-B2JF-00000-00",
+  "case_number": "1:96cr10153",
+  "case_title": "USA v. Tibbs",
+  "case_info_full_case_name": "USA v. Tibbs",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Tibbs",
+  "case_date_filed": "1996-06-05",
+  "case_status": "Closed",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) Felon in possession of a firearm and ammunition. (1)"
+        },
+        {
+          "charge_disposition": "The defendant was found guilty on counts 1 &; 2 after a plea of not guilty. The defendant is hereby committed to the custody of the Unites States Bureau of Prisons to be imprisoned for a term of 20 months. Upon release, the defendant shall be on supervised release for a term of 36 months. While on supervised release; the defendant shall not commit another crime; shall not possess a illegal weapon or controoled substance; Standard Conditions of Supervision; $200 Special Assessment. Entered. Case was apppealed and remanded back to the district court to be re-tried. Subsequently the Goverment has dismissed the counts by motion. (1)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922(g)(1)"
+        },
+        {
+          "charge_description": "18:922(g)(1) Felon in possession of ammunition. (2)"
+        },
+        {
+          "charge_disposition": "The defendant was found guilty on counts 1 &; 2 after a plea of not guilty. The defendant is hereby committed to the custody of the Unites States Bureau of Prisons to be imprisoned for a term of 20 months. Upon release, the defendant shall be on supervised release for a term of 36 months. While on supervised release; the defendant shall not commit another crime; shall not possess a illegal weapon or controoled substance; Standard Conditions of Supervision; $200 Special Assessment. Entered. Case was apppealed and remanded back to the district court to be re-tried. Subsequently the Goverment has dismissed the counts by motion. (2)"
+        },
+        {
+          "charge_offence_description": "disposition",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Nancy Gertner",
+          "judge_guid": "urn:entity:jud-100038280"
+        }
+      ]
+    }
+  ]
+}

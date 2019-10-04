@@ -1,0 +1,76 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXE_403cr43_txed",
+  "case_key": "4:03cr43_txed",
+  "case_lni": "7WBN-NBY0-Y892-B2XG-00000-00",
+  "case_number": "4:03cr43",
+  "case_title": "USA v. Pettry",
+  "case_info_full_case_name": "USA v. Pettry",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Pettry",
+  "case_date_filed": "2003-03-13",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "EMORY ALLAN PETTRY",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "21:841A=NP.F"
+        },
+        {
+          "charge_description": "21:841A=NP.F NARCOTICS-POSSESSION (1)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:924C.F"
+        },
+        {
+          "charge_description": "18:924C.F VIOLENT CRIME/DRUGS/MACHINE GUN (2-8)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "18:922G.F"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. (9)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        },
+        {
+          "charge_statute": "26:5841.F"
+        },
+        {
+          "charge_description": "26:5841.F REGISTRATION OF FIREARMS (10)"
+        },
+        {
+          "charge_offence_description": "opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Richard A. Schell",
+          "judge_guid": "urn:entity:jud-100026917"
+        }
+      ]
+    }
+  ]
+}

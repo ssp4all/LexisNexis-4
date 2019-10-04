@@ -1,0 +1,42 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.NYN_812mj419_NYND",
+  "case_key": "8:12mj419_NYND",
+  "case_lni": "56GM-1XD1-DXDT-G2G5-00000-00",
+  "case_number": "8:12mj419",
+  "case_title": "USA v. Zieniuk",
+  "case_info_full_case_name": "USA v. Zieniuk",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Zieniuk",
+  "case_date_filed": "2012-09-03",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Daniel Zieniuk",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "8:1325.P-illegal"
+        },
+        {
+          "charge_description": "8:1325.P-illegal entry"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Magistrate Judge",
+          "judge_name": "Larry A. Kudrle",
+          "judge_guid": "urn:entity:jud-100017769"
+        }
+      ]
+    }
+  ]
+}

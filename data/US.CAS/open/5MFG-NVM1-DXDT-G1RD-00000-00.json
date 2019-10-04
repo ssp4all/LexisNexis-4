@@ -1,0 +1,66 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.CAS_316cr3006_CASD",
+  "case_key": "3:16cr3006_CASD",
+  "case_lni": "5MFG-NVM1-DXDT-G1RD-00000-00",
+  "case_number": "3:16cr3006",
+  "case_title": "USA v. Martinez-Uribe",
+  "case_info_full_case_name": "USA v. Martinez-Uribe",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Martinez-Uribe",
+  "case_date_filed": "2016-12-22",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Eric George Roscoe",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Oscar Martinez-Uribe",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1324(a)(1)(A)(i) - Bringing in Aliens and Aiding and Abetting(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "8:1324(a)(2)(B)(iii) - Bringing in Illegal Aliens without Presentation"
+        },
+        {
+          "charge_offence_description": "8:1324(a)(2)(B)(iii) - Bringing in Illegal Aliens "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Roger T. Benitez",
+          "judge_guid": "urn:entity:jud-100061781"
+        }
+      ]
+    },
+    {
+      "party_name": "Miguel Angel Aguilera-Reyes",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Aron Carbajal-Munoz",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Omar Carbajal-Munoz",
+      "party_description": "Material Witness"
+    },
+    {
+      "party_name": "Victor Delgadillo-Munoz",
+      "party_description": "Material Witness"
+    }
+  ]
+}

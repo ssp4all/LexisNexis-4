@@ -1,0 +1,43 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.WVN_511cr38_WVND",
+  "case_key": "5:11cr38_WVND",
+  "case_lni": "540F-7HS1-DXDT-G0BF-00000-00",
+  "case_number": "5:11cr38",
+  "case_title": "USA v. Burt",
+  "case_info_full_case_name": "USA v. Burt",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Burt",
+  "case_date_filed": "2011-09-23",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Sean D. Burt",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "PRISONER IN CUSTODY OF INSTITUTION OR OFFICER (1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "4"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Senior Judge",
+          "judge_name": "Frederick P. Stamp, Jr",
+          "judge_guid": "urn:entity:jud-100096337"
+        }
+      ]
+    }
+  ]
+}

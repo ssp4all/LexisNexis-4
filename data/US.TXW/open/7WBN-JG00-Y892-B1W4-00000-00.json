@@ -1,0 +1,113 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.TXW_103cr69_txwd",
+  "case_key": "1:03cr69_txwd",
+  "case_lni": "7WBN-JG00-Y892-B1W4-00000-00",
+  "case_number": "1:03cr69",
+  "case_title": "USA v. Jaimes",
+  "case_info_full_case_name": "USA v. Jaimes",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "Jaimes",
+  "case_date_filed": "2003-02-18",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_name": "Michelle Evette Fernald",
+      "attorney_label": "LEAD ATTORNEY;ATTORNEY TO BE NOTICED"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "Amando Gorostieta Jaimes",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "21:846=MP.F CONSPIRACY TO POSSESS MARIJUANA Conspiracy to Possess with Intent to Distribute Marijuana(1)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA - SELL, DISTRIBUTE, OR DISPENSE Possession with Intent to Distribute Marijuana(2)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "18:922G.F UNLAWFUL TRANSPORT OF FIREARMS, ETC. Felon in Possession of a Firearm(3)"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "Possession with intent to distribute 37 pounds of marijuana in violation of Title 21 USC 841 (a) [ 1:03-m -37 ]"
+        },
+        {
+          "charge_offence_description": "Possession with intent to distribute 37 pounds of "
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam Sparks",
+          "judge_guid": "urn:entity:jud-100020424"
+        }
+      ]
+    },
+    {
+      "party_name": "Jesus Cervantes Mendoza",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_description": "8:1326.F REENTRY OF DEPORTED ALIENS(4)"
+        },
+        {
+          "charge_disposition": "Imprisonment 36 months; Supervised release 3 years; Special assessment $100.00"
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:846=MP.F CONSPIRACY TO POSSESS MARIJUANA Conspiracy to Possess with Intent to Distribute Marijuana(1)"
+        },
+        {
+          "charge_disposition": "Counts dismissed on government's motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "21:841A=MD.F MARIJUANA - SELL, DISTRIBUTE, OR DISPENSE Possession with Intent to Distribute Marijuana(2)"
+        },
+        {
+          "charge_disposition": "Counts dismissed on government's motion."
+        },
+        {
+          "charge_offence_description": "Terminated",
+          "charge_offence_level": "Felony"
+        },
+        {
+          "charge_description": "The defendant did possess with intent to distribute 37 pounds of marijuana in violation of Title 21 USC 841(A). [ 1:03-m -39 ]"
+        },
+        {
+          "charge_offence_description": "The defendant did possess with intent to distribut"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Sam Sparks",
+          "judge_guid": "urn:entity:jud-100020424"
+        }
+      ]
+    }
+  ]
+}

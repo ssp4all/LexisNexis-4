@@ -1,0 +1,49 @@
+{
+  "case_docket_label": "US District Court Criminal Docket",
+  "case_file_name": "US.DIS.DC_106cr191_DCD",
+  "case_key": "1:06cr191_DCD",
+  "case_lni": "7WBN-PPT0-Y892-B08M-00000-00",
+  "case_number": "1:06cr191",
+  "case_title": "USA v. BERGLUND",
+  "case_info_full_case_name": "USA v. BERGLUND",
+  "case_info_short_case_name": "USA",
+  "case_info_party1": "USA",
+  "case_info_party2": "BERGLUND",
+  "case_date_filed": "2006-06-29",
+  "case_status": "Open",
+  "case_status_date": null,
+  "case_type_description": "Criminal",
+  "attorneys": [
+    {
+      "attorney_label": "[COR LD NTC]"
+    }
+  ],
+  "parties": [
+    {
+      "party_name": "RICHARD A. BERGLUND",
+      "party_description": "Defendant",
+      "charges": [
+        {
+          "charge_statute": "2:441f 437g(d)(1)(A)(ii); 2:441;"
+        },
+        {
+          "charge_description": "2:441f and 437g(d)(1)(A)(ii); PENALTIES ILLEGAL CAMPAIGN CONTRIBUTIONS 2:441; Unlawfully Making Campaign Contributions in the Name of Another. (1)"
+        },
+        {
+          "charge_disposition": "Defendant sentenced to a term of One (1) Year Probation with conditions. Fine of $2,500.00 imposed, which shall be due immediately and shall be paid to the Clerk of the Court for the United States District Court, Middle Districdt of Florida. Supervision and jurisdiction will be transferred to district in which the defendant reside, the Middle District of Florida. Special Assessment of $25.00 which has already been paid to the Clerk of the Court for the U.S. District Court, District of Columbia. (3/28/07)-TRANSFERRED TO THE UNITED STATES DISTRICT COURT FOR THE MIDDLE DISTRICT OF FLORIDA, IN TAMPA."
+        },
+        {
+          "charge_offence_description": "Opening",
+          "charge_offence_level": "3"
+        }
+      ],
+      "judges": [
+        {
+          "judge_title": "Judge",
+          "judge_name": "Ricardo M. Urbina",
+          "judge_guid": "urn:entity:jud-100124492"
+        }
+      ]
+    }
+  ]
+}
