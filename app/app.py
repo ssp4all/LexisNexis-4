@@ -24,7 +24,7 @@ def compar(state, crime):
                         sp = eachid[1]
                         return sp
         
-    return None
+    return ""
 
 @app.route("/")
 def index():
@@ -37,7 +37,8 @@ def fetch():
     crime = request.form['crime']
     state = request.form['state']
     ans = compar(state, crime)
-    
+    if ans == "":
+        return "Not Found"
     
     return ans
     # print(crime, state)
