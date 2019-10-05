@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>LexisNexis #4</title>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+	<!-- <button type="button" class="btn btn-primary">Primary</button> -->
+
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="#">
+			<h1><b>LexisNexis #4</b></h1>
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+			aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav mr-auto">
+				<li class="nav-item active">
+					<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Link</a>
+				</li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Dropdown
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						<a class="dropdown-item" href="#">Action</a>
+						<a class="dropdown-item" href="#">Another action</a>
+						<div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="#">Something else here</a>
+					</div>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link disabled" href="#">Disabled</a>
+				</li>
+			</ul>
+			<form class="form-inline my-2 my-lg-0">
+				<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+				<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+			</form>
+		</div>
+	</nav>
+
+
+
+	<main role="main" class="container">
+		<!-- {% for post in posts %}
+			<p>{{ post.Crime }}</p>
+			<p>{{ post.State }}</p>
+		{% endfor %} -->
+		<br>
+
+		<form method="POST">
+
+			<!-- <div class="row ">
+				<div class="form-group col-6">
+					<input type="text" class="form-control" name="crime" placeholder="Enter Crime" required>
+				</div>
+			</div> -->
+
+			<div class="row ">
+				<div class="form-group col-6">
+					<input type="text" class="form-control" name="state" placeholder="Enter State" required>
+				</div>
+			</div>
+
+			<div class="row">
+				<select name="crime" required>
+					<option value="26:5861">26:5861: Taxes in MACHINE GUNS, DESTRUCTIVE DEVICES, AND CERTAIN OTHER
+						FIREARMS</option>
+					<option value="8:1324">8:1324: Immigration</option>
+					<option value="21:841">21:841: Drug control and enforcement Prohibited</option>
+					<option value="21:846">21:846: Drug control and Attempt and conspiracy</option>
+					<option value="18:924">18:924: Criminal Firearms penalty</option>
+					<option value="47:223">47:223: Telecommunications COMMON CARRIERS</option>
+					<option value="18:1341">18:1341: Criminal MAIL FRAUD AND OTHER FRAUD OFFENSES</option>
+					<option value="18:152">18:152: Criminal Bankruptcy</option>
+					<option value="18:1956">18:1956: Criminal RACKETEERING</option>
+					<option value="18:115">18:115: Criminal Influencing, impeding, or retaliating against a Federal
+						official by threatening or injuring a family member</option>
+					<option value="16:1372">16:1372: Laundering of monetary instruments</option>
+					<option value="18:1957">18:1957: Criminal Engaging in monetary transactions in property derived from
+						specified unlawful activity</option>
+					<option value="18:117">18:117: Criminal Domestic assault by an habitual offender", "18:111":
+						"Criminal Assaulting, resisting, or impeding certain officers or employees</option>
+					<option value="18:922">18:922: Criminal Firearms Unlawful acts",
+					<option value="18:657">18:657: Criminal Lending, credit and insurance institutions</option>
+					<option value="18:1711">18:1711: Misappropriation of postal funds</option>
+					<option value="18:371">18:371: Criminal conspiracy</option>
+					<option value="18:1343">18:1343: Criminal Mail Fraud</option>
+				</select>
+			</div>
+			<br>
+			<div class="row ">
+				<div class="col-1"></div>
+				<button type="submit" class="btn btn-primary col-3">Submit</button>
+			</div>
+		</form>
+	</main>
+
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+		integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+		crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+		integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+		crossorigin="anonymous"></script>
+</body>
+
+</html>
