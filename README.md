@@ -10,10 +10,8 @@ Based on the user input the output would be the states sentencing for a given cr
 
 ### Images:
 
-![Output](static/output.PNG)
 
 ![Data](static/data.PNG)
 
 ![Json](static/json.PNG)
 
-![Home](static/Home.PNG)
